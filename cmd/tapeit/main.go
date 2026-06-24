@@ -297,6 +297,7 @@ func cmdPush(ctx context.Context, args []string) error {
 	fs := flag.NewFlagSet("push", flag.ContinueOnError)
 	dryRun := fs.Bool("dry-run", false, "report what would be pushed without writing")
 	completeOnly := fs.Bool("complete-only", false, "push only playlists whose tracks are all matched")
+	maxMissing := fs.Int("max-missing", -1, "push only playlists missing at most N tracks (-1 = no limit)")
 	if err := fs.Parse(args); err != nil {
 		return err
 	}
@@ -315,10 +316,14 @@ func cmdPush(ctx context.Context, args []string) error {
 	}
 	resolved := resolvedIndex(m.Matches)
 
+	limit := *maxMissing
 	if *completeOnly {
+		limit = 0
+	}
+	if limit >= 0 {
 		all := playlists
-		playlists = completePlaylists(all, resolved)
-		fmt.Printf("complete-only: %d of %d playlists fully matched\n", len(playlists), len(all))
+		playlists = withinMissing(all, resolved, limit)
+		fmt.Printf("filter: %d of %d playlists missing ≤%d tracks\n", len(playlists), len(all), limit)
 	}
 
 	if *dryRun {
@@ -388,18 +393,17 @@ func uniqueNames(pls []domain.Playlist) []domain.Playlist {
 	return out
 }
 
-// completePlaylists returns only playlists whose every track is matched.
-func completePlaylists(pls []domain.Playlist, resolved map[string]string) []domain.Playlist {
+// withinMissing returns playlists with at most limit unmatched tracks.
+func withinMissing(pls []domain.Playlist, resolved map[string]string, limit int) []domain.Playlist {
 	var out []domain.Playlist
 	for _, p := range pls {
-		complete := true
+		missing := 0
 		for _, t := range p.Tracks {
 			if resolved[matching.Key(t)] == "" {
-				complete = false
-				break
+				missing++
 			}
 		}
-		if complete {
+		if missing <= limit {
 			out = append(out, p)
 		}
 	}
