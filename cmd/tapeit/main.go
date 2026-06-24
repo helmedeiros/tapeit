@@ -9,6 +9,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
+	"io"
 	"os"
 	"os/signal"
 	"strings"
@@ -20,6 +21,7 @@ import (
 	"github.com/helmedeiros/tapeit/internal/pusher"
 	"github.com/helmedeiros/tapeit/internal/snapshot"
 	"github.com/helmedeiros/tapeit/internal/spotify"
+	"github.com/helmedeiros/tapeit/internal/tracklist"
 )
 
 // version is overridden at build time via -ldflags.
@@ -49,6 +51,8 @@ func run(ctx context.Context, args []string) error {
 		return cmdMatch(ctx, args[1:])
 	case "push":
 		return cmdPush(ctx, args[1:])
+	case "create":
+		return cmdCreate(ctx, args[1:])
 	case "report":
 		return cmdReport(args[1:])
 	case "version", "--version":
@@ -73,6 +77,7 @@ Usage:
   tapeit match  [--out F]                 Resolve tracks to Apple catalog ids
   tapeit report                           Show match summary
   tapeit push   [--dry-run]               Create playlists in Apple Music
+  tapeit create --name N [--from FILE]    Build a playlist from a song list
   tapeit version
 
 Spotify redirect URI to register: ` + spotify.RedirectURI + `
@@ -352,6 +357,76 @@ func cmdPush(ctx context.Context, args []string) error {
 		return err
 	}
 	fmt.Println("\n✓ Push complete.")
+	return nil
+}
+
+// --- create (from a hand-supplied song list) ---
+
+func cmdCreate(ctx context.Context, args []string) error {
+	fs := flag.NewFlagSet("create", flag.ContinueOnError)
+	name := fs.String("name", "", "playlist name to create (required)")
+	from := fs.String("from", "", "file with one 'Title - Artist' per line (default: stdin)")
+	dryRun := fs.Bool("dry-run", false, "match and report without creating the playlist")
+	adopt := fs.Bool("adopt", false, "fill an existing playlist of this name instead of skipping it")
+	if err := fs.Parse(args); err != nil {
+		return err
+	}
+	if strings.TrimSpace(*name) == "" {
+		return fmt.Errorf("missing --name")
+	}
+
+	var r io.Reader = os.Stdin
+	if *from != "" {
+		f, err := os.Open(*from)
+		if err != nil {
+			return err
+		}
+		defer func() { _ = f.Close() }()
+		r = f
+	}
+	tracks, err := tracklist.Parse(r)
+	if err != nil {
+		return err
+	}
+	if len(tracks) == 0 {
+		return fmt.Errorf("no tracks read (provide --from FILE or pipe a list on stdin)")
+	}
+
+	creds, err := loadAppleCreds()
+	if err != nil {
+		return fmt.Errorf("%w (run `tapeit auth apple` first)", err)
+	}
+	if err := creds.Validate(); err != nil {
+		return err
+	}
+
+	fmt.Printf("matching %d tracks for %q…\n", len(tracks), *name)
+	svc := matching.New(apple.NewClient(creds), func(s string) { fmt.Println(s) })
+	matches, err := svc.Match(ctx, tracks)
+	if err != nil {
+		return err
+	}
+	resolved := resolvedIndex(matches)
+	summarize(matches)
+
+	if *dryRun {
+		fmt.Printf("\ndry-run: would create %q with %d matched tracks\n", *name, len(resolved))
+		return nil
+	}
+	if err := creds.ValidateForWrite(); err != nil {
+		return err
+	}
+
+	state, err := loadPushState()
+	if err != nil {
+		return err
+	}
+	playlists := uniqueNames([]domain.Playlist{{Name: *name, Tracks: tracks, Kind: domain.Owned}})
+	pushSvc := pusher.New(apple.NewClient(creds), func(s string) { fmt.Println(s) })
+	if err := pushSvc.Push(ctx, playlists, resolved, state, pusher.Options{Adopt: *adopt}, savePushState); err != nil {
+		return err
+	}
+	fmt.Println("\n✓ Created.")
 	return nil
 }
 
