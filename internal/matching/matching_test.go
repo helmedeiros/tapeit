@@ -48,6 +48,46 @@ func TestPickBest_ClosestDuration(t *testing.T) {
 	}
 }
 
+func TestCleanTitle(t *testing.T) {
+	cases := map[string]string{
+		"Rebel Rebel - 2016 Remaster":        "Rebel Rebel",
+		"I Sat By The Ocean (Live Acoustic)": "I Sat By The Ocean",
+		"Plain Title":                        "Plain Title",
+		"Daisy - Spotify Singles":            "Daisy",
+	}
+	for in, want := range cases {
+		if got := cleanTitle(in); got != want {
+			t.Errorf("cleanTitle(%q) = %q, want %q", in, got, want)
+		}
+	}
+}
+
+func TestTitleScore(t *testing.T) {
+	if titleScore("Song", "Song") != 1.0 {
+		t.Error("exact title should score 1.0")
+	}
+	if titleScore("Rebel Rebel - 2016 Remaster", "Rebel Rebel") != 0.95 {
+		t.Error("suffix-stripped title should score 0.95")
+	}
+	if titleScore("Totally Different", "Nope") != 0.0 {
+		t.Error("unrelated title should score 0.0")
+	}
+}
+
+func TestSuffixedSearchMatch(t *testing.T) {
+	fc := fakeCatalog{search: []domain.CatalogSong{
+		{ID: "remaster-hit", Title: "Rebel Rebel", Artist: "David Bowie", DurationMS: 270000},
+	}}
+	track := domain.Track{Title: "Rebel Rebel - 2016 Remaster", Artists: []string{"David Bowie"}, DurationMS: 270500}
+	got, err := matchAll(fc, []domain.Track{track})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if !got[0].Matched() || got[0].AppleID != "remaster-hit" {
+		t.Errorf("expected suffixed title to match base recording, got %+v", got[0])
+	}
+}
+
 func TestPickScored(t *testing.T) {
 	track := domain.Track{Title: "Song Name", Artists: []string{"Artist"}, DurationMS: 200000}
 	good := domain.CatalogSong{ID: "g", Title: "Song Name", Artist: "Artist", DurationMS: 200500}

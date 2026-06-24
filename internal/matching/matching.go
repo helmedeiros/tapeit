@@ -120,7 +120,9 @@ func sleepCtx(ctx context.Context, d time.Duration) error {
 }
 
 func (s *Service) searchMatch(ctx context.Context, t domain.Track) (domain.Match, error) {
-	term := strings.TrimSpace(t.Title)
+	// Search on the base title (without "- 2016 Remaster", "(Live)", etc.) so a
+	// version-suffixed Spotify title can still find the recording on Apple.
+	term := cleanTitle(t.Title)
 	if len(t.Artists) > 0 {
 		term += " " + t.Artists[0]
 	}
@@ -171,7 +173,7 @@ func pickScored(t domain.Track, cands []domain.CatalogSong) (domain.CatalogSong,
 
 // score rates a candidate in [0,1] on title, artist, and duration closeness.
 func score(t domain.Track, c domain.CatalogSong) float64 {
-	title := equalNorm(t.Title, c.Title)
+	title := titleScore(t.Title, c.Title)
 	artist := 0.0
 	if len(t.Artists) > 0 {
 		artist = containsNorm(c.Artist, t.Artists[0])
@@ -219,11 +221,32 @@ func Normalize(s string) string {
 	return strings.TrimSpace(b.String())
 }
 
-func equalNorm(a, b string) float64 {
-	if Normalize(a) == Normalize(b) {
-		return 1.0
+// cleanTitle drops version qualifiers Spotify appends: a " - …" suffix
+// (remaster, live, single version, …) and a trailing "(…)" parenthetical.
+func cleanTitle(title string) string {
+	if i := strings.Index(title, " - "); i > 0 {
+		title = title[:i]
 	}
-	return 0.0
+	if i := strings.LastIndex(title, " ("); i > 0 && strings.HasSuffix(title, ")") {
+		title = title[:i]
+	}
+	return strings.TrimSpace(title)
+}
+
+// titleScore tolerates version suffixes: exact match scores 1.0, a match after
+// stripping the source's qualifier scores 0.95, and a prefix relationship 0.8.
+func titleScore(source, candidate string) float64 {
+	ns, nc := Normalize(source), Normalize(candidate)
+	switch {
+	case ns == nc:
+		return 1.0
+	case Normalize(cleanTitle(source)) == nc:
+		return 0.95
+	case nc != "" && (strings.HasPrefix(ns, nc) || strings.HasPrefix(nc, ns)):
+		return 0.8
+	default:
+		return 0.0
+	}
 }
 
 func containsNorm(haystack, needle string) float64 {
