@@ -30,6 +30,15 @@ func AppPath() (string, error) { return inDir("app.json") }
 // SnapshotPath is the default path for the pulled library snapshot.
 func SnapshotPath() (string, error) { return inDir("snapshot.json") }
 
+// AppleCredsPath is where the extracted Apple Music tokens are persisted.
+func AppleCredsPath() (string, error) { return inDir("apple_creds.json") }
+
+// MatchesPath is where catalog match results are persisted.
+func MatchesPath() (string, error) { return inDir("matches.json") }
+
+// PushStatePath tracks push progress for idempotent re-runs.
+func PushStatePath() (string, error) { return inDir("push_state.json") }
+
 func inDir(name string) (string, error) {
 	dir, err := Dir()
 	if err != nil {
