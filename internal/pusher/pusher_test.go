@@ -12,11 +12,12 @@ type fakeLibrary struct {
 	existing map[string]string
 	created  []string
 	added    map[string][]string
+	refs     map[string][]domain.TrackRef
 	nextID   int
 }
 
 func newFakeLibrary() *fakeLibrary {
-	return &fakeLibrary{existing: map[string]string{}, added: map[string][]string{}}
+	return &fakeLibrary{existing: map[string]string{}, added: map[string][]string{}, refs: map[string][]domain.TrackRef{}}
 }
 
 func (f *fakeLibrary) ExistingPlaylists(context.Context) (map[string]string, error) {
@@ -28,6 +29,11 @@ func (f *fakeLibrary) CreatePlaylist(_ context.Context, name, _ string) (string,
 	id := "pl-" + name
 	f.created = append(f.created, name)
 	return id, nil
+}
+
+// refs simulates the title+artist already present in a library playlist.
+func (f *fakeLibrary) PlaylistTrackRefs(_ context.Context, playlistID string) ([]domain.TrackRef, error) {
+	return f.refs[playlistID], nil
 }
 
 func (f *fakeLibrary) AddTracks(_ context.Context, playlistID string, songIDs []string) error {
@@ -168,5 +174,28 @@ func TestPush_SkipsUntrackedExisting(t *testing.T) {
 	}
 	if len(lib.added["pl-manual"]) != 1 {
 		t.Errorf("adopt should add to existing playlist, got %v", lib.added["pl-manual"])
+	}
+}
+
+func TestPush_AdoptDiffMerge(t *testing.T) {
+	lib := newFakeLibrary()
+	lib.existing["Mix"] = "pl-mix"
+	// The user already added "Song A" by hand.
+	lib.refs["pl-mix"] = []domain.TrackRef{{Title: "Song A", Artist: "Artist X"}}
+
+	a := domain.Track{Title: "Song A", Artists: []string{"Artist X"}, ISRC: "I1"}
+	b := domain.Track{Title: "Song B", Artists: []string{"Artist Y"}, ISRC: "I2"}
+	playlists := []domain.Playlist{{Name: "Mix", Tracks: []domain.Track{a, b}}}
+	resolved := map[string]string{
+		matching.Key(a): "song-a",
+		matching.Key(b): "song-b",
+	}
+
+	if err := New(lib, nil).Push(context.Background(), playlists, resolved, NewState(), Options{Adopt: true}, func(*PushState) error { return nil }); err != nil {
+		t.Fatal(err)
+	}
+	// Song A already present by title+artist -> only Song B is added.
+	if got := lib.added["pl-mix"]; len(got) != 1 || got[0] != "song-b" {
+		t.Errorf("adopt diff: added=%v, want [song-b] (A already present)", got)
 	}
 }

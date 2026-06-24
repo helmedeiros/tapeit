@@ -6,6 +6,7 @@ package pusher
 import (
 	"context"
 	"fmt"
+	"strings"
 
 	"github.com/helmedeiros/tapeit/internal/domain"
 	"github.com/helmedeiros/tapeit/internal/matching"
@@ -19,6 +20,10 @@ type PlaylistState struct {
 	AppleID  string   `json:"apple_id"`
 	AddedIDs []string `json:"added_ids"`
 	Done     bool     `json:"done"`
+	// Adopted marks a playlist that already existed (the user made it by hand).
+	// Such playlists are reconciled by diffing their actual contents on title+
+	// artist, since tapeit did not add the user's own tracks.
+	Adopted bool `json:"adopted,omitempty"`
 }
 
 // PushState is the full, persistable push progress keyed by playlist name.
@@ -90,6 +95,7 @@ func (s *Service) Push(ctx context.Context, playlists []domain.Playlist, resolve
 					continue
 				}
 				st.AppleID = id
+				st.Adopted = true
 			} else {
 				id, err := s.lib.CreatePlaylist(ctx, p.Name, p.Description)
 				if err != nil {
@@ -102,10 +108,23 @@ func (s *Service) Push(ctx context.Context, playlists []domain.Playlist, resolve
 			}
 		}
 
-		toAdd, ordered := reconcile(st.AddedIDs, desired)
-		if !ordered {
-			s.report("⚠ %q diverges from recorded order; appending %d track(s) at end", trunc(p.Name, 40), len(toAdd))
+		var toAdd []string
+		if st.Adopted {
+			// Diff against the playlist's actual contents (by title+artist) and
+			// add only the matched source tracks that aren't already there.
+			refs, err := s.lib.PlaylistTrackRefs(ctx, st.AppleID)
+			if err != nil {
+				return fmt.Errorf("read %q: %w", p.Name, err)
+			}
+			toAdd = missingFromLibrary(p.Tracks, resolved, refs)
+		} else {
+			var ordered bool
+			toAdd, ordered = reconcile(st.AddedIDs, desired)
+			if !ordered {
+				s.report("⚠ %q diverges from recorded order; appending %d track(s) at end", trunc(p.Name, 40), len(toAdd))
+			}
 		}
+
 		if len(toAdd) > 0 {
 			if err := s.lib.AddTracks(ctx, st.AppleID, toAdd); err != nil {
 				return fmt.Errorf("add tracks to %q: %w", p.Name, err)
@@ -116,9 +135,48 @@ func (s *Service) Push(ctx context.Context, playlists []domain.Playlist, resolve
 		if err := save(state); err != nil {
 			return err
 		}
-		s.report("✓ %-40s %d had +%d added (%d desired)", trunc(p.Name, 40), len(st.AddedIDs)-len(toAdd), len(toAdd), len(desired))
+		verb := "had"
+		if st.Adopted {
+			verb = "adopt: kept"
+		}
+		s.report("✓ %-40s %s, +%d added (%d desired)", trunc(p.Name, 40), verb, len(toAdd), len(desired))
 	}
 	return nil
+}
+
+// missingFromLibrary returns the catalog ids of source tracks that are matched
+// but not already present in the library playlist (compared by normalized
+// title+artist), preserving source order and dropping duplicates.
+func missingFromLibrary(tracks []domain.Track, resolved map[string]string, present []domain.TrackRef) []string {
+	have := make(map[string]struct{}, len(present))
+	for _, r := range present {
+		have[refKey(r.Title, r.Artist)] = struct{}{}
+	}
+	var ids []string
+	seen := make(map[string]struct{})
+	for _, t := range tracks {
+		id := resolved[matching.Key(t)]
+		if id == "" {
+			continue
+		}
+		artist := ""
+		if len(t.Artists) > 0 {
+			artist = strings.Join(t.Artists, " ")
+		}
+		if _, ok := have[refKey(t.Title, artist)]; ok {
+			continue // already in the manual playlist
+		}
+		if _, dup := seen[id]; dup {
+			continue
+		}
+		seen[id] = struct{}{}
+		ids = append(ids, id)
+	}
+	return ids
+}
+
+func refKey(title, artist string) string {
+	return matching.Normalize(title) + "|" + matching.Normalize(artist)
 }
 
 // reconcile compares what is already in the playlist with the desired ordered

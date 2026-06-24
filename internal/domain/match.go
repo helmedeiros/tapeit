@@ -59,17 +59,28 @@ type CatalogPort interface {
 	SearchSongs(ctx context.Context, term string, limit int) ([]CatalogSong, error)
 }
 
-// LibraryPort writes to the user's target library.
+// TrackRef is a lightweight identity for a track already in the library, used
+// to diff a playlist by title+artist. (Catalog ids are NOT used for this:
+// Apple frequently omits playParams.catalogId on read-back, but name/artistName
+// are reliable.)
+type TrackRef struct {
+	Title  string
+	Artist string
+}
+
+// LibraryPort reads and writes the user's target library.
 //
-// Note: Apple's library API does not reliably echo back the catalog id of an
-// added track (playParams.catalogId is frequently absent), so idempotency is
-// tracked from what tapeIt records it has added, not by reading the library
-// back. Hence there is no read-tracks method here.
+// Idempotency for tapeIt-created playlists is tracked from what tapeIt records
+// it has added (catalog ids are unreliable on read-back). For *adopting* a
+// playlist the user built by hand, PlaylistTrackRefs reads the existing tracks
+// by the reliable title+artist so only the genuinely missing ones are added.
 type LibraryPort interface {
 	// ExistingPlaylists returns a name->id map of the user's library playlists.
 	ExistingPlaylists(ctx context.Context) (map[string]string, error)
 	// CreatePlaylist creates an empty library playlist and returns its id.
 	CreatePlaylist(ctx context.Context, name, description string) (string, error)
+	// PlaylistTrackRefs returns the title+artist of each track in a playlist.
+	PlaylistTrackRefs(ctx context.Context, playlistID string) ([]TrackRef, error)
 	// AddTracks appends catalog songs (by id) to a library playlist.
 	AddTracks(ctx context.Context, playlistID string, songIDs []string) error
 }
