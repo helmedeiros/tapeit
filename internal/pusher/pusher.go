@@ -116,7 +116,7 @@ func (s *Service) Push(ctx context.Context, playlists []domain.Playlist, resolve
 			if err != nil {
 				return fmt.Errorf("read %q: %w", p.Name, err)
 			}
-			toAdd = missingFromLibrary(p.Tracks, resolved, refs)
+			toAdd = missingFromLibrary(p.Tracks, resolved, refs, st.AddedIDs)
 		} else {
 			var ordered bool
 			toAdd, ordered = reconcile(st.AddedIDs, desired)
@@ -145,12 +145,20 @@ func (s *Service) Push(ctx context.Context, playlists []domain.Playlist, resolve
 }
 
 // missingFromLibrary returns the catalog ids of source tracks that are matched
-// but not already present in the library playlist (compared by normalized
-// title+artist), preserving source order and dropping duplicates.
-func missingFromLibrary(tracks []domain.Track, resolved map[string]string, present []domain.TrackRef) []string {
+// but not already in the playlist, preserving source order and dropping
+// duplicates. A track counts as present if either tapeIt already added its
+// catalog id (alreadyAdded — reliable, keeps re-runs idempotent even when
+// Apple renders a track's title differently than the source) or its normalized
+// title+artist is in the library (present — covers tracks the user added by
+// hand, which have no recorded id).
+func missingFromLibrary(tracks []domain.Track, resolved map[string]string, present []domain.TrackRef, alreadyAdded []string) []string {
 	have := make(map[string]struct{}, len(present))
 	for _, r := range present {
 		have[refKey(r.Title, r.Artist)] = struct{}{}
+	}
+	addedSet := make(map[string]struct{}, len(alreadyAdded))
+	for _, id := range alreadyAdded {
+		addedSet[id] = struct{}{}
 	}
 	var ids []string
 	seen := make(map[string]struct{})
@@ -159,12 +167,15 @@ func missingFromLibrary(tracks []domain.Track, resolved map[string]string, prese
 		if id == "" {
 			continue
 		}
+		if _, ok := addedSet[id]; ok {
+			continue // tapeIt already added this one
+		}
 		artist := ""
 		if len(t.Artists) > 0 {
 			artist = strings.Join(t.Artists, " ")
 		}
 		if _, ok := have[refKey(t.Title, artist)]; ok {
-			continue // already in the manual playlist
+			continue // already in the playlist (e.g. added by hand)
 		}
 		if _, dup := seen[id]; dup {
 			continue

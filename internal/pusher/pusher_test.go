@@ -191,11 +191,22 @@ func TestPush_AdoptDiffMerge(t *testing.T) {
 		matching.Key(b): "song-b",
 	}
 
-	if err := New(lib, nil).Push(context.Background(), playlists, resolved, NewState(), Options{Adopt: true}, func(*PushState) error { return nil }); err != nil {
+	state := NewState()
+	noop := func(*PushState) error { return nil }
+	svc := New(lib, nil)
+	if err := svc.Push(context.Background(), playlists, resolved, state, Options{Adopt: true}, noop); err != nil {
 		t.Fatal(err)
 	}
 	// Song A already present by title+artist -> only Song B is added.
 	if got := lib.added["pl-mix"]; len(got) != 1 || got[0] != "song-b" {
 		t.Errorf("adopt diff: added=%v, want [song-b] (A already present)", got)
+	}
+	// Re-run must be idempotent even though the fake's refs don't include B:
+	// B's id is in AddedIDs, so it is not re-added.
+	if err := svc.Push(context.Background(), playlists, resolved, state, Options{Adopt: true}, noop); err != nil {
+		t.Fatal(err)
+	}
+	if got := lib.added["pl-mix"]; len(got) != 1 {
+		t.Errorf("adopt re-run not idempotent: added=%v, want still [song-b]", got)
 	}
 }
