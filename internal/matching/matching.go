@@ -26,6 +26,11 @@ const durationToleranceMS = 2500
 // aggressively than ISRC lookups.
 const searchThrottle = 250 * time.Millisecond
 
+// maxConsecutiveSearchErrors aborts the search pass when this many lookups fail
+// back-to-back (Apple is throttling) rather than grinding to an all-unmatched
+// result.
+const maxConsecutiveSearchErrors = 8
+
 // Service turns tracks into matches using a catalog.
 type Service struct {
 	catalog  domain.CatalogPort
@@ -83,8 +88,10 @@ func (s *Service) Match(ctx context.Context, tracks []domain.Track) ([]domain.Ma
 
 	// Pass 2: text-search fallback for everything still unmatched. A failed
 	// search is recorded as unmatched rather than aborting the whole run, so a
-	// transient rate limit can never discard the (expensive) ISRC results.
-	searchErrs := 0
+	// transient rate limit can never discard the (expensive) ISRC results. But
+	// if many searches fail in a row, Apple is throttling us hard — abort fast
+	// instead of grinding and producing an all-unmatched result.
+	searchErrs, consecutive := 0, 0
 	for n, idx := range pending {
 		if err := ctx.Err(); err != nil {
 			return nil, err
@@ -96,7 +103,13 @@ func (s *Service) Match(ctx context.Context, tracks []domain.Track) ([]domain.Ma
 		m, err := s.searchMatch(ctx, t)
 		if err != nil {
 			searchErrs++
+			consecutive++
+			if consecutive >= maxConsecutiveSearchErrors {
+				return nil, fmt.Errorf("aborting: %d searches failed in a row — Apple is rate-limiting search; try again later (%w)", consecutive, err)
+			}
 			m = domain.Match{Track: t, Confidence: domain.ConfNone, Method: domain.MethodNone, Note: "search error: " + err.Error()}
+		} else {
+			consecutive = 0
 		}
 		out[idx] = m
 		if (n+1)%50 == 0 {
