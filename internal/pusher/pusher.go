@@ -54,9 +54,11 @@ func (s *Service) report(format string, args ...any) {
 	}
 }
 
-// Push creates each playlist and adds its matched tracks. resolved maps a
-// track Key (see matching.Key) to a catalog song id. state is updated and
-// persisted via save after each playlist, so a re-run resumes safely.
+// Push reconciles each source playlist into the target library. resolved maps
+// a track Key (see matching.Key) to a catalog song id. For every playlist it
+// finds or creates the target, reads what is already there, and adds only the
+// missing tracks — so re-running never duplicates and fills in gaps. state is
+// persisted via save after each playlist so an interrupted run resumes safely.
 func (s *Service) Push(ctx context.Context, playlists []domain.Playlist, resolved map[string]string, state *PushState, save func(*PushState) error) error {
 	existing, err := s.lib.ExistingPlaylists(ctx)
 	if err != nil {
@@ -65,10 +67,8 @@ func (s *Service) Push(ctx context.Context, playlists []domain.Playlist, resolve
 
 	for _, p := range playlists {
 		st := state.get(p.Name)
-		if st.Done {
-			s.report("skip %q (already done)", p.Name)
-			continue
-		}
+		desired := resolveIDs(p.Tracks, resolved)
+		st.Total = len(desired)
 
 		if st.AppleID == "" {
 			if id, ok := existing[p.Name]; ok {
@@ -85,21 +85,62 @@ func (s *Service) Push(ctx context.Context, playlists []domain.Playlist, resolve
 			}
 		}
 
-		ids := resolveIDs(p.Tracks, resolved)
-		st.Total = len(ids)
-		if st.Added < len(ids) {
-			if err := s.lib.AddTracks(ctx, st.AppleID, ids[st.Added:]); err != nil {
+		current, err := s.lib.PlaylistTracks(ctx, st.AppleID)
+		if err != nil {
+			return fmt.Errorf("read %q: %w", p.Name, err)
+		}
+
+		toAdd, ordered := reconcile(current, desired)
+		if !ordered {
+			s.report("⚠ %q diverges from source order; appending %d missing track(s) at end", trunc(p.Name, 40), len(toAdd))
+		}
+		if len(toAdd) > 0 {
+			if err := s.lib.AddTracks(ctx, st.AppleID, toAdd); err != nil {
 				return fmt.Errorf("add tracks to %q: %w", p.Name, err)
 			}
-			st.Added = len(ids)
 		}
+		st.Added = len(desired)
 		st.Done = true
 		if err := save(state); err != nil {
 			return err
 		}
-		s.report("pushed %-40s %d/%d tracks", trunc(p.Name, 40), st.Added, len(p.Tracks))
+		s.report("✓ %-40s %d present +%d added (%d desired)", trunc(p.Name, 40), len(current), len(toAdd), len(desired))
 	}
 	return nil
+}
+
+// reconcile compares what is already in the playlist with the desired ordered
+// ids and returns the ids to append. When current is a prefix of desired (the
+// normal fresh-create and resume-after-interruption cases) the missing suffix
+// is appended in order, so ordering is preserved. Otherwise the missing ids are
+// still appended (to honor "add what's missing") but order is not guaranteed,
+// and the caller is told via the returned ordered=false.
+func reconcile(current, desired []string) (toAdd []string, ordered bool) {
+	if isPrefix(current, desired) {
+		return desired[len(current):], true
+	}
+	present := make(map[string]struct{}, len(current))
+	for _, id := range current {
+		present[id] = struct{}{}
+	}
+	for _, id := range desired {
+		if _, ok := present[id]; !ok {
+			toAdd = append(toAdd, id)
+		}
+	}
+	return toAdd, false
+}
+
+func isPrefix(prefix, full []string) bool {
+	if len(prefix) > len(full) {
+		return false
+	}
+	for i, id := range prefix {
+		if full[i] != id {
+			return false
+		}
+	}
+	return true
 }
 
 // resolveIDs maps a playlist's tracks to catalog ids, preserving order and

@@ -30,6 +30,10 @@ func (f *fakeLibrary) CreatePlaylist(_ context.Context, name, _ string) (string,
 	return id, nil
 }
 
+func (f *fakeLibrary) PlaylistTracks(_ context.Context, playlistID string) ([]string, error) {
+	return f.added[playlistID], nil
+}
+
 func (f *fakeLibrary) AddTracks(_ context.Context, playlistID string, songIDs []string) error {
 	f.added[playlistID] = append(f.added[playlistID], songIDs...)
 	return nil
@@ -70,6 +74,56 @@ func TestPush_CreatesAndAdds(t *testing.T) {
 	}
 	if saves == 0 {
 		t.Errorf("expected state to be persisted")
+	}
+}
+
+func TestReconcile(t *testing.T) {
+	desired := []string{"a", "b", "c"}
+
+	if add, ok := reconcile(nil, desired); !ok || len(add) != 3 {
+		t.Errorf("empty current: add=%v ok=%v, want all in order", add, ok)
+	}
+	if add, ok := reconcile([]string{"a", "b"}, desired); !ok || len(add) != 1 || add[0] != "c" {
+		t.Errorf("prefix: add=%v ok=%v, want [c] ordered", add, ok)
+	}
+	if add, ok := reconcile(desired, desired); !ok || len(add) != 0 {
+		t.Errorf("equal: add=%v ok=%v, want none", add, ok)
+	}
+	// Divergent: "b" present but not a prefix -> still adds missing, flags order.
+	add, ok := reconcile([]string{"b"}, desired)
+	if ok {
+		t.Errorf("divergent should report ordered=false")
+	}
+	if len(add) != 2 || add[0] != "a" || add[1] != "c" {
+		t.Errorf("divergent add=%v, want [a c]", add)
+	}
+}
+
+func TestPush_AddsMissingInOrder(t *testing.T) {
+	lib := newFakeLibrary()
+	// A playlist already created on a prior run holding the first track only.
+	lib.existing["Mix"] = "pl-Mix"
+	lib.added["pl-Mix"] = []string{"song-a"}
+
+	playlists := []domain.Playlist{{Name: "Mix", Tracks: []domain.Track{
+		track("A", "I1"), track("B", "I2"), track("C", "I3"),
+	}}}
+	resolved := map[string]string{
+		matching.Key(track("A", "I1")): "song-a",
+		matching.Key(track("B", "I2")): "song-b",
+		matching.Key(track("C", "I3")): "song-c",
+	}
+
+	if err := New(lib, nil).Push(context.Background(), playlists, resolved, NewState(), func(*PushState) error { return nil }); err != nil {
+		t.Fatal(err)
+	}
+	if len(lib.created) != 0 {
+		t.Errorf("should reuse existing playlist, not create: %v", lib.created)
+	}
+	got := lib.added["pl-Mix"]
+	want := []string{"song-a", "song-b", "song-c"}
+	if len(got) != 3 || got[0] != want[0] || got[1] != want[1] || got[2] != want[2] {
+		t.Errorf("added = %v, want %v (order preserved)", got, want)
 	}
 }
 

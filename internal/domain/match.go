@@ -59,12 +59,15 @@ type CatalogPort interface {
 	SearchSongs(ctx context.Context, term string, limit int) ([]CatalogSong, error)
 }
 
-// LibraryPort writes to the user's target library.
+// LibraryPort reads and writes the user's target library.
 type LibraryPort interface {
 	// ExistingPlaylists returns a name->id map of the user's library playlists.
 	ExistingPlaylists(ctx context.Context) (map[string]string, error)
 	// CreatePlaylist creates an empty library playlist and returns its id.
 	CreatePlaylist(ctx context.Context, name, description string) (string, error)
+	// PlaylistTracks returns the catalog song ids currently in a library
+	// playlist, in playlist order (empty if the playlist has no tracks).
+	PlaylistTracks(ctx context.Context, playlistID string) ([]string, error)
 	// AddTracks appends catalog songs (by id) to a library playlist.
 	AddTracks(ctx context.Context, playlistID string, songIDs []string) error
 }
