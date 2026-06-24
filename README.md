@@ -7,10 +7,9 @@ library — owned playlists, **followed** playlists, and **Liked Songs** — mat
 each track to the Apple Music catalog, and recreates the playlists in your Apple
 Music library.
 
-> Status: **planning / not yet implemented.** This README and
-> [`docs/DESIGN.md`](docs/DESIGN.md) are the spec. See
-> [`docs/DECISIONS.md`](docs/DECISIONS.md) for the open questions and the
-> verified facts the design rests on.
+> Status: **working end to end** (`pull` → `match` → `push`). See
+> [`docs/DESIGN.md`](docs/DESIGN.md) for architecture and
+> [`docs/DECISIONS.md`](docs/DECISIONS.md) for the verified facts and trade-offs.
 
 ---
 
@@ -81,24 +80,26 @@ The official Apple Music API requires a paid Apple Developer membership
 ## Quickstart (planned UX)
 
 ```bash
-# 1. one-time auth
-tapeit auth spotify          # opens browser, OAuth via PKCE, stores token locally
-tapeit auth apple            # prints DevTools instructions, stores the two tokens
+make build                                          # builds ./bin/tapeit
 
-# 2. pull everything from Spotify into a local snapshot
-tapeit pull --include followed,liked
+# 1. Spotify: authorize and pull everything (owned + followed + Liked Songs)
+./bin/tapeit auth spotify --client-id <CLIENT_ID>   # browser OAuth via PKCE
+./bin/tapeit pull                                   # add --owned-only to skip followed
+
+# 2. Apple: paste the two web-player tokens (run with no args for DevTools steps)
+./bin/tapeit auth apple --dev-token "<DEV_TOKEN>" --user-token "<USER_TOKEN>"
 
 # 3. match against the Apple catalog (writes nothing to Apple yet)
-tapeit match
-tapeit report                # review matches + unmatched before pushing
+./bin/tapeit match
+./bin/tapeit report                                 # review matched/unmatched
 
 # 4. recreate the playlists in Apple Music
-tapeit push                  # idempotent — safe to re-run
-tapeit report --final
+./bin/tapeit push --dry-run                          # preview
+./bin/tapeit push                                    # idempotent — safe to re-run
 ```
 
-State lives in `~/.config/tapeit/` (config + tokens) and a local SQLite
-snapshot — see [`docs/DESIGN.md`](docs/DESIGN.md).
+State lives under your user config dir (`tapeit/`): tokens, the library
+snapshot (JSON), match results, and push progress — all outside the repo.
 
 ---
 
