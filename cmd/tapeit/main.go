@@ -364,29 +364,49 @@ func cmdPush(ctx context.Context, args []string) error {
 
 func cmdCreate(ctx context.Context, args []string) error {
 	fs := flag.NewFlagSet("create", flag.ContinueOnError)
-	name := fs.String("name", "", "playlist name to create (required)")
-	from := fs.String("from", "", "file with one 'Title - Artist' per line (default: stdin)")
+	name := fs.String("name", "", "playlist name (optional for JSON, which carries its own)")
+	from := fs.String("from", "", "song list: a .json export, or text 'Title - Artist' lines (default: stdin)")
 	dryRun := fs.Bool("dry-run", false, "match and report without creating the playlist")
 	adopt := fs.Bool("adopt", false, "fill an existing playlist of this name instead of skipping it")
 	if err := fs.Parse(args); err != nil {
 		return err
 	}
-	if strings.TrimSpace(*name) == "" {
-		return fmt.Errorf("missing --name")
-	}
 
-	var r io.Reader = os.Stdin
-	if *from != "" {
+	plName := strings.TrimSpace(*name)
+	var tracks []domain.Track
+	if *from != "" && strings.HasSuffix(strings.ToLower(*from), ".json") {
 		f, err := os.Open(*from)
 		if err != nil {
 			return err
 		}
 		defer func() { _ = f.Close() }()
-		r = f
+		jsonName, tr, err := tracklist.ParseJSON(f)
+		if err != nil {
+			return err
+		}
+		tracks = tr
+		if plName == "" {
+			plName = strings.TrimSpace(jsonName)
+		}
+	} else {
+		var r io.Reader = os.Stdin
+		if *from != "" {
+			f, err := os.Open(*from)
+			if err != nil {
+				return err
+			}
+			defer func() { _ = f.Close() }()
+			r = f
+		}
+		tr, err := tracklist.Parse(r)
+		if err != nil {
+			return err
+		}
+		tracks = tr
 	}
-	tracks, err := tracklist.Parse(r)
-	if err != nil {
-		return err
+
+	if plName == "" {
+		return fmt.Errorf("missing playlist name: pass --name (or use a JSON that has one)")
 	}
 	if len(tracks) == 0 {
 		return fmt.Errorf("no tracks read (provide --from FILE or pipe a list on stdin)")
@@ -400,7 +420,7 @@ func cmdCreate(ctx context.Context, args []string) error {
 		return err
 	}
 
-	fmt.Printf("matching %d tracks for %q…\n", len(tracks), *name)
+	fmt.Printf("matching %d tracks for %q…\n", len(tracks), plName)
 	svc := matching.New(apple.NewClient(creds), func(s string) { fmt.Println(s) })
 	matches, err := svc.Match(ctx, tracks)
 	if err != nil {
@@ -410,7 +430,7 @@ func cmdCreate(ctx context.Context, args []string) error {
 	summarize(matches)
 
 	if *dryRun {
-		fmt.Printf("\ndry-run: would create %q with %d matched tracks\n", *name, len(resolved))
+		fmt.Printf("\ndry-run: would create %q with %d matched tracks\n", plName, len(resolved))
 		return nil
 	}
 	if err := creds.ValidateForWrite(); err != nil {
@@ -421,7 +441,7 @@ func cmdCreate(ctx context.Context, args []string) error {
 	if err != nil {
 		return err
 	}
-	playlists := uniqueNames([]domain.Playlist{{Name: *name, Tracks: tracks, Kind: domain.Owned}})
+	playlists := uniqueNames([]domain.Playlist{{Name: plName, Tracks: tracks, Kind: domain.Owned}})
 	pushSvc := pusher.New(apple.NewClient(creds), func(s string) { fmt.Println(s) })
 	if err := pushSvc.Push(ctx, playlists, resolved, state, pusher.Options{Adopt: *adopt}, savePushState); err != nil {
 		return err
