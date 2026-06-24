@@ -67,7 +67,10 @@ func (c *Client) do(ctx context.Context, method, url string, body []byte, withUs
 			return fmt.Errorf("%s %s: %w", method, url, err)
 		}
 
-		if resp.StatusCode == http.StatusTooManyRequests && attempt < maxRetries {
+		// Retry on rate limiting and transient upstream errors. Apple's Cloud
+		// Library intermittently returns 500/503; these generally do not commit
+		// a write, so retrying the same add is safe in practice.
+		if (resp.StatusCode == http.StatusTooManyRequests || resp.StatusCode >= 500) && attempt < maxRetries {
 			wait := backoff(resp.Header.Get("Retry-After"), attempt)
 			_ = resp.Body.Close()
 			select {
