@@ -1,0 +1,19 @@
+# build output
+/bin/
+/dist/
+tapeit
+
+# local state (tokens, snapshot db) — never commit
+*.db
+*.sqlite
+/.config/
+
+# go
+*.test
+*.out
+coverage.*
+
+# editor / os
+.DS_Store
+.idea/
+.vscode/
