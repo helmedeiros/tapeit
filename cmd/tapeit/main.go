@@ -12,7 +12,11 @@ import (
 	"os"
 	"os/signal"
 
+	"github.com/helmedeiros/tapeit/internal/apple"
 	"github.com/helmedeiros/tapeit/internal/config"
+	"github.com/helmedeiros/tapeit/internal/domain"
+	"github.com/helmedeiros/tapeit/internal/matching"
+	"github.com/helmedeiros/tapeit/internal/pusher"
 	"github.com/helmedeiros/tapeit/internal/snapshot"
 	"github.com/helmedeiros/tapeit/internal/spotify"
 )
@@ -40,6 +44,12 @@ func run(ctx context.Context, args []string) error {
 		return cmdAuth(ctx, args[1:])
 	case "pull":
 		return cmdPull(ctx, args[1:])
+	case "match":
+		return cmdMatch(ctx, args[1:])
+	case "push":
+		return cmdPush(ctx, args[1:])
+	case "report":
+		return cmdReport(args[1:])
 	case "version", "--version":
 		fmt.Println("tapeit", version)
 		return nil
@@ -57,22 +67,37 @@ func usage() {
 
 Usage:
   tapeit auth spotify [--client-id ID]   Authorize with Spotify (PKCE)
-  tapeit pull [--owned-only] [--out F]   Download your library into a snapshot
+  tapeit auth apple   [--dev-token T --user-token U --storefront S]
+  tapeit pull   [--owned-only] [--out F]  Download your library into a snapshot
+  tapeit match  [--out F]                 Resolve tracks to Apple catalog ids
+  tapeit report                           Show match summary
+  tapeit push   [--dry-run]               Create playlists in Apple Music
   tapeit version
 
-Redirect URI to register in your Spotify app: ` + spotify.RedirectURI + `
+Spotify redirect URI to register: ` + spotify.RedirectURI + `
 `)
 }
 
 // --- auth ---
 
 func cmdAuth(ctx context.Context, args []string) error {
-	if len(args) == 0 || args[0] != "spotify" {
-		return fmt.Errorf("usage: tapeit auth spotify [--client-id ID]")
+	if len(args) == 0 {
+		return fmt.Errorf("usage: tapeit auth (spotify|apple) …")
 	}
+	switch args[0] {
+	case "spotify":
+		return cmdAuthSpotify(ctx, args[1:])
+	case "apple":
+		return cmdAuthApple(ctx, args[1:])
+	default:
+		return fmt.Errorf("unknown auth provider %q (want spotify|apple)", args[0])
+	}
+}
+
+func cmdAuthSpotify(ctx context.Context, args []string) error {
 	fs := flag.NewFlagSet("auth spotify", flag.ContinueOnError)
 	clientID := fs.String("client-id", os.Getenv("TAPEIT_SPOTIFY_CLIENT_ID"), "Spotify app Client ID")
-	if err := fs.Parse(args[1:]); err != nil {
+	if err := fs.Parse(args); err != nil {
 		return err
 	}
 	if *clientID == "" {
@@ -90,6 +115,35 @@ func cmdAuth(ctx context.Context, args []string) error {
 		return err
 	}
 	fmt.Println("✓ Authorized. Token saved. Run `tapeit pull` while Premium is active.")
+	return nil
+}
+
+func cmdAuthApple(ctx context.Context, args []string) error {
+	fs := flag.NewFlagSet("auth apple", flag.ContinueOnError)
+	dev := fs.String("dev-token", os.Getenv("TAPEIT_APPLE_DEV_TOKEN"), "Apple Music developer token (from the web player)")
+	user := fs.String("user-token", os.Getenv("TAPEIT_APPLE_USER_TOKEN"), "media-user-token cookie value")
+	store := fs.String("storefront", os.Getenv("TAPEIT_APPLE_STOREFRONT"), "storefront id, e.g. de (auto-detected if omitted)")
+	if err := fs.Parse(args); err != nil {
+		return err
+	}
+	if *dev == "" || *user == "" {
+		fmt.Print(appleInstructions)
+		return fmt.Errorf("missing tokens: pass --dev-token and --user-token")
+	}
+
+	creds := apple.Credentials{DeveloperToken: *dev, UserToken: *user, Storefront: *store}
+	if creds.Storefront == "" {
+		sf, err := apple.NewClient(creds).Storefront(ctx)
+		if err != nil {
+			return fmt.Errorf("auto-detect storefront failed (pass --storefront): %w", err)
+		}
+		creds.Storefront = sf
+		fmt.Println("Detected storefront:", sf)
+	}
+	if err := saveAppleCreds(creds); err != nil {
+		return err
+	}
+	fmt.Println("✓ Apple credentials saved. Run `tapeit match`.")
 	return nil
 }
 
@@ -117,7 +171,6 @@ func cmdPull(ctx context.Context, args []string) error {
 	if err != nil {
 		return err
 	}
-
 	if err := snapshot.Save(*out, lib); err != nil {
 		return err
 	}
@@ -125,38 +178,243 @@ func cmdPull(ctx context.Context, args []string) error {
 	return nil
 }
 
+// --- match ---
+
+func cmdMatch(ctx context.Context, args []string) error {
+	fs := flag.NewFlagSet("match", flag.ContinueOnError)
+	defaultOut, _ := config.MatchesPath()
+	out := fs.String("out", defaultOut, "matches output path")
+	if err := fs.Parse(args); err != nil {
+		return err
+	}
+
+	lib, err := loadSnapshot()
+	if err != nil {
+		return err
+	}
+	creds, err := loadAppleCreds()
+	if err != nil {
+		return fmt.Errorf("%w (run `tapeit auth apple` first)", err)
+	}
+	if err := creds.Validate(); err != nil {
+		return err
+	}
+
+	unique := uniqueTracks(lib)
+	fmt.Printf("matching %d unique tracks (of %d total)…\n", len(unique), lib.TrackCount())
+
+	svc := matching.New(apple.NewClient(creds), func(s string) { fmt.Println(s) })
+	matches, err := svc.Match(ctx, unique)
+	if err != nil {
+		return err
+	}
+	if err := snapshot.SaveMatches(*out, snapshot.Matches{Matches: matches}); err != nil {
+		return err
+	}
+
+	summarize(matches)
+	fmt.Printf("\n✓ Saved matches → %s\nReview with `tapeit report`, then `tapeit push`.\n", *out)
+	return nil
+}
+
+// --- report ---
+
+func cmdReport(_ []string) error {
+	m, err := loadMatches()
+	if err != nil {
+		return err
+	}
+	summarize(m.Matches)
+	var unmatched []domain.Match
+	for _, x := range m.Matches {
+		if !x.Matched() {
+			unmatched = append(unmatched, x)
+		}
+	}
+	if len(unmatched) > 0 {
+		fmt.Printf("\nUnmatched (%d):\n", len(unmatched))
+		for i, x := range unmatched {
+			if i >= 50 {
+				fmt.Printf("  … and %d more (see matches.json)\n", len(unmatched)-50)
+				break
+			}
+			fmt.Printf("  - %s — %s\n", x.Track.Title, joinArtists(x.Track.Artists))
+		}
+	}
+	return nil
+}
+
+// --- push ---
+
+func cmdPush(ctx context.Context, args []string) error {
+	fs := flag.NewFlagSet("push", flag.ContinueOnError)
+	dryRun := fs.Bool("dry-run", false, "report what would be pushed without writing")
+	if err := fs.Parse(args); err != nil {
+		return err
+	}
+
+	lib, err := loadSnapshot()
+	if err != nil {
+		return err
+	}
+	m, err := loadMatches()
+	if err != nil {
+		return err
+	}
+	resolved := resolvedIndex(m.Matches)
+
+	if *dryRun {
+		fmt.Printf("dry-run: %d playlists, %d resolved tracks ready to push\n", len(lib.Playlists), len(resolved))
+		return nil
+	}
+
+	creds, err := loadAppleCreds()
+	if err != nil {
+		return fmt.Errorf("%w (run `tapeit auth apple` first)", err)
+	}
+	if err := creds.ValidateForWrite(); err != nil {
+		return err
+	}
+
+	state, err := loadPushState()
+	if err != nil {
+		return err
+	}
+	svc := pusher.New(apple.NewClient(creds), func(s string) { fmt.Println(s) })
+	if err := svc.Push(ctx, lib.Playlists, resolved, state, savePushState); err != nil {
+		return err
+	}
+	fmt.Println("\n✓ Push complete.")
+	return nil
+}
+
+// --- shared helpers ---
+
+func uniqueTracks(lib snapshot.Library) []domain.Track {
+	seen := make(map[string]struct{})
+	var out []domain.Track
+	for _, p := range lib.Playlists {
+		for _, t := range p.Tracks {
+			k := matching.Key(t)
+			if _, ok := seen[k]; ok {
+				continue
+			}
+			seen[k] = struct{}{}
+			out = append(out, t)
+		}
+	}
+	return out
+}
+
+func resolvedIndex(matches []domain.Match) map[string]string {
+	idx := make(map[string]string)
+	for _, m := range matches {
+		if m.Matched() {
+			idx[matching.Key(m.Track)] = m.AppleID
+		}
+	}
+	return idx
+}
+
+func summarize(matches []domain.Match) {
+	byConf := map[domain.Confidence]int{}
+	for _, m := range matches {
+		byConf[m.Confidence]++
+	}
+	total := len(matches)
+	matched := byConf[domain.ConfExact] + byConf[domain.ConfHigh] + byConf[domain.ConfLow]
+	fmt.Printf("\nMatch summary (%d unique tracks):\n", total)
+	fmt.Printf("  exact (ISRC): %d\n", byConf[domain.ConfExact])
+	fmt.Printf("  high:         %d\n", byConf[domain.ConfHigh])
+	fmt.Printf("  low:          %d\n", byConf[domain.ConfLow])
+	fmt.Printf("  unmatched:    %d\n", byConf[domain.ConfNone])
+	if total > 0 {
+		fmt.Printf("  → %d matched (%.1f%%)\n", matched, 100*float64(matched)/float64(total))
+	}
+}
+
+func joinArtists(a []string) string {
+	out := ""
+	for i, s := range a {
+		if i > 0 {
+			out += ", "
+		}
+		out += s
+	}
+	return out
+}
+
+const appleInstructions = `To get your Apple Music tokens (no paid account needed):
+
+  1. Open https://music.apple.com and log in.
+  2. Open DevTools (Cmd+Opt+I) → Network tab. Filter: amp-api
+  3. Click any playlist so requests fire. Click an "amp-api.music.apple.com"
+     request → Headers → Request Headers and copy:
+       - Authorization: Bearer <DEVELOPER TOKEN>   (the long value after Bearer)
+       - media-user-token: <USER TOKEN>
+     (You can also read media-user-token from Application → Cookies.)
+  4. Run:
+       tapeit auth apple --dev-token "<DEVELOPER TOKEN>" --user-token "<USER TOKEN>"
+
+`
+
 // --- local persistence (composition-root concern) ---
 
 type appSettings struct {
 	SpotifyClientID string `json:"spotify_client_id"`
 }
 
-func saveToken(t spotify.Token) error {
-	path, err := config.TokenPath()
-	if err != nil {
-		return err
-	}
-	return writeJSON(path, t)
-}
+func saveToken(t spotify.Token) error          { return saveAt(config.TokenPath, t) }
+func saveApp(s appSettings) error              { return saveAt(config.AppPath, s) }
+func saveAppleCreds(c apple.Credentials) error { return saveAt(config.AppleCredsPath, c) }
+func savePushState(s *pusher.PushState) error  { return saveAt(config.PushStatePath, s) }
 
 func loadToken() (spotify.Token, error) {
 	var t spotify.Token
-	path, err := config.TokenPath()
-	if err != nil {
-		return t, err
-	}
-	return t, readJSON(path, &t)
+	return t, loadAt(config.TokenPath, &t)
 }
 
-func saveApp(s appSettings) error {
-	path, err := config.AppPath()
+func loadAppleCreds() (apple.Credentials, error) {
+	var c apple.Credentials
+	return c, loadAt(config.AppleCredsPath, &c)
+}
+
+func loadSnapshot() (snapshot.Library, error) {
+	path, err := config.SnapshotPath()
+	if err != nil {
+		return snapshot.Library{}, err
+	}
+	return snapshot.Load(path)
+}
+
+func loadMatches() (snapshot.Matches, error) {
+	path, err := config.MatchesPath()
+	if err != nil {
+		return snapshot.Matches{}, err
+	}
+	return snapshot.LoadMatches(path)
+}
+
+func loadPushState() (*pusher.PushState, error) {
+	path, err := config.PushStatePath()
+	if err != nil {
+		return nil, err
+	}
+	state := pusher.NewState()
+	if _, err := os.Stat(path); os.IsNotExist(err) {
+		return state, nil
+	}
+	if err := loadAt(config.PushStatePath, state); err != nil {
+		return nil, err
+	}
+	return state, nil
+}
+
+func saveAt(pathFn func() (string, error), v any) error {
+	path, err := pathFn()
 	if err != nil {
 		return err
 	}
-	return writeJSON(path, s)
-}
-
-func writeJSON(path string, v any) error {
 	data, err := json.MarshalIndent(v, "", "  ")
 	if err != nil {
 		return err
@@ -164,7 +422,11 @@ func writeJSON(path string, v any) error {
 	return os.WriteFile(path, data, 0o600)
 }
 
-func readJSON(path string, v any) error {
+func loadAt(pathFn func() (string, error), v any) error {
+	path, err := pathFn()
+	if err != nil {
+		return err
+	}
 	data, err := os.ReadFile(path)
 	if err != nil {
 		return err
