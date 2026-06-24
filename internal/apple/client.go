@@ -21,6 +21,9 @@ const (
 
 	// addBatch is the defensive chunk size for adding tracks to a playlist.
 	addBatch = 100
+
+	// maxRetries is how many times to retry a 429 before giving up.
+	maxRetries = 8
 )
 
 // Client calls the Apple Music API. It implements domain.CatalogPort and
@@ -64,8 +67,8 @@ func (c *Client) do(ctx context.Context, method, url string, body []byte, withUs
 			return fmt.Errorf("%s %s: %w", method, url, err)
 		}
 
-		if resp.StatusCode == http.StatusTooManyRequests && attempt < 5 {
-			wait := retryAfter(resp.Header.Get("Retry-After"))
+		if resp.StatusCode == http.StatusTooManyRequests && attempt < maxRetries {
+			wait := backoff(resp.Header.Get("Retry-After"), attempt)
 			_ = resp.Body.Close()
 			select {
 			case <-ctx.Done():
@@ -102,11 +105,17 @@ func apiError(method, url string, status int, body string) error {
 	}
 }
 
-func retryAfter(h string) time.Duration {
-	if n, err := strconv.Atoi(h); err == nil && n >= 0 {
+// backoff honors a Retry-After header when present, else uses exponential
+// backoff (1s, 2s, 4s, … capped at 30s).
+func backoff(retryAfter string, attempt int) time.Duration {
+	if n, err := strconv.Atoi(retryAfter); err == nil && n >= 0 {
 		return time.Duration(n)*time.Second + 500*time.Millisecond
 	}
-	return 2 * time.Second
+	d := time.Duration(1<<attempt) * time.Second
+	if d > 30*time.Second {
+		d = 30 * time.Second
+	}
+	return d
 }
 
 // --- wire DTOs ---

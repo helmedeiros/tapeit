@@ -7,6 +7,7 @@ import (
 	"context"
 	"fmt"
 	"strings"
+	"time"
 	"unicode"
 
 	"github.com/helmedeiros/tapeit/internal/domain"
@@ -20,6 +21,10 @@ const isrcBatch = 15
 // durationToleranceMS is how far a candidate's duration may differ from the
 // source track while still counting as the same recording.
 const durationToleranceMS = 2500
+
+// searchThrottle paces text-search calls; Apple rate-limits this endpoint more
+// aggressively than ISRC lookups.
+const searchThrottle = 250 * time.Millisecond
 
 // Service turns tracks into matches using a catalog.
 type Service struct {
@@ -76,20 +81,42 @@ func (s *Service) Match(ctx context.Context, tracks []domain.Track) ([]domain.Ma
 		s.report("isrc matched %d/%d", end, len(withISRC))
 	}
 
-	// Pass 2: text-search fallback for everything still unmatched.
+	// Pass 2: text-search fallback for everything still unmatched. A failed
+	// search is recorded as unmatched rather than aborting the whole run, so a
+	// transient rate limit can never discard the (expensive) ISRC results.
+	searchErrs := 0
 	for n, idx := range pending {
+		if err := ctx.Err(); err != nil {
+			return nil, err
+		}
+		if err := sleepCtx(ctx, searchThrottle); err != nil {
+			return nil, err
+		}
 		t := tracks[idx]
 		m, err := s.searchMatch(ctx, t)
 		if err != nil {
-			return nil, err
+			searchErrs++
+			m = domain.Match{Track: t, Confidence: domain.ConfNone, Method: domain.MethodNone, Note: "search error: " + err.Error()}
 		}
 		out[idx] = m
 		if (n+1)%50 == 0 {
 			s.report("search fallback %d/%d", n+1, len(pending))
 		}
 	}
+	if searchErrs > 0 {
+		s.report("warning: %d search lookups failed (left unmatched; re-run `match` to retry)", searchErrs)
+	}
 
 	return out, nil
+}
+
+func sleepCtx(ctx context.Context, d time.Duration) error {
+	select {
+	case <-ctx.Done():
+		return ctx.Err()
+	case <-time.After(d):
+		return nil
+	}
 }
 
 func (s *Service) searchMatch(ctx context.Context, t domain.Track) (domain.Match, error) {

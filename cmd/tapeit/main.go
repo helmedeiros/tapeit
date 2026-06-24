@@ -222,12 +222,37 @@ func cmdMatch(ctx context.Context, args []string) error {
 	}
 
 	unique := uniqueTracks(lib)
-	fmt.Printf("matching %d unique tracks (of %d total)…\n", len(unique), lib.TrackCount())
+
+	// Resume: keep already-resolved tracks from a prior run, only (re)match the
+	// rest. Unmatched entries are retried.
+	prior := map[string]domain.Match{}
+	if pm, err := loadMatches(); err == nil {
+		for _, m := range pm.Matches {
+			prior[matching.Key(m.Track)] = m
+		}
+	}
+	var todo []domain.Track
+	for _, t := range unique {
+		if m, ok := prior[matching.Key(t)]; ok && m.Matched() {
+			continue
+		}
+		todo = append(todo, t)
+	}
+	fmt.Printf("matching %d tracks (%d already resolved, %d total unique)…\n", len(todo), len(unique)-len(todo), len(unique))
 
 	svc := matching.New(apple.NewClient(creds), func(s string) { fmt.Println(s) })
-	matches, err := svc.Match(ctx, unique)
+	fresh, err := svc.Match(ctx, todo)
 	if err != nil {
 		return err
+	}
+	for _, m := range fresh {
+		prior[matching.Key(m.Track)] = m
+	}
+
+	// Emit in stable unique-track order.
+	matches := make([]domain.Match, 0, len(unique))
+	for _, t := range unique {
+		matches = append(matches, prior[matching.Key(t)])
 	}
 	if err := snapshot.SaveMatches(*out, snapshot.Matches{Matches: matches}); err != nil {
 		return err
