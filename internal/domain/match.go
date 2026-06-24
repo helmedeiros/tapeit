@@ -59,15 +59,17 @@ type CatalogPort interface {
 	SearchSongs(ctx context.Context, term string, limit int) ([]CatalogSong, error)
 }
 
-// LibraryPort reads and writes the user's target library.
+// LibraryPort writes to the user's target library.
+//
+// Note: Apple's library API does not reliably echo back the catalog id of an
+// added track (playParams.catalogId is frequently absent), so idempotency is
+// tracked from what tapeIt records it has added, not by reading the library
+// back. Hence there is no read-tracks method here.
 type LibraryPort interface {
 	// ExistingPlaylists returns a name->id map of the user's library playlists.
 	ExistingPlaylists(ctx context.Context) (map[string]string, error)
 	// CreatePlaylist creates an empty library playlist and returns its id.
 	CreatePlaylist(ctx context.Context, name, description string) (string, error)
-	// PlaylistTracks returns the catalog song ids currently in a library
-	// playlist, in playlist order (empty if the playlist has no tracks).
-	PlaylistTracks(ctx context.Context, playlistID string) ([]string, error)
 	// AddTracks appends catalog songs (by id) to a library playlist.
 	AddTracks(ctx context.Context, playlistID string, songIDs []string) error
 }

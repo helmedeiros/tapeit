@@ -12,11 +12,13 @@ import (
 )
 
 // PlaylistState tracks per-playlist push progress for idempotent re-runs.
+// AddedIDs is the ordered list of catalog song ids tapeIt has added — the
+// source of truth for idempotency, since Apple does not reliably echo a
+// track's catalog id back when reading a library playlist.
 type PlaylistState struct {
-	AppleID string `json:"apple_id"`
-	Added   int    `json:"added"`
-	Total   int    `json:"total"`
-	Done    bool   `json:"done"`
+	AppleID  string   `json:"apple_id"`
+	AddedIDs []string `json:"added_ids"`
+	Done     bool     `json:"done"`
 }
 
 // PushState is the full, persistable push progress keyed by playlist name.
@@ -54,12 +56,21 @@ func (s *Service) report(format string, args ...any) {
 	}
 }
 
-// Push reconciles each source playlist into the target library. resolved maps
-// a track Key (see matching.Key) to a catalog song id. For every playlist it
-// finds or creates the target, reads what is already there, and adds only the
-// missing tracks — so re-running never duplicates and fills in gaps. state is
-// persisted via save after each playlist so an interrupted run resumes safely.
-func (s *Service) Push(ctx context.Context, playlists []domain.Playlist, resolved map[string]string, state *PushState, save func(*PushState) error) error {
+// Options tunes a push run.
+type Options struct {
+	// Adopt, when true, lets tapeIt write into a library playlist that already
+	// exists by name but was not created by tapeIt (e.g. one you started
+	// manually). Off by default to avoid duplicating tracks you added yourself.
+	Adopt bool
+}
+
+// Push reconciles each source playlist into the target library. resolved maps a
+// track Key (see matching.Key) to a catalog song id. tapeIt creates the
+// playlist (or resumes one it created earlier) and adds only the tracks it has
+// not already added, tracked in state — so re-running never duplicates and
+// fills in gaps. state is persisted via save after each playlist so an
+// interrupted run resumes safely.
+func (s *Service) Push(ctx context.Context, playlists []domain.Playlist, resolved map[string]string, state *PushState, opts Options, save func(*PushState) error) error {
 	existing, err := s.lib.ExistingPlaylists(ctx)
 	if err != nil {
 		return fmt.Errorf("list existing playlists: %w", err)
@@ -68,10 +79,16 @@ func (s *Service) Push(ctx context.Context, playlists []domain.Playlist, resolve
 	for _, p := range playlists {
 		st := state.get(p.Name)
 		desired := resolveIDs(p.Tracks, resolved)
-		st.Total = len(desired)
 
 		if st.AppleID == "" {
 			if id, ok := existing[p.Name]; ok {
+				// Exists in the library but tapeIt has no record of it — likely
+				// one you created manually. Skip unless explicitly adopting, to
+				// avoid duplicating tracks you added yourself.
+				if !opts.Adopt {
+					s.report("• skip %-38s exists but not created by tapeit (use --adopt to fill it)", trunc(p.Name, 38))
+					continue
+				}
 				st.AppleID = id
 			} else {
 				id, err := s.lib.CreatePlaylist(ctx, p.Name, p.Description)
@@ -85,26 +102,21 @@ func (s *Service) Push(ctx context.Context, playlists []domain.Playlist, resolve
 			}
 		}
 
-		current, err := s.lib.PlaylistTracks(ctx, st.AppleID)
-		if err != nil {
-			return fmt.Errorf("read %q: %w", p.Name, err)
-		}
-
-		toAdd, ordered := reconcile(current, desired)
+		toAdd, ordered := reconcile(st.AddedIDs, desired)
 		if !ordered {
-			s.report("⚠ %q diverges from source order; appending %d missing track(s) at end", trunc(p.Name, 40), len(toAdd))
+			s.report("⚠ %q diverges from recorded order; appending %d track(s) at end", trunc(p.Name, 40), len(toAdd))
 		}
 		if len(toAdd) > 0 {
 			if err := s.lib.AddTracks(ctx, st.AppleID, toAdd); err != nil {
 				return fmt.Errorf("add tracks to %q: %w", p.Name, err)
 			}
+			st.AddedIDs = append(st.AddedIDs, toAdd...)
 		}
-		st.Added = len(desired)
 		st.Done = true
 		if err := save(state); err != nil {
 			return err
 		}
-		s.report("✓ %-40s %d present +%d added (%d desired)", trunc(p.Name, 40), len(current), len(toAdd), len(desired))
+		s.report("✓ %-40s %d had +%d added (%d desired)", trunc(p.Name, 40), len(st.AddedIDs)-len(toAdd), len(toAdd), len(desired))
 	}
 	return nil
 }

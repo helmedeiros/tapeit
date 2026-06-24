@@ -298,6 +298,7 @@ func cmdPush(ctx context.Context, args []string) error {
 	dryRun := fs.Bool("dry-run", false, "report what would be pushed without writing")
 	completeOnly := fs.Bool("complete-only", false, "push only playlists whose tracks are all matched")
 	maxMissing := fs.Int("max-missing", -1, "push only playlists missing at most N tracks (-1 = no limit)")
+	adopt := fs.Bool("adopt", false, "also fill playlists that already exist but tapeit didn't create (risks duplicating manual tracks)")
 	if err := fs.Parse(args); err != nil {
 		return err
 	}
@@ -347,7 +348,7 @@ func cmdPush(ctx context.Context, args []string) error {
 		return err
 	}
 	svc := pusher.New(apple.NewClient(creds), func(s string) { fmt.Println(s) })
-	if err := svc.Push(ctx, playlists, resolved, state, savePushState); err != nil {
+	if err := svc.Push(ctx, playlists, resolved, state, pusher.Options{Adopt: *adopt}, savePushState); err != nil {
 		return err
 	}
 	fmt.Println("\n✓ Push complete.")

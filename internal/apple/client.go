@@ -4,7 +4,6 @@ import (
 	"bytes"
 	"context"
 	"encoding/json"
-	"errors"
 	"fmt"
 	"io"
 	"net/http"
@@ -15,10 +14,6 @@ import (
 
 	"github.com/helmedeiros/tapeit/internal/domain"
 )
-
-// errNotFound is returned for a 404 so callers can treat it as "empty" where
-// that is the expected meaning (Apple returns 404 for an empty playlist).
-var errNotFound = errors.New("not found")
 
 const (
 	apiBase = "https://amp-api.music.apple.com/v1"
@@ -103,8 +98,6 @@ func (c *Client) do(ctx context.Context, method, url string, body []byte, withUs
 
 func apiError(method, url string, status int, body string) error {
 	switch status {
-	case http.StatusNotFound:
-		return fmt.Errorf("%s %s: %w", method, url, errNotFound)
 	case http.StatusUnauthorized, http.StatusForbidden:
 		return fmt.Errorf("%s %s: %d unauthorized — your Apple tokens may have expired; re-run `tapeit auth apple` (%s)", method, url, status, body)
 	default:
@@ -267,39 +260,6 @@ func (c *Client) CreatePlaylist(ctx context.Context, name, description string) (
 		return "", fmt.Errorf("create playlist %q: empty response", name)
 	}
 	return resp.Data[0].ID, nil
-}
-
-// PlaylistTracks implements domain.LibraryPort. Library tracks are mapped back
-// to their catalog ids via playParams.catalogId so they can be compared with
-// the ids we add. Apple returns 404 for an empty playlist; treat that as empty.
-func (c *Client) PlaylistTracks(ctx context.Context, playlistID string) ([]string, error) {
-	var ids []string
-	next := fmt.Sprintf("%s/me/library/playlists/%s/tracks?limit=100", apiBase, playlistID)
-	for next != "" {
-		var resp struct {
-			Data []struct {
-				Attributes struct {
-					PlayParams struct {
-						CatalogID string `json:"catalogId"`
-					} `json:"playParams"`
-				} `json:"attributes"`
-			} `json:"data"`
-			Next string `json:"next"`
-		}
-		if err := c.do(ctx, http.MethodGet, next, nil, true, &resp); err != nil {
-			if errors.Is(err, errNotFound) {
-				return ids, nil
-			}
-			return nil, err
-		}
-		for _, t := range resp.Data {
-			if id := t.Attributes.PlayParams.CatalogID; id != "" {
-				ids = append(ids, id)
-			}
-		}
-		next = absolute(resp.Next)
-	}
-	return ids, nil
 }
 
 // AddTracks implements domain.LibraryPort, chunking to stay within limits.

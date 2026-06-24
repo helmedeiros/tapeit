@@ -30,10 +30,6 @@ func (f *fakeLibrary) CreatePlaylist(_ context.Context, name, _ string) (string,
 	return id, nil
 }
 
-func (f *fakeLibrary) PlaylistTracks(_ context.Context, playlistID string) ([]string, error) {
-	return f.added[playlistID], nil
-}
-
 func (f *fakeLibrary) AddTracks(_ context.Context, playlistID string, songIDs []string) error {
 	f.added[playlistID] = append(f.added[playlistID], songIDs...)
 	return nil
@@ -58,7 +54,7 @@ func TestPush_CreatesAndAdds(t *testing.T) {
 	saves := 0
 	save := func(*PushState) error { saves++; return nil }
 
-	if err := New(lib, nil).Push(context.Background(), playlists, resolved, state, save); err != nil {
+	if err := New(lib, nil).Push(context.Background(), playlists, resolved, state, Options{}, save); err != nil {
 		t.Fatal(err)
 	}
 
@@ -101,10 +97,6 @@ func TestReconcile(t *testing.T) {
 
 func TestPush_AddsMissingInOrder(t *testing.T) {
 	lib := newFakeLibrary()
-	// A playlist already created on a prior run holding the first track only.
-	lib.existing["Mix"] = "pl-Mix"
-	lib.added["pl-Mix"] = []string{"song-a"}
-
 	playlists := []domain.Playlist{{Name: "Mix", Tracks: []domain.Track{
 		track("A", "I1"), track("B", "I2"), track("C", "I3"),
 	}}}
@@ -113,17 +105,22 @@ func TestPush_AddsMissingInOrder(t *testing.T) {
 		matching.Key(track("B", "I2")): "song-b",
 		matching.Key(track("C", "I3")): "song-c",
 	}
+	// A prior run created the playlist and recorded the first track as added.
+	state := NewState()
+	state.Playlists["Mix"] = &PlaylistState{AppleID: "pl-Mix", AddedIDs: []string{"song-a"}}
 
-	if err := New(lib, nil).Push(context.Background(), playlists, resolved, NewState(), func(*PushState) error { return nil }); err != nil {
+	if err := New(lib, nil).Push(context.Background(), playlists, resolved, state, Options{}, func(*PushState) error { return nil }); err != nil {
 		t.Fatal(err)
 	}
 	if len(lib.created) != 0 {
-		t.Errorf("should reuse existing playlist, not create: %v", lib.created)
+		t.Errorf("should reuse tracked playlist, not create: %v", lib.created)
 	}
-	got := lib.added["pl-Mix"]
-	want := []string{"song-a", "song-b", "song-c"}
-	if len(got) != 3 || got[0] != want[0] || got[1] != want[1] || got[2] != want[2] {
-		t.Errorf("added = %v, want %v (order preserved)", got, want)
+	// Only the newly-missing suffix is added, in order.
+	if got := lib.added["pl-Mix"]; len(got) != 2 || got[0] != "song-b" || got[1] != "song-c" {
+		t.Errorf("added = %v, want [song-b song-c]", got)
+	}
+	if got := state.Playlists["Mix"].AddedIDs; len(got) != 3 || got[0] != "song-a" || got[2] != "song-c" {
+		t.Errorf("state AddedIDs = %v, want [song-a song-b song-c]", got)
 	}
 }
 
@@ -135,11 +132,11 @@ func TestPush_Idempotent(t *testing.T) {
 	noop := func(*PushState) error { return nil }
 
 	svc := New(lib, nil)
-	if err := svc.Push(context.Background(), playlists, resolved, state, noop); err != nil {
+	if err := svc.Push(context.Background(), playlists, resolved, state, Options{}, noop); err != nil {
 		t.Fatal(err)
 	}
 	// Second run with the same state must not create or add again.
-	if err := svc.Push(context.Background(), playlists, resolved, state, noop); err != nil {
+	if err := svc.Push(context.Background(), playlists, resolved, state, Options{}, noop); err != nil {
 		t.Fatal(err)
 	}
 	if len(lib.created) != 1 {
@@ -147,5 +144,29 @@ func TestPush_Idempotent(t *testing.T) {
 	}
 	if got := lib.added["pl-P"]; len(got) != 1 {
 		t.Errorf("added %v, want one track only", got)
+	}
+}
+
+func TestPush_SkipsUntrackedExisting(t *testing.T) {
+	lib := newFakeLibrary()
+	lib.existing["Manual"] = "pl-manual" // user-made, not in tapeit state
+	playlists := []domain.Playlist{{Name: "Manual", Tracks: []domain.Track{track("A", "I1")}}}
+	resolved := map[string]string{matching.Key(track("A", "I1")): "song-a"}
+	noop := func(*PushState) error { return nil }
+
+	// Default: leave the manual playlist untouched.
+	if err := New(lib, nil).Push(context.Background(), playlists, resolved, NewState(), Options{}, noop); err != nil {
+		t.Fatal(err)
+	}
+	if len(lib.added["pl-manual"]) != 0 || len(lib.created) != 0 {
+		t.Errorf("should not touch untracked existing playlist: added=%v created=%v", lib.added["pl-manual"], lib.created)
+	}
+
+	// Adopt: fill it.
+	if err := New(lib, nil).Push(context.Background(), playlists, resolved, NewState(), Options{Adopt: true}, noop); err != nil {
+		t.Fatal(err)
+	}
+	if len(lib.added["pl-manual"]) != 1 {
+		t.Errorf("adopt should add to existing playlist, got %v", lib.added["pl-manual"])
 	}
 }
