@@ -11,6 +11,7 @@ import (
 	"fmt"
 	"os"
 	"os/signal"
+	"strings"
 
 	"github.com/helmedeiros/tapeit/internal/apple"
 	"github.com/helmedeiros/tapeit/internal/config"
@@ -295,6 +296,7 @@ func cmdReport(_ []string) error {
 func cmdPush(ctx context.Context, args []string) error {
 	fs := flag.NewFlagSet("push", flag.ContinueOnError)
 	dryRun := fs.Bool("dry-run", false, "report what would be pushed without writing")
+	completeOnly := fs.Bool("complete-only", false, "push only playlists whose tracks are all matched")
 	if err := fs.Parse(args); err != nil {
 		return err
 	}
@@ -303,14 +305,27 @@ func cmdPush(ctx context.Context, args []string) error {
 	if err != nil {
 		return err
 	}
+	// Assign stable, unique display names (over the full set, so they don't
+	// shift between runs) — handles empty and duplicate Spotify playlist names.
+	playlists := uniqueNames(lib.Playlists)
+
 	m, err := loadMatches()
 	if err != nil {
 		return err
 	}
 	resolved := resolvedIndex(m.Matches)
 
+	if *completeOnly {
+		all := playlists
+		playlists = completePlaylists(all, resolved)
+		fmt.Printf("complete-only: %d of %d playlists fully matched\n", len(playlists), len(all))
+	}
+
 	if *dryRun {
-		fmt.Printf("dry-run: %d playlists, %d resolved tracks ready to push\n", len(lib.Playlists), len(resolved))
+		fmt.Printf("dry-run: would push %d playlists (%d tracks resolved)\n", len(playlists), countResolved(playlists, resolved))
+		for _, p := range playlists {
+			fmt.Printf("  %-44s %d tracks\n", truncate(p.Name, 44), len(p.Tracks))
+		}
 		return nil
 	}
 
@@ -327,7 +342,7 @@ func cmdPush(ctx context.Context, args []string) error {
 		return err
 	}
 	svc := pusher.New(apple.NewClient(creds), func(s string) { fmt.Println(s) })
-	if err := svc.Push(ctx, lib.Playlists, resolved, state, savePushState); err != nil {
+	if err := svc.Push(ctx, playlists, resolved, state, savePushState); err != nil {
 		return err
 	}
 	fmt.Println("\n✓ Push complete.")
@@ -350,6 +365,65 @@ func uniqueTracks(lib snapshot.Library) []domain.Track {
 		}
 	}
 	return out
+}
+
+// uniqueNames assigns stable, unique display names so empty or duplicate
+// Spotify playlist names don't collide (which would merge them on Apple).
+func uniqueNames(pls []domain.Playlist) []domain.Playlist {
+	seen := map[string]int{}
+	out := make([]domain.Playlist, len(pls))
+	for i, p := range pls {
+		base := strings.TrimSpace(p.Name)
+		if base == "" {
+			base = "Untitled Playlist"
+		}
+		seen[base]++
+		if seen[base] > 1 {
+			p.Name = fmt.Sprintf("%s (%d)", base, seen[base])
+		} else {
+			p.Name = base
+		}
+		out[i] = p
+	}
+	return out
+}
+
+// completePlaylists returns only playlists whose every track is matched.
+func completePlaylists(pls []domain.Playlist, resolved map[string]string) []domain.Playlist {
+	var out []domain.Playlist
+	for _, p := range pls {
+		complete := true
+		for _, t := range p.Tracks {
+			if resolved[matching.Key(t)] == "" {
+				complete = false
+				break
+			}
+		}
+		if complete {
+			out = append(out, p)
+		}
+	}
+	return out
+}
+
+func countResolved(pls []domain.Playlist, resolved map[string]string) int {
+	n := 0
+	for _, p := range pls {
+		for _, t := range p.Tracks {
+			if resolved[matching.Key(t)] != "" {
+				n++
+			}
+		}
+	}
+	return n
+}
+
+func truncate(s string, n int) string {
+	r := []rune(s)
+	if len(r) <= n {
+		return s
+	}
+	return string(r[:n-1]) + "…"
 }
 
 func resolvedIndex(matches []domain.Match) map[string]string {
