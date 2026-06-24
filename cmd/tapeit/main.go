@@ -126,13 +126,28 @@ func cmdAuthApple(ctx context.Context, args []string) error {
 	if err := fs.Parse(args); err != nil {
 		return err
 	}
-	if *dev == "" || *user == "" {
-		fmt.Print(appleInstructions)
-		return fmt.Errorf("missing tokens: pass --dev-token and --user-token")
+	// Merge over any previously saved creds, so the developer token (needed for
+	// `match`) and the user token (needed only for `push`) can be supplied in
+	// separate runs without re-pasting the other.
+	creds, _ := loadAppleCreds()
+	if *dev != "" {
+		creds.DeveloperToken = *dev
+	}
+	if *user != "" {
+		creds.UserToken = *user
+	}
+	if *store != "" {
+		creds.Storefront = *store
 	}
 
-	creds := apple.Credentials{DeveloperToken: *dev, UserToken: *user, Storefront: *store}
+	if creds.DeveloperToken == "" {
+		fmt.Print(appleInstructions)
+		return fmt.Errorf("missing developer token: pass --dev-token")
+	}
 	if creds.Storefront == "" {
+		if creds.UserToken == "" {
+			return fmt.Errorf("set the storefront: pass --storefront <cc> (e.g. de), or --user-token to auto-detect")
+		}
 		sf, err := apple.NewClient(creds).Storefront(ctx)
 		if err != nil {
 			return fmt.Errorf("auto-detect storefront failed (pass --storefront): %w", err)
@@ -143,7 +158,13 @@ func cmdAuthApple(ctx context.Context, args []string) error {
 	if err := saveAppleCreds(creds); err != nil {
 		return err
 	}
-	fmt.Println("✓ Apple credentials saved. Run `tapeit match`.")
+
+	if creds.UserToken == "" {
+		fmt.Println("✓ Saved developer token + storefront. Run `tapeit match`.")
+		fmt.Println("  (Add --user-token before `tapeit push` — the write step.)")
+	} else {
+		fmt.Println("✓ Apple credentials saved. Run `tapeit match`, then `tapeit push`.")
+	}
 	return nil
 }
 
