@@ -191,7 +191,9 @@ func (c *Client) SongsByISRC(ctx context.Context, isrcs []string) (map[string][]
 	next := fmt.Sprintf("%s/catalog/%s/songs?filter[isrc]=%s", apiBase, c.creds.Storefront, strings.Join(isrcs, ","))
 	for next != "" {
 		var resp songsResponse
-		if err := c.do(ctx, http.MethodGet, next, nil, false, &resp); err != nil {
+		// Send the user token: authenticated catalog reads get a much higher
+		// rate limit than the shared anonymous developer-token quota.
+		if err := c.do(ctx, http.MethodGet, next, nil, true, &resp); err != nil {
 			return nil, err
 		}
 		for _, s := range resp.Data {
@@ -215,7 +217,8 @@ func (c *Client) SearchSongs(ctx context.Context, term string, limit int) ([]dom
 	}
 	u := fmt.Sprintf("%s/catalog/%s/search?%s", apiBase, c.creds.Storefront, q.Encode())
 	var resp searchResponse
-	if err := c.do(ctx, http.MethodGet, u, nil, false, &resp); err != nil {
+	// Authenticated search avoids the tight anonymous developer-token rate limit.
+	if err := c.do(ctx, http.MethodGet, u, nil, true, &resp); err != nil {
 		return nil, err
 	}
 	songs := make([]domain.CatalogSong, 0, len(resp.Results.Songs.Data))
