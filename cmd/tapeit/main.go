@@ -17,6 +17,7 @@ import (
 	"github.com/helmedeiros/tapeit/internal/apple"
 	"github.com/helmedeiros/tapeit/internal/config"
 	"github.com/helmedeiros/tapeit/internal/domain"
+	"github.com/helmedeiros/tapeit/internal/itunes"
 	"github.com/helmedeiros/tapeit/internal/matching"
 	"github.com/helmedeiros/tapeit/internal/pusher"
 	"github.com/helmedeiros/tapeit/internal/snapshot"
@@ -420,8 +421,10 @@ func cmdCreate(ctx context.Context, args []string) error {
 		return err
 	}
 
-	fmt.Printf("matching %d tracks for %q…\n", len(tracks), plName)
-	svc := matching.New(apple.NewClient(creds), func(s string) { fmt.Println(s) })
+	fmt.Printf("matching %d tracks for %q via iTunes Search…\n", len(tracks), plName)
+	// A hand-supplied list has no ISRCs, so matching is search-only. Use the
+	// iTunes Search API (separate quota) rather than the rate-limited amp-api.
+	svc := matching.New(itunes.NewClient(creds.Storefront), func(s string) { fmt.Println(s) })
 	matches, err := svc.Match(ctx, tracks)
 	if err != nil {
 		return err
