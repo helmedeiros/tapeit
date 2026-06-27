@@ -1,0 +1,25 @@
+{
+  "name": "The Best Indie Albums of All Time",
+  "tracks": [
+    {"title": "A-Punk", "artist": "Vampire Weekend"},
+    {"title": "Dance for You", "artist": "Dirty Projectors"},
+    {"title": "Sprawl II (Mountains Beyond Mountains)", "artist": "Arcade Fire"},
+    {"title": "Obstacle 1", "artist": "Interpol"},
+    {"title": "The Stars of Track and Field", "artist": "Belle and Sebastian"},
+    {"title": "Galaxy of the Lost", "artist": "Lightspeed Champion"},
+    {"title": "Adventure", "artist": "Be Your Own Pet"},
+    {"title": "Take Me Out", "artist": "Franz Ferdinand"},
+    {"title": "Don't Delete the Kisses", "artist": "Wolf Alice"},
+    {"title": "New Slang", "artist": "The Shins"},
+    {"title": "Girls", "artist": "The 1975"},
+    {"title": "Be Sweet", "artist": "Japanese Breakfast"},
+    {"title": "Debaser", "artist": "Pixies"},
+    {"title": "Helicopter", "artist": "Bloc Party"},
+    {"title": "Maps", "artist": "Yeah Yeah Yeahs"},
+    {"title": "Do I Wanna Know?", "artist": "Arctic Monkeys"},
+    {"title": "Common People", "artist": "Pulp"},
+    {"title": "Fell in Love with a Girl", "artist": "The White Stripes"},
+    {"title": "This Charming Man", "artist": "The Smiths"},
+    {"title": "Last Nite", "artist": "The Strokes"}
+  ]
+}
