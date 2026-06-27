@@ -305,6 +305,54 @@ func (c *Client) PlaylistTrackRefs(ctx context.Context, playlistID string) ([]do
 	return refs, nil
 }
 
+// LibraryTrack is a track in a library playlist with its catalog metadata.
+type LibraryTrack struct {
+	Title      string
+	Artist     string
+	Album      string
+	DurationMS int
+	CatalogID  string
+}
+
+// PlaylistTracks returns the tracks of a library playlist.
+func (c *Client) PlaylistTracks(ctx context.Context, playlistID string) ([]LibraryTrack, error) {
+	var tracks []LibraryTrack
+	next := fmt.Sprintf("%s/me/library/playlists/%s/tracks?limit=100", apiBase, playlistID)
+	for next != "" {
+		var resp struct {
+			Data []struct {
+				Attributes struct {
+					Name           string `json:"name"`
+					ArtistName     string `json:"artistName"`
+					AlbumName      string `json:"albumName"`
+					DurationMillis int    `json:"durationInMillis"`
+					PlayParams     struct {
+						CatalogID string `json:"catalogId"`
+					} `json:"playParams"`
+				} `json:"attributes"`
+			} `json:"data"`
+			Next string `json:"next"`
+		}
+		if err := c.do(ctx, http.MethodGet, next, nil, true, &resp); err != nil {
+			if errors.Is(err, errNotFound) {
+				return tracks, nil
+			}
+			return tracks, err // partial pages survive a mid-pagination failure
+		}
+		for _, t := range resp.Data {
+			tracks = append(tracks, LibraryTrack{
+				Title:      t.Attributes.Name,
+				Artist:     t.Attributes.ArtistName,
+				Album:      t.Attributes.AlbumName,
+				DurationMS: t.Attributes.DurationMillis,
+				CatalogID:  t.Attributes.PlayParams.CatalogID,
+			})
+		}
+		next = absolute(resp.Next)
+	}
+	return tracks, nil
+}
+
 // AddTracks implements domain.LibraryPort, chunking to stay within limits.
 func (c *Client) AddTracks(ctx context.Context, playlistID string, songIDs []string) error {
 	u := fmt.Sprintf("%s/me/library/playlists/%s/tracks", apiBase, playlistID)

@@ -41,8 +41,9 @@ each track capture **title** and **artist**. Notes:
   on each track (improves match precision), including any guest-billed rows.
 
 ### Step 2 — Write the JSON track list
-Write a file at the repo root named `this-is-<slug>.json` (or a sensible name) in
-this shape — the `name` field becomes the Apple Music playlist name:
+Write a file under `playlists/` named `<slug>.json` (the service-agnostic
+location `tapeit export` also uses) in this shape — the `name` field becomes the
+Apple Music playlist name:
 
 ```json
 {
@@ -56,7 +57,7 @@ this shape — the `name` field becomes the Apple Music playlist name:
 
 ### Step 3 — Dry-run to review matching
 ```bash
-./bin/tapeit create --from this-is-<slug>.json --dry-run
+./bin/tapeit create --from playlists/<slug>.json --dry-run
 ```
 Read the match summary. Aim for ~100% matched. If any tracks are `unmatched` or the
 `low` count is high, fix those titles in the JSON (re-check spelling, drop suffixes,
@@ -66,7 +67,7 @@ try the album single name) and re-run the dry-run. The command can take ~20-40s 
 ### Step 4 — Create the playlist
 Once the dry-run looks good:
 ```bash
-./bin/tapeit create --from this-is-<slug>.json
+./bin/tapeit create --from playlists/<slug>.json
 ```
 This is idempotent — re-running resumes and won't duplicate tracks. If a playlist of
 the same name already exists but tapeit didn't create it, add `--adopt` to fill it
