@@ -12,14 +12,13 @@ linters:
     - misspell
     - unconvert
     - bodyclose
-
-linters-settings:
-  gocyclo:
-    min-complexity: 15
-  revive:
-    rules:
-      - name: exported
-        disabled: false
+  settings:
+    gocyclo:
+      min-complexity: 15
+    revive:
+      rules:
+        - name: exported
+          disabled: false
 
 issues:
   max-issues-per-linter: 0
