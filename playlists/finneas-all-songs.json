@@ -1,0 +1,140 @@
+{
+  "name": "FINNEAS - All songs",
+  "tracks": [
+    {
+      "title": "New Girl",
+      "artist": "FINNEAS",
+      "album": "New Girl - Single",
+      "durationMs": 181437,
+      "ids": {
+        "appleMusic": "1722114325"
+      }
+    },
+    {
+      "title": "I'm In Love Without You",
+      "artist": "FINNEAS",
+      "album": "I'm In Love Without You - Single",
+      "durationMs": 201469,
+      "ids": {
+        "appleMusic": "1721675499"
+      }
+    },
+    {
+      "title": "Break My Heart Again",
+      "artist": "FINNEAS",
+      "album": "Blood Harmony (Deluxe)",
+      "durationMs": 237979,
+      "ids": {
+        "appleMusic": "1720958799"
+      }
+    },
+    {
+      "title": "Life Moves On",
+      "artist": "FINNEAS",
+      "album": "Life Moves On - Single",
+      "durationMs": 251766,
+      "ids": {
+        "appleMusic": "1720936073"
+      }
+    },
+    {
+      "title": "Hollywood Forever",
+      "artist": "FINNEAS",
+      "album": "Hollywood Forever - Single",
+      "durationMs": 251728,
+      "ids": {
+        "appleMusic": "1720936719"
+      }
+    },
+    {
+      "title": "Luck Pusher",
+      "artist": "FINNEAS",
+      "album": "Luck Pusher - Single",
+      "durationMs": 163410,
+      "ids": {
+        "appleMusic": "1720936672"
+      }
+    },
+    {
+      "title": "Let's Fall In Love For The Night",
+      "artist": "FINNEAS",
+      "album": "Let's Fall In Love For The Night - Single",
+      "durationMs": 190348,
+      "ids": {
+        "appleMusic": "1721676438"
+      }
+    },
+    {
+      "title": "Claudia",
+      "artist": "FINNEAS",
+      "album": "Claudia - Single",
+      "durationMs": 161876,
+      "ids": {
+        "appleMusic": "1720937456"
+      }
+    },
+    {
+      "title": "I Lost a Friend",
+      "artist": "FINNEAS",
+      "album": "Blood Harmony",
+      "durationMs": 237020,
+      "ids": {
+        "appleMusic": "1720941624"
+      }
+    },
+    {
+      "title": "Angel",
+      "artist": "FINNEAS",
+      "album": "Angel - Single",
+      "durationMs": 311152,
+      "ids": {
+        "appleMusic": "1720937161"
+      }
+    },
+    {
+      "title": "Shelter",
+      "artist": "FINNEAS",
+      "album": "Blood Harmony",
+      "durationMs": 187270,
+      "ids": {
+        "appleMusic": "1720941638"
+      }
+    },
+    {
+      "title": "I Don't Miss You at All",
+      "artist": "FINNEAS",
+      "album": "Blood Harmony",
+      "durationMs": 128916,
+      "ids": {
+        "appleMusic": "1720941863"
+      }
+    },
+    {
+      "title": "Lost My Mind",
+      "artist": "FINNEAS",
+      "album": "Blood Harmony",
+      "durationMs": 169766,
+      "ids": {
+        "appleMusic": "1720941643"
+      }
+    },
+    {
+      "title": "Partners in Crime",
+      "artist": "FINNEAS",
+      "album": "Blood Harmony",
+      "durationMs": 223283,
+      "ids": {
+        "appleMusic": "1720941866"
+      }
+    },
+    {
+      "title": "Die Alone",
+      "artist": "FINNEAS",
+      "album": "Blood Harmony (Deluxe)",
+      "durationMs": 261471,
+      "ids": {
+        "appleMusic": "1720958796"
+      }
+    }
+  ]
+}

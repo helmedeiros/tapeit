@@ -1,0 +1,444 @@
+{
+  "name": "This Is Jamiroquai",
+  "tracks": [
+    {
+      "title": "Virtual Insanity",
+      "artist": "Jamiroquai",
+      "album": "Travelling Without Moving (20th Anniversary Edition) [2016 Remaster]",
+      "durationMs": 340907,
+      "ids": {
+        "appleMusic": "1479062292"
+      }
+    },
+    {
+      "title": "Cosmic Girl",
+      "artist": "Jamiroquai",
+      "album": "Travelling Without Moving (20th Anniversary Edition) [2016 Remaster]",
+      "durationMs": 244147,
+      "ids": {
+        "appleMusic": "1479062293"
+      }
+    },
+    {
+      "title": "Seven Days in Sunny June",
+      "artist": "Jamiroquai",
+      "album": "Dynamite",
+      "durationMs": 237867,
+      "ids": {
+        "appleMusic": "659352133"
+      }
+    },
+    {
+      "title": "Canned Heat",
+      "artist": "Jamiroquai",
+      "album": "Synkronized",
+      "durationMs": 331760,
+      "ids": {
+        "appleMusic": "1583958646"
+      }
+    },
+    {
+      "title": "Little L",
+      "artist": "Jamiroquai",
+      "album": "A Funk Odyssey",
+      "durationMs": 295400,
+      "ids": {
+        "appleMusic": "203132999"
+      }
+    },
+    {
+      "title": "Space Cowboy",
+      "artist": "Jamiroquai",
+      "album": "The Return of the Space Cowboy (Remastered)",
+      "durationMs": 386973,
+      "ids": {
+        "appleMusic": "600897223"
+      }
+    },
+    {
+      "title": "Alright",
+      "artist": "Jamiroquai",
+      "album": "Travelling Without Moving (20th Anniversary Edition) [2016 Remaster]",
+      "durationMs": 263920,
+      "ids": {
+        "appleMusic": "1479062305"
+      }
+    },
+    {
+      "title": "Cloud 9",
+      "artist": "Jamiroquai",
+      "album": "Automaton",
+      "durationMs": 236947,
+      "ids": {
+        "appleMusic": "1440896132"
+      }
+    },
+    {
+      "title": "Love Foolosophy",
+      "artist": "Jamiroquai"
+    },
+    {
+      "title": "Talullah",
+      "artist": "Jamiroquai",
+      "album": "Dynamite",
+      "durationMs": 362067,
+      "ids": {
+        "appleMusic": "659352138"
+      }
+    },
+    {
+      "title": "White Knuckle Ride",
+      "artist": "Jamiroquai",
+      "album": "White Knuckle Ride - EP",
+      "durationMs": 215187,
+      "ids": {
+        "appleMusic": "1446743578"
+      }
+    },
+    {
+      "title": "Falling",
+      "artist": "Jamiroquai",
+      "album": "Synkronized",
+      "durationMs": 225173,
+      "ids": {
+        "appleMusic": "1583958659"
+      }
+    },
+    {
+      "title": "You Give Me Something",
+      "artist": "Jamiroquai",
+      "album": "A Funk Odyssey",
+      "durationMs": 199600,
+      "ids": {
+        "appleMusic": "203133079"
+      }
+    },
+    {
+      "title": "Everyday",
+      "artist": "Jamiroquai",
+      "album": "Travelling Without Moving (20th Anniversary Edition) [2016 Remaster]",
+      "durationMs": 268467,
+      "ids": {
+        "appleMusic": "1479062304"
+      }
+    },
+    {
+      "title": "Summer Girl",
+      "artist": "Jamiroquai",
+      "album": "Automaton",
+      "durationMs": 331800,
+      "ids": {
+        "appleMusic": "1440896358"
+      }
+    },
+    {
+      "title": "Too Young to Die",
+      "artist": "Jamiroquai",
+      "album": "Emergency On Planet Earth (Remastered)",
+      "durationMs": 365733,
+      "ids": {
+        "appleMusic": "600870484"
+      }
+    },
+    {
+      "title": "(Don't) Give Hate a Chance",
+      "artist": "Jamiroquai",
+      "album": "Dynamite",
+      "durationMs": 300227,
+      "ids": {
+        "appleMusic": "659352161"
+      }
+    },
+    {
+      "title": "Travelling Without Moving",
+      "artist": "Jamiroquai",
+      "album": "Travelling Without Moving (20th Anniversary Edition) [2016 Remaster]",
+      "durationMs": 220080,
+      "ids": {
+        "appleMusic": "1479062430"
+      }
+    },
+    {
+      "title": "All Good In The Hood",
+      "artist": "Jamiroquai",
+      "album": "Rock Dust Light Star (Bonus Track Version)",
+      "durationMs": 218973,
+      "ids": {
+        "appleMusic": "1440713471"
+      }
+    },
+    {
+      "title": "When You Gonna Learn?",
+      "artist": "Jamiroquai",
+      "album": "Emergency On Planet Earth (Remastered)",
+      "durationMs": 230053,
+      "ids": {
+        "appleMusic": "600870482"
+      }
+    },
+    {
+      "title": "Time Won't Wait",
+      "artist": "Jamiroquai",
+      "album": "Dynamite",
+      "durationMs": 301733,
+      "ids": {
+        "appleMusic": "659352165"
+      }
+    },
+    {
+      "title": "Shake It On",
+      "artist": "Jamiroquai",
+      "album": "Automaton",
+      "durationMs": 314493,
+      "ids": {
+        "appleMusic": "1440896125"
+      }
+    },
+    {
+      "title": "Runaway",
+      "artist": "Jamiroquai"
+    },
+    {
+      "title": "Blow Your Mind",
+      "artist": "Jamiroquai",
+      "album": "Emergency On Planet Earth (Remastered)",
+      "durationMs": 512280,
+      "ids": {
+        "appleMusic": "600870512"
+      }
+    },
+    {
+      "title": "Half the Man",
+      "artist": "Jamiroquai",
+      "album": "The Return of the Space Cowboy (Remastered)",
+      "durationMs": 289680,
+      "ids": {
+        "appleMusic": "600897215"
+      }
+    },
+    {
+      "title": "Something About You",
+      "artist": "Jamiroquai",
+      "album": "Automaton",
+      "durationMs": 238533,
+      "ids": {
+        "appleMusic": "1440896355"
+      }
+    },
+    {
+      "title": "Butterfly",
+      "artist": "Jamiroquai",
+      "album": "Synkronized",
+      "durationMs": 268800,
+      "ids": {
+        "appleMusic": "1583958971"
+      }
+    },
+    {
+      "title": "Emergency on Planet Earth",
+      "artist": "Jamiroquai",
+      "album": "Emergency On Planet Earth (Remastered)",
+      "durationMs": 245173,
+      "ids": {
+        "appleMusic": "600870510"
+      }
+    },
+    {
+      "title": "Dynamite",
+      "artist": "Jamiroquai",
+      "album": "Dynamite",
+      "durationMs": 295400,
+      "ids": {
+        "appleMusic": "659352129"
+      }
+    },
+    {
+      "title": "Stillness in Time",
+      "artist": "Jamiroquai",
+      "album": "Chillout Songs",
+      "durationMs": 256640,
+      "ids": {
+        "appleMusic": "1675541672"
+      }
+    },
+    {
+      "title": "Corner of the Earth",
+      "artist": "Jamiroquai",
+      "album": "A Funk Odyssey",
+      "durationMs": 338960,
+      "ids": {
+        "appleMusic": "203133094"
+      }
+    },
+    {
+      "title": "If I Like It, I Do It",
+      "artist": "Jamiroquai",
+      "album": "Emergency On Planet Earth (Remastered)",
+      "durationMs": 292667,
+      "ids": {
+        "appleMusic": "600870487"
+      }
+    },
+    {
+      "title": "Drifting Along",
+      "artist": "Jamiroquai",
+      "album": "Travelling Without Moving (20th Anniversary Edition) [2016 Remaster]",
+      "durationMs": 245787,
+      "ids": {
+        "appleMusic": "1479062427"
+      }
+    },
+    {
+      "title": "Goodbye To My Dancer",
+      "artist": "Jamiroquai",
+      "album": "Rock Dust Light Star (Bonus Track Version)",
+      "durationMs": 249200,
+      "ids": {
+        "appleMusic": "1440713498"
+      }
+    },
+    {
+      "title": "Picture of My Life",
+      "artist": "Jamiroquai",
+      "album": "A Funk Odyssey",
+      "durationMs": 224187,
+      "ids": {
+        "appleMusic": "203133215"
+      }
+    },
+    {
+      "title": "Deeper Underground",
+      "artist": "Jamiroquai"
+    },
+    {
+      "title": "High Times",
+      "artist": "Jamiroquai",
+      "album": "Travelling Without Moving (20th Anniversary Edition) [2016 Remaster]",
+      "durationMs": 360013,
+      "ids": {
+        "appleMusic": "1479062426"
+      }
+    },
+    {
+      "title": "Hot Tequila Brown",
+      "artist": "Jamiroquai",
+      "album": "Dynamite",
+      "durationMs": 278240,
+      "ids": {
+        "appleMusic": "659352164"
+      }
+    },
+    {
+      "title": "Smoke and Mirrors",
+      "artist": "Jamiroquai",
+      "album": "Rock Dust Light Star (Bonus Track Version)",
+      "durationMs": 273133,
+      "ids": {
+        "appleMusic": "1440713314"
+      }
+    },
+    {
+      "title": "Automaton",
+      "artist": "Jamiroquai",
+      "album": "Automaton",
+      "durationMs": 287960,
+      "ids": {
+        "appleMusic": "1440896130"
+      }
+    },
+    {
+      "title": "Manifest Destiny",
+      "artist": "Jamiroquai",
+      "album": "The Return of the Space Cowboy (Remastered)",
+      "durationMs": 382000,
+      "ids": {
+        "appleMusic": "600897217"
+      }
+    },
+    {
+      "title": "Black Capricorn Day",
+      "artist": "Jamiroquai",
+      "album": "Synkronized",
+      "durationMs": 341560,
+      "ids": {
+        "appleMusic": "1583958657"
+      }
+    },
+    {
+      "title": "Blue Skies",
+      "artist": "Jamiroquai",
+      "album": "Blue Skies - EP",
+      "durationMs": 234613,
+      "ids": {
+        "appleMusic": "1444433234"
+      }
+    },
+    {
+      "title": "Revolution 1993",
+      "artist": "Jamiroquai",
+      "album": "Emergency On Planet Earth (Remastered)",
+      "durationMs": 617147,
+      "ids": {
+        "appleMusic": "600870513"
+      }
+    },
+    {
+      "title": "Mr Moon",
+      "artist": "Jamiroquai",
+      "album": "The Return of the Space Cowboy (Remastered)",
+      "durationMs": 329387,
+      "ids": {
+        "appleMusic": "600897219"
+      }
+    },
+    {
+      "title": "Soul Education",
+      "artist": "Jamiroquai",
+      "album": "Synkronized",
+      "durationMs": 255400,
+      "ids": {
+        "appleMusic": "1583958658"
+      }
+    },
+    {
+      "title": "Hot Property",
+      "artist": "Jamiroquai",
+      "album": "Automaton",
+      "durationMs": 271987,
+      "ids": {
+        "appleMusic": "1440896352"
+      }
+    },
+    {
+      "title": "Feel So Good",
+      "artist": "Jamiroquai",
+      "album": "A Funk Odyssey",
+      "durationMs": 321427,
+      "ids": {
+        "appleMusic": "203132994"
+      }
+    },
+    {
+      "title": "Morning Glory",
+      "artist": "Jamiroquai",
+      "album": "The Return of the Space Cowboy (Remastered)",
+      "durationMs": 383973,
+      "ids": {
+        "appleMusic": "600897222"
+      }
+    },
+    {
+      "title": "Break My Heart / Cosmic Girl",
+      "artist": "Dua Lipa"
+    },
+    {
+      "title": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
+      "artist": "Dua Lipa \u0026 Jamiroquai",
+      "album": "Future Nostalgia (Bonus Edition)",
+      "durationMs": 180040,
+      "ids": {
+        "appleMusic": "1541804211"
+      }
+    }
+  ]
+}

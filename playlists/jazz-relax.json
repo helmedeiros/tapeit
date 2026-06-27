@@ -1,0 +1,2408 @@
+{
+  "name": "Jazz Relax",
+  "tracks": [
+    {
+      "title": "Cry Me a River",
+      "artist": "Dominick Farinacci",
+      "album": "Reflections, Vol. 3 - EP",
+      "durationMs": 244484,
+      "ids": {
+        "appleMusic": "1707551517"
+      }
+    },
+    {
+      "title": "Body and Soul",
+      "artist": "Brandon Sanders",
+      "album": "Compton's Finest",
+      "durationMs": 294773,
+      "ids": {
+        "appleMusic": "1697043422"
+      }
+    },
+    {
+      "title": "After Winter Comes Spring",
+      "artist": "Vendla",
+      "album": "After Winter Comes Spring - Single",
+      "durationMs": 211564,
+      "ids": {
+        "appleMusic": "1696642091"
+      }
+    },
+    {
+      "title": "Yesteryear",
+      "artist": "Snorre Kirk",
+      "album": "Europa",
+      "durationMs": 253547,
+      "ids": {
+        "appleMusic": "1090497820"
+      }
+    },
+    {
+      "title": "Answer Me",
+      "artist": "Hans Ulrik",
+      "album": "Answer Me - Single",
+      "durationMs": 210846,
+      "ids": {
+        "appleMusic": "1729211439"
+      }
+    },
+    {
+      "title": "I Get Along Without You Very Well",
+      "artist": "Eric Rowland",
+      "album": "I Get Along Without You Very Well - Single",
+      "durationMs": 325428,
+      "ids": {
+        "appleMusic": "1732092587"
+      }
+    },
+    {
+      "title": "Old Folks",
+      "artist": "Chris Botti",
+      "album": "Vol. 1",
+      "durationMs": 350607,
+      "ids": {
+        "appleMusic": "1701720604"
+      }
+    },
+    {
+      "title": "All I See in You",
+      "artist": "Most Iverson",
+      "album": "All I See in You - Single",
+      "durationMs": 235051,
+      "ids": {
+        "appleMusic": "1697907887"
+      }
+    },
+    {
+      "title": "Never Let Me Go",
+      "artist": "Copenhagen Jazzexperience",
+      "album": "Everything I Love",
+      "durationMs": 323184,
+      "ids": {
+        "appleMusic": "1693456031"
+      }
+    },
+    {
+      "title": "Irridescent Mountains",
+      "artist": "Felix McCoy Quartet",
+      "album": "Irridescent Mountains - Single",
+      "durationMs": 199952,
+      "ids": {
+        "appleMusic": "1680772859"
+      }
+    },
+    {
+      "title": "Over Yonder",
+      "artist": "Gus Anderson",
+      "album": "Over Yonder - Single",
+      "durationMs": 234955,
+      "ids": {
+        "appleMusic": "1733475163"
+      }
+    },
+    {
+      "title": "Young at Heart",
+      "artist": "Most Iverson",
+      "album": "Young at Heart - Single",
+      "durationMs": 279557,
+      "ids": {
+        "appleMusic": "1708944116"
+      }
+    },
+    {
+      "title": "Breathe the Air",
+      "artist": "Glass Trio",
+      "album": "Nightcaps - Single",
+      "durationMs": 225601,
+      "ids": {
+        "appleMusic": "1670027840"
+      }
+    },
+    {
+      "title": "Let Love Be Genuine",
+      "artist": "Nuvole",
+      "album": "Let Love Be Genuine - Single",
+      "durationMs": 318621,
+      "ids": {
+        "appleMusic": "1663992024"
+      }
+    },
+    {
+      "title": "The First Step",
+      "artist": "Baker St",
+      "album": "The First Step - Single",
+      "durationMs": 182607,
+      "ids": {
+        "appleMusic": "1716746438"
+      }
+    },
+    {
+      "title": "Reflections of Idle Days",
+      "artist": "Hamilton Reed Quartet",
+      "album": "Reflections of Idle Days - Single",
+      "durationMs": 210355,
+      "ids": {
+        "appleMusic": "1778025252"
+      }
+    },
+    {
+      "title": "On and On",
+      "artist": "Søren Bebe Trio",
+      "album": "Here Now",
+      "durationMs": 231507,
+      "ids": {
+        "appleMusic": "1692666099"
+      }
+    },
+    {
+      "title": "Love Is In the Air",
+      "artist": "Armel Dupas Trio",
+      "album": "Just the Beginning",
+      "durationMs": 225707,
+      "ids": {
+        "appleMusic": "1745348302"
+      }
+    },
+    {
+      "title": "Traveling Day",
+      "artist": "Arta Porting",
+      "album": "Traveling Day - Single",
+      "durationMs": 341907,
+      "ids": {
+        "appleMusic": "1686838280"
+      }
+    },
+    {
+      "title": "Cloudy Days",
+      "artist": "Saphena Trio",
+      "album": "Cloudy Days - Single",
+      "durationMs": 276828,
+      "ids": {
+        "appleMusic": "1708915565"
+      }
+    },
+    {
+      "title": "Soliloquy",
+      "artist": "Fulton Street Players",
+      "album": "Soliloquy - Single",
+      "durationMs": 198077,
+      "ids": {
+        "appleMusic": "1798418416"
+      }
+    },
+    {
+      "title": "The Old Days",
+      "artist": "Joost Zoeteman",
+      "album": "The Old Days - EP",
+      "durationMs": 223086,
+      "ids": {
+        "appleMusic": "1724031720"
+      }
+    },
+    {
+      "title": "Flow",
+      "artist": "Isaiah Lewis",
+      "album": "Flow - Single",
+      "durationMs": 223000,
+      "ids": {
+        "appleMusic": "1732094334"
+      }
+    },
+    {
+      "title": "What About Us?",
+      "artist": "The Uptown Players",
+      "album": "What About Us? - Single",
+      "durationMs": 169567,
+      "ids": {
+        "appleMusic": "1703265873"
+      }
+    },
+    {
+      "title": "Story of My Dream",
+      "artist": "Almost Here",
+      "album": "Story of My Dream - Single",
+      "durationMs": 177431,
+      "ids": {
+        "appleMusic": "1704334181"
+      }
+    },
+    {
+      "title": "At a Glance",
+      "artist": "James Jackson Jazz Trio",
+      "album": "At a Glance - Single",
+      "durationMs": 250009,
+      "ids": {
+        "appleMusic": "1720685730"
+      }
+    },
+    {
+      "title": "Chasing Raindrops",
+      "artist": "Shay Walsh",
+      "album": "Chasing Raindrops - Single",
+      "durationMs": 214186,
+      "ids": {
+        "appleMusic": "1712148620"
+      }
+    },
+    {
+      "title": "Dancing Shadows",
+      "artist": "Dries Riesen",
+      "album": "Dancing Shadows - Single",
+      "durationMs": 204038,
+      "ids": {
+        "appleMusic": "1692169464"
+      }
+    },
+    {
+      "title": "Onwards",
+      "artist": "The Midnight Quartet",
+      "album": "Onwards - Single",
+      "durationMs": 191571,
+      "ids": {
+        "appleMusic": "1805538132"
+      }
+    },
+    {
+      "title": "Missed the Last Dance with You",
+      "artist": "Original Three",
+      "album": "Missed the Last Dance with You - Single",
+      "durationMs": 304555,
+      "ids": {
+        "appleMusic": "1716744279"
+      }
+    },
+    {
+      "title": "Jazz Noir",
+      "artist": "Norberg",
+      "album": "Jazz Noir - Single",
+      "durationMs": 179355,
+      "ids": {
+        "appleMusic": "1740480362"
+      }
+    },
+    {
+      "title": "Cool Breeze",
+      "artist": "Mino Conte \u0026 Co",
+      "album": "Cool Breeze - Single",
+      "durationMs": 253351,
+      "ids": {
+        "appleMusic": "1692170090"
+      }
+    },
+    {
+      "title": "Whispers of the Evening",
+      "artist": "Sodermalm Strand",
+      "album": "Whispers of the Evening - Single",
+      "durationMs": 195059,
+      "ids": {
+        "appleMusic": "1734583933"
+      }
+    },
+    {
+      "title": "Worry and Gossip",
+      "artist": "Courtney Salas Group",
+      "album": "Worry and Gossip - Single",
+      "durationMs": 221392,
+      "ids": {
+        "appleMusic": "1703265300"
+      }
+    },
+    {
+      "title": "The Apostate",
+      "artist": "Kevin Waters Group",
+      "album": "The Apostate - Single",
+      "durationMs": 224097,
+      "ids": {
+        "appleMusic": "1721202137"
+      }
+    },
+    {
+      "title": "Song for Peace",
+      "artist": "Kevin Hays, Ben Street \u0026 Billy Hart",
+      "album": "Bridges",
+      "durationMs": 270893,
+      "ids": {
+        "appleMusic": "1701702123"
+      }
+    },
+    {
+      "title": "Under the Neon Light",
+      "artist": "James Elias",
+      "album": "Under the Neon Light - Single",
+      "durationMs": 188044,
+      "ids": {
+        "appleMusic": "1805538322"
+      }
+    },
+    {
+      "title": "Love Grows",
+      "artist": "Sidney Hatfield Trio",
+      "album": "Love Grows - Single",
+      "durationMs": 218438,
+      "ids": {
+        "appleMusic": "1752681720"
+      }
+    },
+    {
+      "title": "Love for Free",
+      "artist": "AKIO",
+      "album": "Love for Free - Single",
+      "durationMs": 213562,
+      "ids": {
+        "appleMusic": "1733479880"
+      }
+    },
+    {
+      "title": "Anse Source D'argent",
+      "artist": "Jenny Jones",
+      "album": "Anse Source D'argent - Single",
+      "durationMs": 238078,
+      "ids": {
+        "appleMusic": "1669569435"
+      }
+    },
+    {
+      "title": "Little Birdy Bean",
+      "artist": "Billy Buss Quartet",
+      "album": "Little Birdy Bean - Single",
+      "durationMs": 195561,
+      "ids": {
+        "appleMusic": "1730537354"
+      }
+    },
+    {
+      "title": "Short Intermission",
+      "artist": "Arto Ferrara",
+      "album": "Short Intermission - Single",
+      "durationMs": 152285,
+      "ids": {
+        "appleMusic": "1722310728"
+      }
+    },
+    {
+      "title": "Moments in Moonlight",
+      "artist": "Foster Davies",
+      "album": "Moments in Moonlight - Single",
+      "durationMs": 168620,
+      "ids": {
+        "appleMusic": "1728677711"
+      }
+    },
+    {
+      "title": "That's All",
+      "artist": "Saginaw Society",
+      "album": "That's All - Single",
+      "durationMs": 182485,
+      "ids": {
+        "appleMusic": "1738300395"
+      }
+    },
+    {
+      "title": "When You're Not Around Med",
+      "artist": "Stewart Park Quartet",
+      "album": "When You're Not Around Med - Single",
+      "durationMs": 225399,
+      "ids": {
+        "appleMusic": "1717621026"
+      }
+    },
+    {
+      "title": "Once In A Lifetime",
+      "artist": "Matt Marantz Quartet",
+      "album": "Blue Mist - Single",
+      "durationMs": 252218,
+      "ids": {
+        "appleMusic": "1665503092"
+      }
+    },
+    {
+      "title": "Two Blocks Away",
+      "artist": "Jules Moreau",
+      "album": "Two Blocks Away - Single",
+      "durationMs": 229000,
+      "ids": {
+        "appleMusic": "1738299729"
+      }
+    },
+    {
+      "title": "Elegy",
+      "artist": "Billy Buss Quartet",
+      "album": "Elegy - Single",
+      "durationMs": 231001,
+      "ids": {
+        "appleMusic": "1723760237"
+      }
+    },
+    {
+      "title": "Carroll Street",
+      "artist": "Berliner Luft Quartet",
+      "album": "Carroll Street - Single",
+      "durationMs": 283272,
+      "ids": {
+        "appleMusic": "1731643232"
+      }
+    },
+    {
+      "title": "Autumn Embrace",
+      "artist": "Novo Stella",
+      "album": "Autumn Embrace - Single",
+      "durationMs": 153935,
+      "ids": {
+        "appleMusic": "1692171353"
+      }
+    },
+    {
+      "title": "Hazel",
+      "artist": "Stewart Park Quartet",
+      "album": "Hazel - Single",
+      "durationMs": 231756,
+      "ids": {
+        "appleMusic": "1728285874"
+      }
+    },
+    {
+      "title": "A Flower Is a Lovesome Thing",
+      "artist": "Karl-Martin Almqvist \u0026 Carl Winther",
+      "album": "A Ballad Moment: This Time",
+      "durationMs": 255149,
+      "ids": {
+        "appleMusic": "1684236963"
+      }
+    },
+    {
+      "title": "In Your Arms",
+      "artist": "Emily Green Trio",
+      "album": "In Your Arms - Single",
+      "durationMs": 213837,
+      "ids": {
+        "appleMusic": "1717622500"
+      }
+    },
+    {
+      "title": "There Will Be Better Days",
+      "artist": "Midnight Trio",
+      "album": "There Will Be Better Days - Single",
+      "durationMs": 299349,
+      "ids": {
+        "appleMusic": "1706123480"
+      }
+    },
+    {
+      "title": "To the Moon and Back",
+      "artist": "Nicholas Fischer",
+      "album": "To the Moon and Back - Single",
+      "durationMs": 207750,
+      "ids": {
+        "appleMusic": "1735323091"
+      }
+    },
+    {
+      "title": "Soulful Serenade",
+      "artist": "Anthony Hide Trio",
+      "album": "Soulful Serenade - Single",
+      "durationMs": 230233,
+      "ids": {
+        "appleMusic": "1722312575"
+      }
+    },
+    {
+      "title": "Dimness",
+      "artist": "Long Island Quartet",
+      "album": "Dimness - Single",
+      "durationMs": 199167,
+      "ids": {
+        "appleMusic": "1729220094"
+      }
+    },
+    {
+      "title": "My Mistakes",
+      "artist": "Gjermund Skar",
+      "album": "My Mistakes - Single",
+      "durationMs": 234434,
+      "ids": {
+        "appleMusic": "1733480031"
+      }
+    },
+    {
+      "title": "Take Your Time",
+      "artist": "Thames Quartet",
+      "album": "Take Your Time - Single",
+      "durationMs": 278286,
+      "ids": {
+        "appleMusic": "1718743410"
+      }
+    },
+    {
+      "title": "Buachaille Etive Mor",
+      "artist": "Saphena Trio",
+      "album": "Lost in the Highlands - Single",
+      "durationMs": 195860,
+      "ids": {
+        "appleMusic": "1714196652"
+      }
+    },
+    {
+      "title": "If You Could See Me Now",
+      "artist": "Carl Bagge Trio",
+      "album": "If You Could See Me Now - Single",
+      "durationMs": 276366,
+      "ids": {
+        "appleMusic": "1728285488"
+      }
+    },
+    {
+      "title": "A Flower Is a Lovesome Thing",
+      "artist": "Saginaw Society",
+      "album": "A Flower Is a Lovesome Thing - Single",
+      "durationMs": 291766,
+      "ids": {
+        "appleMusic": "1713184218"
+      }
+    },
+    {
+      "title": "The Foolish Heart",
+      "artist": "Cara Myers Trio",
+      "album": "The Foolish Heart - Single",
+      "durationMs": 183488,
+      "ids": {
+        "appleMusic": "1718521424"
+      }
+    },
+    {
+      "title": "Fascination",
+      "artist": "Black Door Band",
+      "album": "Fascination - Single",
+      "durationMs": 263285,
+      "ids": {
+        "appleMusic": "1756028025"
+      }
+    },
+    {
+      "title": "First Star",
+      "artist": "Kevin Fort",
+      "album": "First Star - Single",
+      "durationMs": 321840,
+      "ids": {
+        "appleMusic": "1693932041"
+      }
+    },
+    {
+      "title": "Silver Starlings",
+      "artist": "Andy Luma Trio",
+      "album": "Silver Starlings - Single",
+      "durationMs": 168787,
+      "ids": {
+        "appleMusic": "1805613457"
+      }
+    },
+    {
+      "title": "Bluesette",
+      "artist": "Nouvelle Marée",
+      "album": "Bluesette - Single",
+      "durationMs": 205824,
+      "ids": {
+        "appleMusic": "1711043086"
+      }
+    },
+    {
+      "title": "Forever and Ever",
+      "artist": "Wolfgang Haffner",
+      "album": "Silent World",
+      "durationMs": 272280,
+      "ids": {
+        "appleMusic": "1657142626"
+      }
+    },
+    {
+      "title": "Spring Waltz",
+      "artist": "Ivory Soul Trio",
+      "album": "Spring Waltz - Single",
+      "durationMs": 160853,
+      "ids": {
+        "appleMusic": "1805611671"
+      }
+    },
+    {
+      "title": "It Could Be You",
+      "artist": "Reverie Trio",
+      "album": "Fly Me To the Moon - EP",
+      "durationMs": 240575,
+      "ids": {
+        "appleMusic": "1723812295"
+      }
+    },
+    {
+      "title": "The Water Maiden",
+      "artist": "Buddy Kearnan Quartet",
+      "album": "The Water Maiden - Single",
+      "durationMs": 207231,
+      "ids": {
+        "appleMusic": "1701634663"
+      }
+    },
+    {
+      "title": "The Cage",
+      "artist": "Arta Porting",
+      "album": "The Cage - Single",
+      "durationMs": 299334,
+      "ids": {
+        "appleMusic": "1773589999"
+      }
+    },
+    {
+      "title": "Sunlit Sonata",
+      "artist": "Halcyon Jazz Band",
+      "album": "Sunlit Sonata - Single",
+      "durationMs": 158867,
+      "ids": {
+        "appleMusic": "1735898226"
+      }
+    },
+    {
+      "title": "Tales of the Urban Night",
+      "artist": "Duponte et Duponte",
+      "album": "Tales of the Urban Night - Single",
+      "durationMs": 235679,
+      "ids": {
+        "appleMusic": "1733421450"
+      }
+    },
+    {
+      "title": "You’re Always Waiting",
+      "artist": "Hudson Harris \u0026 Haim",
+      "album": "You’re Always Waiting - Single",
+      "durationMs": 159721,
+      "ids": {
+        "appleMusic": "1755379708"
+      }
+    },
+    {
+      "title": "Alfie",
+      "artist": "Antonio Zambrini, Jesper Bodilsen \u0026 Martin Maretti Andersen",
+      "album": "Quietly",
+      "durationMs": 499328,
+      "ids": {
+        "appleMusic": "1651577969"
+      }
+    },
+    {
+      "title": "Blues for a Lost Love",
+      "artist": "Reed Stricklers",
+      "album": "Blues for a Lost Love - Single",
+      "durationMs": 166500,
+      "ids": {
+        "appleMusic": "1678114176"
+      }
+    },
+    {
+      "title": "How Long Have I Waited?",
+      "artist": "Thames Quartet",
+      "album": "Bittersweet - Single",
+      "durationMs": 191474,
+      "ids": {
+        "appleMusic": "1712044494"
+      }
+    },
+    {
+      "title": "Earnestly",
+      "artist": "Novo Stella",
+      "album": "Earnestly - Single",
+      "durationMs": 252814,
+      "ids": {
+        "appleMusic": "1684776477"
+      }
+    },
+    {
+      "title": "Stars Above",
+      "artist": "Nordic Light Trio",
+      "album": "Stars Above - Single",
+      "durationMs": 178484,
+      "ids": {
+        "appleMusic": "1721202130"
+      }
+    },
+    {
+      "title": "Vilan",
+      "artist": "Bladverk Band",
+      "album": "Vilan - Single",
+      "durationMs": 174875,
+      "ids": {
+        "appleMusic": "1711070590"
+      }
+    },
+    {
+      "title": "Featherlight",
+      "artist": "Glass Trio",
+      "album": "Featherlight - Single",
+      "durationMs": 195232,
+      "ids": {
+        "appleMusic": "1736349684"
+      }
+    },
+    {
+      "title": "For Joey",
+      "artist": "Thames Quartet",
+      "album": "For Joey - Single",
+      "durationMs": 288925,
+      "ids": {
+        "appleMusic": "1706941597"
+      }
+    },
+    {
+      "title": "Prelude",
+      "artist": "Luke Marantz Trio",
+      "album": "Prelude - Single",
+      "durationMs": 171458,
+      "ids": {
+        "appleMusic": "1727949778"
+      }
+    },
+    {
+      "title": "Green Flash",
+      "artist": "Kristian Hart Trio",
+      "album": "Green Flash - Single",
+      "durationMs": 224403,
+      "ids": {
+        "appleMusic": "1800062629"
+      }
+    },
+    {
+      "title": "Graceful Rhapsody",
+      "artist": "Velvet Groove",
+      "album": "Graceful Rhapsody - Single",
+      "durationMs": 162708,
+      "ids": {
+        "appleMusic": "1707097822"
+      }
+    },
+    {
+      "title": "Madrigal",
+      "artist": "Dave Oakley trio",
+      "album": "Madrigal - Single",
+      "durationMs": 195125,
+      "ids": {
+        "appleMusic": "1673050068"
+      }
+    },
+    {
+      "title": "Remembering You",
+      "artist": "Trio Rosa",
+      "album": "Remembering You - Single",
+      "durationMs": 190430,
+      "ids": {
+        "appleMusic": "1756219739"
+      }
+    },
+    {
+      "title": "Someone",
+      "artist": "Eugene Lambert",
+      "album": "Someone - Single",
+      "durationMs": 236152,
+      "ids": {
+        "appleMusic": "1738916909"
+      }
+    },
+    {
+      "title": "Railroad Tracks",
+      "artist": "Tiril Brandt",
+      "album": "Railroad Tracks - Single",
+      "durationMs": 192249,
+      "ids": {
+        "appleMusic": "1738302182"
+      }
+    },
+    {
+      "title": "Me and You",
+      "artist": "Måns \u0026 Dotter",
+      "album": "Me and You - Single",
+      "durationMs": 182564,
+      "ids": {
+        "appleMusic": "1671806950"
+      }
+    },
+    {
+      "title": "Forever Us",
+      "artist": "Andy Goodman",
+      "album": "Forever Us - Single",
+      "durationMs": 224000,
+      "ids": {
+        "appleMusic": "1740126015"
+      }
+    },
+    {
+      "title": "Late Night",
+      "artist": "Trio Del Norte",
+      "album": "Late Night - Single",
+      "durationMs": 292624,
+      "ids": {
+        "appleMusic": "1741182212"
+      }
+    },
+    {
+      "title": "Golden Moments",
+      "artist": "Benjamin Davies",
+      "album": "Golden Moments - Single",
+      "durationMs": 208500,
+      "ids": {
+        "appleMusic": "1730079648"
+      }
+    },
+    {
+      "title": "Thursday Afternoon",
+      "artist": "CMC 3",
+      "album": "Thursday Afternoon - Single",
+      "durationMs": 198895,
+      "ids": {
+        "appleMusic": "1742612181"
+      }
+    },
+    {
+      "title": "Through the Rain",
+      "artist": "Dries Riesen",
+      "album": "Through the Rain - Single",
+      "durationMs": 164917,
+      "ids": {
+        "appleMusic": "1728677860"
+      }
+    },
+    {
+      "title": "Early Spring",
+      "artist": "Tom Francis",
+      "album": "Early Spring - Single",
+      "durationMs": 169750,
+      "ids": {
+        "appleMusic": "1732095452"
+      }
+    },
+    {
+      "title": "Tears",
+      "artist": "Wonder Eve",
+      "album": "Tears - Single",
+      "durationMs": 212200,
+      "ids": {
+        "appleMusic": "1738298902"
+      }
+    },
+    {
+      "title": "Storvindeln",
+      "artist": "Bladverk Band",
+      "album": "Storvindeln - Single",
+      "durationMs": 216670,
+      "ids": {
+        "appleMusic": "1666907679"
+      }
+    },
+    {
+      "title": "Neon Nightscape",
+      "artist": "Fulton Street Players",
+      "album": "Neon Nightscape - Single",
+      "durationMs": 164948,
+      "ids": {
+        "appleMusic": "1722041660"
+      }
+    },
+    {
+      "title": "On Delancey",
+      "artist": "The Groove Trio",
+      "album": "Big Apple - Single",
+      "durationMs": 227016,
+      "ids": {
+        "appleMusic": "1671598666"
+      }
+    },
+    {
+      "title": "Prez Delight",
+      "artist": "Jenny Jones",
+      "album": "Prez Delight - Single",
+      "durationMs": 215767,
+      "ids": {
+        "appleMusic": "1671802180"
+      }
+    },
+    {
+      "title": "Still",
+      "artist": "Reed Stricklers",
+      "album": "Still - Single",
+      "durationMs": 151543,
+      "ids": {
+        "appleMusic": "1671788817"
+      }
+    },
+    {
+      "title": "Blue Mist",
+      "artist": "Matt Marantz Quartet",
+      "album": "Blue Mist - Single",
+      "durationMs": 204545,
+      "ids": {
+        "appleMusic": "1665502564"
+      }
+    },
+    {
+      "title": "Something Is Off",
+      "artist": "Nouvelle Marée",
+      "album": "Something Is Off - Single",
+      "durationMs": 235221,
+      "ids": {
+        "appleMusic": "1738300457"
+      }
+    },
+    {
+      "title": "Where Are You?",
+      "artist": "Kevin Fort",
+      "album": "Where Are You? - Single",
+      "durationMs": 346200,
+      "ids": {
+        "appleMusic": "1694041346"
+      }
+    },
+    {
+      "title": "Elegant As They Come",
+      "artist": "Prism Trio",
+      "album": "Above the Clouds - Single",
+      "durationMs": 262567,
+      "ids": {
+        "appleMusic": "1702332224"
+      }
+    },
+    {
+      "title": "Buddies",
+      "artist": "Tree Nomads",
+      "album": "Buddies - Single",
+      "durationMs": 214475,
+      "ids": {
+        "appleMusic": "1772345163"
+      }
+    },
+    {
+      "title": "Was It Me?",
+      "artist": "Al Fowler Trio",
+      "album": "Was It Me? - Single",
+      "durationMs": 261777,
+      "ids": {
+        "appleMusic": "1718519710"
+      }
+    },
+    {
+      "title": "Rhapsody in Raindrops",
+      "artist": "Tannenbaum Trio",
+      "album": "Rhapsody in Raindrops - Single",
+      "durationMs": 200495,
+      "ids": {
+        "appleMusic": "1741740651"
+      }
+    },
+    {
+      "title": "Bitterly",
+      "artist": "Chris Memento",
+      "album": "Bitterly - Single",
+      "durationMs": 248625,
+      "ids": {
+        "appleMusic": "1734251963"
+      }
+    },
+    {
+      "title": "A Swim in Pine Lake",
+      "artist": "Tommie Blayne",
+      "album": "A Swim in Pine Lake - Single",
+      "durationMs": 201977,
+      "ids": {
+        "appleMusic": "1724950107"
+      }
+    },
+    {
+      "title": "Serenity",
+      "artist": "Emergence Quartet",
+      "album": "Serenity - Single",
+      "durationMs": 178210,
+      "ids": {
+        "appleMusic": "1730537262"
+      }
+    },
+    {
+      "title": "Please, Stay",
+      "artist": "Hviid Larsen",
+      "album": "Please, Stay - Single",
+      "durationMs": 188875,
+      "ids": {
+        "appleMusic": "1684777750"
+      }
+    },
+    {
+      "title": "Black Sun",
+      "artist": "Alec Taylor Trio",
+      "album": "Black Sun - Single",
+      "durationMs": 223075,
+      "ids": {
+        "appleMusic": "1751324421"
+      }
+    },
+    {
+      "title": "Even If It Breaks My Heart",
+      "artist": "Ben \u0026 Katsy",
+      "album": "Even If It Breaks My Heart - Single",
+      "durationMs": 211863,
+      "ids": {
+        "appleMusic": "1728677285"
+      }
+    },
+    {
+      "title": "Standing Strong",
+      "artist": "Gabriel Gonzalez",
+      "album": "Standing Strong - Single",
+      "durationMs": 151000,
+      "ids": {
+        "appleMusic": "1734251072"
+      }
+    },
+    {
+      "title": "Something About Him",
+      "artist": "Bruce Willmington \u0026 Co",
+      "album": "Something About Him - Single",
+      "durationMs": 160111,
+      "ids": {
+        "appleMusic": "1671776130"
+      }
+    },
+    {
+      "title": "Stella by Starlight",
+      "artist": "Drew Milner",
+      "album": "Stella by Starlight - Single",
+      "durationMs": 165080,
+      "ids": {
+        "appleMusic": "1714291490"
+      }
+    },
+    {
+      "title": "Above All",
+      "artist": "Arthur Taylor Trio",
+      "album": "Above All - Single",
+      "durationMs": 182733,
+      "ids": {
+        "appleMusic": "1716746291"
+      }
+    },
+    {
+      "title": "Up Before the Dawn",
+      "artist": "Dave Oakley trio",
+      "album": "Up Before the Dawn - Single",
+      "durationMs": 213750,
+      "ids": {
+        "appleMusic": "1685900636"
+      }
+    },
+    {
+      "title": "In the Mood for Romance",
+      "artist": "Sidney Hatfield Trio",
+      "album": "In the Mood for Romance - Single",
+      "durationMs": 219070,
+      "ids": {
+        "appleMusic": "1721202095"
+      }
+    },
+    {
+      "title": "She's Funny That Way",
+      "artist": "Tonic and their Time",
+      "album": "She's Funny That Way - Single",
+      "durationMs": 226220,
+      "ids": {
+        "appleMusic": "1680895751"
+      }
+    },
+    {
+      "title": "Falling in Love with Love",
+      "artist": "Drew Milner",
+      "album": "Falling in Love with Love - Single",
+      "durationMs": 174103,
+      "ids": {
+        "appleMusic": "1684708621"
+      }
+    },
+    {
+      "title": "All of the Little Things I Know",
+      "artist": "Midnight Trio",
+      "album": "All of the Little Things I Know - Single",
+      "durationMs": 291200,
+      "ids": {
+        "appleMusic": "1696643940"
+      }
+    },
+    {
+      "title": "May This Dance Last Forever",
+      "artist": "The Belleville Band",
+      "album": "May This Dance Last Forever - Single",
+      "durationMs": 169595,
+      "ids": {
+        "appleMusic": "1746491830"
+      }
+    },
+    {
+      "title": "The Lights of Macau",
+      "artist": "George Kuntz Four",
+      "album": "The Lights of Macau - Single",
+      "durationMs": 176146,
+      "ids": {
+        "appleMusic": "1738410651"
+      }
+    },
+    {
+      "title": "Just One More Day",
+      "artist": "LaSalle Street Trio",
+      "album": "Just One More Day - Single",
+      "durationMs": 167793,
+      "ids": {
+        "appleMusic": "1743810461"
+      }
+    },
+    {
+      "title": "Our Love Story",
+      "artist": "Ben \u0026 Katsy",
+      "album": "Our Love Story - Single",
+      "durationMs": 160597,
+      "ids": {
+        "appleMusic": "1680196490"
+      }
+    },
+    {
+      "title": "L'isle de belles rêves",
+      "artist": "Jean-Baptiste Rees",
+      "album": "L'isle de belles rêves - Single",
+      "durationMs": 187194,
+      "ids": {
+        "appleMusic": "1720712206"
+      }
+    },
+    {
+      "title": "From Now on",
+      "artist": "The Stilltones",
+      "album": "From Now on - Single",
+      "durationMs": 239339,
+      "ids": {
+        "appleMusic": "1728677447"
+      }
+    },
+    {
+      "title": "Whispered Longing",
+      "artist": "Shay Walsh",
+      "album": "Whispered Longing - Single",
+      "durationMs": 192035,
+      "ids": {
+        "appleMusic": "1723861245"
+      }
+    },
+    {
+      "title": "My Ship",
+      "artist": "Cecil Andrews",
+      "album": "My Ship - Single",
+      "durationMs": 156000,
+      "ids": {
+        "appleMusic": "1705859264"
+      }
+    },
+    {
+      "title": "Once Knowing",
+      "artist": "The Levon Trio",
+      "album": "Once Knowing - Single",
+      "durationMs": 194794,
+      "ids": {
+        "appleMusic": "1671663816"
+      }
+    },
+    {
+      "title": "Blue Note Balladry",
+      "artist": "The Belleville Band",
+      "album": "Blue Note Balladry - Single",
+      "durationMs": 259376,
+      "ids": {
+        "appleMusic": "1738410641"
+      }
+    },
+    {
+      "title": "Next Door Guy",
+      "artist": "Jaden Berry",
+      "album": "Next Door Guy - Single",
+      "durationMs": 163240,
+      "ids": {
+        "appleMusic": "1703264863"
+      }
+    },
+    {
+      "title": "My One and Only Love",
+      "artist": "Carl Winther Trio",
+      "album": "More Swingin' - EP",
+      "durationMs": 277860,
+      "ids": {
+        "appleMusic": "1653471762"
+      }
+    },
+    {
+      "title": "A Look of Confusion",
+      "artist": "Reuben Plays",
+      "album": "A Look of Confusion - Single",
+      "durationMs": 215951,
+      "ids": {
+        "appleMusic": "1739780342"
+      }
+    },
+    {
+      "title": "Solace",
+      "artist": "Gillian Spencer Trio",
+      "album": "Solace - Single",
+      "durationMs": 176263,
+      "ids": {
+        "appleMusic": "1743421504"
+      }
+    },
+    {
+      "title": "I'll Be There",
+      "artist": "Bernstein Square",
+      "album": "I'll Be There - Single",
+      "durationMs": 230050,
+      "ids": {
+        "appleMusic": "1721202889"
+      }
+    },
+    {
+      "title": "Filippa",
+      "artist": "Jules Moreau",
+      "album": "Filippa - Single",
+      "durationMs": 258750,
+      "ids": {
+        "appleMusic": "1729216175"
+      }
+    },
+    {
+      "title": "You're A Rainbow",
+      "artist": "Smoke \u0026 Mirrors Trio",
+      "album": "Love In Your Arms - Single",
+      "durationMs": 255144,
+      "ids": {
+        "appleMusic": "1672902460"
+      }
+    },
+    {
+      "title": "Midnight",
+      "artist": "Neil Chapman Green",
+      "album": "Midnight - Single",
+      "durationMs": 210435,
+      "ids": {
+        "appleMusic": "1764231965"
+      }
+    },
+    {
+      "title": "A Place I Knew",
+      "artist": "The Sweetgreens",
+      "album": "A Place I Knew - Single",
+      "durationMs": 160867,
+      "ids": {
+        "appleMusic": "1671784220"
+      }
+    },
+    {
+      "title": "Café Conversations",
+      "artist": "Foster Davies",
+      "album": "Café Conversations - Single",
+      "durationMs": 224076,
+      "ids": {
+        "appleMusic": "1692170205"
+      }
+    },
+    {
+      "title": "Embraced by Night",
+      "artist": "Sparrow \u0026 Bird",
+      "album": "Embraced by Night - Single",
+      "durationMs": 183544,
+      "ids": {
+        "appleMusic": "1728677682"
+      }
+    },
+    {
+      "title": "Hidden Harmonies",
+      "artist": "Duponte et Duponte",
+      "album": "Starry Night Grooves",
+      "durationMs": 199809,
+      "ids": {
+        "appleMusic": "1738411425"
+      }
+    },
+    {
+      "title": "Take My Heart",
+      "artist": "James Jackson Jazz Trio",
+      "album": "Take My Heart - Single",
+      "durationMs": 211807,
+      "ids": {
+        "appleMusic": "1724567179"
+      }
+    },
+    {
+      "title": "This Isn’t Home",
+      "artist": "Newington Green",
+      "album": "This Isn’t Home - Single",
+      "durationMs": 166115,
+      "ids": {
+        "appleMusic": "1671784076"
+      }
+    },
+    {
+      "title": "Forgetful",
+      "artist": "Old Town Trio",
+      "album": "Forgetful - Single",
+      "durationMs": 246250,
+      "ids": {
+        "appleMusic": "1729217841"
+      }
+    },
+    {
+      "title": "Where or When",
+      "artist": "Joe Wilson Trio",
+      "album": "Where or When - Single",
+      "durationMs": 208202,
+      "ids": {
+        "appleMusic": "1721201813"
+      }
+    },
+    {
+      "title": "Nowhere to Go",
+      "artist": "Bruce Willmington \u0026 Co",
+      "album": "Nowhere to Go - Single",
+      "durationMs": 164309,
+      "ids": {
+        "appleMusic": "1695086597"
+      }
+    },
+    {
+      "title": "Never Ever",
+      "artist": "Belleville",
+      "album": "Never Ever - Single",
+      "durationMs": 218875,
+      "ids": {
+        "appleMusic": "1747295171"
+      }
+    },
+    {
+      "title": "Ask Me Now",
+      "artist": "Mike Coen",
+      "album": "Ask Me Now - Single",
+      "durationMs": 281067,
+      "ids": {
+        "appleMusic": "1714293610"
+      }
+    },
+    {
+      "title": "Heartbreak Avenue",
+      "artist": "James Elias",
+      "album": "Heartbreak Avenue - Single",
+      "durationMs": 188000,
+      "ids": {
+        "appleMusic": "1678113579"
+      }
+    },
+    {
+      "title": "Midnight Moods",
+      "artist": "Eight Bar Band",
+      "album": "Midnight Moods - Single",
+      "durationMs": 179661,
+      "ids": {
+        "appleMusic": "1680193156"
+      }
+    },
+    {
+      "title": "Tenderly",
+      "artist": "The Blue Green",
+      "album": "Tenderly - Single",
+      "durationMs": 196000,
+      "ids": {
+        "appleMusic": "1741420202"
+      }
+    },
+    {
+      "title": "Smooth Sailing",
+      "artist": "Norberg",
+      "album": "Smooth Sailing - Single",
+      "durationMs": 125329,
+      "ids": {
+        "appleMusic": "1692170552"
+      }
+    },
+    {
+      "title": "Make It Rain",
+      "artist": "Henning Witsell",
+      "album": "Make It Rain - Single",
+      "durationMs": 149853,
+      "ids": {
+        "appleMusic": "1728677579"
+      }
+    },
+    {
+      "title": "As I Ponder",
+      "artist": "Ted Ross Quartet",
+      "album": "As I Ponder - Single",
+      "durationMs": 199355,
+      "ids": {
+        "appleMusic": "1701635169"
+      }
+    },
+    {
+      "title": "The Lights",
+      "artist": "Anthony Hide Trio",
+      "album": "The Lights - Single",
+      "durationMs": 215000,
+      "ids": {
+        "appleMusic": "1735322846"
+      }
+    },
+    {
+      "title": "Somewhere",
+      "artist": "Cara Myers Trio",
+      "album": "Somewhere - Single",
+      "durationMs": 219070,
+      "ids": {
+        "appleMusic": "1723161978"
+      }
+    },
+    {
+      "title": "Jazz Junction",
+      "artist": "James Earle Trio",
+      "album": "Jazz Junction - Single",
+      "durationMs": 156299,
+      "ids": {
+        "appleMusic": "1726320926"
+      }
+    },
+    {
+      "title": "I Must Have...",
+      "artist": "The Holly Molly Trio",
+      "album": "I Must Have... - Single",
+      "durationMs": 193114,
+      "ids": {
+        "appleMusic": "1740479794"
+      }
+    },
+    {
+      "title": "Lost in Your Gaze",
+      "artist": "The Mill Basin Band",
+      "album": "Lost in Your Gaze - Single",
+      "durationMs": 150233,
+      "ids": {
+        "appleMusic": "1728678371"
+      }
+    },
+    {
+      "title": "Autumn Promises",
+      "artist": "Derek Hines Trio",
+      "album": "Autumn Promises - Single",
+      "durationMs": 198826,
+      "ids": {
+        "appleMusic": "1697904355"
+      }
+    },
+    {
+      "title": "Sailing Stones",
+      "artist": "Andy Luma Trio",
+      "album": "Sailing Stones - Single",
+      "durationMs": 200933,
+      "ids": {
+        "appleMusic": "1741420209"
+      }
+    },
+    {
+      "title": "Soulful Stroll",
+      "artist": "James Earle Trio",
+      "album": "Soulful Stroll - Single",
+      "durationMs": 230089,
+      "ids": {
+        "appleMusic": "1692170543"
+      }
+    },
+    {
+      "title": "Summer Green",
+      "artist": "The Slow Nine",
+      "album": "Summer Green - Single",
+      "durationMs": 263482,
+      "ids": {
+        "appleMusic": "1713189535"
+      }
+    },
+    {
+      "title": "Brother Rabbit",
+      "artist": "Jacky Bonnet Group",
+      "album": "Brother Rabbit - Single",
+      "durationMs": 177521,
+      "ids": {
+        "appleMusic": "1659694263"
+      }
+    },
+    {
+      "title": "To the Little Man",
+      "artist": "Ray Love Trio",
+      "album": "To the Little Man - Single",
+      "durationMs": 168518,
+      "ids": {
+        "appleMusic": "1765140865"
+      }
+    },
+    {
+      "title": "Simple Pleasures",
+      "artist": "London Dunes",
+      "album": "Simple Pleasures - Single",
+      "durationMs": 291506,
+      "ids": {
+        "appleMusic": "1715406457"
+      }
+    },
+    {
+      "title": "Touch the Rain",
+      "artist": "Red Brick Lane",
+      "album": "Touch the Rain - Single",
+      "durationMs": 221862,
+      "ids": {
+        "appleMusic": "1726320873"
+      }
+    },
+    {
+      "title": "Fragile",
+      "artist": "Amir Patel",
+      "album": "Fragile - Single",
+      "durationMs": 205500,
+      "ids": {
+        "appleMusic": "1730079618"
+      }
+    },
+    {
+      "title": "Autumn Memories",
+      "artist": "Nathan Hill Trio",
+      "album": "Autumn Memories - Single",
+      "durationMs": 206512,
+      "ids": {
+        "appleMusic": "1722312610"
+      }
+    },
+    {
+      "title": "Maid of the Mist",
+      "artist": "Maxime Leroy Trio",
+      "album": "Maid of the Mist - Single",
+      "durationMs": 144173,
+      "ids": {
+        "appleMusic": "1659694282"
+      }
+    },
+    {
+      "title": "Don't Take Me for Granted",
+      "artist": "Odo Lefebvre",
+      "album": "Don't Take Me for Granted - Single",
+      "durationMs": 191428,
+      "ids": {
+        "appleMusic": "1673054657"
+      }
+    },
+    {
+      "title": "Midnight Reverie",
+      "artist": "Nicholas Fischer",
+      "album": "Midnight Reverie - Single",
+      "durationMs": 228837,
+      "ids": {
+        "appleMusic": "1718519764"
+      }
+    },
+    {
+      "title": "Brahms Lullaby",
+      "artist": "Ben Paterson",
+      "album": "Jazz Lullaby",
+      "durationMs": 242705,
+      "ids": {
+        "appleMusic": "1690222031"
+      }
+    },
+    {
+      "title": "Leave Your Umbrella at Home",
+      "artist": "Billy Hicks Quartet",
+      "album": "Leave Your Umbrella at Home - Single",
+      "durationMs": 202087,
+      "ids": {
+        "appleMusic": "1741740251"
+      }
+    },
+    {
+      "title": "You're So Many Things",
+      "artist": "Trio Serena",
+      "album": "You're So Many Things - Single",
+      "durationMs": 223644,
+      "ids": {
+        "appleMusic": "1740591464"
+      }
+    },
+    {
+      "title": "Countless Times",
+      "artist": "Meadowpoints",
+      "album": "Countless Times - Single",
+      "durationMs": 221392,
+      "ids": {
+        "appleMusic": "1754501813"
+      }
+    },
+    {
+      "title": "Food Is the Dream",
+      "artist": "Dan Evans-Parker",
+      "album": "Food Is the Dream - Single",
+      "durationMs": 141905,
+      "ids": {
+        "appleMusic": "1692170976"
+      }
+    },
+    {
+      "title": "Heaven Here",
+      "artist": "Greydon Park Band",
+      "album": "Heaven Here - Single",
+      "durationMs": 212111,
+      "ids": {
+        "appleMusic": "1692170444"
+      }
+    },
+    {
+      "title": "I Was Young Once",
+      "artist": "The Boston Four",
+      "album": "I Was Young Once - Single",
+      "durationMs": 205288,
+      "ids": {
+        "appleMusic": "1723858926"
+      }
+    },
+    {
+      "title": "Lost Without You",
+      "artist": "Joe Wilson Trio",
+      "album": "Lost Without You - Single",
+      "durationMs": 212791,
+      "ids": {
+        "appleMusic": "1723860980"
+      }
+    },
+    {
+      "title": "For Heaven's Sake",
+      "artist": "Felix McCoy Quartet",
+      "album": "For Heaven's Sake - Single",
+      "durationMs": 210680,
+      "ids": {
+        "appleMusic": "1673057138"
+      }
+    },
+    {
+      "title": "When I Fall in Love",
+      "artist": "Enzo Orefice Trio",
+      "album": "On the Trail, Pt. 6 - EP",
+      "durationMs": 273703,
+      "ids": {
+        "appleMusic": "1725154465"
+      }
+    },
+    {
+      "title": "Walk Beside Me",
+      "artist": "Gabriel Gonzalez",
+      "album": "Walk Beside Me - Single",
+      "durationMs": 200000,
+      "ids": {
+        "appleMusic": "1741414609"
+      }
+    },
+    {
+      "title": "Thoughts of You",
+      "artist": "Arto Ferrara",
+      "album": "Thoughts of You - Single",
+      "durationMs": 176125,
+      "ids": {
+        "appleMusic": "1704836322"
+      }
+    },
+    {
+      "title": "Twilight's Last Waltz",
+      "artist": "The Manhattan Trio",
+      "album": "Twilight's Last Waltz - Single",
+      "durationMs": 198359,
+      "ids": {
+        "appleMusic": "1723859893"
+      }
+    },
+    {
+      "title": "The Yellow Note",
+      "artist": "Hollbeck",
+      "album": "The Yellow Note - Single",
+      "durationMs": 229756,
+      "ids": {
+        "appleMusic": "1692170042"
+      }
+    },
+    {
+      "title": "The First Time I Saw You",
+      "artist": "Cole Peers trio",
+      "album": "The First Time I Saw You - Single",
+      "durationMs": 175500,
+      "ids": {
+        "appleMusic": "1676097692"
+      }
+    },
+    {
+      "title": "Rendezvous in Rhythm",
+      "artist": "KTZ Players",
+      "album": "Rendezvous in Rhythm - Single",
+      "durationMs": 157584,
+      "ids": {
+        "appleMusic": "1721861277"
+      }
+    },
+    {
+      "title": "For Jan",
+      "artist": "Nordic Light Trio",
+      "album": "For Jan - Single",
+      "durationMs": 158500,
+      "ids": {
+        "appleMusic": "1727551650"
+      }
+    },
+    {
+      "title": "Ain’t No Sense",
+      "artist": "Southside Trio",
+      "album": "Ain’t No Sense - Single",
+      "durationMs": 154160,
+      "ids": {
+        "appleMusic": "1742613550"
+      }
+    },
+    {
+      "title": "Nothing but Elegant",
+      "artist": "Trois Amis!",
+      "album": "Nothing but Elegant - Single",
+      "durationMs": 207554,
+      "ids": {
+        "appleMusic": "1746261932"
+      }
+    },
+    {
+      "title": "Lost but Found",
+      "artist": "Nathan Hill Trio",
+      "album": "Lost but Found - Single",
+      "durationMs": 198140,
+      "ids": {
+        "appleMusic": "1716746683"
+      }
+    },
+    {
+      "title": "Walking You Home",
+      "artist": "Mino Conte \u0026 Co",
+      "album": "Walking You Home - Single",
+      "durationMs": 179416,
+      "ids": {
+        "appleMusic": "1746261929"
+      }
+    },
+    {
+      "title": "Everytime We Say Goodbye",
+      "artist": "Carl Bagge Trio",
+      "album": "Everytime We Say Goodbye - Single",
+      "durationMs": 280735,
+      "ids": {
+        "appleMusic": "1813890720"
+      }
+    },
+    {
+      "title": "There's Something",
+      "artist": "The Three Queens",
+      "album": "There's Something - Single",
+      "durationMs": 213739,
+      "ids": {
+        "appleMusic": "1739780583"
+      }
+    },
+    {
+      "title": "Love in the First Degree",
+      "artist": "Dan Evans-Parker",
+      "album": "Love in the First Degree - Single",
+      "durationMs": 192319,
+      "ids": {
+        "appleMusic": "1671804282"
+      }
+    },
+    {
+      "title": "At the End of the Day",
+      "artist": "Ornette Haynes",
+      "album": "At the End of the Day - Single",
+      "durationMs": 216732,
+      "ids": {
+        "appleMusic": "1739780787"
+      }
+    },
+    {
+      "title": "Interpret as You May",
+      "artist": "Kendrettes",
+      "album": "Interpret as You May - Single",
+      "durationMs": 218363,
+      "ids": {
+        "appleMusic": "1738410131"
+      }
+    },
+    {
+      "title": "I’ll Pass It On",
+      "artist": "Meadowpoints",
+      "album": "I’ll Pass It On - Single",
+      "durationMs": 214636,
+      "ids": {
+        "appleMusic": "1703267124"
+      }
+    },
+    {
+      "title": "Margot in May",
+      "artist": "Mike Coen",
+      "album": "Margot in May - Single",
+      "durationMs": 226750,
+      "ids": {
+        "appleMusic": "1740122954"
+      }
+    },
+    {
+      "title": "You Know I Care",
+      "artist": "Ian Buss",
+      "album": "You Know I Care - Single",
+      "durationMs": 387495,
+      "ids": {
+        "appleMusic": "1669995205"
+      }
+    },
+    {
+      "title": "Wear and Tear",
+      "artist": "Billy Hicks Quartet",
+      "album": "Wear and Tear - Single",
+      "durationMs": 212223,
+      "ids": {
+        "appleMusic": "1671797763"
+      }
+    },
+    {
+      "title": "Count Me In",
+      "artist": "Taylor Owen Trio",
+      "album": "Count Me In - Single",
+      "durationMs": 217085,
+      "ids": {
+        "appleMusic": "1750045747"
+      }
+    },
+    {
+      "title": "Hello from Above",
+      "artist": "Ordinary Sparks",
+      "album": "Blues for Elsie - Single",
+      "durationMs": 220500,
+      "ids": {
+        "appleMusic": "1697904244"
+      }
+    },
+    {
+      "title": "Everything I Love",
+      "artist": "Noodlin' Collective",
+      "album": "Everything I Love - Single",
+      "durationMs": 170244,
+      "ids": {
+        "appleMusic": "1680897236"
+      }
+    },
+    {
+      "title": "Angel Falls",
+      "artist": "Isac Solo Trio",
+      "album": "Angel Falls - Single",
+      "durationMs": 226679,
+      "ids": {
+        "appleMusic": "1742613453"
+      }
+    },
+    {
+      "title": "Midnight Memories",
+      "artist": "Arthur Taylor Trio",
+      "album": "Midnight Memories - Single",
+      "durationMs": 170233,
+      "ids": {
+        "appleMusic": "1697908474"
+      }
+    },
+    {
+      "title": "Echoes of You",
+      "artist": "Taylor Owen Trio",
+      "album": "Echoes of You - Single",
+      "durationMs": 196801,
+      "ids": {
+        "appleMusic": "1743807694"
+      }
+    },
+    {
+      "title": "Promenade With You",
+      "artist": "Trio Rosa",
+      "album": "Promenade With You - Single",
+      "durationMs": 220404,
+      "ids": {
+        "appleMusic": "1750541121"
+      }
+    },
+    {
+      "title": "You Bet!",
+      "artist": "Kendrettes",
+      "album": "You Bet! - Single",
+      "durationMs": 222106,
+      "ids": {
+        "appleMusic": "1703264840"
+      }
+    },
+    {
+      "title": "Spring Will Be a Little Late This Year",
+      "artist": "Neo Fourths Trio",
+      "album": "Spring Will Be a Little Late This Year - Single",
+      "durationMs": 187634,
+      "ids": {
+        "appleMusic": "1680897732"
+      }
+    },
+    {
+      "title": "Hope",
+      "artist": "Derek Hines Trio",
+      "album": "Hope - Single",
+      "durationMs": 207209,
+      "ids": {
+        "appleMusic": "1723161950"
+      }
+    },
+    {
+      "title": "Unending",
+      "artist": "The Levon Trio",
+      "album": "Once Knowing - Single",
+      "durationMs": 257566,
+      "ids": {
+        "appleMusic": "1671663812"
+      }
+    },
+    {
+      "title": "Soulful Serenade",
+      "artist": "KTZ Players",
+      "album": "Soulful Serenade - Single",
+      "durationMs": 201347,
+      "ids": {
+        "appleMusic": "1683876819"
+      }
+    },
+    {
+      "title": "Don’t Ruin It",
+      "artist": "Lia Riggs Trio",
+      "album": "Don’t Ruin It - Single",
+      "durationMs": 134035,
+      "ids": {
+        "appleMusic": "1703267154"
+      }
+    },
+    {
+      "title": "Accidently on Purpose",
+      "artist": "Figgy Mold",
+      "album": "Accidently on Purpose - Single",
+      "durationMs": 177231,
+      "ids": {
+        "appleMusic": "1703265983"
+      }
+    },
+    {
+      "title": "Don't Blame Me",
+      "artist": "Rudy Winston",
+      "album": "Don't Blame Me - Single",
+      "durationMs": 186090,
+      "ids": {
+        "appleMusic": "1678697270"
+      }
+    },
+    {
+      "title": "Need You Here",
+      "artist": "Urban Jazz Junction",
+      "album": "Need You Here - Single",
+      "durationMs": 248500,
+      "ids": {
+        "appleMusic": "1738298021"
+      }
+    },
+    {
+      "title": "Dazzle My Eyes",
+      "artist": "Astoria Three",
+      "album": "Dazzle My Eyes - Single",
+      "durationMs": 205686,
+      "ids": {
+        "appleMusic": "1741505363"
+      }
+    },
+    {
+      "title": "Jazz Odyssey",
+      "artist": "Red Brick Lane",
+      "album": "Jazz Odyssey - Single",
+      "durationMs": 170784,
+      "ids": {
+        "appleMusic": "1692169386"
+      }
+    },
+    {
+      "title": "Place Under the Sun",
+      "artist": "Tate Jackson Trio",
+      "album": "Place Under the Sun - Single",
+      "durationMs": 204041,
+      "ids": {
+        "appleMusic": "1745053120"
+      }
+    },
+    {
+      "title": "I Fall in Love Too Easily",
+      "artist": "Mason Embry Trio",
+      "album": "A Song for You",
+      "durationMs": 289761,
+      "ids": {
+        "appleMusic": "1705352663"
+      }
+    },
+    {
+      "title": "Old Georgie",
+      "artist": "Ben Lively",
+      "album": "Old Georgie - Single",
+      "durationMs": 182869,
+      "ids": {
+        "appleMusic": "1673053271"
+      }
+    },
+    {
+      "title": "Take Me to Liverpool",
+      "artist": "Charles Daisey \u0026 Friends",
+      "album": "Take Me to Liverpool - Single",
+      "durationMs": 204752,
+      "ids": {
+        "appleMusic": "1703265445"
+      }
+    },
+    {
+      "title": "Empty Embrace",
+      "artist": "Halcyon Jazz Band",
+      "album": "Empty Embrace - Single",
+      "durationMs": 185517,
+      "ids": {
+        "appleMusic": "1680196389"
+      }
+    },
+    {
+      "title": "Reflections in Blue",
+      "artist": "Old Town Trio",
+      "album": "Reflections in Blue - Single",
+      "durationMs": 152500,
+      "ids": {
+        "appleMusic": "1707098735"
+      }
+    },
+    {
+      "title": "A Note's Journey",
+      "artist": "Isaiah Lewis",
+      "album": "A Note's Journey - Single",
+      "durationMs": 228140,
+      "ids": {
+        "appleMusic": "1718521092"
+      }
+    },
+    {
+      "title": "Without Doubt",
+      "artist": "The Holly Molly Trio",
+      "album": "Without Doubt - Single",
+      "durationMs": 169267,
+      "ids": {
+        "appleMusic": "1754501677"
+      }
+    },
+    {
+      "title": "Love's Declaration",
+      "artist": "Gail Cameron",
+      "album": "Love's Declaration - Single",
+      "durationMs": 217674,
+      "ids": {
+        "appleMusic": "1723861011"
+      }
+    },
+    {
+      "title": "Almost Home",
+      "artist": "Kingsbury Station",
+      "album": "Almost Home - Single",
+      "durationMs": 158707,
+      "ids": {
+        "appleMusic": "1728677097"
+      }
+    },
+    {
+      "title": "Strong, Silent Type",
+      "artist": "Tate Jackson Trio",
+      "album": "Strong, Silent Type - Single",
+      "durationMs": 198438,
+      "ids": {
+        "appleMusic": "1703267244"
+      }
+    },
+    {
+      "title": "Late Night Serenade",
+      "artist": "Devon Crouch",
+      "album": "Late Night Serenade - Single",
+      "durationMs": 195500,
+      "ids": {
+        "appleMusic": "1678114673"
+      }
+    },
+    {
+      "title": "Walking into Love",
+      "artist": "Nordic Swing",
+      "album": "Walking into Love - Single",
+      "durationMs": 197395,
+      "ids": {
+        "appleMusic": "1680197721"
+      }
+    },
+    {
+      "title": "Endless",
+      "artist": "Luke Marantz Trio",
+      "album": "Endless - Single",
+      "durationMs": 206901,
+      "ids": {
+        "appleMusic": "1735154909"
+      }
+    },
+    {
+      "title": "Anything Valuable",
+      "artist": "Jill \u0026 Henry",
+      "album": "Anything Valuable - Single",
+      "durationMs": 226287,
+      "ids": {
+        "appleMusic": "1721861580"
+      }
+    },
+    {
+      "title": "How About You",
+      "artist": "Neo Fourths Trio",
+      "album": "How About You - Single",
+      "durationMs": 202556,
+      "ids": {
+        "appleMusic": "1692169666"
+      }
+    },
+    {
+      "title": "She Skirts Away",
+      "artist": "The Uptown Players",
+      "album": "She Skirts Away - Single",
+      "durationMs": 199795,
+      "ids": {
+        "appleMusic": "1683879765"
+      }
+    },
+    {
+      "title": "Isle of Skye",
+      "artist": "Karl-Erik Trio",
+      "album": "Isle of Skye - Single",
+      "durationMs": 216919,
+      "ids": {
+        "appleMusic": "1741419580"
+      }
+    },
+    {
+      "title": "Kings \u0026 Queens",
+      "artist": "Prism Trio",
+      "album": "Above the Clouds - Single",
+      "durationMs": 169959,
+      "ids": {
+        "appleMusic": "1702332222"
+      }
+    },
+    {
+      "title": "Heaven Sent You",
+      "artist": "Smoke \u0026 Mirrors Trio",
+      "album": "A Cookie For Marie - Single",
+      "durationMs": 254578,
+      "ids": {
+        "appleMusic": "1680428735"
+      }
+    },
+    {
+      "title": "Swedish Sauce",
+      "artist": "Sodermalm Strand",
+      "album": "Swedish Sauce - Single",
+      "durationMs": 201955,
+      "ids": {
+        "appleMusic": "1692169574"
+      }
+    },
+    {
+      "title": "To the Place I Once Knew",
+      "artist": "Basinettes",
+      "album": "To the Place I Once Knew - Single",
+      "durationMs": 170375,
+      "ids": {
+        "appleMusic": "1728678311"
+      }
+    },
+    {
+      "title": "Tideaway",
+      "artist": "Emergence Quartet",
+      "album": "Forest Green - Single",
+      "durationMs": 209431,
+      "ids": {
+        "appleMusic": "1708316895"
+      }
+    },
+    {
+      "title": "At Dawn",
+      "artist": "London Dunes",
+      "album": "Paris in Spring - Single",
+      "durationMs": 233947,
+      "ids": {
+        "appleMusic": "1709878217"
+      }
+    },
+    {
+      "title": "Ill Wind",
+      "artist": "Will Mays",
+      "album": "Ill Wind - Single",
+      "durationMs": 151111,
+      "ids": {
+        "appleMusic": "1705859468"
+      }
+    },
+    {
+      "title": "Silent Streets",
+      "artist": "Tannenbaum Trio",
+      "album": "Silent Streets - Single",
+      "durationMs": 195029,
+      "ids": {
+        "appleMusic": "1683876044"
+      }
+    },
+    {
+      "title": "This Tape Is Good",
+      "artist": "Newington Green",
+      "album": "This Tape Is Good - Single",
+      "durationMs": 221093,
+      "ids": {
+        "appleMusic": "1671782376"
+      }
+    },
+    {
+      "title": "Follow Your Dreams",
+      "artist": "Trio Del Norte",
+      "album": "Follow Your Dreams - Single",
+      "durationMs": 372671,
+      "ids": {
+        "appleMusic": "1738865828"
+      }
+    },
+    {
+      "title": "All the Things You Are",
+      "artist": "Upstage Trio",
+      "album": "All the Things You Are - Single",
+      "durationMs": 168949,
+      "ids": {
+        "appleMusic": "1680197094"
+      }
+    },
+    {
+      "title": "Unveiling the Mysteries",
+      "artist": "Quinn Perry Trio",
+      "album": "Unveiling the Mysteries - Single",
+      "durationMs": 204000,
+      "ids": {
+        "appleMusic": "1741413909"
+      }
+    },
+    {
+      "title": "Lots of It",
+      "artist": "Lia Riggs Trio",
+      "album": "Lots of It - Single",
+      "durationMs": 171449,
+      "ids": {
+        "appleMusic": "1743422132"
+      }
+    },
+    {
+      "title": "Went Another Way",
+      "artist": "Hudson Harris \u0026 Haim",
+      "album": "Went Another Way - Single",
+      "durationMs": 163962,
+      "ids": {
+        "appleMusic": "1671795501"
+      }
+    },
+    {
+      "title": "The Ansible",
+      "artist": "Benjamine Leroy Quartet",
+      "album": "The Ansible - Single",
+      "durationMs": 214376,
+      "ids": {
+        "appleMusic": "1673063552"
+      }
+    },
+    {
+      "title": "Asking You Out",
+      "artist": "Quinn Perry Trio",
+      "album": "Asking You Out - Single",
+      "durationMs": 184000,
+      "ids": {
+        "appleMusic": "1734250440"
+      }
+    },
+    {
+      "title": "Land Between the Lakes",
+      "artist": "Jaden Berry",
+      "album": "Land Between the Lakes - Single",
+      "durationMs": 163677,
+      "ids": {
+        "appleMusic": "1671782457"
+      }
+    },
+    {
+      "title": "Moonlit Melodies",
+      "artist": "Kuipers \u0026 Winter",
+      "album": "Moonlit Melodies - Single",
+      "durationMs": 209425,
+      "ids": {
+        "appleMusic": "1692171474"
+      }
+    },
+    {
+      "title": "Norah'S Place",
+      "artist": "Jonas Olofsson",
+      "album": "Norah'S Place - Single",
+      "durationMs": 163750,
+      "ids": {
+        "appleMusic": "1730086501"
+      }
+    },
+    {
+      "title": "Swingin' Skylines",
+      "artist": "Gillian Spencer Trio",
+      "album": "Swingin' Skylines - Single",
+      "durationMs": 235456,
+      "ids": {
+        "appleMusic": "1726320852"
+      }
+    },
+    {
+      "title": "I'm Old Fashioned",
+      "artist": "Hooks and Lines",
+      "album": "I'm Old Fashioned - Single",
+      "durationMs": 191017,
+      "ids": {
+        "appleMusic": "1680197483"
+      }
+    },
+    {
+      "title": "Quietude",
+      "artist": "Leeluck \u0026 Co",
+      "album": "Quietude - Single",
+      "durationMs": 244339,
+      "ids": {
+        "appleMusic": "1764231688"
+      }
+    },
+    {
+      "title": "Left Lane",
+      "artist": "Henning Witsell",
+      "album": "Left Lane - Single",
+      "durationMs": 187048,
+      "ids": {
+        "appleMusic": "1684776366"
+      }
+    }
+  ]
+}

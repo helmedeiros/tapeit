@@ -1,0 +1,1646 @@
+{
+  "name": "Pump me Up",
+  "tracks": [
+    {
+      "title": "Part of Me",
+      "artist": "Tedeschi Trucks Band",
+      "album": "Made Up Mind",
+      "durationMs": 248403,
+      "ids": {
+        "appleMusic": "656979408"
+      }
+    },
+    {
+      "title": "Midnight in Harlem",
+      "artist": "Tedeschi Trucks Band",
+      "album": "Revelator",
+      "durationMs": 352667,
+      "ids": {
+        "appleMusic": "434753214"
+      }
+    },
+    {
+      "title": "Bound for Glory",
+      "artist": "Tedeschi Trucks Band",
+      "album": "Revelator",
+      "durationMs": 328853,
+      "ids": {
+        "appleMusic": "434753215"
+      }
+    },
+    {
+      "title": "Amarelo (feat. Majur \u0026 Pabllo Vittar)",
+      "artist": "Emicida",
+      "album": "Amarelo",
+      "durationMs": 321493,
+      "ids": {
+        "appleMusic": "1495507321"
+      }
+    },
+    {
+      "title": "Ode to My Family",
+      "artist": "The Cranberries",
+      "album": "The Treasure Box for Boys and Girls",
+      "durationMs": 271533,
+      "ids": {
+        "appleMusic": "1440953232"
+      }
+    },
+    {
+      "title": "Never There",
+      "artist": "CAKE",
+      "album": "Prolonging the Magic",
+      "durationMs": 164267,
+      "ids": {
+        "appleMusic": "254830969"
+      }
+    },
+    {
+      "title": "Jenny Jenny",
+      "artist": "AnnenMayKantereit",
+      "album": "Schlagschatten",
+      "durationMs": 211678,
+      "ids": {
+        "appleMusic": "1436487786"
+      }
+    },
+    {
+      "title": "Lingus",
+      "artist": "Snarky Puppy",
+      "album": "We Like It Here",
+      "durationMs": 645720,
+      "ids": {
+        "appleMusic": "1322209832"
+      }
+    },
+    {
+      "title": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "album": "Red (Taylor’s Version): The Slow Motion Chapter",
+      "durationMs": 613000,
+      "ids": {
+        "appleMusic": "1604664819"
+      }
+    },
+    {
+      "title": "Agora Só Falta Você",
+      "artist": "Rita Lee \u0026 Tutti Frutti",
+      "album": "Fruto Proibido",
+      "durationMs": 204760,
+      "ids": {
+        "appleMusic": "712931780"
+      }
+    },
+    {
+      "title": "I Miss Her",
+      "artist": "Olodum",
+      "album": "Popularidade",
+      "durationMs": 247947,
+      "ids": {
+        "appleMusic": "1350828807"
+      }
+    },
+    {
+      "title": "Three Little Birds (feat. I-Three)",
+      "artist": "Gilberto Gil",
+      "album": "Kaya N'Gan Daya",
+      "durationMs": 189933,
+      "ids": {
+        "appleMusic": "1815038293"
+      }
+    },
+    {
+      "title": "Agora Só Falta Você (Acústico Live)",
+      "artist": "Rita Lee",
+      "album": "Acústico MTV (Live)",
+      "durationMs": 212293,
+      "ids": {
+        "appleMusic": "1442687778"
+      }
+    },
+    {
+      "title": "The Girl from Ipanema",
+      "artist": "Amy Winehouse",
+      "album": "Lioness: Hidden Treasures",
+      "durationMs": 168773,
+      "ids": {
+        "appleMusic": "1440810022"
+      }
+    },
+    {
+      "title": "Vapor barato",
+      "artist": "O Rappa",
+      "album": "Isfriou",
+      "durationMs": 263173,
+      "ids": {
+        "appleMusic": "1823933004"
+      }
+    },
+    {
+      "title": "Perdendo Dentes",
+      "artist": "Pato Fu",
+      "album": "Brazil: 100 Hits",
+      "durationMs": 260800,
+      "ids": {
+        "appleMusic": "1308630777"
+      }
+    },
+    {
+      "title": "Os cegos do castelo (Live)",
+      "artist": "Titãs",
+      "album": "Rock Hits",
+      "durationMs": 296773,
+      "ids": {
+        "appleMusic": "1695857691"
+      }
+    },
+    {
+      "title": "A Sombra da Maldade",
+      "artist": "Cidade Negra",
+      "album": "Sobre Todas as Forças",
+      "durationMs": 284533,
+      "ids": {
+        "appleMusic": "401845050"
+      }
+    },
+    {
+      "title": "La Bella Luna",
+      "artist": "Os Paralamas do Sucesso",
+      "album": "Nove Luas",
+      "durationMs": 192800
+    },
+    {
+      "title": "O Mundo Anda Tao Complicado",
+      "artist": "Legião Urbana",
+      "album": "Legiao Urbana V",
+      "durationMs": 226267,
+      "ids": {
+        "appleMusic": "713927105"
+      }
+    },
+    {
+      "title": "O Vento",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 213867,
+      "ids": {
+        "appleMusic": "860819074"
+      }
+    },
+    {
+      "title": "A Estrada",
+      "artist": "Cidade Negra",
+      "album": "Quanto Mais Curtido Melhor",
+      "durationMs": 282160,
+      "ids": {
+        "appleMusic": "476991335"
+      }
+    },
+    {
+      "title": "Firmamento (Wrong Girl to Play With)",
+      "artist": "Cidade Negra",
+      "album": "O Erê",
+      "durationMs": 225613,
+      "ids": {
+        "appleMusic": "401532503"
+      }
+    },
+    {
+      "title": "Querem Meu Sangue (The Harder They Come)",
+      "artist": "Cidade Negra",
+      "album": "Sobre Todas as Forças",
+      "durationMs": 201267,
+      "ids": {
+        "appleMusic": "401845038"
+      }
+    },
+    {
+      "title": "Primavera",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 262040,
+      "ids": {
+        "appleMusic": "860819076"
+      }
+    },
+    {
+      "title": "King of Pain (Live) [Unplugged Version]",
+      "artist": "Alanis Morissette",
+      "album": "Clássicos para dias de frio",
+      "durationMs": 245160,
+      "ids": {
+        "appleMusic": "1823959818"
+      }
+    },
+    {
+      "title": "Flores (Ao Vivo) [Participação Especial de Marisa Monte]",
+      "artist": "Titãs",
+      "album": "Acústico MTV",
+      "durationMs": 215440,
+      "ids": {
+        "appleMusic": "1112369095"
+      }
+    },
+    {
+      "title": "A novidade (Ao vivo)",
+      "artist": "Gilberto Gil",
+      "album": "Quanta gente veio ver (Ao vivo)",
+      "durationMs": 315520,
+      "ids": {
+        "appleMusic": "1600151329"
+      }
+    },
+    {
+      "title": "Round Here",
+      "artist": "Counting Crows",
+      "album": "Rock Anthems",
+      "durationMs": 331400,
+      "ids": {
+        "appleMusic": "6763248357"
+      }
+    },
+    {
+      "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+      "artist": "Post Malone \u0026 Swae Lee",
+      "album": "Spider-Man: Into the Spider-Verse (Soundtrack From \u0026 Inspired by the Motion Picture)",
+      "durationMs": 158040,
+      "ids": {
+        "appleMusic": "1445949267"
+      }
+    },
+    {
+      "title": "Um Amor, Um Lugar",
+      "artist": "Fernanda Abreu \u0026 Herbert Vianna",
+      "album": "Raio X",
+      "durationMs": 186840,
+      "ids": {
+        "appleMusic": "1571780728"
+      }
+    },
+    {
+      "title": "Balada do Amor Inabalável",
+      "artist": "Skank",
+      "album": "Skank - #1 Hits",
+      "durationMs": 240533,
+      "ids": {
+        "appleMusic": "588335695"
+      }
+    },
+    {
+      "title": "No Recreio",
+      "artist": "Cássia Eller",
+      "album": "Dez de Dezembro",
+      "durationMs": 223187,
+      "ids": {
+        "appleMusic": "1443271070"
+      }
+    },
+    {
+      "title": "State of Love and Trust (Live)",
+      "artist": "Pearl Jam",
+      "album": "2000.10.30 - Sacramento, California (Live)",
+      "durationMs": 205907,
+      "ids": {
+        "appleMusic": "1543042760"
+      }
+    },
+    {
+      "title": "Yellow Ledbetter",
+      "artist": "Pearl Jam",
+      "album": "Rock Clássico",
+      "durationMs": 303587,
+      "ids": {
+        "appleMusic": "1778714248"
+      }
+    },
+    {
+      "title": "Better Man",
+      "artist": "Pearl Jam",
+      "album": "Vitalogy",
+      "durationMs": 268590
+    },
+    {
+      "title": "Sirens",
+      "artist": "Pearl Jam",
+      "album": "Lightning Bolt",
+      "durationMs": 341276,
+      "ids": {
+        "appleMusic": "1440820465"
+      }
+    },
+    {
+      "title": "Daughter (Remastered)",
+      "artist": "Pearl Jam",
+      "album": "Vs.",
+      "durationMs": 235137
+    },
+    {
+      "title": "Man in the Box",
+      "artist": "Alice In Chains",
+      "album": "Facelift",
+      "durationMs": 285200,
+      "ids": {
+        "appleMusic": "274953022"
+      }
+    },
+    {
+      "title": "Would?",
+      "artist": "Alice In Chains",
+      "album": "Rock Clássico",
+      "durationMs": 206773,
+      "ids": {
+        "appleMusic": "1778714264"
+      }
+    },
+    {
+      "title": "Depois",
+      "artist": "Pato Fu",
+      "album": "Isopor",
+      "durationMs": 266114,
+      "ids": {
+        "appleMusic": "366795655"
+      }
+    },
+    {
+      "title": "What's Up?",
+      "artist": "4 Non Blondes",
+      "album": "Summer Party",
+      "durationMs": 295627,
+      "ids": {
+        "appleMusic": "1442493543"
+      }
+    },
+    {
+      "title": "Heroes",
+      "artist": "David Bowie",
+      "album": "Stranger Things: Soundtrack from the Netflix Series, Season 5",
+      "durationMs": 370480,
+      "ids": {
+        "appleMusic": "1862239887"
+      }
+    },
+    {
+      "title": "Starman",
+      "artist": "David Bowie",
+      "album": "ChangesTwoBowie (2018 Remaster)",
+      "durationMs": 254293,
+      "ids": {
+        "appleMusic": "1350497718"
+      }
+    },
+    {
+      "title": "Let's Dance",
+      "artist": "David Bowie",
+      "album": "Let's Dance (2018 Remaster)",
+      "durationMs": 457676,
+      "ids": {
+        "appleMusic": "1475002923"
+      }
+    },
+    {
+      "title": "Life On Mars?",
+      "artist": "David Bowie",
+      "album": "Licorice Pizza (Original Motion Picture Soundtrack)",
+      "durationMs": 232773,
+      "ids": {
+        "appleMusic": "1593686602"
+      }
+    },
+    {
+      "title": "Easy",
+      "artist": "Faith No More",
+      "album": "Rock Party Hits",
+      "durationMs": 186960,
+      "ids": {
+        "appleMusic": "1730538735"
+      }
+    },
+    {
+      "title": "I Will Survive",
+      "artist": "CAKE",
+      "album": "Fashion Nugget (Deluxe Edition)",
+      "durationMs": 309661,
+      "ids": {
+        "appleMusic": "1632540601"
+      }
+    },
+    {
+      "title": "Vinte e Nove",
+      "artist": "Legião Urbana",
+      "album": "O Descobrimento do Brasil",
+      "durationMs": 223933,
+      "ids": {
+        "appleMusic": "713971707"
+      }
+    },
+    {
+      "title": "Linger (Remastered 2026)",
+      "artist": "The Cranberries",
+      "album": "Everybody Else Is Doing It, So Why Can't We? (Super Deluxe Edition)",
+      "durationMs": 274720,
+      "ids": {
+        "appleMusic": "6765562560"
+      }
+    },
+    {
+      "title": "Sweet Child O' Mine (Rick Rubin New Mix)",
+      "artist": "Sheryl Crow",
+      "album": "The Globe Sessions (Bonus Track Version)",
+      "durationMs": 234133,
+      "ids": {
+        "appleMusic": "1367828033"
+      }
+    },
+    {
+      "title": "Given to Fly",
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "durationMs": 240907
+    },
+    {
+      "title": "Marvin (Ao Vivo) [Live]",
+      "artist": "Titãs",
+      "album": "Praia de Inverno",
+      "durationMs": 264293,
+      "ids": {
+        "appleMusic": "6773622205"
+      }
+    },
+    {
+      "title": "Sangue latino",
+      "artist": "Secos \u0026 Molhados",
+      "album": "Hot Pimientos",
+      "durationMs": 128000,
+      "ids": {
+        "appleMusic": "1537768045"
+      }
+    },
+    {
+      "title": "Dias de Luta",
+      "artist": "Ira!",
+      "album": "Mtv Ao Vivo - Ira!",
+      "durationMs": 267027,
+      "ids": {
+        "appleMusic": "980092945"
+      }
+    },
+    {
+      "title": "No Rain",
+      "artist": "Blind Melon",
+      "album": "Blind Melon",
+      "durationMs": 217107,
+      "ids": {
+        "appleMusic": "725821929"
+      }
+    },
+    {
+      "title": "Wishlist",
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "durationMs": 206579
+    },
+    {
+      "title": "This Must Be the Place (Naïve Melody) [Live]",
+      "artist": "David Byrne",
+      "album": "American Utopia on Broadway (Original Cast Recording Live)",
+      "durationMs": 296440,
+      "ids": {
+        "appleMusic": "1484016132"
+      }
+    },
+    {
+      "title": "Take Me Out",
+      "artist": "Franz Ferdinand",
+      "album": "Franz Ferdinand",
+      "durationMs": 237027,
+      "ids": {
+        "appleMusic": "315844084"
+      }
+    },
+    {
+      "title": "Soldier of Love",
+      "artist": "Pearl Jam",
+      "album": "Last Kiss - Single",
+      "durationMs": 174173,
+      "ids": {
+        "appleMusic": "456761463"
+      }
+    },
+    {
+      "title": "Because the Night (Live)",
+      "artist": "10,000 Maniacs",
+      "album": "MTV Unplugged: 10,000 Maniacs",
+      "durationMs": 223373,
+      "ids": {
+        "appleMusic": "322123715"
+      }
+    },
+    {
+      "title": "I Am Mine",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 215680
+    },
+    {
+      "title": "O Vencedor",
+      "artist": "Los Hermanos",
+      "album": "Cantar em Casa",
+      "durationMs": 200027,
+      "ids": {
+        "appleMusic": "1518685208"
+      }
+    },
+    {
+      "title": "Dog Days Are Over",
+      "artist": "Florence + the Machine",
+      "album": "I Am Pop",
+      "durationMs": 251060,
+      "ids": {
+        "appleMusic": "1442506195"
+      }
+    },
+    {
+      "title": "I Hear You Call",
+      "artist": "Bliss",
+      "album": "I Hear You Call - Single",
+      "durationMs": 237973,
+      "ids": {
+        "appleMusic": "1594852401"
+      }
+    },
+    {
+      "title": "It's Alright (Live)",
+      "artist": "Guns N' Roses",
+      "album": "Live Era '87-'93 (Live - Deluxe Edition)",
+      "durationMs": 187333,
+      "ids": {
+        "appleMusic": "1850538151"
+      }
+    },
+    {
+      "title": "Big Me",
+      "artist": "Foo Fighters",
+      "album": "Foo Fighters",
+      "durationMs": 132840,
+      "ids": {
+        "appleMusic": "258512160"
+      }
+    },
+    {
+      "title": "Black",
+      "artist": "Pearl Jam",
+      "album": "Ten",
+      "durationMs": 342653,
+      "ids": {
+        "appleMusic": "425465351"
+      }
+    },
+    {
+      "title": "Plush (Acoustic)",
+      "artist": "Stone Temple Pilots",
+      "album": "Thank You",
+      "durationMs": 230293,
+      "ids": {
+        "appleMusic": "3631630"
+      }
+    },
+    {
+      "title": "Pink",
+      "artist": "Aerosmith",
+      "album": "The Very Best of Aerosmith",
+      "durationMs": 235357,
+      "ids": {
+        "appleMusic": "1660110063"
+      }
+    },
+    {
+      "title": "Mr. Jones",
+      "artist": "Counting Crows",
+      "album": "August and Everything After",
+      "durationMs": 272279,
+      "ids": {
+        "appleMusic": "1442449547"
+      }
+    },
+    {
+      "title": "Interstate Love Song (2019 Remaster)",
+      "artist": "Stone Temple Pilots",
+      "album": "Purple (2019 Remaster)",
+      "durationMs": 194853,
+      "ids": {
+        "appleMusic": "1483793226"
+      }
+    },
+    {
+      "title": "Road Trippin'",
+      "artist": "Red Hot Chili Peppers",
+      "album": "Praia de Inverno",
+      "durationMs": 204973,
+      "ids": {
+        "appleMusic": "6773621603"
+      }
+    },
+    {
+      "title": "Patience",
+      "artist": "Guns N' Roses",
+      "album": "Appetite For Destruction (Super Deluxe)",
+      "durationMs": 354875,
+      "ids": {
+        "appleMusic": "1377827086"
+      }
+    },
+    {
+      "title": "Under Pressure (Live)",
+      "artist": "David Bowie",
+      "album": "A Reality Tour (Live)",
+      "durationMs": 258293,
+      "ids": {
+        "appleMusic": "1676509854"
+      }
+    },
+    {
+      "title": "Better Man (Live)",
+      "artist": "Pearl Jam",
+      "album": "Let's Play Two (Live) [Original Motion Picture Soundtrack]",
+      "durationMs": 315573,
+      "ids": {
+        "appleMusic": "1440878562"
+      }
+    },
+    {
+      "title": "Linger (Acoustic Version)",
+      "artist": "The Cranberries",
+      "album": "Linger (Acoustic Version) - Single",
+      "durationMs": 295867,
+      "ids": {
+        "appleMusic": "1446576810"
+      }
+    },
+    {
+      "title": "Next Year",
+      "artist": "Foo Fighters",
+      "album": "Coffeehouse Classics, Vol. 1",
+      "durationMs": 276213,
+      "ids": {
+        "appleMusic": "1030789543"
+      }
+    },
+    {
+      "title": "Overkill",
+      "artist": "Men At Work",
+      "album": "Cargo",
+      "durationMs": 229467,
+      "ids": {
+        "appleMusic": "402297422"
+      }
+    },
+    {
+      "title": "I Believe In Miracles",
+      "artist": "Ramones",
+      "album": "The Chrysalis Years Anthology",
+      "durationMs": 199667,
+      "ids": {
+        "appleMusic": "699662762"
+      }
+    },
+    {
+      "title": "Hunger Strike",
+      "artist": "Temple of the Dog",
+      "album": "Temple of the Dog",
+      "durationMs": 246267,
+      "ids": {
+        "appleMusic": "1440657642"
+      }
+    },
+    {
+      "title": "Black (Kaufman Astoria Studios - MTV Unplugged - New York, NY 3/16/1992)",
+      "artist": "Pearl Jam",
+      "album": "Pearl Jam Twenty (Original Motion Picture Soundtrack)",
+      "durationMs": 339960,
+      "ids": {
+        "appleMusic": "460395355"
+      }
+    },
+    {
+      "title": "Losing My Religion",
+      "artist": "R.E.M.",
+      "album": "Non-Stop Pop Vol 6",
+      "durationMs": 268427,
+      "ids": {
+        "appleMusic": "1672641503"
+      }
+    },
+    {
+      "title": "Giz",
+      "artist": "Legião Urbana",
+      "album": "O Descobrimento do Brasil",
+      "durationMs": 203867,
+      "ids": {
+        "appleMusic": "713971841"
+      }
+    },
+    {
+      "title": "Dezesseis",
+      "artist": "Legião Urbana",
+      "album": "A Tempestade",
+      "durationMs": 323840,
+      "ids": {
+        "appleMusic": "713882157"
+      }
+    },
+    {
+      "title": "Toda Forma de Poder",
+      "artist": "Engenheiros do Hawaii",
+      "album": "20+ Rock",
+      "durationMs": 195067,
+      "ids": {
+        "appleMusic": "537589865"
+      }
+    },
+    {
+      "title": "A mais pedida (feat. Érica Martins)",
+      "artist": "Raimundos",
+      "album": "Hits nacionais atemporais - MPB, Pop e Rock",
+      "durationMs": 233733,
+      "ids": {
+        "appleMusic": "1735967362"
+      }
+    },
+    {
+      "title": "Hunger Strike (2016 Mix)",
+      "artist": "Temple of the Dog",
+      "album": "Temple of the Dog (Deluxe Edition)",
+      "durationMs": 246267,
+      "ids": {
+        "appleMusic": "1440865305"
+      }
+    },
+    {
+      "title": "Elderly Woman Behind the Counter in a Small Town (Remastered)",
+      "artist": "Pearl Jam",
+      "album": "Vs.",
+      "durationMs": 196198
+    },
+    {
+      "title": "Crazy Mary (Live)",
+      "artist": "Pearl Jam",
+      "album": "Let's Play Two (Live) [Original Motion Picture Soundtrack]",
+      "durationMs": 382347,
+      "ids": {
+        "appleMusic": "1440879131"
+      }
+    },
+    {
+      "title": "Love, Reign O'er Me",
+      "artist": "Pearl Jam",
+      "album": "Love, Reign O'er Me - Single",
+      "durationMs": 332667,
+      "ids": {
+        "appleMusic": "1489481945"
+      }
+    },
+    {
+      "title": "State of Love and Trust",
+      "artist": "Pearl Jam",
+      "album": "rearviewmirror (greatest hits 1991-2003)",
+      "durationMs": 223800,
+      "ids": {
+        "appleMusic": "1826659403"
+      }
+    },
+    {
+      "title": "Quase Sem Querer",
+      "artist": "Legião Urbana",
+      "album": "Dois",
+      "durationMs": 280467,
+      "ids": {
+        "appleMusic": "713514802"
+      }
+    },
+    {
+      "title": "Given To Fly (Live at The Forum, Inglewood, CA - July 1998)",
+      "artist": "Pearl Jam",
+      "album": "Live On Two Legs",
+      "durationMs": 233507
+    },
+    {
+      "title": "O Calibre",
+      "artist": "Os Paralamas do Sucesso",
+      "album": "Longo Caminho",
+      "durationMs": 202160,
+      "ids": {
+        "appleMusic": "1442289083"
+      }
+    },
+    {
+      "title": "Angra dos Reis (Remastered)",
+      "artist": "Legião Urbana",
+      "album": "Que País É Este",
+      "durationMs": 301533,
+      "ids": {
+        "appleMusic": "713516879"
+      }
+    },
+    {
+      "title": "Rearviewmirror (Remastered)",
+      "artist": "Pearl Jam",
+      "album": "Vs.",
+      "durationMs": 283467
+    },
+    {
+      "title": "I Am the Highway (Live At Queen Elizabeth Theatre, Toronto, ON April 20, 2011)",
+      "artist": "Chris Cornell",
+      "album": "Songbook (Live)",
+      "durationMs": 296707,
+      "ids": {
+        "appleMusic": "1440770340"
+      }
+    },
+    {
+      "title": "\"Heroes\" (Live)",
+      "artist": "David Bowie",
+      "album": "A Reality Tour (Live)",
+      "durationMs": 418413,
+      "ids": {
+        "appleMusic": "1676511348"
+      }
+    },
+    {
+      "title": "Light Years",
+      "artist": "Pearl Jam",
+      "album": "Binaural",
+      "durationMs": 306937,
+      "ids": {
+        "appleMusic": "688730683"
+      }
+    },
+    {
+      "title": "Soldados",
+      "artist": "Legião Urbana",
+      "album": "Legião Urbana",
+      "durationMs": 290733,
+      "ids": {
+        "appleMusic": "713555503"
+      }
+    },
+    {
+      "title": "Better Man (Live at Rushmore Civic Center Arena, Rapid City, SD - June 1998)",
+      "artist": "Pearl Jam",
+      "album": "Live On Two Legs",
+      "durationMs": 246067
+    },
+    {
+      "title": "Black Hole Sun (Live At Red Robinson Show Theatre, Vancouver, Canada April 30, 2011)",
+      "artist": "Chris Cornell",
+      "album": "Songbook (Live)",
+      "durationMs": 277733,
+      "ids": {
+        "appleMusic": "1440770481"
+      }
+    },
+    {
+      "title": "Given To Fly (Live)",
+      "artist": "Pearl Jam",
+      "album": "Let's Play Two (Live) [Original Motion Picture Soundtrack]",
+      "durationMs": 205027,
+      "ids": {
+        "appleMusic": "1440878986"
+      }
+    },
+    {
+      "title": "Até Quando Esperar (Ao Vivo)",
+      "artist": "Plebe Rude",
+      "album": "Rachando Concreto em Brasilia (Ao Vivo)",
+      "durationMs": 390747,
+      "ids": {
+        "appleMusic": "1046065795"
+      }
+    },
+    {
+      "title": "Corduroy",
+      "artist": "Pearl Jam",
+      "album": "Vitalogy",
+      "durationMs": 277598
+    },
+    {
+      "title": "Corduroy (Live)",
+      "artist": "Pearl Jam",
+      "album": "Let's Play Two (Live) [Original Motion Picture Soundtrack]",
+      "durationMs": 364000,
+      "ids": {
+        "appleMusic": "1440878981"
+      }
+    },
+    {
+      "title": "Elderly Woman Behind The Counter In A Small Town (Live)",
+      "artist": "Pearl Jam",
+      "album": "Let's Play Two (Live) [Original Motion Picture Soundtrack]",
+      "durationMs": 206867,
+      "ids": {
+        "appleMusic": "1440878566"
+      }
+    },
+    {
+      "title": "Release (Live)",
+      "artist": "Pearl Jam",
+      "album": "Let's Play Two (Live) [Original Motion Picture Soundtrack]",
+      "durationMs": 329867,
+      "ids": {
+        "appleMusic": "1440879142"
+      }
+    },
+    {
+      "title": "She",
+      "artist": "Green Day",
+      "album": "Ready To Play Vol 1",
+      "durationMs": 134293,
+      "ids": {
+        "appleMusic": "1782546899"
+      }
+    },
+    {
+      "title": "Santeria (Live Session, Los Angeles, CA, 2015)",
+      "artist": "Jam In the Van \u0026 Sublime With Rome",
+      "album": "Jam in the Van - Sublime with Rome (Live Session, Los Angeles, CA, 2015) - Single",
+      "durationMs": 195750,
+      "ids": {
+        "appleMusic": "1634506444"
+      }
+    },
+    {
+      "title": "You Learn (Acoustic Version)",
+      "artist": "Alanis Morissette",
+      "album": "Singer Songwriter - Open Mic",
+      "durationMs": 249147,
+      "ids": {
+        "appleMusic": "1703015203"
+      }
+    },
+    {
+      "title": "O Vencedor",
+      "artist": "Los Hermanos",
+      "album": "Los Hermanos - Na Fundiçao Progresso - 09 de Junho de 2007",
+      "durationMs": 201987,
+      "ids": {
+        "appleMusic": "514759479"
+      }
+    },
+    {
+      "title": "Throw Your Arms Around Me",
+      "artist": "Neil Finn \u0026 Eddie Vedder",
+      "album": "Crucible - The Songs of Hunters \u0026 Collectors (feat. Hunters \u0026 Collectors)",
+      "durationMs": 238253,
+      "ids": {
+        "appleMusic": "1641077259"
+      }
+    },
+    {
+      "title": "You Learn (Live, Unplugged)",
+      "artist": "Alanis Morissette",
+      "album": "Live Music - Your Favorite Songs - Live on Stage",
+      "durationMs": 261973,
+      "ids": {
+        "appleMusic": "1709317512"
+      }
+    },
+    {
+      "title": "Learn to Fly",
+      "artist": "Foo Fighters",
+      "album": "There Is Nothing Left to Lose",
+      "durationMs": 235293,
+      "ids": {
+        "appleMusic": "278229654"
+      }
+    },
+    {
+      "title": "Todo Carnaval Tem Seu Fim",
+      "artist": "Los Hermanos",
+      "album": "Los Hermanos - Na Fundiçao Progresso - 09 de Junho de 2007",
+      "durationMs": 284720,
+      "ids": {
+        "appleMusic": "514759533"
+      }
+    },
+    {
+      "title": "Linger (Live)",
+      "artist": "The Cranberries",
+      "album": "Live at the Hammersmith Apollo, London 2012",
+      "durationMs": 289578,
+      "ids": {
+        "appleMusic": "578014448"
+      }
+    },
+    {
+      "title": "Regina Let's Go (Live)",
+      "artist": "CPM 22",
+      "album": "Live music from Concerts",
+      "durationMs": 176973,
+      "ids": {
+        "appleMusic": "1696330801"
+      }
+    },
+    {
+      "title": "Portions for Foxes",
+      "artist": "Rilo Kiley",
+      "album": "More Adventurous",
+      "durationMs": 284640,
+      "ids": {
+        "appleMusic": "19046917"
+      }
+    },
+    {
+      "title": "Silver Lining",
+      "artist": "Rilo Kiley",
+      "album": "Under the Blacklight",
+      "durationMs": 217640,
+      "ids": {
+        "appleMusic": "261661231"
+      }
+    },
+    {
+      "title": "Two Weeks",
+      "artist": "Grizzly Bear",
+      "album": "Veckatimest (Bonus Track Version)",
+      "durationMs": 243160,
+      "ids": {
+        "appleMusic": "313355687"
+      }
+    },
+    {
+      "title": "Lisztomania",
+      "artist": "Phoenix",
+      "album": "Wolfgang Amadeus Phoenix",
+      "durationMs": 241640,
+      "ids": {
+        "appleMusic": "1771710017"
+      }
+    },
+    {
+      "title": "A-Punk",
+      "artist": "Vampire Weekend",
+      "album": "Vampire Weekend",
+      "durationMs": 137760,
+      "ids": {
+        "appleMusic": "271489744"
+      }
+    },
+    {
+      "title": "Pumped Up Kicks",
+      "artist": "Foster the People",
+      "album": "Canzoni estive",
+      "durationMs": 239600,
+      "ids": {
+        "appleMusic": "1752198216"
+      }
+    },
+    {
+      "title": "Full Circle",
+      "artist": "Aerosmith",
+      "album": "Nine Lives",
+      "durationMs": 300673
+    },
+    {
+      "title": "Jeremy",
+      "artist": "Pearl Jam",
+      "album": "Ten",
+      "durationMs": 318227,
+      "ids": {
+        "appleMusic": "425465353"
+      }
+    },
+    {
+      "title": "Crazy Mary (Remastered)",
+      "artist": "Pearl Jam",
+      "album": "Vs.",
+      "durationMs": 337301,
+      "ids": {
+        "appleMusic": "1440879131"
+      }
+    },
+    {
+      "title": "O Poeta Está Vivo",
+      "artist": "Barão Vermelho",
+      "album": "Balada MTV",
+      "durationMs": 264027,
+      "ids": {
+        "appleMusic": "690386016"
+      }
+    },
+    {
+      "title": "Thin Air",
+      "artist": "Pearl Jam",
+      "album": "Binaural",
+      "durationMs": 212691,
+      "ids": {
+        "appleMusic": "688730686"
+      }
+    },
+    {
+      "title": "Daniel Na Cova dos Leões",
+      "artist": "Legião Urbana",
+      "album": "Dois",
+      "durationMs": 240800,
+      "ids": {
+        "appleMusic": "713514800"
+      }
+    },
+    {
+      "title": "About a Girl (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 218000,
+      "ids": {
+        "appleMusic": "1440892384"
+      }
+    },
+    {
+      "title": "Vamos Fazer um Filme",
+      "artist": "Legião Urbana",
+      "album": "O Descobrimento do Brasil",
+      "durationMs": 261867,
+      "ids": {
+        "appleMusic": "713971829"
+      }
+    },
+    {
+      "title": "Psycho Killer (Acoustic Version)",
+      "artist": "Talking Heads",
+      "album": "Goldfish Level Memory",
+      "durationMs": 258053,
+      "ids": {
+        "appleMusic": "1768702503"
+      }
+    },
+    {
+      "title": "Wild Horses (Acoustic Version)",
+      "artist": "The Rolling Stones",
+      "album": "Acoustic Rock",
+      "durationMs": 347493,
+      "ids": {
+        "appleMusic": "6772313369"
+      }
+    },
+    {
+      "title": "Shiny Happy People",
+      "artist": "R.E.M.",
+      "album": "Sucessos do Rock - Atualizadas",
+      "durationMs": 225787,
+      "ids": {
+        "appleMusic": "1887923835"
+      }
+    },
+    {
+      "title": "Off He Goes",
+      "artist": "Pearl Jam",
+      "album": "No Code",
+      "durationMs": 362107
+    },
+    {
+      "title": "A Seta e o Alvo (Ao Vivo)",
+      "artist": "Paulinho Moska",
+      "album": "Contrasenso",
+      "durationMs": 205333,
+      "ids": {
+        "appleMusic": "1549122620"
+      }
+    },
+    {
+      "title": "The One I Love",
+      "artist": "R.E.M.",
+      "album": "Document (25th Anniversary Edition)",
+      "durationMs": 197800,
+      "ids": {
+        "appleMusic": "721291953"
+      }
+    },
+    {
+      "title": "Me diga",
+      "artist": "Nando Reis",
+      "album": "Latin Samba",
+      "durationMs": 241907,
+      "ids": {
+        "appleMusic": "1742506703"
+      }
+    },
+    {
+      "title": "All Along the Watchtower",
+      "artist": "The Jimi Hendrix Experience",
+      "album": "Electric Ladyland",
+      "durationMs": 240800,
+      "ids": {
+        "appleMusic": "357653191"
+      }
+    },
+    {
+      "title": "Fortunate Son",
+      "artist": "Creedence Clearwater Revival",
+      "album": "On The Road Rock Love Songs",
+      "durationMs": 140773,
+      "ids": {
+        "appleMusic": "1822896944"
+      }
+    },
+    {
+      "title": "Beauty of the Road",
+      "artist": "Future Islands",
+      "album": "The Far Field",
+      "durationMs": 249467,
+      "ids": {
+        "appleMusic": "1195221964"
+      }
+    },
+    {
+      "title": "Avant Gardener",
+      "artist": "Courtney Barnett",
+      "album": "Avant Gardener - Single",
+      "durationMs": 312227,
+      "ids": {
+        "appleMusic": "1659880217"
+      }
+    },
+    {
+      "title": "Plastic Beach",
+      "artist": "Future Islands",
+      "album": "As Long As You Are",
+      "durationMs": 220221,
+      "ids": {
+        "appleMusic": "1522693240"
+      }
+    },
+    {
+      "title": "One Week",
+      "artist": "Barenaked Ladies",
+      "album": "Grill -100 Hits",
+      "durationMs": 169760,
+      "ids": {
+        "appleMusic": "1585693765"
+      }
+    },
+    {
+      "title": "All Star",
+      "artist": "Smash Mouth",
+      "album": "Horrifying Hits",
+      "durationMs": 200373,
+      "ids": {
+        "appleMusic": "1590260911"
+      }
+    },
+    {
+      "title": "Maps",
+      "artist": "Yeah Yeah Yeahs",
+      "album": "Indie Classics",
+      "durationMs": 219987,
+      "ids": {
+        "appleMusic": "1888552984"
+      }
+    },
+    {
+      "title": "I’ve Been Riding With the Ghost",
+      "artist": "Songs: Ohia",
+      "album": "Magnolia Electric Co. (Deluxe Edition)",
+      "durationMs": 200560,
+      "ids": {
+        "appleMusic": "719570832"
+      }
+    },
+    {
+      "title": "Dancing in the Moonlight",
+      "artist": "Yonder Mountain String Band",
+      "album": "Love. Ain't Love",
+      "durationMs": 174413,
+      "ids": {
+        "appleMusic": "1226766355"
+      }
+    },
+    {
+      "title": "B + A",
+      "artist": "The Beta Band",
+      "album": "The Three E.P.'s",
+      "durationMs": 395560,
+      "ids": {
+        "appleMusic": "1339273853"
+      }
+    },
+    {
+      "title": "Never Forget (feat. Chef 187, Tio Nason \u0026 Mwanje)",
+      "artist": "Sampa the Great",
+      "album": "As Above, So Below (Deluxe)",
+      "durationMs": 217520,
+      "ids": {
+        "appleMusic": "1685100964"
+      }
+    },
+    {
+      "title": "Tusk (2015 Remaster)",
+      "artist": "Fleetwood Mac",
+      "album": "Fleetwood Mac 1975 to 1987",
+      "durationMs": 217573,
+      "ids": {
+        "appleMusic": "1792535700"
+      }
+    },
+    {
+      "title": "Alive",
+      "artist": "Pearl Jam",
+      "album": "Ten",
+      "durationMs": 340907,
+      "ids": {
+        "appleMusic": "425465319"
+      }
+    },
+    {
+      "title": "Ana's Song (Open Fire)",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 222267,
+      "ids": {
+        "appleMusic": "192818616"
+      }
+    },
+    {
+      "title": "Smile",
+      "artist": "Pearl Jam",
+      "album": "No Code",
+      "durationMs": 231670
+    },
+    {
+      "title": "Knebel",
+      "artist": "Lindemann",
+      "album": "F \u0026 M (Deluxe)",
+      "durationMs": 230200,
+      "ids": {
+        "appleMusic": "1478750366"
+      }
+    },
+    {
+      "title": "Sugar Babies",
+      "artist": "Spoon",
+      "album": "Memory Dust EP",
+      "durationMs": 345871,
+      "ids": {
+        "appleMusic": "1684519251"
+      }
+    },
+    {
+      "title": "Carnival",
+      "artist": "Bikini Kill",
+      "album": "The First Two Records",
+      "durationMs": 89937,
+      "ids": {
+        "appleMusic": "846162470"
+      }
+    },
+    {
+      "title": "For Tammy Rae",
+      "artist": "Bikini Kill",
+      "album": "P***y Whipped",
+      "durationMs": 213640,
+      "ids": {
+        "appleMusic": "540503950"
+      }
+    },
+    {
+      "title": "White Boy",
+      "artist": "Bikini Kill",
+      "album": "The First Two Records",
+      "durationMs": 146001,
+      "ids": {
+        "appleMusic": "846162474"
+      }
+    },
+    {
+      "title": "Toumast Anlet",
+      "artist": "Tamikrest",
+      "album": "Chatma",
+      "durationMs": 313480,
+      "ids": {
+        "appleMusic": "679782316"
+      }
+    },
+    {
+      "title": "Song of the Lonely Mountain (Extended Version)",
+      "artist": "Neil Finn",
+      "album": "The Hobbit: An Unexpected Journey (Original Motion Picture Soundtrack) [Special Edition]",
+      "durationMs": 361056,
+      "ids": {
+        "appleMusic": "1454398590"
+      }
+    },
+    {
+      "title": "Low Season",
+      "artist": "Bob Mould",
+      "album": "Beauty \u0026 Ruin",
+      "durationMs": 248120,
+      "ids": {
+        "appleMusic": "1840153768"
+      }
+    },
+    {
+      "title": "Little Glass Pill",
+      "artist": "Bob Mould",
+      "album": "Beauty \u0026 Ruin",
+      "durationMs": 159547,
+      "ids": {
+        "appleMusic": "1840153769"
+      }
+    },
+    {
+      "title": "I Don't Know You Anymore",
+      "artist": "Bob Mould",
+      "album": "Beauty \u0026 Ruin",
+      "durationMs": 175880,
+      "ids": {
+        "appleMusic": "1840153770"
+      }
+    },
+    {
+      "title": "Kid With Crooked Face",
+      "artist": "Bob Mould",
+      "album": "Beauty \u0026 Ruin",
+      "durationMs": 134320,
+      "ids": {
+        "appleMusic": "1840153775"
+      }
+    },
+    {
+      "title": "Nemeses Are Laughing",
+      "artist": "Bob Mould",
+      "album": "Beauty \u0026 Ruin",
+      "durationMs": 203893,
+      "ids": {
+        "appleMusic": "1840153777"
+      }
+    },
+    {
+      "title": "The War",
+      "artist": "Bob Mould",
+      "album": "Beauty \u0026 Ruin",
+      "durationMs": 220787,
+      "ids": {
+        "appleMusic": "1840153778"
+      }
+    },
+    {
+      "title": "Forgiveness",
+      "artist": "Bob Mould",
+      "album": "Beauty \u0026 Ruin",
+      "durationMs": 174227,
+      "ids": {
+        "appleMusic": "1840153780"
+      }
+    },
+    {
+      "title": "Hey Mr. Grey",
+      "artist": "Bob Mould",
+      "album": "Beauty \u0026 Ruin",
+      "durationMs": 123627,
+      "ids": {
+        "appleMusic": "1840153782"
+      }
+    },
+    {
+      "title": "Fire in the City",
+      "artist": "Bob Mould",
+      "album": "Beauty \u0026 Ruin",
+      "durationMs": 194533,
+      "ids": {
+        "appleMusic": "1840153783"
+      }
+    },
+    {
+      "title": "Tomorrow Morning",
+      "artist": "Bob Mould",
+      "album": "Beauty \u0026 Ruin",
+      "durationMs": 138827,
+      "ids": {
+        "appleMusic": "1840153787"
+      }
+    },
+    {
+      "title": "Let the Beauty Be",
+      "artist": "Bob Mould",
+      "album": "Beauty \u0026 Ruin",
+      "durationMs": 196653,
+      "ids": {
+        "appleMusic": "1840153788"
+      }
+    },
+    {
+      "title": "Fix It",
+      "artist": "Bob Mould",
+      "album": "Beauty \u0026 Ruin",
+      "durationMs": 205253,
+      "ids": {
+        "appleMusic": "1840153791"
+      }
+    },
+    {
+      "title": "Juicy",
+      "artist": "The Notorious B.I.G.",
+      "album": "Gangsta Rap Hits",
+      "durationMs": 301467,
+      "ids": {
+        "appleMusic": "1694672252"
+      }
+    },
+    {
+      "title": "Last Kiss",
+      "artist": "Pearl Jam",
+      "album": "Last Kiss - Single",
+      "durationMs": 195467,
+      "ids": {
+        "appleMusic": "456761460"
+      }
+    },
+    {
+      "title": "All Apologies (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 263227,
+      "ids": {
+        "appleMusic": "1440893070"
+      }
+    },
+    {
+      "title": "Times Like These (Acoustic Version)",
+      "artist": "Foo Fighters",
+      "album": "00020225 (B-Sides from \"One By One\") - EP",
+      "durationMs": 238587,
+      "ids": {
+        "appleMusic": "1482052515"
+      }
+    },
+    {
+      "title": "Used To Love Her",
+      "artist": "Guns N' Roses",
+      "album": "Appetite For Destruction (Super Deluxe)",
+      "durationMs": 192667,
+      "ids": {
+        "appleMusic": "1377827087"
+      }
+    },
+    {
+      "title": "Oceans",
+      "artist": "Pearl Jam",
+      "album": "Ten",
+      "durationMs": 161893,
+      "ids": {
+        "appleMusic": "425465354"
+      }
+    },
+    {
+      "title": "The Zephyr Song",
+      "artist": "Red Hot Chili Peppers",
+      "album": "Boulevard of Broken Dreams - Alternative Ballads",
+      "durationMs": 231933,
+      "ids": {
+        "appleMusic": "1622806638"
+      }
+    },
+    {
+      "title": "King Of Pain (Remastered 2003)",
+      "artist": "The Police",
+      "album": "Full 80s",
+      "durationMs": 299040,
+      "ids": {
+        "appleMusic": "1807107716"
+      }
+    },
+    {
+      "title": "Miss You Love",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 240733,
+      "ids": {
+        "appleMusic": "192818638"
+      }
+    },
+    {
+      "title": "Jaded",
+      "artist": "Aerosmith",
+      "album": "Just Push Play",
+      "durationMs": 215824,
+      "ids": {
+        "appleMusic": "1658655245"
+      }
+    },
+    {
+      "title": "The Ick",
+      "artist": "Panic Shack",
+      "album": "Baby Shack - EP",
+      "durationMs": 144128,
+      "ids": {
+        "appleMusic": "1600157394"
+      }
+    },
+    {
+      "title": "Doctor Doctor",
+      "artist": "UFO",
+      "album": "Phenomenon (Bonus Track Version)",
+      "durationMs": 252453,
+      "ids": {
+        "appleMusic": "1629180396"
+      }
+    }
+  ]
+}

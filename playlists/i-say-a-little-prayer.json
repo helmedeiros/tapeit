@@ -1,0 +1,3932 @@
+{
+  "name": "I Say a Little Prayer",
+  "tracks": [
+    {
+      "title": "I Say a Little Prayer",
+      "artist": "Dionne Warwick",
+      "album": "Love Songs",
+      "durationMs": 185093,
+      "ids": {
+        "appleMusic": "298702388"
+      }
+    },
+    {
+      "title": "Wouldn't It Be Nice (Stereo Mix)",
+      "artist": "The Beach Boys",
+      "album": "Graduation Songs",
+      "durationMs": 153205,
+      "ids": {
+        "appleMusic": "1557797066"
+      }
+    },
+    {
+      "title": "Good Vibrations",
+      "artist": "The Beach Boys",
+      "album": "Good Vibrations (40th Anniversary) - EP",
+      "durationMs": 217747,
+      "ids": {
+        "appleMusic": "716240333"
+      }
+    },
+    {
+      "title": "A Whiter Shade of Pale (Original Single Version)",
+      "artist": "Procol Harum",
+      "album": "Hits'n'Flips",
+      "durationMs": 248947,
+      "ids": {
+        "appleMusic": "1681918551"
+      }
+    },
+    {
+      "title": "Sweet Caroline",
+      "artist": "Neil Diamond",
+      "album": "Classic Diamonds: The Originals Vol 3 - EP",
+      "durationMs": 203573,
+      "ids": {
+        "appleMusic": "1539951249"
+      }
+    },
+    {
+      "title": "Penny Lane",
+      "artist": "The Beatles",
+      "album": "Magical Mystery Tour",
+      "durationMs": 180893
+    },
+    {
+      "title": "Chapel of Love",
+      "artist": "The Dixie Cups",
+      "album": "Chapel of Love - Single",
+      "durationMs": 167496,
+      "ids": {
+        "appleMusic": "1437458334"
+      }
+    },
+    {
+      "title": "Kodachrome",
+      "artist": "Paul Simon",
+      "album": "There Goes Rhymin' Simon (Bonus Tracks Edition)",
+      "durationMs": 215400,
+      "ids": {
+        "appleMusic": "380589464"
+      }
+    },
+    {
+      "title": "Just the Way You Are",
+      "artist": "Billy Joel",
+      "album": "The Stranger",
+      "durationMs": 290566,
+      "ids": {
+        "appleMusic": "158618063"
+      }
+    },
+    {
+      "title": "That Lady (Pt. 1 \u0026 2)",
+      "artist": "The Isley Brothers",
+      "album": "DISCO - 100 Hit's - Dance floor fillers from the 70s and 80s inc. The Jacksons, Boney M \u0026 Earth Wind \u0026 Fire",
+      "durationMs": 334333,
+      "ids": {
+        "appleMusic": "1308517955"
+      }
+    },
+    {
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "album": "Selected Works 1972-1999",
+      "durationMs": 391376,
+      "ids": {
+        "appleMusic": "779290515"
+      }
+    },
+    {
+      "title": "Sara Smile",
+      "artist": "Daryl Hall \u0026 John Oates",
+      "album": "Daryl Hall \u0026 John Oates",
+      "durationMs": 185293,
+      "ids": {
+        "appleMusic": "217709579"
+      }
+    },
+    {
+      "title": "Two Tickets to Paradise",
+      "artist": "Eddie Money",
+      "album": "Vintage Summer Songs",
+      "durationMs": 240419,
+      "ids": {
+        "appleMusic": "1739853538"
+      }
+    },
+    {
+      "title": "Me and Mrs. Jones",
+      "artist": "Billy Paul",
+      "album": "R\u0026B Summer Mix",
+      "durationMs": 285760,
+      "ids": {
+        "appleMusic": "1568637447"
+      }
+    },
+    {
+      "title": "A Horse with No Name",
+      "artist": "America",
+      "album": "50 Músicas Tranquilas para Viajar de Carro",
+      "durationMs": 252240,
+      "ids": {
+        "appleMusic": "1831312263"
+      }
+    },
+    {
+      "title": "When Will I See You Again",
+      "artist": "The Three Degrees",
+      "album": "The Best of The Three Degrees - When Will I See You Again",
+      "durationMs": 178467,
+      "ids": {
+        "appleMusic": "162321165"
+      }
+    },
+    {
+      "title": "Midnight Train to Georgia",
+      "artist": "Gladys Knight \u0026 The Pips",
+      "album": "Pure... Disco/Funk",
+      "durationMs": 277440,
+      "ids": {
+        "appleMusic": "404828259"
+      }
+    },
+    {
+      "title": "I Never Loved a Man (The Way I Love You)",
+      "artist": "Aretha Franklin",
+      "album": "The Atlantic Albums Collection",
+      "durationMs": 164693,
+      "ids": {
+        "appleMusic": "1055456279"
+      }
+    },
+    {
+      "title": "The Tracks of My Tears (Single Version / Mono)",
+      "artist": "Smokey Robinson \u0026 The Miracles",
+      "album": "Motown Classics Gold",
+      "durationMs": 175267,
+      "ids": {
+        "appleMusic": "1444963315"
+      }
+    },
+    {
+      "title": "Everyday People",
+      "artist": "Sly \u0026 The Family Stone",
+      "album": "Definitely Maybe (Music From the Motion Picture)",
+      "durationMs": 141987,
+      "ids": {
+        "appleMusic": "693319638"
+      }
+    },
+    {
+      "title": "Daydream",
+      "artist": "The Lovin' Spoonful",
+      "album": "Daydream",
+      "durationMs": 139093,
+      "ids": {
+        "appleMusic": "1719228760"
+      }
+    },
+    {
+      "title": "I Feel Fine",
+      "artist": "The Beatles",
+      "album": "1",
+      "durationMs": 138933
+    },
+    {
+      "title": "I Want To Hold Your Hand",
+      "artist": "The Beatles",
+      "album": "1",
+      "durationMs": 145667
+    },
+    {
+      "title": "Ticket To Ride",
+      "artist": "The Beatles",
+      "album": "1",
+      "durationMs": 189947
+    },
+    {
+      "title": "Come Together (Remastered 2009)",
+      "artist": "The Beatles",
+      "album": "Discover More Classic Rock",
+      "durationMs": 259947,
+      "ids": {
+        "appleMusic": "1527145177"
+      }
+    },
+    {
+      "title": "How Deep Is Your Love",
+      "artist": "Bee Gees",
+      "album": "The Ultimate Bee Gees",
+      "durationMs": 242387,
+      "ids": {
+        "appleMusic": "1445670144"
+      }
+    },
+    {
+      "title": "Make It With You",
+      "artist": "Ralfi Pagan",
+      "album": "Fania Records 60's Gold",
+      "durationMs": 288065,
+      "ids": {
+        "appleMusic": "1465967811"
+      }
+    },
+    {
+      "title": "Forever Mine",
+      "artist": "The O'Jays",
+      "album": "The Essential O'Jays",
+      "durationMs": 366293,
+      "ids": {
+        "appleMusic": "282177137"
+      }
+    },
+    {
+      "title": "You're Still a Young Man",
+      "artist": "Tower of Power",
+      "album": "All Day Soul",
+      "durationMs": 335080,
+      "ids": {
+        "appleMusic": "1621316891"
+      }
+    },
+    {
+      "title": "Got To Give It Up, Pt. 1",
+      "artist": "Marvin Gaye",
+      "album": "Boogie Nights (Music From the Original Motion Picture)",
+      "durationMs": 247800,
+      "ids": {
+        "appleMusic": "716703617"
+      }
+    },
+    {
+      "title": "Me and You",
+      "artist": "Brenton Wood",
+      "album": "Baby You Got It",
+      "durationMs": 182267,
+      "ids": {
+        "appleMusic": "1443616611"
+      }
+    },
+    {
+      "title": "You're All I Need To Get By",
+      "artist": "Marvin Gaye \u0026 Tammi Terrell",
+      "album": "The Ultimate Collection",
+      "durationMs": 169120,
+      "ids": {
+        "appleMusic": "1442700576"
+      }
+    },
+    {
+      "title": "Together",
+      "artist": "Tierra",
+      "album": "City Nights",
+      "durationMs": 262214,
+      "ids": {
+        "appleMusic": "327684366"
+      }
+    },
+    {
+      "title": "Cruisin'",
+      "artist": "Smokey Robinson",
+      "album": "Gold: Smokey Robinson \u0026 the Miracles",
+      "durationMs": 354880,
+      "ids": {
+        "appleMusic": "1442732777"
+      }
+    },
+    {
+      "title": "The Tears of a Clown",
+      "artist": "Smokey Robinson \u0026 The Miracles",
+      "album": "The Definitive Collection: Smokey Robinson \u0026 The Miracles",
+      "durationMs": 182040,
+      "ids": {
+        "appleMusic": "1440721058"
+      }
+    },
+    {
+      "title": "Thin Line Between Love and Hate",
+      "artist": "The Persuaders",
+      "album": "1970s Time Capsule",
+      "durationMs": 201653,
+      "ids": {
+        "appleMusic": "1848880314"
+      }
+    },
+    {
+      "title": "The One Who Really Loves You",
+      "artist": "Mary Wells",
+      "album": "20th Century Masters: The Millennium Collection: Best Of Mary Wells",
+      "durationMs": 151800,
+      "ids": {
+        "appleMusic": "1797410376"
+      }
+    },
+    {
+      "title": "I'm On the Outside (Looking In)",
+      "artist": "Little Anthony \u0026 The Imperials",
+      "album": "The Best of Little Anthony \u0026 The Imperials",
+      "durationMs": 187733,
+      "ids": {
+        "appleMusic": "714986580"
+      }
+    },
+    {
+      "title": "Only The Strong Survive (Single Version)",
+      "artist": "Jerry Butler",
+      "album": "The Ice Man Cometh",
+      "durationMs": 158240,
+      "ids": {
+        "appleMusic": "1582800326"
+      }
+    },
+    {
+      "title": "For the Love of You, Pts. 1 \u0026 2",
+      "artist": "The Isley Brothers",
+      "album": "Pledging My Love",
+      "durationMs": 338027,
+      "ids": {
+        "appleMusic": "169807711"
+      }
+    },
+    {
+      "title": "I'm So Proud",
+      "artist": "The Impressions",
+      "album": "Summer Nights City Lights - Breezing Urban Soul Songs",
+      "durationMs": 169293,
+      "ids": {
+        "appleMusic": "349969555"
+      }
+    },
+    {
+      "title": "I'd Rather Go Blind (Single Version)",
+      "artist": "Etta James",
+      "album": "Triple Best of Blues",
+      "durationMs": 155000,
+      "ids": {
+        "appleMusic": "1444019653"
+      }
+    },
+    {
+      "title": "Oh Honey",
+      "artist": "Delegation",
+      "album": "A Love Supreme (Ballads \u0026 Love Songs)",
+      "durationMs": 356200,
+      "ids": {
+        "appleMusic": "536052329"
+      }
+    },
+    {
+      "title": "Sideshow",
+      "artist": "Blue Magic",
+      "album": "Blue Magic",
+      "durationMs": 251520,
+      "ids": {
+        "appleMusic": "265676567"
+      }
+    },
+    {
+      "title": "Sitting In The Park (Single Version)",
+      "artist": "Billy Stewart",
+      "album": "Éxitos \u0026 Hits del Blues",
+      "durationMs": 200267,
+      "ids": {
+        "appleMusic": "1717003285"
+      }
+    },
+    {
+      "title": "It's All Right (Music From And Inspired By The Motion Picture)",
+      "artist": "The Impressions",
+      "album": "Because I Said So (Music From And Inspired By The Motion Picture) [Edited]",
+      "durationMs": 167853,
+      "ids": {
+        "appleMusic": "1777178217"
+      }
+    },
+    {
+      "title": "Sleepwalk",
+      "artist": "Santo \u0026 Johnny",
+      "album": "Legend (Original Motion Picture Soundtrack)",
+      "durationMs": 141913,
+      "ids": {
+        "appleMusic": "1452684085"
+      }
+    },
+    {
+      "title": "Baby, I'm For Real",
+      "artist": "The Originals",
+      "album": "Baby Shower",
+      "durationMs": 202267,
+      "ids": {
+        "appleMusic": "6771096836"
+      }
+    },
+    {
+      "title": "Just To See Her",
+      "artist": "Smokey Robinson",
+      "album": "Best Of",
+      "durationMs": 242533,
+      "ids": {
+        "appleMusic": "1434899145"
+      }
+    },
+    {
+      "title": "Catch You on the Rebound",
+      "artist": "Brenton Wood",
+      "album": "Baby You Got It",
+      "durationMs": 131280,
+      "ids": {
+        "appleMusic": "1443616624"
+      }
+    },
+    {
+      "title": "You'll Lose a Good Thing",
+      "artist": "Barbara Lynn",
+      "album": "You'll Lose a Good Thing",
+      "durationMs": 144467,
+      "ids": {
+        "appleMusic": "268939531"
+      }
+    },
+    {
+      "title": "Tell It Like It Is",
+      "artist": "Aaron Neville",
+      "album": "Classic Blues",
+      "durationMs": 163680,
+      "ids": {
+        "appleMusic": "208262690"
+      }
+    },
+    {
+      "title": "Earth Angel",
+      "artist": "The Penguins",
+      "album": "Earth Angel - The Very Best of The Penguins",
+      "durationMs": 176133,
+      "ids": {
+        "appleMusic": "456597362"
+      }
+    },
+    {
+      "title": "Don't Let No One Get You Down",
+      "artist": "War",
+      "album": "Why Can't We Be Friends?",
+      "durationMs": 240867,
+      "ids": {
+        "appleMusic": "1202370720"
+      }
+    },
+    {
+      "title": "Nite Owl",
+      "artist": "Tony Allen",
+      "album": "Doo Wop \u0026 Rock 'N Roll Greatest",
+      "durationMs": 164880,
+      "ids": {
+        "appleMusic": "1004863837"
+      }
+    },
+    {
+      "title": "Come A Little Bit Closer",
+      "artist": "Jay \u0026 The Americans",
+      "album": "Come A Little Bit Closer",
+      "durationMs": 168853,
+      "ids": {
+        "appleMusic": "1376375100"
+      }
+    },
+    {
+      "title": "For Your Precious Love",
+      "artist": "Jerry Butler \u0026 The Impressions",
+      "album": "The Iceman",
+      "durationMs": 168093,
+      "ids": {
+        "appleMusic": "1442294431"
+      }
+    },
+    {
+      "title": "When We Get Married",
+      "artist": "The Dreamlovers",
+      "album": "Zoom, Zoom, Zoom",
+      "durationMs": 147627,
+      "ids": {
+        "appleMusic": "531709597"
+      }
+    },
+    {
+      "title": "Someday We'll Be Together",
+      "artist": "Diana Ross \u0026 The Supremes",
+      "album": "50th Anniversary: The Singles Collection 1961-1969",
+      "durationMs": 206853,
+      "ids": {
+        "appleMusic": "1434908973"
+      }
+    },
+    {
+      "title": "The Longest Time",
+      "artist": "Billy Joel",
+      "album": "An Innocent Man",
+      "durationMs": 223176,
+      "ids": {
+        "appleMusic": "259814647"
+      }
+    },
+    {
+      "title": "Don't Worry, Baby",
+      "artist": "The Beach Boys",
+      "album": "The Beach Boys Classics... Selected By Brian Wilson (Remastered)",
+      "durationMs": 170107,
+      "ids": {
+        "appleMusic": "725819607"
+      }
+    },
+    {
+      "title": "Let It Be Me",
+      "artist": "The Everly Brothers",
+      "album": "The Very Best Of...",
+      "durationMs": 158560,
+      "ids": {
+        "appleMusic": "1714917916"
+      }
+    },
+    {
+      "title": "At Last",
+      "artist": "Etta James",
+      "album": "At Last!",
+      "durationMs": 181373,
+      "ids": {
+        "appleMusic": "1440839443"
+      }
+    },
+    {
+      "title": "Surfer Girl",
+      "artist": "The Beach Boys",
+      "album": "Summer Love Songs",
+      "durationMs": 148347,
+      "ids": {
+        "appleMusic": "723863500"
+      }
+    },
+    {
+      "title": "I'd Really Love to See You Tonight",
+      "artist": "England Dan \u0026 John Ford Coley",
+      "album": "Golden 70s Pop",
+      "durationMs": 159107,
+      "ids": {
+        "appleMusic": "6779562718"
+      }
+    },
+    {
+      "title": "You're the First, the Last, My Everything",
+      "artist": "Barry White",
+      "album": "Barry White - The Collection",
+      "durationMs": 206936,
+      "ids": {
+        "appleMusic": "1422951362"
+      }
+    },
+    {
+      "title": "Baby, I'm Yours",
+      "artist": "Barbara Lewis",
+      "album": "Sweet Soul Sisters",
+      "durationMs": 152733,
+      "ids": {
+        "appleMusic": "1277017820"
+      }
+    },
+    {
+      "title": "More Than a Feeling",
+      "artist": "Boston",
+      "album": "Memorial Day Weekend",
+      "durationMs": 285133,
+      "ids": {
+        "appleMusic": "1626467315"
+      }
+    },
+    {
+      "title": "Howlin' for You",
+      "artist": "The Black Keys",
+      "album": "Brothers (Deluxe Remastered Anniversary Edition)",
+      "durationMs": 191956,
+      "ids": {
+        "appleMusic": "1542588734"
+      }
+    },
+    {
+      "title": "Woman",
+      "artist": "John Lennon",
+      "album": "Signature Box (Remastered)",
+      "durationMs": 212933,
+      "ids": {
+        "appleMusic": "721280867"
+      }
+    },
+    {
+      "title": "Do You Want to Know a Secret",
+      "artist": "The Beatles",
+      "album": "Please Please Me",
+      "durationMs": 117013,
+      "ids": {
+        "appleMusic": "1441165132"
+      }
+    },
+    {
+      "title": "I Saw Her Standing There",
+      "artist": "The Beatles",
+      "album": "Please Please Me",
+      "durationMs": 172947,
+      "ids": {
+        "appleMusic": "1441164819"
+      }
+    },
+    {
+      "title": "She's a Woman",
+      "artist": "The Beatles",
+      "album": "Past Masters, Vols. 1 \u0026 2",
+      "durationMs": 182880,
+      "ids": {
+        "appleMusic": "1441133899"
+      }
+    },
+    {
+      "title": "Lyin' Eyes",
+      "artist": "Eagles",
+      "album": "Selected Works 1972-1999",
+      "durationMs": 381999,
+      "ids": {
+        "appleMusic": "779290489"
+      }
+    },
+    {
+      "title": "Crazy Little Thing Called Love",
+      "artist": "Queen",
+      "album": "Bohemian Rhapsody (The Original Soundtrack)",
+      "durationMs": 163342,
+      "ids": {
+        "appleMusic": "1435375013"
+      }
+    },
+    {
+      "title": "Worst That Could Happen",
+      "artist": "The Brooklyn Bridge",
+      "album": "Brooklyn Bridge",
+      "durationMs": 188516,
+      "ids": {
+        "appleMusic": "960061615"
+      }
+    },
+    {
+      "title": "How Can You Mend a Broken Heart",
+      "artist": "Al Green",
+      "album": "Let's Stay Together",
+      "durationMs": 383503,
+      "ids": {
+        "appleMusic": "976363216"
+      }
+    },
+    {
+      "title": "Over My Head",
+      "artist": "Fleetwood Mac",
+      "album": "Fleetwood Mac",
+      "durationMs": 214667,
+      "ids": {
+        "appleMusic": "309646665"
+      }
+    },
+    {
+      "title": "In My Life",
+      "artist": "The Beatles",
+      "album": "Rubber Soul",
+      "durationMs": 146333,
+      "ids": {
+        "appleMusic": "1441164829"
+      }
+    },
+    {
+      "title": "Wasted Days and Wasted Nights",
+      "artist": "Freddy Fender",
+      "album": "Best Country - 70s",
+      "durationMs": 166040,
+      "ids": {
+        "appleMusic": "1742574922"
+      }
+    },
+    {
+      "title": "Spirit In The Sky",
+      "artist": "Norman Greenbaum",
+      "album": "Spirit In The Sky - Single",
+      "durationMs": 242811,
+      "ids": {
+        "appleMusic": "1845405900"
+      }
+    },
+    {
+      "title": "Maggie May",
+      "artist": "Rod Stewart",
+      "album": "Reason To Believe: The Complete Mercury Recordings",
+      "durationMs": 350147,
+      "ids": {
+        "appleMusic": "1447452100"
+      }
+    },
+    {
+      "title": "Miss You (Remastered)",
+      "artist": "The Rolling Stones",
+      "album": "Estudiando con Rock",
+      "durationMs": 288667,
+      "ids": {
+        "appleMusic": "1709699060"
+      }
+    },
+    {
+      "title": "Breaking Up Is Hard to Do",
+      "artist": "Neil Sedaka",
+      "album": "Neil Sedaka Sings The Hits",
+      "durationMs": 136093,
+      "ids": {
+        "appleMusic": "298467659"
+      }
+    },
+    {
+      "title": "Rag Doll",
+      "artist": "Frankie Valli \u0026 The Four Seasons",
+      "album": "Jersey's Best (Remastered)",
+      "durationMs": 179067,
+      "ids": {
+        "appleMusic": "272865539"
+      }
+    },
+    {
+      "title": "She's Always a Woman",
+      "artist": "Billy Joel",
+      "album": "The Stranger (30th Anniversary Legacy Edition)",
+      "durationMs": 201373,
+      "ids": {
+        "appleMusic": "671200657"
+      }
+    },
+    {
+      "title": "Still the One",
+      "artist": "Orleans",
+      "album": "Totally 70's Hits",
+      "durationMs": 233707,
+      "ids": {
+        "appleMusic": "1607126879"
+      }
+    },
+    {
+      "title": "Black Water",
+      "artist": "The Doobie Brothers",
+      "album": "El Sonido de California",
+      "durationMs": 258613,
+      "ids": {
+        "appleMusic": "1796260205"
+      }
+    },
+    {
+      "title": "Bus Stop (1997 Remastered Version)",
+      "artist": "The Hollies",
+      "album": "The Hollies At Abbey Road 1963-1966",
+      "durationMs": 175160,
+      "ids": {
+        "appleMusic": "696241960"
+      }
+    },
+    {
+      "title": "Dawn (Go Away)",
+      "artist": "Frankie Valli \u0026 The Four Seasons",
+      "album": "Four Seasons, Six Decades",
+      "durationMs": 167760,
+      "ids": {
+        "appleMusic": "1630312124"
+      }
+    },
+    {
+      "title": "Dream A Little Dream Of Me (With Introduction)",
+      "artist": "The Mamas \u0026 The Papas",
+      "album": "The Papas \u0026 The Mamas",
+      "durationMs": 194427,
+      "ids": {
+        "appleMusic": "1423329233"
+      }
+    },
+    {
+      "title": "Little Bitty Pretty One",
+      "artist": "Thurston Harris \u0026 The Sharps",
+      "album": "The Aladdin Records Story",
+      "durationMs": 141733,
+      "ids": {
+        "appleMusic": "716359397"
+      }
+    },
+    {
+      "title": "I Do Love You",
+      "artist": "G.Q.",
+      "album": "Disco Nights (Expanded Edition)",
+      "durationMs": 288733,
+      "ids": {
+        "appleMusic": "874790841"
+      }
+    },
+    {
+      "title": "Dream Lover",
+      "artist": "Bobby Darin",
+      "album": "One Sided, Unrequited Love",
+      "durationMs": 150706,
+      "ids": {
+        "appleMusic": "1819735800"
+      }
+    },
+    {
+      "title": "Goodnite Sweetheart Goodnite",
+      "artist": "The Spaniels",
+      "album": "Goodnite Sweetheart Goodnite",
+      "durationMs": 163388,
+      "ids": {
+        "appleMusic": "599968853"
+      }
+    },
+    {
+      "title": "Ain't No Woman (Like the One I've Got)",
+      "artist": "Four Tops",
+      "album": "20th Century Masters - The Millennium Collection: The Best of Four Tops",
+      "durationMs": 183307,
+      "ids": {
+        "appleMusic": "1440922086"
+      }
+    },
+    {
+      "title": "It's Gonna Work Out Fine",
+      "artist": "Ike \u0026 Tina Turner",
+      "album": "Best of Ike \u0026 Tina Turner",
+      "durationMs": 182293,
+      "ids": {
+        "appleMusic": "1442258690"
+      }
+    },
+    {
+      "title": "Can't Help Falling in Love",
+      "artist": "Haley Reinhart",
+      "album": "Better",
+      "durationMs": 173175,
+      "ids": {
+        "appleMusic": "1721994786"
+      }
+    },
+    {
+      "title": "Ventura Highway",
+      "artist": "America",
+      "album": "Upstate Vibes",
+      "durationMs": 211680,
+      "ids": {
+        "appleMusic": "1832429084"
+      }
+    },
+    {
+      "title": "In the Summertime (Re-Recorded Version)",
+      "artist": "Mungo Jerry",
+      "album": "And the Year Was - 1970 (Re-Recorded Versions)",
+      "durationMs": 216856,
+      "ids": {
+        "appleMusic": "299038543"
+      }
+    },
+    {
+      "title": "Who Loves You",
+      "artist": "Frankie Valli \u0026 The Four Seasons",
+      "album": "Chilled 70s",
+      "durationMs": 252307,
+      "ids": {
+        "appleMusic": "1277001614"
+      }
+    },
+    {
+      "title": "Dedicated To The One I Love",
+      "artist": "The Mamas \u0026 The Papas",
+      "album": "All The Leaves Are Brown The Golden Era Collection",
+      "durationMs": 178867,
+      "ids": {
+        "appleMusic": "1434911584"
+      }
+    },
+    {
+      "title": "Tell It Like It Is",
+      "artist": "Aaron Neville",
+      "album": "Tell It Like It Is",
+      "durationMs": 161595,
+      "ids": {
+        "appleMusic": "1607370146"
+      }
+    },
+    {
+      "title": "The Wanderer",
+      "artist": "Dion \u0026 The Belmonts",
+      "album": "Lonely Teenager, Runaround Sue, the Wanderer",
+      "durationMs": 170133,
+      "ids": {
+        "appleMusic": "900814725"
+      }
+    },
+    {
+      "title": "Bye Bye Love",
+      "artist": "The Everly Brothers",
+      "album": "All I Have to Do Is Dream",
+      "durationMs": 142907,
+      "ids": {
+        "appleMusic": "1543714959"
+      }
+    },
+    {
+      "title": "My Eyes Adored You",
+      "artist": "Frankie Valli",
+      "album": "Clásicos Universales",
+      "durationMs": 212627,
+      "ids": {
+        "appleMusic": "1794990156"
+      }
+    },
+    {
+      "title": "Make It with You",
+      "artist": "Bread",
+      "album": "Make It With You: Smooth Rock",
+      "durationMs": 192200,
+      "ids": {
+        "appleMusic": "1557424623"
+      }
+    },
+    {
+      "title": "Take It Easy (2013 Remaster)",
+      "artist": "Eagles",
+      "album": "70s HITS - 100 Greatest Songs of the 1970s",
+      "durationMs": 211578,
+      "ids": {
+        "appleMusic": "1714781753"
+      }
+    },
+    {
+      "title": "Got to Be There (Single)",
+      "artist": "Michael Jackson",
+      "album": "Anthology: The Best of Michael Jackson",
+      "durationMs": 204173,
+      "ids": {
+        "appleMusic": "1445752609"
+      }
+    },
+    {
+      "title": "Grazing In the Grass",
+      "artist": "The Friends of Distinction",
+      "album": "Nipper's Greatests Hits 60's, Vol. 1",
+      "durationMs": 175773,
+      "ids": {
+        "appleMusic": "298588917"
+      }
+    },
+    {
+      "title": "In My Room",
+      "artist": "The Beach Boys",
+      "album": "The Very Best of The Beach Boys: Sounds of Summer",
+      "durationMs": 134051,
+      "ids": {
+        "appleMusic": "725823881"
+      }
+    },
+    {
+      "title": "It's All Right",
+      "artist": "The Impressions",
+      "album": "People Get Ready: The Best Of The Impressions Featuring Curtis Mayfield 1961 - 1968",
+      "durationMs": 169307,
+      "ids": {
+        "appleMusic": "1500904812"
+      }
+    },
+    {
+      "title": "Summer Breeze",
+      "artist": "Seals \u0026 Crofts",
+      "album": "100 Greatest 70s: Golden Oldies From The 70s",
+      "durationMs": 205480,
+      "ids": {
+        "appleMusic": "1518614253"
+      }
+    },
+    {
+      "title": "The Way You Do the Things You Do",
+      "artist": "The Temptations",
+      "album": "Meet the Temptations",
+      "durationMs": 165829,
+      "ids": {
+        "appleMusic": "1443103228"
+      }
+    },
+    {
+      "title": "Hooked on a Feeling",
+      "artist": "Blue Swede",
+      "album": "Upstate Vibes",
+      "durationMs": 172867,
+      "ids": {
+        "appleMusic": "1832428879"
+      }
+    },
+    {
+      "title": "For the Love of Money",
+      "artist": "The O'Jays",
+      "album": "The Essential O'Jays",
+      "durationMs": 439533,
+      "ids": {
+        "appleMusic": "282176956"
+      }
+    },
+    {
+      "title": "If You Leave Me Now (2007 Remaster)",
+      "artist": "Chicago",
+      "album": "100 Greatest 70s: Golden Oldies From The 70s",
+      "durationMs": 238280,
+      "ids": {
+        "appleMusic": "1518614244"
+      }
+    },
+    {
+      "title": "I'll Take You There (Single Version)",
+      "artist": "The Staple Singers",
+      "album": "The Very Best of the Staple Singers",
+      "durationMs": 196827,
+      "ids": {
+        "appleMusic": "1440926039"
+      }
+    },
+    {
+      "title": "Angel Baby",
+      "artist": "Rosie \u0026 The Originals",
+      "album": "Catchy Tunes Of The Past Vol 9",
+      "durationMs": 227624,
+      "ids": {
+        "appleMusic": "1688277280"
+      }
+    },
+    {
+      "title": "This Will Be (An Everlasting Love)",
+      "artist": "Natalie Cole",
+      "album": "Great R\u0026B",
+      "durationMs": 171360,
+      "ids": {
+        "appleMusic": "721206367"
+      }
+    },
+    {
+      "title": "Wouldn't It Be Nice (Remastered 2012)",
+      "artist": "The Beach Boys",
+      "album": "old vintage music",
+      "durationMs": 153867,
+      "ids": {
+        "appleMusic": "1821567859"
+      }
+    },
+    {
+      "title": "Sherry",
+      "artist": "Frankie Valli \u0026 The Four Seasons",
+      "album": "Old School Romantic Cooking Music",
+      "durationMs": 152160,
+      "ids": {
+        "appleMusic": "1745287911"
+      }
+    },
+    {
+      "title": "Do You Believe In Magic?",
+      "artist": "The Lovin' Spoonful",
+      "album": "The Lovin' Spoonful: Greatest Hits",
+      "durationMs": 125827,
+      "ids": {
+        "appleMusic": "339742253"
+      }
+    },
+    {
+      "title": "Be My Baby",
+      "artist": "The Ronettes",
+      "album": "Love Songs - 100 Hits: Ballads, sad songs and tear jerkers inc. Beyonce, Michael Jackson and John Legend",
+      "durationMs": 160907,
+      "ids": {
+        "appleMusic": "1341392587"
+      }
+    },
+    {
+      "title": "I Only Want To Be With You",
+      "artist": "Dusty Springfield",
+      "album": "Stay Awhile / I Only Want To Be With You",
+      "durationMs": 158200,
+      "ids": {
+        "appleMusic": "1436881516"
+      }
+    },
+    {
+      "title": "California Dreamin' (Single Version)",
+      "artist": "The Mamas \u0026 The Papas",
+      "album": "Sammys Abenteuer (Original Soundtrack)",
+      "durationMs": 158920,
+      "ids": {
+        "appleMusic": "1442267467"
+      }
+    },
+    {
+      "title": "Calendar Girl (Remastered)",
+      "artist": "Neil Sedaka",
+      "album": "The Very Best Of Neil Sedaka",
+      "durationMs": 156533,
+      "ids": {
+        "appleMusic": "1728913184"
+      }
+    },
+    {
+      "title": "I Think We're Alone Now",
+      "artist": "Tommy James \u0026 The Shondells",
+      "album": "Sixties Feel Good",
+      "durationMs": 131954,
+      "ids": {
+        "appleMusic": "1708276921"
+      }
+    },
+    {
+      "title": "This Diamond Ring",
+      "artist": "Gary Lewis \u0026 The Playboys",
+      "album": "The Best of Gary Lewis \u0026 The Playboys",
+      "durationMs": 136800,
+      "ids": {
+        "appleMusic": "716613911"
+      }
+    },
+    {
+      "title": "I Feel Fine",
+      "artist": "The Beatles",
+      "album": "The Beatles 1962-1966 (The Red Album)",
+      "durationMs": 140400,
+      "ids": {
+        "appleMusic": "1441133491"
+      }
+    },
+    {
+      "title": "I'm Into Something Good",
+      "artist": "Herman's Hermits",
+      "album": "Old But Gold",
+      "durationMs": 153507,
+      "ids": {
+        "appleMusic": "1718644252"
+      }
+    },
+    {
+      "title": "Up on the Roof",
+      "artist": "The Drifters",
+      "album": "Some Oldies",
+      "durationMs": 155053,
+      "ids": {
+        "appleMusic": "1810425812"
+      }
+    },
+    {
+      "title": "Bus Stop",
+      "artist": "The Hollies",
+      "album": "The Air That I Breathe: The Very Best of The Hollies",
+      "durationMs": 174640,
+      "ids": {
+        "appleMusic": "697417390"
+      }
+    },
+    {
+      "title": "Daydream Believer",
+      "artist": "The Monkees",
+      "album": "Throwback 60s",
+      "durationMs": 179613,
+      "ids": {
+        "appleMusic": "1605141949"
+      }
+    },
+    {
+      "title": "Wake up Little Susie",
+      "artist": "The Everly Brothers",
+      "album": "Die 50er",
+      "durationMs": 123520,
+      "ids": {
+        "appleMusic": "1574292980"
+      }
+    },
+    {
+      "title": "Mr. Tambourine Man",
+      "artist": "The Byrds",
+      "album": "Summer of Love and Peace",
+      "durationMs": 136187,
+      "ids": {
+        "appleMusic": "425237143"
+      }
+    },
+    {
+      "title": "Into the Mystic (2013 Remaster)",
+      "artist": "Van Morrison",
+      "album": "100 Greatest Summer Songs",
+      "durationMs": 205613,
+      "ids": {
+        "appleMusic": "1458996895"
+      }
+    },
+    {
+      "title": "Piano Man",
+      "artist": "Billy Joel",
+      "album": "Piano Man",
+      "durationMs": 339291,
+      "ids": {
+        "appleMusic": "158617575"
+      }
+    },
+    {
+      "title": "Rich Girl (Remastered)",
+      "artist": "Daryl Hall \u0026 John Oates",
+      "album": "The Essential Daryl Hall \u0026 John Oates (Remastered)",
+      "durationMs": 144333,
+      "ids": {
+        "appleMusic": "199999677"
+      }
+    },
+    {
+      "title": "You Belong To Me",
+      "artist": "The Duprees",
+      "album": "You Belong to Me (Deluxe Edition)",
+      "durationMs": 169240,
+      "ids": {
+        "appleMusic": "430065732"
+      }
+    },
+    {
+      "title": "P.S. I Love You",
+      "artist": "The Beatles",
+      "album": "Please Please Me",
+      "durationMs": 124360,
+      "ids": {
+        "appleMusic": "1441165130"
+      }
+    },
+    {
+      "title": "Baby It's You",
+      "artist": "The Shirelles",
+      "album": "20 Greatest Hits",
+      "durationMs": 161520,
+      "ids": {
+        "appleMusic": "220358583"
+      }
+    },
+    {
+      "title": "Hello Stranger",
+      "artist": "Barbara Lewis",
+      "album": "Soul Klassiekers",
+      "durationMs": 166960,
+      "ids": {
+        "appleMusic": "1796521367"
+      }
+    },
+    {
+      "title": "Cowboys to Girls",
+      "artist": "The Intruders",
+      "album": "Cowboys to Girls",
+      "durationMs": 162173,
+      "ids": {
+        "appleMusic": "883915172"
+      }
+    },
+    {
+      "title": "Take a Letter Maria",
+      "artist": "R.B. Greaves",
+      "album": "R.B. Greaves",
+      "durationMs": 164520,
+      "ids": {
+        "appleMusic": "40287869"
+      }
+    },
+    {
+      "title": "Forever Young (From NBC's Parenthood)",
+      "artist": "Rhiannon Giddens \u0026 Iron \u0026 Wine",
+      "album": "Forever Young (From NBC's Parenthood) - Single",
+      "durationMs": 261370,
+      "ids": {
+        "appleMusic": "961963490"
+      }
+    },
+    {
+      "title": "Can't Help Falling In Love (with The Royal Philharmonic Orchestra)",
+      "artist": "Elvis Presley \u0026 Royal Philharmonic Orchestra",
+      "album": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
+      "durationMs": 198775,
+      "ids": {
+        "appleMusic": "1024343833"
+      }
+    },
+    {
+      "title": "Sing a Song",
+      "artist": "Earth, Wind \u0026 Fire",
+      "album": "Gratitude (Live)",
+      "durationMs": 201912,
+      "ids": {
+        "appleMusic": "523232036"
+      }
+    },
+    {
+      "title": "September",
+      "artist": "Justin Timberlake, Anna Kendrick \u0026 Earth, Wind \u0026 Fire",
+      "album": "Trolls (Original Motion Picture Soundtrack)",
+      "durationMs": 235000,
+      "ids": {
+        "appleMusic": "1164253574"
+      }
+    },
+    {
+      "title": "September",
+      "artist": "Earth, Wind \u0026 Fire",
+      "album": "Disco",
+      "durationMs": 214840,
+      "ids": {
+        "appleMusic": "276651810"
+      }
+    },
+    {
+      "title": "My Darling Forever",
+      "artist": "Rosie \u0026 The Originals",
+      "album": "Angel Baby",
+      "durationMs": 193985,
+      "ids": {
+        "appleMusic": "491859781"
+      }
+    },
+    {
+      "title": "Love...Can Be So Wonderful",
+      "artist": "The Temprees",
+      "album": "The Best of the Temprees",
+      "durationMs": 261827,
+      "ids": {
+        "appleMusic": "1443315051"
+      }
+    },
+    {
+      "title": "Money (That's What I Want) [Single Version / Mono]",
+      "artist": "Barrett Strong",
+      "album": "20th Century Masters - The Millennium Collection: Best of Motown 1960s, Vol. 1",
+      "durationMs": 158773,
+      "ids": {
+        "appleMusic": "1425214619"
+      }
+    },
+    {
+      "title": "Money, That's What I Want",
+      "artist": "Barrett Strong",
+      "album": "Detroit Soul the Early Sounds of the Motor City",
+      "durationMs": 158947,
+      "ids": {
+        "appleMusic": "866010566"
+      }
+    },
+    {
+      "title": "Twistin' the Night Away",
+      "artist": "Sam Cooke",
+      "album": "Twistin' the Night Away",
+      "durationMs": 161853,
+      "ids": {
+        "appleMusic": "497770006"
+      }
+    },
+    {
+      "title": "Judy In Disguise (With Glasses)",
+      "artist": "John Fred \u0026 His Playboy Band",
+      "album": "Summer of Love - 1967",
+      "durationMs": 171867,
+      "ids": {
+        "appleMusic": "392533585"
+      }
+    },
+    {
+      "title": "Love Is All Around (Rerecorded)",
+      "artist": "The Troggs",
+      "album": "Laughter and Tears",
+      "durationMs": 162240,
+      "ids": {
+        "appleMusic": "355645633"
+      }
+    },
+    {
+      "title": "Take Good Care of My Baby",
+      "artist": "Bobby Vee",
+      "album": "Take Good Care of My Baby",
+      "durationMs": 158397,
+      "ids": {
+        "appleMusic": "594435167"
+      }
+    },
+    {
+      "title": "Cathy's Clown",
+      "artist": "The Everly Brothers",
+      "album": "Definitive Pop: The Everly Brothers",
+      "durationMs": 145747,
+      "ids": {
+        "appleMusic": "213606417"
+      }
+    },
+    {
+      "title": "96 Tears",
+      "artist": "? and The Mysterians",
+      "album": "Cameo Parkway: The Best of ? and the Mysterians, 1966-1967",
+      "durationMs": 176400,
+      "ids": {
+        "appleMusic": "1442949692"
+      }
+    },
+    {
+      "title": "Do You Love Me (Mono Single)",
+      "artist": "The Contours",
+      "album": "Old But Gold",
+      "durationMs": 172400,
+      "ids": {
+        "appleMusic": "1718644247"
+      }
+    },
+    {
+      "title": "Band of Gold (Re-Record)",
+      "artist": "Freda Payne",
+      "album": "Band of Gold (Remix)",
+      "durationMs": 185000,
+      "ids": {
+        "appleMusic": "279141283"
+      }
+    },
+    {
+      "title": "Baby, I'm Yours",
+      "artist": "Barbara Lewis",
+      "album": "Beg, Scream \u0026 Shout!: Vol. 1",
+      "durationMs": 148707,
+      "ids": {
+        "appleMusic": "1269861073"
+      }
+    },
+    {
+      "title": "You Were On My Mind",
+      "artist": "We Five",
+      "album": "You Were On My Mind",
+      "durationMs": 155960,
+      "ids": {
+        "appleMusic": "1443780062"
+      }
+    },
+    {
+      "title": "Aquarius/Let the Sunshine In",
+      "artist": "The 5th Dimension",
+      "album": "The Age of Aquarius (2000 Remaster)",
+      "durationMs": 289293,
+      "ids": {
+        "appleMusic": "303078892"
+      }
+    },
+    {
+      "title": "Can’t Take My Eyes off You",
+      "artist": "Frankie Valli",
+      "album": "Classic Soft Rock Hits",
+      "durationMs": 203240,
+      "ids": {
+        "appleMusic": "1820864158"
+      }
+    },
+    {
+      "title": "For Once in My Life",
+      "artist": "Stevie Wonder",
+      "album": "For Once in My Life",
+      "durationMs": 169824,
+      "ids": {
+        "appleMusic": "1442836195"
+      }
+    },
+    {
+      "title": "Signed, Sealed, Delivered I'm Yours",
+      "artist": "Stevie Wonder",
+      "album": "Yes We Can: Voices of Grass Roots Movement",
+      "durationMs": 154053,
+      "ids": {
+        "appleMusic": "703438697"
+      }
+    },
+    {
+      "title": "You Send Me",
+      "artist": "Sam Cooke",
+      "album": "The Man Who Invented Soul",
+      "durationMs": 162394,
+      "ids": {
+        "appleMusic": "299550080"
+      }
+    },
+    {
+      "title": "You're the First, The Last, My Everything",
+      "artist": "Barry White",
+      "album": "70s Mixtape",
+      "durationMs": 272911,
+      "ids": {
+        "appleMusic": "1387986518"
+      }
+    },
+    {
+      "title": "She's Not There",
+      "artist": "The Zombies",
+      "album": "Oldays Album Guide Book:Rock #1",
+      "durationMs": 143933,
+      "ids": {
+        "appleMusic": "1677412926"
+      }
+    },
+    {
+      "title": "God Only Knows (Mono / Remastered 1996)",
+      "artist": "The Beach Boys",
+      "album": "Retro Love Anthems",
+      "durationMs": 173040,
+      "ids": {
+        "appleMusic": "6767679443"
+      }
+    },
+    {
+      "title": "Crimson and Clover",
+      "artist": "Tommy James \u0026 The Shondells",
+      "album": "Crimson \u0026 Clover",
+      "durationMs": 332760,
+      "ids": {
+        "appleMusic": "59412471"
+      }
+    },
+    {
+      "title": "Wedding Bell Blues",
+      "artist": "The 5th Dimension",
+      "album": "The Age of Aquarius (2000 Remaster)",
+      "durationMs": 164600,
+      "ids": {
+        "appleMusic": "303078895"
+      }
+    },
+    {
+      "title": "It's Now or Never (with The Royal Philharmonic Orchestra)",
+      "artist": "Elvis Presley \u0026 Royal Philharmonic Orchestra",
+      "album": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
+      "durationMs": 198261,
+      "ids": {
+        "appleMusic": "1024343701"
+      }
+    },
+    {
+      "title": "Bennie and the Jets",
+      "artist": "Elton John",
+      "album": "To Be Continued (Box Set)",
+      "durationMs": 320467,
+      "ids": {
+        "appleMusic": "1452863723"
+      }
+    },
+    {
+      "title": "Oh, How It Hurts",
+      "artist": "Barbara Mason",
+      "album": "Oh, How It Hurts",
+      "durationMs": 179733,
+      "ids": {
+        "appleMusic": "933432915"
+      }
+    },
+    {
+      "title": "Night and Day",
+      "artist": "The Temptations",
+      "album": "For Lovers Only",
+      "durationMs": 234160,
+      "ids": {
+        "appleMusic": "1443555574"
+      }
+    },
+    {
+      "title": "Back In My Arms Again",
+      "artist": "The Supremes",
+      "album": "Diana Ross \u0026 The Supremes: The No. 1's",
+      "durationMs": 181067,
+      "ids": {
+        "appleMusic": "1440739841"
+      }
+    },
+    {
+      "title": "The Happening",
+      "artist": "The Supremes",
+      "album": "Diana Ross \u0026 The Supremes: The No. 1's",
+      "durationMs": 182840,
+      "ids": {
+        "appleMusic": "1440739846"
+      }
+    },
+    {
+      "title": "Runaround Sue",
+      "artist": "Dion",
+      "album": "Jukebox Favorites",
+      "durationMs": 171600,
+      "ids": {
+        "appleMusic": "1893172528"
+      }
+    },
+    {
+      "title": "This Magic Moment",
+      "artist": "Ben E. King \u0026 The Drifters",
+      "album": "60s Classic Hits",
+      "durationMs": 146813,
+      "ids": {
+        "appleMusic": "1213417235"
+      }
+    },
+    {
+      "title": "You Don't Know Me",
+      "artist": "Elvis Presley",
+      "album": "From Nashville To Memphis - The Essential 60s Masters I",
+      "durationMs": 148160,
+      "ids": {
+        "appleMusic": "260132021"
+      }
+    },
+    {
+      "title": "You Don't Know Me",
+      "artist": "Ray Charles \u0026 Diana Krall",
+      "album": "Genius Loves Company",
+      "durationMs": 235402,
+      "ids": {
+        "appleMusic": "1881488741"
+      }
+    },
+    {
+      "title": "Georgia On My Mind",
+      "artist": "Ray Charles",
+      "album": "Brother Ray: The Genius (1949-1960 - The Rhythm \u0026 Blues and the Jazz)",
+      "durationMs": 216413,
+      "ids": {
+        "appleMusic": "476390356"
+      }
+    },
+    {
+      "title": "Smooth Operator (Single Version)",
+      "artist": "Sade",
+      "album": "R\u0026B - 100 Hits - The Greatest R n B album - 100 R \u0026 B Classics featuring Usher, Pitbull and Justin Timberlake",
+      "durationMs": 258307,
+      "ids": {
+        "appleMusic": "1108212652"
+      }
+    },
+    {
+      "title": "I Got You Babe",
+      "artist": "Sonny \u0026 Cher",
+      "album": "I Got You Babe",
+      "durationMs": 190080,
+      "ids": {
+        "appleMusic": "1477955471"
+      }
+    },
+    {
+      "title": "The Beat Goes On",
+      "artist": "Sonny \u0026 Cher",
+      "album": "The Beat Goes On",
+      "durationMs": 205720,
+      "ids": {
+        "appleMusic": "502428479"
+      }
+    },
+    {
+      "title": "You Really Got A Hold On Me (Mono)",
+      "artist": "The Miracles",
+      "album": "Classic R\u0026B For Kids",
+      "durationMs": 171627,
+      "ids": {
+        "appleMusic": "1622892215"
+      }
+    },
+    {
+      "title": "Baby Don't Go",
+      "artist": "Sonny \u0026 Cher",
+      "album": "The Two of Us",
+      "durationMs": 194400,
+      "ids": {
+        "appleMusic": "64739601"
+      }
+    },
+    {
+      "title": "Angel of the Morning",
+      "artist": "Merrilee Rush \u0026 The Turnabouts",
+      "album": "Angel of the Morning",
+      "durationMs": 192520,
+      "ids": {
+        "appleMusic": "408883089"
+      }
+    },
+    {
+      "title": "Corrine Corrina",
+      "artist": "Ray Peterson",
+      "album": "Promises",
+      "durationMs": 159962,
+      "ids": {
+        "appleMusic": "1489111225"
+      }
+    },
+    {
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "album": "Let's Stay Together",
+      "durationMs": 199396,
+      "ids": {
+        "appleMusic": "976362823"
+      }
+    },
+    {
+      "title": "Son of a Preacher Man",
+      "artist": "Dusty Springfield",
+      "album": "The Silver Collection",
+      "durationMs": 146627,
+      "ids": {
+        "appleMusic": "1440660059"
+      }
+    },
+    {
+      "title": "Lightnin' Strikes",
+      "artist": "Lou Christie",
+      "album": "60's Gold",
+      "durationMs": 179000,
+      "ids": {
+        "appleMusic": "1509083507"
+      }
+    },
+    {
+      "title": "Grazing in the Grass",
+      "artist": "Hugh Masekela",
+      "album": "60's Gold",
+      "durationMs": 156947,
+      "ids": {
+        "appleMusic": "1509083665"
+      }
+    },
+    {
+      "title": "Come Rain or Come Shine",
+      "artist": "Ray Charles",
+      "album": "Red Wine Vibes",
+      "durationMs": 222733,
+      "ids": {
+        "appleMusic": "1837150754"
+      }
+    },
+    {
+      "title": "Windy",
+      "artist": "The Association",
+      "album": "Swinging '60S",
+      "durationMs": 176876,
+      "ids": {
+        "appleMusic": "1205520767"
+      }
+    },
+    {
+      "title": "Under the Boardwalk",
+      "artist": "The Drifters",
+      "album": "60s Rock Essentials",
+      "durationMs": 161960,
+      "ids": {
+        "appleMusic": "1218661823"
+      }
+    },
+    {
+      "title": "Along Comes Mary",
+      "artist": "The Association",
+      "album": "songs for red wine and good food",
+      "durationMs": 171000,
+      "ids": {
+        "appleMusic": "1879739319"
+      }
+    },
+    {
+      "title": "(You Make Me Feel Like) A Natural Woman",
+      "artist": "Aretha Franklin",
+      "album": "Soft Soul",
+      "durationMs": 164627,
+      "ids": {
+        "appleMusic": "1255097023"
+      }
+    },
+    {
+      "title": "Let's Hang On",
+      "artist": "Frankie Valli \u0026 The Four Seasons",
+      "album": "Good Times 60's",
+      "durationMs": 198333,
+      "ids": {
+        "appleMusic": "1274546801"
+      }
+    },
+    {
+      "title": "Walk On By",
+      "artist": "Dionne Warwick",
+      "album": "60's US Hits",
+      "durationMs": 178333,
+      "ids": {
+        "appleMusic": "1556010007"
+      }
+    },
+    {
+      "title": "Somethin' Stupid",
+      "artist": "Robbie Williams \u0026 Nicole Kidman",
+      "album": "Swing When You're Winning",
+      "durationMs": 170493,
+      "ids": {
+        "appleMusic": "724580352"
+      }
+    },
+    {
+      "title": "Bye Bye Blackbird",
+      "artist": "Dean Martin",
+      "album": "The Capitol Recordings, Vol. 1 (1948-1950)",
+      "durationMs": 186293,
+      "ids": {
+        "appleMusic": "1443222891"
+      }
+    },
+    {
+      "title": "I'll Be Seeing You",
+      "artist": "Billie Holiday",
+      "album": "The Commodore Master Takes",
+      "durationMs": 213333,
+      "ids": {
+        "appleMusic": "1434877759"
+      }
+    },
+    {
+      "title": "Bye Bye Blackbird",
+      "artist": "Peggy Lee",
+      "album": "Songs from Pete Kelly's Blues (Soundtrack from the Motion Picture)",
+      "durationMs": 219907,
+      "ids": {
+        "appleMusic": "1444221735"
+      }
+    },
+    {
+      "title": "Sealed with a Kiss (Single Version)",
+      "artist": "Brian Hyland",
+      "album": "60's Gold",
+      "durationMs": 158253,
+      "ids": {
+        "appleMusic": "1509083394"
+      }
+    },
+    {
+      "title": "Hey! Baby (Single Version)",
+      "artist": "Bruce Channel",
+      "album": "60's Gold",
+      "durationMs": 142320,
+      "ids": {
+        "appleMusic": "1509083392"
+      }
+    },
+    {
+      "title": "Love Is Strange",
+      "artist": "Mickey \u0026 Sylvia",
+      "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+      "durationMs": 173333,
+      "ids": {
+        "appleMusic": "254939332"
+      }
+    },
+    {
+      "title": "If You Really Love Me",
+      "artist": "Stevie Wonder",
+      "album": "R\u0026B For Kids",
+      "durationMs": 180960,
+      "ids": {
+        "appleMusic": "1634072481"
+      }
+    },
+    {
+      "title": "Just One More Chance",
+      "artist": "Billie Holiday \u0026 Ray Ellis and His Orchestra",
+      "album": "Solitude: The Legendary Billie Holiday",
+      "durationMs": 226493,
+      "ids": {
+        "appleMusic": "1870396190"
+      }
+    },
+    {
+      "title": "Don't Make Me Over (Mono)",
+      "artist": "Dionne Warwick",
+      "album": "Playlist: The Best of Dionne Warwick",
+      "durationMs": 167893,
+      "ids": {
+        "appleMusic": "1098947770"
+      }
+    },
+    {
+      "title": "I'll Never Fall in Love Again",
+      "artist": "Dionne Warwick",
+      "album": "Sad Soul",
+      "durationMs": 174840,
+      "ids": {
+        "appleMusic": "1726902468"
+      }
+    },
+    {
+      "title": "Never Can Say Goodbye (Single)",
+      "artist": "Jackson 5",
+      "album": "Anthology: Jackson 5",
+      "durationMs": 179733,
+      "ids": {
+        "appleMusic": "1440664223"
+      }
+    },
+    {
+      "title": "Ain't No Mountain High Enough",
+      "artist": "Diana Ross",
+      "album": "Motown the Musical – 100 Originals",
+      "durationMs": 217120,
+      "ids": {
+        "appleMusic": "1431079835"
+      }
+    },
+    {
+      "title": "Ain't No Mountain High Enough (Long Version)",
+      "artist": "Diana Ross",
+      "album": "Diana Ross (1970) [Expanded Edition]",
+      "durationMs": 380173,
+      "ids": {
+        "appleMusic": "1443201191"
+      }
+    },
+    {
+      "title": "I'll Never Love This Way Again",
+      "artist": "Dionne Warwick",
+      "album": "Dionne (Expanded Edition)",
+      "durationMs": 211920,
+      "ids": {
+        "appleMusic": "1363890930"
+      }
+    },
+    {
+      "title": "Silly",
+      "artist": "Deniece Williams",
+      "album": "Gonna Take a Miracle: The Best of Deniece Williams",
+      "durationMs": 357360,
+      "ids": {
+        "appleMusic": "170529342"
+      }
+    },
+    {
+      "title": "Leaving On a Jet Plane",
+      "artist": "Peter, Paul \u0026 Mary",
+      "album": "60s Vocal Harmony Pop",
+      "durationMs": 207560,
+      "ids": {
+        "appleMusic": "1553904503"
+      }
+    },
+    {
+      "title": "Suavecito",
+      "artist": "Malo",
+      "album": "Chilled 70s",
+      "durationMs": 395200,
+      "ids": {
+        "appleMusic": "1277001615"
+      }
+    },
+    {
+      "title": "If You Wanna Be Happy",
+      "artist": "JIMMY SOUL",
+      "album": "If You Wanna Be Happy (Frank Guida Presents)",
+      "durationMs": 143000,
+      "ids": {
+        "appleMusic": "494670217"
+      }
+    },
+    {
+      "title": "Reasons",
+      "artist": "Earth, Wind \u0026 Fire",
+      "album": "Cinema Hits",
+      "durationMs": 298760,
+      "ids": {
+        "appleMusic": "206733439"
+      }
+    },
+    {
+      "title": "Daniel",
+      "artist": "Elton John",
+      "album": "Beautiful Melodies for Kids",
+      "durationMs": 232787,
+      "ids": {
+        "appleMusic": "1442242458"
+      }
+    },
+    {
+      "title": "You Make Me Feel Brand New",
+      "artist": "The Stylistics",
+      "album": "The Very Best of the Stylistics",
+      "durationMs": 328840,
+      "ids": {
+        "appleMusic": "1440723524"
+      }
+    },
+    {
+      "title": "Could It Be I’m Falling in Love",
+      "artist": "The Spinners",
+      "album": "Upstate Vibes",
+      "durationMs": 249733,
+      "ids": {
+        "appleMusic": "1832428397"
+      }
+    },
+    {
+      "title": "I'd Rather Go Blind",
+      "artist": "Beyoncé",
+      "album": "Cadillac Records (Music from the Motion Picture) [Deluxe Version]",
+      "durationMs": 190080,
+      "ids": {
+        "appleMusic": "297019141"
+      }
+    },
+    {
+      "title": "Natural High (Extended Version)",
+      "artist": "Bloodstone",
+      "album": "Bloodstone: The Ultimate Collection",
+      "durationMs": 359333,
+      "ids": {
+        "appleMusic": "270634155"
+      }
+    },
+    {
+      "title": "The Nearness of You",
+      "artist": "Ella Fitzgerald \u0026 Louis Armstrong",
+      "album": "Cheek To Cheek: The Complete Duet Recordings",
+      "durationMs": 342147,
+      "ids": {
+        "appleMusic": "1359342569"
+      }
+    },
+    {
+      "title": "Why Do Fools Fall In Love",
+      "artist": "Frankie Lymon \u0026 The Teenagers",
+      "album": "Rock \u0026 Roll Jukebox",
+      "durationMs": 138973,
+      "ids": {
+        "appleMusic": "1374259927"
+      }
+    },
+    {
+      "title": "Working My Way Back to You",
+      "artist": "Frankie Valli \u0026 The Four Seasons",
+      "album": "Four Seasons, Six Decades",
+      "durationMs": 186133,
+      "ids": {
+        "appleMusic": "1630312995"
+      }
+    },
+    {
+      "title": "Just One Look",
+      "artist": "Doris Troy",
+      "album": "60's Rhythm \u0026 Blues",
+      "durationMs": 151907,
+      "ids": {
+        "appleMusic": "1336620170"
+      }
+    },
+    {
+      "title": "Walk Like a Man",
+      "artist": "Frankie Valli \u0026 The Four Seasons",
+      "album": "Four Seasons, Six Decades",
+      "durationMs": 137533,
+      "ids": {
+        "appleMusic": "1630311750"
+      }
+    },
+    {
+      "title": "Suavecito",
+      "artist": "Malo",
+      "album": "Florida Beats",
+      "durationMs": 209240,
+      "ids": {
+        "appleMusic": "1589836689"
+      }
+    },
+    {
+      "title": "I Like It",
+      "artist": "DeBarge",
+      "album": "R\u0026B For Kids",
+      "durationMs": 279400,
+      "ids": {
+        "appleMusic": "1634072991"
+      }
+    },
+    {
+      "title": "It's My Party",
+      "artist": "Lesley Gore",
+      "album": "I'll Cry If I Want To",
+      "durationMs": 140000,
+      "ids": {
+        "appleMusic": "1444105756"
+      }
+    },
+    {
+      "title": "You Don't Own Me",
+      "artist": "Lesley Gore",
+      "album": "Lesley Gore Sings of Mixed-Up Hearts",
+      "durationMs": 150000,
+      "ids": {
+        "appleMusic": "1444111099"
+      }
+    },
+    {
+      "title": "Then He Kissed Me",
+      "artist": "The Crystals",
+      "album": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
+      "durationMs": 158853,
+      "ids": {
+        "appleMusic": "420136965"
+      }
+    },
+    {
+      "title": "El Listón de Tu Pelo (feat. Denise Gutiérrez) [En Vivo, Concierto Sinfónico Cumbia Fuzión]",
+      "artist": "Los Ángeles Azules",
+      "album": "Cómo Te Voy a Olvidar ¡Edición de Súper Lujo!",
+      "durationMs": 266920,
+      "ids": {
+        "appleMusic": "1455580490"
+      }
+    },
+    {
+      "title": "Wishing On a Star",
+      "artist": "Rose Royce",
+      "album": "In Full Bloom",
+      "durationMs": 291760,
+      "ids": {
+        "appleMusic": "332668531"
+      }
+    },
+    {
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "album": "Legenden des Soul: Marvin Gaye",
+      "durationMs": 290987,
+      "ids": {
+        "appleMusic": "1442366947"
+      }
+    },
+    {
+      "title": "It's Your Thing",
+      "artist": "The Isley Brothers",
+      "album": "It's Our Thing (Expanded Edition)",
+      "durationMs": 169296,
+      "ids": {
+        "appleMusic": "1030447128"
+      }
+    },
+    {
+      "title": "Between the Sheets",
+      "artist": "The Isley Brothers",
+      "album": "Between the Sheets",
+      "durationMs": 340015,
+      "ids": {
+        "appleMusic": "1030463074"
+      }
+    },
+    {
+      "title": "I'm So Proud (Live)",
+      "artist": "The Brooklyn Bridge",
+      "album": "Live At Yankee Stadium",
+      "durationMs": 115192,
+      "ids": {
+        "appleMusic": "1030462286"
+      }
+    },
+    {
+      "title": "That Lady, Pts. 1 \u0026 2",
+      "artist": "The Isley Brothers",
+      "album": "3+3",
+      "durationMs": 334388,
+      "ids": {
+        "appleMusic": "1030452446"
+      }
+    },
+    {
+      "title": "More Today Than Yesterday",
+      "artist": "Spiral Starecase",
+      "album": "Pop Classics of the 60's",
+      "durationMs": 169467,
+      "ids": {
+        "appleMusic": "170275000"
+      }
+    },
+    {
+      "title": "More Today Than Yesterday",
+      "artist": "Spiral Starecase",
+      "album": "More Today Than Yesterday",
+      "durationMs": 188987,
+      "ids": {
+        "appleMusic": "399224025"
+      }
+    },
+    {
+      "title": "My Baby Loves Lovin'",
+      "artist": "White Plains",
+      "album": "My Baby Loves Lovin'",
+      "durationMs": 157040,
+      "ids": {
+        "appleMusic": "911900298"
+      }
+    },
+    {
+      "title": "In My House (Single Version)",
+      "artist": "Mary Jane Girls",
+      "album": "Hitsville USA, The Motown Collection 1972-1992",
+      "durationMs": 236733,
+      "ids": {
+        "appleMusic": "1430160071"
+      }
+    },
+    {
+      "title": "Ob-La-Di, Ob-La-Da",
+      "artist": "The Beatles",
+      "album": "The Beatles (The White Album)",
+      "durationMs": 188960,
+      "ids": {
+        "appleMusic": "1441133613"
+      }
+    },
+    {
+      "title": "Grazing In the Grass",
+      "artist": "Hugh Masekela",
+      "album": "Hugh Masekela: Greatest Hits",
+      "durationMs": 174067,
+      "ids": {
+        "appleMusic": "307096546"
+      }
+    },
+    {
+      "title": "You Don't Have to Say You Love Me (Single)",
+      "artist": "Dusty Springfield",
+      "album": "You Don't Have to Say You Love Me",
+      "durationMs": 170440,
+      "ids": {
+        "appleMusic": "1444114537"
+      }
+    },
+    {
+      "title": "These Arms of Mine",
+      "artist": "Otis Redding",
+      "album": "Stax/Volt - The Complete Singles 1959-1968 - Volume 2",
+      "durationMs": 154293,
+      "ids": {
+        "appleMusic": "220241069"
+      }
+    },
+    {
+      "title": "In the Still of the Night",
+      "artist": "The Five Satins",
+      "album": "Dirty Dancing: The Anniversary Edition (Original Motion Picture Soundtrack) [Remastered]",
+      "durationMs": 185333,
+      "ids": {
+        "appleMusic": "560357351"
+      }
+    },
+    {
+      "title": "You've Really Got A Hold On Me",
+      "artist": "Smokey Robinson \u0026 The Miracles",
+      "album": "Gold: Smokey Robinson \u0026 the Miracles",
+      "durationMs": 191520,
+      "ids": {
+        "appleMusic": "1442732378"
+      }
+    },
+    {
+      "title": "Ooo Baby Baby",
+      "artist": "Smokey Robinson \u0026 The Miracles",
+      "album": "The 35th Anniversary Collection",
+      "durationMs": 164867,
+      "ids": {
+        "appleMusic": "1434899777"
+      }
+    },
+    {
+      "title": "Be My Baby",
+      "artist": "The Ronettes",
+      "album": "Dirty Dancing: The Anniversary Edition (Original Motion Picture Soundtrack) [Remastered]",
+      "durationMs": 158680,
+      "ids": {
+        "appleMusic": "560357039"
+      }
+    },
+    {
+      "title": "La-La Means I Love You",
+      "artist": "The Delfonics",
+      "album": "Love Songs: The Delfonics",
+      "durationMs": 199707,
+      "ids": {
+        "appleMusic": "253209984"
+      }
+    },
+    {
+      "title": "At Last",
+      "artist": "Etta James",
+      "album": "Etta James: My Greatest Songs",
+      "durationMs": 180667,
+      "ids": {
+        "appleMusic": "1443329537"
+      }
+    },
+    {
+      "title": "Monday, Monday (Single)",
+      "artist": "The Mamas \u0026 The Papas",
+      "album": "If You Can Believe Your Eyes and Ears",
+      "durationMs": 208293,
+      "ids": {
+        "appleMusic": "1440795944"
+      }
+    },
+    {
+      "title": "Goin' Out of My Head",
+      "artist": "Little Anthony \u0026 The Imperials",
+      "album": "The Best of Little Anthony \u0026 The Imperials",
+      "durationMs": 146667,
+      "ids": {
+        "appleMusic": "714986582"
+      }
+    },
+    {
+      "title": "Take Good Care Of My Baby (1990 Remastered)",
+      "artist": "Bobby Vee",
+      "album": "The Best 60s Album In The World...Ever!",
+      "durationMs": 150867,
+      "ids": {
+        "appleMusic": "1595173185"
+      }
+    },
+    {
+      "title": "Cry to Me (Single Version)",
+      "artist": "Solomon Burke",
+      "album": "Blue \u0026 Soulful",
+      "durationMs": 154907,
+      "ids": {
+        "appleMusic": "266614389"
+      }
+    },
+    {
+      "title": "Bring It On Home to Me",
+      "artist": "Sam Cooke",
+      "album": "Portrait of a Legend: 1951–1964",
+      "durationMs": 165387,
+      "ids": {
+        "appleMusic": "1440772624"
+      }
+    },
+    {
+      "title": "Brandy (You're A Fine Girl)",
+      "artist": "Looking Glass",
+      "album": "Looking Glass",
+      "durationMs": 189045,
+      "ids": {
+        "appleMusic": "388158216"
+      }
+    },
+    {
+      "title": "Come A Little Bit Closer",
+      "artist": "Jay \u0026 The Americans",
+      "album": "Greatest Hits",
+      "durationMs": 166667,
+      "ids": {
+        "appleMusic": "1413434992"
+      }
+    },
+    {
+      "title": "My Sweet Lord (2009 Remaster)",
+      "artist": "George Harrison",
+      "album": "Let It Roll - Songs of George Harrison",
+      "durationMs": 280600,
+      "ids": {
+        "appleMusic": "1666662606"
+      }
+    },
+    {
+      "title": "Just My Imagination (Running Away With Me)",
+      "artist": "The Temptations",
+      "album": "Bridget Jones's Diary: The Mixtape",
+      "durationMs": 229160,
+      "ids": {
+        "appleMusic": "1793161855"
+      }
+    },
+    {
+      "title": "Delilah",
+      "artist": "Tom Jones",
+      "album": "20th Century Masters - The Millennium Collection: The Best of Tom Jones",
+      "durationMs": 201067,
+      "ids": {
+        "appleMusic": "1434895945"
+      }
+    },
+    {
+      "title": "It's Not Unusual",
+      "artist": "Tom Jones",
+      "album": "20th Century Masters - The Millennium Collection: The Best of Tom Jones",
+      "durationMs": 119267,
+      "ids": {
+        "appleMusic": "1434895938"
+      }
+    },
+    {
+      "title": "She's A Lady",
+      "artist": "Tom Jones",
+      "album": "Dzień taty",
+      "durationMs": 172467,
+      "ids": {
+        "appleMusic": "1693032082"
+      }
+    },
+    {
+      "title": "You've Lost That Loving Feeling",
+      "artist": "The Righteous Brothers",
+      "album": "Pop Doo Wop Classics, Vol. 3",
+      "durationMs": 229811,
+      "ids": {
+        "appleMusic": "421211792"
+      }
+    },
+    {
+      "title": "I Can't Get Next to You",
+      "artist": "The Temptations",
+      "album": "Puzzle People",
+      "durationMs": 174933,
+      "ids": {
+        "appleMusic": "1443901051"
+      }
+    },
+    {
+      "title": "It's the Little Things",
+      "artist": "Sonny \u0026 Cher",
+      "album": "The Best of Sonny \u0026 Cher",
+      "durationMs": 186067,
+      "ids": {
+        "appleMusic": "95803462"
+      }
+    },
+    {
+      "title": "How Deep Is Your Love (From \"Saturday Night Fever\" Soundtrack)",
+      "artist": "Bee Gees",
+      "album": "Timeless: The All-Time Greatest Hits",
+      "durationMs": 245067,
+      "ids": {
+        "appleMusic": "1445663754"
+      }
+    },
+    {
+      "title": "Sooner Or Later",
+      "artist": "The Grass Roots",
+      "album": "Throwback Tunes: 70s",
+      "durationMs": 160707,
+      "ids": {
+        "appleMusic": "1440884497"
+      }
+    },
+    {
+      "title": "My World Is Empty Without You (Stereo Version)",
+      "artist": "The Supremes",
+      "album": "I Hear A Symphony (Expanded Edition)",
+      "durationMs": 157027,
+      "ids": {
+        "appleMusic": "1443226001"
+      }
+    },
+    {
+      "title": "Giving Him Something He Can Feel",
+      "artist": "En Vogue",
+      "album": "Black Coffee - Morning R'n'B",
+      "durationMs": 235707,
+      "ids": {
+        "appleMusic": "1481446420"
+      }
+    },
+    {
+      "title": "Rocket Man (I Think It's Going to Be a Long Long Time)",
+      "artist": "Elton John",
+      "album": "Honky Château (Bonus Track Version)",
+      "durationMs": 281613,
+      "ids": {
+        "appleMusic": "1440910931"
+      }
+    },
+    {
+      "title": "Ticket to Ride",
+      "artist": "The Beatles",
+      "album": "Help!",
+      "durationMs": 189680,
+      "ids": {
+        "appleMusic": "1441164669"
+      }
+    },
+    {
+      "title": "Day Tripper",
+      "artist": "The Beatles",
+      "album": "1",
+      "durationMs": 168533
+    },
+    {
+      "title": "Stay",
+      "artist": "Maurice Williams \u0026 The Zodiacs",
+      "album": "Dirty Dancing: The Anniversary Edition (Original Motion Picture Soundtrack) [Remastered]",
+      "durationMs": 95387,
+      "ids": {
+        "appleMusic": "560357042"
+      }
+    },
+    {
+      "title": "(I've Had) The Time of My Life (Remastered Version)",
+      "artist": "Bill Medley \u0026 Jennifer Warnes",
+      "album": "Dirty Dancing: The Anniversary Edition (Original Motion Picture Soundtrack) [Remastered]",
+      "durationMs": 406947,
+      "ids": {
+        "appleMusic": "560357353"
+      }
+    },
+    {
+      "title": "Stay In My Corner (1969 Single Version)",
+      "artist": "The Dells",
+      "album": "Chess Chartbusters, Vol. 3",
+      "durationMs": 370347,
+      "ids": {
+        "appleMusic": "1443143326"
+      }
+    },
+    {
+      "title": "Hey There Lonely Girl",
+      "artist": "Eddie Holman",
+      "album": "I Love You",
+      "durationMs": 216760,
+      "ids": {
+        "appleMusic": "1442269002"
+      }
+    },
+    {
+      "title": "Mama Told Me Not To Come (feat. Stereophonics)",
+      "artist": "Tom Jones",
+      "album": "Reload",
+      "durationMs": 180360,
+      "ids": {
+        "appleMusic": "1440715345"
+      }
+    },
+    {
+      "title": "Then You Can Tell Me Goodbye (Re-Recorded)",
+      "artist": "The Casinos",
+      "album": "Halfway to Paradise (Re-Recorded Versions)",
+      "durationMs": 189111,
+      "ids": {
+        "appleMusic": "351531890"
+      }
+    },
+    {
+      "title": "Sweet Nothin's",
+      "artist": "Roy M",
+      "album": "20th Century Masters: Best of Brenda Lee (The Millennium Collection)",
+      "durationMs": 142933,
+      "ids": {
+        "appleMusic": "1434776270"
+      }
+    },
+    {
+      "title": "Little Darlin' (Rerecorded)",
+      "artist": "The Diamonds",
+      "album": "20th Century Rocks: 50's Rock 'n Roll - Whole Lot of Shakin' (Rerecorded Version)",
+      "durationMs": 126853,
+      "ids": {
+        "appleMusic": "278951539"
+      }
+    },
+    {
+      "title": "Shining Star",
+      "artist": "The Manhattans",
+      "album": "The Best of the Manhattans: Kiss and Say Goodbye",
+      "durationMs": 279400,
+      "ids": {
+        "appleMusic": "401056875"
+      }
+    },
+    {
+      "title": "The Agony and the Ecstasy",
+      "artist": "Smokey Robinson",
+      "album": "A Quiet Storm",
+      "durationMs": 289355,
+      "ids": {
+        "appleMusic": "1469582437"
+      }
+    },
+    {
+      "title": "Wedding Bell Blues (Remastered)",
+      "artist": "The 5th Dimension",
+      "album": "The Essential: 5th Dimension",
+      "durationMs": 163347,
+      "ids": {
+        "appleMusic": "425015101"
+      }
+    },
+    {
+      "title": "Have You Seen Her",
+      "artist": "The Chi-Lites",
+      "album": "The Ultimate Chi-Lites",
+      "durationMs": 310747,
+      "ids": {
+        "appleMusic": "186109058"
+      }
+    },
+    {
+      "title": "Only the Lonely",
+      "artist": "Roy Orbison",
+      "album": "Lonely and Blue",
+      "durationMs": 147760,
+      "ids": {
+        "appleMusic": "997479696"
+      }
+    },
+    {
+      "title": "Runaway",
+      "artist": "Del Shannon",
+      "album": "Runaway",
+      "durationMs": 142968,
+      "ids": {
+        "appleMusic": "1030766234"
+      }
+    },
+    {
+      "title": "Then You Can Tell Me Goodbye (Re-Recorded)",
+      "artist": "The Casinos",
+      "album": "I Love the 60's: 1967 (Re-Recorded Versions)",
+      "durationMs": 191067,
+      "ids": {
+        "appleMusic": "297251234"
+      }
+    },
+    {
+      "title": "Black Magic Woman",
+      "artist": "Santana",
+      "album": "The Train Kept a Rollin'...30 Years of Rock",
+      "durationMs": 196040,
+      "ids": {
+        "appleMusic": "307621546"
+      }
+    },
+    {
+      "title": "Blue Moon (From “Grease”)",
+      "artist": "Sha Na Na",
+      "album": "Oldies Love Songs",
+      "durationMs": 143400,
+      "ids": {
+        "appleMusic": "1798757310"
+      }
+    },
+    {
+      "title": "Tell It Like It Is - Re-Recording",
+      "artist": "Aaron Neville",
+      "album": "The Very Best Of The Neville Brothers",
+      "durationMs": 185205,
+      "ids": {
+        "appleMusic": "380739040"
+      }
+    },
+    {
+      "title": "Ain't No Sunshine",
+      "artist": "Bill Withers",
+      "album": "Just As I Am",
+      "durationMs": 126458,
+      "ids": {
+        "appleMusic": "293521573"
+      }
+    },
+    {
+      "title": "My Cherie Amour",
+      "artist": "Stevie Wonder",
+      "album": "The Definitive Collection",
+      "durationMs": 173198,
+      "ids": {
+        "appleMusic": "1446742817"
+      }
+    },
+    {
+      "title": "My Girl",
+      "artist": "The Temptations",
+      "album": "Ultimate Soul Collection (Drew's Famous Presents)",
+      "durationMs": 176320,
+      "ids": {
+        "appleMusic": "1444054852"
+      }
+    },
+    {
+      "title": "Someday We'll Be Together",
+      "artist": "Diana Ross \u0026 The Supremes",
+      "album": "Diana Ross \u0026 The Supremes: The No. 1's",
+      "durationMs": 211573,
+      "ids": {
+        "appleMusic": "1440739850"
+      }
+    },
+    {
+      "title": "Neither One Of Us (Wants To Be The First To Say Goodbye) [Single Version]",
+      "artist": "Gladys Knight \u0026 The Pips",
+      "album": "Cocktail Hour Jazz",
+      "durationMs": 260187,
+      "ids": {
+        "appleMusic": "1859698881"
+      }
+    },
+    {
+      "title": "Break Up to Make Up",
+      "artist": "The Stylistics",
+      "album": "Greatest Hits",
+      "durationMs": 234867,
+      "ids": {
+        "appleMusic": "1445664340"
+      }
+    },
+    {
+      "title": "There's No Me Without You",
+      "artist": "The Manhattans",
+      "album": "The Best of the Manhattans: Kiss and Say Goodbye",
+      "durationMs": 217440,
+      "ids": {
+        "appleMusic": "401056800"
+      }
+    },
+    {
+      "title": "Sad Girl",
+      "artist": "The Intruders",
+      "album": "Cowboys to Girls",
+      "durationMs": 120154,
+      "ids": {
+        "appleMusic": "883915177"
+      }
+    },
+    {
+      "title": "Sideshow",
+      "artist": "Blue Magic",
+      "album": "Soulful Spell - The Best of Blue Magic",
+      "durationMs": 252027,
+      "ids": {
+        "appleMusic": "68113430"
+      }
+    },
+    {
+      "title": "Oh What a Night",
+      "artist": "The Dells",
+      "album": "Oh What a Night!: The Great Ballads",
+      "durationMs": 247267,
+      "ids": {
+        "appleMusic": "1443909816"
+      }
+    },
+    {
+      "title": "Natural High",
+      "artist": "Bloodstone",
+      "album": "70s Classic Love Songs",
+      "durationMs": 249093,
+      "ids": {
+        "appleMusic": "1203782924"
+      }
+    },
+    {
+      "title": "Being With You",
+      "artist": "Smokey Robinson",
+      "album": "Being With You",
+      "durationMs": 246960,
+      "ids": {
+        "appleMusic": "1443067999"
+      }
+    },
+    {
+      "title": "Someday We'll Be Together (Single Version) [Stereo]",
+      "artist": "Diana Ross \u0026 The Supremes",
+      "album": "Supremes (2000 Box Set)",
+      "durationMs": 212000,
+      "ids": {
+        "appleMusic": "1452879872"
+      }
+    },
+    {
+      "title": "Leader of the Pack",
+      "artist": "The Shangri-Las",
+      "album": "The Best of the Shangri-las",
+      "durationMs": 171333,
+      "ids": {
+        "appleMusic": "1443846358"
+      }
+    },
+    {
+      "title": "I'm Every Woman",
+      "artist": "Chaka Khan",
+      "album": "New Year's Eve",
+      "durationMs": 249600,
+      "ids": {
+        "appleMusic": "1181210758"
+      }
+    },
+    {
+      "title": "When Will I See You Again",
+      "artist": "The Three Degrees",
+      "album": "Philly Soul Reunion",
+      "durationMs": 178747,
+      "ids": {
+        "appleMusic": "1564785088"
+      }
+    },
+    {
+      "title": "Don't Leave Me This Way (Single Version)",
+      "artist": "Thelma Houston",
+      "album": "Hitsville USA, The Motown Collection 1972-1992",
+      "durationMs": 218907,
+      "ids": {
+        "appleMusic": "1430157992"
+      }
+    },
+    {
+      "title": "Don't Leave Me This Way (Extended Version)",
+      "artist": "Thelma Houston",
+      "album": "Marchando y Bailando Con Orgullo",
+      "durationMs": 340267,
+      "ids": {
+        "appleMusic": "1692405059"
+      }
+    },
+    {
+      "title": "Wishin' And  Hopin'",
+      "artist": "Dusty Springfield",
+      "album": "Stay Awhile / I Only Want To Be With You",
+      "durationMs": 176400,
+      "ids": {
+        "appleMusic": "1436881530"
+      }
+    },
+    {
+      "title": "Rhiannon",
+      "artist": "Fleetwood Mac",
+      "album": "Fleetwood Mac",
+      "durationMs": 252773,
+      "ids": {
+        "appleMusic": "309646664"
+      }
+    },
+    {
+      "title": "There Goes My Baby (Single Version)",
+      "artist": "The Drifters",
+      "album": "Pop Hits of the 50s",
+      "durationMs": 130320,
+      "ids": {
+        "appleMusic": "1889476039"
+      }
+    },
+    {
+      "title": "Hit the Road Jack",
+      "artist": "Ray Charles",
+      "album": "The Very Best of Jazz: 50 Unforgettable Tracks (Remastered)",
+      "durationMs": 118093,
+      "ids": {
+        "appleMusic": "539446936"
+      }
+    },
+    {
+      "title": "In the Still of the Night",
+      "artist": "The Five Satins",
+      "album": "Golden Oldies (Remastered)",
+      "durationMs": 185761,
+      "ids": {
+        "appleMusic": "367033644"
+      }
+    },
+    {
+      "title": "Forever (Mono Version)",
+      "artist": "The Marvelettes",
+      "album": "Love songs sixties",
+      "durationMs": 141747,
+      "ids": {
+        "appleMusic": "1670559385"
+      }
+    },
+    {
+      "title": "Forever (Single Version/Stereo)",
+      "artist": "The Marvelettes",
+      "album": "Forever: The Complete Motown Albums, Vol. 1",
+      "durationMs": 144187,
+      "ids": {
+        "appleMusic": "1444217439"
+      }
+    },
+    {
+      "title": "You Beat Me To The Punch",
+      "artist": "Mary Wells",
+      "album": "old vintage music",
+      "durationMs": 165333,
+      "ids": {
+        "appleMusic": "1821567860"
+      }
+    },
+    {
+      "title": "Love Me Tender",
+      "artist": "Percy Sledge",
+      "album": "Warm \u0026 Tender Soul",
+      "durationMs": 187040,
+      "ids": {
+        "appleMusic": "296549630"
+      }
+    },
+    {
+      "title": "Woman, Woman",
+      "artist": "Gary Puckett \u0026 The Union Gap",
+      "album": "Young Girl - The Best of Gary Puckett \u0026 The Union Gap",
+      "durationMs": 196000,
+      "ids": {
+        "appleMusic": "193890688"
+      }
+    },
+    {
+      "title": "Young Girl",
+      "artist": "Gary Puckett \u0026 The Union Gap",
+      "album": "Young Girl - The Best of Gary Puckett \u0026 The Union Gap",
+      "durationMs": 194493,
+      "ids": {
+        "appleMusic": "193890785"
+      }
+    },
+    {
+      "title": "I Just Don't Know What To Do With Myself",
+      "artist": "Dusty Springfield",
+      "album": "Anyone Who Had a Heart: The Art of the Songwriter - Best of Burt Bacharach",
+      "durationMs": 179960,
+      "ids": {
+        "appleMusic": "1440717479"
+      }
+    },
+    {
+      "title": "Duke of Earl",
+      "artist": "Gene Chandler",
+      "album": "The Duke of Earl",
+      "durationMs": 147841,
+      "ids": {
+        "appleMusic": "1444013390"
+      }
+    },
+    {
+      "title": "Suspicious Minds",
+      "artist": "Elvis Presley",
+      "album": "The 50 Greatest Hits",
+      "durationMs": 263719,
+      "ids": {
+        "appleMusic": "1506075079"
+      }
+    },
+    {
+      "title": "Stuck on You",
+      "artist": "Elvis Presley",
+      "album": "From Nashville To Memphis - The Essential 60s Masters I",
+      "durationMs": 139440,
+      "ids": {
+        "appleMusic": "260131351"
+      }
+    },
+    {
+      "title": "Burning Love (with The Royal Philharmonic Orchestra)",
+      "artist": "Elvis Presley \u0026 Royal Philharmonic Orchestra",
+      "album": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
+      "durationMs": 210861,
+      "ids": {
+        "appleMusic": "1024343699"
+      }
+    },
+    {
+      "title": "Bridge Over Troubled Water (with The Royal Philharmonic Orchestra)",
+      "artist": "Elvis Presley \u0026 Royal Philharmonic Orchestra",
+      "album": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
+      "durationMs": 276900,
+      "ids": {
+        "appleMusic": "1024343829"
+      }
+    },
+    {
+      "title": "In the Ghetto (with The Royal Philharmonic Orchestra)",
+      "artist": "Elvis Presley \u0026 Royal Philharmonic Orchestra",
+      "album": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
+      "durationMs": 193118,
+      "ids": {
+        "appleMusic": "1024343834"
+      }
+    },
+    {
+      "title": "Suspicious Minds",
+      "artist": "Elvis Presley \u0026 Royal Philharmonic Orchestra",
+      "album": "The Wonder of You: Elvis with the Royal Philharmonic Orchestra",
+      "durationMs": 225660,
+      "ids": {
+        "appleMusic": "1150569537"
+      }
+    },
+    {
+      "title": "Just Pretend",
+      "artist": "Elvis Presley \u0026 Royal Philharmonic Orchestra",
+      "album": "The Wonder of You: Elvis with the Royal Philharmonic Orchestra",
+      "durationMs": 246147,
+      "ids": {
+        "appleMusic": "1150569600"
+      }
+    },
+    {
+      "title": "Kentucky Rain",
+      "artist": "Elvis Presley \u0026 Royal Philharmonic Orchestra",
+      "album": "The Wonder of You: Elvis with the Royal Philharmonic Orchestra",
+      "durationMs": 243273,
+      "ids": {
+        "appleMusic": "1150569616"
+      }
+    },
+    {
+      "title": "Let It Be Me",
+      "artist": "Elvis Presley \u0026 Royal Philharmonic Orchestra",
+      "album": "The Wonder of You: Elvis with the Royal Philharmonic Orchestra",
+      "durationMs": 206750,
+      "ids": {
+        "appleMusic": "1150569638"
+      }
+    },
+    {
+      "title": "Always On My Mind",
+      "artist": "Elvis Presley \u0026 Royal Philharmonic Orchestra",
+      "album": "The Wonder of You: Elvis with the Royal Philharmonic Orchestra",
+      "durationMs": 219207,
+      "ids": {
+        "appleMusic": "1150569713"
+      }
+    },
+    {
+      "title": "Kentucky Rain",
+      "artist": "Elvis Presley",
+      "album": "The Essential Elvis Presley",
+      "durationMs": 196860,
+      "ids": {
+        "appleMusic": "217636260"
+      }
+    },
+    {
+      "title": "Maybe",
+      "artist": "The Chantels",
+      "album": "American Pop Before the British Invasion",
+      "durationMs": 170000,
+      "ids": {
+        "appleMusic": "1802177857"
+      }
+    },
+    {
+      "title": "Suspicion",
+      "artist": "Terry Stafford",
+      "album": "Best of Terry Stafford",
+      "durationMs": 154920,
+      "ids": {
+        "appleMusic": "394445249"
+      }
+    },
+    {
+      "title": "Suspicion",
+      "artist": "Elvis Presley",
+      "album": "Pot Luck",
+      "durationMs": 157201,
+      "ids": {
+        "appleMusic": "951743836"
+      }
+    },
+    {
+      "title": "There Will Never Be Another You",
+      "artist": "Chris Montez",
+      "album": "The More I See You",
+      "durationMs": 175507,
+      "ids": {
+        "appleMusic": "1444046256"
+      }
+    },
+    {
+      "title": "Ain't That A Kick In The Head",
+      "artist": "Dean Martin",
+      "album": "Soul, Jazz \u0026 Blues",
+      "durationMs": 147293,
+      "ids": {
+        "appleMusic": "1745153511"
+      }
+    },
+    {
+      "title": "Everybody Loves Somebody",
+      "artist": "Dean Martin",
+      "album": "The Reprise Years",
+      "durationMs": 161640,
+      "ids": {
+        "appleMusic": "740360290"
+      }
+    },
+    {
+      "title": "Return To Me (Ritorna-Me)",
+      "artist": "Dean Martin",
+      "album": "This Is Dean Martin (1998 Remasters)",
+      "durationMs": 144800,
+      "ids": {
+        "appleMusic": "715970098"
+      }
+    },
+    {
+      "title": "Paint It, Black",
+      "artist": "The Rolling Stones",
+      "album": "The Very Best of Rock",
+      "durationMs": 224133,
+      "ids": {
+        "appleMusic": "1711666322"
+      }
+    },
+    {
+      "title": "Paint It, Black (Mono)",
+      "artist": "The Rolling Stones",
+      "album": "Songs To Hear Live",
+      "durationMs": 204480,
+      "ids": {
+        "appleMusic": "1679432822"
+      }
+    },
+    {
+      "title": "Dreaming Of You",
+      "artist": "Selena",
+      "album": "Retro Love Anthems",
+      "durationMs": 314387,
+      "ids": {
+        "appleMusic": "6767679700"
+      }
+    },
+    {
+      "title": "When I Think Of You",
+      "artist": "Janet Jackson",
+      "album": "1986 Best of by uDiscover",
+      "durationMs": 235453,
+      "ids": {
+        "appleMusic": "1888549458"
+      }
+    },
+    {
+      "title": "No Arms Can Ever Hold You (Like These Arms of Mine)",
+      "artist": "John Gary",
+      "album": "A Heart Filled with Song",
+      "durationMs": 149027,
+      "ids": {
+        "appleMusic": "1065978622"
+      }
+    },
+    {
+      "title": "Only You (And You Alone)",
+      "artist": "The Platters",
+      "album": "Golden Hits",
+      "durationMs": 156560,
+      "ids": {
+        "appleMusic": "1783391461"
+      }
+    },
+    {
+      "title": "Smoke Gets in Your Eyes",
+      "artist": "The Platters",
+      "album": "Highlights from the Soundtrack of American Graffiti",
+      "durationMs": 159733,
+      "ids": {
+        "appleMusic": "1486454275"
+      }
+    },
+    {
+      "title": "Tiene Sabor (feat. Omara Portuondo)",
+      "artist": "Buena Vista Social Club",
+      "album": "Lost and Found",
+      "durationMs": 197889,
+      "ids": {
+        "appleMusic": "1471006910"
+      }
+    },
+    {
+      "title": "Ain't Got to Love Nobody Else",
+      "artist": "The Masqueraders",
+      "album": "In Love",
+      "durationMs": 161000,
+      "ids": {
+        "appleMusic": "313595572"
+      }
+    },
+    {
+      "title": "Baby It's You",
+      "artist": "The Masqueraders",
+      "album": "The Masqueraders Refreshed",
+      "durationMs": 402040,
+      "ids": {
+        "appleMusic": "808993238"
+      }
+    },
+    {
+      "title": "The Lady Is a Tramp",
+      "artist": "Lady Gaga \u0026 Tony Bennett",
+      "album": "Duets II",
+      "durationMs": 198240,
+      "ids": {
+        "appleMusic": "464243275"
+      }
+    },
+    {
+      "title": "Si Te Pudiera Mentir",
+      "artist": "Rocío Dúrcal",
+      "album": "La Absoluta Colección",
+      "durationMs": 285013,
+      "ids": {
+        "appleMusic": "918668458"
+      }
+    },
+    {
+      "title": "She's a Bad Mama Jama (She's Built, She's Stacked) [Edit]",
+      "artist": "Carl Carlton",
+      "album": "Gold - '80s Soul",
+      "durationMs": 234707,
+      "ids": {
+        "appleMusic": "1445743444"
+      }
+    },
+    {
+      "title": "Double Dutch Bus",
+      "artist": "Frankie Smith",
+      "album": "Children Of Tomorrow",
+      "durationMs": 320880,
+      "ids": {
+        "appleMusic": "1769113992"
+      }
+    },
+    {
+      "title": "Don't Look Back",
+      "artist": "The Temptations",
+      "album": "The Temptin' Temptations",
+      "durationMs": 175907,
+      "ids": {
+        "appleMusic": "1444118355"
+      }
+    },
+    {
+      "title": "Don't Look Back (Mono Version)",
+      "artist": "Them",
+      "album": "The Complete Them (1964-1967)",
+      "durationMs": 204982,
+      "ids": {
+        "appleMusic": "1828796972"
+      }
+    },
+    {
+      "title": "Sleepwalk",
+      "artist": "Santo \u0026 Johnny",
+      "album": "Volume Secondo",
+      "durationMs": 151092,
+      "ids": {
+        "appleMusic": "128470393"
+      }
+    },
+    {
+      "title": "All I Could Do Was Cry",
+      "artist": "Etta James",
+      "album": "The Essential Etta James",
+      "durationMs": 175493,
+      "ids": {
+        "appleMusic": "1434911361"
+      }
+    },
+    {
+      "title": "All I Could Do Was Cry",
+      "artist": "Beyoncé",
+      "album": "Cadillac Records (Music from the Motion Picture) [Deluxe Version]",
+      "durationMs": 190400,
+      "ids": {
+        "appleMusic": "297019466"
+      }
+    },
+    {
+      "title": "A Garden In the Rain",
+      "artist": "Frank Sinatra",
+      "album": "Sinatra Sings Great Songs from Great Britain",
+      "durationMs": 201467,
+      "ids": {
+        "appleMusic": "1444054629"
+      }
+    },
+    {
+      "title": "There's a Moon Out Tonight",
+      "artist": "The Capris",
+      "album": "The Ultimate '50s Collection Volume 7",
+      "durationMs": 133573,
+      "ids": {
+        "appleMusic": "346531782"
+      }
+    },
+    {
+      "title": "Bye Bye Baby (Baby Goodbye)",
+      "artist": "The Four Seasons",
+      "album": "Four Seasons, Six Decades",
+      "durationMs": 153853,
+      "ids": {
+        "appleMusic": "1630312570"
+      }
+    },
+    {
+      "title": "The Wanderer",
+      "artist": "Dion \u0026 The Belmonts",
+      "album": "The Very Best of Dion \u0026 The Belmonts",
+      "durationMs": 163627,
+      "ids": {
+        "appleMusic": "724158357"
+      }
+    },
+    {
+      "title": "Hang On Sloopy (Single Version)",
+      "artist": "The McCoys",
+      "album": "Bang: The Bert Berns Story (Original Motion Picture Soundtrack)",
+      "durationMs": 231960,
+      "ids": {
+        "appleMusic": "1227586536"
+      }
+    },
+    {
+      "title": "This Magic Moment",
+      "artist": "Jay \u0026 The Americans",
+      "album": "Greatest Hits",
+      "durationMs": 182827,
+      "ids": {
+        "appleMusic": "1413435465"
+      }
+    },
+    {
+      "title": "The Shoop Shoop Song (It's In His Kiss)",
+      "artist": "Betty Everett",
+      "album": "The Shoop Shoop Song (Deluxe Version)",
+      "durationMs": 136117,
+      "ids": {
+        "appleMusic": "1443900114"
+      }
+    },
+    {
+      "title": "A Summer in Ohio",
+      "artist": "Anna Kendrick",
+      "album": "The Last Five Years (Original Motion Picture Soundtrack)",
+      "durationMs": 245573,
+      "ids": {
+        "appleMusic": "1304525744"
+      }
+    },
+    {
+      "title": "Baby You Got It",
+      "artist": "Brenton Wood",
+      "album": "Baby You Got It",
+      "durationMs": 128547,
+      "ids": {
+        "appleMusic": "1443616604"
+      }
+    },
+    {
+      "title": "I Think You've Got Your Fools Mixed Up",
+      "artist": "Brenton Wood",
+      "album": "Brenton Wood's 18 Best",
+      "durationMs": 135307,
+      "ids": {
+        "appleMusic": "1440935016"
+      }
+    },
+    {
+      "title": "Yes, I'm Ready",
+      "artist": "Barbara Mason",
+      "album": "Low \u0026 Slow (Classic Low Rider Jams)",
+      "durationMs": 240790,
+      "ids": {
+        "appleMusic": "767784011"
+      }
+    },
+    {
+      "title": "All I Have (feat. LL COOL J)",
+      "artist": "Jennifer Lopez",
+      "album": "This Is Me...Then (20th Anniversary Edition)",
+      "durationMs": 254467,
+      "ids": {
+        "appleMusic": "1654613942"
+      }
+    },
+    {
+      "title": "With My Eyes Wide Open I'm Dreaming",
+      "artist": "Patti Page",
+      "album": "Golden Hits",
+      "durationMs": 191733,
+      "ids": {
+        "appleMusic": "1853912410"
+      }
+    },
+    {
+      "title": "Glory Days",
+      "artist": "Bruce Springsteen",
+      "album": "Summer Rewind (70s, 80s, 90s Hits)",
+      "durationMs": 258317,
+      "ids": {
+        "appleMusic": "1681209666"
+      }
+    },
+    {
+      "title": "Mary Jane",
+      "artist": "Rick James",
+      "album": "Come Get It!",
+      "durationMs": 297358,
+      "ids": {
+        "appleMusic": "1442996822"
+      }
+    },
+    {
+      "title": "Sir Duke",
+      "artist": "Stevie Wonder",
+      "album": "Lyle, Lyle, Crocodile (Original Motion Picture Soundtrack)",
+      "durationMs": 234093,
+      "ids": {
+        "appleMusic": "1646335331"
+      }
+    },
+    {
+      "title": "Smiling Faces Sometimes",
+      "artist": "The Undisputed Truth",
+      "album": "The Collection",
+      "durationMs": 197227,
+      "ids": {
+        "appleMusic": "1444061432"
+      }
+    },
+    {
+      "title": "I'm Livin' in Shame",
+      "artist": "Diana Ross \u0026 The Supremes",
+      "album": "The Definitive Collection",
+      "durationMs": 180027,
+      "ids": {
+        "appleMusic": "1484683919"
+      }
+    },
+    {
+      "title": "Steamroller Blues (with The Royal Philharmonic Orchestra)",
+      "artist": "Elvis Presley \u0026 Royal Philharmonic Orchestra",
+      "album": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
+      "durationMs": 190144,
+      "ids": {
+        "appleMusic": "1024343836"
+      }
+    },
+    {
+      "title": "How Great Thou Art (with The Royal Philharmonic Orchestra)",
+      "artist": "Elvis Presley \u0026 Royal Philharmonic Orchestra",
+      "album": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
+      "durationMs": 187774,
+      "ids": {
+        "appleMusic": "1024343835"
+      }
+    },
+    {
+      "title": "There's Always Me (with The Royal Philharmonic Orchestra)",
+      "artist": "Elvis Presley \u0026 Royal Philharmonic Orchestra",
+      "album": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
+      "durationMs": 140845,
+      "ids": {
+        "appleMusic": "1024343832"
+      }
+    },
+    {
+      "title": "I'm Your Puppet",
+      "artist": "James \u0026 Bobby Purify",
+      "album": "Shake a Tail Feather! The Best of James and Bobby Purify",
+      "durationMs": 179960,
+      "ids": {
+        "appleMusic": "305758545"
+      }
+    },
+    {
+      "title": "I Do Love You (Single)",
+      "artist": "Billy Stewart",
+      "album": "One More Time: The Chess Years",
+      "durationMs": 182360,
+      "ids": {
+        "appleMusic": "1444218511"
+      }
+    },
+    {
+      "title": "Darling Baby",
+      "artist": "The Elgins",
+      "album": "Hitsville USA - The Motown Singles Collection 1959-1971",
+      "durationMs": 156107,
+      "ids": {
+        "appleMusic": "1447558365"
+      }
+    },
+    {
+      "title": "Two Lovers",
+      "artist": "Mary Wells",
+      "album": "Two Lovers",
+      "durationMs": 166733,
+      "ids": {
+        "appleMusic": "1443519701"
+      }
+    },
+    {
+      "title": "I Like the Way You Love Me",
+      "artist": "Brenton Wood",
+      "album": "Brenton Wood's 18 Best",
+      "durationMs": 163303,
+      "ids": {
+        "appleMusic": "1440935196"
+      }
+    },
+    {
+      "title": "Eighteen With A Bullet",
+      "artist": "Pete Wingfield",
+      "album": "Breakfast Special",
+      "durationMs": 211001,
+      "ids": {
+        "appleMusic": "1585959748"
+      }
+    },
+    {
+      "title": "Try Me",
+      "artist": "James Brown",
+      "album": "Try Me!",
+      "durationMs": 154467,
+      "ids": {
+        "appleMusic": "1443835613"
+      }
+    },
+    {
+      "title": "A Fool In Love (1993 Version)",
+      "artist": "Tina Turner",
+      "album": "What's Love Got to Do with It",
+      "durationMs": 176293,
+      "ids": {
+        "appleMusic": "695578888"
+      }
+    },
+    {
+      "title": "Tell Him",
+      "artist": "Patti Drew",
+      "album": "Maquina Del Tiempo  60's",
+      "durationMs": 151453,
+      "ids": {
+        "appleMusic": "1765800002"
+      }
+    },
+    {
+      "title": "Hello Stranger",
+      "artist": "Barbara Lewis",
+      "album": "The Very Best of Sixties Soul (Re-Recorded Version)",
+      "durationMs": 159271,
+      "ids": {
+        "appleMusic": "289167951"
+      }
+    },
+    {
+      "title": "Daddy's Home",
+      "artist": "Shep \u0026 The Limelites",
+      "album": "60's Love",
+      "durationMs": 174200,
+      "ids": {
+        "appleMusic": "1850683742"
+      }
+    },
+    {
+      "title": "Searching for My Love",
+      "artist": "Bobby Moore \u0026 The Rhythm Aces",
+      "album": "Chess Soul: A Decade of Chicago’s Finest",
+      "durationMs": 152693,
+      "ids": {
+        "appleMusic": "1425131862"
+      }
+    },
+    {
+      "title": "A Thousand Miles Away",
+      "artist": "The Heartbeats",
+      "album": "Die 50er",
+      "durationMs": 148040,
+      "ids": {
+        "appleMusic": "1574293255"
+      }
+    },
+    {
+      "title": "Sabor A Mí",
+      "artist": "El Chicano",
+      "album": "¿Hace Cuánto No Escuchas Rock En Español?",
+      "durationMs": 197827,
+      "ids": {
+        "appleMusic": "1766356350"
+      }
+    },
+    {
+      "title": "I Love You For All Seasons",
+      "artist": "bommelg",
+      "album": "I Love You For All Seasons - Single",
+      "durationMs": 184316,
+      "ids": {
+        "appleMusic": "1831723081"
+      }
+    },
+    {
+      "title": "Kiss and Say Goodbye",
+      "artist": "The Manhattans",
+      "album": "Love Songs",
+      "durationMs": 266800,
+      "ids": {
+        "appleMusic": "392895951"
+      }
+    },
+    {
+      "title": "It's Gonna Take a Miracle",
+      "artist": "Deniece Williams",
+      "album": "Gonna Take a Miracle: The Best of Deniece Williams",
+      "durationMs": 249640,
+      "ids": {
+        "appleMusic": "170529352"
+      }
+    },
+    {
+      "title": "I Belong To You",
+      "artist": "Love Unlimited",
+      "album": "Number Ones",
+      "durationMs": 229040,
+      "ids": {
+        "appleMusic": "1483810953"
+      }
+    },
+    {
+      "title": "Don't Let No One Get You Down",
+      "artist": "War",
+      "album": "Lowrider Classics",
+      "durationMs": 240867,
+      "ids": {
+        "appleMusic": "1867773326"
+      }
+    },
+    {
+      "title": "You'll Lose a Good Thing (Rerecorded)",
+      "artist": "Barbara Lynn",
+      "album": "You'll Lose a Good Thing / You're Gonna Need Me - Single (Rerecorded Version)",
+      "durationMs": 156573,
+      "ids": {
+        "appleMusic": "286247107"
+      }
+    },
+    {
+      "title": "Tell Him (Single Version)",
+      "artist": "The Exciters",
+      "album": "Feel Good Oldies",
+      "durationMs": 156160,
+      "ids": {
+        "appleMusic": "6767691190"
+      }
+    },
+    {
+      "title": "Only In My Dreams",
+      "artist": "Frank Fafara",
+      "album": "Only In My Dreams",
+      "durationMs": 125587,
+      "ids": {
+        "appleMusic": "200350644"
+      }
+    },
+    {
+      "title": "American Pie (Full Length Version)",
+      "artist": "Don McLean",
+      "album": "American Pie",
+      "durationMs": 513631,
+      "ids": {
+        "appleMusic": "1440834619"
+      }
+    },
+    {
+      "title": "My Boyfriend's Back (Single Version)",
+      "artist": "The Angels",
+      "album": "60's Gold",
+      "durationMs": 128667,
+      "ids": {
+        "appleMusic": "1509083397"
+      }
+    },
+    {
+      "title": "It's Impossible",
+      "artist": "New Birth",
+      "album": "The Very Best of the New Birth",
+      "durationMs": 203693,
+      "ids": {
+        "appleMusic": "299609811"
+      }
+    },
+    {
+      "title": "How Can I Tell My Mom and Dad?",
+      "artist": "The Lovelites",
+      "album": "Lowrider - The Secret Soul of Los. Angeles",
+      "durationMs": 199627,
+      "ids": {
+        "appleMusic": "1807512368"
+      }
+    },
+    {
+      "title": "See You in September",
+      "artist": "The Happenings",
+      "album": "The Happenings",
+      "durationMs": 147278,
+      "ids": {
+        "appleMusic": "1174060488"
+      }
+    },
+    {
+      "title": "Hey Girl",
+      "artist": "Freddie Scott",
+      "album": "Old School Soul Masters",
+      "durationMs": 191214,
+      "ids": {
+        "appleMusic": "318889246"
+      }
+    },
+    {
+      "title": "Make It Easy On Yourself",
+      "artist": "Jerry Butler",
+      "album": "The Iceman",
+      "durationMs": 165733,
+      "ids": {
+        "appleMusic": "1442294728"
+      }
+    },
+    {
+      "title": "Suddenly I'm All Alone",
+      "artist": "Walter Jackson",
+      "album": "The Best of Walter Jackson: Welcome Home - The Okeh Years",
+      "durationMs": 177667,
+      "ids": {
+        "appleMusic": "206489019"
+      }
+    },
+    {
+      "title": "Cry Baby",
+      "artist": "Garnet Mimms \u0026 The Enchanters",
+      "album": "The Best 60s Album In The World...Ever!",
+      "durationMs": 206227,
+      "ids": {
+        "appleMusic": "1595173580"
+      }
+    },
+    {
+      "title": "Will You Love Me Tomorrow",
+      "artist": "The Shirelles",
+      "album": "The Best of the Shirelles",
+      "durationMs": 162893,
+      "ids": {
+        "appleMusic": "1459173986"
+      }
+    },
+    {
+      "title": "Powder Your Face with Sunshine (Smile! Smile! Smile!)",
+      "artist": "Dean Martin",
+      "album": "The Capitol Years",
+      "durationMs": 153640,
+      "ids": {
+        "appleMusic": "1453891632"
+      }
+    },
+    {
+      "title": "Baby, I Love You",
+      "artist": "The Ronettes",
+      "album": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
+      "durationMs": 171480,
+      "ids": {
+        "appleMusic": "420136967"
+      }
+    },
+    {
+      "title": "Give up the Funk (Tear the Roof Off the Sucker)",
+      "artist": "Parliament",
+      "album": "Mothership Connection",
+      "durationMs": 348067,
+      "ids": {
+        "appleMusic": "1440838031"
+      }
+    },
+    {
+      "title": "Good Luck Charm",
+      "artist": "Elvis Presley",
+      "album": "Elvis' Golden Records, Vol. 3",
+      "durationMs": 147630,
+      "ids": {
+        "appleMusic": "951163005"
+      }
+    },
+    {
+      "title": "Heaven Must Be Missing an Angel",
+      "artist": "Tavares",
+      "album": "Anthology",
+      "durationMs": 394133,
+      "ids": {
+        "appleMusic": "713447810"
+      }
+    },
+    {
+      "title": "Runaround Sue",
+      "artist": "Dion",
+      "album": "The Best of Dion",
+      "durationMs": 160307,
+      "ids": {
+        "appleMusic": "1440855950"
+      }
+    },
+    {
+      "title": "Mama Said",
+      "artist": "The Shirelles",
+      "album": "16 Greatest Hits!",
+      "durationMs": 131600,
+      "ids": {
+        "appleMusic": "1029064347"
+      }
+    },
+    {
+      "title": "Crystal Blue Persuasion",
+      "artist": "Tommy James \u0026 The Shondells",
+      "album": "Sunday Night Oldies",
+      "durationMs": 246600,
+      "ids": {
+        "appleMusic": "1891979677"
+      }
+    },
+    {
+      "title": "On a Sunday Afternoon",
+      "artist": "Lighter Shade of Brown",
+      "album": "Frost Presents...Raza Radio",
+      "durationMs": 212879,
+      "ids": {
+        "appleMusic": "348870732"
+      }
+    },
+    {
+      "title": "Can't Help Falling In Love",
+      "artist": "Elvis Presley",
+      "album": "Blue Hawaii (Original Soundtrack)",
+      "durationMs": 185878,
+      "ids": {
+        "appleMusic": "949550091"
+      }
+    },
+    {
+      "title": "Mentirosa",
+      "artist": "Mellow Man Ace",
+      "album": "¡Funny Songs For Summertime!",
+      "durationMs": 258533,
+      "ids": {
+        "appleMusic": "1697201510"
+      }
+    },
+    {
+      "title": "Super Freak",
+      "artist": "Rick James",
+      "album": "Street Songs",
+      "durationMs": 205571,
+      "ids": {
+        "appleMusic": "1440805227"
+      }
+    },
+    {
+      "title": "Give It to Me Baby",
+      "artist": "Rick James",
+      "album": "Street Songs (Deluxe Edition)",
+      "durationMs": 248133,
+      "ids": {
+        "appleMusic": "1452870578"
+      }
+    },
+    {
+      "title": "Disco Inferno (Burn Baby Burn)",
+      "artist": "The Old Sound Night Band",
+      "album": "Best Songs of 70's Disco Music. Greatest Hits of Seventies Disco Fashion",
+      "durationMs": 204960,
+      "ids": {
+        "appleMusic": "826442905"
+      }
+    },
+    {
+      "title": "I Wanna Dance with Somebody (Who Loves Me)",
+      "artist": "Whitney Houston",
+      "album": "Beach Party Anthems",
+      "durationMs": 292875,
+      "ids": {
+        "appleMusic": "1681222070"
+      }
+    },
+    {
+      "title": "Kiss",
+      "artist": "Prince \u0026 The Revolution",
+      "album": "4Ever",
+      "durationMs": 226240,
+      "ids": {
+        "appleMusic": "1170675035"
+      }
+    },
+    {
+      "title": "Grace Kelly",
+      "artist": "MIKA",
+      "album": "Life In Cartoon Motion",
+      "durationMs": 187733,
+      "ids": {
+        "appleMusic": "1440803014"
+      }
+    },
+    {
+      "title": "Spinning Wheel",
+      "artist": "Blood, Sweat \u0026 Tears",
+      "album": "What Goes Up: The Best of Blood, Sweat \u0026 Tears",
+      "durationMs": 246400,
+      "ids": {
+        "appleMusic": "211386203"
+      }
+    }
+  ]
+}

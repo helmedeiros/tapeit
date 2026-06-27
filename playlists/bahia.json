@@ -1,0 +1,743 @@
+{
+  "name": "bahia",
+  "tracks": [
+    {
+      "title": "Cordeiro de Nanã",
+      "artist": "Os Tincoãs",
+      "album": "Os Tincoãs",
+      "durationMs": 177907,
+      "ids": {
+        "appleMusic": "1457740082"
+      }
+    },
+    {
+      "title": "How Beautiful Could A Being Be",
+      "artist": "Caetano Veloso",
+      "album": "Livro",
+      "durationMs": 207000,
+      "ids": {
+        "appleMusic": "1583987791"
+      }
+    },
+    {
+      "title": "Andar com fé",
+      "artist": "Gilberto Gil",
+      "album": "Um banda um",
+      "durationMs": 200960,
+      "ids": {
+        "appleMusic": "1498849453"
+      }
+    },
+    {
+      "title": "Sinistra Muvuca",
+      "artist": "Aiamã",
+      "album": "Sinistra Muvuca - Single",
+      "durationMs": 220655,
+      "ids": {
+        "appleMusic": "1615871603"
+      }
+    },
+    {
+      "title": "Povos do Brasil",
+      "artist": "Maria Bethânia",
+      "album": "Meus Quintais",
+      "durationMs": 186933,
+      "ids": {
+        "appleMusic": "884986374"
+      }
+    },
+    {
+      "title": "Rainha de Aiocá (feat. Moreno Veloso)",
+      "artist": "Igor de Carvalho",
+      "album": "A TV, A Lâmpada e o Opaxorô",
+      "durationMs": 217025,
+      "ids": {
+        "appleMusic": "959060985"
+      }
+    },
+    {
+      "title": "O Navio Negreiro (Excerto)",
+      "artist": "Carlinhos Brown, Caetano Veloso \u0026 Maria Bethânia",
+      "album": "Livro",
+      "durationMs": 318000,
+      "ids": {
+        "appleMusic": "1583987793"
+      }
+    },
+    {
+      "title": "A Porta",
+      "artist": "Igor de Carvalho",
+      "album": "A TV, A Lâmpada e o Opaxorô",
+      "durationMs": 35657,
+      "ids": {
+        "appleMusic": "959060977"
+      }
+    },
+    {
+      "title": "Lua de São Jorge",
+      "artist": "Caetano Veloso",
+      "album": "Caetanear",
+      "durationMs": 238333,
+      "ids": {
+        "appleMusic": "1444051474"
+      }
+    },
+    {
+      "title": "Ofá",
+      "artist": "J. Velloso \u0026 Félix Ayoh'Omidire",
+      "album": "Aboio para um Rinoceronte",
+      "durationMs": 240840,
+      "ids": {
+        "appleMusic": "1721291227"
+      }
+    },
+    {
+      "title": "Capitão do Mato",
+      "artist": "Maria Bethânia",
+      "album": "Brasileirinho",
+      "durationMs": 147933,
+      "ids": {
+        "appleMusic": "986084921"
+      }
+    },
+    {
+      "title": "Tá Amarrado",
+      "artist": "OQuadro \u0026 Dimak",
+      "album": "OQuadro",
+      "durationMs": 232827,
+      "ids": {
+        "appleMusic": "1449264228"
+      }
+    },
+    {
+      "title": "Yáyá Massemba",
+      "artist": "Maria Bethânia",
+      "album": "Brasileirinho",
+      "durationMs": 256707,
+      "ids": {
+        "appleMusic": "986084918"
+      }
+    },
+    {
+      "title": "Purificar O Subaé",
+      "artist": "Maria Bethânia, Caetano Veloso, Gilberto Gil \u0026 Nicinha",
+      "album": "Alteza",
+      "durationMs": 199133,
+      "ids": {
+        "appleMusic": "1599376573"
+      }
+    },
+    {
+      "title": "Foguete",
+      "artist": "J. Velloso",
+      "album": "Cavaleiros de Jorge",
+      "durationMs": 249030,
+      "ids": {
+        "appleMusic": "342611343"
+      }
+    },
+    {
+      "title": "Cajuína (Remixed Original Album)",
+      "artist": "Caetano Veloso",
+      "album": "Cinema Transcendental (Remixed Original Album)",
+      "durationMs": 139933,
+      "ids": {
+        "appleMusic": "1443594159"
+      }
+    },
+    {
+      "title": "Beijo Roubado",
+      "artist": "Rastapé",
+      "album": "O Melhor do Rastapé",
+      "durationMs": 217000,
+      "ids": {
+        "appleMusic": "977676947"
+      }
+    },
+    {
+      "title": "O Que Se Quer (feat. Rodrigo Amarante)",
+      "artist": "Marisa Monte",
+      "album": "O Que Você Quer Saber de Verdade",
+      "durationMs": 167347,
+      "ids": {
+        "appleMusic": "1511643578"
+      }
+    },
+    {
+      "title": "Nosso Xote",
+      "artist": "Bicho de Pé",
+      "album": "Forró Universitário",
+      "durationMs": 221107,
+      "ids": {
+        "appleMusic": "1682052662"
+      }
+    },
+    {
+      "title": "Só Quem Ama Leva Tombo",
+      "artist": "Moraes Moreira \u0026 Davi Moraes",
+      "album": "Nossa Parceria",
+      "durationMs": 201067,
+      "ids": {
+        "appleMusic": "1578552663"
+      }
+    },
+    {
+      "title": "Namorar, Vem Namorar (feat. Caetano Veloso) [Ao Vivo]",
+      "artist": "Roberto Mendes",
+      "album": "Sucessos da MPB - Ao Vivo",
+      "durationMs": 234120,
+      "ids": {
+        "appleMusic": "1122760018"
+      }
+    },
+    {
+      "title": "Mais Uma de Amor (Geme-Geme)",
+      "artist": "Guentaê!",
+      "album": "Sapatilha 37",
+      "durationMs": 246627,
+      "ids": {
+        "appleMusic": "1442393417"
+      }
+    },
+    {
+      "title": "Waiting In Vain",
+      "artist": "Gilberto Gil",
+      "album": "Kaya N'Gan Daya",
+      "durationMs": 259453,
+      "ids": {
+        "appleMusic": "1815037691"
+      }
+    },
+    {
+      "title": "Vamos fugir (Instrumental)",
+      "artist": "Gilberto Gil",
+      "album": "Raça humana",
+      "durationMs": 307200,
+      "ids": {
+        "appleMusic": "1515969783"
+      }
+    },
+    {
+      "title": "Oh! Chuva",
+      "artist": "Dread Lion",
+      "album": "Por Que Ñ Paz",
+      "durationMs": 235333,
+      "ids": {
+        "appleMusic": "401895769"
+      }
+    },
+    {
+      "title": "Oh, Chuva",
+      "artist": "Perotá Chingó",
+      "album": "Perotá Chingó",
+      "durationMs": 237573,
+      "ids": {
+        "appleMusic": "1573828583"
+      }
+    },
+    {
+      "title": "Alma Não Tem Cor",
+      "artist": "Perotá Chingó",
+      "album": "Perotá Chingó",
+      "durationMs": 244114,
+      "ids": {
+        "appleMusic": "1573828570"
+      }
+    },
+    {
+      "title": "Marina",
+      "artist": "Gilberto Gil",
+      "album": "Realce",
+      "durationMs": 254573,
+      "ids": {
+        "appleMusic": "1805242482"
+      }
+    },
+    {
+      "title": "Namora Comigo",
+      "artist": "Mart'nália",
+      "album": "Não Tente Compreender",
+      "durationMs": 226720,
+      "ids": {
+        "appleMusic": "512424803"
+      }
+    },
+    {
+      "title": "Amor em Jacumã",
+      "artist": "Lucas Santtana",
+      "album": "Sem Nostalgia",
+      "durationMs": 214267,
+      "ids": {
+        "appleMusic": "1677838338"
+      }
+    },
+    {
+      "title": "Flor do Cerrado",
+      "artist": "Mariana de Moraes",
+      "album": "Desejo",
+      "durationMs": 203800,
+      "ids": {
+        "appleMusic": "918348707"
+      }
+    },
+    {
+      "title": "Tarde Em Itapoã",
+      "artist": "Maria Bethânia",
+      "album": "Que Falta Você Me Faz",
+      "durationMs": 224987,
+      "ids": {
+        "appleMusic": "258763140"
+      }
+    },
+    {
+      "title": "Pai e mãe",
+      "artist": "Gilberto Gil",
+      "album": "Refazenda",
+      "durationMs": 234480,
+      "ids": {
+        "appleMusic": "1757623011"
+      }
+    },
+    {
+      "title": "Mar e Sol",
+      "artist": "Gal Costa",
+      "album": "Hoje",
+      "durationMs": 327907,
+      "ids": {
+        "appleMusic": "1213978251"
+      }
+    },
+    {
+      "title": "Você e Eu",
+      "artist": "Gilberto Gil",
+      "album": "Gilbertos Samba",
+      "durationMs": 292640,
+      "ids": {
+        "appleMusic": "1516406599"
+      }
+    },
+    {
+      "title": "Baby",
+      "artist": "Los Super Seven (Vocal by Caetano Veloso)",
+      "album": "Canto",
+      "durationMs": 214133,
+      "ids": {
+        "appleMusic": "181623782"
+      }
+    },
+    {
+      "title": "Amor pra Dar",
+      "artist": "Chico Chico",
+      "album": "2x0 Vargem Alta",
+      "durationMs": 149573,
+      "ids": {
+        "appleMusic": "1038998247"
+      }
+    },
+    {
+      "title": "Quando Você Olha pra Ela",
+      "artist": "Gal Costa",
+      "album": "Gal Estratosférica",
+      "durationMs": 267267,
+      "ids": {
+        "appleMusic": "1075299078"
+      }
+    },
+    {
+      "title": "Várias Queixas",
+      "artist": "Gilsons",
+      "album": "Várias Queixas - EP",
+      "durationMs": 170110,
+      "ids": {
+        "appleMusic": "1576861643"
+      }
+    },
+    {
+      "title": "Amor Brando",
+      "artist": "Karina Buhr",
+      "album": "Longe de Onde",
+      "durationMs": 94920,
+      "ids": {
+        "appleMusic": "1110842941"
+      }
+    },
+    {
+      "title": "Mulher (Sexo Frágil)",
+      "artist": "Gal Gosta",
+      "album": "Gal Bossa Tropical",
+      "durationMs": 278147,
+      "ids": {
+        "appleMusic": "285519285"
+      }
+    },
+    {
+      "title": "Você Não Entende Nada",
+      "artist": "Gal Costa",
+      "album": "Viva Brasil",
+      "durationMs": 230493,
+      "ids": {
+        "appleMusic": "1710454829"
+      }
+    },
+    {
+      "title": "Onde O Rio E Mais Baiano",
+      "artist": "Caetano Veloso",
+      "album": "Livro",
+      "durationMs": 201893,
+      "ids": {
+        "appleMusic": "1583987782"
+      }
+    },
+    {
+      "title": "Bananeira",
+      "artist": "Bebel Gilberto",
+      "album": "Tanto Tempo",
+      "durationMs": 206733,
+      "ids": {
+        "appleMusic": "1443333051"
+      }
+    },
+    {
+      "title": "Cabelo",
+      "artist": "Gal Costa",
+      "album": "Maxximum: Gal Costa",
+      "durationMs": 213427,
+      "ids": {
+        "appleMusic": "482308469"
+      }
+    },
+    {
+      "title": "Farol da Barra",
+      "artist": "Novos Baianos",
+      "album": "Novos Baianos",
+      "durationMs": 202200,
+      "ids": {
+        "appleMusic": "402342713"
+      }
+    },
+    {
+      "title": "Paratodos",
+      "artist": "Steen Rasmussen",
+      "album": "Steen Rasmussen Quarteto Em São Paulo",
+      "durationMs": 220213,
+      "ids": {
+        "appleMusic": "478137374"
+      }
+    },
+    {
+      "title": "Ladeira da Praça",
+      "artist": "Novos Baianos",
+      "album": "Enciclopédia Musical Brasileira: Novos Baianos",
+      "durationMs": 262933,
+      "ids": {
+        "appleMusic": "495555959"
+      }
+    },
+    {
+      "title": "Porto Alegre (Nos Braços de Calipsó)",
+      "artist": "Adriana Calcanhotto",
+      "album": "Maré",
+      "durationMs": 223519,
+      "ids": {
+        "appleMusic": "276903461"
+      }
+    },
+    {
+      "title": "Deusa do Amor",
+      "artist": "Tomás Jensen",
+      "album": "Face A Face B",
+      "durationMs": 165347,
+      "ids": {
+        "appleMusic": "1573439026"
+      }
+    },
+    {
+      "title": "Oração Ao Tempo (Remix)",
+      "artist": "Caetano Veloso",
+      "album": "Naturalmente: Caetano Veloso",
+      "durationMs": 205760,
+      "ids": {
+        "appleMusic": "1442250786"
+      }
+    },
+    {
+      "title": "Paladar (feat. Clara Buarque \u0026 Jorge Drexler)",
+      "artist": "Carlinhos Brown",
+      "album": "Semelhantes",
+      "durationMs": 205846,
+      "ids": {
+        "appleMusic": "1770538010"
+      }
+    },
+    {
+      "title": "Eu sou o caso deles",
+      "artist": "Novos Baianos",
+      "album": "Sorrir e cantar como Bahia",
+      "durationMs": 242627,
+      "ids": {
+        "appleMusic": "1238432457"
+      }
+    },
+    {
+      "title": "Anuviar",
+      "artist": "Gal Costa",
+      "album": "Gal Estratosférica",
+      "durationMs": 245173,
+      "ids": {
+        "appleMusic": "1075299083"
+      }
+    },
+    {
+      "title": "Afogamento",
+      "artist": "Gilberto Gil \u0026 Roberta Sá",
+      "album": "OK OK OK (Deluxe)",
+      "durationMs": 248149,
+      "ids": {
+        "appleMusic": "1472539595"
+      }
+    },
+    {
+      "title": "Me haces bien",
+      "artist": "Jorge Drexler",
+      "album": "Igual Te Quiero",
+      "durationMs": 184547,
+      "ids": {
+        "appleMusic": "6770842679"
+      }
+    },
+    {
+      "title": "Amaro a Xerém (Ao Vivo)",
+      "artist": "Maria Bethânia \u0026 Zeca Pagodinho",
+      "album": "De Santo Amaro a Xerém (Ao Vivo)",
+      "durationMs": 172858,
+      "ids": {
+        "appleMusic": "1442034444"
+      }
+    },
+    {
+      "title": "Insensatez: a mulher que fez",
+      "artist": "Graveola",
+      "album": "Graveola e O Lixo Polifônico",
+      "durationMs": 143387,
+      "ids": {
+        "appleMusic": "1339815192"
+      }
+    },
+    {
+      "title": "Desde o Samba é Samba",
+      "artist": "Javier Álvarez",
+      "album": "Samba Pa' Ti",
+      "durationMs": 224373,
+      "ids": {
+        "appleMusic": "217538829"
+      }
+    },
+    {
+      "title": "Chove-Chuva",
+      "artist": "Miriam Makeba",
+      "album": "Makeba Sings!",
+      "durationMs": 152450,
+      "ids": {
+        "appleMusic": "1003885380"
+      }
+    },
+    {
+      "title": "Será Que Eu Me Permito?",
+      "artist": "Fióti",
+      "album": "Será Que Eu Me Permito? - Single",
+      "durationMs": 244627,
+      "ids": {
+        "appleMusic": "1461108513"
+      }
+    },
+    {
+      "title": "Senza Paura (Sem Medo)",
+      "artist": "Toquinho, Ornella Vanoni \u0026 Vinicius de Moraes",
+      "album": "La Voglia La Pazzia L'incoscienza L'allegria",
+      "durationMs": 233640,
+      "ids": {
+        "appleMusic": "41257449"
+      }
+    },
+    {
+      "title": "Esotérico (Ao Vivo)",
+      "artist": "Caetano Veloso \u0026 Gilberto Gil",
+      "album": "Two Friends, One Century of Music (Live)",
+      "durationMs": 257213,
+      "ids": {
+        "appleMusic": "1068963888"
+      }
+    },
+    {
+      "title": "Sem Pecado e Sem Juízo",
+      "artist": "Baby Consuelo",
+      "album": "Sem Pecado E Sem Juizo",
+      "durationMs": 306267,
+      "ids": {
+        "appleMusic": "479911723"
+      }
+    },
+    {
+      "title": "Eu Quero Ser O Mar",
+      "artist": "Mahmundi",
+      "album": "Para Dias Ruins",
+      "durationMs": 234483,
+      "ids": {
+        "appleMusic": "1422099113"
+      }
+    },
+    {
+      "title": "Uma Coisa Bonitinha",
+      "artist": "Gilberto Gil \u0026 João Donato",
+      "album": "OK OK OK",
+      "durationMs": 243914,
+      "ids": {
+        "appleMusic": "1400500929"
+      }
+    },
+    {
+      "title": "Reza",
+      "artist": "Maria Rita",
+      "album": "Café y Jazz",
+      "durationMs": 312763,
+      "ids": {
+        "appleMusic": "1805991612"
+      }
+    },
+    {
+      "title": "Bola de Cristal",
+      "artist": "BaianaSystem",
+      "album": "O Futuro Não Demora",
+      "durationMs": 252027,
+      "ids": {
+        "appleMusic": "1451579031"
+      }
+    },
+    {
+      "title": "Meu Bem Querer (JAH-VAN)",
+      "artist": "Seu Jorge, Black Alien, Bid \u0026 Fernando Nunes",
+      "album": "JAH-VAN",
+      "durationMs": 284467,
+      "ids": {
+        "appleMusic": "1444788576"
+      }
+    },
+    {
+      "title": "It's a Long Way",
+      "artist": "Caetano Veloso",
+      "album": "Transa (2012 Remaster)",
+      "durationMs": 366480,
+      "ids": {
+        "appleMusic": "1443511766"
+      }
+    },
+    {
+      "title": "Cordeiro de Nanã",
+      "artist": "Caetano Veloso, João Gilberto \u0026 Gilberto Gil",
+      "album": "Brazil",
+      "durationMs": 76293,
+      "ids": {
+        "appleMusic": "718557119"
+      }
+    },
+    {
+      "title": "Eu Sou Preto: Citação: Sonho Meu / Citação: Axè Da Lua",
+      "artist": "J. Velloso",
+      "album": "Cavaleiros de Jorge",
+      "durationMs": 262442,
+      "ids": {
+        "appleMusic": "342611409"
+      }
+    },
+    {
+      "title": "Histórias Pra Ninar Gente Grande",
+      "artist": "Maria Bethânia",
+      "album": "Mangueira - a Menina Dos Meus Olhos",
+      "durationMs": 157690,
+      "ids": {
+        "appleMusic": "1488952799"
+      }
+    },
+    {
+      "title": "Samba Jambo",
+      "artist": "Jorge Mautner",
+      "album": "Mil e uma Noites de Bagdá",
+      "durationMs": 192400,
+      "ids": {
+        "appleMusic": "1442533911"
+      }
+    },
+    {
+      "title": "Sereia",
+      "artist": "Lulu Santos",
+      "album": "Eu e Memê, Memê e Eu",
+      "durationMs": 275827,
+      "ids": {
+        "appleMusic": "321536023"
+      }
+    },
+    {
+      "title": "Tudo o Que For Leve",
+      "artist": "Alice Caymmi",
+      "album": "Alice Caymmi",
+      "durationMs": 191587,
+      "ids": {
+        "appleMusic": "1524371944"
+      }
+    },
+    {
+      "title": "Anjo da Guarda (2004 Digital Remaster)",
+      "artist": "Tribalistas",
+      "album": "Tribalistas",
+      "durationMs": 167907,
+      "ids": {
+        "appleMusic": "1513009475"
+      }
+    },
+    {
+      "title": "Leãozinho",
+      "artist": "Palavra Cantada",
+      "album": "Pauleco e Sandreca",
+      "durationMs": 230427,
+      "ids": {
+        "appleMusic": "1128625975"
+      }
+    },
+    {
+      "title": "Mais Feliz",
+      "artist": "Zeca Pagodinho",
+      "album": "Churrasco do Pagodinho",
+      "durationMs": 211497,
+      "ids": {
+        "appleMusic": "1564786416"
+      }
+    },
+    {
+      "title": "Reconvexo (Ao Vivo)",
+      "artist": "Caetano Veloso",
+      "album": "Ofertório (feat. Tom Veloso) [Ao Vivo]",
+      "durationMs": 200046,
+      "ids": {
+        "appleMusic": "1384653319"
+      }
+    },
+    {
+      "title": "Espumas ao Vento",
+      "artist": "Fagner",
+      "album": "Terral",
+      "durationMs": 244533,
+      "ids": {
+        "appleMusic": "479490243"
+      }
+    },
+    {
+      "title": "Iemanjá (feat. Sintia Piccin, Ricardo Barros, Matias Nunez, Fabio Faustino \u0026 Chico Santana)",
+      "artist": "Bruno Duarte",
+      "album": "Nascente - Single",
+      "durationMs": 218680,
+      "ids": {
+        "appleMusic": "1492359057"
+      }
+    }
+  ]
+}

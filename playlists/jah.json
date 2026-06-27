@@ -1,0 +1,737 @@
+{
+  "name": "Jah",
+  "tracks": [
+    {
+      "title": "Shut Up and Dance",
+      "artist": "WALK THE MOON",
+      "album": "TALKING IS HARD (Expanded Edition)",
+      "durationMs": 199080,
+      "ids": {
+        "appleMusic": "961298418"
+      }
+    },
+    {
+      "title": "Get Lucky",
+      "artist": "Daft Punk, Pharrell Williams \u0026 Nile Rodgers",
+      "album": "New Year's Eve - NYE 2018/2019",
+      "durationMs": 369627,
+      "ids": {
+        "appleMusic": "1445215790"
+      }
+    },
+    {
+      "title": "Rude",
+      "artist": "MAGIC!",
+      "album": "Summer Party Bangers",
+      "durationMs": 224850,
+      "ids": {
+        "appleMusic": "1687426715"
+      }
+    },
+    {
+      "title": "Pumped Up Kicks",
+      "artist": "Foster the People",
+      "album": "Canzoni estive",
+      "durationMs": 239600,
+      "ids": {
+        "appleMusic": "1752198216"
+      }
+    },
+    {
+      "title": "What Makes You Beautiful",
+      "artist": "One Direction",
+      "album": "What Makes You Beautiful - Single",
+      "durationMs": 198693,
+      "ids": {
+        "appleMusic": "452514301"
+      }
+    },
+    {
+      "title": "Best Day of My Life",
+      "artist": "American Authors",
+      "album": "Oh, What a Life",
+      "durationMs": 194239,
+      "ids": {
+        "appleMusic": "1443219769"
+      }
+    },
+    {
+      "title": "Axel F",
+      "artist": "Harold Faltermeyer",
+      "album": "Beverly Hills Cop (Music From the Motion Picture Soundtrack)",
+      "durationMs": 184800,
+      "ids": {
+        "appleMusic": "1440857098"
+      }
+    },
+    {
+      "title": "We Are Young (feat. Janelle Monáe)",
+      "artist": "Fun.",
+      "album": "Remember These Oldschool Hits - Pop \u0026 Rock",
+      "durationMs": 250627,
+      "ids": {
+        "appleMusic": "1827033871"
+      }
+    },
+    {
+      "title": "This Must Be the Place (Naive Melody) [2005 Remaster]",
+      "artist": "Talking Heads",
+      "album": "80's Alternative Retrogamer",
+      "durationMs": 296147,
+      "ids": {
+        "appleMusic": "1655624399"
+      }
+    },
+    {
+      "title": "Psycho Killer",
+      "artist": "Talking Heads",
+      "album": "Wuthering 70's Hits",
+      "durationMs": 261413,
+      "ids": {
+        "appleMusic": "1553906799"
+      }
+    },
+    {
+      "title": "Crosseyed and Painless",
+      "artist": "Talking Heads",
+      "album": "Remain In Light (Deluxe Version)",
+      "durationMs": 285613,
+      "ids": {
+        "appleMusic": "124921087"
+      }
+    },
+    {
+      "title": "Young Folks",
+      "artist": "Peter Bjorn and John",
+      "album": "Frühling 2022",
+      "durationMs": 276693,
+      "ids": {
+        "appleMusic": "1609323657"
+      }
+    },
+    {
+      "title": "Uptown Funk (feat. Bruno Mars)",
+      "artist": "Mark Ronson",
+      "album": "Summer Party Bangers",
+      "durationMs": 269658,
+      "ids": {
+        "appleMusic": "1687426724"
+      }
+    },
+    {
+      "title": "Take Me To Church",
+      "artist": "Hozier",
+      "album": "Mercury is in Retrograde",
+      "durationMs": 241688,
+      "ids": {
+        "appleMusic": "1609335751"
+      }
+    },
+    {
+      "title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "album": "Seven Nation Army - Single",
+      "durationMs": 232627,
+      "ids": {
+        "appleMusic": "1543262843"
+      }
+    },
+    {
+      "title": "Supersonic (Re-Recorded / Remastered)",
+      "artist": "J.J. Fad",
+      "album": "Supersonic (Re-Recorded / Remastered)",
+      "durationMs": 233442,
+      "ids": {
+        "appleMusic": "313246893"
+      }
+    },
+    {
+      "title": "Roar",
+      "artist": "Katy Perry",
+      "album": "PRISM (Deluxe Version)",
+      "durationMs": 223546,
+      "ids": {
+        "appleMusic": "1440818897"
+      }
+    },
+    {
+      "title": "Moves Like Jagger (Studio Recording from \"the Voice\" Performance) [feat. Christina Aguilera]",
+      "artist": "Maroon 5",
+      "album": "Hands All Over (Deluxe Version)",
+      "durationMs": 201253,
+      "ids": {
+        "appleMusic": "1440777201"
+      }
+    },
+    {
+      "title": "Up All Night",
+      "artist": "French Horn Rebellion",
+      "album": "The Infinite Music of French Horn Rebellion",
+      "durationMs": 251644,
+      "ids": {
+        "appleMusic": "1474265010"
+      }
+    },
+    {
+      "title": "Particle Man",
+      "artist": "They Might Be Giants",
+      "album": "Alt Archives The 90s",
+      "durationMs": 115720,
+      "ids": {
+        "appleMusic": "1860838173"
+      }
+    },
+    {
+      "title": "Istanbul",
+      "artist": "They Might Be Giants",
+      "album": "Feel Good Music",
+      "durationMs": 153813,
+      "ids": {
+        "appleMusic": "1205411569"
+      }
+    },
+    {
+      "title": "Doctor Worm",
+      "artist": "They Might Be Giants",
+      "album": "Severe Tire Damage",
+      "durationMs": 181533,
+      "ids": {
+        "appleMusic": "1495112516"
+      }
+    },
+    {
+      "title": "Mahna, Mahna",
+      "artist": "CAKE",
+      "album": "Cake: B-Sides and Rarities",
+      "durationMs": 174067,
+      "ids": {
+        "appleMusic": "267847236"
+      }
+    },
+    {
+      "title": "Peaches",
+      "artist": "The Presidents of the United States of America",
+      "album": "Peaches (Live 1998) - Single",
+      "durationMs": 171693,
+      "ids": {
+        "appleMusic": "6776014694"
+      }
+    },
+    {
+      "title": "Friends of P.",
+      "artist": "The Rentals",
+      "album": "Alternative Anthems",
+      "durationMs": 212267,
+      "ids": {
+        "appleMusic": "1583205292"
+      }
+    },
+    {
+      "title": "The Distance",
+      "artist": "CAKE",
+      "album": "Fashion Nugget (Deluxe Edition)",
+      "durationMs": 180628,
+      "ids": {
+        "appleMusic": "1632540369"
+      }
+    },
+    {
+      "title": "Rock 'n' Roll Lifestyle",
+      "artist": "CAKE",
+      "album": "Motorcade of Generosity",
+      "durationMs": 254067,
+      "ids": {
+        "appleMusic": "277260203"
+      }
+    },
+    {
+      "title": "Lump",
+      "artist": "The Presidents of the United States of America",
+      "album": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+      "durationMs": 134200,
+      "ids": {
+        "appleMusic": "1861769246"
+      }
+    },
+    {
+      "title": "Song 2",
+      "artist": "Blur",
+      "album": "90's Party",
+      "durationMs": 121880,
+      "ids": {
+        "appleMusic": "1665574103"
+      }
+    },
+    {
+      "title": "White \u0026 Nerdy (Parody of \"Ridin'\" by Chamillionaire feat. Krayzie Bone)",
+      "artist": "\"Weird Al\" Yankovic",
+      "album": "Straight Outta Lynwood",
+      "durationMs": 170652,
+      "ids": {
+        "appleMusic": "309732001"
+      }
+    },
+    {
+      "title": "Eat It",
+      "artist": "\"Weird Al\" Yankovic",
+      "album": "The Essential \"Weird Al\" Yankovic",
+      "durationMs": 200666,
+      "ids": {
+        "appleMusic": "336038034"
+      }
+    },
+    {
+      "title": "Fat",
+      "artist": "\"Weird Al\" Yankovic",
+      "album": "The Essential \"Weird Al\" Yankovic",
+      "durationMs": 216310,
+      "ids": {
+        "appleMusic": "336038128"
+      }
+    },
+    {
+      "title": "Should I Stay or Should I Go (Remastered)",
+      "artist": "The Clash",
+      "album": "Stranger Things (Soundtrack from the Netflix Original Series)",
+      "durationMs": 186093,
+      "ids": {
+        "appleMusic": "1297035218"
+      }
+    },
+    {
+      "title": "I Fought the Law",
+      "artist": "The Clash",
+      "album": "Hits Back",
+      "durationMs": 163240,
+      "ids": {
+        "appleMusic": "993870406"
+      }
+    },
+    {
+      "title": "I Wanna Be Sedated",
+      "artist": "Ramones",
+      "album": "Rock Rebels",
+      "durationMs": 149467,
+      "ids": {
+        "appleMusic": "1359615966"
+      }
+    },
+    {
+      "title": "Blitzkrieg Bop (Live at the Roxy Version)",
+      "artist": "Ramones",
+      "album": "Hey Ho Let's Go - Single",
+      "durationMs": 133400,
+      "ids": {
+        "appleMusic": "1550261075"
+      }
+    },
+    {
+      "title": "Rock ’n’ Roll High School",
+      "artist": "Ramones",
+      "album": "Canciones de películas. Vol.1",
+      "durationMs": 137400,
+      "ids": {
+        "appleMusic": "1764909562"
+      }
+    },
+    {
+      "title": "Star Wars (Disco Version)",
+      "artist": "London Pops Orchestra \u0026 Nelson Corbin",
+      "album": "Solid Instrumental Disco Gold",
+      "durationMs": 226600,
+      "ids": {
+        "appleMusic": "1006036003"
+      }
+    },
+    {
+      "title": "Star Wars (Main Theme)",
+      "artist": "Boris Midney",
+      "album": "Hits Anthology",
+      "durationMs": 361507,
+      "ids": {
+        "appleMusic": "252158620"
+      }
+    },
+    {
+      "title": "Walk of Life",
+      "artist": "Dire Straits",
+      "album": "Sultans of Swing - The Very Best of Dire Straits",
+      "durationMs": 249333,
+      "ids": {
+        "appleMusic": "1440912605"
+      }
+    },
+    {
+      "title": "Your Woman",
+      "artist": "White Town",
+      "album": "Women in Technology",
+      "durationMs": 259893,
+      "ids": {
+        "appleMusic": "1675516478"
+      }
+    },
+    {
+      "title": "Push It",
+      "artist": "Salt-N-Pepa",
+      "album": "Hip Hop Workout",
+      "durationMs": 272133,
+      "ids": {
+        "appleMusic": "1375814318"
+      }
+    },
+    {
+      "title": "The Humpty Dance",
+      "artist": "Digital Underground",
+      "album": "The Humpty Dance - Single",
+      "durationMs": 391693,
+      "ids": {
+        "appleMusic": "1634644372"
+      }
+    },
+    {
+      "title": "Put Your Records On",
+      "artist": "Corinne Bailey Rae",
+      "album": "Comfy Music",
+      "durationMs": 215414,
+      "ids": {
+        "appleMusic": "1716610744"
+      }
+    },
+    {
+      "title": "The Hardest Button to Button",
+      "artist": "The White Stripes",
+      "album": "Elephant",
+      "durationMs": 212320
+    },
+    {
+      "title": "The Way You Make Me Feel (2012 Remaster)",
+      "artist": "Michael Jackson",
+      "album": "Bad 25th Anniversary",
+      "durationMs": 298122,
+      "ids": {
+        "appleMusic": "551515751"
+      }
+    },
+    {
+      "title": "Bad",
+      "artist": "Michael Jackson",
+      "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+      "durationMs": 247369,
+      "ids": {
+        "appleMusic": "310505611"
+      }
+    },
+    {
+      "title": "Human Nature",
+      "artist": "Michael Jackson",
+      "album": "Michael Jackson's This Is It (The Music That Inspired the Movie)",
+      "durationMs": 245413,
+      "ids": {
+        "appleMusic": "336644174"
+      }
+    },
+    {
+      "title": "Wanna Be Startin' Somethin'",
+      "artist": "Michael Jackson",
+      "album": "Michael Jackson's This Is It (The Music That Inspired the Movie)",
+      "durationMs": 362387,
+      "ids": {
+        "appleMusic": "336644163"
+      }
+    },
+    {
+      "title": "P.Y.T. (Pretty Young Thing)",
+      "artist": "Michael Jackson",
+      "album": "Thriller 40",
+      "durationMs": 238724,
+      "ids": {
+        "appleMusic": "1641781426"
+      }
+    },
+    {
+      "title": "Last Nite",
+      "artist": "The Strokes",
+      "album": "Rock Clássico",
+      "durationMs": 193373,
+      "ids": {
+        "appleMusic": "1778714100"
+      }
+    },
+    {
+      "title": "Someday",
+      "artist": "The Strokes",
+      "album": "Is This It",
+      "durationMs": 183573
+    },
+    {
+      "title": "Is This It",
+      "artist": "The Strokes",
+      "album": "Is This It",
+      "durationMs": 151333
+    },
+    {
+      "title": "The Modern Age",
+      "artist": "The Strokes",
+      "album": "Is This It",
+      "durationMs": 208307
+    },
+    {
+      "title": "Heads Will Roll (A-Trak Remix)",
+      "artist": "Yeah Yeah Yeahs",
+      "album": "Para Empezar el 2024 con Toda",
+      "durationMs": 383893,
+      "ids": {
+        "appleMusic": "1718152655"
+      }
+    },
+    {
+      "title": "Succexy",
+      "artist": "Metric",
+      "album": "Old World Underground, Where Are You Now?",
+      "durationMs": 185307,
+      "ids": {
+        "appleMusic": "906877415"
+      }
+    },
+    {
+      "title": "Bam Bam",
+      "artist": "Sister Nancy",
+      "album": "One Two",
+      "durationMs": 196507,
+      "ids": {
+        "appleMusic": "1799638137"
+      }
+    },
+    {
+      "title": "On My Mind",
+      "artist": "Ellie Goulding",
+      "album": "Hot Tracks 2015",
+      "durationMs": 213445,
+      "ids": {
+        "appleMusic": "1567979937"
+      }
+    },
+    {
+      "title": "I Can't Go for That (No Can Do)",
+      "artist": "Daryl Hall \u0026 John Oates",
+      "album": "The Very Best of Daryl Hall \u0026 John Oates",
+      "durationMs": 309267,
+      "ids": {
+        "appleMusic": "273750247"
+      }
+    },
+    {
+      "title": "Animals",
+      "artist": "Maroon 5",
+      "album": "V (Deluxe)",
+      "durationMs": 231079,
+      "ids": {
+        "appleMusic": "1422651844"
+      }
+    },
+    {
+      "title": "Season's Greetings from Michael Jackson",
+      "artist": "Michael Jackson",
+      "album": "A Classic Motown Christmas",
+      "durationMs": 9760,
+      "ids": {
+        "appleMusic": "1484426629"
+      }
+    },
+    {
+      "title": "Smoke On The Water (Remastered 2012)",
+      "artist": "Deep Purple",
+      "album": "Rock Morning Mixtape 2022",
+      "durationMs": 340742,
+      "ids": {
+        "appleMusic": "1602386015"
+      }
+    },
+    {
+      "title": "Iron Man",
+      "artist": "Black Sabbath",
+      "album": "Greatest Hits",
+      "durationMs": 353667,
+      "ids": {
+        "appleMusic": "1447244208"
+      }
+    },
+    {
+      "title": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+      "artist": "AC/DC",
+      "album": "High Voltage",
+      "durationMs": 302431,
+      "ids": {
+        "appleMusic": "574124819"
+      }
+    },
+    {
+      "title": "Highway to Hell",
+      "artist": "AC/DC",
+      "album": "Highway to Hell",
+      "durationMs": 208111,
+      "ids": {
+        "appleMusic": "574044008"
+      }
+    },
+    {
+      "title": "Back In Black",
+      "artist": "AC/DC",
+      "album": "Back In Black",
+      "durationMs": 256000
+    },
+    {
+      "title": "Watch Me (Whip / Nae Nae)",
+      "artist": "Silentó",
+      "album": "Watch Me (Whip / Nae Nae) - Single",
+      "durationMs": 185143,
+      "ids": {
+        "appleMusic": "1445036897"
+      }
+    },
+    {
+      "title": "Drag Me Down",
+      "artist": "One Direction",
+      "album": "Drag Me Down - Single",
+      "durationMs": 192112,
+      "ids": {
+        "appleMusic": "1024077721"
+      }
+    },
+    {
+      "title": "I Love You",
+      "artist": "Barney",
+      "album": "Barney's Run, Jump, Skip, and Sing",
+      "durationMs": 52065,
+      "ids": {
+        "appleMusic": "508332969"
+      }
+    },
+    {
+      "title": "Best Song Ever",
+      "artist": "One Direction",
+      "album": "Midnight Memories (Deluxe)",
+      "durationMs": 200111,
+      "ids": {
+        "appleMusic": "1524682775"
+      }
+    },
+    {
+      "title": "Atlas",
+      "artist": "Battles",
+      "album": "Mirrored",
+      "durationMs": 427200,
+      "ids": {
+        "appleMusic": "251186729"
+      }
+    },
+    {
+      "title": "I Was Made for Lovin' You",
+      "artist": "Kiss",
+      "album": "Greatest Kiss",
+      "durationMs": 271278,
+      "ids": {
+        "appleMusic": "1440854031"
+      }
+    },
+    {
+      "title": "Yellow Submarine",
+      "artist": "The Beatles",
+      "album": "Yellow Submarine",
+      "durationMs": 158720,
+      "ids": {
+        "appleMusic": "1441164526"
+      }
+    },
+    {
+      "title": "Somebody That I Used To Know (feat. Kimbra)",
+      "artist": "Gotye",
+      "album": "Family Pool Party",
+      "durationMs": 245755,
+      "ids": {
+        "appleMusic": "1579794140"
+      }
+    },
+    {
+      "title": "You're Welcome",
+      "artist": "Dwayne Johnson",
+      "album": "Vaiana (Original Motion Picture Soundtrack)",
+      "durationMs": 163894,
+      "ids": {
+        "appleMusic": "1440638155"
+      }
+    },
+    {
+      "title": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "artist": "Justin Timberlake",
+      "album": "Fin de Año Éxitos",
+      "durationMs": 236307,
+      "ids": {
+        "appleMusic": "1653395371"
+      }
+    },
+    {
+      "title": "Move Your Feet / D.A.N.C.E. / It's a Sunshine Day",
+      "artist": "Anna Kendrick, Gwen Stefani, James Corden, Ron Funches, Walt Dohrn, Caroline Hjelt, Aino Jawo \u0026 Kunal Nayyar",
+      "album": "Trolls (Original Motion Picture Soundtrack)",
+      "durationMs": 156493,
+      "ids": {
+        "appleMusic": "1164253141"
+      }
+    },
+    {
+      "title": "Hair Up",
+      "artist": "Justin Timberlake, Gwen Stefani \u0026 Ron Funches",
+      "album": "Trolls (Original Motion Picture Soundtrack)",
+      "durationMs": 178360,
+      "ids": {
+        "appleMusic": "1164253136"
+      }
+    },
+    {
+      "title": "How Far I'll Go (Alessia Cara Version)",
+      "artist": "Alessia Cara",
+      "album": "Vaiana (Originele Nederlandstalige Soundtrack) [Deluxe Edition]",
+      "durationMs": 175517,
+      "ids": {
+        "appleMusic": "1440852940"
+      }
+    },
+    {
+      "title": "We Know the Way",
+      "artist": "Opetaia Foa'i \u0026 Lin-Manuel Miranda",
+      "album": "Vaiana (Original Motion Picture Soundtrack)",
+      "durationMs": 141415,
+      "ids": {
+        "appleMusic": "1440638153"
+      }
+    },
+    {
+      "title": "Shiny (From \"Moana\"/Soundtrack Version)",
+      "artist": "Jemaine Clement",
+      "album": "Disney Summer Songs",
+      "durationMs": 185467,
+      "ids": {
+        "appleMusic": "1570496978"
+      }
+    },
+    {
+      "title": "Around the World",
+      "artist": "Daft Punk",
+      "album": "Homework (25th Anniversary Edition)",
+      "durationMs": 429533,
+      "ids": {
+        "appleMusic": "1609438415"
+      }
+    },
+    {
+      "title": "Woo Hoo",
+      "artist": "The 5.6.7.8's",
+      "album": "Tarantino Sounds: The Finest Selection of Quentin Tarantino's Soundtracks",
+      "durationMs": 118222,
+      "ids": {
+        "appleMusic": "1744361002"
+      }
+    }
+  ]
+}

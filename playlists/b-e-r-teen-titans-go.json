@@ -1,0 +1,41 @@
+{
+  "name": "B.E.R Teen Titans Go!",
+  "tracks": [
+    {
+      "title": "Rise Up",
+      "artist": "B.E.R. \u0026 Teen Titans Go!",
+      "album": "Teen Titans Go! (Songs From The Night Begins To Shine Special) - EP",
+      "durationMs": 253987,
+      "ids": {
+        "appleMusic": "1456164458"
+      }
+    },
+    {
+      "title": "Forever Mine",
+      "artist": "B.E.R. \u0026 Teen Titans Go!",
+      "album": "Teen Titans Go! (Songs From The Night Begins To Shine Special) - EP",
+      "durationMs": 224480,
+      "ids": {
+        "appleMusic": "1456164377"
+      }
+    },
+    {
+      "title": "The Night Begins To Shine (Dragon Remix)",
+      "artist": "B.E.R. \u0026 Teen Titans Go!",
+      "album": "Teen Titans Go! (Songs From The Night Begins To Shine Special) - EP",
+      "durationMs": 250960,
+      "ids": {
+        "appleMusic": "1456164452"
+      }
+    },
+    {
+      "title": "The Night Begins to Shine",
+      "artist": "B.E.R.",
+      "album": "The Night Begins to Shine - Single",
+      "durationMs": 210510,
+      "ids": {
+        "appleMusic": "1054197751"
+      }
+    }
+  ]
+}

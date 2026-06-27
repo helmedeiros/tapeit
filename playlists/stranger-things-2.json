@@ -1,0 +1,347 @@
+{
+  "name": "Stranger Things 2",
+  "tracks": [
+    {
+      "title": "Whip It",
+      "artist": "DEVO",
+      "album": "Social Fools: The Virgin Singles 1978-1982",
+      "durationMs": 160106,
+      "ids": {
+        "appleMusic": "1442312594"
+      }
+    },
+    {
+      "title": "Just Another Day",
+      "artist": "Oingo Boingo",
+      "album": "Dead Man's Party",
+      "durationMs": 312467,
+      "ids": {
+        "appleMusic": "1440740150"
+      }
+    },
+    {
+      "title": "Talking In Your Sleep (2023 Remaster)",
+      "artist": "The Romantics",
+      "album": "In Heat (2023 Remaster)",
+      "durationMs": 236625,
+      "ids": {
+        "appleMusic": "784423236"
+      }
+    },
+    {
+      "title": "Rock You Like a Hurricane",
+      "artist": "Scorpions",
+      "album": "Best",
+      "durationMs": 252440,
+      "ids": {
+        "appleMusic": "1440784495"
+      }
+    },
+    {
+      "title": "Spooky Movies",
+      "artist": "Gary Paxton",
+      "album": "Anthems for Witches 2022",
+      "durationMs": 142107,
+      "ids": {
+        "appleMusic": "1647479690"
+      }
+    },
+    {
+      "title": "Ghostbusters",
+      "artist": "Ray Parker Jr.",
+      "album": "Arista Heritage Series: Ray Parker Jr.",
+      "durationMs": 240800,
+      "ids": {
+        "appleMusic": "298553998"
+      }
+    },
+    {
+      "title": "Wango Tango",
+      "artist": "Ted Nugent",
+      "album": "Great Gonzos! The Best of Ted Nugent",
+      "durationMs": 289307,
+      "ids": {
+        "appleMusic": "171107706"
+      }
+    },
+    {
+      "title": "Shout at the Devil",
+      "artist": "Mötley Crüe",
+      "album": "Greatest Hits (Deluxe Edition)",
+      "durationMs": 195853,
+      "ids": {
+        "appleMusic": "1606701120"
+      }
+    },
+    {
+      "title": "Islands In the Stream",
+      "artist": "Dolly Parton \u0026 Kenny Rogers",
+      "album": "Vintage Summer Songs",
+      "durationMs": 249747,
+      "ids": {
+        "appleMusic": "1739854496"
+      }
+    },
+    {
+      "title": "Monster Mash",
+      "artist": "Bobby \"Boris\" Pickett \u0026 The Crypt-Kickers",
+      "album": "Horrifying Hits",
+      "durationMs": 192040,
+      "ids": {
+        "appleMusic": "1590261076"
+      }
+    },
+    {
+      "title": "Girls On Film",
+      "artist": "Duran Duran",
+      "album": "New Year's Eve",
+      "durationMs": 207787,
+      "ids": {
+        "appleMusic": "1181210766"
+      }
+    },
+    {
+      "title": "Whistle on the River",
+      "artist": "The Mercy Brothers",
+      "album": "Backseat Memories of the 1960's - Vol. 10",
+      "durationMs": 141675,
+      "ids": {
+        "appleMusic": "1107445486"
+      }
+    },
+    {
+      "title": "You Don't Mess Around with Jim",
+      "artist": "Jim Croce",
+      "album": "Photographs \u0026 Memories: His Greatest Hits",
+      "durationMs": 182009,
+      "ids": {
+        "appleMusic": "1509297889"
+      }
+    },
+    {
+      "title": "The Ghost In You",
+      "artist": "The Psychedelic Furs",
+      "album": "Mirror Moves",
+      "durationMs": 257686,
+      "ids": {
+        "appleMusic": "185821165"
+      }
+    },
+    {
+      "title": "This Is Radio Clash",
+      "artist": "The Clash",
+      "album": "Hits Back",
+      "durationMs": 250474,
+      "ids": {
+        "appleMusic": "993870576"
+      }
+    },
+    {
+      "title": "Scarface (Push It To The Limit) [From \"Scarface\" Soundtrack]",
+      "artist": "Paul Engemann",
+      "album": "After Ski 2024",
+      "durationMs": 191427,
+      "ids": {
+        "appleMusic": "1709848165"
+      }
+    },
+    {
+      "title": "Try My Love",
+      "artist": "Carroll Lloyd",
+      "album": "Play The Game - The XL and Sounds of Memphis Story, Vol. 2",
+      "durationMs": 154440,
+      "ids": {
+        "appleMusic": "456051025"
+      }
+    },
+    {
+      "title": "Green, Green Grass of Home",
+      "artist": "Bobby Bare",
+      "album": "Streets of Baltimore",
+      "durationMs": 163476,
+      "ids": {
+        "appleMusic": "979440389"
+      }
+    },
+    {
+      "title": "That Ole Devil Called Love",
+      "artist": "Billie Holiday",
+      "album": "Lover Man",
+      "durationMs": 175427,
+      "ids": {
+        "appleMusic": "1444488923"
+      }
+    },
+    {
+      "title": "Hammer To Fall (Remastered 2011)",
+      "artist": "Queen",
+      "album": "Riffs",
+      "durationMs": 265440,
+      "ids": {
+        "appleMusic": "1823323670"
+      }
+    },
+    {
+      "title": "There's Frost On The Moon",
+      "artist": "Artie Shaw and His Orchestra \u0026 Peg LaCentra",
+      "album": "From The Sony Vault: Christmas With The Big Bands",
+      "durationMs": 175973,
+      "ids": {
+        "appleMusic": "586378097"
+      }
+    },
+    {
+      "title": "Blue Bayou",
+      "artist": "Roy Orbison",
+      "album": "In Dreams",
+      "durationMs": 151395,
+      "ids": {
+        "appleMusic": "997480293"
+      }
+    },
+    {
+      "title": "You Better Go Now",
+      "artist": "Billie Holiday",
+      "album": "Billie Holiday's Greatest Hits",
+      "durationMs": 154867,
+      "ids": {
+        "appleMusic": "1434875024"
+      }
+    },
+    {
+      "title": "Round and Round",
+      "artist": "Ratt",
+      "album": "Rock City",
+      "durationMs": 265893,
+      "ids": {
+        "appleMusic": "1457976248"
+      }
+    },
+    {
+      "title": "Runaway",
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi",
+      "durationMs": 230713,
+      "ids": {
+        "appleMusic": "1440814439"
+      }
+    },
+    {
+      "title": "Back to Nature",
+      "artist": "Fad Gadget",
+      "album": "The Fad Gadget Singles",
+      "durationMs": 344307,
+      "ids": {
+        "appleMusic": "767382080"
+      }
+    },
+    {
+      "title": "The Bank Robbery",
+      "artist": "John Carpenter \u0026 Alan Howarth",
+      "album": "Escape from New York (Original Motion Picture Soundtrack)",
+      "durationMs": 210347,
+      "ids": {
+        "appleMusic": "1833047784"
+      }
+    },
+    {
+      "title": "Dead End Justice",
+      "artist": "The Runaways",
+      "album": "Female Rage",
+      "durationMs": 420173,
+      "ids": {
+        "appleMusic": "1824263989"
+      }
+    },
+    {
+      "title": "The Four Horsemen (Remastered)",
+      "artist": "Metallica",
+      "album": "Kill 'Em All (Remastered)",
+      "durationMs": 432547,
+      "ids": {
+        "appleMusic": "1440843817"
+      }
+    },
+    {
+      "title": "Should I Stay or Should I Go (Remastered)",
+      "artist": "The Clash",
+      "album": "Stranger Things (Soundtrack from the Netflix Original Series)",
+      "durationMs": 186093,
+      "ids": {
+        "appleMusic": "1297035218"
+      }
+    },
+    {
+      "title": "The Way We Were",
+      "artist": "Barbra Streisand",
+      "album": "The Essential Barbra Streisand",
+      "durationMs": 210027,
+      "ids": {
+        "appleMusic": "201291855"
+      }
+    },
+    {
+      "title": "I Do Believe (I Fell In Love)",
+      "artist": "Donna Summer",
+      "album": "She Works Hard For The Money (Deluxe Edition)",
+      "durationMs": 277093,
+      "ids": {
+        "appleMusic": "1672459723"
+      }
+    },
+    {
+      "title": "Rare Bird",
+      "artist": "Tangerine Dream",
+      "album": "The Blue Years Anthology 1980-1987: Ride On the Ray",
+      "durationMs": 236307,
+      "ids": {
+        "appleMusic": "1563803263"
+      }
+    },
+    {
+      "title": "Love Is a Battlefield",
+      "artist": "Pat Benatar",
+      "album": "Best Shots",
+      "durationMs": 323493,
+      "ids": {
+        "appleMusic": "724687091"
+      }
+    },
+    {
+      "title": "Jingle Bell Rock (Single Version)",
+      "artist": "Bobby Helms",
+      "album": "A Holly Jolly Kids' Christmas (International Version (FUN))",
+      "durationMs": 130053,
+      "ids": {
+        "appleMusic": "1442835054"
+      }
+    },
+    {
+      "title": "Twist of Fate",
+      "artist": "Endless Taverns",
+      "album": "Twist of Fate - Single",
+      "durationMs": 219636,
+      "ids": {
+        "appleMusic": "1802026331"
+      }
+    },
+    {
+      "title": "Time After Time",
+      "artist": "Cyndi Lauper",
+      "album": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+      "durationMs": 243067,
+      "ids": {
+        "appleMusic": "795192837"
+      }
+    },
+    {
+      "title": "Every Breath You Take",
+      "artist": "The Police",
+      "album": "The Very Best of Sting \u0026 The Police",
+      "durationMs": 251333,
+      "ids": {
+        "appleMusic": "1440882897"
+      }
+    }
+  ]
+}

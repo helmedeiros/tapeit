@@ -1,0 +1,353 @@
+{
+  "name": "this is garbage",
+  "tracks": [
+    {
+      "title": "Hypocrite",
+      "artist": "Cage the Elephant",
+      "album": "Melophobia",
+      "durationMs": 248989,
+      "ids": {
+        "appleMusic": "1440823829"
+      }
+    },
+    {
+      "title": "Pictures of Girls",
+      "artist": "Wallows",
+      "album": "Good Indie Vibes",
+      "durationMs": 204667,
+      "ids": {
+        "appleMusic": "1848082986"
+      }
+    },
+    {
+      "title": "Sit Next to Me",
+      "artist": "Foster the People",
+      "album": "Melhores Músicas Internacionais 2022",
+      "durationMs": 243147,
+      "ids": {
+        "appleMusic": "1634871080"
+      }
+    },
+    {
+      "title": "Raspberry",
+      "artist": "GROUPLOVE",
+      "album": "Psychedelic Vibin'",
+      "durationMs": 196027,
+      "ids": {
+        "appleMusic": "1850465611"
+      }
+    },
+    {
+      "title": "Where'd All the Time Go?",
+      "artist": "Dr. Dog",
+      "album": "Shame, Shame (Deluxe Edition)",
+      "durationMs": 234800,
+      "ids": {
+        "appleMusic": "1485025432"
+      }
+    },
+    {
+      "title": "These Days",
+      "artist": "Wallows",
+      "album": "Rustige Avond",
+      "durationMs": 202627,
+      "ids": {
+        "appleMusic": "1831947597"
+      }
+    },
+    {
+      "title": "Can I Call You Tonight?",
+      "artist": "Dayglow",
+      "album": "Fuzzybrain",
+      "durationMs": 278769,
+      "ids": {
+        "appleMusic": "1482950632"
+      }
+    },
+    {
+      "title": "Brazil",
+      "artist": "Declan McKenna",
+      "album": "What Do You Think About the Car?",
+      "durationMs": 252306,
+      "ids": {
+        "appleMusic": "1208110313"
+      }
+    },
+    {
+      "title": "About You",
+      "artist": "San Cisco",
+      "album": "Gracetown",
+      "durationMs": 207620,
+      "ids": {
+        "appleMusic": "968334546"
+      }
+    },
+    {
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows",
+      "album": "San Francisco Summer",
+      "durationMs": 178000,
+      "ids": {
+        "appleMusic": "6766811303"
+      }
+    },
+    {
+      "title": "Palm Trees",
+      "artist": "SWMRS",
+      "album": "Drive North",
+      "durationMs": 185085,
+      "ids": {
+        "appleMusic": "1162310107"
+      }
+    },
+    {
+      "title": "Cigarette Daydreams",
+      "artist": "Cage the Elephant",
+      "album": "Melophobia",
+      "durationMs": 208766,
+      "ids": {
+        "appleMusic": "1440823888"
+      }
+    },
+    {
+      "title": "Call It Fate, Call It Karma",
+      "artist": "The Strokes",
+      "album": "Comedown Machine",
+      "durationMs": 204773
+    },
+    {
+      "title": "Malibu 1992",
+      "artist": "COIN",
+      "album": "How Will You Know If You Never Try",
+      "durationMs": 341200,
+      "ids": {
+        "appleMusic": "1219455221"
+      }
+    },
+    {
+      "title": "I Don't Mind",
+      "artist": "The Shed",
+      "album": "S. Santa Fe",
+      "durationMs": 300186,
+      "ids": {
+        "appleMusic": "1386179029"
+      }
+    },
+    {
+      "title": "By Myself",
+      "artist": "FIDLAR",
+      "album": "By Myself - Single",
+      "durationMs": 214641,
+      "ids": {
+        "appleMusic": "1881419937"
+      }
+    },
+    {
+      "title": "No Waves",
+      "artist": "FIDLAR",
+      "album": "FIDLAR",
+      "durationMs": 133947,
+      "ids": {
+        "appleMusic": "678172988"
+      }
+    },
+    {
+      "title": "Can’t You See",
+      "artist": "FIDLAR",
+      "album": "Can’t You See - Single",
+      "durationMs": 178438,
+      "ids": {
+        "appleMusic": "1881418809"
+      }
+    },
+    {
+      "title": "Bad Habits",
+      "artist": "FIDLAR",
+      "album": "Too",
+      "durationMs": 332640,
+      "ids": {
+        "appleMusic": "1001105771"
+      }
+    },
+    {
+      "title": "Where Is My Mind? (2007 Remaster)",
+      "artist": "Pixies",
+      "album": "Surfer Rosa (2007 Remaster)",
+      "durationMs": 234973,
+      "ids": {
+        "appleMusic": "1027465608"
+      }
+    },
+    {
+      "title": "Pleaser",
+      "artist": "Wallows",
+      "album": "Love Songs, Vol. 2",
+      "durationMs": 187896,
+      "ids": {
+        "appleMusic": "1793096796"
+      }
+    },
+    {
+      "title": "Scrawny",
+      "artist": "Wallows",
+      "album": "Indie Summer Hot Alternatives",
+      "durationMs": 166520,
+      "ids": {
+        "appleMusic": "1820152152"
+      }
+    },
+    {
+      "title": "Flow",
+      "artist": "Cage the Elephant",
+      "album": "Thank You Happy Birthday (Deluxe)",
+      "durationMs": 463520,
+      "ids": {
+        "appleMusic": "721212367"
+      }
+    },
+    {
+      "title": "Spring Has Sprung",
+      "artist": "Skegss",
+      "album": "Spring Has Sprung - Single",
+      "durationMs": 178584,
+      "ids": {
+        "appleMusic": "1482692333"
+      }
+    },
+    {
+      "title": "I Can't Handle Change",
+      "artist": "Roar",
+      "album": "I Can't Handle Change - EP",
+      "durationMs": 198213,
+      "ids": {
+        "appleMusic": "1736275328"
+      }
+    },
+    {
+      "title": "Hot Rod",
+      "artist": "Dayglow",
+      "album": "Fuzzybrain",
+      "durationMs": 204014,
+      "ids": {
+        "appleMusic": "1482950906"
+      }
+    },
+    {
+      "title": "Seaweed",
+      "artist": "Hockey Dad",
+      "album": "Dreamin' - EP",
+      "durationMs": 175627,
+      "ids": {
+        "appleMusic": "1490644775"
+      }
+    },
+    {
+      "title": "Cheeky Kids",
+      "artist": "Marlin's Dreaming",
+      "album": "Lizard Tears",
+      "durationMs": 192401,
+      "ids": {
+        "appleMusic": "1294753334"
+      }
+    },
+    {
+      "title": "Confidence",
+      "artist": "Ocean Alley",
+      "album": "Chiaroscuro",
+      "durationMs": 253077,
+      "ids": {
+        "appleMusic": "1762577467"
+      }
+    },
+    {
+      "title": "Robbery",
+      "artist": "Lime Cordiale",
+      "album": "14 Steps To a Better You",
+      "durationMs": 223234,
+      "ids": {
+        "appleMusic": "1504624814"
+      }
+    },
+    {
+      "title": "Jungle",
+      "artist": "Tash Sultana",
+      "album": "Notion",
+      "durationMs": 315603,
+      "ids": {
+        "appleMusic": "1641660684"
+      }
+    },
+    {
+      "title": "Fade Into You",
+      "artist": "Mazzy Star",
+      "album": "soft songs to listen to while studying",
+      "durationMs": 297160,
+      "ids": {
+        "appleMusic": "6766954369"
+      }
+    },
+    {
+      "title": "Kids",
+      "artist": "The Frights",
+      "album": "You Are Going To Hate This",
+      "durationMs": 174405,
+      "ids": {
+        "appleMusic": "1862930667"
+      }
+    },
+    {
+      "title": "August",
+      "artist": "Flipturn",
+      "album": "Citrona",
+      "durationMs": 261734,
+      "ids": {
+        "appleMusic": "1370581403"
+      }
+    },
+    {
+      "title": "Butter",
+      "artist": "Matty",
+      "album": "Déjàvu",
+      "durationMs": 131453,
+      "ids": {
+        "appleMusic": "1368443802"
+      }
+    },
+    {
+      "title": "Dark Spring",
+      "artist": "Beach House",
+      "album": "7",
+      "durationMs": 204373,
+      "ids": {
+        "appleMusic": "1345782776"
+      }
+    },
+    {
+      "title": "Passed You By",
+      "artist": "Chicano Batman",
+      "album": "Freedom Is Free",
+      "durationMs": 207732,
+      "ids": {
+        "appleMusic": "1182337601"
+      }
+    },
+    {
+      "title": "C \u0026 C",
+      "artist": "The Frights",
+      "album": "The Frights",
+      "durationMs": 211644,
+      "ids": {
+        "appleMusic": "788762540"
+      }
+    },
+    {
+      "title": "Delicate",
+      "artist": "Taylor Swift",
+      "album": "reputation (Big Machine Radio Release Special)",
+      "durationMs": 232253,
+      "ids": {
+        "appleMusic": "1445766091"
+      }
+    }
+  ]
+}

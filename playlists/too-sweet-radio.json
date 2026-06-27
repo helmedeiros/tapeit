@@ -1,0 +1,431 @@
+{
+  "name": "Too Sweet Radio",
+  "tracks": [
+    {
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "album": "Unheard - EP",
+      "durationMs": 251424,
+      "ids": {
+        "appleMusic": "1733904814"
+      }
+    },
+    {
+      "title": "Homewrecker",
+      "artist": "sombr",
+      "album": "Homewrecker - Single",
+      "durationMs": 209066,
+      "ids": {
+        "appleMusic": "1871595253"
+      }
+    },
+    {
+      "title": "So Cold",
+      "artist": "Balu Brigada",
+      "album": "So Cold - Single",
+      "durationMs": 201133,
+      "ids": {
+        "appleMusic": "1750274397"
+      }
+    },
+    {
+      "title": "Dracula",
+      "artist": "Tame Impala",
+      "album": "Dracula - Single",
+      "durationMs": 205309,
+      "ids": {
+        "appleMusic": "1842444457"
+      }
+    },
+    {
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "album": "The Art of Loving",
+      "durationMs": 184000,
+      "ids": {
+        "appleMusic": "1817609509"
+      }
+    },
+    {
+      "title": "Cherry Wine (Live)",
+      "artist": "Hozier",
+      "album": "Hozier",
+      "durationMs": 240147
+    },
+    {
+      "title": "End of Beginning",
+      "artist": "Djo",
+      "album": "End of Beginning - Single",
+      "durationMs": 159246,
+      "ids": {
+        "appleMusic": "1740299854"
+      }
+    },
+    {
+      "title": "Babydoll",
+      "artist": "Dominic Fike",
+      "album": "Don't Forget About Me, Demos - EP",
+      "durationMs": 97960,
+      "ids": {
+        "appleMusic": "1438243880"
+      }
+    },
+    {
+      "title": "Feel Good Inc",
+      "artist": "Gorillaz",
+      "album": "Rock music for the road",
+      "durationMs": 222640,
+      "ids": {
+        "appleMusic": "6784168006"
+      }
+    },
+    {
+      "title": "Self Aware",
+      "artist": "Temper City",
+      "album": "Self Aware - Single",
+      "durationMs": 180741,
+      "ids": {
+        "appleMusic": "1877803360"
+      }
+    },
+    {
+      "title": "Almost (Sweet Music)",
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "durationMs": 217480,
+      "ids": {
+        "appleMusic": "1448701594"
+      }
+    },
+    {
+      "title": "As It Was",
+      "artist": "Harry Styles",
+      "album": "Harry's House",
+      "durationMs": 167303,
+      "ids": {
+        "appleMusic": "1615585008"
+      }
+    },
+    {
+      "title": "12 to 12",
+      "artist": "sombr",
+      "album": "12 to 12 - Single",
+      "durationMs": 242903,
+      "ids": {
+        "appleMusic": "1828036635"
+      }
+    },
+    {
+      "title": "edamame (feat. Rich Brian)",
+      "artist": "bbno$",
+      "album": "edamame (feat. Rich Brian) - Single",
+      "durationMs": 133707,
+      "ids": {
+        "appleMusic": "1683374319"
+      }
+    },
+    {
+      "title": "Hard Times",
+      "artist": "Paramore",
+      "album": "After Laughter",
+      "durationMs": 182695,
+      "ids": {
+        "appleMusic": "1227049868"
+      }
+    },
+    {
+      "title": "Jackie and Wilson",
+      "artist": "Hozier",
+      "album": "Hozier",
+      "durationMs": 223120
+    },
+    {
+      "title": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "album": "The Art of Loving",
+      "durationMs": 169000,
+      "ids": {
+        "appleMusic": "1817609507"
+      }
+    },
+    {
+      "title": "Lost [Remix] [Mixed]",
+      "artist": "Frank Ocean",
+      "album": "Swim Good Radio, Ep. 011 (DJ Mix)",
+      "durationMs": 232948,
+      "ids": {
+        "appleMusic": "1689851342"
+      }
+    },
+    {
+      "title": "Real Love Baby",
+      "artist": "Father John Misty",
+      "album": "Real Love Baby - Single",
+      "durationMs": 189293,
+      "ids": {
+        "appleMusic": "1133711685"
+      }
+    },
+    {
+      "title": "On Melancholy Hill",
+      "artist": "Gorillaz",
+      "album": "Plastic Beach",
+      "durationMs": 233867,
+      "ids": {
+        "appleMusic": "850569480"
+      }
+    },
+    {
+      "title": "Eat Your Young",
+      "artist": "Hozier",
+      "album": "Eat Your Young - Single",
+      "durationMs": 242293,
+      "ids": {
+        "appleMusic": "1675416253"
+      }
+    },
+    {
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "album": "WHERE IS MY HUSBAND! - Single",
+      "durationMs": 197143,
+      "ids": {
+        "appleMusic": "1838737598"
+      }
+    },
+    {
+      "title": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "album": "Fine Line",
+      "durationMs": 173991,
+      "ids": {
+        "appleMusic": "1485802967"
+      }
+    },
+    {
+      "title": "undressed",
+      "artist": "sombr",
+      "album": "undressed - Single",
+      "durationMs": 182089,
+      "ids": {
+        "appleMusic": "1802084938"
+      }
+    },
+    {
+      "title": "Iris",
+      "artist": "The Goo Goo Dolls",
+      "album": "Dizzy Up the Girl",
+      "durationMs": 289559,
+      "ids": {
+        "appleMusic": "1109658204"
+      }
+    },
+    {
+      "title": "Someone New",
+      "artist": "Hozier",
+      "album": "Hozier",
+      "durationMs": 222814
+    },
+    {
+      "title": "Feel It Still",
+      "artist": "Portugal. The Man",
+      "album": "Rockowy roadtrip",
+      "durationMs": 162093,
+      "ids": {
+        "appleMusic": "6784171985"
+      }
+    },
+    {
+      "title": "Dive",
+      "artist": "Olivia Dean",
+      "album": "Messy",
+      "durationMs": 200759,
+      "ids": {
+        "appleMusic": "1676252825"
+      }
+    },
+    {
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "album": "Good Luck, Babe! - Single",
+      "durationMs": 218424,
+      "ids": {
+        "appleMusic": "1737497080"
+      }
+    },
+    {
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "album": "Dreamland",
+      "durationMs": 238805,
+      "ids": {
+        "appleMusic": "1508562516"
+      }
+    },
+    {
+      "title": "Nobody's Soldier",
+      "artist": "Hozier",
+      "album": "Unaired - Single",
+      "durationMs": 237200,
+      "ids": {
+        "appleMusic": "1758117541"
+      }
+    },
+    {
+      "title": "Clint Eastwood",
+      "artist": "Gorillaz",
+      "album": "Il Ragazzo Invisibile (Colonna Sonora Originale)",
+      "durationMs": 343480,
+      "ids": {
+        "appleMusic": "939589925"
+      }
+    },
+    {
+      "title": "Adore You",
+      "artist": "Harry Styles",
+      "album": "Fine Line",
+      "durationMs": 207140,
+      "ids": {
+        "appleMusic": "1485802970"
+      }
+    },
+    {
+      "title": "back to friends",
+      "artist": "sombr",
+      "album": "back to friends - Single",
+      "durationMs": 199032,
+      "ids": {
+        "appleMusic": "1786481197"
+      }
+    },
+    {
+      "title": "Angel of Small Death \u0026 the Codeine Scene",
+      "artist": "Hozier",
+      "album": "Hozier",
+      "durationMs": 219214
+    },
+    {
+      "title": "Kiss Me More (feat. SZA)",
+      "artist": "Doja Cat",
+      "album": "Planet Her (Deluxe)",
+      "durationMs": 208667,
+      "ids": {
+        "appleMusic": "1577637152"
+      }
+    },
+    {
+      "title": "My Type",
+      "artist": "Saint Motel",
+      "album": "My Type - Single",
+      "durationMs": 206394,
+      "ids": {
+        "appleMusic": "886810934"
+      }
+    },
+    {
+      "title": "Snap Out of It",
+      "artist": "Arctic Monkeys",
+      "album": "AM",
+      "durationMs": 192889,
+      "ids": {
+        "appleMusic": "663098063"
+      }
+    },
+    {
+      "title": "Valerie (feat. Amy Winehouse) [Version Revisited]",
+      "artist": "Mark Ronson",
+      "album": "Version (Bonus Tracks)",
+      "durationMs": 219413,
+      "ids": {
+        "appleMusic": "270051061"
+      }
+    },
+    {
+      "title": "De Selby (Part 2)",
+      "artist": "Hozier",
+      "album": "Unreal Unearth",
+      "durationMs": 227827,
+      "ids": {
+        "appleMusic": "1687653710"
+      }
+    },
+    {
+      "title": "Tadow",
+      "artist": "Masego",
+      "album": "Lady Lady",
+      "durationMs": 301893,
+      "ids": {
+        "appleMusic": "1794866252"
+      }
+    },
+    {
+      "title": "New Light",
+      "artist": "John Mayer",
+      "album": "Sob Rock",
+      "durationMs": 217430,
+      "ids": {
+        "appleMusic": "1568819309"
+      }
+    },
+    {
+      "title": "Borderline",
+      "artist": "Tame Impala",
+      "album": "Frühlingserwachen",
+      "durationMs": 237800,
+      "ids": {
+        "appleMusic": "1609332488"
+      }
+    },
+    {
+      "title": "Budapest",
+      "artist": "George Ezra",
+      "album": "Did You Hear the Rain? - EP",
+      "durationMs": 202120,
+      "ids": {
+        "appleMusic": "705812855"
+      }
+    },
+    {
+      "title": "From Eden",
+      "artist": "Hozier",
+      "album": "Hozier",
+      "durationMs": 283467
+    },
+    {
+      "title": "Training Season",
+      "artist": "Dua Lipa",
+      "album": "Training Season - Single",
+      "durationMs": 209488,
+      "ids": {
+        "appleMusic": "1727565528"
+      }
+    },
+    {
+      "title": "Creatures in Heaven",
+      "artist": "Glass Animals",
+      "album": "I Love You So F***ing Much",
+      "durationMs": 221671,
+      "ids": {
+        "appleMusic": "1738436209"
+      }
+    },
+    {
+      "title": "Lovefool",
+      "artist": "The Cardigans",
+      "album": "First Band on the Moon (2019 Remaster)",
+      "durationMs": 193953,
+      "ids": {
+        "appleMusic": "1450141548"
+      }
+    },
+    {
+      "title": "Arabella",
+      "artist": "Arctic Monkeys",
+      "album": "AM",
+      "durationMs": 207357,
+      "ids": {
+        "appleMusic": "663097968"
+      }
+    }
+  ]
+}

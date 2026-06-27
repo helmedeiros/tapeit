@@ -1,0 +1,380 @@
+{
+  "name": "Salve o Date",
+  "tracks": [
+    {
+      "title": "If She Wants Me",
+      "artist": "Belle and Sebastian",
+      "album": "Dear Catastrophe Waitress",
+      "durationMs": 305400,
+      "ids": {
+        "appleMusic": "260060974"
+      }
+    },
+    {
+      "title": "Sugar (feat. Francesco Yates)",
+      "artist": "Robin Schulz",
+      "album": "Happiest Wake Up Songs",
+      "durationMs": 219043,
+      "ids": {
+        "appleMusic": "6766814759"
+      }
+    },
+    {
+      "title": "Gimme Sympathy",
+      "artist": "Metric",
+      "album": "Fantasies",
+      "durationMs": 234587,
+      "ids": {
+        "appleMusic": "1440946134"
+      }
+    },
+    {
+      "title": "Rome Wasn't Built In a Day",
+      "artist": "Morcheeba",
+      "album": "Rome Wasn't Built In a Day - Single",
+      "durationMs": 214720,
+      "ids": {
+        "appleMusic": "121065752"
+      }
+    },
+    {
+      "title": "Heartbeat",
+      "artist": "Tahiti 80",
+      "album": "Puzzle",
+      "durationMs": 206600,
+      "ids": {
+        "appleMusic": "686572672"
+      }
+    },
+    {
+      "title": "A Long Time",
+      "artist": "Mayer Hawthorne",
+      "album": "How Do You Do",
+      "durationMs": 221013,
+      "ids": {
+        "appleMusic": "1446016656"
+      }
+    },
+    {
+      "title": "Animal",
+      "artist": "Miike Snow",
+      "album": "Miike Snow (Deluxe Edition)",
+      "durationMs": 264267,
+      "ids": {
+        "appleMusic": "1798494827"
+      }
+    },
+    {
+      "title": "Somewhere Only We Know",
+      "artist": "Keane",
+      "album": "Hopes and Fears",
+      "durationMs": 237147,
+      "ids": {
+        "appleMusic": "1440798037"
+      }
+    },
+    {
+      "title": "I Am Mine",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 215680
+    },
+    {
+      "title": "Super Duper Love",
+      "artist": "Joss Stone",
+      "album": "LOVE 說愛・情歌集",
+      "durationMs": 260013,
+      "ids": {
+        "appleMusic": "1552772858"
+      }
+    },
+    {
+      "title": "Lean On (feat. Mykal Kilgore)",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "album": "Swipe Right For Vintage",
+      "durationMs": 172637,
+      "ids": {
+        "appleMusic": "1023928358"
+      }
+    },
+    {
+      "title": "Breezeblocks",
+      "artist": "alt-J",
+      "album": "An Awesome Wave",
+      "durationMs": 227080,
+      "ids": {
+        "appleMusic": "1622205906"
+      }
+    },
+    {
+      "title": "10 Lovers",
+      "artist": "The Black Keys",
+      "album": "Turn Blue",
+      "durationMs": 213223
+    },
+    {
+      "title": "One Out of Two (feat. Irfane)",
+      "artist": "Breakbot",
+      "album": "One Out of Two - EP",
+      "durationMs": 219254,
+      "ids": {
+        "appleMusic": "529197442"
+      }
+    },
+    {
+      "title": "Sing It Back (Boris Musical Mix) [Edit]",
+      "artist": "Moloko",
+      "album": "Ultimate Party",
+      "durationMs": 278000,
+      "ids": {
+        "appleMusic": "1713815566"
+      }
+    },
+    {
+      "title": "Designer Drug (Bonus Track)",
+      "artist": "Mayer Hawthorne",
+      "album": "Where Does This Door Go (Deluxe Edition)",
+      "durationMs": 213350,
+      "ids": {
+        "appleMusic": "1445882924"
+      }
+    },
+    {
+      "title": "Hold On",
+      "artist": "Alabama Shakes",
+      "album": "Boys \u0026 Girls (Deluxe Edition)",
+      "durationMs": 226187,
+      "ids": {
+        "appleMusic": "1651006325"
+      }
+    },
+    {
+      "title": "Baby I'm Yours",
+      "artist": "Breakbot \u0026 Irfane",
+      "album": "Support Your Local Record Label",
+      "durationMs": 215787,
+      "ids": {
+        "appleMusic": "1689610634"
+      }
+    },
+    {
+      "title": "Virtual Insanity (2022 Remastered)",
+      "artist": "Jamiroquai",
+      "album": "High Times: Singles 1992-2006 (2022 Remastered)",
+      "durationMs": 229360,
+      "ids": {
+        "appleMusic": "1641921544"
+      }
+    },
+    {
+      "title": "Only for You",
+      "artist": "Heartless Bastards",
+      "album": "Arrow (10th Anniversary Deluxe Edition)",
+      "durationMs": 308067,
+      "ids": {
+        "appleMusic": "1783190297"
+      }
+    },
+    {
+      "title": "I Feel It Coming (feat. Daft Punk)",
+      "artist": "The Weeknd",
+      "album": "Starboy (Deluxe Video Album)",
+      "durationMs": 269177,
+      "ids": {
+        "appleMusic": "1677049829"
+      }
+    },
+    {
+      "title": "Half Time",
+      "artist": "Amy Winehouse",
+      "album": "Lioness: Hidden Treasures",
+      "durationMs": 233864,
+      "ids": {
+        "appleMusic": "1440810024"
+      }
+    },
+    {
+      "title": "Don't Let Me Be Misunderstood",
+      "artist": "The Animals",
+      "album": "60s",
+      "durationMs": 145693,
+      "ids": {
+        "appleMusic": "1355647253"
+      }
+    },
+    {
+      "title": "All You (feat. Waka Flocka Flame \u0026 Kaskade)",
+      "artist": "The Cataracs",
+      "album": "Gordo Taqueria",
+      "durationMs": 214787,
+      "ids": {
+        "appleMusic": "1443643194"
+      }
+    },
+    {
+      "title": "Promiscuous (feat. Timbaland)",
+      "artist": "Nelly Furtado \u0026 Timbaland",
+      "album": "The Best of Nelly Furtado (Deluxe Version)",
+      "durationMs": 242373,
+      "ids": {
+        "appleMusic": "1440784747"
+      }
+    },
+    {
+      "title": "Rock Your Body",
+      "artist": "Justin Timberlake",
+      "album": "Summer Viral Hits 2022",
+      "durationMs": 267267,
+      "ids": {
+        "appleMusic": "1626009672"
+      }
+    },
+    {
+      "title": "Lady Marmalade (feat. Dinah Eastwood)",
+      "artist": "Os Digitalistas",
+      "album": "Bossa n' Disco",
+      "durationMs": 288810,
+      "ids": {
+        "appleMusic": "477190700"
+      }
+    },
+    {
+      "title": "Sweater Weather",
+      "artist": "The Neighbourhood",
+      "album": "Viral Summer Hits",
+      "durationMs": 240400,
+      "ids": {
+        "appleMusic": "1626029555"
+      }
+    },
+    {
+      "title": "Cool Kids",
+      "artist": "Echosmith",
+      "album": "feel-good pop",
+      "durationMs": 237627,
+      "ids": {
+        "appleMusic": "1823966119"
+      }
+    },
+    {
+      "title": "Pompeii",
+      "artist": "Bastille",
+      "album": "Bad Blood X (10th Anniversary Edition)",
+      "durationMs": 214147,
+      "ids": {
+        "appleMusic": "1710633309"
+      }
+    },
+    {
+      "title": "Two Fingers",
+      "artist": "Jake Bugg",
+      "album": "Jake Bugg",
+      "durationMs": 195987
+    },
+    {
+      "title": "Out Of Control",
+      "artist": "The Rolling Stones",
+      "album": "Bridges To Babylon (2009 Remaster)",
+      "durationMs": 283840,
+      "ids": {
+        "appleMusic": "1440812927"
+      }
+    },
+    {
+      "title": "She's Electric (Remastered)",
+      "artist": "Oasis",
+      "album": "(What's The Story) Morning Glory? (30th Anniversary Deluxe Edition)",
+      "durationMs": 220920,
+      "ids": {
+        "appleMusic": "1821193272"
+      }
+    },
+    {
+      "title": "Grizzly Bear",
+      "artist": "Angus \u0026 Julia Stone",
+      "album": "Angus \u0026 Julia Stone (Bonus Track Version)",
+      "durationMs": 248526,
+      "ids": {
+        "appleMusic": "1440824721"
+      }
+    },
+    {
+      "title": "Valerie",
+      "artist": "The Zutons",
+      "album": "Tired of Hanging Around",
+      "durationMs": 236247,
+      "ids": {
+        "appleMusic": "211460079"
+      }
+    },
+    {
+      "title": "Sweet Disposition",
+      "artist": "The Temper Trap",
+      "album": "Conditions",
+      "durationMs": 234680,
+      "ids": {
+        "appleMusic": "1451856622"
+      }
+    },
+    {
+      "title": "Sun",
+      "artist": "Two Door Cinema Club",
+      "album": "Beacon",
+      "durationMs": 187720,
+      "ids": {
+        "appleMusic": "1684648431"
+      }
+    },
+    {
+      "title": "505",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "durationMs": 253224
+    },
+    {
+      "title": "What Goes Around.../...Comes Around (Interlude)",
+      "artist": "Justin Timberlake",
+      "album": "FutureSex/LoveSounds",
+      "durationMs": 448573,
+      "ids": {
+        "appleMusic": "187666645"
+      }
+    },
+    {
+      "title": "VCR",
+      "artist": "The xx",
+      "album": "xx (Deluxe)",
+      "durationMs": 177093,
+      "ids": {
+        "appleMusic": "1849107793"
+      }
+    },
+    {
+      "title": "XO",
+      "artist": "John Mayer",
+      "album": "Love Soundsation",
+      "durationMs": 213627,
+      "ids": {
+        "appleMusic": "1099743975"
+      }
+    },
+    {
+      "title": "Oh! Sweet Nuthin'",
+      "artist": "The Velvet Underground",
+      "album": "Post - Punk Aesthetic",
+      "durationMs": 445187,
+      "ids": {
+        "appleMusic": "1689179099"
+      }
+    },
+    {
+      "title": "Happy Pills",
+      "artist": "Norah Jones",
+      "album": "Little Broken Hearts (Deluxe Edition)",
+      "durationMs": 214680,
+      "ids": {
+        "appleMusic": "1678202394"
+      }
+    }
+  ]
+}

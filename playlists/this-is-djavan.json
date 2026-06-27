@@ -1,0 +1,437 @@
+{
+  "name": "This Is Djavan",
+  "tracks": [
+    {
+      "title": "Se...",
+      "artist": "Djavan",
+      "album": "Coisa de Acender",
+      "durationMs": 291533,
+      "ids": {
+        "appleMusic": "808278968"
+      }
+    },
+    {
+      "title": "Eu Te Devoro",
+      "artist": "Djavan",
+      "album": "Bicho Solto - O XIII",
+      "durationMs": 298360,
+      "ids": {
+        "appleMusic": "808283546"
+      }
+    },
+    {
+      "title": "Oceano",
+      "artist": "Djavan",
+      "album": "Djavan",
+      "durationMs": 296107,
+      "ids": {
+        "appleMusic": "808275395"
+      }
+    },
+    {
+      "title": "Um Amor Puro",
+      "artist": "Djavan",
+      "album": "Djavan as Melhores",
+      "durationMs": 327000,
+      "ids": {
+        "appleMusic": "1516003941"
+      }
+    },
+    {
+      "title": "Linha do Equador",
+      "artist": "Djavan",
+      "album": "Coisa de Acender",
+      "durationMs": 273307,
+      "ids": {
+        "appleMusic": "808278969"
+      }
+    },
+    {
+      "title": "Uma Brasileira",
+      "artist": "Os Paralamas do Sucesso \u0026 Djavan",
+      "album": "Vamo Batê Lata: Paralamas - EP",
+      "durationMs": 219488,
+      "ids": {
+        "appleMusic": "1442511030"
+      }
+    },
+    {
+      "title": "Samurai",
+      "artist": "Djavan \u0026 Stevie Wonder",
+      "album": "Luz",
+      "durationMs": 288427,
+      "ids": {
+        "appleMusic": "808269837"
+      }
+    },
+    {
+      "title": "Flor de Lis",
+      "artist": "Djavan",
+      "album": "A Voz e o Violão",
+      "durationMs": 225267,
+      "ids": {
+        "appleMusic": "379515281"
+      }
+    },
+    {
+      "title": "Nem um Dia",
+      "artist": "Djavan",
+      "album": "Malásia",
+      "durationMs": 346267,
+      "ids": {
+        "appleMusic": "808282026"
+      }
+    },
+    {
+      "title": "Azul (Ao Vivo)",
+      "artist": "Djavan",
+      "album": "Djavan - Ao Vivo (Duplo)",
+      "durationMs": 259067,
+      "ids": {
+        "appleMusic": "808755031"
+      }
+    },
+    {
+      "title": "Sina",
+      "artist": "Djavan",
+      "album": "Luz",
+      "durationMs": 332133,
+      "ids": {
+        "appleMusic": "808269842"
+      }
+    },
+    {
+      "title": "Lilás",
+      "artist": "Djavan",
+      "album": "Lilás",
+      "durationMs": 283133,
+      "ids": {
+        "appleMusic": "808272914"
+      }
+    },
+    {
+      "title": "Final Feliz",
+      "artist": "Jorge Vercillo",
+      "album": "Final Feliz - Single",
+      "durationMs": 228093,
+      "ids": {
+        "appleMusic": "726129239"
+      }
+    },
+    {
+      "title": "Meu Bem-Querer (Ao Vivo)",
+      "artist": "Djavan",
+      "album": "Djavan - Ao Vivo (Duplo)",
+      "durationMs": 254800,
+      "ids": {
+        "appleMusic": "808755032"
+      }
+    },
+    {
+      "title": "Outono",
+      "artist": "Melim \u0026 Djavan",
+      "album": "Deixa Vir Do Coração",
+      "durationMs": 204007,
+      "ids": {
+        "appleMusic": "1570542949"
+      }
+    },
+    {
+      "title": "Pétala",
+      "artist": "Djavan",
+      "album": "Luz",
+      "durationMs": 283240,
+      "ids": {
+        "appleMusic": "808269843"
+      }
+    },
+    {
+      "title": "Vive",
+      "artist": "Djavan",
+      "album": "Rua dos Amores",
+      "durationMs": 322267,
+      "ids": {
+        "appleMusic": "1772425604"
+      }
+    },
+    {
+      "title": "Avião",
+      "artist": "Djavan",
+      "album": "Djavan",
+      "durationMs": 224107,
+      "ids": {
+        "appleMusic": "808275405"
+      }
+    },
+    {
+      "title": "Boa Noite",
+      "artist": "Djavan",
+      "album": "Coisa de Acender",
+      "durationMs": 347893,
+      "ids": {
+        "appleMusic": "808278967"
+      }
+    },
+    {
+      "title": "Fato Consumado",
+      "artist": "Djavan",
+      "album": "A Voz e o Violão",
+      "durationMs": 152760,
+      "ids": {
+        "appleMusic": "379515396"
+      }
+    },
+    {
+      "title": "Açaí",
+      "artist": "Djavan",
+      "album": "Luz",
+      "durationMs": 278333,
+      "ids": {
+        "appleMusic": "808269845"
+      }
+    },
+    {
+      "title": "Cigano",
+      "artist": "Djavan",
+      "album": "Djavan",
+      "durationMs": 284933,
+      "ids": {
+        "appleMusic": "808275404"
+      }
+    },
+    {
+      "title": "Acelerou",
+      "artist": "Djavan",
+      "album": "Na Pista, Etc.",
+      "durationMs": 302280,
+      "ids": {
+        "appleMusic": "1772425389"
+      }
+    },
+    {
+      "title": "Miragem",
+      "artist": "Djavan",
+      "album": "Lilás",
+      "durationMs": 233533,
+      "ids": {
+        "appleMusic": "808272919"
+      }
+    },
+    {
+      "title": "Tenha Calma / Sem Você (Citação) [Ao Vivo]",
+      "artist": "Djavan",
+      "album": "D Ao Vivo Maceió",
+      "durationMs": 272529,
+      "ids": {
+        "appleMusic": "1738523752"
+      }
+    },
+    {
+      "title": "Mal de Mim",
+      "artist": "Djavan",
+      "album": "Djavan",
+      "durationMs": 197973,
+      "ids": {
+        "appleMusic": "808275407"
+      }
+    },
+    {
+      "title": "Flor do Medo",
+      "artist": "Djavan",
+      "album": "Vaidade",
+      "durationMs": 275693,
+      "ids": {
+        "appleMusic": "1772425289"
+      }
+    },
+    {
+      "title": "Só Eu Sei",
+      "artist": "BK",
+      "album": "Diamantes, Lágrimas e Rostos para Esquecer",
+      "durationMs": 220219,
+      "ids": {
+        "appleMusic": "1792341557"
+      }
+    },
+    {
+      "title": "Você Bem Sabe",
+      "artist": "Djavan",
+      "album": "Djavan",
+      "durationMs": 192627,
+      "ids": {
+        "appleMusic": "808275406"
+      }
+    },
+    {
+      "title": "Um Brinde",
+      "artist": "Djavan",
+      "album": "Improviso",
+      "durationMs": 336726,
+      "ids": {
+        "appleMusic": "1852104428"
+      }
+    },
+    {
+      "title": "Faltando um Pedaço (Ao Vivo)",
+      "artist": "Djavan",
+      "album": "Djavan - Ao Vivo (Duplo)",
+      "durationMs": 267760,
+      "ids": {
+        "appleMusic": "808755043"
+      }
+    },
+    {
+      "title": "Correnteza",
+      "artist": "Djavan",
+      "album": "Malásia",
+      "durationMs": 284640,
+      "ids": {
+        "appleMusic": "808282042"
+      }
+    },
+    {
+      "title": "Falta Ralar!",
+      "artist": "Djavan",
+      "album": "Improviso",
+      "durationMs": 277017,
+      "ids": {
+        "appleMusic": "1852104408"
+      }
+    },
+    {
+      "title": "Ventos do Norte (Ao Vivo)",
+      "artist": "Djavan",
+      "album": "D Ao Vivo Maceió",
+      "durationMs": 186919,
+      "ids": {
+        "appleMusic": "1738523418"
+      }
+    },
+    {
+      "title": "Amar É Tudo (Ao Vivo)",
+      "artist": "Djavan",
+      "album": "Djavan - Ao Vivo (Duplo)",
+      "durationMs": 212667,
+      "ids": {
+        "appleMusic": "808755042"
+      }
+    },
+    {
+      "title": "Vesúvio",
+      "artist": "Djavan",
+      "album": "Vesúvio",
+      "durationMs": 218760,
+      "ids": {
+        "appleMusic": "1777951904"
+      }
+    },
+    {
+      "title": "Improviso",
+      "artist": "Djavan",
+      "album": "Improviso",
+      "durationMs": 286593,
+      "ids": {
+        "appleMusic": "1852104403"
+      }
+    },
+    {
+      "title": "Serrado",
+      "artist": "Djavan",
+      "album": "Djavan",
+      "durationMs": 212760,
+      "ids": {
+        "appleMusic": "1728139391"
+      }
+    },
+    {
+      "title": "Capim",
+      "artist": "Djavan",
+      "album": "Luz",
+      "durationMs": 257160,
+      "ids": {
+        "appleMusic": "808269841"
+      }
+    },
+    {
+      "title": "Não É um Bolero",
+      "artist": "Djavan",
+      "album": "Vidas Pra Contar",
+      "durationMs": 261642,
+      "ids": {
+        "appleMusic": "1772425735"
+      }
+    },
+    {
+      "title": "O Vento",
+      "artist": "Djavan",
+      "album": "Improviso",
+      "durationMs": 296774,
+      "ids": {
+        "appleMusic": "1852104399"
+      }
+    },
+    {
+      "title": "Milagreiro",
+      "artist": "Djavan \u0026 Cássia Eller",
+      "album": "Milagreiro",
+      "durationMs": 344453,
+      "ids": {
+        "appleMusic": "808749256"
+      }
+    },
+    {
+      "title": "Solitude",
+      "artist": "Djavan",
+      "album": "Vesúvio",
+      "durationMs": 191442,
+      "ids": {
+        "appleMusic": "1777951906"
+      }
+    },
+    {
+      "title": "Lambada de Serpente",
+      "artist": "Djavan",
+      "album": "Alumbramento / Djavan",
+      "durationMs": 175973,
+      "ids": {
+        "appleMusic": "725791169"
+      }
+    },
+    {
+      "title": "Seduzir",
+      "artist": "Djavan",
+      "album": "Seduzir",
+      "durationMs": 215227,
+      "ids": {
+        "appleMusic": "713990954"
+      }
+    },
+    {
+      "title": "Sorri (Smile)",
+      "artist": "Djavan",
+      "album": "Malásia",
+      "durationMs": 199093,
+      "ids": {
+        "appleMusic": "808282041"
+      }
+    },
+    {
+      "title": "Nereci",
+      "artist": "Djavan \u0026 Marizinha",
+      "album": "Djavan",
+      "durationMs": 199800,
+      "ids": {
+        "appleMusic": "1728139764"
+      }
+    },
+    {
+      "title": "Num Mundo de Paz",
+      "artist": "Djavan",
+      "album": "D",
+      "durationMs": 342672,
+      "ids": {
+        "appleMusic": "1637538636"
+      }
+    }
+  ]
+}

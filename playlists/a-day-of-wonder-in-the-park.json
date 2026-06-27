@@ -1,0 +1,392 @@
+{
+  "name": "a day of wonder in the park",
+  "tracks": [
+    {
+      "title": "Make You Feel My Love",
+      "artist": "Adele",
+      "album": "19 (Deluxe Edition)",
+      "durationMs": 212040,
+      "ids": {
+        "appleMusic": "295832779"
+      }
+    },
+    {
+      "title": "When We Were Young",
+      "artist": "Adele",
+      "album": "25",
+      "durationMs": 290900,
+      "ids": {
+        "appleMusic": "1051333208"
+      }
+    },
+    {
+      "title": "Warm Foothills",
+      "artist": "alt-J",
+      "album": "This Is All Yours",
+      "durationMs": 225018,
+      "ids": {
+        "appleMusic": "1620183342"
+      }
+    },
+    {
+      "title": "Never Come Back Again",
+      "artist": "Austin Plaine",
+      "album": "Happy Folk Songs",
+      "durationMs": 196240,
+      "ids": {
+        "appleMusic": "1825222379"
+      }
+    },
+    {
+      "title": "The Other Side of Town",
+      "artist": "Austin Plaine",
+      "album": "Austin Plaine",
+      "durationMs": 187730,
+      "ids": {
+        "appleMusic": "1440932160"
+      }
+    },
+    {
+      "title": "The Hell If I Go Home",
+      "artist": "Austin Plaine",
+      "album": "Happy Folk Songs",
+      "durationMs": 223920,
+      "ids": {
+        "appleMusic": "1825222386"
+      }
+    },
+    {
+      "title": "Even the Darkness Has Arms",
+      "artist": "The Barr Brothers",
+      "album": "Sleeping Operator",
+      "durationMs": 230518,
+      "ids": {
+        "appleMusic": "890650370"
+      }
+    },
+    {
+      "title": "Chevy-Bike",
+      "artist": "The Collective West",
+      "album": "Fire \u0026 the Ocean",
+      "durationMs": 241307,
+      "ids": {
+        "appleMusic": "576226401"
+      }
+    },
+    {
+      "title": "Serious Case",
+      "artist": "The Collective West",
+      "album": "Fire \u0026 the Ocean",
+      "durationMs": 217360,
+      "ids": {
+        "appleMusic": "576226406"
+      }
+    },
+    {
+      "title": "Fall into Forever",
+      "artist": "Daughter of the Moon",
+      "album": "Daughter of the Moon - EP",
+      "durationMs": 288573,
+      "ids": {
+        "appleMusic": "1434501669"
+      }
+    },
+    {
+      "title": "Hummingbird and the Wolf",
+      "artist": "Daughter of the Moon",
+      "album": "Daughter of the Moon - EP",
+      "durationMs": 247253,
+      "ids": {
+        "appleMusic": "1434501670"
+      }
+    },
+    {
+      "title": "Society",
+      "artist": "Eddie Vedder",
+      "album": "Earthling Expansion: The Calm Cuts",
+      "durationMs": 236307,
+      "ids": {
+        "appleMusic": "1623272737"
+      }
+    },
+    {
+      "title": "Elise",
+      "artist": "The Greeting Committee",
+      "album": "Rainy Day Vibes",
+      "durationMs": 254750,
+      "ids": {
+        "appleMusic": "1620921002"
+      }
+    },
+    {
+      "title": "Cherry",
+      "artist": "Harry Styles",
+      "album": "Fine Line",
+      "durationMs": 259180,
+      "ids": {
+        "appleMusic": "1485802974"
+      }
+    },
+    {
+      "title": "Canyon Moon",
+      "artist": "Harry Styles",
+      "album": "Fine Line",
+      "durationMs": 189784,
+      "ids": {
+        "appleMusic": "1485802980"
+      }
+    },
+    {
+      "title": "I'm so in Love with You (feat. Seth Avett)",
+      "artist": "Jill Andrews",
+      "album": "The War Inside",
+      "durationMs": 226967,
+      "ids": {
+        "appleMusic": "1029923745"
+      }
+    },
+    {
+      "title": "Automobile",
+      "artist": "KALEO",
+      "album": "The Great Outdoors",
+      "durationMs": 186907,
+      "ids": {
+        "appleMusic": "1683289750"
+      }
+    },
+    {
+      "title": "Ends of the Earth",
+      "artist": "Lord Huron",
+      "album": "Lonesome Dreams (Bonus Track Version)",
+      "durationMs": 284147,
+      "ids": {
+        "appleMusic": "1758066417"
+      }
+    },
+    {
+      "title": "In The Wind",
+      "artist": "Lord Huron",
+      "album": "Lonesome Dreams (Bonus Track Version)",
+      "durationMs": 299360,
+      "ids": {
+        "appleMusic": "1758066908"
+      }
+    },
+    {
+      "title": "Gale Song",
+      "artist": "The Lumineers",
+      "album": "Cleopatra (Deluxe Edition)",
+      "durationMs": 193720,
+      "ids": {
+        "appleMusic": "1754025133"
+      }
+    },
+    {
+      "title": "Life in the City",
+      "artist": "The Lumineers",
+      "album": "III",
+      "durationMs": 231360,
+      "ids": {
+        "appleMusic": "1458527340"
+      }
+    },
+    {
+      "title": "Slow It Down",
+      "artist": "The Lumineers",
+      "album": "The Lumineers",
+      "durationMs": 307000,
+      "ids": {
+        "appleMusic": "1754219316"
+      }
+    },
+    {
+      "title": "The Boxer (feat. Mumford \u0026 Sons \u0026 Paul Simon)",
+      "artist": "Jerry Douglas",
+      "album": "Babel (Deluxe)",
+      "durationMs": 245229,
+      "ids": {
+        "appleMusic": "1440807310"
+      }
+    },
+    {
+      "title": "Timshel",
+      "artist": "Mumford \u0026 Sons",
+      "album": "Sigh No More",
+      "durationMs": 173413,
+      "ids": {
+        "appleMusic": "1440751168"
+      }
+    },
+    {
+      "title": "After the Storm",
+      "artist": "Mumford \u0026 Sons",
+      "album": "Sigh No More",
+      "durationMs": 247880,
+      "ids": {
+        "appleMusic": "1440751409"
+      }
+    },
+    {
+      "title": "Challengers",
+      "artist": "The New Pornographers",
+      "album": "Challengers",
+      "durationMs": 211533,
+      "ids": {
+        "appleMusic": "1589232738"
+      }
+    },
+    {
+      "title": "The Motherlode",
+      "artist": "The Staves",
+      "album": "The Motherlode - Single",
+      "durationMs": 267176,
+      "ids": {
+        "appleMusic": "512566053"
+      }
+    },
+    {
+      "title": "Facing West",
+      "artist": "The Staves",
+      "album": "Dead \u0026 Born \u0026 Grown",
+      "durationMs": 159533,
+      "ids": {
+        "appleMusic": "574887648"
+      }
+    },
+    {
+      "title": "Dead \u0026 Born \u0026 Grown",
+      "artist": "The Staves",
+      "album": "Dead \u0026 Born \u0026 Grown",
+      "durationMs": 173147,
+      "ids": {
+        "appleMusic": "574887710"
+      }
+    },
+    {
+      "title": "Spirit Cold",
+      "artist": "Tall Heights",
+      "album": "Holding On, Holding Out - EP",
+      "durationMs": 218760,
+      "ids": {
+        "appleMusic": "6778082291"
+      }
+    },
+    {
+      "title": "The Hollow",
+      "artist": "Tall Heights",
+      "album": "Rafters - EP",
+      "durationMs": 332501,
+      "ids": {
+        "appleMusic": "1521902541"
+      }
+    },
+    {
+      "title": "Your Way Is the Way Home",
+      "artist": "Tired Pony",
+      "album": "The Ghost of the Mountain",
+      "durationMs": 256160,
+      "ids": {
+        "appleMusic": "1444038756"
+      }
+    },
+    {
+      "title": "Gently",
+      "artist": "You+Me",
+      "album": "rose ave.",
+      "durationMs": 212903,
+      "ids": {
+        "appleMusic": "916315761"
+      }
+    },
+    {
+      "title": "Unbeliever",
+      "artist": "You+Me",
+      "album": "rose ave.",
+      "durationMs": 221294,
+      "ids": {
+        "appleMusic": "916318992"
+      }
+    },
+    {
+      "title": "Open Door",
+      "artist": "You+Me",
+      "album": "rose ave.",
+      "durationMs": 221226,
+      "ids": {
+        "appleMusic": "916319010"
+      }
+    },
+    {
+      "title": "Weston (Live)",
+      "artist": "The Low \u0026 Plenty",
+      "album": "Modest House Sessions (Live at the Grand Stafford Theater) - Single",
+      "durationMs": 288299,
+      "ids": {
+        "appleMusic": "1496906335"
+      }
+    },
+    {
+      "title": "Saints (Live)",
+      "artist": "The Low \u0026 Plenty",
+      "album": "Modest House Sessions (Live at the Grand Stafford Theater) - Single",
+      "durationMs": 199837,
+      "ids": {
+        "appleMusic": "1496906342"
+      }
+    },
+    {
+      "title": "Don't Wanna Run (Live)",
+      "artist": "The Low \u0026 Plenty",
+      "album": "Modest House Sessions (Live at the Grand Stafford Theater) - Single",
+      "durationMs": 313005,
+      "ids": {
+        "appleMusic": "1496906343"
+      }
+    },
+    {
+      "title": "Dreams",
+      "artist": "Fleetwood Mac",
+      "album": "Rumours (Deluxe Edition)",
+      "durationMs": 257800,
+      "ids": {
+        "appleMusic": "651871679"
+      }
+    },
+    {
+      "title": "Seven Wonders (2017 Remaster)",
+      "artist": "Fleetwood Mac",
+      "album": "Fleetwood Mac 1975 to 1987",
+      "durationMs": 222400,
+      "ids": {
+        "appleMusic": "1792535938"
+      }
+    },
+    {
+      "title": "Rhiannon",
+      "artist": "Fleetwood Mac",
+      "album": "Fleetwood Mac",
+      "durationMs": 252773,
+      "ids": {
+        "appleMusic": "309646664"
+      }
+    },
+    {
+      "title": "Mystery of Love",
+      "artist": "Sufjan Stevens",
+      "album": "Call Me By Your Name (Original Motion Picture Soundtrack)",
+      "durationMs": 248965,
+      "ids": {
+        "appleMusic": "1304616729"
+      }
+    },
+    {
+      "title": "Strawberry Blond",
+      "artist": "Mitski",
+      "album": "Retired from Sad, New Career in Business",
+      "durationMs": 114277,
+      "ids": {
+        "appleMusic": "1635189059"
+      }
+    }
+  ]
+}

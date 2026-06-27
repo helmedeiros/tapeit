@@ -1,0 +1,353 @@
+{
+  "name": "007 Spectre",
+  "tracks": [
+    {
+      "title": "Writing's On The Wall (From \"Spectre\" Soundtrack)",
+      "artist": "Sam Smith",
+      "album": "PRIDE: Celebrate Love",
+      "durationMs": 278987,
+      "ids": {
+        "appleMusic": "1751829982"
+      }
+    },
+    {
+      "title": "Goldfinger",
+      "artist": "Shirley Bassey",
+      "album": "60er Pop Hits",
+      "durationMs": 168733,
+      "ids": {
+        "appleMusic": "1563890828"
+      }
+    },
+    {
+      "title": "Skyfall",
+      "artist": "Adele",
+      "album": "Skyfall - Single",
+      "durationMs": 286082,
+      "ids": {
+        "appleMusic": "566322365"
+      }
+    },
+    {
+      "title": "Live and Let Die",
+      "artist": "Paul McCartney \u0026 Wings",
+      "album": "All The Best (UK Version)",
+      "durationMs": 191493,
+      "ids": {
+        "appleMusic": "1440942228"
+      }
+    },
+    {
+      "title": "Another Way to Die",
+      "artist": "Jack White \u0026 Alicia Keys",
+      "album": "Movie Hits",
+      "durationMs": 262733,
+      "ids": {
+        "appleMusic": "1308707078"
+      }
+    },
+    {
+      "title": "The World Is Not Enough",
+      "artist": "Garbage",
+      "album": "The World Is Not Enough - Single",
+      "durationMs": 237733,
+      "ids": {
+        "appleMusic": "1644906907"
+      }
+    },
+    {
+      "title": "Goldeneye (Single Edit)",
+      "artist": "Tina Turner",
+      "album": "90s Essence",
+      "durationMs": 209907,
+      "ids": {
+        "appleMusic": "1794520509"
+      }
+    },
+    {
+      "title": "You Know My Name",
+      "artist": "Chris Cornell",
+      "album": "Carry On",
+      "durationMs": 240120,
+      "ids": {
+        "appleMusic": "1440655757"
+      }
+    },
+    {
+      "title": "For Your Eyes Only",
+      "artist": "Sheena Easton",
+      "album": "You Could Have Been With Me (Bonus Tracks Version)",
+      "durationMs": 184480,
+      "ids": {
+        "appleMusic": "735021066"
+      }
+    },
+    {
+      "title": "Thunderball",
+      "artist": "Tom Jones",
+      "album": "Glanzlichter: Tom Jones",
+      "durationMs": 171907,
+      "ids": {
+        "appleMusic": "1442683049"
+      }
+    },
+    {
+      "title": "Tomorrow Never Dies",
+      "artist": "Sheryl Crow",
+      "album": "Tomorrow Never Dies (Soundtrack)",
+      "durationMs": 291267,
+      "ids": {
+        "appleMusic": "1443099573"
+      }
+    },
+    {
+      "title": "A View to a Kill",
+      "artist": "Duran Duran",
+      "album": "The Singles 1986-1995",
+      "durationMs": 217693,
+      "ids": {
+        "appleMusic": "1759062325"
+      }
+    },
+    {
+      "title": "We Have All the Time in the World",
+      "artist": "Louis Armstrong",
+      "album": "Pure Jazz",
+      "durationMs": 193973,
+      "ids": {
+        "appleMusic": "696552585"
+      }
+    },
+    {
+      "title": "Nobody Does It Better (From \"The Spy Who Loved Me\" Soundtrack)",
+      "artist": "Carly Simon",
+      "album": "Spy Detective Music",
+      "durationMs": 212667,
+      "ids": {
+        "appleMusic": "1874771760"
+      }
+    },
+    {
+      "title": "The Living Daylights",
+      "artist": "a-ha",
+      "album": "Stay On These Roads",
+      "durationMs": 286000,
+      "ids": {
+        "appleMusic": "300947022"
+      }
+    },
+    {
+      "title": "Die Another Day",
+      "artist": "Madonna",
+      "album": "Celebration (Deluxe Video Edition)",
+      "durationMs": 276987,
+      "ids": {
+        "appleMusic": "329064739"
+      }
+    },
+    {
+      "title": "Street Life",
+      "artist": "The Crusaders",
+      "album": "The Crusaders' Finest Hour",
+      "durationMs": 673600,
+      "ids": {
+        "appleMusic": "1443115753"
+      }
+    },
+    {
+      "title": "Who Can You Trust",
+      "artist": "Ivy Levan",
+      "album": "Spy (Original Soundtrack Album)",
+      "durationMs": 282893,
+      "ids": {
+        "appleMusic": "1501765052"
+      }
+    },
+    {
+      "title": "Soul Bossa Nova",
+      "artist": "Quincy Jones and His Orchestra",
+      "album": "Quincy Jones's Finest Hour",
+      "durationMs": 167107,
+      "ids": {
+        "appleMusic": "1434910446"
+      }
+    },
+    {
+      "title": "La Llorona",
+      "artist": "Chavela Vargas",
+      "album": "2 de noviembre",
+      "durationMs": 511333,
+      "ids": {
+        "appleMusic": "1712843828"
+      }
+    },
+    {
+      "title": "The James Bond Theme (From \"Dr. No\")",
+      "artist": "John Barry",
+      "album": "Movie Hits",
+      "durationMs": 173093,
+      "ids": {
+        "appleMusic": "1308707141"
+      }
+    },
+    {
+      "title": "James Bond Theme (Moby's Re-Version) [2006 Remaster]",
+      "artist": "Moby",
+      "album": "Go - The Very Best of Moby",
+      "durationMs": 191400,
+      "ids": {
+        "appleMusic": "1444741177"
+      }
+    },
+    {
+      "title": "Live And Let Die (2022 Remaster)",
+      "artist": "Guns N' Roses",
+      "album": "Use Your Illusion I (Deluxe Edition)",
+      "durationMs": 183387,
+      "ids": {
+        "appleMusic": "1644782459"
+      }
+    },
+    {
+      "title": "Glory Box",
+      "artist": "Portishead",
+      "album": "romanticizing school",
+      "durationMs": 308627,
+      "ids": {
+        "appleMusic": "1734312911"
+      }
+    },
+    {
+      "title": "Take Care of Business",
+      "artist": "Nina Simone",
+      "album": "Feeling Good: Her Greatest Hits \u0026 Remixes",
+      "durationMs": 125811,
+      "ids": {
+        "appleMusic": "1584419696"
+      }
+    },
+    {
+      "title": "Dreams",
+      "artist": "Beck",
+      "album": "Colors",
+      "durationMs": 314487,
+      "ids": {
+        "appleMusic": "1440881782"
+      }
+    },
+    {
+      "title": "Funky Drummer (Pts.1 \u0026 2 / Edit)",
+      "artist": "James Brown",
+      "album": "Star Time",
+      "durationMs": 421307,
+      "ids": {
+        "appleMusic": "1793519759"
+      }
+    },
+    {
+      "title": "I Spy",
+      "artist": "Pulp, Anne Dudley \u0026 Orchestra",
+      "album": "Different Class",
+      "durationMs": 355240,
+      "ids": {
+        "appleMusic": "1440924231"
+      }
+    },
+    {
+      "title": "Espionage",
+      "artist": "Green Day",
+      "album": "Shenanigans",
+      "durationMs": 203333,
+      "ids": {
+        "appleMusic": "5132751"
+      }
+    },
+    {
+      "title": "Sabotage",
+      "artist": "Beastie Boys",
+      "album": "Ill Communication",
+      "durationMs": 178440,
+      "ids": {
+        "appleMusic": "724771987"
+      }
+    },
+    {
+      "title": "Love Is the Drug",
+      "artist": "Roxy Music",
+      "album": "The Thrill of It All",
+      "durationMs": 246493,
+      "ids": {
+        "appleMusic": "714827009"
+      }
+    },
+    {
+      "title": "The Look of Love",
+      "artist": "Dusty Springfield",
+      "album": "20th Century Masters - The Millennium Collection: The Best of Dusty Springfield",
+      "durationMs": 216107,
+      "ids": {
+        "appleMusic": "1440923494"
+      }
+    },
+    {
+      "title": "The Masterplan",
+      "artist": "Oasis",
+      "album": "The Masterplan",
+      "durationMs": 322640
+    },
+    {
+      "title": "Edit",
+      "artist": "Regina Spektor",
+      "album": "100% Indie",
+      "durationMs": 291200,
+      "ids": {
+        "appleMusic": "1610194907"
+      }
+    },
+    {
+      "title": "Blue Velvet",
+      "artist": "Lana Del Rey",
+      "album": "Etheral Life",
+      "durationMs": 158654,
+      "ids": {
+        "appleMusic": "1693503519"
+      }
+    },
+    {
+      "title": "Treat Me Like Your Mother",
+      "artist": "The Dead Weather",
+      "album": "Horehound",
+      "durationMs": 250302,
+      "ids": {
+        "appleMusic": "320973994"
+      }
+    },
+    {
+      "title": "From Russia with Love",
+      "artist": "Matt Monro",
+      "album": "Matt Monroe Sings",
+      "durationMs": 156907,
+      "ids": {
+        "appleMusic": "1272713449"
+      }
+    },
+    {
+      "title": "Diamonds Are Forever",
+      "artist": "Shirley Bassey",
+      "album": "15 Classic Tracks",
+      "durationMs": 161933,
+      "ids": {
+        "appleMusic": "693524248"
+      }
+    },
+    {
+      "title": "Long Cool Woman (In a Black Dress)",
+      "artist": "The Hollies",
+      "album": "The Air That I Breathe: The Very Best of The Hollies",
+      "durationMs": 197133,
+      "ids": {
+        "appleMusic": "697418491"
+      }
+    }
+  ]
+}

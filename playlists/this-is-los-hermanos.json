@@ -1,0 +1,247 @@
+{
+  "name": "This Is Los Hermanos",
+  "tracks": [
+    {
+      "title": "Anna Júlia",
+      "artist": "Los Hermanos"
+    },
+    {
+      "title": "Melhor Que Ontem",
+      "artist": "Djonga"
+    },
+    {
+      "title": "Último Romance",
+      "artist": "Los Hermanos",
+      "album": "Ventura",
+      "durationMs": 263440,
+      "ids": {
+        "appleMusic": "311097658"
+      }
+    },
+    {
+      "title": "O Vento",
+      "artist": "Los Hermanos",
+      "album": "4",
+      "durationMs": 213867,
+      "ids": {
+        "appleMusic": "401849501"
+      }
+    },
+    {
+      "title": "Sentimental",
+      "artist": "Los Hermanos",
+      "album": "Bloco do Eu Sozinho",
+      "durationMs": 310093,
+      "ids": {
+        "appleMusic": "375340406"
+      }
+    },
+    {
+      "title": "Primavera",
+      "artist": "Los Hermanos",
+      "album": "Los Hermanos",
+      "durationMs": 261973,
+      "ids": {
+        "appleMusic": "321827512"
+      }
+    },
+    {
+      "title": "O Vencedor",
+      "artist": "Los Hermanos",
+      "album": "Ventura",
+      "durationMs": 200027,
+      "ids": {
+        "appleMusic": "311097656"
+      }
+    },
+    {
+      "title": "Morena",
+      "artist": "Los Hermanos",
+      "album": "4",
+      "durationMs": 178947,
+      "ids": {
+        "appleMusic": "401849495"
+      }
+    },
+    {
+      "title": "A Flor",
+      "artist": "Los Hermanos",
+      "album": "Bloco do Eu Sozinho",
+      "durationMs": 207467,
+      "ids": {
+        "appleMusic": "375340343"
+      }
+    },
+    {
+      "title": "Quem Sabe",
+      "artist": "Los Hermanos",
+      "album": "Los Hermanos",
+      "durationMs": 152586,
+      "ids": {
+        "appleMusic": "321827508"
+      }
+    },
+    {
+      "title": "O Velho e o Moço",
+      "artist": "Los Hermanos",
+      "album": "Ventura",
+      "durationMs": 243000,
+      "ids": {
+        "appleMusic": "311097665"
+      }
+    },
+    {
+      "title": "Condicional",
+      "artist": "Los Hermanos",
+      "album": "4",
+      "durationMs": 208187,
+      "ids": {
+        "appleMusic": "401849511"
+      }
+    },
+    {
+      "title": "Retrato Pra Iaiá",
+      "artist": "Los Hermanos",
+      "album": "Bloco do Eu Sozinho",
+      "durationMs": 238013,
+      "ids": {
+        "appleMusic": "375340358"
+      }
+    },
+    {
+      "title": "Corre Corre",
+      "artist": "Los Hermanos",
+      "album": "Corre Corre - Single",
+      "durationMs": 193243,
+      "ids": {
+        "appleMusic": "1458107344"
+      }
+    },
+    {
+      "title": "Conversa de Botas Batidas",
+      "artist": "Los Hermanos",
+      "album": "Ventura",
+      "durationMs": 240800,
+      "ids": {
+        "appleMusic": "311097669"
+      }
+    },
+    {
+      "title": "Tenha Dó",
+      "artist": "Los Hermanos",
+      "album": "Los Hermanos",
+      "durationMs": 207185,
+      "ids": {
+        "appleMusic": "321827504"
+      }
+    },
+    {
+      "title": "Todo Carnaval Tem Seu Fim",
+      "artist": "Los Hermanos",
+      "album": "Bloco do Eu Sozinho",
+      "durationMs": 264773,
+      "ids": {
+        "appleMusic": "375340333"
+      }
+    },
+    {
+      "title": "Primeiro Andar",
+      "artist": "Los Hermanos",
+      "album": "4",
+      "durationMs": 258093,
+      "ids": {
+        "appleMusic": "401849476"
+      }
+    },
+    {
+      "title": "Do Sétimo Andar",
+      "artist": "Los Hermanos",
+      "album": "Ventura",
+      "durationMs": 226947,
+      "ids": {
+        "appleMusic": "311097660"
+      }
+    },
+    {
+      "title": "Lágrimas Sofridas",
+      "artist": "Los Hermanos",
+      "album": "Box - Los Hermanos",
+      "durationMs": 107560,
+      "ids": {
+        "appleMusic": "516392851"
+      }
+    },
+    {
+      "title": "Casa Pré-Fabricada",
+      "artist": "Los Hermanos",
+      "album": "Bloco do Eu Sozinho",
+      "durationMs": 176213,
+      "ids": {
+        "appleMusic": "375340374"
+      }
+    },
+    {
+      "title": "Pois é",
+      "artist": "Los Hermanos",
+      "album": "4",
+      "durationMs": 204027,
+      "ids": {
+        "appleMusic": "401849517"
+      }
+    },
+    {
+      "title": "Samba a Dois",
+      "artist": "Los Hermanos",
+      "album": "Ventura",
+      "durationMs": 197907,
+      "ids": {
+        "appleMusic": "311097655"
+      }
+    },
+    {
+      "title": "Pierrot",
+      "artist": "Los Hermanos",
+      "album": "Los Hermanos",
+      "durationMs": 167431,
+      "ids": {
+        "appleMusic": "321827509"
+      }
+    },
+    {
+      "title": "Veja Bem Meu Bem",
+      "artist": "Los Hermanos",
+      "album": "Bloco do Eu Sozinho",
+      "durationMs": 281040,
+      "ids": {
+        "appleMusic": "375340470"
+      }
+    },
+    {
+      "title": "Paquetá",
+      "artist": "Los Hermanos",
+      "album": "4",
+      "durationMs": 178533,
+      "ids": {
+        "appleMusic": "401849485"
+      }
+    },
+    {
+      "title": "Anna Júlia - Ao Vivo",
+      "artist": "Los Hermanos",
+      "album": "Los Hermanos 2019 (Ao Vivo)",
+      "durationMs": 214867,
+      "ids": {
+        "appleMusic": "1511625870"
+      }
+    },
+    {
+      "title": "Retrato para Iaiá - Ao Vivo",
+      "artist": "Los Hermanos",
+      "album": "Box - Los Hermanos",
+      "durationMs": 225893,
+      "ids": {
+        "appleMusic": "516393775"
+      }
+    }
+  ]
+}

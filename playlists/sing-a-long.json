@@ -1,0 +1,4940 @@
+{
+  "name": "sing-a-long",
+  "tracks": [
+    {
+      "title": "Karen",
+      "artist": "The National",
+      "album": "Alligator",
+      "durationMs": 239120,
+      "ids": {
+        "appleMusic": "1028833839"
+      }
+    },
+    {
+      "title": "All the Wine",
+      "artist": "The National",
+      "album": "Alligator",
+      "durationMs": 195320,
+      "ids": {
+        "appleMusic": "1028833848"
+      }
+    },
+    {
+      "title": "Mr. November",
+      "artist": "The National",
+      "album": "Alligator",
+      "durationMs": 240493,
+      "ids": {
+        "appleMusic": "1028833853"
+      }
+    },
+    {
+      "title": "Murder Me Rachael (Live)",
+      "artist": "The National",
+      "album": "Cherry Tree",
+      "durationMs": 216800,
+      "ids": {
+        "appleMusic": "1491416891"
+      }
+    },
+    {
+      "title": "Beautiful Head",
+      "artist": "The National",
+      "album": "The National",
+      "durationMs": 188400,
+      "ids": {
+        "appleMusic": "1491569318"
+      }
+    },
+    {
+      "title": "The Perfect Song",
+      "artist": "The National",
+      "album": "The National",
+      "durationMs": 195200,
+      "ids": {
+        "appleMusic": "1491569324"
+      }
+    },
+    {
+      "title": "Pay for Me",
+      "artist": "The National",
+      "album": "The National",
+      "durationMs": 202640,
+      "ids": {
+        "appleMusic": "1491569327"
+      }
+    },
+    {
+      "title": "Bitters \u0026 Absolut",
+      "artist": "The National",
+      "album": "The National",
+      "durationMs": 240027,
+      "ids": {
+        "appleMusic": "1491569328"
+      }
+    },
+    {
+      "title": "Apartment Story",
+      "artist": "The National",
+      "album": "Apartment Story - Single",
+      "durationMs": 212533,
+      "ids": {
+        "appleMusic": "261616575"
+      }
+    },
+    {
+      "title": "29 (Acoustic)",
+      "artist": "Run River North",
+      "album": "Superstition - EP",
+      "durationMs": 211587,
+      "ids": {
+        "appleMusic": "1184601738"
+      }
+    },
+    {
+      "title": "Mr. Brightside",
+      "artist": "Run River North",
+      "album": "Superstition - EP",
+      "durationMs": 272000,
+      "ids": {
+        "appleMusic": "1184601733"
+      }
+    },
+    {
+      "title": "29",
+      "artist": "Run River North",
+      "album": "Drinking from a Salt Pond",
+      "durationMs": 207120,
+      "ids": {
+        "appleMusic": "1607655966"
+      }
+    },
+    {
+      "title": "Run or Hide",
+      "artist": "Run River North",
+      "album": "Drinking from a Salt Pond",
+      "durationMs": 216360,
+      "ids": {
+        "appleMusic": "1607655969"
+      }
+    },
+    {
+      "title": "Monsters Calling Home",
+      "artist": "Run River North",
+      "album": "Run River North",
+      "durationMs": 250987,
+      "ids": {
+        "appleMusic": "708437016"
+      }
+    },
+    {
+      "title": "Fight To Keep",
+      "artist": "Run River North",
+      "album": "Run River North",
+      "durationMs": 220453,
+      "ids": {
+        "appleMusic": "708437022"
+      }
+    },
+    {
+      "title": "Foxbeard",
+      "artist": "Run River North",
+      "album": "Mellow Stormy Acoustic",
+      "durationMs": 263827,
+      "ids": {
+        "appleMusic": "1629240601"
+      }
+    },
+    {
+      "title": "O Vento",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 213867,
+      "ids": {
+        "appleMusic": "860819074"
+      }
+    },
+    {
+      "title": "Morena",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 178947,
+      "ids": {
+        "appleMusic": "860819067"
+      }
+    },
+    {
+      "title": "Fez-Se Mar",
+      "artist": "Los Hermanos",
+      "album": "Box - Los Hermanos",
+      "durationMs": 253093,
+      "ids": {
+        "appleMusic": "516393143"
+      }
+    },
+    {
+      "title": "O Vencedor",
+      "artist": "Los Hermanos",
+      "album": "Cantar em Casa",
+      "durationMs": 200027,
+      "ids": {
+        "appleMusic": "1518685208"
+      }
+    },
+    {
+      "title": "Último Romance",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 263440,
+      "ids": {
+        "appleMusic": "860819116"
+      }
+    },
+    {
+      "title": "Cara Estranho",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 205507,
+      "ids": {
+        "appleMusic": "860819061"
+      }
+    },
+    {
+      "title": "O Pouco Que Sobrou",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 183853,
+      "ids": {
+        "appleMusic": "860819068"
+      }
+    },
+    {
+      "title": "Conversa de Botas Batidas",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 240800,
+      "ids": {
+        "appleMusic": "860819063"
+      }
+    },
+    {
+      "title": "England",
+      "artist": "The National",
+      "album": "High Violet (Expanded Edition)",
+      "durationMs": 340187,
+      "ids": {
+        "appleMusic": "401440923"
+      }
+    },
+    {
+      "title": "Show Me How to Live",
+      "artist": "Audioslave",
+      "album": "Rock Clássico",
+      "durationMs": 277840,
+      "ids": {
+        "appleMusic": "1778713948"
+      }
+    },
+    {
+      "title": "Black Hole Sun",
+      "artist": "Soundgarden",
+      "album": "Songs About Love - The Classics",
+      "durationMs": 318133,
+      "ids": {
+        "appleMusic": "1442404059"
+      }
+    },
+    {
+      "title": "Chloe Dancer / Crown of Thorns",
+      "artist": "Mother Love Bone",
+      "album": "Mother Love Bone",
+      "durationMs": 502040,
+      "ids": {
+        "appleMusic": "1440923559"
+      }
+    },
+    {
+      "title": "Enter Sandman",
+      "artist": "Metallica",
+      "album": "Metallica (Deluxe Box Set)",
+      "durationMs": 331560,
+      "ids": {
+        "appleMusic": "1571983951"
+      }
+    },
+    {
+      "title": "Ana's Song (Open Fire)",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 222267,
+      "ids": {
+        "appleMusic": "192818616"
+      }
+    },
+    {
+      "title": "Scar Tissue",
+      "artist": "Red Hot Chili Peppers",
+      "album": "Chilled Rock",
+      "durationMs": 215907,
+      "ids": {
+        "appleMusic": "1769383943"
+      }
+    },
+    {
+      "title": "This Is Shangrila",
+      "artist": "Mother Love Bone",
+      "album": "On Earth as It Is: The Complete Works",
+      "durationMs": 227453,
+      "ids": {
+        "appleMusic": "1440887840"
+      }
+    },
+    {
+      "title": "Freak",
+      "artist": "Silverchair",
+      "album": "Freak Show",
+      "durationMs": 226107,
+      "ids": {
+        "appleMusic": "313361904"
+      }
+    },
+    {
+      "title": "Why Don't You Get A Job",
+      "artist": "The Offspring",
+      "album": "40 Éxitos: Rock",
+      "durationMs": 172467,
+      "ids": {
+        "appleMusic": "1890511005"
+      }
+    },
+    {
+      "title": "O Teatro dos Vampiros (Live)",
+      "artist": "Legião Urbana",
+      "album": "Música para Acampamentos (Live)",
+      "durationMs": 245440,
+      "ids": {
+        "appleMusic": "713622248"
+      }
+    },
+    {
+      "title": "Encostar Na Tua",
+      "artist": "Ana Carolina",
+      "album": "Mulheres do Brasil",
+      "durationMs": 251427,
+      "ids": {
+        "appleMusic": "611161895"
+      }
+    },
+    {
+      "title": "Sou Dela",
+      "artist": "Nando Reis",
+      "album": "Sim e Não",
+      "durationMs": 299147,
+      "ids": {
+        "appleMusic": "1444209946"
+      }
+    },
+    {
+      "title": "Madureira... É Assim Que É!",
+      "artist": "Monobloco",
+      "album": "Monobloco 2002",
+      "durationMs": 299333,
+      "ids": {
+        "appleMusic": "1627370036"
+      }
+    },
+    {
+      "title": "Pescador de ilusões",
+      "artist": "O Rappa",
+      "album": "Latin Pop Fun",
+      "durationMs": 399480,
+      "ids": {
+        "appleMusic": "1394093380"
+      }
+    },
+    {
+      "title": "Girassol (Ao Vivo)",
+      "artist": "Cidade Negra",
+      "album": "Direto (Ao Vivo)",
+      "durationMs": 242733,
+      "ids": {
+        "appleMusic": "477017426"
+      }
+    },
+    {
+      "title": "Epitáfio",
+      "artist": "Titãs",
+      "album": "Só Brasil: Os Sucessos Mais Tocados",
+      "durationMs": 175373,
+      "ids": {
+        "appleMusic": "1846702412"
+      }
+    },
+    {
+      "title": "Envelheço na Cidade",
+      "artist": "Ira!",
+      "album": "Sucessos Em Dose Dupla: Ira!",
+      "durationMs": 197080,
+      "ids": {
+        "appleMusic": "509913925"
+      }
+    },
+    {
+      "title": "Boa Sorte / Good Luck",
+      "artist": "Vanessa da Mata",
+      "album": "Sim (Prime Selection)",
+      "durationMs": 235600,
+      "ids": {
+        "appleMusic": "479066275"
+      }
+    },
+    {
+      "title": "O Calibre (Ao Vivo)",
+      "artist": "Os Paralamas do Sucesso",
+      "album": "Uns Días Ao Vivo",
+      "durationMs": 281120,
+      "ids": {
+        "appleMusic": "723507461"
+      }
+    },
+    {
+      "title": "Rosa de Hiroshima",
+      "artist": "Secos \u0026 Molhados",
+      "album": "Gigantes",
+      "durationMs": 118733,
+      "ids": {
+        "appleMusic": "441717496"
+      }
+    },
+    {
+      "title": "Teenage Lobotomy (Live)",
+      "artist": "Ramones",
+      "album": "It's Alive (Live)",
+      "durationMs": 114600,
+      "ids": {
+        "appleMusic": "77817453"
+      }
+    },
+    {
+      "title": "All Along the Watchtower",
+      "artist": "The Jimi Hendrix Experience",
+      "album": "Electric Ladyland",
+      "durationMs": 240800,
+      "ids": {
+        "appleMusic": "357653191"
+      }
+    },
+    {
+      "title": "Sultans of Swing",
+      "artist": "Dire Straits",
+      "album": "Dire Straits (Remastered)",
+      "durationMs": 348400,
+      "ids": {
+        "appleMusic": "1440801919"
+      }
+    },
+    {
+      "title": "Love Shack",
+      "artist": "The B-52's",
+      "album": "Cool Pop",
+      "durationMs": 320680,
+      "ids": {
+        "appleMusic": "1795466955"
+      }
+    },
+    {
+      "title": "Tempo Perdido",
+      "artist": "Legião Urbana",
+      "album": "Dois",
+      "durationMs": 302200,
+      "ids": {
+        "appleMusic": "713514810"
+      }
+    },
+    {
+      "title": "Além do Que Se Vê",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 230747,
+      "ids": {
+        "appleMusic": "860819058"
+      }
+    },
+    {
+      "title": "Resposta",
+      "artist": "Skank",
+      "album": "Só Brasil: Os Sucessos Mais Tocados",
+      "durationMs": 243933,
+      "ids": {
+        "appleMusic": "1846702231"
+      }
+    },
+    {
+      "title": "Fortunate Son",
+      "artist": "Creedence Clearwater Revival",
+      "album": "On The Road Rock Love Songs",
+      "durationMs": 140773,
+      "ids": {
+        "appleMusic": "1822896944"
+      }
+    },
+    {
+      "title": "Aonde Quer Que Eu Vá",
+      "artist": "Os Paralamas do Sucesso",
+      "album": "Pra Sempre Rock - Show no Rio",
+      "durationMs": 257333,
+      "ids": {
+        "appleMusic": "1765395297"
+      }
+    },
+    {
+      "title": "Cocaine",
+      "artist": "Eric Clapton",
+      "album": "Slowhand (35th Anniversary Deluxe Edition)",
+      "durationMs": 221640,
+      "ids": {
+        "appleMusic": "1440759796"
+      }
+    },
+    {
+      "title": "Será",
+      "artist": "Legião Urbana",
+      "album": "Eterno Chorão",
+      "durationMs": 148333,
+      "ids": {
+        "appleMusic": "1738095388"
+      }
+    },
+    {
+      "title": "Gimme Shelter",
+      "artist": "The Rolling Stones",
+      "album": "On The Road Rock Love Songs",
+      "durationMs": 270773,
+      "ids": {
+        "appleMusic": "1822896810"
+      }
+    },
+    {
+      "title": "Go Your Own Way",
+      "artist": "Fleetwood Mac",
+      "album": "Rumours (Super Deluxe Edition)",
+      "durationMs": 223613,
+      "ids": {
+        "appleMusic": "651880157"
+      }
+    },
+    {
+      "title": "Exagerado",
+      "artist": "Cazuza",
+      "album": "Melhores Momentos",
+      "durationMs": 225333,
+      "ids": {
+        "appleMusic": "1016474161"
+      }
+    },
+    {
+      "title": "Primeiros Erros (Chove) [Ao Vivo]",
+      "artist": "Capital Inicial",
+      "album": "Capital Inicial - As Melhores",
+      "durationMs": 332307,
+      "ids": {
+        "appleMusic": "1752784409"
+      }
+    },
+    {
+      "title": "Relicário",
+      "artist": "Cássia Eller \u0026 Nando Reis",
+      "album": "Acústico",
+      "durationMs": 246493,
+      "ids": {
+        "appleMusic": "1442329153"
+      }
+    },
+    {
+      "title": "Mulher de fases",
+      "artist": "Raimundos",
+      "album": "Tardes de plática",
+      "durationMs": 213333,
+      "ids": {
+        "appleMusic": "1763045980"
+      }
+    },
+    {
+      "title": "Vamos Fugir",
+      "artist": "Skank",
+      "album": "Skank - #1 Hits",
+      "durationMs": 240133,
+      "ids": {
+        "appleMusic": "588335604"
+      }
+    },
+    {
+      "title": "Metamorfose Ambulante",
+      "artist": "Raul Seixas",
+      "album": "as queridinhas da MPB",
+      "durationMs": 231240,
+      "ids": {
+        "appleMusic": "1827298670"
+      }
+    },
+    {
+      "title": "Lanterna Dos Afogados",
+      "artist": "Os Paralamas do Sucesso",
+      "album": "Pra Sempre Rock - Show no Rio",
+      "durationMs": 189533,
+      "ids": {
+        "appleMusic": "1765395313"
+      }
+    },
+    {
+      "title": "Apenas Mais uma de Amor (Ao Vivo)",
+      "artist": "Lulu Santos",
+      "album": "Lulu Acústico (Ao Vivo)",
+      "durationMs": 218267,
+      "ids": {
+        "appleMusic": "586137665"
+      }
+    },
+    {
+      "title": "Beth Balanço",
+      "artist": "Barão Vermelho",
+      "album": "iCollection - Barão Vermelho",
+      "durationMs": 239227,
+      "ids": {
+        "appleMusic": "924510846"
+      }
+    },
+    {
+      "title": "Só Hoje",
+      "artist": "Jota Quest",
+      "album": "Mega Hits - Jota Quest",
+      "durationMs": 211360,
+      "ids": {
+        "appleMusic": "620736970"
+      }
+    },
+    {
+      "title": "Pais e Filhos",
+      "artist": "Legião Urbana",
+      "album": "As Quatro Estações",
+      "durationMs": 308800,
+      "ids": {
+        "appleMusic": "713520007"
+      }
+    },
+    {
+      "title": "Palavras ao Vento",
+      "artist": "Cássia Eller",
+      "album": "A Arte de Cássia Eller",
+      "durationMs": 212000,
+      "ids": {
+        "appleMusic": "1442352715"
+      }
+    },
+    {
+      "title": "O Tempo Não Pára (Ao Vivo)",
+      "artist": "Cazuza",
+      "album": "O Tempo Não Pára (Ao Vivo)",
+      "durationMs": 280267,
+      "ids": {
+        "appleMusic": "1582273064"
+      }
+    },
+    {
+      "title": "Anna Júlia",
+      "artist": "Los Hermanos",
+      "album": "Karaokê - As Mais Tocadas Nacionais (Ao Vivo)",
+      "durationMs": 212200,
+      "ids": {
+        "appleMusic": "1830283858"
+      }
+    },
+    {
+      "title": "Velha Infância (2004 Digital Remaster)",
+      "artist": "Tribalistas",
+      "album": "Tribalistas",
+      "durationMs": 250440,
+      "ids": {
+        "appleMusic": "1513009450"
+      }
+    },
+    {
+      "title": "Meu Erro",
+      "artist": "Os Paralamas do Sucesso",
+      "album": "Só Música de Calor",
+      "durationMs": 208627,
+      "ids": {
+        "appleMusic": "1717003521"
+      }
+    },
+    {
+      "title": "Eduardo e Mônica",
+      "artist": "Legião Urbana",
+      "album": "Dois",
+      "durationMs": 271440,
+      "ids": {
+        "appleMusic": "713514806"
+      }
+    },
+    {
+      "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
+      "artist": "Engenheiros do Hawaii",
+      "album": "O Papa É Pop",
+      "durationMs": 265001,
+      "ids": {
+        "appleMusic": "321840236"
+      }
+    },
+    {
+      "title": "O Segundo Sol",
+      "artist": "Cássia Eller",
+      "album": "Acústico",
+      "durationMs": 257106,
+      "ids": {
+        "appleMusic": "1442329158"
+      }
+    },
+    {
+      "title": "Quando o sol se for",
+      "artist": "Detonautas",
+      "album": "Rádio FM Rock Hits",
+      "durationMs": 209173,
+      "ids": {
+        "appleMusic": "1717797892"
+      }
+    },
+    {
+      "title": "Malandragem",
+      "artist": "Cássia Eller",
+      "album": "Minha História",
+      "durationMs": 249280,
+      "ids": {
+        "appleMusic": "1443332219"
+      }
+    },
+    {
+      "title": "Já Sei Namorar (2004 Digital Remaster)",
+      "artist": "Tribalistas",
+      "album": "Tribalistas",
+      "durationMs": 196933,
+      "ids": {
+        "appleMusic": "1513009662"
+      }
+    },
+    {
+      "title": "Como Eu Quero (Ao Vivo)",
+      "artist": "Kid Abelha",
+      "album": "Multishow Ao Vivo: Kid Abelha 30 Anos",
+      "durationMs": 286877,
+      "ids": {
+        "appleMusic": "986549971"
+      }
+    },
+    {
+      "title": "Ainda Gosto Dela",
+      "artist": "Skank",
+      "album": "Skank - #1 Hits",
+      "durationMs": 313107,
+      "ids": {
+        "appleMusic": "588335671"
+      }
+    },
+    {
+      "title": "Codinome Beija-Flor",
+      "artist": "Cazuza",
+      "album": "Só Brasil: Os Sucessos Mais Tocados",
+      "durationMs": 151307,
+      "ids": {
+        "appleMusic": "1846702248"
+      }
+    },
+    {
+      "title": "Óculos",
+      "artist": "Os Paralamas do Sucesso",
+      "album": "Pra Sempre Rock - Show no Rio",
+      "durationMs": 219600,
+      "ids": {
+        "appleMusic": "1765395308"
+      }
+    },
+    {
+      "title": "Eu Te Devoro (Ao Vivo)",
+      "artist": "Djavan",
+      "album": "Ária (Ao Vivo)",
+      "durationMs": 308413,
+      "ids": {
+        "appleMusic": "1772425720"
+      }
+    },
+    {
+      "title": "Pra Ser Sincero",
+      "artist": "Engenheiros do Hawaii",
+      "album": "Filmes de Guerra, Canções de Amor",
+      "durationMs": 220477,
+      "ids": {
+        "appleMusic": "321925315"
+      }
+    },
+    {
+      "title": "Natasha (Ao Vivo)",
+      "artist": "Capital Inicial",
+      "album": "Capital Inicial - As Melhores",
+      "durationMs": 197933,
+      "ids": {
+        "appleMusic": "1752784410"
+      }
+    },
+    {
+      "title": "Ideologia",
+      "artist": "Cazuza",
+      "album": "Mês do orgulho",
+      "durationMs": 251800,
+      "ids": {
+        "appleMusic": "1747792596"
+      }
+    },
+    {
+      "title": "Tente Outra Vez",
+      "artist": "Raul Seixas",
+      "album": "Rock",
+      "durationMs": 144000,
+      "ids": {
+        "appleMusic": "1442342707"
+      }
+    },
+    {
+      "title": "Faroeste Caboclo",
+      "artist": "Legião Urbana",
+      "album": "Que País É Este",
+      "durationMs": 547000,
+      "ids": {
+        "appleMusic": "713516877"
+      }
+    },
+    {
+      "title": "Fácil",
+      "artist": "Jota Quest",
+      "album": "Jota Quest - Os Maiores Sucessos",
+      "durationMs": 318627,
+      "ids": {
+        "appleMusic": "1708652450"
+      }
+    },
+    {
+      "title": "O Astronauta de Mármore (Ao Vivo)",
+      "artist": "Nenhum De Nós",
+      "album": "A Céu Aberto (Ao Vivo)",
+      "durationMs": 239187,
+      "ids": {
+        "appleMusic": "1589056918"
+      }
+    },
+    {
+      "title": "Uma Brasileira",
+      "artist": "Os Paralamas do Sucesso \u0026 Djavan",
+      "album": "Vamo Batê Lata: Paralamas Ao Vivo (Live)",
+      "durationMs": 219488,
+      "ids": {
+        "appleMusic": "1453151895"
+      }
+    },
+    {
+      "title": "Por você (Ao Vivo) [Live]",
+      "artist": "Barão Vermelho",
+      "album": "Praia de Inverno",
+      "durationMs": 212493,
+      "ids": {
+        "appleMusic": "6773621598"
+      }
+    },
+    {
+      "title": "Índios",
+      "artist": "Legião Urbana",
+      "album": "Acústico",
+      "durationMs": 328067,
+      "ids": {
+        "appleMusic": "1440835147"
+      }
+    },
+    {
+      "title": "Um Minuto para o Fim do Mundo",
+      "artist": "CPM 22",
+      "album": "Felicidade Instantânea",
+      "durationMs": 198000,
+      "ids": {
+        "appleMusic": "1444064043"
+      }
+    },
+    {
+      "title": "All Star (Ao Vivo)",
+      "artist": "Nando Reis",
+      "album": "Voz e Violão: No Recreio, Vol. 1 (Ao Vivo)",
+      "durationMs": 233613,
+      "ids": {
+        "appleMusic": "1056765506"
+      }
+    },
+    {
+      "title": "Infinita Highway (Ao Vivo)",
+      "artist": "Engenheiros do Hawaii",
+      "album": "Feliz dia do Rock",
+      "durationMs": 258587,
+      "ids": {
+        "appleMusic": "1825438636"
+      }
+    },
+    {
+      "title": "Os cegos do castelo (Live)",
+      "artist": "Titãs",
+      "album": "Rock Hits",
+      "durationMs": 296773,
+      "ids": {
+        "appleMusic": "1695857691"
+      }
+    },
+    {
+      "title": "Chão de Giz",
+      "artist": "Zé Ramalho",
+      "album": "Antologia Acústica",
+      "durationMs": 271151,
+      "ids": {
+        "appleMusic": "380227259"
+      }
+    },
+    {
+      "title": "Karen",
+      "artist": "The National",
+      "album": "Alligator",
+      "durationMs": 239120,
+      "ids": {
+        "appleMusic": "1028833839"
+      }
+    },
+    {
+      "title": "All the Wine",
+      "artist": "The National",
+      "album": "Alligator",
+      "durationMs": 195320,
+      "ids": {
+        "appleMusic": "1028833848"
+      }
+    },
+    {
+      "title": "Mr. November",
+      "artist": "The National",
+      "album": "Alligator",
+      "durationMs": 240493,
+      "ids": {
+        "appleMusic": "1028833853"
+      }
+    },
+    {
+      "title": "Murder Me Rachael (Live)",
+      "artist": "The National",
+      "album": "Cherry Tree",
+      "durationMs": 216800,
+      "ids": {
+        "appleMusic": "1491416891"
+      }
+    },
+    {
+      "title": "Beautiful Head",
+      "artist": "The National",
+      "album": "The National",
+      "durationMs": 188400,
+      "ids": {
+        "appleMusic": "1491569318"
+      }
+    },
+    {
+      "title": "The Perfect Song",
+      "artist": "The National",
+      "album": "The National",
+      "durationMs": 195200,
+      "ids": {
+        "appleMusic": "1491569324"
+      }
+    },
+    {
+      "title": "Pay for Me",
+      "artist": "The National",
+      "album": "The National",
+      "durationMs": 202640,
+      "ids": {
+        "appleMusic": "1491569327"
+      }
+    },
+    {
+      "title": "Bitters \u0026 Absolut",
+      "artist": "The National",
+      "album": "The National",
+      "durationMs": 240027,
+      "ids": {
+        "appleMusic": "1491569328"
+      }
+    },
+    {
+      "title": "Apartment Story",
+      "artist": "The National",
+      "album": "Apartment Story - Single",
+      "durationMs": 212533,
+      "ids": {
+        "appleMusic": "261616575"
+      }
+    },
+    {
+      "title": "29 (Acoustic)",
+      "artist": "Run River North",
+      "album": "Superstition - EP",
+      "durationMs": 211587,
+      "ids": {
+        "appleMusic": "1184601738"
+      }
+    },
+    {
+      "title": "Mr. Brightside",
+      "artist": "Run River North",
+      "album": "Superstition - EP",
+      "durationMs": 272000,
+      "ids": {
+        "appleMusic": "1184601733"
+      }
+    },
+    {
+      "title": "29",
+      "artist": "Run River North",
+      "album": "Drinking from a Salt Pond",
+      "durationMs": 207120,
+      "ids": {
+        "appleMusic": "1607655966"
+      }
+    },
+    {
+      "title": "Run or Hide",
+      "artist": "Run River North",
+      "album": "Drinking from a Salt Pond",
+      "durationMs": 216360,
+      "ids": {
+        "appleMusic": "1607655969"
+      }
+    },
+    {
+      "title": "Monsters Calling Home",
+      "artist": "Run River North",
+      "album": "Run River North",
+      "durationMs": 250987,
+      "ids": {
+        "appleMusic": "708437016"
+      }
+    },
+    {
+      "title": "Fight To Keep",
+      "artist": "Run River North",
+      "album": "Run River North",
+      "durationMs": 220453,
+      "ids": {
+        "appleMusic": "708437022"
+      }
+    },
+    {
+      "title": "Foxbeard",
+      "artist": "Run River North",
+      "album": "Mellow Stormy Acoustic",
+      "durationMs": 263827,
+      "ids": {
+        "appleMusic": "1629240601"
+      }
+    },
+    {
+      "title": "O Vento",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 213867,
+      "ids": {
+        "appleMusic": "860819074"
+      }
+    },
+    {
+      "title": "Morena",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 178947,
+      "ids": {
+        "appleMusic": "860819067"
+      }
+    },
+    {
+      "title": "Fez-Se Mar",
+      "artist": "Los Hermanos",
+      "album": "Box - Los Hermanos",
+      "durationMs": 253093,
+      "ids": {
+        "appleMusic": "516393143"
+      }
+    },
+    {
+      "title": "O Vencedor",
+      "artist": "Los Hermanos",
+      "album": "Cantar em Casa",
+      "durationMs": 200027,
+      "ids": {
+        "appleMusic": "1518685208"
+      }
+    },
+    {
+      "title": "Último Romance",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 263440,
+      "ids": {
+        "appleMusic": "860819116"
+      }
+    },
+    {
+      "title": "Cara Estranho",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 205507,
+      "ids": {
+        "appleMusic": "860819061"
+      }
+    },
+    {
+      "title": "O Pouco Que Sobrou",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 183853,
+      "ids": {
+        "appleMusic": "860819068"
+      }
+    },
+    {
+      "title": "Conversa de Botas Batidas",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 240800,
+      "ids": {
+        "appleMusic": "860819063"
+      }
+    },
+    {
+      "title": "England",
+      "artist": "The National",
+      "album": "High Violet (Expanded Edition)",
+      "durationMs": 340187,
+      "ids": {
+        "appleMusic": "401440923"
+      }
+    },
+    {
+      "title": "Show Me How to Live",
+      "artist": "Audioslave",
+      "album": "Rock Clássico",
+      "durationMs": 277840,
+      "ids": {
+        "appleMusic": "1778713948"
+      }
+    },
+    {
+      "title": "Black Hole Sun",
+      "artist": "Soundgarden",
+      "album": "Songs About Love - The Classics",
+      "durationMs": 318133,
+      "ids": {
+        "appleMusic": "1442404059"
+      }
+    },
+    {
+      "title": "Chloe Dancer / Crown of Thorns",
+      "artist": "Mother Love Bone",
+      "album": "Mother Love Bone",
+      "durationMs": 502040,
+      "ids": {
+        "appleMusic": "1440923559"
+      }
+    },
+    {
+      "title": "Enter Sandman",
+      "artist": "Metallica",
+      "album": "Metallica (Deluxe Box Set)",
+      "durationMs": 331560,
+      "ids": {
+        "appleMusic": "1571983951"
+      }
+    },
+    {
+      "title": "Ana's Song (Open Fire)",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 222267,
+      "ids": {
+        "appleMusic": "192818616"
+      }
+    },
+    {
+      "title": "Scar Tissue",
+      "artist": "Red Hot Chili Peppers",
+      "album": "Chilled Rock",
+      "durationMs": 215907,
+      "ids": {
+        "appleMusic": "1769383943"
+      }
+    },
+    {
+      "title": "This Is Shangrila",
+      "artist": "Mother Love Bone",
+      "album": "On Earth as It Is: The Complete Works",
+      "durationMs": 227453,
+      "ids": {
+        "appleMusic": "1440887840"
+      }
+    },
+    {
+      "title": "Freak",
+      "artist": "Silverchair",
+      "album": "Freak Show",
+      "durationMs": 226107,
+      "ids": {
+        "appleMusic": "313361904"
+      }
+    },
+    {
+      "title": "Why Don't You Get A Job",
+      "artist": "The Offspring",
+      "album": "40 Éxitos: Rock",
+      "durationMs": 172467,
+      "ids": {
+        "appleMusic": "1890511005"
+      }
+    },
+    {
+      "title": "O Teatro dos Vampiros (Live)",
+      "artist": "Legião Urbana",
+      "album": "Música para Acampamentos (Live)",
+      "durationMs": 245440,
+      "ids": {
+        "appleMusic": "713622248"
+      }
+    },
+    {
+      "title": "Encostar Na Tua",
+      "artist": "Ana Carolina",
+      "album": "Mulheres do Brasil",
+      "durationMs": 251427,
+      "ids": {
+        "appleMusic": "611161895"
+      }
+    },
+    {
+      "title": "Sou Dela",
+      "artist": "Nando Reis",
+      "album": "Sim e Não",
+      "durationMs": 299147,
+      "ids": {
+        "appleMusic": "1444209946"
+      }
+    },
+    {
+      "title": "Madureira... É Assim Que É!",
+      "artist": "Monobloco",
+      "album": "Monobloco 2002",
+      "durationMs": 299333,
+      "ids": {
+        "appleMusic": "1627370036"
+      }
+    },
+    {
+      "title": "Pescador de ilusões",
+      "artist": "O Rappa",
+      "album": "Latin Pop Fun",
+      "durationMs": 399480,
+      "ids": {
+        "appleMusic": "1394093380"
+      }
+    },
+    {
+      "title": "Girassol (Ao Vivo)",
+      "artist": "Cidade Negra",
+      "album": "Direto (Ao Vivo)",
+      "durationMs": 242733,
+      "ids": {
+        "appleMusic": "477017426"
+      }
+    },
+    {
+      "title": "Epitáfio",
+      "artist": "Titãs",
+      "album": "Só Brasil: Os Sucessos Mais Tocados",
+      "durationMs": 175373,
+      "ids": {
+        "appleMusic": "1846702412"
+      }
+    },
+    {
+      "title": "Envelheço na Cidade",
+      "artist": "Ira!",
+      "album": "Sucessos Em Dose Dupla: Ira!",
+      "durationMs": 197080,
+      "ids": {
+        "appleMusic": "509913925"
+      }
+    },
+    {
+      "title": "Boa Sorte / Good Luck",
+      "artist": "Vanessa da Mata",
+      "album": "Sim (Prime Selection)",
+      "durationMs": 235600,
+      "ids": {
+        "appleMusic": "479066275"
+      }
+    },
+    {
+      "title": "O Calibre (Ao Vivo)",
+      "artist": "Os Paralamas do Sucesso",
+      "album": "Uns Días Ao Vivo",
+      "durationMs": 281120,
+      "ids": {
+        "appleMusic": "723507461"
+      }
+    },
+    {
+      "title": "Rosa de Hiroshima",
+      "artist": "Secos \u0026 Molhados",
+      "album": "Gigantes",
+      "durationMs": 118733,
+      "ids": {
+        "appleMusic": "441717496"
+      }
+    },
+    {
+      "title": "Teenage Lobotomy (Live)",
+      "artist": "Ramones",
+      "album": "It's Alive (Live)",
+      "durationMs": 114600,
+      "ids": {
+        "appleMusic": "77817453"
+      }
+    },
+    {
+      "title": "All Along the Watchtower",
+      "artist": "The Jimi Hendrix Experience",
+      "album": "Electric Ladyland",
+      "durationMs": 240800,
+      "ids": {
+        "appleMusic": "357653191"
+      }
+    },
+    {
+      "title": "Sultans of Swing",
+      "artist": "Dire Straits",
+      "album": "Dire Straits (Remastered)",
+      "durationMs": 348400,
+      "ids": {
+        "appleMusic": "1440801919"
+      }
+    },
+    {
+      "title": "Love Shack",
+      "artist": "The B-52's",
+      "album": "Cool Pop",
+      "durationMs": 320680,
+      "ids": {
+        "appleMusic": "1795466955"
+      }
+    },
+    {
+      "title": "Tempo Perdido",
+      "artist": "Legião Urbana",
+      "album": "Dois",
+      "durationMs": 302200,
+      "ids": {
+        "appleMusic": "713514810"
+      }
+    },
+    {
+      "title": "Além do Que Se Vê",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 230747,
+      "ids": {
+        "appleMusic": "860819058"
+      }
+    },
+    {
+      "title": "Resposta",
+      "artist": "Skank",
+      "album": "Só Brasil: Os Sucessos Mais Tocados",
+      "durationMs": 243933,
+      "ids": {
+        "appleMusic": "1846702231"
+      }
+    },
+    {
+      "title": "Fortunate Son",
+      "artist": "Creedence Clearwater Revival",
+      "album": "On The Road Rock Love Songs",
+      "durationMs": 140773,
+      "ids": {
+        "appleMusic": "1822896944"
+      }
+    },
+    {
+      "title": "Aonde Quer Que Eu Vá",
+      "artist": "Os Paralamas do Sucesso",
+      "album": "Pra Sempre Rock - Show no Rio",
+      "durationMs": 257333,
+      "ids": {
+        "appleMusic": "1765395297"
+      }
+    },
+    {
+      "title": "Cocaine",
+      "artist": "Eric Clapton",
+      "album": "Slowhand (35th Anniversary Deluxe Edition)",
+      "durationMs": 221640,
+      "ids": {
+        "appleMusic": "1440759796"
+      }
+    },
+    {
+      "title": "Será",
+      "artist": "Legião Urbana",
+      "album": "Eterno Chorão",
+      "durationMs": 148333,
+      "ids": {
+        "appleMusic": "1738095388"
+      }
+    },
+    {
+      "title": "Gimme Shelter",
+      "artist": "The Rolling Stones",
+      "album": "On The Road Rock Love Songs",
+      "durationMs": 270773,
+      "ids": {
+        "appleMusic": "1822896810"
+      }
+    },
+    {
+      "title": "Go Your Own Way",
+      "artist": "Fleetwood Mac",
+      "album": "Rumours (Super Deluxe Edition)",
+      "durationMs": 223613,
+      "ids": {
+        "appleMusic": "651880157"
+      }
+    },
+    {
+      "title": "Exagerado",
+      "artist": "Cazuza",
+      "album": "Melhores Momentos",
+      "durationMs": 225333,
+      "ids": {
+        "appleMusic": "1016474161"
+      }
+    },
+    {
+      "title": "Primeiros Erros (Chove) [Ao Vivo]",
+      "artist": "Capital Inicial",
+      "album": "Capital Inicial - As Melhores",
+      "durationMs": 332307,
+      "ids": {
+        "appleMusic": "1752784409"
+      }
+    },
+    {
+      "title": "Relicário",
+      "artist": "Cássia Eller \u0026 Nando Reis",
+      "album": "Acústico",
+      "durationMs": 246493,
+      "ids": {
+        "appleMusic": "1442329153"
+      }
+    },
+    {
+      "title": "Mulher de fases",
+      "artist": "Raimundos",
+      "album": "Tardes de plática",
+      "durationMs": 213333,
+      "ids": {
+        "appleMusic": "1763045980"
+      }
+    },
+    {
+      "title": "Vamos Fugir",
+      "artist": "Skank",
+      "album": "Skank - #1 Hits",
+      "durationMs": 240133,
+      "ids": {
+        "appleMusic": "588335604"
+      }
+    },
+    {
+      "title": "Metamorfose Ambulante",
+      "artist": "Raul Seixas",
+      "album": "as queridinhas da MPB",
+      "durationMs": 231240,
+      "ids": {
+        "appleMusic": "1827298670"
+      }
+    },
+    {
+      "title": "Lanterna Dos Afogados",
+      "artist": "Os Paralamas do Sucesso",
+      "album": "Pra Sempre Rock - Show no Rio",
+      "durationMs": 189533,
+      "ids": {
+        "appleMusic": "1765395313"
+      }
+    },
+    {
+      "title": "Apenas Mais uma de Amor (Ao Vivo)",
+      "artist": "Lulu Santos",
+      "album": "Lulu Acústico (Ao Vivo)",
+      "durationMs": 218267,
+      "ids": {
+        "appleMusic": "586137665"
+      }
+    },
+    {
+      "title": "Beth Balanço",
+      "artist": "Barão Vermelho",
+      "album": "iCollection - Barão Vermelho",
+      "durationMs": 239227,
+      "ids": {
+        "appleMusic": "924510846"
+      }
+    },
+    {
+      "title": "Só Hoje",
+      "artist": "Jota Quest",
+      "album": "Mega Hits - Jota Quest",
+      "durationMs": 211360,
+      "ids": {
+        "appleMusic": "620736970"
+      }
+    },
+    {
+      "title": "Pais e Filhos",
+      "artist": "Legião Urbana",
+      "album": "As Quatro Estações",
+      "durationMs": 308800,
+      "ids": {
+        "appleMusic": "713520007"
+      }
+    },
+    {
+      "title": "Palavras ao Vento",
+      "artist": "Cássia Eller",
+      "album": "A Arte de Cássia Eller",
+      "durationMs": 212000,
+      "ids": {
+        "appleMusic": "1442352715"
+      }
+    },
+    {
+      "title": "O Tempo Não Pára (Ao Vivo)",
+      "artist": "Cazuza",
+      "album": "O Tempo Não Pára (Ao Vivo)",
+      "durationMs": 280267,
+      "ids": {
+        "appleMusic": "1582273064"
+      }
+    },
+    {
+      "title": "Anna Júlia",
+      "artist": "Los Hermanos",
+      "album": "Karaokê - As Mais Tocadas Nacionais (Ao Vivo)",
+      "durationMs": 212200,
+      "ids": {
+        "appleMusic": "1830283858"
+      }
+    },
+    {
+      "title": "Velha Infância (2004 Digital Remaster)",
+      "artist": "Tribalistas",
+      "album": "Tribalistas",
+      "durationMs": 250440,
+      "ids": {
+        "appleMusic": "1513009450"
+      }
+    },
+    {
+      "title": "Meu Erro",
+      "artist": "Os Paralamas do Sucesso",
+      "album": "Só Música de Calor",
+      "durationMs": 208627,
+      "ids": {
+        "appleMusic": "1717003521"
+      }
+    },
+    {
+      "title": "Eduardo e Mônica",
+      "artist": "Legião Urbana",
+      "album": "Dois",
+      "durationMs": 271440,
+      "ids": {
+        "appleMusic": "713514806"
+      }
+    },
+    {
+      "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
+      "artist": "Engenheiros do Hawaii",
+      "album": "O Papa É Pop",
+      "durationMs": 265001,
+      "ids": {
+        "appleMusic": "321840236"
+      }
+    },
+    {
+      "title": "O Segundo Sol",
+      "artist": "Cássia Eller",
+      "album": "Acústico",
+      "durationMs": 257106,
+      "ids": {
+        "appleMusic": "1442329158"
+      }
+    },
+    {
+      "title": "Quando o sol se for",
+      "artist": "Detonautas",
+      "album": "Rádio FM Rock Hits",
+      "durationMs": 209173,
+      "ids": {
+        "appleMusic": "1717797892"
+      }
+    },
+    {
+      "title": "Malandragem",
+      "artist": "Cássia Eller",
+      "album": "Minha História",
+      "durationMs": 249280,
+      "ids": {
+        "appleMusic": "1443332219"
+      }
+    },
+    {
+      "title": "Já Sei Namorar (2004 Digital Remaster)",
+      "artist": "Tribalistas",
+      "album": "Tribalistas",
+      "durationMs": 196933,
+      "ids": {
+        "appleMusic": "1513009662"
+      }
+    },
+    {
+      "title": "Como Eu Quero (Ao Vivo)",
+      "artist": "Kid Abelha",
+      "album": "Multishow Ao Vivo: Kid Abelha 30 Anos",
+      "durationMs": 286877,
+      "ids": {
+        "appleMusic": "986549971"
+      }
+    },
+    {
+      "title": "Ainda Gosto Dela",
+      "artist": "Skank",
+      "album": "Skank - #1 Hits",
+      "durationMs": 313107,
+      "ids": {
+        "appleMusic": "588335671"
+      }
+    },
+    {
+      "title": "Codinome Beija-Flor",
+      "artist": "Cazuza",
+      "album": "Só Brasil: Os Sucessos Mais Tocados",
+      "durationMs": 151307,
+      "ids": {
+        "appleMusic": "1846702248"
+      }
+    },
+    {
+      "title": "Óculos",
+      "artist": "Os Paralamas do Sucesso",
+      "album": "Pra Sempre Rock - Show no Rio",
+      "durationMs": 219600,
+      "ids": {
+        "appleMusic": "1765395308"
+      }
+    },
+    {
+      "title": "Eu Te Devoro (Ao Vivo)",
+      "artist": "Djavan",
+      "album": "Ária (Ao Vivo)",
+      "durationMs": 308413,
+      "ids": {
+        "appleMusic": "1772425720"
+      }
+    },
+    {
+      "title": "Pra Ser Sincero",
+      "artist": "Engenheiros do Hawaii",
+      "album": "Filmes de Guerra, Canções de Amor",
+      "durationMs": 220477,
+      "ids": {
+        "appleMusic": "321925315"
+      }
+    },
+    {
+      "title": "Natasha (Ao Vivo)",
+      "artist": "Capital Inicial",
+      "album": "Capital Inicial - As Melhores",
+      "durationMs": 197933,
+      "ids": {
+        "appleMusic": "1752784410"
+      }
+    },
+    {
+      "title": "Ideologia",
+      "artist": "Cazuza",
+      "album": "Mês do orgulho",
+      "durationMs": 251800,
+      "ids": {
+        "appleMusic": "1747792596"
+      }
+    },
+    {
+      "title": "Tente Outra Vez",
+      "artist": "Raul Seixas",
+      "album": "Rock",
+      "durationMs": 144000,
+      "ids": {
+        "appleMusic": "1442342707"
+      }
+    },
+    {
+      "title": "Faroeste Caboclo",
+      "artist": "Legião Urbana",
+      "album": "Que País É Este",
+      "durationMs": 547000,
+      "ids": {
+        "appleMusic": "713516877"
+      }
+    },
+    {
+      "title": "Fácil",
+      "artist": "Jota Quest",
+      "album": "Jota Quest - Os Maiores Sucessos",
+      "durationMs": 318627,
+      "ids": {
+        "appleMusic": "1708652450"
+      }
+    },
+    {
+      "title": "O Astronauta de Mármore (Ao Vivo)",
+      "artist": "Nenhum De Nós",
+      "album": "A Céu Aberto (Ao Vivo)",
+      "durationMs": 239187,
+      "ids": {
+        "appleMusic": "1589056918"
+      }
+    },
+    {
+      "title": "Uma Brasileira",
+      "artist": "Os Paralamas do Sucesso \u0026 Djavan",
+      "album": "Vamo Batê Lata: Paralamas Ao Vivo (Live)",
+      "durationMs": 219488,
+      "ids": {
+        "appleMusic": "1453151895"
+      }
+    },
+    {
+      "title": "Por você (Ao Vivo) [Live]",
+      "artist": "Barão Vermelho",
+      "album": "Praia de Inverno",
+      "durationMs": 212493,
+      "ids": {
+        "appleMusic": "6773621598"
+      }
+    },
+    {
+      "title": "Índios",
+      "artist": "Legião Urbana",
+      "album": "Acústico",
+      "durationMs": 328067,
+      "ids": {
+        "appleMusic": "1440835147"
+      }
+    },
+    {
+      "title": "Um Minuto para o Fim do Mundo",
+      "artist": "CPM 22",
+      "album": "Felicidade Instantânea",
+      "durationMs": 198000,
+      "ids": {
+        "appleMusic": "1444064043"
+      }
+    },
+    {
+      "title": "All Star (Ao Vivo)",
+      "artist": "Nando Reis",
+      "album": "Voz e Violão: No Recreio, Vol. 1 (Ao Vivo)",
+      "durationMs": 233613,
+      "ids": {
+        "appleMusic": "1056765506"
+      }
+    },
+    {
+      "title": "Infinita Highway (Ao Vivo)",
+      "artist": "Engenheiros do Hawaii",
+      "album": "Feliz dia do Rock",
+      "durationMs": 258587,
+      "ids": {
+        "appleMusic": "1825438636"
+      }
+    },
+    {
+      "title": "Os cegos do castelo (Live)",
+      "artist": "Titãs",
+      "album": "Rock Hits",
+      "durationMs": 296773,
+      "ids": {
+        "appleMusic": "1695857691"
+      }
+    },
+    {
+      "title": "Chão de Giz",
+      "artist": "Zé Ramalho",
+      "album": "Antologia Acústica",
+      "durationMs": 271151,
+      "ids": {
+        "appleMusic": "380227259"
+      }
+    },
+    {
+      "title": "Se...",
+      "artist": "Djavan",
+      "album": "Djavan Top Hits",
+      "durationMs": 291533,
+      "ids": {
+        "appleMusic": "1516014596"
+      }
+    },
+    {
+      "title": "Maior Abandonado",
+      "artist": "Barão Vermelho",
+      "album": "As Mais Românticas do Cazuza e Barão Vermelho",
+      "durationMs": 163893,
+      "ids": {
+        "appleMusic": "1861943255"
+      }
+    },
+    {
+      "title": "Ainda É Cedo",
+      "artist": "Legião Urbana",
+      "album": "Mais do Mesmo",
+      "durationMs": 236760,
+      "ids": {
+        "appleMusic": "713691767"
+      }
+    },
+    {
+      "title": "Faz Parte do Meu Show",
+      "artist": "Cazuza",
+      "album": "Ideologia",
+      "durationMs": 173267,
+      "ids": {
+        "appleMusic": "1442275333"
+      }
+    },
+    {
+      "title": "Cowboy Fora da Lei",
+      "artist": "Raul Seixas",
+      "album": "Uah-Bap-Lu-Bap-Lah-Bein-Bum",
+      "durationMs": 216427,
+      "ids": {
+        "appleMusic": "1231409296"
+      }
+    },
+    {
+      "title": "Equalize",
+      "artist": "Pitty",
+      "album": "Admirável Chip Novo",
+      "durationMs": 232240,
+      "ids": {
+        "appleMusic": "977428503"
+      }
+    },
+    {
+      "title": "Infinita Highway",
+      "artist": "Engenheiros do Hawaii",
+      "album": "A Revolta Dos Dandis",
+      "durationMs": 372017,
+      "ids": {
+        "appleMusic": "321838544"
+      }
+    },
+    {
+      "title": "Marvin (Ao Vivo) [Live]",
+      "artist": "Titãs",
+      "album": "Praia de Inverno",
+      "durationMs": 264293,
+      "ids": {
+        "appleMusic": "6773622205"
+      }
+    },
+    {
+      "title": "Garota Nacional",
+      "artist": "Skank",
+      "album": "Skank - #1 Hits",
+      "durationMs": 317400,
+      "ids": {
+        "appleMusic": "588335679"
+      }
+    },
+    {
+      "title": "O Segundo Sol",
+      "artist": "Cássia Eller",
+      "album": "Cássia Eller Sem Limite",
+      "durationMs": 252040,
+      "ids": {
+        "appleMusic": "1442787444"
+      }
+    },
+    {
+      "title": "Geração Coca-Cola",
+      "artist": "Legião Urbana",
+      "album": "O Melhor do Rock Nacional",
+      "durationMs": 141400,
+      "ids": {
+        "appleMusic": "1821908683"
+      }
+    },
+    {
+      "title": "Caleidoscópio (Ao Vivo)",
+      "artist": "Os Paralamas do Sucesso",
+      "album": "Acústico (Remastered) [Ao Vivo]",
+      "durationMs": 256467,
+      "ids": {
+        "appleMusic": "1442520128"
+      }
+    },
+    {
+      "title": "Olhos Vermelhos (Ao Vivo)",
+      "artist": "Capital Inicial",
+      "album": "Capital Inicial - As Melhores",
+      "durationMs": 218920,
+      "ids": {
+        "appleMusic": "1752784745"
+      }
+    },
+    {
+      "title": "Por Onde Andei",
+      "artist": "Nando Reis \u0026 Cachorro Grande",
+      "album": "A Arte de Nando Reis",
+      "durationMs": 235627,
+      "ids": {
+        "appleMusic": "1442558136"
+      }
+    },
+    {
+      "title": "Gîtâ",
+      "artist": "Raul Seixas",
+      "album": "Rock",
+      "durationMs": 289907,
+      "ids": {
+        "appleMusic": "1442342523"
+      }
+    },
+    {
+      "title": "Eu Sei",
+      "artist": "Legião Urbana",
+      "album": "Acústico",
+      "durationMs": 235533,
+      "ids": {
+        "appleMusic": "1440835565"
+      }
+    },
+    {
+      "title": "Lágrimas e Chuva (Live)",
+      "artist": "Kid Abelha",
+      "album": "Acústico (Live)",
+      "durationMs": 254813,
+      "ids": {
+        "appleMusic": "1440848579"
+      }
+    },
+    {
+      "title": "Me adora",
+      "artist": "Pitty",
+      "album": "Chiaroscuro",
+      "durationMs": 271227,
+      "ids": {
+        "appleMusic": "977443552"
+      }
+    },
+    {
+      "title": "Polícia",
+      "artist": "Titãs",
+      "album": "e-Collection: Titãs",
+      "durationMs": 260867,
+      "ids": {
+        "appleMusic": "562811204"
+      }
+    },
+    {
+      "title": "Música Urbana (Versão Alternativa)",
+      "artist": "Capital Inicial",
+      "album": "Elétrico",
+      "durationMs": 208533,
+      "ids": {
+        "appleMusic": "1442302570"
+      }
+    },
+    {
+      "title": "Camila, Camila",
+      "artist": "Nenhum De Nós",
+      "album": "Nenhum de Nós",
+      "durationMs": 312133,
+      "ids": {
+        "appleMusic": "1204509952"
+      }
+    },
+    {
+      "title": "Vento Ventania",
+      "artist": "Biquini Cavadão",
+      "album": "Perfil - Biquini Cavadão",
+      "durationMs": 211707,
+      "ids": {
+        "appleMusic": "1860664510"
+      }
+    },
+    {
+      "title": "Jackie Tequila (Ao Vivo)",
+      "artist": "Skank",
+      "album": "Skank - #1 Hits",
+      "durationMs": 250267,
+      "ids": {
+        "appleMusic": "588335761"
+      }
+    },
+    {
+      "title": "Pro Dia Nascer Feliz",
+      "artist": "Barão Vermelho",
+      "album": "Só Brasil: Os Sucessos Mais Tocados",
+      "durationMs": 267133,
+      "ids": {
+        "appleMusic": "1846701955"
+      }
+    },
+    {
+      "title": "Quase Sem Querer",
+      "artist": "Legião Urbana",
+      "album": "Dois",
+      "durationMs": 280467,
+      "ids": {
+        "appleMusic": "713514802"
+      }
+    },
+    {
+      "title": "Você Nao Soube Me Amar",
+      "artist": "Blitz",
+      "album": "Nova Bis: Blitz",
+      "durationMs": 202133,
+      "ids": {
+        "appleMusic": "713589230"
+      }
+    },
+    {
+      "title": "Vital E Sua Moto",
+      "artist": "Os Paralamas do Sucesso",
+      "album": "O Melhor do Rock Nacional",
+      "durationMs": 191216,
+      "ids": {
+        "appleMusic": "1821908848"
+      }
+    },
+    {
+      "title": "Ciúme",
+      "artist": "Ultraje a Rigor",
+      "album": "Acústico MTV",
+      "durationMs": 288440,
+      "ids": {
+        "appleMusic": "977474489"
+      }
+    },
+    {
+      "title": "Homem primata",
+      "artist": "Titãs",
+      "album": "Rock Brasil Anos 80",
+      "durationMs": 210307,
+      "ids": {
+        "appleMusic": "1889451788"
+      }
+    },
+    {
+      "title": "Nada Sei (Apnéia) [Ao Vivo]",
+      "artist": "Kid Abelha",
+      "album": "Multishow Ao Vivo: Kid Abelha 30 Anos",
+      "durationMs": 191451,
+      "ids": {
+        "appleMusic": "986549950"
+      }
+    },
+    {
+      "title": "Me lambe",
+      "artist": "Raimundos",
+      "album": "Rock Antigos Nostalgia",
+      "durationMs": 196667,
+      "ids": {
+        "appleMusic": "1810646230"
+      }
+    },
+    {
+      "title": "Cachimbo da Paz (feat. Lulu Santos)",
+      "artist": "Gabriel o Pensador",
+      "album": "Tás A Ver - O Melhor de Gabriel O Pensador",
+      "durationMs": 333107,
+      "ids": {
+        "appleMusic": "1647247468"
+      }
+    },
+    {
+      "title": "Tédio",
+      "artist": "Biquini Cavadão",
+      "album": "Perfil - Biquini Cavadão",
+      "durationMs": 200227,
+      "ids": {
+        "appleMusic": "1860664516"
+      }
+    },
+    {
+      "title": "O Descobridor Dos Sete Mares",
+      "artist": "Tim Maia",
+      "album": "Festival Latinidades",
+      "durationMs": 265298,
+      "ids": {
+        "appleMusic": "1694986566"
+      }
+    },
+    {
+      "title": "Eu Nasci Há 10 Mil Anos Atrás",
+      "artist": "Raul Seixas",
+      "album": "10.000 Anos à Frente",
+      "durationMs": 288600,
+      "ids": {
+        "appleMusic": "1453160975"
+      }
+    },
+    {
+      "title": "Ha Tempos",
+      "artist": "Legião Urbana",
+      "album": "As Quatro Estações",
+      "durationMs": 198733,
+      "ids": {
+        "appleMusic": "713520006"
+      }
+    },
+    {
+      "title": "Tempo Perdido (feat. Lenine) [Ao Vivo]",
+      "artist": "Capital Inicial",
+      "album": "Capital Inicial Acústico NYC (Ao Vivo) [Versão Deluxe + Faixa Extra]",
+      "durationMs": 241013,
+      "ids": {
+        "appleMusic": "1703674472"
+      }
+    },
+    {
+      "title": "Días de luta",
+      "artist": "Ira!",
+      "album": "Rock Antigos Nostalgia",
+      "durationMs": 268240,
+      "ids": {
+        "appleMusic": "1810645738"
+      }
+    },
+    {
+      "title": "Inútil (Ao vivo) [Live]",
+      "artist": "Ultraje a Rigor",
+      "album": "Melhores Músicas Antigas",
+      "durationMs": 217067,
+      "ids": {
+        "appleMusic": "1849152140"
+      }
+    },
+    {
+      "title": "Carta aos Missionários",
+      "artist": "Uns e Outros",
+      "album": "A Terceira Onda",
+      "durationMs": 236027,
+      "ids": {
+        "appleMusic": "1128942274"
+      }
+    },
+    {
+      "title": "Sonífera Ilha",
+      "artist": "Titãs",
+      "album": "Rock Hits",
+      "durationMs": 176560,
+      "ids": {
+        "appleMusic": "1695857140"
+      }
+    },
+    {
+      "title": "Toda Forma de Poder",
+      "artist": "Engenheiros do Hawaii",
+      "album": "20+ Rock",
+      "durationMs": 195067,
+      "ids": {
+        "appleMusic": "537589865"
+      }
+    },
+    {
+      "title": "Pintura íntima",
+      "artist": "Kid Abelha",
+      "album": "Karaokê Brasil",
+      "durationMs": 267960,
+      "ids": {
+        "appleMusic": "1746130480"
+      }
+    },
+    {
+      "title": "Toda Forma de Amor",
+      "artist": "Lulu Santos",
+      "album": "Toda Forma de Amor",
+      "durationMs": 225760,
+      "ids": {
+        "appleMusic": "458597175"
+      }
+    },
+    {
+      "title": "Fátima",
+      "artist": "Capital Inicial",
+      "album": "Pra Sempre Rock - Show no Rio",
+      "durationMs": 229600,
+      "ids": {
+        "appleMusic": "1765395306"
+      }
+    },
+    {
+      "title": "Whisky a Go-Go",
+      "artist": "Roupa Nova",
+      "album": "Roupa Nova",
+      "durationMs": 249160,
+      "ids": {
+        "appleMusic": "477020105"
+      }
+    },
+    {
+      "title": "Rádio Pirata",
+      "artist": "RPM",
+      "album": "Revolução! RPM 25 Anos",
+      "durationMs": 210933,
+      "ids": {
+        "appleMusic": "569311464"
+      }
+    },
+    {
+      "title": "Carolina",
+      "artist": "Seu Jorge",
+      "album": "Brazilian Beats 4",
+      "durationMs": 353440,
+      "ids": {
+        "appleMusic": "781252108"
+      }
+    },
+    {
+      "title": "Nós vamos invadir sua praia (Versão avenida)",
+      "artist": "Ultraje a Rigor",
+      "album": "Pop Brasil para Lojas e Restaurantes",
+      "durationMs": 254907,
+      "ids": {
+        "appleMusic": "1852496683"
+      }
+    },
+    {
+      "title": "Lança Perfume",
+      "artist": "Rita Lee \u0026 Roberto de Carvalho",
+      "album": "as queridinhas da MPB",
+      "durationMs": 310760,
+      "ids": {
+        "appleMusic": "1827298672"
+      }
+    },
+    {
+      "title": "Dani",
+      "artist": "Biquini Cavadão",
+      "album": "Fundamental - Biquini Cavadão",
+      "durationMs": 172827,
+      "ids": {
+        "appleMusic": "980648504"
+      }
+    },
+    {
+      "title": "Eu quero ver o oco",
+      "artist": "Raimundos",
+      "album": "O Melhor do Heavy Metal",
+      "durationMs": 251400,
+      "ids": {
+        "appleMusic": "1700696499"
+      }
+    },
+    {
+      "title": "Auto-reverse",
+      "artist": "O Rappa",
+      "album": "O Rappa - As Melhores",
+      "durationMs": 285067,
+      "ids": {
+        "appleMusic": "1875201393"
+      }
+    },
+    {
+      "title": "Intro (Live At London Astoria, UK, December 3, 1989)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 52093,
+      "ids": {
+        "appleMusic": "1440917419"
+      }
+    },
+    {
+      "title": "School (Live In Amsterdam At Paradiso, November 25, 1991)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 160267,
+      "ids": {
+        "appleMusic": "1440917435"
+      }
+    },
+    {
+      "title": "Drain You (Live At Del Mar Fairgrounds, CA., December 28, 1991)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 214907,
+      "ids": {
+        "appleMusic": "1440917595"
+      }
+    },
+    {
+      "title": "Aneurysm (Live At Del Mar Fairgrounds, CA., December 28, 1991)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 271627,
+      "ids": {
+        "appleMusic": "1440917606"
+      }
+    },
+    {
+      "title": "Smells Like Teen Spirit (Live At Del Mar Fairgrounds, CA., December 28, 1991)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 287067,
+      "ids": {
+        "appleMusic": "1440917612"
+      }
+    },
+    {
+      "title": "Been a Son (Live In Amsterdam At Paradiso, November 25, 1991)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 127307,
+      "ids": {
+        "appleMusic": "1440917618"
+      }
+    },
+    {
+      "title": "Lithium (Live In Amsterdam At Paradiso, November 25, 1991)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 250093,
+      "ids": {
+        "appleMusic": "1440917833"
+      }
+    },
+    {
+      "title": "Sliver (Live In Springfield, MA., November 10, 1993)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 115933,
+      "ids": {
+        "appleMusic": "1440917838"
+      }
+    },
+    {
+      "title": "Spank Thru (Live In Rome, Italy, November 19, 1991)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 190467,
+      "ids": {
+        "appleMusic": "1440917844"
+      }
+    },
+    {
+      "title": "Scentless Apprentice (Live In Seattle, WA., December 13, 1993)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 211133,
+      "ids": {
+        "appleMusic": "1440917849"
+      }
+    },
+    {
+      "title": "Heart-Shaped Box (Live In Los Angeles, CA, December 30, 1993)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 281600,
+      "ids": {
+        "appleMusic": "1440917851"
+      }
+    },
+    {
+      "title": "Milk It (Live In Seattle, WA., January 5, 1994)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 225667,
+      "ids": {
+        "appleMusic": "1440917853"
+      }
+    },
+    {
+      "title": "Negative Creep (Live In Seattle, WA., October 31, 1991)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 163640,
+      "ids": {
+        "appleMusic": "1440917860"
+      }
+    },
+    {
+      "title": "Polly (Live At London Astoria, UK, December 3, 1989)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 150067,
+      "ids": {
+        "appleMusic": "1440918138"
+      }
+    },
+    {
+      "title": "Breed (Live At London Astoria, UK, December 3, 1989)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 208190,
+      "ids": {
+        "appleMusic": "1440918148"
+      }
+    },
+    {
+      "title": "Tourette's (Live At Reading Festival, UK, August 30, 1992)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 115357,
+      "ids": {
+        "appleMusic": "1440918155"
+      }
+    },
+    {
+      "title": "Blew (Live In Amsterdam At Paradiso, November 25, 1991)",
+      "artist": "Nirvana",
+      "album": "From the Muddy Banks of the Wishkah (Live)",
+      "durationMs": 216240,
+      "ids": {
+        "appleMusic": "1440918255"
+      }
+    },
+    {
+      "title": "About a Girl (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 218000,
+      "ids": {
+        "appleMusic": "1440892384"
+      }
+    },
+    {
+      "title": "Come As You Are (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 253907,
+      "ids": {
+        "appleMusic": "1440892667"
+      }
+    },
+    {
+      "title": "Jesus Doesn't Want Me for a Sunbeam (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 277267,
+      "ids": {
+        "appleMusic": "1440892673"
+      }
+    },
+    {
+      "title": "The Man Who Sold the World (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 261093,
+      "ids": {
+        "appleMusic": "1440892680"
+      }
+    },
+    {
+      "title": "Pennyroyal Tea (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 220507,
+      "ids": {
+        "appleMusic": "1440892686"
+      }
+    },
+    {
+      "title": "Dumb (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 172933,
+      "ids": {
+        "appleMusic": "1440892965"
+      }
+    },
+    {
+      "title": "Polly (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 196467,
+      "ids": {
+        "appleMusic": "1440892975"
+      }
+    },
+    {
+      "title": "On a Plain (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 224733,
+      "ids": {
+        "appleMusic": "1440892985"
+      }
+    },
+    {
+      "title": "Something In the Way (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 241533,
+      "ids": {
+        "appleMusic": "1440893051"
+      }
+    },
+    {
+      "title": "Plateau (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 218133,
+      "ids": {
+        "appleMusic": "1440893056"
+      }
+    },
+    {
+      "title": "Oh, Me (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 206160,
+      "ids": {
+        "appleMusic": "1440893061"
+      }
+    },
+    {
+      "title": "Lake of Fire (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 175973,
+      "ids": {
+        "appleMusic": "1440893065"
+      }
+    },
+    {
+      "title": "All Apologies (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 263227,
+      "ids": {
+        "appleMusic": "1440893070"
+      }
+    },
+    {
+      "title": "Where Did You Sleep Last Night (Live Acoustic)",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York (Live Acoustic)",
+      "durationMs": 306067,
+      "ids": {
+        "appleMusic": "1440893075"
+      }
+    },
+    {
+      "title": "Serve the Servants",
+      "artist": "Nirvana",
+      "album": "In Utero (20th Anniversary Edition)",
+      "durationMs": 217200,
+      "ids": {
+        "appleMusic": "1440858845"
+      }
+    },
+    {
+      "title": "Scentless Apprentice",
+      "artist": "Nirvana",
+      "album": "In Utero (20th Anniversary Deluxe Edition)",
+      "durationMs": 228080,
+      "ids": {
+        "appleMusic": "1440876000"
+      }
+    },
+    {
+      "title": "Heart-Shaped Box",
+      "artist": "Nirvana",
+      "album": "In Utero (20th Anniversary Edition)",
+      "durationMs": 281093,
+      "ids": {
+        "appleMusic": "1440859107"
+      }
+    },
+    {
+      "title": "Rape Me",
+      "artist": "Nirvana",
+      "album": "In Utero (20th Anniversary Edition)",
+      "durationMs": 170000,
+      "ids": {
+        "appleMusic": "1440859114"
+      }
+    },
+    {
+      "title": "Frances Farmer Will Have Her Revenge On Seattle",
+      "artist": "Nirvana",
+      "album": "In Utero (20th Anniversary Deluxe Edition)",
+      "durationMs": 250133,
+      "ids": {
+        "appleMusic": "1440876218"
+      }
+    },
+    {
+      "title": "Dumb",
+      "artist": "Nirvana",
+      "album": "In Utero (20th Anniversary Edition)",
+      "durationMs": 151880,
+      "ids": {
+        "appleMusic": "1440859361"
+      }
+    },
+    {
+      "title": "Very Ape",
+      "artist": "Nirvana",
+      "album": "In Utero (20th Anniversary Edition)",
+      "durationMs": 115733,
+      "ids": {
+        "appleMusic": "1440859386"
+      }
+    },
+    {
+      "title": "Milk It",
+      "artist": "Nirvana",
+      "album": "In Utero (20th Anniversary Deluxe Edition)",
+      "durationMs": 234773,
+      "ids": {
+        "appleMusic": "1440876407"
+      }
+    },
+    {
+      "title": "Pennyroyal Tea",
+      "artist": "Nirvana",
+      "album": "In Utero (20th Anniversary Deluxe Edition)",
+      "durationMs": 218827,
+      "ids": {
+        "appleMusic": "1440876414"
+      }
+    },
+    {
+      "title": "Radio Friendly Unit Shifter",
+      "artist": "Nirvana",
+      "album": "In Utero (20th Anniversary Deluxe Edition)",
+      "durationMs": 291560,
+      "ids": {
+        "appleMusic": "1440876422"
+      }
+    },
+    {
+      "title": "Tourette's",
+      "artist": "Nirvana",
+      "album": "In Utero (20th Anniversary Deluxe Edition)",
+      "durationMs": 95387,
+      "ids": {
+        "appleMusic": "1440876430"
+      }
+    },
+    {
+      "title": "All Apologies (2023 Remaster)",
+      "artist": "Nirvana",
+      "album": "In Utero (30th Anniversary Super Deluxe)",
+      "durationMs": 231256,
+      "ids": {
+        "appleMusic": "1702925922"
+      }
+    },
+    {
+      "title": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 301920,
+      "ids": {
+        "appleMusic": "1440823697"
+      }
+    },
+    {
+      "title": "In Bloom",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 255080,
+      "ids": {
+        "appleMusic": "1440823700"
+      }
+    },
+    {
+      "title": "Come As You Are",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 218920,
+      "ids": {
+        "appleMusic": "1440823703"
+      }
+    },
+    {
+      "title": "Breed",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 184040,
+      "ids": {
+        "appleMusic": "1440823706"
+      }
+    },
+    {
+      "title": "Lithium",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 257053,
+      "ids": {
+        "appleMusic": "1440823708"
+      }
+    },
+    {
+      "title": "Polly",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 173853,
+      "ids": {
+        "appleMusic": "1440823711"
+      }
+    },
+    {
+      "title": "Territorial Pissings",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 142947,
+      "ids": {
+        "appleMusic": "1440823713"
+      }
+    },
+    {
+      "title": "Drain You",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 223880,
+      "ids": {
+        "appleMusic": "1440823718"
+      }
+    },
+    {
+      "title": "Lounge Act",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 156427,
+      "ids": {
+        "appleMusic": "1440824142"
+      }
+    },
+    {
+      "title": "Stay Away",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 211440,
+      "ids": {
+        "appleMusic": "1440824148"
+      }
+    },
+    {
+      "title": "On a Plain",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 194427,
+      "ids": {
+        "appleMusic": "1440824155"
+      }
+    },
+    {
+      "title": "Something In the Way",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 232147,
+      "ids": {
+        "appleMusic": "1440824160"
+      }
+    },
+    {
+      "title": "Endless, Nameless",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 403093,
+      "ids": {
+        "appleMusic": "1440824168"
+      }
+    },
+    {
+      "title": "Even In His Youth (B-Side)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 182187,
+      "ids": {
+        "appleMusic": "1440824170"
+      }
+    },
+    {
+      "title": "Aneurysm (B-Side)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 285613,
+      "ids": {
+        "appleMusic": "1440824354"
+      }
+    },
+    {
+      "title": "Curmudgeon (B-Side)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 177133,
+      "ids": {
+        "appleMusic": "1440824365"
+      }
+    },
+    {
+      "title": "D-7 (Live At the BBC)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 224133,
+      "ids": {
+        "appleMusic": "1440824367"
+      }
+    },
+    {
+      "title": "Been a Son (Live At Paramount Theatre B-Side)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 150067,
+      "ids": {
+        "appleMusic": "1440824371"
+      }
+    },
+    {
+      "title": "School (Live At Paramount Theatre/1991)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Deluxe Edition)",
+      "durationMs": 153947,
+      "ids": {
+        "appleMusic": "1586895738"
+      }
+    },
+    {
+      "title": "Drain You (Live At Paramount Theatre B-Side)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 232253,
+      "ids": {
+        "appleMusic": "1440824679"
+      }
+    },
+    {
+      "title": "Sliver (Live At Del Mar B-Side)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 123347,
+      "ids": {
+        "appleMusic": "1440824686"
+      }
+    },
+    {
+      "title": "Polly (Live At Del Mar B-Side)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 167213,
+      "ids": {
+        "appleMusic": "1440824693"
+      }
+    },
+    {
+      "title": "In Bloom (Smart Sessions)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 270733,
+      "ids": {
+        "appleMusic": "1440824709"
+      }
+    },
+    {
+      "title": "Immodium (Breed) [Smart Sessions]",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 193853,
+      "ids": {
+        "appleMusic": "1440824811"
+      }
+    },
+    {
+      "title": "Lithium (Smart Sessions)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 270173,
+      "ids": {
+        "appleMusic": "1440824819"
+      }
+    },
+    {
+      "title": "Polly (Smart Sessions)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 178253,
+      "ids": {
+        "appleMusic": "1440824828"
+      }
+    },
+    {
+      "title": "Pay to Play (Smart Sessions)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 208027,
+      "ids": {
+        "appleMusic": "1440825077"
+      }
+    },
+    {
+      "title": "Here She Comes Now (Smart Sessions)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 299853,
+      "ids": {
+        "appleMusic": "1440825083"
+      }
+    },
+    {
+      "title": "Dive (Smart Sessions)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 234107,
+      "ids": {
+        "appleMusic": "1440825089"
+      }
+    },
+    {
+      "title": "Sappy (Smart Sessions)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 214893,
+      "ids": {
+        "appleMusic": "1440825097"
+      }
+    },
+    {
+      "title": "Smells Like Teen Spirit (Boombox Rehearsals)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 339280,
+      "ids": {
+        "appleMusic": "1440825258"
+      }
+    },
+    {
+      "title": "Verse Chorus Verse (Boombox Rehearsals)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 192333,
+      "ids": {
+        "appleMusic": "1440825270"
+      }
+    },
+    {
+      "title": "Territorial Pissings (Boombox Rehearsals)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 130853,
+      "ids": {
+        "appleMusic": "1440825464"
+      }
+    },
+    {
+      "title": "Lounge Act (Boombox Rehearsals)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 156280,
+      "ids": {
+        "appleMusic": "1440825476"
+      }
+    },
+    {
+      "title": "Come As You Are (Boombox Rehearsals)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 251293,
+      "ids": {
+        "appleMusic": "1440825487"
+      }
+    },
+    {
+      "title": "Old Age (Boombox Rehearsals)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 261453,
+      "ids": {
+        "appleMusic": "1440825743"
+      }
+    },
+    {
+      "title": "Something In the Way (Boombox Rehearsals)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 330240,
+      "ids": {
+        "appleMusic": "1440825759"
+      }
+    },
+    {
+      "title": "On a Plain (Boombox Rehearsals)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 200333,
+      "ids": {
+        "appleMusic": "1440825876"
+      }
+    },
+    {
+      "title": "Drain You (Live At the BBC)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 242587,
+      "ids": {
+        "appleMusic": "1440825950"
+      }
+    },
+    {
+      "title": "Something In the Way (Live At the BBC)",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 203653,
+      "ids": {
+        "appleMusic": "1440825961"
+      }
+    },
+    {
+      "title": "Blew",
+      "artist": "Nirvana",
+      "album": "Bleach (Deluxe Edition)",
+      "durationMs": 174134,
+      "ids": {
+        "appleMusic": "669728223"
+      }
+    },
+    {
+      "title": "Floyd the Barber",
+      "artist": "Nirvana",
+      "album": "Bleach (Deluxe Edition)",
+      "durationMs": 138048,
+      "ids": {
+        "appleMusic": "669728224"
+      }
+    },
+    {
+      "title": "About a Girl",
+      "artist": "Nirvana",
+      "album": "Bleach (Deluxe Edition)",
+      "durationMs": 168429,
+      "ids": {
+        "appleMusic": "669728225"
+      }
+    },
+    {
+      "title": "School",
+      "artist": "Nirvana",
+      "album": "Bleach (Deluxe Edition)",
+      "durationMs": 162116,
+      "ids": {
+        "appleMusic": "669728226"
+      }
+    },
+    {
+      "title": "Love Buzz",
+      "artist": "Nirvana",
+      "album": "Bleach (Deluxe Edition)",
+      "durationMs": 215203,
+      "ids": {
+        "appleMusic": "669728227"
+      }
+    },
+    {
+      "title": "Paper Cuts (Remastered)",
+      "artist": "Nirvana",
+      "album": "Bleach (20th Anniversary Deluxe Edition)",
+      "durationMs": 245761
+    },
+    {
+      "title": "Negative Creep",
+      "artist": "Nirvana",
+      "album": "Bleach (Deluxe Edition)",
+      "durationMs": 175745,
+      "ids": {
+        "appleMusic": "669728249"
+      }
+    },
+    {
+      "title": "Scoff (Remastered)",
+      "artist": "Nirvana",
+      "album": "Bleach (20th Anniversary Deluxe Edition)",
+      "durationMs": 250088
+    },
+    {
+      "title": "Swap Meet (Remastered)",
+      "artist": "Nirvana",
+      "album": "Bleach (20th Anniversary Deluxe Edition)",
+      "durationMs": 182826
+    },
+    {
+      "title": "Mr. Mustache (Remastered)",
+      "artist": "Nirvana",
+      "album": "Bleach (20th Anniversary Deluxe Edition)",
+      "durationMs": 203943
+    },
+    {
+      "title": "Sifting (Remastered)",
+      "artist": "Nirvana",
+      "album": "Bleach (20th Anniversary Deluxe Edition)",
+      "durationMs": 322040
+    },
+    {
+      "title": "Big Cheese (Remastered)",
+      "artist": "Nirvana",
+      "album": "Bleach (20th Anniversary Deluxe Edition)",
+      "durationMs": 222192
+    },
+    {
+      "title": "Downer (Remastered)",
+      "artist": "Nirvana",
+      "album": "Bleach (20th Anniversary Deluxe Edition)",
+      "durationMs": 103626
+    },
+    {
+      "title": "Intro (Live At Pine Street Theatre)",
+      "artist": "Nirvana",
+      "album": "Bleach (20th Anniversary Deluxe Edition)",
+      "durationMs": 52631
+    },
+    {
+      "title": "School (Live At Pine Street Theatre)",
+      "artist": "Nirvana",
+      "album": "Bleach (20th Anniversary Deluxe Edition)",
+      "durationMs": 156310,
+      "ids": {
+        "appleMusic": "669728226"
+      }
+    },
+    {
+      "title": "Floyd the Barber (Live at Pine Street Theatre)",
+      "artist": "Nirvana",
+      "album": "Bleach (Deluxe Edition)",
+      "durationMs": 136874,
+      "ids": {
+        "appleMusic": "669728264"
+      }
+    },
+    {
+      "title": "Dive (Live at Pine Street Theatre)",
+      "artist": "Nirvana",
+      "album": "Bleach (Deluxe Edition)",
+      "durationMs": 222432,
+      "ids": {
+        "appleMusic": "669728265"
+      }
+    },
+    {
+      "title": "Love Buzz (Live at Pine Street Theatre)",
+      "artist": "Nirvana",
+      "album": "Bleach (Deluxe Edition)",
+      "durationMs": 177761,
+      "ids": {
+        "appleMusic": "669728266"
+      }
+    },
+    {
+      "title": "Spank Thru (Live At Pine Street Theatre)",
+      "artist": "Nirvana",
+      "album": "Bleach (20th Anniversary Deluxe Edition)",
+      "durationMs": 179289,
+      "ids": {
+        "appleMusic": "1440917844"
+      }
+    },
+    {
+      "title": "Molly's Lips (Live At Pine Street Theatre)",
+      "artist": "Nirvana",
+      "album": "Bleach (20th Anniversary Deluxe Edition)",
+      "durationMs": 135756
+    },
+    {
+      "title": "Sappy (Live at Pine Street Theatre)",
+      "artist": "Nirvana",
+      "album": "Bleach (Deluxe Edition)",
+      "durationMs": 199200,
+      "ids": {
+        "appleMusic": "669728289"
+      }
+    },
+    {
+      "title": "Scoff (Live at Pine Street Theatre)",
+      "artist": "Nirvana",
+      "album": "Bleach (Deluxe Edition)",
+      "durationMs": 232627,
+      "ids": {
+        "appleMusic": "669728290"
+      }
+    },
+    {
+      "title": "About a Girl (Live At Pine Street Theatre)",
+      "artist": "Nirvana",
+      "album": "Bleach (20th Anniversary Deluxe Edition)",
+      "durationMs": 147842,
+      "ids": {
+        "appleMusic": "669728225"
+      }
+    },
+    {
+      "title": "Been a Son (Live at Pine Street Theatre)",
+      "artist": "Nirvana",
+      "album": "Bleach (Deluxe Edition)",
+      "durationMs": 120559,
+      "ids": {
+        "appleMusic": "669728292"
+      }
+    },
+    {
+      "title": "Blew (Live At Pine Street Theatre)",
+      "artist": "Nirvana",
+      "album": "Bleach (20th Anniversary Deluxe Edition)",
+      "durationMs": 271754,
+      "ids": {
+        "appleMusic": "669728223"
+      }
+    },
+    {
+      "title": "Everlong",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 250547,
+      "ids": {
+        "appleMusic": "362133505"
+      }
+    },
+    {
+      "title": "Best of You",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 255261,
+      "ids": {
+        "appleMusic": "300855110"
+      }
+    },
+    {
+      "title": "Tomorrow (Remastered)",
+      "artist": "Silverchair",
+      "album": "Frogstomp 20th Anniversary (Remastered)",
+      "durationMs": 266280,
+      "ids": {
+        "appleMusic": "977670084"
+      }
+    },
+    {
+      "title": "Anthem for the Year 2000",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 247787,
+      "ids": {
+        "appleMusic": "192818612"
+      }
+    },
+    {
+      "title": "Miss You Love",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 240733,
+      "ids": {
+        "appleMusic": "192818638"
+      }
+    },
+    {
+      "title": "Hunger Strike",
+      "artist": "Temple of the Dog",
+      "album": "Temple of the Dog",
+      "durationMs": 246267,
+      "ids": {
+        "appleMusic": "1440657642"
+      }
+    },
+    {
+      "title": "Intro",
+      "artist": "The Offspring",
+      "album": "Conspiracy of One",
+      "durationMs": 5160,
+      "ids": {
+        "appleMusic": "1440887297"
+      }
+    },
+    {
+      "title": "Come Out Swinging",
+      "artist": "The Offspring",
+      "album": "Conspiracy of One",
+      "durationMs": 167240,
+      "ids": {
+        "appleMusic": "1440887315"
+      }
+    },
+    {
+      "title": "Original Prankster (feat. Redman)",
+      "artist": "The Offspring",
+      "album": "Conspiracy of One",
+      "durationMs": 220947,
+      "ids": {
+        "appleMusic": "1440887413"
+      }
+    },
+    {
+      "title": "Want You Bad",
+      "artist": "The Offspring",
+      "album": "Badass Vibe",
+      "durationMs": 202573,
+      "ids": {
+        "appleMusic": "1734314308"
+      }
+    },
+    {
+      "title": "Million Miles Away",
+      "artist": "The Offspring",
+      "album": "Rock Para Empezar El Año En El Gimnasio",
+      "durationMs": 219800,
+      "ids": {
+        "appleMusic": "1784372231"
+      }
+    },
+    {
+      "title": "Dammit, I Changed Again",
+      "artist": "The Offspring",
+      "album": "Conspiracy of One",
+      "durationMs": 168893,
+      "ids": {
+        "appleMusic": "1440887604"
+      }
+    },
+    {
+      "title": "Living in Chaos",
+      "artist": "The Offspring",
+      "album": "Conspiracy of One",
+      "durationMs": 208320,
+      "ids": {
+        "appleMusic": "1440887615"
+      }
+    },
+    {
+      "title": "Special Delivery",
+      "artist": "The Offspring",
+      "album": "Conspiracy of One",
+      "durationMs": 180453,
+      "ids": {
+        "appleMusic": "1440887653"
+      }
+    },
+    {
+      "title": "One Fine Day",
+      "artist": "The Offspring",
+      "album": "Conspiracy of One",
+      "durationMs": 165147,
+      "ids": {
+        "appleMusic": "1440887659"
+      }
+    },
+    {
+      "title": "All Along",
+      "artist": "The Offspring",
+      "album": "Conspiracy of One",
+      "durationMs": 98627,
+      "ids": {
+        "appleMusic": "1440887668"
+      }
+    },
+    {
+      "title": "Denial, Revisited",
+      "artist": "The Offspring",
+      "album": "Conspiracy of One",
+      "durationMs": 272760,
+      "ids": {
+        "appleMusic": "1440887671"
+      }
+    },
+    {
+      "title": "Vultures",
+      "artist": "The Offspring",
+      "album": "Conspiracy of One",
+      "durationMs": 214187,
+      "ids": {
+        "appleMusic": "1440887676"
+      }
+    },
+    {
+      "title": "Conspiracy of One",
+      "artist": "The Offspring",
+      "album": "Conspiracy of One",
+      "durationMs": 136973,
+      "ids": {
+        "appleMusic": "1440887679"
+      }
+    },
+    {
+      "title": "Welcome",
+      "artist": "The Offspring",
+      "album": "Americana",
+      "durationMs": 9680,
+      "ids": {
+        "appleMusic": "1440881417"
+      }
+    },
+    {
+      "title": "Have You Ever",
+      "artist": "The Offspring",
+      "album": "Americana",
+      "durationMs": 236733,
+      "ids": {
+        "appleMusic": "1440881505"
+      }
+    },
+    {
+      "title": "Staring At The Sun",
+      "artist": "The Offspring",
+      "album": "Solo Rock 90s",
+      "durationMs": 133587,
+      "ids": {
+        "appleMusic": "1838541597"
+      }
+    },
+    {
+      "title": "Pretty Fly (For a White Guy)",
+      "artist": "The Offspring",
+      "album": "Americana",
+      "durationMs": 188667,
+      "ids": {
+        "appleMusic": "1440881518"
+      }
+    },
+    {
+      "title": "The Kids Aren't Alright",
+      "artist": "The Offspring",
+      "album": "Americana",
+      "durationMs": 180160,
+      "ids": {
+        "appleMusic": "1440881625"
+      }
+    },
+    {
+      "title": "Feelings",
+      "artist": "The Offspring",
+      "album": "Americana",
+      "durationMs": 172000,
+      "ids": {
+        "appleMusic": "1440881632"
+      }
+    },
+    {
+      "title": "She's Got Issues",
+      "artist": "The Offspring",
+      "album": "Americana",
+      "durationMs": 228653,
+      "ids": {
+        "appleMusic": "1440881640"
+      }
+    },
+    {
+      "title": "Walla Walla",
+      "artist": "The Offspring",
+      "album": "Americana",
+      "durationMs": 177053,
+      "ids": {
+        "appleMusic": "1440881646"
+      }
+    },
+    {
+      "title": "The End of the Line",
+      "artist": "The Offspring",
+      "album": "Americana",
+      "durationMs": 182413,
+      "ids": {
+        "appleMusic": "1440881831"
+      }
+    },
+    {
+      "title": "No Brakes",
+      "artist": "The Offspring",
+      "album": "¡Hora de Patinar!",
+      "durationMs": 124053,
+      "ids": {
+        "appleMusic": "1751831129"
+      }
+    },
+    {
+      "title": "Americana",
+      "artist": "The Offspring",
+      "album": "Cocinando Con Rock",
+      "durationMs": 195160,
+      "ids": {
+        "appleMusic": "1771600009"
+      }
+    },
+    {
+      "title": "Pay the Man",
+      "artist": "The Offspring",
+      "album": "Americana",
+      "durationMs": 490147,
+      "ids": {
+        "appleMusic": "1440882042"
+      }
+    },
+    {
+      "title": "Pretty Fly (Reprise)",
+      "artist": "The Offspring",
+      "album": "Americana",
+      "durationMs": 63240,
+      "ids": {
+        "appleMusic": "1440882047"
+      }
+    },
+    {
+      "title": "Time to Relax",
+      "artist": "The Offspring",
+      "album": "Smash (Remastered)",
+      "durationMs": 25467,
+      "ids": {
+        "appleMusic": "1485043083"
+      }
+    },
+    {
+      "title": "Nitro (Youth Energy)",
+      "artist": "The Offspring",
+      "album": "Smash (Remastered)",
+      "durationMs": 146960,
+      "ids": {
+        "appleMusic": "1485043084"
+      }
+    },
+    {
+      "title": "Bad Habit",
+      "artist": "The Offspring",
+      "album": "Smash (Remastered)",
+      "durationMs": 223907,
+      "ids": {
+        "appleMusic": "1485043085"
+      }
+    },
+    {
+      "title": "Gotta Get Away",
+      "artist": "The Offspring",
+      "album": "Smash (Remastered)",
+      "durationMs": 232160,
+      "ids": {
+        "appleMusic": "1485043446"
+      }
+    },
+    {
+      "title": "Genocide",
+      "artist": "The Offspring",
+      "album": "Smash (Remastered)",
+      "durationMs": 213107,
+      "ids": {
+        "appleMusic": "1485043447"
+      }
+    },
+    {
+      "title": "Something to Believe In",
+      "artist": "The Offspring",
+      "album": "Smash (Remastered)",
+      "durationMs": 197600,
+      "ids": {
+        "appleMusic": "1485043448"
+      }
+    },
+    {
+      "title": "Come Out and Play (Keep 'Em Separated)",
+      "artist": "The Offspring",
+      "album": "Smash (Remastered)",
+      "durationMs": 197800,
+      "ids": {
+        "appleMusic": "1485043449"
+      }
+    },
+    {
+      "title": "Self Esteem",
+      "artist": "The Offspring",
+      "album": "Smash (Remastered)",
+      "durationMs": 257827,
+      "ids": {
+        "appleMusic": "1485043450"
+      }
+    },
+    {
+      "title": "It'll Be a Long Time",
+      "artist": "The Offspring",
+      "album": "Smash (Remastered)",
+      "durationMs": 163267,
+      "ids": {
+        "appleMusic": "1485043451"
+      }
+    },
+    {
+      "title": "Killboy Powerhead",
+      "artist": "The Offspring",
+      "album": "Smash (Remastered)",
+      "durationMs": 122707,
+      "ids": {
+        "appleMusic": "1485043452"
+      }
+    },
+    {
+      "title": "What Happened to You?",
+      "artist": "The Offspring",
+      "album": "Smash (Remastered)",
+      "durationMs": 132133,
+      "ids": {
+        "appleMusic": "1485043453"
+      }
+    },
+    {
+      "title": "So Alone",
+      "artist": "The Offspring",
+      "album": "Smash (Remastered)",
+      "durationMs": 77267,
+      "ids": {
+        "appleMusic": "1485043454"
+      }
+    },
+    {
+      "title": "Not the One",
+      "artist": "The Offspring",
+      "album": "Smash (Remastered)",
+      "durationMs": 174360,
+      "ids": {
+        "appleMusic": "1485043455"
+      }
+    },
+    {
+      "title": "Smash",
+      "artist": "The Offspring",
+      "album": "Smash (Remastered)",
+      "durationMs": 640200,
+      "ids": {
+        "appleMusic": "1485043456"
+      }
+    },
+    {
+      "title": "Roots Bloody Roots",
+      "artist": "Sepultura",
+      "album": "Metal Rewind",
+      "durationMs": 212253,
+      "ids": {
+        "appleMusic": "1707207284"
+      }
+    },
+    {
+      "title": "Attitude",
+      "artist": "Sepultura",
+      "album": "Roots",
+      "durationMs": 255400,
+      "ids": {
+        "appleMusic": "214473839"
+      }
+    },
+    {
+      "title": "Cut-Throat",
+      "artist": "Sepultura",
+      "album": "The Complete Max Cavalera Collection 1987-1996",
+      "durationMs": 164733,
+      "ids": {
+        "appleMusic": "576936084"
+      }
+    },
+    {
+      "title": "Ratamahatta",
+      "artist": "Sepultura",
+      "album": "Metal Blasts: Drums Rule",
+      "durationMs": 270640,
+      "ids": {
+        "appleMusic": "1476531871"
+      }
+    },
+    {
+      "title": "Breed Apart",
+      "artist": "Sepultura",
+      "album": "The Complete Max Cavalera Collection 1987-1996",
+      "durationMs": 241133,
+      "ids": {
+        "appleMusic": "576936086"
+      }
+    },
+    {
+      "title": "Straighthate",
+      "artist": "Sepultura",
+      "album": "The Complete Max Cavalera Collection 1987-1996",
+      "durationMs": 321627,
+      "ids": {
+        "appleMusic": "576936087"
+      }
+    },
+    {
+      "title": "Spit",
+      "artist": "Sepultura",
+      "album": "The Complete Max Cavalera Collection 1987-1996",
+      "durationMs": 165840,
+      "ids": {
+        "appleMusic": "576936088"
+      }
+    },
+    {
+      "title": "Lookaway",
+      "artist": "Sepultura",
+      "album": "The Complete Max Cavalera Collection 1987-1996",
+      "durationMs": 325733,
+      "ids": {
+        "appleMusic": "576936089"
+      }
+    },
+    {
+      "title": "Dusted",
+      "artist": "Sepultura",
+      "album": "The Complete Max Cavalera Collection 1987-1996",
+      "durationMs": 243800,
+      "ids": {
+        "appleMusic": "576936090"
+      }
+    },
+    {
+      "title": "Born Stubborn",
+      "artist": "Sepultura",
+      "album": "The Complete Max Cavalera Collection 1987-1996",
+      "durationMs": 247667,
+      "ids": {
+        "appleMusic": "576936091"
+      }
+    },
+    {
+      "title": "Jasco",
+      "artist": "Sepultura",
+      "album": "The Complete Max Cavalera Collection 1987-1996",
+      "durationMs": 117827,
+      "ids": {
+        "appleMusic": "576936092"
+      }
+    },
+    {
+      "title": "Itsari",
+      "artist": "Sepultura",
+      "album": "The Complete Max Cavalera Collection 1987-1996",
+      "durationMs": 288667,
+      "ids": {
+        "appleMusic": "576936093"
+      }
+    },
+    {
+      "title": "Ambush",
+      "artist": "Sepultura",
+      "album": "The Complete Max Cavalera Collection 1987-1996",
+      "durationMs": 278373,
+      "ids": {
+        "appleMusic": "576936094"
+      }
+    },
+    {
+      "title": "Endangered Species",
+      "artist": "Sepultura",
+      "album": "The Complete Max Cavalera Collection 1987-1996",
+      "durationMs": 320427,
+      "ids": {
+        "appleMusic": "576936095"
+      }
+    },
+    {
+      "title": "Dictatorshit",
+      "artist": "Sepultura",
+      "album": "The Complete Max Cavalera Collection 1987-1996",
+      "durationMs": 84133,
+      "ids": {
+        "appleMusic": "576936096"
+      }
+    },
+    {
+      "title": "Canyon Jam",
+      "artist": "Sepultura",
+      "album": "The Complete Max Cavalera Collection 1987-1996",
+      "durationMs": 799200,
+      "ids": {
+        "appleMusic": "576936097"
+      }
+    },
+    {
+      "title": "Emotion Sickness",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 360813,
+      "ids": {
+        "appleMusic": "192818319"
+      }
+    },
+    {
+      "title": "Spawn (Again)",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 207573,
+      "ids": {
+        "appleMusic": "192818630"
+      }
+    },
+    {
+      "title": "Dearest Helpless",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 214467,
+      "ids": {
+        "appleMusic": "192818708"
+      }
+    },
+    {
+      "title": "Do You Feel the Same",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 258227,
+      "ids": {
+        "appleMusic": "192818781"
+      }
+    },
+    {
+      "title": "Black Tangled Heart",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 273467,
+      "ids": {
+        "appleMusic": "192818982"
+      }
+    },
+    {
+      "title": "Point of View",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 215067,
+      "ids": {
+        "appleMusic": "192819027"
+      }
+    },
+    {
+      "title": "Satin Sheets",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 144333,
+      "ids": {
+        "appleMusic": "192819037"
+      }
+    },
+    {
+      "title": "Paint Pastel Princess",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 273600,
+      "ids": {
+        "appleMusic": "192819049"
+      }
+    },
+    {
+      "title": "Steam Will Rise",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 317867,
+      "ids": {
+        "appleMusic": "192819199"
+      }
+    },
+    {
+      "title": "People of the Sun",
+      "artist": "Rage Against the Machine",
+      "album": "Evil Empire",
+      "durationMs": 150067,
+      "ids": {
+        "appleMusic": "390538383"
+      }
+    },
+    {
+      "title": "Bulls On Parade",
+      "artist": "Rage Against the Machine",
+      "album": "Rock Clássico",
+      "durationMs": 229467,
+      "ids": {
+        "appleMusic": "1778714255"
+      }
+    },
+    {
+      "title": "Vietnow",
+      "artist": "Rage Against the Machine",
+      "album": "Evil Empire",
+      "durationMs": 277333,
+      "ids": {
+        "appleMusic": "390538386"
+      }
+    },
+    {
+      "title": "Revolver",
+      "artist": "Rage Against the Machine",
+      "album": "Evil Empire",
+      "durationMs": 327947,
+      "ids": {
+        "appleMusic": "390538390"
+      }
+    },
+    {
+      "title": "Snakecharmer",
+      "artist": "Rage Against the Machine",
+      "album": "Evil Empire",
+      "durationMs": 235400,
+      "ids": {
+        "appleMusic": "390538393"
+      }
+    },
+    {
+      "title": "Tire Me",
+      "artist": "Rage Against the Machine",
+      "album": "Evil Empire",
+      "durationMs": 177733,
+      "ids": {
+        "appleMusic": "390538402"
+      }
+    },
+    {
+      "title": "Down Rodeo",
+      "artist": "Rage Against the Machine",
+      "album": "Evil Empire",
+      "durationMs": 320627,
+      "ids": {
+        "appleMusic": "390538410"
+      }
+    },
+    {
+      "title": "Without a Face",
+      "artist": "Rage Against the Machine",
+      "album": "Evil Empire",
+      "durationMs": 216907,
+      "ids": {
+        "appleMusic": "390538413"
+      }
+    },
+    {
+      "title": "Wind Below",
+      "artist": "Rage Against the Machine",
+      "album": "Evil Empire",
+      "durationMs": 350427,
+      "ids": {
+        "appleMusic": "390538418"
+      }
+    },
+    {
+      "title": "Roll Right",
+      "artist": "Rage Against the Machine",
+      "album": "Evil Empire",
+      "durationMs": 260267,
+      "ids": {
+        "appleMusic": "390538420"
+      }
+    },
+    {
+      "title": "Year of tha Boomerang",
+      "artist": "Rage Against the Machine",
+      "album": "Evil Empire",
+      "durationMs": 239640,
+      "ids": {
+        "appleMusic": "390538422"
+      }
+    },
+    {
+      "title": "Testify",
+      "artist": "Rage Against the Machine",
+      "album": "The Battle of Los Angeles",
+      "durationMs": 210133,
+      "ids": {
+        "appleMusic": "192816689"
+      }
+    },
+    {
+      "title": "Guerrilla Radio",
+      "artist": "Rage Against the Machine",
+      "album": "The 90s: Decade of Classics",
+      "durationMs": 206200,
+      "ids": {
+        "appleMusic": "1691420358"
+      }
+    },
+    {
+      "title": "Calm Like a Bomb",
+      "artist": "Rage Against the Machine",
+      "album": "The Matrix Reloaded: The Album (Music from the Motion Picture)",
+      "durationMs": 298867,
+      "ids": {
+        "appleMusic": "328872083"
+      }
+    },
+    {
+      "title": "Mic Check",
+      "artist": "Rage Against the Machine",
+      "album": "The Battle of Los Angeles",
+      "durationMs": 213640,
+      "ids": {
+        "appleMusic": "192816733"
+      }
+    },
+    {
+      "title": "Sleep Now In the Fire",
+      "artist": "Rage Against the Machine",
+      "album": "The Battle of Los Angeles",
+      "durationMs": 205600,
+      "ids": {
+        "appleMusic": "192816780"
+      }
+    },
+    {
+      "title": "Born of a Broken Man",
+      "artist": "Rage Against the Machine",
+      "album": "The Battle of Los Angeles",
+      "durationMs": 280960,
+      "ids": {
+        "appleMusic": "192816817"
+      }
+    },
+    {
+      "title": "Born As Ghosts",
+      "artist": "Rage Against the Machine",
+      "album": "The Battle of Los Angeles",
+      "durationMs": 202040,
+      "ids": {
+        "appleMusic": "192816908"
+      }
+    },
+    {
+      "title": "Maria",
+      "artist": "Rage Against the Machine",
+      "album": "The Battle of Los Angeles",
+      "durationMs": 228093,
+      "ids": {
+        "appleMusic": "192817125"
+      }
+    },
+    {
+      "title": "Voice of the Voiceless",
+      "artist": "Rage Against the Machine",
+      "album": "The Battle of Los Angeles",
+      "durationMs": 151573,
+      "ids": {
+        "appleMusic": "192817221"
+      }
+    },
+    {
+      "title": "New Millennium Homes",
+      "artist": "Rage Against the Machine",
+      "album": "The Battle of Los Angeles",
+      "durationMs": 224933,
+      "ids": {
+        "appleMusic": "192817326"
+      }
+    },
+    {
+      "title": "Ashes In the Fall",
+      "artist": "Rage Against the Machine",
+      "album": "The Battle of Los Angeles",
+      "durationMs": 277267,
+      "ids": {
+        "appleMusic": "192817384"
+      }
+    },
+    {
+      "title": "War Within a Breath",
+      "artist": "Rage Against the Machine",
+      "album": "The Battle of Los Angeles",
+      "durationMs": 216427,
+      "ids": {
+        "appleMusic": "192817464"
+      }
+    },
+    {
+      "title": "Bombtrack",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 243453,
+      "ids": {
+        "appleMusic": "578028950"
+      }
+    },
+    {
+      "title": "Killing In The Name",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 313573,
+      "ids": {
+        "appleMusic": "578028952"
+      }
+    },
+    {
+      "title": "Take The Power Back",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 336440,
+      "ids": {
+        "appleMusic": "578028953"
+      }
+    },
+    {
+      "title": "Settle For Nothing",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 286667,
+      "ids": {
+        "appleMusic": "578028955"
+      }
+    },
+    {
+      "title": "Bullet In The Head",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 306680,
+      "ids": {
+        "appleMusic": "578028956"
+      }
+    },
+    {
+      "title": "Know Your Enemy",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 294507,
+      "ids": {
+        "appleMusic": "578028957"
+      }
+    },
+    {
+      "title": "Wake Up",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 363853,
+      "ids": {
+        "appleMusic": "578028959"
+      }
+    },
+    {
+      "title": "Fistful Of Steel",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 330547,
+      "ids": {
+        "appleMusic": "578028974"
+      }
+    },
+    {
+      "title": "Township Rebellion",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 324080,
+      "ids": {
+        "appleMusic": "578028975"
+      }
+    },
+    {
+      "title": "Freedom",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 366333,
+      "ids": {
+        "appleMusic": "578028976"
+      }
+    },
+    {
+      "title": "Bombtrack (Live at 1st Avenue, Minneapolis, MN, 04/1993)",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 356507,
+      "ids": {
+        "appleMusic": "578028977"
+      }
+    },
+    {
+      "title": "Bullet In The Head (Live at Melkweg, Amsterdam, 02/1993)",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 343133,
+      "ids": {
+        "appleMusic": "578028978"
+      }
+    },
+    {
+      "title": "Take the Power Back (Live at 86th Street Music Hall, Vancouver, B.C., 04/1993)",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 369240,
+      "ids": {
+        "appleMusic": "578028979"
+      }
+    },
+    {
+      "title": "Bombtrack (Demo)",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 244453,
+      "ids": {
+        "appleMusic": "578028980"
+      }
+    },
+    {
+      "title": "Take The Power Back (Demo)",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 339733,
+      "ids": {
+        "appleMusic": "578028981"
+      }
+    },
+    {
+      "title": "Bullet In The Head (Demo)",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 309173,
+      "ids": {
+        "appleMusic": "578028982"
+      }
+    },
+    {
+      "title": "Darkness of Greed (Demo)",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 219800,
+      "ids": {
+        "appleMusic": "578028983"
+      }
+    },
+    {
+      "title": "Clear The Lane (Demo)",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 227200,
+      "ids": {
+        "appleMusic": "578028984"
+      }
+    },
+    {
+      "title": "Township Rebellion (Demo)",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 258827,
+      "ids": {
+        "appleMusic": "578028987"
+      }
+    },
+    {
+      "title": "Know Your Enemy (Demo)",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 258320,
+      "ids": {
+        "appleMusic": "578028990"
+      }
+    },
+    {
+      "title": "Mindset's A Threat (Demo)",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 235813,
+      "ids": {
+        "appleMusic": "578028991"
+      }
+    },
+    {
+      "title": "Killing In The Name (Demo)",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 386760,
+      "ids": {
+        "appleMusic": "578028993"
+      }
+    },
+    {
+      "title": "Autologic (Demo)",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 246240,
+      "ids": {
+        "appleMusic": "578028994"
+      }
+    },
+    {
+      "title": "The Narrows (Demo)",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 275640,
+      "ids": {
+        "appleMusic": "578028995"
+      }
+    },
+    {
+      "title": "Freedom (Demo)",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 340653,
+      "ids": {
+        "appleMusic": "578028996"
+      }
+    },
+    {
+      "title": "Lake of Fire",
+      "artist": "Meat Puppets",
+      "album": "II",
+      "durationMs": 116973,
+      "ids": {
+        "appleMusic": "879386010"
+      }
+    },
+    {
+      "title": "Brain of J.",
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "durationMs": 179173
+    },
+    {
+      "title": "Faithful",
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "durationMs": 258560
+    },
+    {
+      "title": "No Way",
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "durationMs": 258977
+    },
+    {
+      "title": "Given to Fly",
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "durationMs": 240907
+    },
+    {
+      "title": "Wishlist",
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "durationMs": 206579
+    },
+    {
+      "title": "Pilate",
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "durationMs": 180320
+    },
+    {
+      "title": "Do the Evolution",
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "durationMs": 233755
+    },
+    {
+      "title": "Red Bar",
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "durationMs": 66953
+    },
+    {
+      "title": "MFC",
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "durationMs": 147871
+    },
+    {
+      "title": "Low Light",
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "durationMs": 225943
+    },
+    {
+      "title": "In Hiding",
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "durationMs": 299706
+    },
+    {
+      "title": "Push Me, Pull Me",
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "durationMs": 148004
+    },
+    {
+      "title": "All Those Yesterdays",
+      "artist": "Pearl Jam",
+      "album": "Yield",
+      "durationMs": 462580
+    },
+    {
+      "title": "Life Wasted",
+      "artist": "Pearl Jam",
+      "album": "Pearl Jam",
+      "durationMs": 232000
+    },
+    {
+      "title": "World Wide Suicide",
+      "artist": "Pearl Jam",
+      "album": "Pearl Jam",
+      "durationMs": 207347
+    },
+    {
+      "title": "Comatose",
+      "artist": "Pearl Jam",
+      "album": "Pearl Jam",
+      "durationMs": 139907
+    },
+    {
+      "title": "Severed Hand",
+      "artist": "Pearl Jam",
+      "album": "Pearl Jam",
+      "durationMs": 267653
+    },
+    {
+      "title": "Marker In the Sand",
+      "artist": "Pearl Jam",
+      "album": "Pearl Jam",
+      "durationMs": 261627
+    },
+    {
+      "title": "Parachutes",
+      "artist": "Pearl Jam",
+      "album": "Pearl Jam",
+      "durationMs": 215320
+    },
+    {
+      "title": "Unemployable",
+      "artist": "Pearl Jam",
+      "album": "Pearl Jam",
+      "durationMs": 183547
+    },
+    {
+      "title": "Big Wave",
+      "artist": "Pearl Jam",
+      "album": "Pearl Jam",
+      "durationMs": 176333
+    },
+    {
+      "title": "Gone",
+      "artist": "Pearl Jam",
+      "album": "Pearl Jam",
+      "durationMs": 247920
+    },
+    {
+      "title": "Wasted Reprise",
+      "artist": "Pearl Jam",
+      "album": "Pearl Jam",
+      "durationMs": 52227
+    },
+    {
+      "title": "Army Reserve",
+      "artist": "Pearl Jam",
+      "album": "Pearl Jam",
+      "durationMs": 222547
+    },
+    {
+      "title": "Come Back",
+      "artist": "Pearl Jam",
+      "album": "Pearl Jam",
+      "durationMs": 326040
+    },
+    {
+      "title": "Inside Job",
+      "artist": "Pearl Jam",
+      "album": "Pearl Jam",
+      "durationMs": 428560
+    },
+    {
+      "title": "Can't Keep",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 218947
+    },
+    {
+      "title": "Save You",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 230160
+    },
+    {
+      "title": "Love Boat Captain",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 276373
+    },
+    {
+      "title": "Cropduster",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 231591
+    },
+    {
+      "title": "Ghost",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 195063
+    },
+    {
+      "title": "I Am Mine",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 215680
+    },
+    {
+      "title": "Thumbing My Way",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 250133
+    },
+    {
+      "title": "You Are",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 270720
+    },
+    {
+      "title": "Get Right",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 158487
+    },
+    {
+      "title": "Green Disease",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 161113
+    },
+    {
+      "title": "Help Help",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 215000
+    },
+    {
+      "title": "Bu$Hleaguer",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 237347
+    },
+    {
+      "title": "1/2 Full",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 250867
+    },
+    {
+      "title": "Arc",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 65480
+    },
+    {
+      "title": "All or None",
+      "artist": "Pearl Jam",
+      "album": "Riot Act",
+      "durationMs": 277409
+    },
+    {
+      "title": "Breakerfall",
+      "artist": "Pearl Jam",
+      "album": "Binaural",
+      "durationMs": 139422,
+      "ids": {
+        "appleMusic": "688730680"
+      }
+    },
+    {
+      "title": "Gods' Dice",
+      "artist": "Pearl Jam",
+      "album": "Binaural",
+      "durationMs": 146066,
+      "ids": {
+        "appleMusic": "688730681"
+      }
+    },
+    {
+      "title": "Evacuation",
+      "artist": "Pearl Jam",
+      "album": "Binaural",
+      "durationMs": 176108,
+      "ids": {
+        "appleMusic": "688730682"
+      }
+    },
+    {
+      "title": "Light Years",
+      "artist": "Pearl Jam",
+      "album": "Binaural",
+      "durationMs": 306937,
+      "ids": {
+        "appleMusic": "688730683"
+      }
+    },
+    {
+      "title": "Nothing As It Seems",
+      "artist": "Pearl Jam",
+      "album": "Binaural",
+      "durationMs": 322793,
+      "ids": {
+        "appleMusic": "688730685"
+      }
+    },
+    {
+      "title": "Thin Air",
+      "artist": "Pearl Jam",
+      "album": "Binaural",
+      "durationMs": 212691,
+      "ids": {
+        "appleMusic": "688730686"
+      }
+    },
+    {
+      "title": "Insignificance",
+      "artist": "Pearl Jam",
+      "album": "Binaural",
+      "durationMs": 268332,
+      "ids": {
+        "appleMusic": "688730687"
+      }
+    },
+    {
+      "title": "Of the Girl",
+      "artist": "Pearl Jam",
+      "album": "Binaural",
+      "durationMs": 307297,
+      "ids": {
+        "appleMusic": "688730688"
+      }
+    },
+    {
+      "title": "Grievance",
+      "artist": "Pearl Jam",
+      "album": "Binaural",
+      "durationMs": 194821,
+      "ids": {
+        "appleMusic": "688731349"
+      }
+    },
+    {
+      "title": "Rival",
+      "artist": "Pearl Jam",
+      "album": "Binaural",
+      "durationMs": 218501,
+      "ids": {
+        "appleMusic": "688731350"
+      }
+    },
+    {
+      "title": "Sleight of Hand",
+      "artist": "Pearl Jam",
+      "album": "Binaural",
+      "durationMs": 287673,
+      "ids": {
+        "appleMusic": "688731351"
+      }
+    },
+    {
+      "title": "Soon Forget",
+      "artist": "Pearl Jam",
+      "album": "Binaural",
+      "durationMs": 106563,
+      "ids": {
+        "appleMusic": "688731352"
+      }
+    },
+    {
+      "title": "Parting Ways",
+      "artist": "Pearl Jam",
+      "album": "Binaural",
+      "durationMs": 437252,
+      "ids": {
+        "appleMusic": "688731353"
+      }
+    },
+    {
+      "title": "Whiskey In the Jar",
+      "artist": "Metallica",
+      "album": "Garage Inc.",
+      "durationMs": 304800,
+      "ids": {
+        "appleMusic": "1440857603"
+      }
+    },
+    {
+      "title": "Tomorrow",
+      "artist": "Silverchair",
+      "album": "The Best of Silverchair, Vol. 1",
+      "durationMs": 266200,
+      "ids": {
+        "appleMusic": "193023048"
+      }
+    },
+    {
+      "title": "Don't Stop Me Now (Remastered 2011)",
+      "artist": "Queen",
+      "album": "Energia Rock",
+      "durationMs": 209413,
+      "ids": {
+        "appleMusic": "1884584295"
+      }
+    },
+    {
+      "title": "Bohemian Rhapsody (Remastered 2011)",
+      "artist": "Queen",
+      "album": "Halloween 2024",
+      "durationMs": 354320,
+      "ids": {
+        "appleMusic": "1776667852"
+      }
+    },
+    {
+      "title": "Cochise",
+      "artist": "Audioslave",
+      "album": "Rock Clássico",
+      "durationMs": 222027,
+      "ids": {
+        "appleMusic": "1778714089"
+      }
+    },
+    {
+      "title": "Gasoline",
+      "artist": "Audioslave",
+      "album": "Audioslave",
+      "durationMs": 279333,
+      "ids": {
+        "appleMusic": "163301729"
+      }
+    },
+    {
+      "title": "What You Are",
+      "artist": "Audioslave",
+      "album": "Audioslave",
+      "durationMs": 249400,
+      "ids": {
+        "appleMusic": "163301734"
+      }
+    },
+    {
+      "title": "Like a Stone",
+      "artist": "Audioslave",
+      "album": "Rock Clássico",
+      "durationMs": 293960,
+      "ids": {
+        "appleMusic": "1778713854"
+      }
+    },
+    {
+      "title": "Set It Off",
+      "artist": "Audioslave",
+      "album": "Audioslave",
+      "durationMs": 263200,
+      "ids": {
+        "appleMusic": "163301795"
+      }
+    },
+    {
+      "title": "Shadow On the Sun",
+      "artist": "Audioslave",
+      "album": "Audioslave",
+      "durationMs": 343400,
+      "ids": {
+        "appleMusic": "163301800"
+      }
+    },
+    {
+      "title": "I Am the Highway",
+      "artist": "Audioslave",
+      "album": "Audioslave",
+      "durationMs": 334907,
+      "ids": {
+        "appleMusic": "163301801"
+      }
+    },
+    {
+      "title": "Exploder",
+      "artist": "Audioslave",
+      "album": "Audioslave",
+      "durationMs": 206000,
+      "ids": {
+        "appleMusic": "163301802"
+      }
+    },
+    {
+      "title": "Hypnotize",
+      "artist": "Audioslave",
+      "album": "Audioslave",
+      "durationMs": 206560,
+      "ids": {
+        "appleMusic": "163301813"
+      }
+    },
+    {
+      "title": "Bring Em Back Alive",
+      "artist": "Audioslave",
+      "album": "Audioslave",
+      "durationMs": 328773,
+      "ids": {
+        "appleMusic": "163301816"
+      }
+    },
+    {
+      "title": "Light My Way",
+      "artist": "Audioslave",
+      "album": "Audioslave",
+      "durationMs": 303400,
+      "ids": {
+        "appleMusic": "163301822"
+      }
+    },
+    {
+      "title": "Getaway Car",
+      "artist": "Audioslave",
+      "album": "Audioslave",
+      "durationMs": 298893,
+      "ids": {
+        "appleMusic": "163301825"
+      }
+    },
+    {
+      "title": "The Last Remaining Light",
+      "artist": "Audioslave",
+      "album": "Audioslave",
+      "durationMs": 317160,
+      "ids": {
+        "appleMusic": "163301828"
+      }
+    },
+    {
+      "title": "Ondas de Poluição",
+      "artist": "Filhos do Totem",
+      "album": "O Que Me Faz Viver",
+      "durationMs": 145608,
+      "ids": {
+        "appleMusic": "1012655872"
+      }
+    },
+    {
+      "title": "Sessão",
+      "artist": "Filhos do Totem",
+      "album": "O Que Me Faz Viver",
+      "durationMs": 152426,
+      "ids": {
+        "appleMusic": "1012655873"
+      }
+    },
+    {
+      "title": "Seu Lugar",
+      "artist": "Filhos do Totem",
+      "album": "O Que Me Faz Viver",
+      "durationMs": 166976,
+      "ids": {
+        "appleMusic": "1012655874"
+      }
+    },
+    {
+      "title": "To Na Paz",
+      "artist": "Filhos do Totem",
+      "album": "O Que Me Faz Viver",
+      "durationMs": 208824,
+      "ids": {
+        "appleMusic": "1012655875"
+      }
+    },
+    {
+      "title": "Vou Me Libertar",
+      "artist": "Filhos do Totem",
+      "album": "O Que Me Faz Viver",
+      "durationMs": 148586,
+      "ids": {
+        "appleMusic": "1012655876"
+      }
+    },
+    {
+      "title": "O Que Me Faz Viver",
+      "artist": "Filhos do Totem",
+      "album": "O Que Me Faz Viver",
+      "durationMs": 137510,
+      "ids": {
+        "appleMusic": "1012655877"
+      }
+    },
+    {
+      "title": "Um Cara Legal",
+      "artist": "Filhos do Totem",
+      "album": "O Que Me Faz Viver",
+      "durationMs": 152530,
+      "ids": {
+        "appleMusic": "1012655878"
+      }
+    },
+    {
+      "title": "Super-Herói",
+      "artist": "Filhos do Totem",
+      "album": "O Que Me Faz Viver",
+      "durationMs": 175361,
+      "ids": {
+        "appleMusic": "1012655879"
+      }
+    },
+    {
+      "title": "Calmaria",
+      "artist": "Filhos do Totem",
+      "album": "O Que Me Faz Viver",
+      "durationMs": 63322,
+      "ids": {
+        "appleMusic": "1012655880"
+      }
+    },
+    {
+      "title": "Será",
+      "artist": "Filhos do Totem",
+      "album": "O Que Me Faz Viver",
+      "durationMs": 145268,
+      "ids": {
+        "appleMusic": "1012655881"
+      }
+    },
+    {
+      "title": "Nada Demais",
+      "artist": "Filhos do Totem",
+      "album": "O Que Me Faz Viver",
+      "durationMs": 149552,
+      "ids": {
+        "appleMusic": "1012655882"
+      }
+    },
+    {
+      "title": "Das Licht dieser Welt",
+      "artist": "Gisbert zu Knyphausen",
+      "album": "Das Licht dieser Welt - Single",
+      "durationMs": 244616,
+      "ids": {
+        "appleMusic": "1189249393"
+      }
+    },
+    {
+      "title": "Das Licht dieser Welt (Bandversion)",
+      "artist": "Gisbert zu Knyphausen",
+      "album": "Das Licht dieser Welt - Single",
+      "durationMs": 244572,
+      "ids": {
+        "appleMusic": "1189249396"
+      }
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "name": "This Is Interpol",
+  "tracks": [
+    {
+      "title": "See Out Loud",
+      "artist": "Interpol",
+      "album": "This Mirror Weighs a Ton",
+      "durationMs": 296747,
+      "ids": {
+        "appleMusic": "6768694734"
+      }
+    },
+    {
+      "title": "Evil",
+      "artist": "Interpol",
+      "album": "Antics",
+      "durationMs": 215827
+    },
+    {
+      "title": "Obstacle 1",
+      "artist": "Interpol",
+      "album": "Turn On The Bright Lights",
+      "durationMs": 251293
+    },
+    {
+      "title": "Rest My Chemistry",
+      "artist": "Interpol",
+      "album": "Our Love To Admire",
+      "durationMs": 301094,
+      "ids": {
+        "appleMusic": "1645063624"
+      }
+    },
+    {
+      "title": "This Mirror Weighs a Ton",
+      "artist": "Interpol",
+      "album": "This Mirror Weighs a Ton",
+      "durationMs": 312253,
+      "ids": {
+        "appleMusic": "6768694731"
+      }
+    },
+    {
+      "title": "C'mere",
+      "artist": "Interpol",
+      "album": "Antics",
+      "durationMs": 191173
+    },
+    {
+      "title": "Untitled",
+      "artist": "Interpol",
+      "album": "Turn On The Bright Lights",
+      "durationMs": 236707
+    },
+    {
+      "title": "No I In Threesome",
+      "artist": "Interpol",
+      "album": "Our Love To Admire",
+      "durationMs": 231529,
+      "ids": {
+        "appleMusic": "1645063609"
+      }
+    },
+    {
+      "title": "All the Rage Back Home",
+      "artist": "Interpol",
+      "album": "El Pintor",
+      "durationMs": 262427
+    },
+    {
+      "title": "Slow Hands",
+      "artist": "Interpol",
+      "album": "Antics",
+      "durationMs": 183973
+    },
+    {
+      "title": "PDA",
+      "artist": "Interpol",
+      "album": "Turn On The Bright Lights",
+      "durationMs": 299773
+    },
+    {
+      "title": "The Heinrich Maneuver",
+      "artist": "Interpol",
+      "album": "Our Love To Admire",
+      "durationMs": 208423,
+      "ids": {
+        "appleMusic": "1645063614"
+      }
+    },
+    {
+      "title": "If You Really Love Nothing",
+      "artist": "Interpol",
+      "album": "Marauder",
+      "durationMs": 265573,
+      "ids": {
+        "appleMusic": "1586489219"
+      }
+    },
+    {
+      "title": "Narc",
+      "artist": "Interpol",
+      "album": "Antics",
+      "durationMs": 247907
+    },
+    {
+      "title": "Leif Erikson",
+      "artist": "Interpol",
+      "album": "Turn On The Bright Lights",
+      "durationMs": 240093
+    },
+    {
+      "title": "Pioneer To The Falls",
+      "artist": "Interpol",
+      "album": "Our Love To Admire",
+      "durationMs": 342539,
+      "ids": {
+        "appleMusic": "1645063608"
+      }
+    },
+    {
+      "title": "My Desire",
+      "artist": "Interpol",
+      "album": "El Pintor",
+      "durationMs": 300027
+    },
+    {
+      "title": "The Rover",
+      "artist": "Interpol",
+      "album": "Marauder",
+      "durationMs": 217693,
+      "ids": {
+        "appleMusic": "1586489221"
+      }
+    },
+    {
+      "title": "Say Hello to the Angels",
+      "artist": "Interpol",
+      "album": "Turn On The Bright Lights",
+      "durationMs": 268333
+    },
+    {
+      "title": "Take You on a Cruise",
+      "artist": "Interpol",
+      "album": "Antics (The Twentieth Anniversary Edition)",
+      "durationMs": 294400,
+      "ids": {
+        "appleMusic": "1755482004"
+      }
+    },
+    {
+      "title": "Pace Is The Trick",
+      "artist": "Interpol",
+      "album": "Our Love To Admire",
+      "durationMs": 277304,
+      "ids": {
+        "appleMusic": "1645063619"
+      }
+    },
+    {
+      "title": "Everything Is Wrong",
+      "artist": "Interpol",
+      "album": "El Pintor",
+      "durationMs": 212853
+    },
+    {
+      "title": "NYC",
+      "artist": "Interpol",
+      "album": "Turn On The Bright Lights",
+      "durationMs": 259733
+    },
+    {
+      "title": "Not Even Jail",
+      "artist": "Interpol",
+      "album": "Antics (The Twentieth Anniversary Edition)",
+      "durationMs": 346627,
+      "ids": {
+        "appleMusic": "1755482009"
+      }
+    },
+    {
+      "title": "The Scale",
+      "artist": "Interpol",
+      "album": "Our Love To Admire",
+      "durationMs": 205040,
+      "ids": {
+        "appleMusic": "1645063612"
+      }
+    },
+    {
+      "title": "Barricade",
+      "artist": "Interpol",
+      "album": "Interpol",
+      "durationMs": 250000,
+      "ids": {
+        "appleMusic": "1691271871"
+      }
+    },
+    {
+      "title": "Toni",
+      "artist": "Interpol"
+    },
+    {
+      "title": "My Blue Supreme",
+      "artist": "Interpol"
+    },
+    {
+      "title": "Song Seven",
+      "artist": "Interpol",
+      "album": "Antics (The Special Edition)",
+      "durationMs": 292333,
+      "ids": {
+        "appleMusic": "1589185680"
+      }
+    },
+    {
+      "title": "Try It On",
+      "artist": "Interpol"
+    },
+    {
+      "title": "Flight of Fancy",
+      "artist": "Interpol",
+      "album": "Marauder",
+      "durationMs": 231813,
+      "ids": {
+        "appleMusic": "1586489225"
+      }
+    },
+    {
+      "title": "Anywhere",
+      "artist": "Interpol",
+      "album": "El Pintor",
+      "durationMs": 192973
+    },
+    {
+      "title": "What Is What",
+      "artist": "Interpol",
+      "album": "El Pintor (Bonus Tracks) - Single",
+      "durationMs": 213777,
+      "ids": {
+        "appleMusic": "1691268155"
+      }
+    },
+    {
+      "title": "Lights",
+      "artist": "Interpol",
+      "album": "Interpol",
+      "durationMs": 337867,
+      "ids": {
+        "appleMusic": "1691271867"
+      }
+    },
+    {
+      "title": "Specialist",
+      "artist": "Interpol"
+    },
+    {
+      "title": "Tidal Wave",
+      "artist": "Interpol",
+      "album": "El Pintor",
+      "durationMs": 257773
+    },
+    {
+      "title": "Passenger",
+      "artist": "Interpol",
+      "album": "The Other Side of Make-Believe",
+      "durationMs": 254400,
+      "ids": {
+        "appleMusic": "1614604876"
+      }
+    },
+    {
+      "title": "Stay In Touch",
+      "artist": "Interpol",
+      "album": "Marauder",
+      "durationMs": 293213,
+      "ids": {
+        "appleMusic": "1586489556"
+      }
+    },
+    {
+      "title": "The Depths",
+      "artist": "Interpol",
+      "album": "El Pintor (Bonus Tracks) - Single",
+      "durationMs": 248120,
+      "ids": {
+        "appleMusic": "1691268143"
+      }
+    },
+    {
+      "title": "Summer Well",
+      "artist": "Interpol",
+      "album": "Interpol",
+      "durationMs": 243467,
+      "ids": {
+        "appleMusic": "1691271866"
+      }
+    },
+    {
+      "title": "Fables",
+      "artist": "Interpol",
+      "album": "The Other Side of Make-Believe",
+      "durationMs": 274040,
+      "ids": {
+        "appleMusic": "1614604411"
+      }
+    },
+    {
+      "title": "NYSMAW",
+      "artist": "Interpol",
+      "album": "Marauder",
+      "durationMs": 196853,
+      "ids": {
+        "appleMusic": "1586489561"
+      }
+    },
+    {
+      "title": "Fine Mess",
+      "artist": "Interpol",
+      "album": "A Fine Mess - EP",
+      "durationMs": 195733,
+      "ids": {
+        "appleMusic": "1586497814"
+      }
+    },
+    {
+      "title": "Success",
+      "artist": "Interpol",
+      "album": "Interpol",
+      "durationMs": 206613,
+      "ids": {
+        "appleMusic": "1691271856"
+      }
+    },
+    {
+      "title": "Mr. Credit",
+      "artist": "Interpol",
+      "album": "The Other Side of Make-Believe",
+      "durationMs": 228133,
+      "ids": {
+        "appleMusic": "1614604855"
+      }
+    },
+    {
+      "title": "Mountain Child",
+      "artist": "Interpol",
+      "album": "Marauder",
+      "durationMs": 188053,
+      "ids": {
+        "appleMusic": "1586489558"
+      }
+    },
+    {
+      "title": "Memory Serves",
+      "artist": "Interpol",
+      "album": "Interpol",
+      "durationMs": 301787,
+      "ids": {
+        "appleMusic": "1691271858"
+      }
+    },
+    {
+      "title": "Gran Hotel",
+      "artist": "Interpol",
+      "album": "The Other Side of Make-Believe",
+      "durationMs": 244027,
+      "ids": {
+        "appleMusic": "1614605106"
+      }
+    },
+    {
+      "title": "Something Changed",
+      "artist": "Interpol",
+      "album": "The Other Side of Make-Believe",
+      "durationMs": 236227,
+      "ids": {
+        "appleMusic": "1614604868"
+      }
+    }
+  ]
+}

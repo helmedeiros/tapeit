@@ -1,0 +1,113 @@
+{
+  "name": "Weezer -The Teal Album",
+  "tracks": [
+    {
+      "title": "Africa",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 238627,
+      "ids": {
+        "appleMusic": "1450271000"
+      }
+    },
+    {
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 244800,
+      "ids": {
+        "appleMusic": "1450271005"
+      }
+    },
+    {
+      "title": "Sweet Dreams (Are Made of This)",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 214760,
+      "ids": {
+        "appleMusic": "1450271316"
+      }
+    },
+    {
+      "title": "Take on Me",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 223560,
+      "ids": {
+        "appleMusic": "1450271321"
+      }
+    },
+    {
+      "title": "Happy Together",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 145640,
+      "ids": {
+        "appleMusic": "1450271327"
+      }
+    },
+    {
+      "title": "Paranoid",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 164853,
+      "ids": {
+        "appleMusic": "1450271329"
+      }
+    },
+    {
+      "title": "Mr. Blue Sky",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 286347,
+      "ids": {
+        "appleMusic": "1450271331"
+      }
+    },
+    {
+      "title": "No Scrubs",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 190280,
+      "ids": {
+        "appleMusic": "1450271333"
+      }
+    },
+    {
+      "title": "Billie Jean",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 294120,
+      "ids": {
+        "appleMusic": "1450271427"
+      }
+    },
+    {
+      "title": "Stand by Me",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 180920,
+      "ids": {
+        "appleMusic": "1450271429"
+      }
+    },
+    {
+      "title": "Zombie Bastards",
+      "artist": "Weezer",
+      "album": "Weezer (Black Album)",
+      "durationMs": 251000,
+      "ids": {
+        "appleMusic": "1442329824"
+      }
+    },
+    {
+      "title": "Can't Knock the Hustle",
+      "artist": "Weezer",
+      "album": "Weezer (Black Album)",
+      "durationMs": 221187,
+      "ids": {
+        "appleMusic": "1442329823"
+      }
+    }
+  ]
+}

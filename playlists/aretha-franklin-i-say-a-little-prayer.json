@@ -1,0 +1,539 @@
+{
+  "name": "Aretha Franklin — I Say A Little Prayer",
+  "tracks": [
+    {
+      "title": "I Say a Little Prayer",
+      "artist": "Aretha Franklin",
+      "album": "The Atlantic Albums Collection",
+      "durationMs": 212360,
+      "ids": {
+        "appleMusic": "1055456837"
+      }
+    },
+    {
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "album": "1",
+      "durationMs": 425653,
+      "ids": {
+        "appleMusic": "1440834224"
+      }
+    },
+    {
+      "title": "Imagine",
+      "artist": "John Lennon",
+      "album": "Signature Box (Remastered)",
+      "durationMs": 187867,
+      "ids": {
+        "appleMusic": "721275427"
+      }
+    },
+    {
+      "title": "My Way (Remastered 2008)",
+      "artist": "Frank Sinatra",
+      "album": "Ultimate Sinatra: The Centennial Collection",
+      "durationMs": 274933,
+      "ids": {
+        "appleMusic": "1440848291"
+      }
+    },
+    {
+      "title": "Ode to My Family",
+      "artist": "The Cranberries",
+      "album": "The Treasure Box for Boys and Girls",
+      "durationMs": 271533,
+      "ids": {
+        "appleMusic": "1440953232"
+      }
+    },
+    {
+      "title": "What A Wonderful World",
+      "artist": "Louis Armstrong",
+      "album": "圣诞围炉歌单",
+      "durationMs": 137987,
+      "ids": {
+        "appleMusic": "1719476440"
+      }
+    },
+    {
+      "title": "And I Love Her (Live Unplugged)",
+      "artist": "Paul McCartney",
+      "album": "Unplugged: The Official Bootleg (Live)",
+      "durationMs": 256933,
+      "ids": {
+        "appleMusic": "1440940603"
+      }
+    },
+    {
+      "title": "Can't Help Falling In Love",
+      "artist": "Elvis Presley",
+      "album": "Blue Hawaii (Original Soundtrack)",
+      "durationMs": 185878,
+      "ids": {
+        "appleMusic": "949550091"
+      }
+    },
+    {
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "album": "Let's Stay Together - Single",
+      "durationMs": 199396,
+      "ids": {
+        "appleMusic": "1606271339"
+      }
+    },
+    {
+      "title": "Who You Love (feat. Katy Perry)",
+      "artist": "John Mayer",
+      "album": "Paradise Valley",
+      "durationMs": 252707
+    },
+    {
+      "title": "Yesterday",
+      "artist": "The Beatles",
+      "album": "Help!",
+      "durationMs": 125667,
+      "ids": {
+        "appleMusic": "1441164805"
+      }
+    },
+    {
+      "title": "Danny's Song",
+      "artist": "Loggins \u0026 Messina",
+      "album": "Sittin' In",
+      "durationMs": 255773,
+      "ids": {
+        "appleMusic": "186228865"
+      }
+    },
+    {
+      "title": "Sultans of Swing",
+      "artist": "Dire Straits",
+      "album": "Dire Straits (Remastered)",
+      "durationMs": 348400,
+      "ids": {
+        "appleMusic": "1440801919"
+      }
+    },
+    {
+      "title": "Could You Be Loved",
+      "artist": "Bob Marley \u0026 The Wailers",
+      "album": "Legend: The Best of Bob Marley and the Wailers (Deluxe Edition)",
+      "durationMs": 236947,
+      "ids": {
+        "appleMusic": "1496696605"
+      }
+    },
+    {
+      "title": "I'll Take You There (Single Version)",
+      "artist": "The Staple Singers",
+      "album": "The Very Best of the Staple Singers",
+      "durationMs": 196827,
+      "ids": {
+        "appleMusic": "1440926039"
+      }
+    },
+    {
+      "title": "Like a Rolling Stone",
+      "artist": "Bob Dylan",
+      "album": "Highway 61 Revisited",
+      "durationMs": 371714,
+      "ids": {
+        "appleMusic": "201281527"
+      }
+    },
+    {
+      "title": "Brown Eyed Girl",
+      "artist": "Van Morrison",
+      "album": "Blowin' Your Mind!",
+      "durationMs": 186559,
+      "ids": {
+        "appleMusic": "1828716610"
+      }
+    },
+    {
+      "title": "Back to Black",
+      "artist": "Amy Winehouse",
+      "album": "Back to Black",
+      "durationMs": 240440
+    },
+    {
+      "title": "All You Need Is Love (Remastered 2009)",
+      "artist": "The Beatles",
+      "album": "All You Need Is Love",
+      "durationMs": 231213,
+      "ids": {
+        "appleMusic": "6781822528"
+      }
+    },
+    {
+      "title": "(They Long To Be) Close To You [feat. Dionne Warwick]",
+      "artist": "Isabella Taviani",
+      "album": "Carpenters Avenue",
+      "durationMs": 211413,
+      "ids": {
+        "appleMusic": "1686930695"
+      }
+    },
+    {
+      "title": "Mrs. Robinson",
+      "artist": "Simon \u0026 Garfunkel",
+      "album": "Bookends",
+      "durationMs": 247420,
+      "ids": {
+        "appleMusic": "203304387"
+      }
+    },
+    {
+      "title": "Only You (And You Alone)",
+      "artist": "The Platters",
+      "album": "Golden Hits",
+      "durationMs": 156560,
+      "ids": {
+        "appleMusic": "1783391461"
+      }
+    },
+    {
+      "title": "Non, je ne regrette rien",
+      "artist": "Édith Piaf",
+      "album": "The Best of Édith Piaf",
+      "durationMs": 142280,
+      "ids": {
+        "appleMusic": "726380514"
+      }
+    },
+    {
+      "title": "Come Together (Remastered 2009)",
+      "artist": "The Beatles",
+      "album": "Discover More Classic Rock",
+      "durationMs": 259947,
+      "ids": {
+        "appleMusic": "1527145177"
+      }
+    },
+    {
+      "title": "Rock the Casbah (Remastered)",
+      "artist": "The Clash",
+      "album": "Sound System",
+      "durationMs": 222438,
+      "ids": {
+        "appleMusic": "688797060"
+      }
+    },
+    {
+      "title": "(I Can't Get No) Satisfaction (Mono)",
+      "artist": "The Rolling Stones",
+      "album": "Rock: The Classics",
+      "durationMs": 222987,
+      "ids": {
+        "appleMusic": "6763242400"
+      }
+    },
+    {
+      "title": "It's A Man's, Man's, Man's World (Single Version / Mono)",
+      "artist": "James Brown",
+      "album": "Black History Month: Classroom Edition",
+      "durationMs": 167040,
+      "ids": {
+        "appleMusic": "1876363268"
+      }
+    },
+    {
+      "title": "My Girl",
+      "artist": "The Temptations",
+      "album": "The Temptations Sing Smokey",
+      "durationMs": 164728,
+      "ids": {
+        "appleMusic": "1423301921"
+      }
+    },
+    {
+      "title": "Never Going Back Again",
+      "artist": "Fleetwood Mac",
+      "album": "Rumours",
+      "durationMs": 134400,
+      "ids": {
+        "appleMusic": "594061857"
+      }
+    },
+    {
+      "title": "Água de Beber",
+      "artist": "Astrud Gilberto",
+      "album": "The Astrud Gilberto Album",
+      "durationMs": 139276,
+      "ids": {
+        "appleMusic": "1469584221"
+      }
+    },
+    {
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "album": "1",
+      "durationMs": 230773
+    },
+    {
+      "title": "Stand by Me",
+      "artist": "Ben E. King",
+      "album": "Me inventé una vida entera con el que me cruzó la mirada en el bus.",
+      "durationMs": 174800,
+      "ids": {
+        "appleMusic": "1879483438"
+      }
+    },
+    {
+      "title": "These Boots Are Made for Walkin'",
+      "artist": "Nancy Sinatra",
+      "album": "Start Walkin' 1965-1976",
+      "durationMs": 166133,
+      "ids": {
+        "appleMusic": "1536004916"
+      }
+    },
+    {
+      "title": "Wild World",
+      "artist": "Cat Stevens",
+      "album": "Kuhanje : Let's Rock!",
+      "durationMs": 200573,
+      "ids": {
+        "appleMusic": "1892461409"
+      }
+    },
+    {
+      "title": "Changes",
+      "artist": "Black Sabbath",
+      "album": "Greatest Hits",
+      "durationMs": 281333,
+      "ids": {
+        "appleMusic": "1447244209"
+      }
+    },
+    {
+      "title": "Hello, Goodbye",
+      "artist": "The Beatles",
+      "album": "1",
+      "durationMs": 207987
+    },
+    {
+      "title": "My Sweet Lord (Remastered)",
+      "artist": "George Harrison",
+      "album": "1971: The Year That Music Changed Everything",
+      "durationMs": 281227,
+      "ids": {
+        "appleMusic": "1567623704"
+      }
+    },
+    {
+      "title": "Rocket Man (I Think It's Going to Be a Long Long Time)",
+      "artist": "Elton John",
+      "album": "Honky Château (Bonus Track Version)",
+      "durationMs": 281613,
+      "ids": {
+        "appleMusic": "1440910931"
+      }
+    },
+    {
+      "title": "Every Breath You Take (Remastered 2003)",
+      "artist": "The Police",
+      "album": "Good Times",
+      "durationMs": 253920,
+      "ids": {
+        "appleMusic": "1554153519"
+      }
+    },
+    {
+      "title": "Yellow Submarine",
+      "artist": "The Beatles",
+      "album": "Yellow Submarine",
+      "durationMs": 158720,
+      "ids": {
+        "appleMusic": "1441164526"
+      }
+    },
+    {
+      "title": "Ebony and Ivory",
+      "artist": "Paul McCartney \u0026 Stevie Wonder",
+      "album": "All The Best (UK Version)",
+      "durationMs": 221400,
+      "ids": {
+        "appleMusic": "1440942063"
+      }
+    },
+    {
+      "title": "With a Little Help From My Friends",
+      "artist": "The Beatles",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band",
+      "durationMs": 164107
+    },
+    {
+      "title": "Everybody's Changing",
+      "artist": "Keane",
+      "album": "Hopes and Fears (Deluxe Edition)",
+      "durationMs": 216520,
+      "ids": {
+        "appleMusic": "1473425007"
+      }
+    },
+    {
+      "title": "One",
+      "artist": "U2",
+      "album": "Achtung Baby (20th Anniversary Deluxe Edition)",
+      "durationMs": 276198,
+      "ids": {
+        "appleMusic": "1440809274"
+      }
+    },
+    {
+      "title": "Love of My Life (Remastered 2011)",
+      "artist": "Queen",
+      "album": "Queen Forever (Deluxe Edition)",
+      "durationMs": 213339,
+      "ids": {
+        "appleMusic": "1440825145"
+      }
+    },
+    {
+      "title": "Ticket to Ride",
+      "artist": "The Beatles",
+      "album": "Help!",
+      "durationMs": 189680,
+      "ids": {
+        "appleMusic": "1441164669"
+      }
+    },
+    {
+      "title": "A Hard Day's Night",
+      "artist": "The Beatles",
+      "album": "The Beatles 1962-1966 (The Red Album)",
+      "durationMs": 154627,
+      "ids": {
+        "appleMusic": "1441133482"
+      }
+    },
+    {
+      "title": "Life on Mars? (1999 Remaster)",
+      "artist": "David Bowie",
+      "album": "Best of Bowie",
+      "durationMs": 223413,
+      "ids": {
+        "appleMusic": "1675148907"
+      }
+    },
+    {
+      "title": "At Last",
+      "artist": "Aretha Franklin",
+      "album": "Aretha Franklin Sings the Great Diva Classics",
+      "durationMs": 233786,
+      "ids": {
+        "appleMusic": "923074874"
+      }
+    },
+    {
+      "title": "Rolling In the Deep (The Aretha Version)",
+      "artist": "Aretha Franklin",
+      "album": "Aretha Franklin Sings the Great Diva Classics",
+      "durationMs": 240305,
+      "ids": {
+        "appleMusic": "923074875"
+      }
+    },
+    {
+      "title": "Midnight Train To Georgia",
+      "artist": "Aretha Franklin",
+      "album": "Aretha Franklin Sings the Great Diva Classics",
+      "durationMs": 261318,
+      "ids": {
+        "appleMusic": "923074876"
+      }
+    },
+    {
+      "title": "I Will Survive (The Aretha Version)",
+      "artist": "Aretha Franklin",
+      "album": "Aretha Franklin Sings the Great Diva Classics",
+      "durationMs": 271505,
+      "ids": {
+        "appleMusic": "923074877"
+      }
+    },
+    {
+      "title": "People",
+      "artist": "Aretha Franklin",
+      "album": "Aretha Franklin Sings the Great Diva Classics",
+      "durationMs": 244512,
+      "ids": {
+        "appleMusic": "923074878"
+      }
+    },
+    {
+      "title": "No One",
+      "artist": "Aretha Franklin",
+      "album": "Aretha Franklin Sings the Great Diva Classics",
+      "durationMs": 241666,
+      "ids": {
+        "appleMusic": "923074879"
+      }
+    },
+    {
+      "title": "I'm Every Woman / Respect",
+      "artist": "Aretha Franklin",
+      "album": "Aretha Franklin Sings the Great Diva Classics",
+      "durationMs": 296034,
+      "ids": {
+        "appleMusic": "923074880"
+      }
+    },
+    {
+      "title": "Teach Me Tonight",
+      "artist": "Aretha Franklin",
+      "album": "Aretha Franklin Sings the Great Diva Classics",
+      "durationMs": 161731,
+      "ids": {
+        "appleMusic": "923074881"
+      }
+    },
+    {
+      "title": "You Keep Me Hangin' On",
+      "artist": "Aretha Franklin",
+      "album": "Aretha Franklin Sings the Great Diva Classics",
+      "durationMs": 281404,
+      "ids": {
+        "appleMusic": "923074882"
+      }
+    },
+    {
+      "title": "Behind Blue Eyes",
+      "artist": "The Who",
+      "album": "The Who Hits 50! (Deluxe Edition)",
+      "durationMs": 221104,
+      "ids": {
+        "appleMusic": "1461217480"
+      }
+    },
+    {
+      "title": "Drown in My Own Tears",
+      "artist": "Aretha Franklin",
+      "album": "Original Album Series",
+      "durationMs": 247733,
+      "ids": {
+        "appleMusic": "492334118"
+      }
+    },
+    {
+      "title": "My Love Is Your Love",
+      "artist": "Whitney Houston",
+      "album": "R\u0026B - 100 Hits - The Greatest R n B album - 100 R \u0026 B Classics featuring Usher, Pitbull and Justin Timberlake",
+      "durationMs": 261573,
+      "ids": {
+        "appleMusic": "1108210107"
+      }
+    },
+    {
+      "title": "Tears in Heaven (Acoustic Live)",
+      "artist": "Eric Clapton",
+      "album": "Unplugged (Live)",
+      "durationMs": 280000,
+      "ids": {
+        "appleMusic": "1647253716"
+      }
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "name": "Manchild Radio",
+  "tracks": [
+    {
+      "title": "Manchild",
+      "artist": "Sabrina Carpenter",
+      "album": "Man’s Best Friend",
+      "durationMs": 213646,
+      "ids": {
+        "appleMusic": "1836002447"
+      }
+    },
+    {
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "album": "petal",
+      "durationMs": 197950,
+      "ids": {
+        "appleMusic": "6763656876"
+      }
+    },
+    {
+      "title": "my way",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 180721,
+      "ids": {
+        "appleMusic": "6779097541"
+      }
+    },
+    {
+      "title": "Homewrecker",
+      "artist": "sombr",
+      "album": "Homewrecker - Single",
+      "durationMs": 209066,
+      "ids": {
+        "appleMusic": "1871595253"
+      }
+    },
+    {
+      "title": "Dance No More",
+      "artist": "Harry Styles",
+      "album": "Kiss All The Time. Disco, Occasionally.",
+      "durationMs": 194880,
+      "ids": {
+        "appleMusic": "1870984050"
+      }
+    },
+    {
+      "title": "Taste",
+      "artist": "Sabrina Carpenter",
+      "album": "Short n' Sweet (Deluxe)",
+      "durationMs": 157280,
+      "ids": {
+        "appleMusic": "1795512308"
+      }
+    },
+    {
+      "title": "Dracula",
+      "artist": "Tame Impala",
+      "album": "Dracula - Single",
+      "durationMs": 205309,
+      "ids": {
+        "appleMusic": "1842444457"
+      }
+    },
+    {
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "album": "The Art of Loving",
+      "durationMs": 184000,
+      "ids": {
+        "appleMusic": "1817609509"
+      }
+    },
+    {
+      "title": "End of Beginning",
+      "artist": "Djo",
+      "album": "End of Beginning - Single",
+      "durationMs": 159246,
+      "ids": {
+        "appleMusic": "1740299854"
+      }
+    },
+    {
+      "title": "Babydoll",
+      "artist": "Dominic Fike",
+      "album": "Don't Forget About Me, Demos - EP",
+      "durationMs": 97960,
+      "ids": {
+        "appleMusic": "1438243880"
+      }
+    },
+    {
+      "title": "House Tour",
+      "artist": "Sabrina Carpenter",
+      "album": "Man’s Best Friend",
+      "durationMs": 169215,
+      "ids": {
+        "appleMusic": "1819861170"
+      }
+    },
+    {
+      "title": "Hard Times",
+      "artist": "Paramore",
+      "album": "After Laughter",
+      "durationMs": 182695,
+      "ids": {
+        "appleMusic": "1227049868"
+      }
+    },
+    {
+      "title": "expectations",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 221958,
+      "ids": {
+        "appleMusic": "1889992129"
+      }
+    },
+    {
+      "title": "12 to 12",
+      "artist": "sombr",
+      "album": "12 to 12 - Single",
+      "durationMs": 242903,
+      "ids": {
+        "appleMusic": "1828036635"
+      }
+    },
+    {
+      "title": "Ready, Steady, Go!",
+      "artist": "Harry Styles",
+      "album": "Kiss All The Time. Disco, Occasionally.",
+      "durationMs": 160400,
+      "ids": {
+        "appleMusic": "1870984038"
+      }
+    },
+    {
+      "title": "Please Please Please",
+      "artist": "Sabrina Carpenter",
+      "album": "Please Please Please - Single",
+      "durationMs": 186170,
+      "ids": {
+        "appleMusic": "1752767330"
+      }
+    },
+    {
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "album": "WHERE IS MY HUSBAND! - Single",
+      "durationMs": 197143,
+      "ids": {
+        "appleMusic": "1838737598"
+      }
+    },
+    {
+      "title": "Dive",
+      "artist": "Olivia Dean",
+      "album": "Messy",
+      "durationMs": 200759,
+      "ids": {
+        "appleMusic": "1676252825"
+      }
+    },
+    {
+      "title": "Delete Ya",
+      "artist": "Djo",
+      "album": "The Crux",
+      "durationMs": 203350,
+      "ids": {
+        "appleMusic": "1791184871"
+      }
+    },
+    {
+      "title": "Training Season",
+      "artist": "Dua Lipa",
+      "album": "Training Season - Single",
+      "durationMs": 209488,
+      "ids": {
+        "appleMusic": "1727565528"
+      }
+    },
+    {
+      "title": "Nobody’s Son",
+      "artist": "Sabrina Carpenter",
+      "album": "Man’s Best Friend",
+      "durationMs": 182577,
+      "ids": {
+        "appleMusic": "1836002472"
+      }
+    },
+    {
+      "title": "Juice",
+      "artist": "Lizzo",
+      "album": "Cuz I Love You (Deluxe)",
+      "durationMs": 194935,
+      "ids": {
+        "appleMusic": "1481229910"
+      }
+    },
+    {
+      "title": "Still Into You",
+      "artist": "Paramore",
+      "album": "Paramore",
+      "durationMs": 216019,
+      "ids": {
+        "appleMusic": "593148441"
+      }
+    },
+    {
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 209680,
+      "ids": {
+        "appleMusic": "6779097534"
+      }
+    },
+    {
+      "title": "back to friends",
+      "artist": "sombr",
+      "album": "back to friends - Single",
+      "durationMs": 199032,
+      "ids": {
+        "appleMusic": "1786481197"
+      }
+    },
+    {
+      "title": "Are You Listening Yet?",
+      "artist": "Harry Styles",
+      "album": "Kiss All The Time. Disco, Occasionally.",
+      "durationMs": 192400,
+      "ids": {
+        "appleMusic": "1870984039"
+      }
+    },
+    {
+      "title": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "album": "Espresso - Single",
+      "durationMs": 175459,
+      "ids": {
+        "appleMusic": "1744253558"
+      }
+    },
+    {
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "album": "Good Luck, Babe! - Single",
+      "durationMs": 218424,
+      "ids": {
+        "appleMusic": "1737497080"
+      }
+    },
+    {
+      "title": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "album": "The Art of Loving",
+      "durationMs": 169000,
+      "ids": {
+        "appleMusic": "1817609507"
+      }
+    },
+    {
+      "title": "Potion",
+      "artist": "Djo",
+      "album": "The Crux",
+      "durationMs": 167823,
+      "ids": {
+        "appleMusic": "1791184870"
+      }
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "album": "Future Nostalgia (Bonus Edition)",
+      "durationMs": 203808,
+      "ids": {
+        "appleMusic": "1541803862"
+      }
+    },
+    {
+      "title": "Tears",
+      "artist": "Sabrina Carpenter",
+      "album": "Man’s Best Friend",
+      "durationMs": 160184,
+      "ids": {
+        "appleMusic": "1819861157"
+      }
+    },
+    {
+      "title": "Worth It.",
+      "artist": "RAYE",
+      "album": "My 21st Century Blues",
+      "durationMs": 246813,
+      "ids": {
+        "appleMusic": "1647624667"
+      }
+    },
+    {
+      "title": "The Only Exception",
+      "artist": "Paramore",
+      "album": "Brand New Eyes",
+      "durationMs": 267586,
+      "ids": {
+        "appleMusic": "604800419"
+      }
+    },
+    {
+      "title": "u + me = \u003c3",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 247687,
+      "ids": {
+        "appleMusic": "6779097540"
+      }
+    },
+    {
+      "title": "undressed",
+      "artist": "sombr",
+      "album": "undressed - Single",
+      "durationMs": 182089,
+      "ids": {
+        "appleMusic": "1802084938"
+      }
+    },
+    {
+      "title": "American Girls",
+      "artist": "Harry Styles",
+      "album": "Kiss All The Time. Disco, Occasionally.",
+      "durationMs": 213440,
+      "ids": {
+        "appleMusic": "1870984036"
+      }
+    },
+    {
+      "title": "Juno",
+      "artist": "Sabrina Carpenter",
+      "album": "Short n' Sweet",
+      "durationMs": 223192,
+      "ids": {
+        "appleMusic": "1752215160"
+      }
+    },
+    {
+      "title": "About Damn Time",
+      "artist": "Lizzo",
+      "album": "About Damn Time - Single",
+      "durationMs": 191822,
+      "ids": {
+        "appleMusic": "1619135106"
+      }
+    },
+    {
+      "title": "Reason to Stay",
+      "artist": "Olivia Dean",
+      "album": "Ok Love You Bye - EP",
+      "durationMs": 198813,
+      "ids": {
+        "appleMusic": "1486982854"
+      }
+    },
+    {
+      "title": "Charlie's Garden",
+      "artist": "Djo",
+      "album": "The Crux",
+      "durationMs": 205047,
+      "ids": {
+        "appleMusic": "1791184876"
+      }
+    },
+    {
+      "title": "Houdini",
+      "artist": "Dua Lipa",
+      "album": "Houdini - Single",
+      "durationMs": 185918,
+      "ids": {
+        "appleMusic": "1715337251"
+      }
+    },
+    {
+      "title": "Read your Mind",
+      "artist": "Sabrina Carpenter",
+      "album": "emails i can't send",
+      "durationMs": 207850,
+      "ids": {
+        "appleMusic": "1631578515"
+      }
+    },
+    {
+      "title": "Lovefool",
+      "artist": "The Cardigans",
+      "album": "First Band on the Moon (2019 Remaster)",
+      "durationMs": 193953,
+      "ids": {
+        "appleMusic": "1450141548"
+      }
+    },
+    {
+      "title": "Mystical Magical",
+      "artist": "Benson Boone",
+      "album": "American Heart",
+      "durationMs": 165747,
+      "ids": {
+        "appleMusic": "1807490820"
+      }
+    },
+    {
+      "title": "maggots for brains",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 240101,
+      "ids": {
+        "appleMusic": "6779097538"
+      }
+    },
+    {
+      "title": "i wish i knew how to quit you",
+      "artist": "sombr",
+      "album": "I Barely Know Her",
+      "durationMs": 232376,
+      "ids": {
+        "appleMusic": "1832087995"
+      }
+    },
+    {
+      "title": "When Did You Get Hot?",
+      "artist": "Sabrina Carpenter",
+      "album": "Man’s Best Friend",
+      "durationMs": 145399,
+      "ids": {
+        "appleMusic": "1836002475"
+      }
+    },
+    {
+      "title": "Adore You",
+      "artist": "Harry Styles",
+      "album": "Fine Line",
+      "durationMs": 207140,
+      "ids": {
+        "appleMusic": "1485802970"
+      }
+    }
+  ]
+}

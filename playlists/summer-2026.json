@@ -1,0 +1,3002 @@
+{
+  "name": "Summer 2026",
+  "tracks": [
+    {
+      "title": "Lys på mig",
+      "artist": "Victor Leksell",
+      "album": "Lys på mig - Single",
+      "durationMs": 159347,
+      "ids": {
+        "appleMusic": "1815465552"
+      }
+    },
+    {
+      "title": "Give Me Everything (feat. Ne-Yo, Afrojack \u0026 Nayer)",
+      "artist": "Pitbull",
+      "album": "Planet Pit (Deluxe Version)",
+      "durationMs": 252307,
+      "ids": {
+        "appleMusic": "440733032"
+      }
+    },
+    {
+      "title": "Lush Life",
+      "artist": "Zara Larsson",
+      "album": "So Good",
+      "durationMs": 200647,
+      "ids": {
+        "appleMusic": "1201058113"
+      }
+    },
+    {
+      "title": "Leva för alltid (Sveriges officiella VM-låt 2026)",
+      "artist": "Thomas Stenström",
+      "album": "Leva för alltid (Sveriges officiella VM-låt 2026) - Single",
+      "durationMs": 202640,
+      "ids": {
+        "appleMusic": "6766242404"
+      }
+    },
+    {
+      "title": "Run Run River (Angels Above Me)",
+      "artist": "David Guetta, Alok \u0026 Stick Figure",
+      "album": "Run Run River (Angels Above Me) - Single",
+      "durationMs": 156094,
+      "ids": {
+        "appleMusic": "6775605307"
+      }
+    },
+    {
+      "title": "Midnight Sun",
+      "artist": "Zara Larsson",
+      "album": "Midnight Sun (+ more)- Single",
+      "durationMs": 189898,
+      "ids": {
+        "appleMusic": "1880824221"
+      }
+    },
+    {
+      "title": "Meteor",
+      "artist": "De Vet Du",
+      "album": "Meteor - Single",
+      "durationMs": 179490,
+      "ids": {
+        "appleMusic": "6770473378"
+      }
+    },
+    {
+      "title": "Gut genug (mit Blumengarten \u0026 Shirin David)",
+      "artist": "KITSCHKRIEG, Blumengarten \u0026 Shirin David",
+      "album": "Gut genug (mit Blumengarten \u0026 Shirin David) - Single",
+      "durationMs": 188852,
+      "ids": {
+        "appleMusic": "1868726633"
+      }
+    },
+    {
+      "title": "Berusade ord",
+      "artist": "noll2",
+      "album": "Om ditt namn var Natalie - EP",
+      "durationMs": 175228,
+      "ids": {
+        "appleMusic": "6768990703"
+      }
+    },
+    {
+      "title": "Feelin' Myself",
+      "artist": "Mondo",
+      "album": "Feelin' Myself - Single",
+      "durationMs": 165058,
+      "ids": {
+        "appleMusic": "1875882440"
+      }
+    },
+    {
+      "title": "Save My Love",
+      "artist": "Kygo, Khalid \u0026 Gryffin",
+      "album": "Save My Love - Single",
+      "durationMs": 210404,
+      "ids": {
+        "appleMusic": "1876235280"
+      }
+    },
+    {
+      "title": "Dai Dai",
+      "artist": "Shakira \u0026 Burna Boy",
+      "album": "Dai Dai - Single",
+      "durationMs": 223448,
+      "ids": {
+        "appleMusic": "6768469976"
+      }
+    },
+    {
+      "title": "All of My Heart (Sveriges inofficiella VM-låt 2026)",
+      "artist": "Björnzone",
+      "album": "All of My Heart (Sveriges inofficiella VM-låt 2026) - Single",
+      "durationMs": 191107,
+      "ids": {
+        "appleMusic": "6774612967"
+      }
+    },
+    {
+      "title": "Hur många mil",
+      "artist": "Victor Leksell",
+      "album": "Hur många mil - Single",
+      "durationMs": 147800,
+      "ids": {
+        "appleMusic": "1804110521"
+      }
+    },
+    {
+      "title": "Stockholmstjej",
+      "artist": "De Vet Du",
+      "album": "Stockholmstjej - Single",
+      "durationMs": 188026,
+      "ids": {
+        "appleMusic": "1882349179"
+      }
+    },
+    {
+      "title": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "artist": "Tyla",
+      "album": "SHE DID IT AGAIN (feat. Zara Larsson) - Single",
+      "durationMs": 213242,
+      "ids": {
+        "appleMusic": "1893706107"
+      }
+    },
+    {
+      "title": "Händerna Mot Himlen",
+      "artist": "Petra Marklund",
+      "album": "Händerna mot himlen - Single",
+      "durationMs": 237813,
+      "ids": {
+        "appleMusic": "560477882"
+      }
+    },
+    {
+      "title": "Magnetic",
+      "artist": "The Bausa",
+      "album": "Magnetic / Addicted To Your Love - Single",
+      "durationMs": 181385,
+      "ids": {
+        "appleMusic": "1877141224"
+      }
+    },
+    {
+      "title": "Heaven On Your Mind (feat. Dan Tyminski)",
+      "artist": "Kygo",
+      "album": "Heaven On Your Mind (feat. Dan Tyminski) - Single",
+      "durationMs": 224747,
+      "ids": {
+        "appleMusic": "6769007435"
+      }
+    },
+    {
+      "title": "Sommar sommar sol",
+      "artist": "JLC",
+      "album": "Sommar sommar sol - Single",
+      "durationMs": 205313,
+      "ids": {
+        "appleMusic": "1241978226"
+      }
+    },
+    {
+      "title": "17 år",
+      "artist": "Veronica Maggio",
+      "album": "Glada Låtar",
+      "durationMs": 220520,
+      "ids": {
+        "appleMusic": "1689436269"
+      }
+    },
+    {
+      "title": "Hjem med dej",
+      "artist": "Elov \u0026 Beny \u0026 Sandra Lyng",
+      "album": "Hjem med dej - Single",
+      "durationMs": 187832,
+      "ids": {
+        "appleMusic": "6778339055"
+      }
+    },
+    {
+      "title": "Lose Myself",
+      "artist": "The Bausa",
+      "album": "Lose Myself / I Wanna - Single",
+      "durationMs": 166154,
+      "ids": {
+        "appleMusic": "6777129925"
+      }
+    },
+    {
+      "title": "Vi ska aldrig gå hem",
+      "artist": "Molly Sandén",
+      "album": "Vi ska aldrig gå hem - Single",
+      "durationMs": 195518,
+      "ids": {
+        "appleMusic": "1586366072"
+      }
+    },
+    {
+      "title": "Sommartider",
+      "artist": "Gyllene Tider",
+      "album": "Puls (Disc 1)",
+      "durationMs": 202200,
+      "ids": {
+        "appleMusic": "691335578"
+      }
+    },
+    {
+      "title": "Skriker mitt namn",
+      "artist": "Victor Leksell",
+      "album": "Skriker mitt namn - Single",
+      "durationMs": 181533,
+      "ids": {
+        "appleMusic": "1786615078"
+      }
+    },
+    {
+      "title": "Eurosummer (Girls Trip)",
+      "artist": "Zara Larsson \u0026 Shakira",
+      "album": "Midnight Sun: Girls Trip",
+      "durationMs": 170346,
+      "ids": {
+        "appleMusic": "1894058279"
+      }
+    },
+    {
+      "title": "Dis-le",
+      "artist": "Angèle",
+      "album": "Dis-le - Single",
+      "durationMs": 247459,
+      "ids": {
+        "appleMusic": "6777024997"
+      }
+    },
+    {
+      "title": "Ta Mig Aldrig Härifrån (feat. Victor Leksell)",
+      "artist": "De Vet Du",
+      "album": "Ta Mig Aldrig Härifrån (feat. Victor Leksell) - Single",
+      "durationMs": 187842,
+      "ids": {
+        "appleMusic": "1818087137"
+      }
+    },
+    {
+      "title": "Espresso Macchiato",
+      "artist": "Tommy Cash",
+      "album": "Espresso Macchiato - Single",
+      "durationMs": 173747,
+      "ids": {
+        "appleMusic": "1801977867"
+      }
+    },
+    {
+      "title": "Honey Boy (feat. Nile Rodgers \u0026 Shenseea)",
+      "artist": "Purple Disco Machine \u0026 Benjamin Ingrosso",
+      "album": "Honey Boy (feat. Nile Rodgers \u0026 Shenseea) - Single",
+      "durationMs": 227283,
+      "ids": {
+        "appleMusic": "1741007840"
+      }
+    },
+    {
+      "title": "Mitt hjärta av guld",
+      "artist": "Lia Lindstén",
+      "album": "Mitt hjärta av guld - Single",
+      "durationMs": 170919,
+      "ids": {
+        "appleMusic": "1816669209"
+      }
+    },
+    {
+      "title": "Thug (feat. ADAAM)",
+      "artist": "Petter",
+      "album": "Thug (feat. ADAAM) - Single",
+      "durationMs": 162462,
+      "ids": {
+        "appleMusic": "1802196638"
+      }
+    },
+    {
+      "title": "Trophy",
+      "artist": "Molly Sandén",
+      "album": "Strawberry Blonde",
+      "durationMs": 190966,
+      "ids": {
+        "appleMusic": "1816927612"
+      }
+    },
+    {
+      "title": "Titanium (feat. Sia)",
+      "artist": "David Guetta",
+      "album": "Les tubes des années 2010",
+      "durationMs": 245040,
+      "ids": {
+        "appleMusic": "1821649887"
+      }
+    },
+    {
+      "title": "Fame is a Gun",
+      "artist": "Addison Rae",
+      "album": "Addison",
+      "durationMs": 183238,
+      "ids": {
+        "appleMusic": "1809015879"
+      }
+    },
+    {
+      "title": "Tur i oturen",
+      "artist": "Molly Sandén",
+      "album": "Tur i oturen - Single",
+      "durationMs": 177572,
+      "ids": {
+        "appleMusic": "1785870336"
+      }
+    },
+    {
+      "title": "Carpe Diem",
+      "artist": "Thomas Stenström",
+      "album": "Carpe Diem - Single",
+      "durationMs": 192593,
+      "ids": {
+        "appleMusic": "1807553498"
+      }
+    },
+    {
+      "title": "Svagare än jag",
+      "artist": "Ida-Lova",
+      "album": "Blåljus - Single",
+      "durationMs": 187076,
+      "ids": {
+        "appleMusic": "1818760149"
+      }
+    },
+    {
+      "title": "Sommarsinnet",
+      "artist": "lovad",
+      "album": "Sommarsinnet - Single",
+      "durationMs": 169723,
+      "ids": {
+        "appleMusic": "1816642472"
+      }
+    },
+    {
+      "title": "Sunnanvind",
+      "artist": "Mares",
+      "album": "Sunnanvind",
+      "durationMs": 202410,
+      "ids": {
+        "appleMusic": "6769701518"
+      }
+    },
+    {
+      "title": "Natthimlen",
+      "artist": "Victor Leksell",
+      "album": "Tid \u0026 Tro",
+      "durationMs": 187797,
+      "ids": {
+        "appleMusic": "1722483619"
+      }
+    },
+    {
+      "title": "KNOCKED DOWN",
+      "artist": "Sebastian Lara",
+      "album": "KNOCKED DOWN - Single",
+      "durationMs": 182919,
+      "ids": {
+        "appleMusic": "1801216853"
+      }
+    },
+    {
+      "title": "Bullerbyn är död",
+      "artist": "Simon Superti",
+      "album": "Har det värsta redan hänt - EP",
+      "durationMs": 157396,
+      "ids": {
+        "appleMusic": "1835633549"
+      }
+    },
+    {
+      "title": "Sol, vind och vatten",
+      "artist": "Ted Gärdestad",
+      "album": "Ted",
+      "durationMs": 189560,
+      "ids": {
+        "appleMusic": "1503676201"
+      }
+    },
+    {
+      "title": "Andas in andas ut",
+      "artist": "Thomas Stenström",
+      "album": "Solen - Single",
+      "durationMs": 156760,
+      "ids": {
+        "appleMusic": "1694712408"
+      }
+    },
+    {
+      "title": "Ingen Sommar Utan Reggae",
+      "artist": "Markoolio",
+      "album": "Värsta plattan",
+      "durationMs": 228733,
+      "ids": {
+        "appleMusic": "396672171"
+      }
+    },
+    {
+      "title": "I’m Good (Blue)",
+      "artist": "David Guetta \u0026 Bebe Rexha",
+      "album": "Putzen - Gute Laune Hits",
+      "durationMs": 175238,
+      "ids": {
+        "appleMusic": "1746405625"
+      }
+    },
+    {
+      "title": "Thank You (Not So Bad)",
+      "artist": "Dimitri Vegas \u0026 Like Mike, Tiësto \u0026 Dido",
+      "album": "Thank You (Not So Bad) - Single",
+      "durationMs": 140000,
+      "ids": {
+        "appleMusic": "1716922911"
+      }
+    },
+    {
+      "title": "Time of Our Lives",
+      "artist": "Pitbull \u0026 Ne-Yo",
+      "album": "Summer Party Bangers",
+      "durationMs": 229359,
+      "ids": {
+        "appleMusic": "1687425635"
+      }
+    },
+    {
+      "title": "Sommaren är kort",
+      "artist": "Tomas Ledin",
+      "album": "Bonus Track Version",
+      "durationMs": 183827,
+      "ids": {
+        "appleMusic": "1442543550"
+      }
+    },
+    {
+      "title": "Vårt år",
+      "artist": "estraden \u0026 Tjuvjakt",
+      "album": "Mellan hägg och syrén",
+      "durationMs": 209868,
+      "ids": {
+        "appleMusic": "1527399890"
+      }
+    },
+    {
+      "title": "Gold",
+      "artist": "Myles Smith",
+      "album": "A Minute, A Moment...",
+      "durationMs": 164000,
+      "ids": {
+        "appleMusic": "1810457256"
+      }
+    },
+    {
+      "title": "Dina Färger Var Blå",
+      "artist": "Tommy Nilsson",
+      "album": "Det Bästa Med Tommy Nilsson",
+      "durationMs": 302387,
+      "ids": {
+        "appleMusic": "176061055"
+      }
+    },
+    {
+      "title": "Hon dansar vidare i livet",
+      "artist": "Hov1",
+      "album": "Sad Pop",
+      "durationMs": 248893,
+      "ids": {
+        "appleMusic": "1606991244"
+      }
+    },
+    {
+      "title": "Bra för dig",
+      "artist": "estraden \u0026 Victor Leksell",
+      "album": "Bra för dig - Single",
+      "durationMs": 226997,
+      "ids": {
+        "appleMusic": "1477057499"
+      }
+    },
+    {
+      "title": "Maja",
+      "artist": "noll2",
+      "album": "Berusade ord - Single",
+      "durationMs": 194299,
+      "ids": {
+        "appleMusic": "1876535549"
+      }
+    },
+    {
+      "title": "Fan va bra (Hogland Remix)",
+      "artist": "Jakob Karlberg \u0026 Hogland",
+      "album": "Fan va bra (Hogland Remix) - Single",
+      "durationMs": 198656,
+      "ids": {
+        "appleMusic": "1810188387"
+      }
+    },
+    {
+      "title": "SMOKE THE PAIN AWAY",
+      "artist": "Calvin Harris",
+      "album": "SMOKE THE PAIN AWAY - Single",
+      "durationMs": 162772,
+      "ids": {
+        "appleMusic": "1797750637"
+      }
+    },
+    {
+      "title": "I min bil",
+      "artist": "Veronica Maggio",
+      "album": "Handen i fickan fast jag bryr mig",
+      "durationMs": 214000,
+      "ids": {
+        "appleMusic": "1442989554"
+      }
+    },
+    {
+      "title": "Vart Jag Mig I Världen Vänder",
+      "artist": "Den svenska björnstammen",
+      "album": "Ett Fel Närmare Rätt",
+      "durationMs": 212109,
+      "ids": {
+        "appleMusic": "1441216718"
+      }
+    },
+    {
+      "title": "Prada",
+      "artist": "cassö, RAYE \u0026 D-Block Europe",
+      "album": "The Annual 2024 - Ministry of Sound",
+      "durationMs": 132359,
+      "ids": {
+        "appleMusic": "1728250226"
+      }
+    },
+    {
+      "title": "Rude",
+      "artist": "MAGIC!",
+      "album": "Summer Party Bangers",
+      "durationMs": 224850,
+      "ids": {
+        "appleMusic": "1687426715"
+      }
+    },
+    {
+      "title": "Glide",
+      "artist": "NEIKED \u0026 Portugal. The Man",
+      "album": "Glide - Single",
+      "durationMs": 184405,
+      "ids": {
+        "appleMusic": "1802242418"
+      }
+    },
+    {
+      "title": "Miss Decibel",
+      "artist": "Medina",
+      "album": "Absolute After Beach",
+      "durationMs": 194133,
+      "ids": {
+        "appleMusic": "1815911495"
+      }
+    },
+    {
+      "title": "Beroendeframkallande",
+      "artist": "Eah Jé",
+      "album": "Beroendeframkallande - Single",
+      "durationMs": 182995,
+      "ids": {
+        "appleMusic": "1662500646"
+      }
+    },
+    {
+      "title": "BUBBEL PÅ BALKONGEN",
+      "artist": "Elov \u0026 Beny \u0026 Sofie Svensson \u0026 Dom Där",
+      "album": "BUBBEL PÅ BALKONGEN - Single",
+      "durationMs": 166062,
+      "ids": {
+        "appleMusic": "1630633080"
+      }
+    },
+    {
+      "title": "Summer",
+      "artist": "Calvin Harris",
+      "album": "Viral Summer Hits",
+      "durationMs": 222533,
+      "ids": {
+        "appleMusic": "1626028779"
+      }
+    },
+    {
+      "title": "Stargazing",
+      "artist": "Myles Smith",
+      "album": "Stargazing - Single",
+      "durationMs": 172533,
+      "ids": {
+        "appleMusic": "1742275653"
+      }
+    },
+    {
+      "title": "Dansar aldrig nykter",
+      "artist": "Magnus Uggla",
+      "album": "Uggla Box",
+      "durationMs": 189835,
+      "ids": {
+        "appleMusic": "404002313"
+      }
+    },
+    {
+      "title": "Freestyler",
+      "artist": "Bomfunk MC's",
+      "album": "Freestyler - EP",
+      "durationMs": 306256,
+      "ids": {
+        "appleMusic": "354137528"
+      }
+    },
+    {
+      "title": "Whatever",
+      "artist": "Kygo \u0026 Ava Max",
+      "album": "Músicas Para Treinar Perna",
+      "durationMs": 178273,
+      "ids": {
+        "appleMusic": "1793441938"
+      }
+    },
+    {
+      "title": "September",
+      "artist": "Earth, Wind \u0026 Fire",
+      "album": "Pop Summer Hits 2024",
+      "durationMs": 216022,
+      "ids": {
+        "appleMusic": "1737553150"
+      }
+    },
+    {
+      "title": "Välkommen In",
+      "artist": "Veronica Maggio",
+      "album": "Satan i gatan (Bonus Version)",
+      "durationMs": 212453,
+      "ids": {
+        "appleMusic": "1442529237"
+      }
+    },
+    {
+      "title": "Eld \u0026 lågor",
+      "artist": "Victor Leksell",
+      "album": "Tid \u0026 Tro",
+      "durationMs": 178092,
+      "ids": {
+        "appleMusic": "1722483312"
+      }
+    },
+    {
+      "title": "Vill ha dej",
+      "artist": "Style",
+      "album": "12 Bästa",
+      "durationMs": 219445,
+      "ids": {
+        "appleMusic": "361273643"
+      }
+    },
+    {
+      "title": "Josefin",
+      "artist": "Albin Lee Meldau",
+      "album": "Josefin - Single",
+      "durationMs": 221218,
+      "ids": {
+        "appleMusic": "1698553524"
+      }
+    },
+    {
+      "title": "Slå mig hårt i ansiktet",
+      "artist": "Thomas Stenström",
+      "album": "Slå mig hårt i ansiktet - Single",
+      "durationMs": 211360,
+      "ids": {
+        "appleMusic": "1886706706"
+      }
+    },
+    {
+      "title": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+      "artist": "USHER",
+      "album": "Party Hits",
+      "durationMs": 222160,
+      "ids": {
+        "appleMusic": "578034259"
+      }
+    },
+    {
+      "title": "Unwritten",
+      "artist": "Natasha Bedingfield",
+      "album": "Sonne \u0026 Gute Laune",
+      "durationMs": 259333,
+      "ids": {
+        "appleMusic": "1626929098"
+      }
+    },
+    {
+      "title": "Det kommer aldrig va över för mig",
+      "artist": "Håkan Hellström",
+      "album": "Svenska Sommarklassiker",
+      "durationMs": 267107,
+      "ids": {
+        "appleMusic": "1679814556"
+      }
+    },
+    {
+      "title": "Pärlor",
+      "artist": "Kent",
+      "album": "Vapen \u0026 Ammunition",
+      "durationMs": 235960,
+      "ids": {
+        "appleMusic": "253700086"
+      }
+    },
+    {
+      "title": "Vi två",
+      "artist": "estraden",
+      "album": "Vi två - Single",
+      "durationMs": 201253,
+      "ids": {
+        "appleMusic": "1457559429"
+      }
+    },
+    {
+      "title": "Genom eld \u0026 vatten",
+      "artist": "Dolores",
+      "album": "Festens drottning",
+      "durationMs": 151304,
+      "ids": {
+        "appleMusic": "1775873987"
+      }
+    },
+    {
+      "title": "Fan va bra",
+      "artist": "Jakob Karlberg",
+      "album": "Fan va bra - Single",
+      "durationMs": 212925,
+      "ids": {
+        "appleMusic": "987419424"
+      }
+    },
+    {
+      "title": "Hela huset (feat. Håkan Hellström)",
+      "artist": "Veronica Maggio",
+      "album": "Handen i fickan fast jag bryr mig",
+      "durationMs": 213480,
+      "ids": {
+        "appleMusic": "1442989447"
+      }
+    },
+    {
+      "title": "Another Love (Tiësto Remix)",
+      "artist": "Tom Odell \u0026 Tiësto",
+      "album": "Summer Party Bangers",
+      "durationMs": 185366,
+      "ids": {
+        "appleMusic": "1687428613"
+      }
+    },
+    {
+      "title": "Be My Lover",
+      "artist": "La Bouche",
+      "album": "La Bouche: Greatest Hits",
+      "durationMs": 240867,
+      "ids": {
+        "appleMusic": "215933368"
+      }
+    },
+    {
+      "title": "Dancing in the Moonlight",
+      "artist": "Toploader",
+      "album": "New Year's Eve - NYE 2018/2019",
+      "durationMs": 232693,
+      "ids": {
+        "appleMusic": "1445215966"
+      }
+    },
+    {
+      "title": "Utan Dina Andetag",
+      "artist": "Kent",
+      "album": "Om du var här - EP",
+      "durationMs": 263983,
+      "ids": {
+        "appleMusic": "360813714"
+      }
+    },
+    {
+      "title": "Säg mig var du står",
+      "artist": "Carola",
+      "album": "Carola: Hits 25 år",
+      "durationMs": 229642,
+      "ids": {
+        "appleMusic": "355675760"
+      }
+    },
+    {
+      "title": "Ikväll igen",
+      "artist": "Bolaget",
+      "album": "Bastu Bangers \u0026 Hits",
+      "durationMs": 137727,
+      "ids": {
+        "appleMusic": "1805564328"
+      }
+    },
+    {
+      "title": "My Way",
+      "artist": "Calvin Harris",
+      "album": "96 Months",
+      "durationMs": 219160,
+      "ids": {
+        "appleMusic": "1761396656"
+      }
+    },
+    {
+      "title": "Slutet av sommarn",
+      "artist": "Molly Sandén",
+      "album": "Strawberry Blonde",
+      "durationMs": 137810,
+      "ids": {
+        "appleMusic": "1816927698"
+      }
+    },
+    {
+      "title": "Maraton (feat. Eah Jé)",
+      "artist": "Miss Li",
+      "album": "Livet, döden, skiten däremellan",
+      "durationMs": 140083,
+      "ids": {
+        "appleMusic": "1771681433"
+      }
+    },
+    {
+      "title": "9 to 5",
+      "artist": "Dolly Parton",
+      "album": "9 to 5 and Odd Jobs",
+      "durationMs": 166750,
+      "ids": {
+        "appleMusic": "273166378"
+      }
+    },
+    {
+      "title": "Despacito (feat. Justin Bieber) [Remix]",
+      "artist": "Luis Fonsi \u0026 Daddy Yankee",
+      "album": "Spanglish Favorites",
+      "durationMs": 229427,
+      "ids": {
+        "appleMusic": "1356764746"
+      }
+    },
+    {
+      "title": "Something Just Like This",
+      "artist": "The Chainsmokers \u0026 Coldplay",
+      "album": "Memories...Do Not Open",
+      "durationMs": 247165,
+      "ids": {
+        "appleMusic": "1207120448"
+      }
+    },
+    {
+      "title": "Mandy Moore",
+      "artist": "Hov1",
+      "album": "Hov1",
+      "durationMs": 209710,
+      "ids": {
+        "appleMusic": "1442412401"
+      }
+    },
+    {
+      "title": "Timber",
+      "artist": "Pitbull \u0026 Kesha",
+      "album": "Summer Party Bangers",
+      "durationMs": 203933,
+      "ids": {
+        "appleMusic": "1687427046"
+      }
+    },
+    {
+      "title": "Hela världen är min",
+      "artist": "Victor Leksell",
+      "album": "Tid \u0026 Tro",
+      "durationMs": 184615,
+      "ids": {
+        "appleMusic": "1722483304"
+      }
+    },
+    {
+      "title": "Från och med du",
+      "artist": "Oskar Linnros",
+      "album": "Vilja bli",
+      "durationMs": 193360,
+      "ids": {
+        "appleMusic": "1443413717"
+      }
+    },
+    {
+      "title": "Äckligt",
+      "artist": "Ansiktet",
+      "album": "#DENNYARNBMANNEN",
+      "durationMs": 243800,
+      "ids": {
+        "appleMusic": "1683354203"
+      }
+    },
+    {
+      "title": "Iko Iko (My Bestie) [feat. Small Jam]",
+      "artist": "Justin Wellington",
+      "album": "Iko Iko (My Bestie) [feat. Small Jam] - Single",
+      "durationMs": 182857,
+      "ids": {
+        "appleMusic": "1561810771"
+      }
+    },
+    {
+      "title": "STAY",
+      "artist": "The Kid LAROI \u0026 Justin Bieber",
+      "album": "STAY - Single",
+      "durationMs": 141806,
+      "ids": {
+        "appleMusic": "1574378625"
+      }
+    },
+    {
+      "title": "Viva La Vida",
+      "artist": "Coldplay",
+      "album": "Party Compilation - Top Hits",
+      "durationMs": 242373,
+      "ids": {
+        "appleMusic": "1725986559"
+      }
+    },
+    {
+      "title": "Be My Lover (feat. La Bouche) [2023 Mix]",
+      "artist": "Hypaton \u0026 David Guetta",
+      "album": "The Annual 2024 - Ministry of Sound",
+      "durationMs": 169524,
+      "ids": {
+        "appleMusic": "1728250757"
+      }
+    },
+    {
+      "title": "Can't Tame Her",
+      "artist": "Zara Larsson",
+      "album": "VENUS",
+      "durationMs": 196940,
+      "ids": {
+        "appleMusic": "1713632017"
+      }
+    },
+    {
+      "title": "Gubben i lådan",
+      "artist": "Daniel Adams-Ray",
+      "album": "Gubben i lådan - Single",
+      "durationMs": 231013,
+      "ids": {
+        "appleMusic": "1444286228"
+      }
+    },
+    {
+      "title": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "artist": "Justin Timberlake",
+      "album": "Fin de Año Éxitos",
+      "durationMs": 236307,
+      "ids": {
+        "appleMusic": "1653395371"
+      }
+    },
+    {
+      "title": "Pumped Up",
+      "artist": "Klingande",
+      "album": "Electronic Smash Hits",
+      "durationMs": 177073,
+      "ids": {
+        "appleMusic": "1613576145"
+      }
+    },
+    {
+      "title": "Trubaduren",
+      "artist": "Magnus Uggla",
+      "album": "Alla får påsar",
+      "durationMs": 313000,
+      "ids": {
+        "appleMusic": "1728687918"
+      }
+    },
+    {
+      "title": "July",
+      "artist": "Noah Cyrus",
+      "album": "Viral Summer Hits",
+      "durationMs": 156107,
+      "ids": {
+        "appleMusic": "1626029511"
+      }
+    },
+    {
+      "title": "These Words",
+      "artist": "Badger \u0026 Natasha Bedingfield",
+      "album": "These Words - Single",
+      "durationMs": 136580,
+      "ids": {
+        "appleMusic": "1747815788"
+      }
+    },
+    {
+      "title": "Raggarbil",
+      "artist": "Albatraoz \u0026 Karen",
+      "album": "Raggarbil - Single",
+      "durationMs": 135000,
+      "ids": {
+        "appleMusic": "1841958544"
+      }
+    },
+    {
+      "title": "Don't Worry (with Ray Dalton) [Radio Edit]",
+      "artist": "Madcon",
+      "album": "W drodze na wakacje",
+      "durationMs": 214120,
+      "ids": {
+        "appleMusic": "1614290677"
+      }
+    },
+    {
+      "title": "Cheap Thrills (feat. Sean Paul)",
+      "artist": "Sia",
+      "album": "Cheap Thrills (feat. Sean Paul) - Single",
+      "durationMs": 224813,
+      "ids": {
+        "appleMusic": "1082506273"
+      }
+    },
+    {
+      "title": "Jag Kommer",
+      "artist": "Veronica Maggio",
+      "album": "Satan i gatan (Bonus Version)",
+      "durationMs": 202747,
+      "ids": {
+        "appleMusic": "1442529239"
+      }
+    },
+    {
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "artist": "Molly Sandén",
+      "album": "Gimme! Gimme! Gimme! (A Man After Midnight) - Single",
+      "durationMs": 201333,
+      "ids": {
+        "appleMusic": "1738409984"
+      }
+    },
+    {
+      "title": "Pedro",
+      "artist": "Jaxomy, Agatino Romero \u0026 Raffaella Carrà",
+      "album": "Pedro - Single",
+      "durationMs": 144563,
+      "ids": {
+        "appleMusic": "1736776071"
+      }
+    },
+    {
+      "title": "Feel So Close (Radio Edit)",
+      "artist": "Calvin Harris",
+      "album": "Summer Viral Hits 2022",
+      "durationMs": 206413,
+      "ids": {
+        "appleMusic": "1626009381"
+      }
+    },
+    {
+      "title": "Jag ska fånga en ängel",
+      "artist": "Ted Gärdestad",
+      "album": "Ted",
+      "durationMs": 234293,
+      "ids": {
+        "appleMusic": "1503676199"
+      }
+    },
+    {
+      "title": "Rullar Fram",
+      "artist": "Fronda",
+      "album": "Fridlysta Frekvenser",
+      "durationMs": 228920,
+      "ids": {
+        "appleMusic": "371223424"
+      }
+    },
+    {
+      "title": "Sweet Dreams (Are Made of This)",
+      "artist": "Eurythmics",
+      "album": "Boxed (2005 Remastered Editions)",
+      "durationMs": 216933,
+      "ids": {
+        "appleMusic": "257483868"
+      }
+    },
+    {
+      "title": "Där palmerna bor",
+      "artist": "Medina",
+      "album": "Liebesgeflüster 2025",
+      "durationMs": 225227,
+      "ids": {
+        "appleMusic": "1806024255"
+      }
+    },
+    {
+      "title": "Hålla mig",
+      "artist": "Molly Sandén",
+      "album": "Hålla mig - Single",
+      "durationMs": 186162,
+      "ids": {
+        "appleMusic": "1734604566"
+      }
+    },
+    {
+      "title": "Outside (feat. Ellie Goulding)",
+      "artist": "Calvin Harris",
+      "album": "Motion",
+      "durationMs": 227267,
+      "ids": {
+        "appleMusic": "922876187"
+      }
+    },
+    {
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album": "After Hours (Deluxe)",
+      "durationMs": 200046,
+      "ids": {
+        "appleMusic": "1505683988"
+      }
+    },
+    {
+      "title": "Sånger från förut",
+      "artist": "GAMMAL",
+      "album": "Sånger från förut - Single",
+      "durationMs": 231821,
+      "ids": {
+        "appleMusic": "1462055296"
+      }
+    },
+    {
+      "title": "Cheri Cheri Lady",
+      "artist": "Modern Talking",
+      "album": "Let's Talk About Love",
+      "durationMs": 226333,
+      "ids": {
+        "appleMusic": "298556275"
+      }
+    },
+    {
+      "title": "Whenever, Wherever",
+      "artist": "Shakira",
+      "album": "Summer Viral Hits 2022",
+      "durationMs": 196160,
+      "ids": {
+        "appleMusic": "1626010037"
+      }
+    },
+    {
+      "title": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "album": "Espresso EP",
+      "durationMs": 175459,
+      "ids": {
+        "appleMusic": "1746801003"
+      }
+    },
+    {
+      "title": "Din låt",
+      "artist": "Victor Leksell \u0026 Einar",
+      "album": "Tid \u0026 Tro",
+      "durationMs": 163084,
+      "ids": {
+        "appleMusic": "1722483620"
+      }
+    },
+    {
+      "title": "As It Was",
+      "artist": "Harry Styles",
+      "album": "Harry's House",
+      "durationMs": 167303,
+      "ids": {
+        "appleMusic": "1615585008"
+      }
+    },
+    {
+      "title": "Hornstullsstrand",
+      "artist": "Hov1 \u0026 Veronica Maggio",
+      "album": "Vindar på Mars",
+      "durationMs": 237563,
+      "ids": {
+        "appleMusic": "1463167443"
+      }
+    },
+    {
+      "title": "Sista sommaren",
+      "artist": "Thomas Stenström",
+      "album": "Sista sommaren - Single",
+      "durationMs": 190053,
+      "ids": {
+        "appleMusic": "1616180776"
+      }
+    },
+    {
+      "title": "Get Lucky (feat. Pharrell Williams) [Radio Edit]",
+      "artist": "Daft Punk",
+      "album": "Get Lucky (feat. Pharrell Williams) [Radio Edit] - Single",
+      "durationMs": 247633,
+      "ids": {
+        "appleMusic": "636968288"
+      }
+    },
+    {
+      "title": "Oh, vilken härlig da'",
+      "artist": "Ted Gärdestad",
+      "album": "Ted",
+      "durationMs": 200333,
+      "ids": {
+        "appleMusic": "1503676418"
+      }
+    },
+    {
+      "title": "En gammal Amazon (2023 Master)",
+      "artist": "Svenne Rubins",
+      "album": "En gammal Amazon EPA-EP",
+      "durationMs": 202000,
+      "ids": {
+        "appleMusic": "1745310335"
+      }
+    },
+    {
+      "title": "Undressed",
+      "artist": "Kim Cesarion",
+      "album": "Undressed - EP",
+      "durationMs": 223773,
+      "ids": {
+        "appleMusic": "863035111"
+      }
+    },
+    {
+      "title": "I Gotta Feeling",
+      "artist": "Black Eyed Peas",
+      "album": "Kids Birthday Party",
+      "durationMs": 289493,
+      "ids": {
+        "appleMusic": "1691418490"
+      }
+    },
+    {
+      "title": "Bästa kebaben i hela stan",
+      "artist": "Magnus Uggla",
+      "album": "Bästa kebaben i hela stan - Single",
+      "durationMs": 215974,
+      "ids": {
+        "appleMusic": "1748854225"
+      }
+    },
+    {
+      "title": "Eenie Meenie",
+      "artist": "Sean Kingston \u0026 Justin Bieber",
+      "album": "Eenie Meenie - Single",
+      "durationMs": 201880,
+      "ids": {
+        "appleMusic": "359966562"
+      }
+    },
+    {
+      "title": "Se på mig nu (feat. Linnea Henriksson) [Singelversion]",
+      "artist": "Petter",
+      "album": "Skeppsholmen",
+      "durationMs": 250040,
+      "ids": {
+        "appleMusic": "1164591087"
+      }
+    },
+    {
+      "title": "Words",
+      "artist": "Alesso \u0026 Zara Larsson",
+      "album": "Words (Majestic Remix) [feat. Zara Larsson \u0026 Majestic] - Single",
+      "durationMs": 142677,
+      "ids": {
+        "appleMusic": "1639015302"
+      }
+    },
+    {
+      "title": "Komplicerad",
+      "artist": "Miss Li",
+      "album": "Underbart i all misär",
+      "durationMs": 159379,
+      "ids": {
+        "appleMusic": "1584121725"
+      }
+    },
+    {
+      "title": "Blame (feat. John Newman)",
+      "artist": "Calvin Harris",
+      "album": "Motion",
+      "durationMs": 212960,
+      "ids": {
+        "appleMusic": "922876184"
+      }
+    },
+    {
+      "title": "Hey Ya! (Radio Mix/Club Mix)",
+      "artist": "OutKast",
+      "album": "The Way You Move / Hey Ya! - EP",
+      "durationMs": 239240,
+      "ids": {
+        "appleMusic": "303186094"
+      }
+    },
+    {
+      "title": "Sandstorm",
+      "artist": "Darude",
+      "album": "Before the Storm, Special Edition",
+      "durationMs": 225474,
+      "ids": {
+        "appleMusic": "338349243"
+      }
+    },
+    {
+      "title": "När Vi Två Blir En",
+      "artist": "Gyllene Tider",
+      "album": "Moderna Tider",
+      "durationMs": 188467,
+      "ids": {
+        "appleMusic": "693131088"
+      }
+    },
+    {
+      "title": "Feel This Moment (feat. Christina Aguilera)",
+      "artist": "Pitbull",
+      "album": "Global Warming: Meltdown (Deluxe Version)",
+      "durationMs": 229500,
+      "ids": {
+        "appleMusic": "737053272"
+      }
+    },
+    {
+      "title": "Lose my mind",
+      "artist": "Myra Granberg",
+      "album": "Lose my mind - Single",
+      "durationMs": 173855,
+      "ids": {
+        "appleMusic": "1561003911"
+      }
+    },
+    {
+      "title": "Kan inte gå",
+      "artist": "Bolaget",
+      "album": "Svenska Klassiker",
+      "durationMs": 146719,
+      "ids": {
+        "appleMusic": "1772246652"
+      }
+    },
+    {
+      "title": "Cotton Eye Joe",
+      "artist": "Power Surge",
+      "album": "Cotton Eye Joe - EP",
+      "durationMs": 154393,
+      "ids": {
+        "appleMusic": "1742538020"
+      }
+    },
+    {
+      "title": "Fireball (feat. John Ryan)",
+      "artist": "Pitbull",
+      "album": "Globalization",
+      "durationMs": 236254,
+      "ids": {
+        "appleMusic": "933984097"
+      }
+    },
+    {
+      "title": "Wake Me Up",
+      "artist": "Avicii",
+      "album": "True",
+      "durationMs": 249688,
+      "ids": {
+        "appleMusic": "1440872929"
+      }
+    },
+    {
+      "title": "Kom",
+      "artist": "Dolores",
+      "album": "Festens drottning",
+      "durationMs": 152000,
+      "ids": {
+        "appleMusic": "1775873988"
+      }
+    },
+    {
+      "title": "You Got (What I Want)",
+      "artist": "Graaf",
+      "album": "Graaf Sisters",
+      "durationMs": 264626,
+      "ids": {
+        "appleMusic": "361264444"
+      }
+    },
+    {
+      "title": "Summer Days (feat. Macklemore \u0026 Patrick Stump)",
+      "artist": "Martin Garrix",
+      "album": "Summer Days (feat. Macklemore \u0026 Patrick Stump) - Single",
+      "durationMs": 163805,
+      "ids": {
+        "appleMusic": "1460655320"
+      }
+    },
+    {
+      "title": "Vart jag än går",
+      "artist": "Stiftelsen",
+      "album": "Ljungaverk",
+      "durationMs": 207333,
+      "ids": {
+        "appleMusic": "1743799000"
+      }
+    },
+    {
+      "title": "Nån Annan (feat. Jacco)",
+      "artist": "Dani M",
+      "album": "Hela Livet",
+      "durationMs": 224552,
+      "ids": {
+        "appleMusic": "1527101368"
+      }
+    },
+    {
+      "title": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "album": "Fine Line",
+      "durationMs": 173991,
+      "ids": {
+        "appleMusic": "1485802967"
+      }
+    },
+    {
+      "title": "Ugly Heart",
+      "artist": "G.R.L.",
+      "album": "G.R.L. - EP",
+      "durationMs": 198307,
+      "ids": {
+        "appleMusic": "899729879"
+      }
+    },
+    {
+      "title": "Din soldat (feat. Kristin Amparo)",
+      "artist": "Albin Johnsén",
+      "album": "Dyra tårar",
+      "durationMs": 198880,
+      "ids": {
+        "appleMusic": "1442583386"
+      }
+    },
+    {
+      "title": "Det är ju dej jag går och väntar på",
+      "artist": "Lucianoz",
+      "album": "Det är ju dej jag går och väntar på - Single",
+      "durationMs": 177201,
+      "ids": {
+        "appleMusic": "1660972706"
+      }
+    },
+    {
+      "title": "All My Friends (feat. Tinashe \u0026 Chance The Rapper)",
+      "artist": "Snakehips",
+      "album": "All My Friends - EP",
+      "durationMs": 229738,
+      "ids": {
+        "appleMusic": "1099923871"
+      }
+    },
+    {
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "album": "Chill",
+      "durationMs": 216667,
+      "ids": {
+        "appleMusic": "1023317156"
+      }
+    },
+    {
+      "title": "Young Folks",
+      "artist": "Peter Bjorn and John",
+      "album": "Frühling 2022",
+      "durationMs": 276693,
+      "ids": {
+        "appleMusic": "1609323657"
+      }
+    },
+    {
+      "title": "Lev nu dö sen",
+      "artist": "Miss Li",
+      "album": "Lev nu dö sen - Single",
+      "durationMs": 182708,
+      "ids": {
+        "appleMusic": "1482605035"
+      }
+    },
+    {
+      "title": "On The Floor (Radio Edit)",
+      "artist": "Jennifer Lopez \u0026 Pitbull",
+      "album": "ガール・パワー!洋楽ヒット",
+      "durationMs": 230920,
+      "ids": {
+        "appleMusic": "1812066520"
+      }
+    },
+    {
+      "title": "Hotel Room Service",
+      "artist": "Pitbull",
+      "album": "Pitbull Starring In: Rebelution",
+      "durationMs": 237640,
+      "ids": {
+        "appleMusic": "328867481"
+      }
+    },
+    {
+      "title": "I'm an Albatraoz",
+      "artist": "AronChupa \u0026 Little Sis Nora",
+      "album": "I'm an Albatraoz - Single",
+      "durationMs": 166849,
+      "ids": {
+        "appleMusic": "907071271"
+      }
+    },
+    {
+      "title": "Dancing Queen",
+      "artist": "ABBA",
+      "album": "Disco Boogie Mood",
+      "durationMs": 231093,
+      "ids": {
+        "appleMusic": "1646679440"
+      }
+    },
+    {
+      "title": "Another Night",
+      "artist": "Real McCoy",
+      "album": "Another Night",
+      "durationMs": 236542,
+      "ids": {
+        "appleMusic": "258585620"
+      }
+    },
+    {
+      "title": "Våran sång (Sveriges Officiella VM-låt 2023)",
+      "artist": "Miss Li",
+      "album": "Våran sång (Sveriges Officiella VM-låt 2023) - Single",
+      "durationMs": 167851,
+      "ids": {
+        "appleMusic": "1690139064"
+      }
+    },
+    {
+      "title": "Country Roads (Take Me Home, Country Roads)",
+      "artist": "Leontine",
+      "album": "Country Roads (Take Me Home, Country Roads) - EP",
+      "durationMs": 146630,
+      "ids": {
+        "appleMusic": "1723995955"
+      }
+    },
+    {
+      "title": "Opa Opa",
+      "artist": "Antique",
+      "album": "Opa Opa",
+      "durationMs": 214109,
+      "ids": {
+        "appleMusic": "373470456"
+      }
+    },
+    {
+      "title": "Tommy Tycker om mig",
+      "artist": "Carola",
+      "album": "Steg för steg",
+      "durationMs": 232773,
+      "ids": {
+        "appleMusic": "279675867"
+      }
+    },
+    {
+      "title": "Bye Bye Bye",
+      "artist": "*NSYNC",
+      "album": "*NSYNC: Greatest Hits",
+      "durationMs": 199640,
+      "ids": {
+        "appleMusic": "254906599"
+      }
+    },
+    {
+      "title": "Mr. Vain",
+      "artist": "Nicky Pulse \u0026 Daniela Vecchia",
+      "album": "Mr. Vain - Single",
+      "durationMs": 201429,
+      "ids": {
+        "appleMusic": "1769606540"
+      }
+    },
+    {
+      "title": "Lyckligare Nu",
+      "artist": "Linnea Henriksson",
+      "album": "Till Mina Älskade Och Älskare",
+      "durationMs": 200467,
+      "ids": {
+        "appleMusic": "524985191"
+      }
+    },
+    {
+      "title": "Kids",
+      "artist": "MGMT",
+      "album": "Summer Viral Hits 2022",
+      "durationMs": 302840,
+      "ids": {
+        "appleMusic": "1626009275"
+      }
+    },
+    {
+      "title": "Moves Like Jagger (Studio Recording from \"the Voice\" Performance) [feat. Christina Aguilera]",
+      "artist": "Maroon 5",
+      "album": "Hands All Over (Deluxe Version)",
+      "durationMs": 201253,
+      "ids": {
+        "appleMusic": "1440777201"
+      }
+    },
+    {
+      "title": "What Makes You Beautiful",
+      "artist": "One Direction",
+      "album": "What Makes You Beautiful - Single",
+      "durationMs": 198693,
+      "ids": {
+        "appleMusic": "452514301"
+      }
+    },
+    {
+      "title": "Ooa hela natten",
+      "artist": "Attack",
+      "album": "Rätt stuk",
+      "durationMs": 253440,
+      "ids": {
+        "appleMusic": "1115452639"
+      }
+    },
+    {
+      "title": "Uptown Funk (feat. Bruno Mars)",
+      "artist": "Mark Ronson",
+      "album": "Summer Party Bangers",
+      "durationMs": 269658,
+      "ids": {
+        "appleMusic": "1687426724"
+      }
+    },
+    {
+      "title": "Brown Eyed Girl",
+      "artist": "Van Morrison",
+      "album": "Blowin' Your Mind!",
+      "durationMs": 186559,
+      "ids": {
+        "appleMusic": "1828716610"
+      }
+    },
+    {
+      "title": "Hall of Fame (feat. will.i.am)",
+      "artist": "The Script",
+      "album": "2010s Summer Hits",
+      "durationMs": 202533,
+      "ids": {
+        "appleMusic": "1744737571"
+      }
+    },
+    {
+      "title": "Green Green Grass",
+      "artist": "George Ezra",
+      "album": "Gold Rush Kid (Apple Music Edition)",
+      "durationMs": 167614,
+      "ids": {
+        "appleMusic": "1606177914"
+      }
+    },
+    {
+      "title": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "album": "The Cruelest Summer - Single",
+      "durationMs": 178426,
+      "ids": {
+        "appleMusic": "1712547509"
+      }
+    },
+    {
+      "title": "Hälsa Gud",
+      "artist": "Miss Li",
+      "album": "Livet, döden, skiten däremellan",
+      "durationMs": 149708,
+      "ids": {
+        "appleMusic": "1771681435"
+      }
+    },
+    {
+      "title": "Gettin' Jiggy Wit It",
+      "artist": "Will Smith",
+      "album": "Big Willie Style",
+      "durationMs": 227933,
+      "ids": {
+        "appleMusic": "273258819"
+      }
+    },
+    {
+      "title": "SEMESTER",
+      "artist": "Elov \u0026 Beny",
+      "album": "SEMESTER - Single",
+      "durationMs": 175437,
+      "ids": {
+        "appleMusic": "1691482303"
+      }
+    },
+    {
+      "title": "Roses (feat. ROZES)",
+      "artist": "The Chainsmokers",
+      "album": "Beach Party Anthems",
+      "durationMs": 225813,
+      "ids": {
+        "appleMusic": "1681221755"
+      }
+    },
+    {
+      "title": "Tandtråd",
+      "artist": "Tjuvjakt",
+      "album": "Sommerhits 2025",
+      "durationMs": 242320,
+      "ids": {
+        "appleMusic": "1825100239"
+      }
+    },
+    {
+      "title": "Ju Mer Dom Spottar",
+      "artist": "Kapten Röd",
+      "album": "Fläcken Som Aldrig Går Bort",
+      "durationMs": 192028,
+      "ids": {
+        "appleMusic": "1631933473"
+      }
+    },
+    {
+      "title": "Hips Don't Lie (feat. Wyclef Jean)",
+      "artist": "Shakira",
+      "album": "New Year's Eve - NYE 2018/2019",
+      "durationMs": 218093,
+      "ids": {
+        "appleMusic": "1445215805"
+      }
+    },
+    {
+      "title": "Dum av dej",
+      "artist": "Naod",
+      "album": "2029",
+      "durationMs": 159429,
+      "ids": {
+        "appleMusic": "1729442529"
+      }
+    },
+    {
+      "title": "Counting Stars",
+      "artist": "OneRepublic",
+      "album": "Native",
+      "durationMs": 257286,
+      "ids": {
+        "appleMusic": "1440862803"
+      }
+    },
+    {
+      "title": "Blommor där du står",
+      "artist": "GAMMAL",
+      "album": "Blommor där du står - Single",
+      "durationMs": 161422,
+      "ids": {
+        "appleMusic": "1449704939"
+      }
+    },
+    {
+      "title": "How To Save a Life (New)",
+      "artist": "The Fray",
+      "album": "Running Hits (Summer Edition)",
+      "durationMs": 262533,
+      "ids": {
+        "appleMusic": "661371789"
+      }
+    },
+    {
+      "title": "Ingen annan rör mig som du",
+      "artist": "Norlie \u0026 KKV",
+      "album": "Alla våra låtar",
+      "durationMs": 189800,
+      "ids": {
+        "appleMusic": "1734695340"
+      }
+    },
+    {
+      "title": "Tills mitt hjärta går under",
+      "artist": "Myra Granberg",
+      "album": "Tills mitt hjärta går under - Single",
+      "durationMs": 228434,
+      "ids": {
+        "appleMusic": "1488432847"
+      }
+    },
+    {
+      "title": "Don't Stop Believin'",
+      "artist": "Leontine",
+      "album": "Don't Stop Believin' - Single",
+      "durationMs": 176000,
+      "ids": {
+        "appleMusic": "1491502014"
+      }
+    },
+    {
+      "title": "Thunder",
+      "artist": "Imagine Dragons",
+      "album": "Happy Morning",
+      "durationMs": 187147,
+      "ids": {
+        "appleMusic": "1564003953"
+      }
+    },
+    {
+      "title": "Tappat",
+      "artist": "Victor Leksell",
+      "album": "Fånga mig när jag faller",
+      "durationMs": 215160,
+      "ids": {
+        "appleMusic": "1518315264"
+      }
+    },
+    {
+      "title": "I'm So Excited",
+      "artist": "The Pointer Sisters",
+      "album": "Best of The Pointer Sisters",
+      "durationMs": 229467,
+      "ids": {
+        "appleMusic": "258661781"
+      }
+    },
+    {
+      "title": "Toxic",
+      "artist": "Britney Spears",
+      "album": "Pure... Woman",
+      "durationMs": 198800,
+      "ids": {
+        "appleMusic": "835878247"
+      }
+    },
+    {
+      "title": "Africa",
+      "artist": "Toto",
+      "album": "The 80s: Decade of Classics",
+      "durationMs": 295283,
+      "ids": {
+        "appleMusic": "1692216006"
+      }
+    },
+    {
+      "title": "Svalkar Vinden",
+      "artist": "Den svenska björnstammen",
+      "album": "Ett Fel Närmare Rätt",
+      "durationMs": 189109,
+      "ids": {
+        "appleMusic": "1441216706"
+      }
+    },
+    {
+      "title": "Superstar",
+      "artist": "Jamelia",
+      "album": "Superstar",
+      "durationMs": 215480,
+      "ids": {
+        "appleMusic": "1707600046"
+      }
+    },
+    {
+      "title": "Celebration",
+      "artist": "Kool \u0026 The Gang",
+      "album": "Football Vibes",
+      "durationMs": 298640,
+      "ids": {
+        "appleMusic": "6776331982"
+      }
+    },
+    {
+      "title": "Fantasi",
+      "artist": "Style",
+      "album": "12 Bästa",
+      "durationMs": 165381,
+      "ids": {
+        "appleMusic": "361273582"
+      }
+    },
+    {
+      "title": "Cheerleader (Felix Jaehn Remix) [Radio Edit]",
+      "artist": "Omi",
+      "album": "Stimmungsraketen",
+      "durationMs": 180227,
+      "ids": {
+        "appleMusic": "1076305726"
+      }
+    },
+    {
+      "title": "Yeah! (feat. Lil Jon \u0026 Ludacris)",
+      "artist": "USHER",
+      "album": "Pop Summer Hits 2024",
+      "durationMs": 250373,
+      "ids": {
+        "appleMusic": "1737552901"
+      }
+    },
+    {
+      "title": "Cry Me a River",
+      "artist": "Justin Timberlake",
+      "album": "Sad Songs",
+      "durationMs": 288333,
+      "ids": {
+        "appleMusic": "904438811"
+      }
+    },
+    {
+      "title": "Bedövning",
+      "artist": "Victor Leksell",
+      "album": "Fånga mig när jag faller",
+      "durationMs": 185293,
+      "ids": {
+        "appleMusic": "1518315273"
+      }
+    },
+    {
+      "title": "Cyklar ni så springer jag",
+      "artist": "Mares",
+      "album": "Cyklar ni så springer jag - Single",
+      "durationMs": 208764,
+      "ids": {
+        "appleMusic": "1499747926"
+      }
+    },
+    {
+      "title": "Mirrors (Radio Edit)",
+      "artist": "Justin Timberlake",
+      "album": "Mirrors (Radio Edit) - Single",
+      "durationMs": 277185,
+      "ids": {
+        "appleMusic": "618261614"
+      }
+    },
+    {
+      "title": "Old Town Road",
+      "artist": "Lil Nas X",
+      "album": "7",
+      "durationMs": 113000,
+      "ids": {
+        "appleMusic": "1468166468"
+      }
+    },
+    {
+      "title": "Bounce (feat. Kelis) [Radio Edit]",
+      "artist": "Calvin Harris",
+      "album": "Party Hits: Summer Edition",
+      "durationMs": 222187,
+      "ids": {
+        "appleMusic": "1308726355"
+      }
+    },
+    {
+      "title": "Var ska vi sova inatt",
+      "artist": "Perikles",
+      "album": "Namn \u0026 nummer",
+      "durationMs": 220240,
+      "ids": {
+        "appleMusic": "540396907"
+      }
+    },
+    {
+      "title": "Din tid kommer (Otto Knows Remix)",
+      "artist": "Håkan Hellström",
+      "album": "Din tid kommer (Otto Knows Remix) - Single",
+      "durationMs": 286875,
+      "ids": {
+        "appleMusic": "1112190373"
+      }
+    },
+    {
+      "title": "Don't Let Me Down (feat. Daya)",
+      "artist": "The Chainsmokers",
+      "album": "Collage - EP",
+      "durationMs": 208658,
+      "ids": {
+        "appleMusic": "1170699706"
+      }
+    },
+    {
+      "title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "album": "Eye of the Tiger (Remastered)",
+      "durationMs": 243773,
+      "ids": {
+        "appleMusic": "254685026"
+      }
+    },
+    {
+      "title": "Kiss Me More (feat. SZA)",
+      "artist": "Doja Cat",
+      "album": "Summer Party Bangers",
+      "durationMs": 208667,
+      "ids": {
+        "appleMusic": "1687425969"
+      }
+    },
+    {
+      "title": "Maria Maria (Radio Mix) [feat. The Product G\u0026B]",
+      "artist": "Santana",
+      "album": "Supernatural (Legacy Edition)",
+      "durationMs": 261973,
+      "ids": {
+        "appleMusic": "422304333"
+      }
+    },
+    {
+      "title": "Hot N Cold",
+      "artist": "Katy Perry",
+      "album": "Housework Hits",
+      "durationMs": 220227,
+      "ids": {
+        "appleMusic": "6779027700"
+      }
+    },
+    {
+      "title": "TiK ToK",
+      "artist": "Kesha",
+      "album": "00s Party Mixtape",
+      "durationMs": 199693,
+      "ids": {
+        "appleMusic": "1032179405"
+      }
+    },
+    {
+      "title": "I Love It (feat. Charli XCX)",
+      "artist": "Icona Pop",
+      "album": "Mood Booster",
+      "durationMs": 157153,
+      "ids": {
+        "appleMusic": "1490008617"
+      }
+    },
+    {
+      "title": "On My Love",
+      "artist": "Zara Larsson \u0026 David Guetta",
+      "album": "VENUS",
+      "durationMs": 222912,
+      "ids": {
+        "appleMusic": "1733560228"
+      }
+    },
+    {
+      "title": "Cooler Than Me (Single Mix)",
+      "artist": "Mike Posner",
+      "album": "R\u0026B Summer Mix",
+      "durationMs": 213293,
+      "ids": {
+        "appleMusic": "1568637726"
+      }
+    },
+    {
+      "title": "Gimme More",
+      "artist": "Britney Spears",
+      "album": "Blackout (Deluxe Version)",
+      "durationMs": 251244,
+      "ids": {
+        "appleMusic": "521738935"
+      }
+    },
+    {
+      "title": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] [feat. Freshlyground] [Single]",
+      "artist": "Shakira",
+      "album": "O Melhor do Pop Internacional",
+      "durationMs": 202627,
+      "ids": {
+        "appleMusic": "1635639227"
+      }
+    },
+    {
+      "title": "It Ain't Me",
+      "artist": "Kygo \u0026 Selena Gomez",
+      "album": "It Ain't Me - Single",
+      "durationMs": 220781,
+      "ids": {
+        "appleMusic": "1205671288"
+      }
+    },
+    {
+      "title": "Sunny",
+      "artist": "Boney M.",
+      "album": "The Complete Boney M.",
+      "durationMs": 242240,
+      "ids": {
+        "appleMusic": "294329290"
+      }
+    },
+    {
+      "title": "High Hopes",
+      "artist": "Panic! At the Disco",
+      "album": "Wedding 2026",
+      "durationMs": 192133,
+      "ids": {
+        "appleMusic": "6773626291"
+      }
+    },
+    {
+      "title": "Shut Up and Dance",
+      "artist": "WALK THE MOON",
+      "album": "TALKING IS HARD (Expanded Edition)",
+      "durationMs": 199080,
+      "ids": {
+        "appleMusic": "961298418"
+      }
+    },
+    {
+      "title": "Heaven (feat. Do)",
+      "artist": "DJ Sammy \u0026 Yanou",
+      "album": "Heaven (feat. Do)",
+      "durationMs": 233600,
+      "ids": {
+        "appleMusic": "1831929095"
+      }
+    },
+    {
+      "title": "Dynamite",
+      "artist": "Taio Cruz",
+      "album": "Rokstarr (Special Edition)",
+      "durationMs": 202627,
+      "ids": {
+        "appleMusic": "1444045214"
+      }
+    },
+    {
+      "title": "Murder On The Dancefloor",
+      "artist": "Leontine",
+      "album": "Murder On The Dancefloor - EP",
+      "durationMs": 140444,
+      "ids": {
+        "appleMusic": "1734601669"
+      }
+    },
+    {
+      "title": "Unforgettable (feat. Swae Lee)",
+      "artist": "French Montana",
+      "album": "R\u0026B Summer Mix",
+      "durationMs": 233902,
+      "ids": {
+        "appleMusic": "1568636484"
+      }
+    },
+    {
+      "title": "Mikrofonkåt",
+      "artist": "September",
+      "album": "Love CPR",
+      "durationMs": 166067,
+      "ids": {
+        "appleMusic": "410829245"
+      }
+    },
+    {
+      "title": "Mambo No. 5 (A Little Bit Of...)",
+      "artist": "Lou Bega",
+      "album": "Mambo No. 5 (A Little Bit Of...) - EP",
+      "durationMs": 220293,
+      "ids": {
+        "appleMusic": "1318383096"
+      }
+    },
+    {
+      "title": "Drink And Shout",
+      "artist": "Prezioso, Vini Vici \u0026 SHIBUI",
+      "album": "Drink And Shout - Single",
+      "durationMs": 138889,
+      "ids": {
+        "appleMusic": "1665625058"
+      }
+    },
+    {
+      "title": "Sena Nätter, Tomma Glas (feat. Veronica Maggio)",
+      "artist": "Ison \u0026 Fille",
+      "album": "Sena Nätter, Tomma Glas (feat. Veronica Maggio) - Single",
+      "durationMs": 224093,
+      "ids": {
+        "appleMusic": "461132162"
+      }
+    },
+    {
+      "title": "Closer (feat. Halsey)",
+      "artist": "The Chainsmokers",
+      "album": "Closer (feat. Halsey) - Single",
+      "durationMs": 244960,
+      "ids": {
+        "appleMusic": "1136768508"
+      }
+    },
+    {
+      "title": "Silence (feat. Khalid)",
+      "artist": "Marshmello",
+      "album": "Summer Hits",
+      "durationMs": 180823,
+      "ids": {
+        "appleMusic": "1739504158"
+      }
+    },
+    {
+      "title": "Klär av dig",
+      "artist": "Victor Leksell",
+      "album": "Klär av dig - Single",
+      "durationMs": 202887,
+      "ids": {
+        "appleMusic": "1465738183"
+      }
+    },
+    {
+      "title": "Take on Me",
+      "artist": "a-ha",
+      "album": "100 Greatest Summer Songs",
+      "durationMs": 225280,
+      "ids": {
+        "appleMusic": "1458996323"
+      }
+    },
+    {
+      "title": "I Wanna Dance with Somebody (Who Loves Me)",
+      "artist": "Whitney Houston",
+      "album": "Beach Party Anthems",
+      "durationMs": 292875,
+      "ids": {
+        "appleMusic": "1681222070"
+      }
+    },
+    {
+      "title": "Macarena (Bayside Boys Remix)",
+      "artist": "Los del Río",
+      "album": "Diciembre Es Colombia",
+      "durationMs": 252133,
+      "ids": {
+        "appleMusic": "1774385109"
+      }
+    },
+    {
+      "title": "Sommaren i city",
+      "artist": "Dolores",
+      "album": "Festens drottning",
+      "durationMs": 166000,
+      "ids": {
+        "appleMusic": "1775874211"
+      }
+    },
+    {
+      "title": "Wannabe",
+      "artist": "Spice Girls",
+      "album": "Wedding Morning",
+      "durationMs": 173027,
+      "ids": {
+        "appleMusic": "6765759471"
+      }
+    },
+    {
+      "title": "Miami",
+      "artist": "Will Smith",
+      "album": "Big Willie Style",
+      "durationMs": 197560,
+      "ids": {
+        "appleMusic": "273258828"
+      }
+    },
+    {
+      "title": "Break My Stride",
+      "artist": "Matthew Wilder",
+      "album": "I Don't Speak the Language",
+      "durationMs": 184408,
+      "ids": {
+        "appleMusic": "359713650"
+      }
+    },
+    {
+      "title": "95",
+      "artist": "Mares",
+      "album": "95 - Single",
+      "durationMs": 229079,
+      "ids": {
+        "appleMusic": "1499747720"
+      }
+    },
+    {
+      "title": "HKF (Håll käften \u0026 försvinn)",
+      "artist": "Myra Granberg",
+      "album": "Bara hälften kvar - EP",
+      "durationMs": 190978,
+      "ids": {
+        "appleMusic": "1533781622"
+      }
+    },
+    {
+      "title": "Stars Will Align",
+      "artist": "Kygo \u0026 Imagine Dragons",
+      "album": "Stars Will Align - Single",
+      "durationMs": 234366,
+      "ids": {
+        "appleMusic": "1769222793"
+      }
+    },
+    {
+      "title": "Kanske var vi rätt bra ändå",
+      "artist": "Newkid",
+      "album": "Kanske var vi rätt bra ändå - Single",
+      "durationMs": 153581,
+      "ids": {
+        "appleMusic": "1507970667"
+      }
+    },
+    {
+      "title": "Kung för en dag",
+      "artist": "Magnus Uggla",
+      "album": "Uggla Box",
+      "durationMs": 198053,
+      "ids": {
+        "appleMusic": "404002312"
+      }
+    },
+    {
+      "title": "Dragostea din tei (Original Italian version)",
+      "artist": "O-Zone",
+      "album": "Dragostea din tei",
+      "durationMs": 211990,
+      "ids": {
+        "appleMusic": "1593081404"
+      }
+    },
+    {
+      "title": "Rara Söta Anna",
+      "artist": "Ronny \u0026 Ragge",
+      "album": "Let's Pök",
+      "durationMs": 247907,
+      "ids": {
+        "appleMusic": "442902296"
+      }
+    },
+    {
+      "title": "Miles On It",
+      "artist": "Marshmello \u0026 Kane Brown",
+      "album": "Miles On It - Single",
+      "durationMs": 168355,
+      "ids": {
+        "appleMusic": "1743575321"
+      }
+    },
+    {
+      "title": "Ai Se Eu Te Pego (Ao Vivo)",
+      "artist": "Michel Teló",
+      "album": "Na Balada (Ao Vivo)",
+      "durationMs": 170493,
+      "ids": {
+        "appleMusic": "1678776843"
+      }
+    },
+    {
+      "title": "Forever Young",
+      "artist": "John De Sohn \u0026 LIAMOO",
+      "album": "Made For You",
+      "durationMs": 167912,
+      "ids": {
+        "appleMusic": "1487674083"
+      }
+    },
+    {
+      "title": "Livin' la Vida Loca",
+      "artist": "Ricky Martin",
+      "album": "Best Summer Hits",
+      "durationMs": 243160,
+      "ids": {
+        "appleMusic": "1565619200"
+      }
+    },
+    {
+      "title": "...Baby One More Time",
+      "artist": "Britney Spears",
+      "album": "O Melhor do Pop Internacional",
+      "durationMs": 211067,
+      "ids": {
+        "appleMusic": "1635638735"
+      }
+    },
+    {
+      "title": "Miracle",
+      "artist": "Calvin Harris \u0026 Ellie Goulding",
+      "album": "The Annual 2024 - Ministry of Sound",
+      "durationMs": 186496,
+      "ids": {
+        "appleMusic": "1728250091"
+      }
+    },
+    {
+      "title": "Meet Me Halfway",
+      "artist": "Black Eyed Peas",
+      "album": "The E.N.D. (The Energy Never Dies) [Deluxe]",
+      "durationMs": 284373,
+      "ids": {
+        "appleMusic": "1446016731"
+      }
+    },
+    {
+      "title": "Eloise",
+      "artist": "Arvingarna",
+      "album": "Våra allra bästa",
+      "durationMs": 186067,
+      "ids": {
+        "appleMusic": "1244656306"
+      }
+    },
+    {
+      "title": "Party Rock Anthem (feat. Lauren Bennett \u0026 GoonRock)",
+      "artist": "LMFAO",
+      "album": "Partymusik zum Mitsingen",
+      "durationMs": 264147,
+      "ids": {
+        "appleMusic": "1890587378"
+      }
+    },
+    {
+      "title": "Adore You",
+      "artist": "Harry Styles",
+      "album": "Fine Line",
+      "durationMs": 207140,
+      "ids": {
+        "appleMusic": "1485802970"
+      }
+    },
+    {
+      "title": "Where Are You Now",
+      "artist": "Lost Frequencies \u0026 Calum Scott",
+      "album": "All Stand Together",
+      "durationMs": 149067,
+      "ids": {
+        "appleMusic": "1732711111"
+      }
+    },
+    {
+      "title": "Dör För Dig",
+      "artist": "Danny Saucedo",
+      "album": "Jag Hör Vad Du Säger Men Glömt Vad Du Sa",
+      "durationMs": 176293,
+      "ids": {
+        "appleMusic": "1061577375"
+      }
+    },
+    {
+      "title": "Summer of '69",
+      "artist": "Bryan Adams",
+      "album": "Reckless (30th Anniversary) [Deluxe Edition]",
+      "durationMs": 216053,
+      "ids": {
+        "appleMusic": "1440823965"
+      }
+    },
+    {
+      "title": "Oops!…I Did It Again",
+      "artist": "Britney Spears",
+      "album": "Oops!...I Did It Again",
+      "durationMs": 211160,
+      "ids": {
+        "appleMusic": "267954487"
+      }
+    },
+    {
+      "title": "What's Love Got to Do with It",
+      "artist": "Kygo \u0026 Tina Turner",
+      "album": "What's Love Got to Do with It - Single",
+      "durationMs": 208156,
+      "ids": {
+        "appleMusic": "1523068039"
+      }
+    },
+    {
+      "title": "Sweater Weather",
+      "artist": "The Neighbourhood",
+      "album": "Viral Summer Hits",
+      "durationMs": 240400,
+      "ids": {
+        "appleMusic": "1626029555"
+      }
+    },
+    {
+      "title": "Astrologen",
+      "artist": "Magnus Uggla",
+      "album": "Välkommen till folkhemmet",
+      "durationMs": 309840,
+      "ids": {
+        "appleMusic": "298162739"
+      }
+    },
+    {
+      "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+      "artist": "Post Malone \u0026 Swae Lee",
+      "album": "Spider-Man: Into the Spider-Verse (Soundtrack From \u0026 Inspired by the Motion Picture)",
+      "durationMs": 158040,
+      "ids": {
+        "appleMusic": "1445949267"
+      }
+    },
+    {
+      "title": "Islands in the Stream",
+      "artist": "Dolly Parton \u0026 Kenny Rogers",
+      "album": "Dolly",
+      "durationMs": 249360,
+      "ids": {
+        "appleMusic": "1641626272"
+      }
+    },
+    {
+      "title": "Higher Love",
+      "artist": "Kygo \u0026 Whitney Houston",
+      "album": "R\u0026B Summer Mix",
+      "durationMs": 228267,
+      "ids": {
+        "appleMusic": "1568636480"
+      }
+    },
+    {
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "album": "umuulan na naman.",
+      "durationMs": 223253,
+      "ids": {
+        "appleMusic": "1823928848"
+      }
+    },
+    {
+      "title": "Alive",
+      "artist": "Da Buzz",
+      "album": "More Than Alive",
+      "durationMs": 207199,
+      "ids": {
+        "appleMusic": "373885803"
+      }
+    },
+    {
+      "title": "Couldn't Care Less (feat. Gia Koka)",
+      "artist": "ALTÉGO",
+      "album": "Couldn't Care Less (feat. Gia Koka) - Single",
+      "durationMs": 145946,
+      "ids": {
+        "appleMusic": "1741382403"
+      }
+    },
+    {
+      "title": "This Is What You Came For",
+      "artist": "Calvin Harris \u0026 Rihanna",
+      "album": "96 Months",
+      "durationMs": 221901,
+      "ids": {
+        "appleMusic": "1761396653"
+      }
+    },
+    {
+      "title": "The Sign",
+      "artist": "Ace of Base",
+      "album": "Beautiful Life - The Singles Box",
+      "durationMs": 191240,
+      "ids": {
+        "appleMusic": "1682507592"
+      }
+    },
+    {
+      "title": "Firestone (feat. Conrad Sewell)",
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "durationMs": 271635,
+      "ids": {
+        "appleMusic": "1091453645"
+      }
+    },
+    {
+      "title": "Down Under",
+      "artist": "Men At Work",
+      "album": "The Essential Men At Work",
+      "durationMs": 223680,
+      "ids": {
+        "appleMusic": "380645318"
+      }
+    },
+    {
+      "title": "We Found Love",
+      "artist": "Pulse Pioneers",
+      "album": "We Found Love - EP",
+      "durationMs": 124444,
+      "ids": {
+        "appleMusic": "1739359451"
+      }
+    },
+    {
+      "title": "Alors on danse (Radio Edit)",
+      "artist": "Stromae",
+      "album": "Cheese (Deluxe Edition)",
+      "durationMs": 206253,
+      "ids": {
+        "appleMusic": "1445315530"
+      }
+    },
+    {
+      "title": "Numb",
+      "artist": "Marshmello \u0026 Khalid",
+      "album": "Numb - Single",
+      "durationMs": 155589,
+      "ids": {
+        "appleMusic": "1627354261"
+      }
+    },
+    {
+      "title": "Everytime We Touch",
+      "artist": "Leontine",
+      "album": "Everytime We Touch - EP",
+      "durationMs": 178800,
+      "ids": {
+        "appleMusic": "1714436253"
+      }
+    },
+    {
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "album": "Live From Mexico",
+      "durationMs": 183290,
+      "ids": {
+        "appleMusic": "6774267371"
+      }
+    },
+    {
+      "title": "The Final Countdown",
+      "artist": "Europe",
+      "album": "The Final Countdown (Expanded Edition)",
+      "durationMs": 310333,
+      "ids": {
+        "appleMusic": "196480329"
+      }
+    },
+    {
+      "title": "Faith",
+      "artist": "George Michael",
+      "album": "Faith (2010 Remastered)",
+      "durationMs": 193200,
+      "ids": {
+        "appleMusic": "395918958"
+      }
+    },
+    {
+      "title": "Let's Get Loud",
+      "artist": "Jennifer Lopez",
+      "album": "R\u0026B Summer Mix",
+      "durationMs": 239400,
+      "ids": {
+        "appleMusic": "1568636849"
+      }
+    },
+    {
+      "title": "Walking On Sunshine",
+      "artist": "Katrina and the Waves",
+      "album": "Kids Birthday Party",
+      "durationMs": 221333,
+      "ids": {
+        "appleMusic": "1691417559"
+      }
+    },
+    {
+      "title": "Run Away",
+      "artist": "Real McCoy",
+      "album": "Another Night",
+      "durationMs": 243858,
+      "ids": {
+        "appleMusic": "258585696"
+      }
+    },
+    {
+      "title": "Easy Love",
+      "artist": "Sigala",
+      "album": "Brighter Days",
+      "durationMs": 227137,
+      "ids": {
+        "appleMusic": "1397962902"
+      }
+    },
+    {
+      "title": "Are You with Me",
+      "artist": "Lost Frequencies",
+      "album": "Festival Favorites 2014 - Armada Music",
+      "durationMs": 138013,
+      "ids": {
+        "appleMusic": "6770881219"
+      }
+    },
+    {
+      "title": "Jungle",
+      "artist": "Alok, The Chainsmokers \u0026 Mae Stephens",
+      "album": "Jungle - Single",
+      "durationMs": 175500,
+      "ids": {
+        "appleMusic": "1705391359"
+      }
+    },
+    {
+      "title": "Brother Louie",
+      "artist": "Modern Talking",
+      "album": "Ready for Romance",
+      "durationMs": 222667,
+      "ids": {
+        "appleMusic": "445813219"
+      }
+    },
+    {
+      "title": "Time to Pretend",
+      "artist": "MGMT",
+      "album": "Time to Pretend - Single",
+      "durationMs": 261000,
+      "ids": {
+        "appleMusic": "305864791"
+      }
+    },
+    {
+      "title": "Poker Face",
+      "artist": "Lady Gaga",
+      "album": "Torcida 2018 - Nacional E Internacional",
+      "durationMs": 237200,
+      "ids": {
+        "appleMusic": "1390803101"
+      }
+    },
+    {
+      "title": "Around the World (La La La La La) [Radio Version]",
+      "artist": "A Touch of Class",
+      "album": "Planet Pop",
+      "durationMs": 214533,
+      "ids": {
+        "appleMusic": "308190658"
+      }
+    },
+    {
+      "title": "Freed from Desire (feat. Indiiana)",
+      "artist": "Drenchill",
+      "album": "NITRON music - Club \u0026 Dance Hits",
+      "durationMs": 161453,
+      "ids": {
+        "appleMusic": "1550265346"
+      }
+    },
+    {
+      "title": "Better Off Alone",
+      "artist": "Pulse Pioneers",
+      "album": "Better Off Alone - EP",
+      "durationMs": 136889,
+      "ids": {
+        "appleMusic": "1738008410"
+      }
+    },
+    {
+      "title": "Faded",
+      "artist": "Alan Walker",
+      "album": "Different World",
+      "durationMs": 212107,
+      "ids": {
+        "appleMusic": "1445141316"
+      }
+    },
+    {
+      "title": "Sugar (feat. Francesco Yates)",
+      "artist": "Robin Schulz",
+      "album": "Happiest Wake Up Songs",
+      "durationMs": 219043,
+      "ids": {
+        "appleMusic": "6766814759"
+      }
+    },
+    {
+      "title": "Jag mår bra nu (feat. Newkid)",
+      "artist": "Molly Sandén",
+      "album": "DOM SKA VETA",
+      "durationMs": 187787,
+      "ids": {
+        "appleMusic": "1565107571"
+      }
+    },
+    {
+      "title": "Stayin' Alive (Edited Version)",
+      "artist": "Bee Gees",
+      "album": "Disco \u0026 Funk Classics",
+      "durationMs": 92867,
+      "ids": {
+        "appleMusic": "1703297052"
+      }
+    },
+    {
+      "title": "Längesen (feat. Veronica Maggio) [Kyaal Remix]",
+      "artist": "Petter",
+      "album": "Krafter - EP",
+      "durationMs": 255107,
+      "ids": {
+        "appleMusic": "1496987264"
+      }
+    },
+    {
+      "title": "How Will I Know",
+      "artist": "Whitney Houston \u0026 Clean Bandit",
+      "album": "How Will I Know - Single",
+      "durationMs": 213436,
+      "ids": {
+        "appleMusic": "1585871464"
+      }
+    },
+    {
+      "title": "All of Me (Tiësto's Birthday Treatment Remix - Radio Edit)",
+      "artist": "John Legend",
+      "album": "Happiness Forever",
+      "durationMs": 251613,
+      "ids": {
+        "appleMusic": "1030797689"
+      }
+    },
+    {
+      "title": "Everywhere (feat. Maya Avedis)",
+      "artist": "XO Cupid",
+      "album": "Everywhere (feat. Maya Avedis) - Single",
+      "durationMs": 176129,
+      "ids": {
+        "appleMusic": "1501496162"
+      }
+    },
+    {
+      "title": "Natteravn",
+      "artist": "Rasmus Seebach",
+      "album": "Rasmus Seebach",
+      "durationMs": 239347,
+      "ids": {
+        "appleMusic": "1406275549"
+      }
+    },
+    {
+      "title": "The Rhythm of the Night",
+      "artist": "Sean Finn \u0026 Corona",
+      "album": "The Rhythm of the Night - Single",
+      "durationMs": 197453,
+      "ids": {
+        "appleMusic": "1453999499"
+      }
+    },
+    {
+      "title": "Sommartider (PARTY VERSION)",
+      "artist": "Ferdinand",
+      "album": "SOMMAR - SOMMARFEST MED FERDINAND - Single",
+      "durationMs": 141429,
+      "ids": {
+        "appleMusic": "1752844843"
+      }
+    },
+    {
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "album": "The Best of Me",
+      "durationMs": 213960,
+      "ids": {
+        "appleMusic": "1485596041"
+      }
+    },
+    {
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "album": "Stimmungsraketen",
+      "durationMs": 212933,
+      "ids": {
+        "appleMusic": "1076306148"
+      }
+    },
+    {
+      "title": "Maneater",
+      "artist": "Daryl Hall \u0026 John Oates",
+      "album": "Beachside Summer Hits",
+      "durationMs": 271893,
+      "ids": {
+        "appleMusic": "1744513388"
+      }
+    },
+    {
+      "title": "All That She Wants",
+      "artist": "Ace of Base",
+      "album": "Beautiful Life - The Singles Box",
+      "durationMs": 211213,
+      "ids": {
+        "appleMusic": "1682504883"
+      }
+    },
+    {
+      "title": "Teenage Dirtbag",
+      "artist": "Wheatus",
+      "album": "Wheatus",
+      "durationMs": 241667,
+      "ids": {
+        "appleMusic": "298160976"
+      }
+    },
+    {
+      "title": "Köra Fort Som Fan",
+      "artist": "Ronny \u0026 Ragge",
+      "album": "Let's Pök",
+      "durationMs": 253573,
+      "ids": {
+        "appleMusic": "442902299"
+      }
+    },
+    {
+      "title": "Toppen av ett berg",
+      "artist": "Petter \u0026 Madi Banja",
+      "album": "Toppen av ett berg - Single",
+      "durationMs": 185057,
+      "ids": {
+        "appleMusic": "1328451549"
+      }
+    },
+    {
+      "title": "Footloose",
+      "artist": "Kenny Loggins",
+      "album": "The Essential Kenny Loggins",
+      "durationMs": 226293,
+      "ids": {
+        "appleMusic": "201425720"
+      }
+    },
+    {
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "album": "Camping Night Hits",
+      "durationMs": 238805,
+      "ids": {
+        "appleMusic": "1698453095"
+      }
+    },
+    {
+      "title": "Steal My Sunshine",
+      "artist": "LEN",
+      "album": "Steal My Sunshine - Single",
+      "durationMs": 211467,
+      "ids": {
+        "appleMusic": "459816208"
+      }
+    },
+    {
+      "title": "Stronger (What Doesn't Kill You)",
+      "artist": "Kelly Clarkson",
+      "album": "Party Hits",
+      "durationMs": 221947,
+      "ids": {
+        "appleMusic": "578034314"
+      }
+    },
+    {
+      "title": "Wrapped Up (feat. Travie McCoy)",
+      "artist": "Olly Murs",
+      "album": "Never Been Better (Expanded Edition)",
+      "durationMs": 185629,
+      "ids": {
+        "appleMusic": "1520414686"
+      }
+    },
+    {
+      "title": "Happy (From \"Despicable Me 2\")",
+      "artist": "Pharrell Williams",
+      "album": "Filtr #Peace",
+      "durationMs": 232867,
+      "ids": {
+        "appleMusic": "1069413348"
+      }
+    }
+  ]
+}

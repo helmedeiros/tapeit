@@ -1,0 +1,401 @@
+{
+  "name": "awesome mix vol 1",
+  "tracks": [
+    {
+      "title": "Physical",
+      "artist": "Juliana Hatfield",
+      "album": "Juliana Hatfield Sings Olivia Newton-John (feat. Juliana Hatfield)",
+      "durationMs": 224496,
+      "ids": {
+        "appleMusic": "1323708321"
+      }
+    },
+    {
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "album": "The Indispensable Collection",
+      "durationMs": 258152,
+      "ids": {
+        "appleMusic": "655262183"
+      }
+    },
+    {
+      "title": "Take on Me",
+      "artist": "a-ha",
+      "album": "100 Greatest Summer Songs",
+      "durationMs": 225280,
+      "ids": {
+        "appleMusic": "1458996323"
+      }
+    },
+    {
+      "title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "album": "Golden 80'S",
+      "durationMs": 246133,
+      "ids": {
+        "appleMusic": "471655054"
+      }
+    },
+    {
+      "title": "Your Love",
+      "artist": "The Outfield",
+      "album": "Super Hits",
+      "durationMs": 221840,
+      "ids": {
+        "appleMusic": "157430756"
+      }
+    },
+    {
+      "title": "What a Feeling",
+      "artist": "DJ BoBo \u0026 Irene Cara",
+      "album": "What a Feeling - EP",
+      "durationMs": 199600,
+      "ids": {
+        "appleMusic": "1505853211"
+      }
+    },
+    {
+      "title": "Dressed for Success (Us Single Mix)",
+      "artist": "Roxette",
+      "album": "The Pop Hits",
+      "durationMs": 251680,
+      "ids": {
+        "appleMusic": "726418644"
+      }
+    },
+    {
+      "title": "Bette Davis Eyes",
+      "artist": "Missing Persons",
+      "album": "Valentine's Day",
+      "durationMs": 228522,
+      "ids": {
+        "appleMusic": "821318141"
+      }
+    },
+    {
+      "title": "Like a Prayer",
+      "artist": "Madonna",
+      "album": "Los mejores trends 2024",
+      "durationMs": 342680,
+      "ids": {
+        "appleMusic": "1782900001"
+      }
+    },
+    {
+      "title": "Sweet Dreams (Are Made of This)",
+      "artist": "Eurythmics",
+      "album": "Boxed (2005 Remastered Editions)",
+      "durationMs": 216933,
+      "ids": {
+        "appleMusic": "257483868"
+      }
+    },
+    {
+      "title": "You Give Love a Bad Name",
+      "artist": "Bon Jovi",
+      "album": "Cross Road",
+      "durationMs": 224307,
+      "ids": {
+        "appleMusic": "1423285211"
+      }
+    },
+    {
+      "title": "The Power Of Love (From “Back To The Future” Soundtrack)",
+      "artist": "Huey Lewis and the News",
+      "album": "Dzień taty",
+      "durationMs": 240600,
+      "ids": {
+        "appleMusic": "1693032364"
+      }
+    },
+    {
+      "title": "Footloose",
+      "artist": "Kenny Loggins",
+      "album": "The Essential Kenny Loggins",
+      "durationMs": 226293,
+      "ids": {
+        "appleMusic": "201425720"
+      }
+    },
+    {
+      "title": "Maniac",
+      "artist": "Michael Sembello",
+      "album": "Flashdance (Original Soundtrack from the Motion Picture)",
+      "durationMs": 244707,
+      "ids": {
+        "appleMusic": "1425259944"
+      }
+    },
+    {
+      "title": "Conga!",
+      "artist": "Miami Sound Machine",
+      "album": "Party Hits: Summer Edition",
+      "durationMs": 252933,
+      "ids": {
+        "appleMusic": "1308724978"
+      }
+    },
+    {
+      "title": "Danger Zone (From \"Top Gun\" Original Soundtrack)",
+      "artist": "Kenny Loggins",
+      "album": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+      "durationMs": 215133,
+      "ids": {
+        "appleMusic": "405600306"
+      }
+    },
+    {
+      "title": "Love Shack",
+      "artist": "The B-52's",
+      "album": "Cool Pop",
+      "durationMs": 320680,
+      "ids": {
+        "appleMusic": "1795466955"
+      }
+    },
+    {
+      "title": "Blue Monday",
+      "artist": "New Order",
+      "album": "Essential 80s",
+      "durationMs": 449173,
+      "ids": {
+        "appleMusic": "1540113743"
+      }
+    },
+    {
+      "title": "A Little Respect",
+      "artist": "Erasure",
+      "album": "The Euros - Summer Football Anthems",
+      "durationMs": 208200,
+      "ids": {
+        "appleMusic": "1748149571"
+      }
+    },
+    {
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Cyndi Lauper",
+      "album": "Twelve Deadly Cyns...And Then Some",
+      "durationMs": 234600,
+      "ids": {
+        "appleMusic": "201575078"
+      }
+    },
+    {
+      "title": "Dancing in the Dark",
+      "artist": "Bruce Springsteen",
+      "album": "Greatest Hits",
+      "durationMs": 242267,
+      "ids": {
+        "appleMusic": "1435854369"
+      }
+    },
+    {
+      "title": "Domino Dancing (2001 Remaster)",
+      "artist": "Pet Shop Boys",
+      "album": "12 Inch Dance: 80s Synthpop",
+      "durationMs": 460800,
+      "ids": {
+        "appleMusic": "1516376603"
+      }
+    },
+    {
+      "title": "Dancing with Myself (2001 Remaster)",
+      "artist": "Billy Idol \u0026 Generation X",
+      "album": "Anthology",
+      "durationMs": 227400,
+      "ids": {
+        "appleMusic": "1631046721"
+      }
+    },
+    {
+      "title": "Should I Stay or Should I Go (Remastered)",
+      "artist": "The Clash",
+      "album": "Stranger Things (Soundtrack from the Netflix Original Series)",
+      "durationMs": 186093,
+      "ids": {
+        "appleMusic": "1297035218"
+      }
+    },
+    {
+      "title": "Jump",
+      "artist": "Van Halen",
+      "album": "1984",
+      "durationMs": 241643,
+      "ids": {
+        "appleMusic": "976832495"
+      }
+    },
+    {
+      "title": "My Sharona",
+      "artist": "The Knack",
+      "album": "Get the Knack",
+      "durationMs": 295400,
+      "ids": {
+        "appleMusic": "716268684"
+      }
+    },
+    {
+      "title": "Electric Avenue",
+      "artist": "Dj 80s",
+      "album": "Summer Cruisin' - 80s Style",
+      "durationMs": 198437,
+      "ids": {
+        "appleMusic": "674899427"
+      }
+    },
+    {
+      "title": "Like a Virgin",
+      "artist": "Madonna",
+      "album": "100 Greatest Summer Songs",
+      "durationMs": 218627,
+      "ids": {
+        "appleMusic": "1458996869"
+      }
+    },
+    {
+      "title": "Tainted Love",
+      "artist": "Soft Cell",
+      "album": "Рок за деца",
+      "durationMs": 156907,
+      "ids": {
+        "appleMusic": "1703853547"
+      }
+    },
+    {
+      "title": "Another One Bites the Dust",
+      "artist": "Queen",
+      "album": "The Game",
+      "durationMs": 214653,
+      "ids": {
+        "appleMusic": "1440830736"
+      }
+    },
+    {
+      "title": "Freedom! '90",
+      "artist": "George Michael",
+      "album": "Listen Without Prejudice / MTV Unplugged (Deluxe Edition)",
+      "durationMs": 390862,
+      "ids": {
+        "appleMusic": "1276741231"
+      }
+    },
+    {
+      "title": "Faith",
+      "artist": "George Michael",
+      "album": "Faith (2010 Remastered)",
+      "durationMs": 193200,
+      "ids": {
+        "appleMusic": "395918958"
+      }
+    },
+    {
+      "title": "Don't You Want Me",
+      "artist": "The Human League",
+      "album": "Canciones De Hace Un Tiempo - 80's",
+      "durationMs": 236920,
+      "ids": {
+        "appleMusic": "1701064669"
+      }
+    },
+    {
+      "title": "Bad (2012 Remaster)",
+      "artist": "Michael Jackson",
+      "album": "Bad 25th Anniversary",
+      "durationMs": 247369,
+      "ids": {
+        "appleMusic": "551515708"
+      }
+    },
+    {
+      "title": "Africa",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 238627,
+      "ids": {
+        "appleMusic": "1450271000"
+      }
+    },
+    {
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 244800,
+      "ids": {
+        "appleMusic": "1450271005"
+      }
+    },
+    {
+      "title": "Sweet Dreams (Are Made of This)",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 214760,
+      "ids": {
+        "appleMusic": "1450271316"
+      }
+    },
+    {
+      "title": "Take on Me",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 223560,
+      "ids": {
+        "appleMusic": "1450271321"
+      }
+    },
+    {
+      "title": "Happy Together",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 145640,
+      "ids": {
+        "appleMusic": "1450271327"
+      }
+    },
+    {
+      "title": "Paranoid",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 164853,
+      "ids": {
+        "appleMusic": "1450271329"
+      }
+    },
+    {
+      "title": "Mr. Blue Sky",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 286347,
+      "ids": {
+        "appleMusic": "1450271331"
+      }
+    },
+    {
+      "title": "No Scrubs",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 190280,
+      "ids": {
+        "appleMusic": "1450271333"
+      }
+    },
+    {
+      "title": "Billie Jean",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 294120,
+      "ids": {
+        "appleMusic": "1450271427"
+      }
+    },
+    {
+      "title": "Stand by Me",
+      "artist": "Weezer",
+      "album": "Weezer (Teal Album)",
+      "durationMs": 180920,
+      "ids": {
+        "appleMusic": "1450271429"
+      }
+    }
+  ]
+}

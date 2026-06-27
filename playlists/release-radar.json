@@ -1,0 +1,329 @@
+{
+  "name": "Release Radar",
+  "tracks": [
+    {
+      "title": "Gospel Andante",
+      "artist": "Jon Batiste",
+      "album": "Black Mozart",
+      "durationMs": 235224,
+      "ids": {
+        "appleMusic": "6764654544"
+      }
+    },
+    {
+      "title": "Don't Wanna Talk",
+      "artist": "Houndmouth",
+      "album": "Lordy",
+      "durationMs": 169000,
+      "ids": {
+        "appleMusic": "1886482358"
+      }
+    },
+    {
+      "title": "Altos E Baixos (Sashet Lo-Fi Remix)",
+      "artist": "Elis Regina",
+      "album": "Altos E Baixos (Sashet Lo-Fi Remix) - Single",
+      "durationMs": 300000,
+      "ids": {
+        "appleMusic": "6778402367"
+      }
+    },
+    {
+      "title": "Pote D'Água",
+      "artist": "BaianaSystem, Lourimbau \u0026 Gilberto Gil",
+      "album": "O Mundo Dá Voltas",
+      "durationMs": 208074,
+      "ids": {
+        "appleMusic": "1788338843"
+      }
+    },
+    {
+      "title": "Repeat It",
+      "artist": "Martin Garrix \u0026 Ed Sheeran",
+      "album": "Repeat It - Single",
+      "durationMs": 191716,
+      "ids": {
+        "appleMusic": "6764277864"
+      }
+    },
+    {
+      "title": "Don't Give Up Yet",
+      "artist": "Semisonic",
+      "album": "Don't Give Up Yet - Single",
+      "durationMs": 202957,
+      "ids": {
+        "appleMusic": "6766684997"
+      }
+    },
+    {
+      "title": "Magnolia",
+      "artist": "Simply Three",
+      "album": "Magnolia - Single",
+      "durationMs": 182498,
+      "ids": {
+        "appleMusic": "6772458556"
+      }
+    },
+    {
+      "title": "Swinging Lips (feat. Gustavo Bertoni)",
+      "artist": "Othon Palace",
+      "album": "Swinging Lips (feat. Gustavo Bertoni) - Single",
+      "durationMs": 216096,
+      "ids": {
+        "appleMusic": "6779008996"
+      }
+    },
+    {
+      "title": "Pode Celebrar",
+      "artist": "Planta e Raiz \u0026 Parmi",
+      "album": "Pode Celebrar - Single",
+      "durationMs": 182659,
+      "ids": {
+        "appleMusic": "6773904486"
+      }
+    },
+    {
+      "title": "Off the Embankment",
+      "artist": "Corey King",
+      "album": "Change the Wind",
+      "durationMs": 224693,
+      "ids": {
+        "appleMusic": "1889998607"
+      }
+    },
+    {
+      "title": "Thinking What I'm Thinking",
+      "artist": "Ne-Yo",
+      "album": "Highway 79",
+      "durationMs": 282201,
+      "ids": {
+        "appleMusic": "6770614885"
+      }
+    },
+    {
+      "title": "Only You",
+      "artist": "moonboy \u0026 ARISU",
+      "album": "Only You - Single",
+      "durationMs": 127059,
+      "ids": {
+        "appleMusic": "6769727892"
+      }
+    },
+    {
+      "title": "Dollar Bill",
+      "artist": "Jack White",
+      "album": "Frozen Charlotte",
+      "durationMs": 162213,
+      "ids": {
+        "appleMusic": "6766302435"
+      }
+    },
+    {
+      "title": "Let The Good Times Roll (feat. The Offspring)",
+      "artist": "Electric Callboy",
+      "album": "TANZNEID",
+      "durationMs": 210914,
+      "ids": {
+        "appleMusic": "1890191478"
+      }
+    },
+    {
+      "title": "In The Stars (Cirkut and Andrew Watt Remix)",
+      "artist": "The Rolling Stones",
+      "album": "Official FIFA World Cup 2026™ Album",
+      "durationMs": 298503,
+      "ids": {
+        "appleMusic": "6776010607"
+      }
+    },
+    {
+      "title": "PASSENGER",
+      "artist": "Alex Warren",
+      "album": "WILDCHILD",
+      "durationMs": 159771,
+      "ids": {
+        "appleMusic": "6773456081"
+      }
+    },
+    {
+      "title": "Pra Você Guardei o Amor",
+      "artist": "Nando Reis",
+      "album": "Drês",
+      "durationMs": 343813,
+      "ids": {
+        "appleMusic": "1442359256"
+      }
+    },
+    {
+      "title": "Star Guitar",
+      "artist": "The Chemical Brothers",
+      "album": "Star Guitar",
+      "durationMs": 417133,
+      "ids": {
+        "appleMusic": "723618748"
+      }
+    },
+    {
+      "title": "See Out Loud",
+      "artist": "Interpol",
+      "album": "This Mirror Weighs a Ton",
+      "durationMs": 296747,
+      "ids": {
+        "appleMusic": "6768694734"
+      }
+    },
+    {
+      "title": "Cielo de un Solo Color",
+      "artist": "No Te Va Gustar",
+      "album": "Aunque Cueste Ver el Sol",
+      "durationMs": 244093,
+      "ids": {
+        "appleMusic": "257490338"
+      }
+    },
+    {
+      "title": "Legendary Lovers (Save Me)",
+      "artist": "Katy Perry \u0026 Chief Keef",
+      "album": "Legendary Lovers (Save Me) - Single",
+      "durationMs": 177311,
+      "ids": {
+        "appleMusic": "6774307090"
+      }
+    },
+    {
+      "title": "We Might as Well Be Strangers (ft. Wednesday)",
+      "artist": "Weezer",
+      "album": "Weezer",
+      "durationMs": 214347,
+      "ids": {
+        "appleMusic": "6772365051"
+      }
+    },
+    {
+      "title": "Better Believer",
+      "artist": "Smash Mouth",
+      "album": "Better Believer - Single",
+      "durationMs": 186944,
+      "ids": {
+        "appleMusic": "6768076467"
+      }
+    },
+    {
+      "title": "DJ Turn It Down",
+      "artist": "Boy Throb \u0026 Kesha",
+      "album": "DJ Turn It Down - Single",
+      "durationMs": 155847,
+      "ids": {
+        "appleMusic": "6774708115"
+      }
+    },
+    {
+      "title": "Drive In (feat. Aloe Blacc)",
+      "artist": "MED, Blu \u0026 Madlib",
+      "album": "Bad Neighbor",
+      "durationMs": 239787,
+      "ids": {
+        "appleMusic": "1041584951"
+      }
+    },
+    {
+      "title": "It Only Takes One Lion",
+      "artist": "Belle and Sebastian",
+      "album": "It Only Takes One Lion - Single",
+      "durationMs": 253243,
+      "ids": {
+        "appleMusic": "6767207496"
+      }
+    },
+    {
+      "title": "Sabiá (feat. Roberta Sá \u0026 Adelson Viana)",
+      "artist": "Pedro Miranda \u0026 Forró da Gávea",
+      "album": "Amor Verdadeiro",
+      "durationMs": 218395,
+      "ids": {
+        "appleMusic": "6773106427"
+      }
+    },
+    {
+      "title": "True Faith-94 (Eschreamer Mix) [2025 Remaster]",
+      "artist": "New Order",
+      "album": "True Faith-94 (Eschreamer Mix) [2025 Remaster] - Single",
+      "durationMs": 479067,
+      "ids": {
+        "appleMusic": "6779592458"
+      }
+    },
+    {
+      "title": "Sad Girls",
+      "artist": "Bebe Rexha \u0026 David Guetta",
+      "album": "DIRTY BLONDE",
+      "durationMs": 168772,
+      "ids": {
+        "appleMusic": "1891886776"
+      }
+    },
+    {
+      "title": "Playlist (feat. GDP, Camille \u0026 PACIFIC PALETTE) [Lounge Naked Track]",
+      "artist": "Eric Rodriguez \u0026 Mr. Adventure",
+      "album": "Playlist - EP",
+      "durationMs": 175560,
+      "ids": {
+        "appleMusic": "6778302590"
+      }
+    },
+    {
+      "title": "we'll have a family someday",
+      "artist": "Faouzia",
+      "album": "FILM NOIR (fin)",
+      "durationMs": 247990,
+      "ids": {
+        "appleMusic": "6771926850"
+      }
+    },
+    {
+      "title": "247-369",
+      "artist": "Sublime \u0026 Pennywise",
+      "album": "Until The Sun Explodes",
+      "durationMs": 112507,
+      "ids": {
+        "appleMusic": "6783465307"
+      }
+    },
+    {
+      "title": "Joshua Tree",
+      "artist": "Hans Zimmer",
+      "album": "Euphoria: Season 3 (HBO Original Series Soundtrack)",
+      "durationMs": 170981,
+      "ids": {
+        "appleMusic": "6771859148"
+      }
+    },
+    {
+      "title": "Bate Coração (feat. Juliana Linhares)",
+      "artist": "Pedro Miranda \u0026 Forró da Gávea",
+      "album": "Amor Verdadeiro",
+      "durationMs": 231477,
+      "ids": {
+        "appleMusic": "6773106599"
+      }
+    },
+    {
+      "title": "Bola de Neve",
+      "artist": "Antonio Caramelo \u0026 Jota.pê",
+      "album": "Aventuras de Caramelo 2",
+      "durationMs": 164164,
+      "ids": {
+        "appleMusic": "6773967545"
+      }
+    },
+    {
+      "title": "Bunga Maaf",
+      "artist": "The Macarons Project",
+      "album": "Bunga Maaf - Single",
+      "durationMs": 287986,
+      "ids": {
+        "appleMusic": "6776963724"
+      }
+    }
+  ]
+}

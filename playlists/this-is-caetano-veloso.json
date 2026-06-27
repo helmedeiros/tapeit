@@ -1,0 +1,419 @@
+{
+  "name": "This Is Caetano Veloso",
+  "tracks": [
+    {
+      "title": "Samba de Verão",
+      "artist": "Caetano Veloso",
+      "album": "Naturalmente: Caetano Veloso",
+      "durationMs": 186627,
+      "ids": {
+        "appleMusic": "1442250226"
+      }
+    },
+    {
+      "title": "Sozinho (Ao Vivo)",
+      "artist": "Caetano Veloso",
+      "album": "Caetano e Bethânia Ao Vivo",
+      "durationMs": 189720,
+      "ids": {
+        "appleMusic": "1814723442"
+      }
+    },
+    {
+      "title": "Aquarela do Brasil",
+      "artist": "João Gilberto",
+      "album": "Grandes Intérpretes da Música Brasileira",
+      "durationMs": 395760,
+      "ids": {
+        "appleMusic": "1491728257"
+      }
+    },
+    {
+      "title": "Sonho Meu",
+      "artist": "Sambabook \u0026 Maria Bethânia",
+      "album": "Sambabook Dona Ivone Lara, Vol. 1",
+      "durationMs": 193853,
+      "ids": {
+        "appleMusic": "1530528336"
+      }
+    },
+    {
+      "title": "Queixa",
+      "artist": "Caetano Veloso",
+      "album": "Caetanear",
+      "durationMs": 264333,
+      "ids": {
+        "appleMusic": "1444051480"
+      }
+    },
+    {
+      "title": "Não Enche",
+      "artist": "Caetano Veloso",
+      "album": "Livro",
+      "durationMs": 210400,
+      "ids": {
+        "appleMusic": "1583987794"
+      }
+    },
+    {
+      "title": "Sampa",
+      "artist": "Caetano Veloso",
+      "album": "Caetanear",
+      "durationMs": 196333,
+      "ids": {
+        "appleMusic": "1444051469"
+      }
+    },
+    {
+      "title": "Trem das Cores",
+      "artist": "Caetano Veloso",
+      "album": "The Best of Caetano Veloso - Sem Lenço Sem Documento",
+      "durationMs": 146000,
+      "ids": {
+        "appleMusic": "1437587461"
+      }
+    },
+    {
+      "title": "Você Não Me Ensinou a Te Esquecer",
+      "artist": "Caetano Veloso",
+      "album": "Caetano Velosó 2000's",
+      "durationMs": 278360,
+      "ids": {
+        "appleMusic": "1445158303"
+      }
+    },
+    {
+      "title": "Oração Ao Tempo (Remixed Original Album)",
+      "artist": "Caetano Veloso",
+      "album": "Cinema Transcendental (Remixed Original Album)",
+      "durationMs": 206907,
+      "ids": {
+        "appleMusic": "1443594146"
+      }
+    },
+    {
+      "title": "Nossa Resenha (feat. Anchietx)",
+      "artist": "Os Garotin, Caetano Veloso \u0026 Cupertino",
+      "album": "Nossa Resenha (feat. Anchietx) - Single",
+      "durationMs": 161278,
+      "ids": {
+        "appleMusic": "1856911538"
+      }
+    },
+    {
+      "title": "Fé (Ao Vivo)",
+      "artist": "Caetano Veloso \u0026 Maria Bethânia",
+      "album": "Fé (Ao Vivo) - Single",
+      "durationMs": 212602,
+      "ids": {
+        "appleMusic": "1783020114"
+      }
+    },
+    {
+      "title": "Que Pena (Ele Já Não Gosta Mais De Mim)",
+      "artist": "Gal Costa \u0026 Caetano Veloso",
+      "album": "A Arte De Gal Costa",
+      "durationMs": 213333,
+      "ids": {
+        "appleMusic": "1444033851"
+      }
+    },
+    {
+      "title": "Cajuína (Remixed Original Album)",
+      "artist": "Caetano Veloso",
+      "album": "Cinema Transcendental (Remixed Original Album)",
+      "durationMs": 139933,
+      "ids": {
+        "appleMusic": "1443594159"
+      }
+    },
+    {
+      "title": "Sonhos",
+      "artist": "Caetano Veloso",
+      "album": "Cores, Nomes",
+      "durationMs": 180453,
+      "ids": {
+        "appleMusic": "1442669524"
+      }
+    },
+    {
+      "title": "Alguém Me Avisou",
+      "artist": "Maria Bethânia, Caetano Veloso \u0026 Gilberto Gil",
+      "album": "Bossa Nova Sunset",
+      "durationMs": 263703,
+      "ids": {
+        "appleMusic": "1697545399"
+      }
+    },
+    {
+      "title": "Baby",
+      "artist": "Gal Costa \u0026 Roupa Nova",
+      "album": "Baby Gal",
+      "durationMs": 231960,
+      "ids": {
+        "appleMusic": "1444029678"
+      }
+    },
+    {
+      "title": "Você É Linda (Ao Vivo)",
+      "artist": "Caetano Veloso, Gilberto Gil \u0026 Ivete Sangalo",
+      "album": "Especial Ivete, Gil E Caetano (Deluxe Edition) [Ao Vivo]",
+      "durationMs": 279573,
+      "ids": {
+        "appleMusic": "1445837754"
+      }
+    },
+    {
+      "title": "Alegria, Alegria (Ao Vivo)",
+      "artist": "Caetano Veloso \u0026 Maria Bethânia",
+      "album": "Caetano e Bethânia Ao Vivo",
+      "durationMs": 195739,
+      "ids": {
+        "appleMusic": "1814723327"
+      }
+    },
+    {
+      "title": "Odara",
+      "artist": "Caetano Veloso",
+      "album": "Caetano Velosó 70's",
+      "durationMs": 437734,
+      "ids": {
+        "appleMusic": "1445160444"
+      }
+    },
+    {
+      "title": "Baiana (Live)",
+      "artist": "Emicida",
+      "album": "Amarelo Ao Vivo (Live)",
+      "durationMs": 249467,
+      "ids": {
+        "appleMusic": "1575366442"
+      }
+    },
+    {
+      "title": "Reconvexo (Ao Vivo)",
+      "artist": "Caetano Veloso",
+      "album": "Ofertório (feat. Tom Veloso) [Ao Vivo]",
+      "durationMs": 200046,
+      "ids": {
+        "appleMusic": "1384653319"
+      }
+    },
+    {
+      "title": "Meia Lua Inteira",
+      "artist": "Caetano Veloso",
+      "album": "Caetano Velosó 80's",
+      "durationMs": 224000,
+      "ids": {
+        "appleMusic": "1445157108"
+      }
+    },
+    {
+      "title": "Desde Que o Samba é Samba (Ao Vivo)",
+      "artist": "Caetano Veloso \u0026 Gilberto Gil",
+      "album": "Two Friends, One Century of Music (Live)",
+      "durationMs": 247507,
+      "ids": {
+        "appleMusic": "1068963978"
+      }
+    },
+    {
+      "title": "Ive Brussell (feat. Caetano Veloso)",
+      "artist": "Jorge Ben Jor",
+      "album": "Salve Simpatia",
+      "durationMs": 282387,
+      "ids": {
+        "appleMusic": "768280486"
+      }
+    },
+    {
+      "title": "O Leãozinho (Ao Vivo Em São Paulo / 2017)",
+      "artist": "Caetano Veloso \u0026 Moreno Veloso",
+      "album": "Claros Musicales",
+      "durationMs": 176563,
+      "ids": {
+        "appleMusic": "1603328893"
+      }
+    },
+    {
+      "title": "Qualquer Coisa",
+      "artist": "Caetano Veloso",
+      "album": "Qualquer Coisa",
+      "durationMs": 194800,
+      "ids": {
+        "appleMusic": "1443518348"
+      }
+    },
+    {
+      "title": "Lindeza",
+      "artist": "Caetano Veloso",
+      "album": "Circulado",
+      "durationMs": 247507,
+      "ids": {
+        "appleMusic": "1443723082"
+      }
+    },
+    {
+      "title": "You Don't Know Me",
+      "artist": "Caetano Veloso",
+      "album": "Transa",
+      "durationMs": 228853,
+      "ids": {
+        "appleMusic": "1445160455"
+      }
+    },
+    {
+      "title": "Lua e Estrela",
+      "artist": "Caetano Veloso",
+      "album": "Caetano Velosó 80's",
+      "durationMs": 213029,
+      "ids": {
+        "appleMusic": "1445156323"
+      }
+    },
+    {
+      "title": "Podres Poderes",
+      "artist": "Caetano Veloso",
+      "album": "Velô",
+      "durationMs": 264293,
+      "ids": {
+        "appleMusic": "1504694623"
+      }
+    },
+    {
+      "title": "Nosso Estranho Amor",
+      "artist": "Maria Gadú \u0026 Caetano Veloso",
+      "album": "Nós",
+      "durationMs": 147533,
+      "ids": {
+        "appleMusic": "676863964"
+      }
+    },
+    {
+      "title": "Gente (Ao Vivo)",
+      "artist": "Caetano Veloso",
+      "album": "Ofertório (feat. Tom Veloso) [Ao Vivo]",
+      "durationMs": 211565,
+      "ids": {
+        "appleMusic": "1384653386"
+      }
+    },
+    {
+      "title": "Saudade Dela",
+      "artist": "Maria Bethânia, Caetano Veloso \u0026 Gilberto Gil",
+      "album": "Encanteria",
+      "durationMs": 208707,
+      "ids": {
+        "appleMusic": "609908881"
+      }
+    },
+    {
+      "title": "Deusa Do Amor (Ao Vivo)",
+      "artist": "Caetano Veloso \u0026 Moreno Veloso",
+      "album": "Ofertório (feat. Tom Veloso) [Ao Vivo]",
+      "durationMs": 294299,
+      "ids": {
+        "appleMusic": "1384653707"
+      }
+    },
+    {
+      "title": "Coisa Mais Linda",
+      "artist": "Caetano Veloso",
+      "album": "Amor Em Bossa - EP",
+      "durationMs": 193600,
+      "ids": {
+        "appleMusic": "1445176633"
+      }
+    },
+    {
+      "title": "Coração Vagabundo",
+      "artist": "Gal Costa \u0026 Caetano Veloso",
+      "album": "Domingo",
+      "durationMs": 143893,
+      "ids": {
+        "appleMusic": "1444089572"
+      }
+    },
+    {
+      "title": "Milagres do Povo (Ao Vivo)",
+      "artist": "Caetano Veloso",
+      "album": "Multishow Ao Vivo - Caetano e Maria Gadú",
+      "durationMs": 172947,
+      "ids": {
+        "appleMusic": "1444111896"
+      }
+    },
+    {
+      "title": "Sina",
+      "artist": "Caetano Veloso \u0026 Djavan",
+      "album": "Cores, Nomes",
+      "durationMs": 259693,
+      "ids": {
+        "appleMusic": "1442669366"
+      }
+    },
+    {
+      "title": "Toda Menina Baiana (Ao Vivo)",
+      "artist": "Caetano Veloso, Gilberto Gil \u0026 Ivete Sangalo",
+      "album": "Especial Ivete, Gil E Caetano (Deluxe Edition) [Ao Vivo]",
+      "durationMs": 202733,
+      "ids": {
+        "appleMusic": "1445837747"
+      }
+    },
+    {
+      "title": "Deus Cuida de Mim",
+      "artist": "Caetano Veloso \u0026 Kleber Lucas",
+      "album": "Deus Cuida de Mim - Single",
+      "durationMs": 224486,
+      "ids": {
+        "appleMusic": "1655763214"
+      }
+    },
+    {
+      "title": "Sorte (feat. Caetano Veloso)",
+      "artist": "Gal Costa",
+      "album": "Bem-Bom",
+      "durationMs": 251507,
+      "ids": {
+        "appleMusic": "1841930935"
+      }
+    },
+    {
+      "title": "Lua de São Jorge (Remixed Original Album)",
+      "artist": "Caetano Veloso",
+      "album": "Cinema Transcendental (Remixed Original Album)",
+      "durationMs": 237040,
+      "ids": {
+        "appleMusic": "1443594145"
+      }
+    },
+    {
+      "title": "divino amor (feat. Caetano Veloso)",
+      "artist": "fran",
+      "album": "raiz",
+      "durationMs": 187857,
+      "ids": {
+        "appleMusic": "1492208349"
+      }
+    },
+    {
+      "title": "Os Mais Doces dos Bárbaros (Ao Vivo)",
+      "artist": "Caetano Veloso \u0026 Maria Bethânia",
+      "album": "Caetano e Bethânia Ao Vivo",
+      "durationMs": 262945,
+      "ids": {
+        "appleMusic": "1814723332"
+      }
+    },
+    {
+      "title": "A Luz de Tieta",
+      "artist": "Timbalada \u0026 Caetano Veloso",
+      "album": "Axé Bahia",
+      "durationMs": 194533,
+      "ids": {
+        "appleMusic": "1444048417"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3725 @@
+{
+  "name": "Hits Globais",
+  "tracks": [
+    {
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 209680,
+      "ids": {
+        "appleMusic": "6779097534"
+      }
+    },
+    {
+      "title": "SWIM",
+      "artist": "BTS",
+      "album": "ARIRANG",
+      "durationMs": 159008,
+      "ids": {
+        "appleMusic": "1868862384"
+      }
+    },
+    {
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "album": "petal",
+      "durationMs": 197950,
+      "ids": {
+        "appleMusic": "6763656876"
+      }
+    },
+    {
+      "title": "the cure",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 297128,
+      "ids": {
+        "appleMusic": "6779097756"
+      }
+    },
+    {
+      "title": "Choka Choka",
+      "artist": "Anitta \u0026 Shakira",
+      "album": "Choka Choka - Single",
+      "durationMs": 131563,
+      "ids": {
+        "appleMusic": "1891400226"
+      }
+    },
+    {
+      "title": "Back to Black",
+      "artist": "Amy Winehouse",
+      "album": "Back to Black",
+      "durationMs": 240440
+    },
+    {
+      "title": "Raindance",
+      "artist": "Dave \u0026 Tems",
+      "album": "Nuit R\u0026B",
+      "durationMs": 219744,
+      "ids": {
+        "appleMusic": "6781826395"
+      }
+    },
+    {
+      "title": "drop dead",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 224999,
+      "ids": {
+        "appleMusic": "6779097526"
+      }
+    },
+    {
+      "title": "Desgraça",
+      "artist": "Anitta",
+      "album": "EQUILIBRIVM",
+      "durationMs": 170581,
+      "ids": {
+        "appleMusic": "1893225298"
+      }
+    },
+    {
+      "title": "Beauty and a Beat (feat. Nicki Minaj)",
+      "artist": "Justin Bieber",
+      "album": "Believe",
+      "durationMs": 227987,
+      "ids": {
+        "appleMusic": "1440805856"
+      }
+    },
+    {
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "album": "Valentine's Day Classroom Mix",
+      "durationMs": 227333,
+      "ids": {
+        "appleMusic": "1869154871"
+      }
+    },
+    {
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "album": "I Knew It, I Knew You (From \"Toy Story 5\") - Single",
+      "durationMs": 178186,
+      "ids": {
+        "appleMusic": "6778230430"
+      }
+    },
+    {
+      "title": "honeybee",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 223013,
+      "ids": {
+        "appleMusic": "6779097536"
+      }
+    },
+    {
+      "title": "Goals",
+      "artist": "LISA, Anitta, Rema \u0026 FIFA Sound",
+      "album": "Goals (FIFA World Cup 2026™) - Single",
+      "durationMs": 180345,
+      "ids": {
+        "appleMusic": "6769251838"
+      }
+    },
+    {
+      "title": "maggots for brains",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 240101,
+      "ids": {
+        "appleMusic": "6779097538"
+      }
+    },
+    {
+      "title": "Janice STFU",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "durationMs": 237344,
+      "ids": {
+        "appleMusic": "6769568596"
+      }
+    },
+    {
+      "title": "u + me = \u003c3",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 247587,
+      "ids": {
+        "appleMusic": "1889992118"
+      }
+    },
+    {
+      "title": "Meia Noite",
+      "artist": "Anitta \u0026 Los Brasileros",
+      "album": "EQUILIBRIVM",
+      "durationMs": 146709,
+      "ids": {
+        "appleMusic": "1893225437"
+      }
+    },
+    {
+      "title": "Ran To Atlanta",
+      "artist": "Drake, Future \u0026 Molly Santana",
+      "album": "ICEMAN",
+      "durationMs": 247183,
+      "ids": {
+        "appleMusic": "6769568597"
+      }
+    },
+    {
+      "title": "RUNWAY",
+      "artist": "Lady Gaga \u0026 Doechii",
+      "album": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+      "durationMs": 171010,
+      "ids": {
+        "appleMusic": "6764429254"
+      }
+    },
+    {
+      "title": "Body to Body",
+      "artist": "BTS",
+      "album": "ARIRANG",
+      "durationMs": 189725,
+      "ids": {
+        "appleMusic": "1885720387"
+      }
+    },
+    {
+      "title": "Material Lover",
+      "artist": "SIENNA SPIRO",
+      "album": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+      "durationMs": 178016,
+      "ids": {
+        "appleMusic": "6764429256"
+      }
+    },
+    {
+      "title": "Mandinga",
+      "artist": "Anitta \u0026 Marina Sena",
+      "album": "EQUILIBRIVM",
+      "durationMs": 186368,
+      "ids": {
+        "appleMusic": "1893225300"
+      }
+    },
+    {
+      "title": "One Of The Girls",
+      "artist": "The Weeknd, JENNIE \u0026 Lily Rose Depp",
+      "album": "One of the Girls - EP",
+      "durationMs": 244685,
+      "ids": {
+        "appleMusic": "1720045966"
+      }
+    },
+    {
+      "title": "what’s wrong with me",
+      "artist": "Olivia Rodrigo \u0026 Robert Smith",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 224906,
+      "ids": {
+        "appleMusic": "6779097759"
+      }
+    },
+    {
+      "title": "Starboy (feat. Daft Punk)",
+      "artist": "The Weeknd",
+      "album": "Starboy (Deluxe)",
+      "durationMs": 230461,
+      "ids": {
+        "appleMusic": "1676999857"
+      }
+    },
+    {
+      "title": "Make Them Cry",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "durationMs": 307682,
+      "ids": {
+        "appleMusic": "6769568456"
+      }
+    },
+    {
+      "title": "my way",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 180721,
+      "ids": {
+        "appleMusic": "1889992120"
+      }
+    },
+    {
+      "title": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "album": "The Fate of Ophelia (The Chainsmokers Remix) - Single",
+      "durationMs": 226074,
+      "ids": {
+        "appleMusic": "1856301587"
+      }
+    },
+    {
+      "title": "2 Hard 4 The Radio",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "durationMs": 183500,
+      "ids": {
+        "appleMusic": "6769568610"
+      }
+    },
+    {
+      "title": "Caminhador",
+      "artist": "Anitta \u0026 Liniker",
+      "album": "EQUILIBRIVM",
+      "durationMs": 183000,
+      "ids": {
+        "appleMusic": "1893225301"
+      }
+    },
+    {
+      "title": "Shape of a Woman",
+      "artist": "Lady Gaga",
+      "album": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+      "durationMs": 209852,
+      "ids": {
+        "appleMusic": "6764429252"
+      }
+    },
+    {
+      "title": "Club To Your Arms",
+      "artist": "Rose Gray",
+      "album": "Club To Your Arms - Single",
+      "durationMs": 191596,
+      "ids": {
+        "appleMusic": "6774216508"
+      }
+    },
+    {
+      "title": "less",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 193848,
+      "ids": {
+        "appleMusic": "1889992127"
+      }
+    },
+    {
+      "title": "Game Time",
+      "artist": "Future, Tyla \u0026 FIFA Sound",
+      "album": "Official FIFA World Cup 2026™ Album (Opening Ceremony Edition)",
+      "durationMs": 206167,
+      "ids": {
+        "appleMusic": "6778672250"
+      }
+    },
+    {
+      "title": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "album": "Drop Top Pop",
+      "durationMs": 169000,
+      "ids": {
+        "appleMusic": "1887321849"
+      }
+    },
+    {
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album": "After Hours (Deluxe)",
+      "durationMs": 200046,
+      "ids": {
+        "appleMusic": "1505683988"
+      }
+    },
+    {
+      "title": "expectations",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 221958,
+      "ids": {
+        "appleMusic": "1889992129"
+      }
+    },
+    {
+      "title": "KAWASAKI (Tropkillaz Remix)",
+      "artist": "SANTOS BRAVOS \u0026 Tropkillaz",
+      "album": "KAWASAKI (Tropkillaz Remix) - Single",
+      "durationMs": 169200,
+      "ids": {
+        "appleMusic": "6763609427"
+      }
+    },
+    {
+      "title": "Stuck",
+      "artist": "Drake",
+      "album": "MAID OF HONOUR",
+      "durationMs": 177138,
+      "ids": {
+        "appleMusic": "6769557067"
+      }
+    },
+    {
+      "title": "Go",
+      "artist": "The Chemical Brothers",
+      "album": "Summer Festivals 2023",
+      "durationMs": 260697,
+      "ids": {
+        "appleMusic": "1684781331"
+      }
+    },
+    {
+      "title": "Beep (with Devault) [feat. Devault \u0026 will.i.am]",
+      "artist": "The Pussycat Dolls",
+      "album": "PCD Forever (Deluxe Edition)",
+      "durationMs": 147692,
+      "ids": {
+        "appleMusic": "1894116294"
+      }
+    },
+    {
+      "title": "Doors",
+      "artist": "Noah Kahan",
+      "album": "The Great Divide: The Last Of The Bugs",
+      "durationMs": 231087,
+      "ids": {
+        "appleMusic": "6762757727"
+      }
+    },
+    {
+      "title": "begged",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 217869,
+      "ids": {
+        "appleMusic": "1889992124"
+      }
+    },
+    {
+      "title": "Várias Quejas",
+      "artist": "Anitta",
+      "album": "EQUILIBRIVM",
+      "durationMs": 175242,
+      "ids": {
+        "appleMusic": "1893225430"
+      }
+    },
+    {
+      "title": "2.0",
+      "artist": "BTS",
+      "album": "ARIRANG",
+      "durationMs": 169929,
+      "ids": {
+        "appleMusic": "1868862380"
+      }
+    },
+    {
+      "title": "Suddenly I See",
+      "artist": "KT Tunstall",
+      "album": "Eye to the Telescope: Stargazer Edition",
+      "durationMs": 201707,
+      "ids": {
+        "appleMusic": "1848419896"
+      }
+    },
+    {
+      "title": "My Moon My Man",
+      "artist": "Feist",
+      "album": "pov: you're yearning",
+      "durationMs": 228360,
+      "ids": {
+        "appleMusic": "1867867426"
+      }
+    },
+    {
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL \u0026 SOLTO (FR)",
+      "album": "Vacation 2026",
+      "durationMs": 156393,
+      "ids": {
+        "appleMusic": "6767668256"
+      }
+    },
+    {
+      "title": "purple",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 240116,
+      "ids": {
+        "appleMusic": "1889992121"
+      }
+    },
+    {
+      "title": "Cheetah Print",
+      "artist": "Drake \u0026 Sexyy Red",
+      "album": "MAID OF HONOUR",
+      "durationMs": 202467,
+      "ids": {
+        "appleMusic": "6769557055"
+      }
+    },
+    {
+      "title": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
+      "artist": "Miley Cyrus",
+      "album": "Younger You (From the \"Hannah Montana 20th Anniversary Special\") - Single",
+      "durationMs": 167800,
+      "ids": {
+        "appleMusic": "1887385342"
+      }
+    },
+    {
+      "title": "High Fives",
+      "artist": "Drake",
+      "album": "HABIBTI",
+      "durationMs": 256783,
+      "ids": {
+        "appleMusic": "6769551473"
+      }
+    },
+    {
+      "title": "Hooligan",
+      "artist": "BTS",
+      "album": "ARIRANG",
+      "durationMs": 182047,
+      "ids": {
+        "appleMusic": "1885720388"
+      }
+    },
+    {
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga \u0026 Bruno Mars",
+      "album": "Die With A Smile - Single",
+      "durationMs": 251668,
+      "ids": {
+        "appleMusic": "1780408729"
+      }
+    },
+    {
+      "title": "Fortworth",
+      "artist": "Drake \u0026 PARTYNEXTDOOR",
+      "album": "HABIBTI",
+      "durationMs": 231879,
+      "ids": {
+        "appleMusic": "6769551482"
+      }
+    },
+    {
+      "title": "Treat You Better",
+      "artist": "Shawn Mendes",
+      "album": "Estate 2026 - I tormentoni",
+      "durationMs": 187973,
+      "ids": {
+        "appleMusic": "6779752772"
+      }
+    },
+    {
+      "title": "I Want You Back",
+      "artist": "Jackson 5",
+      "album": "Temazos Míticos Vol. 6",
+      "durationMs": 178493,
+      "ids": {
+        "appleMusic": "1711522860"
+      }
+    },
+    {
+      "title": "Bemba",
+      "artist": "Anitta \u0026 Luedji Luna",
+      "album": "EQUILIBRIVM",
+      "durationMs": 135689,
+      "ids": {
+        "appleMusic": "1893225303"
+      }
+    },
+    {
+      "title": "FYA",
+      "artist": "BTS",
+      "album": "ARIRANG",
+      "durationMs": 180544,
+      "ids": {
+        "appleMusic": "1868862379"
+      }
+    },
+    {
+      "title": "Low Rise Jeans",
+      "artist": "Demi Lovato",
+      "album": "Low Rise Jeans - Single",
+      "durationMs": 206173,
+      "ids": {
+        "appleMusic": "1891868786"
+      }
+    },
+    {
+      "title": "The Climb",
+      "artist": "Miley Cyrus",
+      "album": "The Time of Our Lives (Deluxe Edition)",
+      "durationMs": 234520,
+      "ids": {
+        "appleMusic": "1446859743"
+      }
+    },
+    {
+      "title": "Ternura",
+      "artist": "Anitta \u0026 Melly",
+      "album": "EQUILIBRIVM",
+      "durationMs": 179674,
+      "ids": {
+        "appleMusic": "1893225304"
+      }
+    },
+    {
+      "title": "Thinking of You",
+      "artist": "Katy Perry",
+      "album": "One of the Boys",
+      "durationMs": 246410,
+      "ids": {
+        "appleMusic": "1462118197"
+      }
+    },
+    {
+      "title": "Internet Girl",
+      "artist": "KATSEYE",
+      "album": "Internet Girl - Single",
+      "durationMs": 163831,
+      "ids": {
+        "appleMusic": "1862959661"
+      }
+    },
+    {
+      "title": "Pretty When You Cry",
+      "artist": "Lana Del Rey",
+      "album": "Indica: Vol. 1",
+      "durationMs": 234147,
+      "ids": {
+        "appleMusic": "1562374522"
+      }
+    },
+    {
+      "title": "ABC",
+      "artist": "Jackson 5",
+      "album": "70er",
+      "durationMs": 174733,
+      "ids": {
+        "appleMusic": "1471580131"
+      }
+    },
+    {
+      "title": "Nanã",
+      "artist": "Anitta, Rincon Sapiência \u0026 KING Saints",
+      "album": "EQUILIBRIVM",
+      "durationMs": 164704,
+      "ids": {
+        "appleMusic": "1893225434"
+      }
+    },
+    {
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "album": "Housework Hits",
+      "durationMs": 184000,
+      "ids": {
+        "appleMusic": "6779027698"
+      }
+    },
+    {
+      "title": "BIRDS OF A FEATHER",
+      "artist": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "durationMs": 210373,
+      "ids": {
+        "appleMusic": "1739659142"
+      }
+    },
+    {
+      "title": "Vai Dar Caô",
+      "artist": "Anitta, Ebony \u0026 Papatinho",
+      "album": "EQUILIBRIVM",
+      "durationMs": 144140,
+      "ids": {
+        "appleMusic": "1893225435"
+      }
+    },
+    {
+      "title": "The Best of Both Worlds",
+      "artist": "Hannah Montana",
+      "album": "Hannah Montana (Songs from and Inspired By the Hit TV Series)",
+      "durationMs": 174120,
+      "ids": {
+        "appleMusic": "1440778789"
+      }
+    },
+    {
+      "title": "Opalite",
+      "artist": "Taylor Swift",
+      "album": "Opalite - Single",
+      "durationMs": 235356,
+      "ids": {
+        "appleMusic": "1874387733"
+      }
+    },
+    {
+      "title": "Gabriela",
+      "artist": "KATSEYE",
+      "album": "Chillin' in the rain (rainy vibes)",
+      "durationMs": 197227,
+      "ids": {
+        "appleMusic": "1891132439"
+      }
+    },
+    {
+      "title": "Caso de Amor",
+      "artist": "Anitta \u0026 Os Garotin",
+      "album": "EQUILIBRIVM",
+      "durationMs": 182487,
+      "ids": {
+        "appleMusic": "1893225308"
+      }
+    },
+    {
+      "title": "Leak It",
+      "artist": "FLO",
+      "album": "Leak It - Single",
+      "durationMs": 183407,
+      "ids": {
+        "appleMusic": "1881685399"
+      }
+    },
+    {
+      "title": "Abracadabra",
+      "artist": "Lady Gaga",
+      "album": "MAYHEM",
+      "durationMs": 223398,
+      "ids": {
+        "appleMusic": "1837310871"
+      }
+    },
+    {
+      "title": "This Is the Life",
+      "artist": "Hannah Montana",
+      "album": "Hannah Montana (Songs from and Inspired By the Hit TV Series)",
+      "durationMs": 177253,
+      "ids": {
+        "appleMusic": "1440779257"
+      }
+    },
+    {
+      "title": "Tears",
+      "artist": "Sabrina Carpenter",
+      "album": "Pop Hits 2026 by Digster Pop",
+      "durationMs": 160184,
+      "ids": {
+        "appleMusic": "1884638253"
+      }
+    },
+    {
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "album": "Malaysia Hot \u0026 Viral - May 2021",
+      "durationMs": 204347,
+      "ids": {
+        "appleMusic": "1567147241"
+      }
+    },
+    {
+      "title": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
+      "artist": "Ellie Goulding",
+      "album": "Delirium (Deluxe)",
+      "durationMs": 252534,
+      "ids": {
+        "appleMusic": "1440853360"
+      }
+    },
+    {
+      "title": "Ouro",
+      "artist": "Anitta \u0026 Emanazul",
+      "album": "EQUILIBRIVM",
+      "durationMs": 302229,
+      "ids": {
+        "appleMusic": "1893225438"
+      }
+    },
+    {
+      "title": "WILDFLOWER",
+      "artist": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "durationMs": 261467,
+      "ids": {
+        "appleMusic": "1739659144"
+      }
+    },
+    {
+      "title": "Royals",
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "durationMs": 190185,
+      "ids": {
+        "appleMusic": "1440818664"
+      }
+    },
+    {
+      "title": "Legendary Lovers",
+      "artist": "Katy Perry",
+      "album": "The Ones That Got The Plays",
+      "durationMs": 224216,
+      "ids": {
+        "appleMusic": "6768871687"
+      }
+    },
+    {
+      "title": "Vanish Into You",
+      "artist": "Lady Gaga",
+      "album": "MAYHEM",
+      "durationMs": 244915,
+      "ids": {
+        "appleMusic": "1837310875"
+      }
+    },
+    {
+      "title": "So Much Love",
+      "artist": "Anitta",
+      "album": "EQUILIBRIVM",
+      "durationMs": 159550,
+      "ids": {
+        "appleMusic": "1893225432"
+      }
+    },
+    {
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "durationMs": 207322,
+      "ids": {
+        "appleMusic": "1450330686"
+      }
+    },
+    {
+      "title": "LA CANCIÓN",
+      "artist": "J Balvin \u0026 Bad Bunny",
+      "album": "Baddie GRWM",
+      "durationMs": 242573,
+      "ids": {
+        "appleMusic": "1885855340"
+      }
+    },
+    {
+      "title": "The Visitor",
+      "artist": "SIENNA SPIRO",
+      "album": "Soft Nights, Slow Hearts",
+      "durationMs": 228909,
+      "ids": {
+        "appleMusic": "6768784079"
+      }
+    },
+    {
+      "title": "Where Have You Been",
+      "artist": "Rihanna",
+      "album": "Talk That Talk (Deluxe)",
+      "durationMs": 242680,
+      "ids": {
+        "appleMusic": "1443179145"
+      }
+    },
+    {
+      "title": "Obsessed",
+      "artist": "Mariah Carey",
+      "album": "Memoirs of an Imperfect Angel (Special Edition)",
+      "durationMs": 242200,
+      "ids": {
+        "appleMusic": "1445864353"
+      }
+    },
+    {
+      "title": "You'll Always Find Your Way Back Home",
+      "artist": "Hannah Montana",
+      "album": "Hannah Montana: The Hits",
+      "durationMs": 224187,
+      "ids": {
+        "appleMusic": "1890219349"
+      }
+    },
+    {
+      "title": "Ultraviolence",
+      "artist": "Lana Del Rey",
+      "album": "Ultraviolence (Special Edition)",
+      "durationMs": 251480,
+      "ids": {
+        "appleMusic": "1440826336"
+      }
+    },
+    {
+      "title": "Garden Of Eden",
+      "artist": "Lady Gaga",
+      "album": "MAYHEM",
+      "durationMs": 239721,
+      "ids": {
+        "appleMusic": "1837310872"
+      }
+    },
+    {
+      "title": "Gnarly",
+      "artist": "KATSEYE",
+      "album": "Gái Đẹp Xập Xình",
+      "durationMs": 137316,
+      "ids": {
+        "appleMusic": "1862977838"
+      }
+    },
+    {
+      "title": "Disease",
+      "artist": "Lady Gaga",
+      "album": "MAYHEM",
+      "durationMs": 229997,
+      "ids": {
+        "appleMusic": "1837310868"
+      }
+    },
+    {
+      "title": "HOT TO GO!",
+      "artist": "Chappell Roan",
+      "album": "Drink e coisas leves",
+      "durationMs": 184841,
+      "ids": {
+        "appleMusic": "1817690703"
+      }
+    },
+    {
+      "title": "Pump It",
+      "artist": "Black Eyed Peas",
+      "album": "I Am Pop",
+      "durationMs": 213067,
+      "ids": {
+        "appleMusic": "1442505286"
+      }
+    },
+    {
+      "title": "Sunday Morning",
+      "artist": "Maroon 5",
+      "album": "Songs About Jane: 10th Anniversary Edition",
+      "durationMs": 244880,
+      "ids": {
+        "appleMusic": "1428784095"
+      }
+    },
+    {
+      "title": "Anxiety",
+      "artist": "Doechii",
+      "album": "We Are Still Young ~ A Road To Blue Sky",
+      "durationMs": 249302,
+      "ids": {
+        "appleMusic": "1837975349"
+      }
+    },
+    {
+      "title": "Kiss It Better",
+      "artist": "Rihanna",
+      "album": "ANTI (Deluxe)",
+      "durationMs": 253077,
+      "ids": {
+        "appleMusic": "1440934015"
+      }
+    },
+    {
+      "title": "Elizabeth Taylor",
+      "artist": "Taylor Swift",
+      "album": "Elizabeth Taylor",
+      "durationMs": 208292,
+      "ids": {
+        "appleMusic": "1888604735"
+      }
+    },
+    {
+      "title": "Let You Go",
+      "artist": "Demi Lovato",
+      "album": "It’s Not That Deep (Little Bit Extra Version)",
+      "durationMs": 183247,
+      "ids": {
+        "appleMusic": "1854234591"
+      }
+    },
+    {
+      "title": "Confident (feat. Chance The Rapper) [Single Version]",
+      "artist": "Justin Bieber",
+      "album": "Power Hits 2014",
+      "durationMs": 248133,
+      "ids": {
+        "appleMusic": "1442873388"
+      }
+    },
+    {
+      "title": "Hate Me",
+      "artist": "Ellie Goulding \u0026 Juice WRLD",
+      "album": "Brightest Blue (Apple Music Film Edition)",
+      "durationMs": 188067,
+      "ids": {
+        "appleMusic": "1523531734"
+      }
+    },
+    {
+      "title": "One Love",
+      "artist": "Skip Marley",
+      "album": "One Love - Single",
+      "durationMs": 167802,
+      "ids": {
+        "appleMusic": "1872790416"
+      }
+    },
+    {
+      "title": "When Did You Get Hot?",
+      "artist": "Sabrina Carpenter",
+      "album": "Man’s Best Friend",
+      "durationMs": 145399,
+      "ids": {
+        "appleMusic": "1836002475"
+      }
+    },
+    {
+      "title": "DAISIES",
+      "artist": "Justin Bieber",
+      "album": "SWAG II",
+      "durationMs": 176453,
+      "ids": {
+        "appleMusic": "1837867617"
+      }
+    },
+    {
+      "title": "Let Me Love You (feat. Justin Bieber)",
+      "artist": "DJ Snake",
+      "album": "Tunes That Stick, Vol. 6",
+      "durationMs": 205947,
+      "ids": {
+        "appleMusic": "1680987648"
+      }
+    },
+    {
+      "title": "Ribs",
+      "artist": "Lorde",
+      "album": "Coffeehouse Mix",
+      "durationMs": 258969,
+      "ids": {
+        "appleMusic": "1680763456"
+      }
+    },
+    {
+      "title": "Love To Love You Baby",
+      "artist": "Donna Summer",
+      "album": "Domówka Sylwestrowa",
+      "durationMs": 1008533,
+      "ids": {
+        "appleMusic": "6763524036"
+      }
+    },
+    {
+      "title": "bandaids",
+      "artist": "Katy Perry",
+      "album": "The Ones That Got The Plays",
+      "durationMs": 188802,
+      "ids": {
+        "appleMusic": "6768871688"
+      }
+    },
+    {
+      "title": "Sympathy Magic",
+      "artist": "Florence + the Machine",
+      "album": "Top of Rock",
+      "durationMs": 268886,
+      "ids": {
+        "appleMusic": "6778980132"
+      }
+    },
+    {
+      "title": "NOT OK",
+      "artist": "5 Seconds of Summer",
+      "album": "EVERYONE'S A STAR!",
+      "durationMs": 206040,
+      "ids": {
+        "appleMusic": "1840514115"
+      }
+    },
+    {
+      "title": "Father Figure",
+      "artist": "Taylor Swift",
+      "album": "The Life of a Showgirl + Acoustic Collection",
+      "durationMs": 212777,
+      "ids": {
+        "appleMusic": "1850496249"
+      }
+    },
+    {
+      "title": "White Feather Hawk Tail Deer Hunter",
+      "artist": "Lana Del Rey",
+      "album": "White Feather Hawk Tail Deer Hunter - Single",
+      "durationMs": 234049,
+      "ids": {
+        "appleMusic": "1877234387"
+      }
+    },
+    {
+      "title": "Sorry",
+      "artist": "Justin Bieber",
+      "album": "Best Hits 2015",
+      "durationMs": 200787,
+      "ids": {
+        "appleMusic": "1569486514"
+      }
+    },
+    {
+      "title": "What's Up?",
+      "artist": "4 Non Blondes",
+      "album": "Summer Party",
+      "durationMs": 295627,
+      "ids": {
+        "appleMusic": "1442493543"
+      }
+    },
+    {
+      "title": "One Dance (feat. Wizkid \u0026 Kyla)",
+      "artist": "Drake",
+      "album": "Views",
+      "durationMs": 173985,
+      "ids": {
+        "appleMusic": "1440841384"
+      }
+    },
+    {
+      "title": "The Dead Dance",
+      "artist": "Lady Gaga",
+      "album": "MAYHEM",
+      "durationMs": 228519,
+      "ids": {
+        "appleMusic": "1837310878"
+      }
+    },
+    {
+      "title": "Eldest Daughter",
+      "artist": "Taylor Swift",
+      "album": "The Life of a Showgirl",
+      "durationMs": 246356,
+      "ids": {
+        "appleMusic": "1833328848"
+      }
+    },
+    {
+      "title": "Manchild",
+      "artist": "Sabrina Carpenter",
+      "album": "Drop Top Pop",
+      "durationMs": 213646,
+      "ids": {
+        "appleMusic": "1887322110"
+      }
+    },
+    {
+      "title": "Come As You Are",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 218920,
+      "ids": {
+        "appleMusic": "1440823703"
+      }
+    },
+    {
+      "title": "Ruin The Friendship",
+      "artist": "Taylor Swift",
+      "album": "The Life of a Showgirl (Track by Track Version)",
+      "durationMs": 220565,
+      "ids": {
+        "appleMusic": "1844457066"
+      }
+    },
+    {
+      "title": "Every Breath You Take (Remastered 2003)",
+      "artist": "The Police",
+      "album": "Good Times",
+      "durationMs": 253920,
+      "ids": {
+        "appleMusic": "1554153519"
+      }
+    },
+    {
+      "title": "Kiss",
+      "artist": "Demi Lovato",
+      "album": "It’s Not That Deep",
+      "durationMs": 139391,
+      "ids": {
+        "appleMusic": "1848024207"
+      }
+    },
+    {
+      "title": "Only Girl (In The World)",
+      "artist": "Rihanna",
+      "album": "Loud (Deluxe)",
+      "durationMs": 235493,
+      "ids": {
+        "appleMusic": "1440896009"
+      }
+    },
+    {
+      "title": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "album": "Discover More Classic Rock",
+      "durationMs": 355267,
+      "ids": {
+        "appleMusic": "1527145108"
+      }
+    },
+    {
+      "title": "All The Things She Said",
+      "artist": "t.A.T.u.",
+      "album": "Éxitos \u0026 Hits de los 2000s",
+      "durationMs": 214440,
+      "ids": {
+        "appleMusic": "1711865848"
+      }
+    },
+    {
+      "title": "Favourite Daughter",
+      "artist": "Lorde",
+      "album": "Virgin",
+      "durationMs": 208696,
+      "ids": {
+        "appleMusic": "1810905311"
+      }
+    },
+    {
+      "title": "Galaxy",
+      "artist": "Kungs, Theophilus London \u0026 Mind Enterprises",
+      "album": "Jogging 2026",
+      "durationMs": 170640,
+      "ids": {
+        "appleMusic": "6771446324"
+      }
+    },
+    {
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Tears for Fears",
+      "album": "Songs from the Big Chair (Deluxe)",
+      "durationMs": 251480,
+      "ids": {
+        "appleMusic": "1443226353"
+      }
+    },
+    {
+      "title": "Actually Romantic",
+      "artist": "Taylor Swift",
+      "album": "The Life of a Showgirl + Acoustic Collection",
+      "durationMs": 163700,
+      "ids": {
+        "appleMusic": "1850496255"
+      }
+    },
+    {
+      "title": "Cinnamon Girl",
+      "artist": "Lana Del Rey",
+      "album": "Monsoon Love Vol 15",
+      "durationMs": 300683,
+      "ids": {
+        "appleMusic": "1693643589"
+      }
+    },
+    {
+      "title": "Livin' On A Prayer",
+      "artist": "Bon Jovi",
+      "album": "USA Roadtrip",
+      "durationMs": 250627,
+      "ids": {
+        "appleMusic": "1890525769"
+      }
+    },
+    {
+      "title": "Golden",
+      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI \u0026 KPop Demon Hunters Cast",
+      "album": "KPop Demon Hunters (Soundtrack from the Netflix Film / Deluxe Version)",
+      "durationMs": 194608,
+      "ids": {
+        "appleMusic": "1837843445"
+      }
+    },
+    {
+      "title": "I Gotta Feeling",
+      "artist": "Black Eyed Peas",
+      "album": "Kids Birthday Party",
+      "durationMs": 289493,
+      "ids": {
+        "appleMusic": "1691418490"
+      }
+    },
+    {
+      "title": "The Subway",
+      "artist": "Chappell Roan",
+      "album": "Frühlingsmusik",
+      "durationMs": 252276,
+      "ids": {
+        "appleMusic": "1884982253"
+      }
+    },
+    {
+      "title": "Post Sex Clarity",
+      "artist": "Lola Young",
+      "album": "I’m Only F**king Myself",
+      "durationMs": 261960,
+      "ids": {
+        "appleMusic": "1819085992"
+      }
+    },
+    {
+      "title": "Thunder",
+      "artist": "Imagine Dragons",
+      "album": "Happy Morning",
+      "durationMs": 187147,
+      "ids": {
+        "appleMusic": "1564003953"
+      }
+    },
+    {
+      "title": "Wood",
+      "artist": "Taylor Swift",
+      "album": "The Life of a Showgirl + Acoustic Collection",
+      "durationMs": 150518,
+      "ids": {
+        "appleMusic": "1850496257"
+      }
+    },
+    {
+      "title": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 301920,
+      "ids": {
+        "appleMusic": "1440823697"
+      }
+    },
+    {
+      "title": "We Found Love (feat. Calvin Harris)",
+      "artist": "Rihanna",
+      "album": "Talk That Talk",
+      "durationMs": 215227,
+      "ids": {
+        "appleMusic": "1443102668"
+      }
+    },
+    {
+      "title": "Losing My Religion",
+      "artist": "R.E.M.",
+      "album": "Non-Stop Pop Vol 6",
+      "durationMs": 268427,
+      "ids": {
+        "appleMusic": "1672641503"
+      }
+    },
+    {
+      "title": "Have You Ever Seen The Rain",
+      "artist": "Creedence Clearwater Revival",
+      "album": "Camping Night Hits",
+      "durationMs": 160133,
+      "ids": {
+        "appleMusic": "1698453260"
+      }
+    },
+    {
+      "title": "CANCELLED!",
+      "artist": "Taylor Swift",
+      "album": "The Life of a Showgirl + Acoustic Collection",
+      "durationMs": 211498,
+      "ids": {
+        "appleMusic": "1850496258"
+      }
+    },
+    {
+      "title": "Rehab",
+      "artist": "Rihanna",
+      "album": "Good Girl Gone Bad: Reloaded",
+      "durationMs": 294720,
+      "ids": {
+        "appleMusic": "1441154568"
+      }
+    },
+    {
+      "title": "Bring Me To Life",
+      "artist": "Evanescence",
+      "album": "Pra Sempre Rock - Show no Rio",
+      "durationMs": 235893,
+      "ids": {
+        "appleMusic": "1765395295"
+      }
+    },
+    {
+      "title": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+      "artist": "Taylor Swift",
+      "album": "The Life of a Showgirl + Acoustic Collection",
+      "durationMs": 241767,
+      "ids": {
+        "appleMusic": "1850496260"
+      }
+    },
+    {
+      "title": "LOVE SONG",
+      "artist": "Justin Bieber",
+      "album": "SWAG II",
+      "durationMs": 172307,
+      "ids": {
+        "appleMusic": "1837867205"
+      }
+    },
+    {
+      "title": "You da One",
+      "artist": "Rihanna",
+      "album": "Talk That Talk",
+      "durationMs": 200013,
+      "ids": {
+        "appleMusic": "1443102651"
+      }
+    },
+    {
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "album": "Not Like Us - Single",
+      "durationMs": 274192,
+      "ids": {
+        "appleMusic": "1744776167"
+      }
+    },
+    {
+      "title": "Here All Night",
+      "artist": "Demi Lovato",
+      "album": "Here All Night (Remixes) - Single",
+      "durationMs": 176832,
+      "ids": {
+        "appleMusic": "1843146910"
+      }
+    },
+    {
+      "title": "ocean eyes",
+      "artist": "Billie Eilish",
+      "album": "dont smile at me",
+      "durationMs": 200379,
+      "ids": {
+        "appleMusic": "1440899467"
+      }
+    },
+    {
+      "title": "Fast",
+      "artist": "Demi Lovato",
+      "album": "Invierno Mix",
+      "durationMs": 181587,
+      "ids": {
+        "appleMusic": "6775655424"
+      }
+    },
+    {
+      "title": "Breakin' Dishes",
+      "artist": "Rihanna",
+      "album": "Good Girl Gone Bad: Reloaded",
+      "durationMs": 200573,
+      "ids": {
+        "appleMusic": "1441154440"
+      }
+    },
+    {
+      "title": "Jennifer",
+      "artist": "Trinidad Cardona",
+      "album": "ultimate thirst trap songs",
+      "durationMs": 213540,
+      "ids": {
+        "appleMusic": "1888299688"
+      }
+    },
+    {
+      "title": "Love Is Like",
+      "artist": "Maroon 5 \u0026 Lil Wayne",
+      "album": "Love Is Like (Deluxe)",
+      "durationMs": 174912,
+      "ids": {
+        "appleMusic": "1833677174"
+      }
+    },
+    {
+      "title": "Messy",
+      "artist": "Lola Young",
+      "album": "Tanning in the Sun",
+      "durationMs": 284069,
+      "ids": {
+        "appleMusic": "1814405382"
+      }
+    },
+    {
+      "title": "GO BABY",
+      "artist": "Justin Bieber",
+      "album": "SWAG II",
+      "durationMs": 194760,
+      "ids": {
+        "appleMusic": "1839605917"
+      }
+    },
+    {
+      "title": "Counting Stars",
+      "artist": "OneRepublic",
+      "album": "Native",
+      "durationMs": 257286,
+      "ids": {
+        "appleMusic": "1440862803"
+      }
+    },
+    {
+      "title": "Hammer",
+      "artist": "Lorde",
+      "album": "Virgin",
+      "durationMs": 193443,
+      "ids": {
+        "appleMusic": "1810905304"
+      }
+    },
+    {
+      "title": "One Thing",
+      "artist": "Lola Young",
+      "album": "Brunch Vibes 2026",
+      "durationMs": 208829,
+      "ids": {
+        "appleMusic": "1860401779"
+      }
+    },
+    {
+      "title": "Deeper Well",
+      "artist": "Kacey Musgraves",
+      "album": "歐美慢歌精選",
+      "durationMs": 232133,
+      "ids": {
+        "appleMusic": "1749639691"
+      }
+    },
+    {
+      "title": "ALL I CAN TAKE",
+      "artist": "Justin Bieber",
+      "album": "SWAG II",
+      "durationMs": 247547,
+      "ids": {
+        "appleMusic": "1837867616"
+      }
+    },
+    {
+      "title": "Colors",
+      "artist": "Halsey",
+      "album": "BADLANDS",
+      "durationMs": 249500,
+      "ids": {
+        "appleMusic": "1440872980"
+      }
+    },
+    {
+      "title": "BUTTERFLIES",
+      "artist": "Justin Bieber",
+      "album": "SWAG II",
+      "durationMs": 193525,
+      "ids": {
+        "appleMusic": "1837867697"
+      }
+    },
+    {
+      "title": "d£aler",
+      "artist": "Lola Young",
+      "album": "Ostern 2026",
+      "durationMs": 160667,
+      "ids": {
+        "appleMusic": "1879897999"
+      }
+    },
+    {
+      "title": "YUKON",
+      "artist": "Justin Bieber",
+      "album": "SWAG II",
+      "durationMs": 163867,
+      "ids": {
+        "appleMusic": "1839605914"
+      }
+    },
+    {
+      "title": "Gabriela (Young Miko Remix)",
+      "artist": "KATSEYE \u0026 Young Miko",
+      "album": "Gabriela (Young Miko Remix) - Single",
+      "durationMs": 198810,
+      "ids": {
+        "appleMusic": "1831114666"
+      }
+    },
+    {
+      "title": "Not Like That Anymore",
+      "artist": "Lola Young",
+      "album": "Housework Hits",
+      "durationMs": 202412,
+      "ids": {
+        "appleMusic": "6779028174"
+      }
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "album": "MUSE",
+      "durationMs": 170888,
+      "ids": {
+        "appleMusic": "1751773093"
+      }
+    },
+    {
+      "title": "Poker Face",
+      "artist": "Lady Gaga",
+      "album": "Torcida 2018 - Nacional E Internacional",
+      "durationMs": 237200,
+      "ids": {
+        "appleMusic": "1390803101"
+      }
+    },
+    {
+      "title": "What Was That",
+      "artist": "Lorde",
+      "album": "Discover 2025: Popular Global Picks",
+      "durationMs": 209286,
+      "ids": {
+        "appleMusic": "1860981044"
+      }
+    },
+    {
+      "title": "SWAG",
+      "artist": "Justin Bieber, Cash Cobain \u0026 Eddie Benjamin",
+      "album": "SWAG",
+      "durationMs": 150253,
+      "ids": {
+        "appleMusic": "1825998938"
+      }
+    },
+    {
+      "title": "Man Of The Year",
+      "artist": "Lorde",
+      "album": "Discover 2025: Popular Global Picks",
+      "durationMs": 180433,
+      "ids": {
+        "appleMusic": "1860981038"
+      }
+    },
+    {
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "album": "Happy Pride: Love Is Love",
+      "durationMs": 294573,
+      "ids": {
+        "appleMusic": "1692706897"
+      }
+    },
+    {
+      "title": "Sunset Blvd",
+      "artist": "Selena Gomez \u0026 benny blanco",
+      "album": "I Said I Love You First... And You Said It Back",
+      "durationMs": 167584,
+      "ids": {
+        "appleMusic": "1811201077"
+      }
+    },
+    {
+      "title": "Never Say Never (feat. Jaden)",
+      "artist": "Justin Bieber",
+      "album": "Never Say Never (The Remixes) - EP",
+      "durationMs": 227853,
+      "ids": {
+        "appleMusic": "1442924371"
+      }
+    },
+    {
+      "title": "DENIAL IS A RIVER",
+      "artist": "Doechii",
+      "album": "ALT RAP US 2026",
+      "durationMs": 159586,
+      "ids": {
+        "appleMusic": "6762680322"
+      }
+    },
+    {
+      "title": "Somebody That I Used To Know (feat. Kimbra)",
+      "artist": "Gotye",
+      "album": "Family Pool Party",
+      "durationMs": 245755,
+      "ids": {
+        "appleMusic": "1579794140"
+      }
+    },
+    {
+      "title": "Younger And Hotter Than Me",
+      "artist": "Selena Gomez \u0026 benny blanco",
+      "album": "I Said I Love You First... And You Said It Back",
+      "durationMs": 189648,
+      "ids": {
+        "appleMusic": "1811201062"
+      }
+    },
+    {
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "album": "Chart Hits Deutschland 2025",
+      "durationMs": 218424,
+      "ids": {
+        "appleMusic": "1807630005"
+      }
+    },
+    {
+      "title": "Superpowers",
+      "artist": "Daniel Caesar",
+      "album": "NEVER ENOUGH (Bonus Version)",
+      "durationMs": 174513,
+      "ids": {
+        "appleMusic": "1681332243"
+      }
+    },
+    {
+      "title": "Sailor Song",
+      "artist": "Gigi Perez",
+      "album": "Herbstgefühle 2025",
+      "durationMs": 211979,
+      "ids": {
+        "appleMusic": "1834294168"
+      }
+    },
+    {
+      "title": "Rock That Body",
+      "artist": "Black Eyed Peas",
+      "album": "Serving Diva",
+      "durationMs": 268840,
+      "ids": {
+        "appleMusic": "6774747787"
+      }
+    },
+    {
+      "title": "Nosebleeds",
+      "artist": "Doechii",
+      "album": "Female Rappers",
+      "durationMs": 135063,
+      "ids": {
+        "appleMusic": "6773875628"
+      }
+    },
+    {
+      "title": "All The Stars",
+      "artist": "Kendrick Lamar \u0026 SZA",
+      "album": "Tanning in the Sun",
+      "durationMs": 232187,
+      "ids": {
+        "appleMusic": "1814405583"
+      }
+    },
+    {
+      "title": "Cry For Me",
+      "artist": "The Weeknd",
+      "album": "Hurry Up Tomorrow (Video Album)",
+      "durationMs": 224137,
+      "ids": {
+        "appleMusic": "1795692222"
+      }
+    },
+    {
+      "title": "HUMBLE.",
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "durationMs": 177000,
+      "ids": {
+        "appleMusic": "1440881684"
+      }
+    },
+    {
+      "title": "luther",
+      "artist": "Kendrick Lamar",
+      "album": "GNX",
+      "durationMs": 177599,
+      "ids": {
+        "appleMusic": "1781270323"
+      }
+    },
+    {
+      "title": "tv off (feat. Lefty Gunplay)",
+      "artist": "Kendrick Lamar",
+      "album": "GNX",
+      "durationMs": 220690,
+      "ids": {
+        "appleMusic": "1781270540"
+      }
+    },
+    {
+      "title": "Big Girls Don't Cry (Personal)",
+      "artist": "Fergie",
+      "album": "The Dutchess",
+      "durationMs": 268120,
+      "ids": {
+        "appleMusic": "1444049401"
+      }
+    },
+    {
+      "title": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "album": "Espresso EP",
+      "durationMs": 175459,
+      "ids": {
+        "appleMusic": "1746801003"
+      }
+    },
+    {
+      "title": "NOS DESCONOXIMOS",
+      "artist": "Feid",
+      "album": "Solo Éxitos Latinos",
+      "durationMs": 168099,
+      "ids": {
+        "appleMusic": "6779001021"
+      }
+    },
+    {
+      "title": "São Paulo",
+      "artist": "The Weeknd \u0026 Anitta",
+      "album": "Hurry Up Tomorrow",
+      "durationMs": 301623,
+      "ids": {
+        "appleMusic": "1793654352"
+      }
+    },
+    {
+      "title": "Taste",
+      "artist": "Sabrina Carpenter",
+      "album": "drink, date e pizza",
+      "durationMs": 157280,
+      "ids": {
+        "appleMusic": "1827541985"
+      }
+    },
+    {
+      "title": "Dancing In The Flames",
+      "artist": "The Weeknd",
+      "album": "Dancing In The Flames - Single",
+      "durationMs": 220037,
+      "ids": {
+        "appleMusic": "1767511513"
+      }
+    },
+    {
+      "title": "Please Please Please",
+      "artist": "Sabrina Carpenter",
+      "album": "Short n' Sweet",
+      "durationMs": 186365,
+      "ids": {
+        "appleMusic": "1750307080"
+      }
+    },
+    {
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 209680,
+      "ids": {
+        "appleMusic": "6779097534"
+      }
+    },
+    {
+      "title": "SWIM",
+      "artist": "BTS",
+      "album": "ARIRANG",
+      "durationMs": 159008,
+      "ids": {
+        "appleMusic": "1868862384"
+      }
+    },
+    {
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "album": "petal",
+      "durationMs": 197950,
+      "ids": {
+        "appleMusic": "6763656876"
+      }
+    },
+    {
+      "title": "the cure",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 297128,
+      "ids": {
+        "appleMusic": "6779097756"
+      }
+    },
+    {
+      "title": "Choka Choka",
+      "artist": "Anitta \u0026 Shakira",
+      "album": "Choka Choka - Single",
+      "durationMs": 131563,
+      "ids": {
+        "appleMusic": "1891400226"
+      }
+    },
+    {
+      "title": "Back to Black",
+      "artist": "Amy Winehouse",
+      "album": "Back to Black",
+      "durationMs": 240440
+    },
+    {
+      "title": "Raindance",
+      "artist": "Dave \u0026 Tems",
+      "album": "Nuit R\u0026B",
+      "durationMs": 219744,
+      "ids": {
+        "appleMusic": "6781826395"
+      }
+    },
+    {
+      "title": "drop dead",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 224999,
+      "ids": {
+        "appleMusic": "6779097526"
+      }
+    },
+    {
+      "title": "Desgraça",
+      "artist": "Anitta",
+      "album": "EQUILIBRIVM",
+      "durationMs": 170581,
+      "ids": {
+        "appleMusic": "1893225298"
+      }
+    },
+    {
+      "title": "Beauty and a Beat (feat. Nicki Minaj)",
+      "artist": "Justin Bieber",
+      "album": "Believe",
+      "durationMs": 227987,
+      "ids": {
+        "appleMusic": "1440805856"
+      }
+    },
+    {
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "album": "Valentine's Day Classroom Mix",
+      "durationMs": 227333,
+      "ids": {
+        "appleMusic": "1869154871"
+      }
+    },
+    {
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "album": "I Knew It, I Knew You (From \"Toy Story 5\") - Single",
+      "durationMs": 178186,
+      "ids": {
+        "appleMusic": "6778230430"
+      }
+    },
+    {
+      "title": "honeybee",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 223013,
+      "ids": {
+        "appleMusic": "6779097536"
+      }
+    },
+    {
+      "title": "Goals",
+      "artist": "LISA, Anitta, Rema \u0026 FIFA Sound",
+      "album": "Goals (FIFA World Cup 2026™) - Single",
+      "durationMs": 180345,
+      "ids": {
+        "appleMusic": "6769251838"
+      }
+    },
+    {
+      "title": "maggots for brains",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 240101,
+      "ids": {
+        "appleMusic": "6779097538"
+      }
+    },
+    {
+      "title": "Janice STFU",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "durationMs": 237344,
+      "ids": {
+        "appleMusic": "6769568596"
+      }
+    },
+    {
+      "title": "u + me = \u003c3",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 247587,
+      "ids": {
+        "appleMusic": "1889992118"
+      }
+    },
+    {
+      "title": "Meia Noite",
+      "artist": "Anitta \u0026 Los Brasileros",
+      "album": "EQUILIBRIVM",
+      "durationMs": 146709,
+      "ids": {
+        "appleMusic": "1893225437"
+      }
+    },
+    {
+      "title": "Ran To Atlanta",
+      "artist": "Drake, Future \u0026 Molly Santana",
+      "album": "ICEMAN",
+      "durationMs": 247183,
+      "ids": {
+        "appleMusic": "6769568597"
+      }
+    },
+    {
+      "title": "RUNWAY",
+      "artist": "Lady Gaga \u0026 Doechii",
+      "album": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+      "durationMs": 171010,
+      "ids": {
+        "appleMusic": "6764429254"
+      }
+    },
+    {
+      "title": "Body to Body",
+      "artist": "BTS",
+      "album": "ARIRANG",
+      "durationMs": 189725,
+      "ids": {
+        "appleMusic": "1885720387"
+      }
+    },
+    {
+      "title": "Material Lover",
+      "artist": "SIENNA SPIRO",
+      "album": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+      "durationMs": 178016,
+      "ids": {
+        "appleMusic": "6764429256"
+      }
+    },
+    {
+      "title": "Mandinga",
+      "artist": "Anitta \u0026 Marina Sena",
+      "album": "EQUILIBRIVM",
+      "durationMs": 186368,
+      "ids": {
+        "appleMusic": "1893225300"
+      }
+    },
+    {
+      "title": "One Of The Girls",
+      "artist": "The Weeknd, JENNIE \u0026 Lily Rose Depp",
+      "album": "One of the Girls - EP",
+      "durationMs": 244685,
+      "ids": {
+        "appleMusic": "1720045966"
+      }
+    },
+    {
+      "title": "what’s wrong with me",
+      "artist": "Olivia Rodrigo \u0026 Robert Smith",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 224906,
+      "ids": {
+        "appleMusic": "6779097759"
+      }
+    },
+    {
+      "title": "Starboy (feat. Daft Punk)",
+      "artist": "The Weeknd",
+      "album": "Starboy (Deluxe)",
+      "durationMs": 230461,
+      "ids": {
+        "appleMusic": "1676999857"
+      }
+    },
+    {
+      "title": "Make Them Cry",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "durationMs": 307682,
+      "ids": {
+        "appleMusic": "6769568456"
+      }
+    },
+    {
+      "title": "my way",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 180721,
+      "ids": {
+        "appleMusic": "1889992120"
+      }
+    },
+    {
+      "title": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "album": "The Fate of Ophelia (The Chainsmokers Remix) - Single",
+      "durationMs": 226074,
+      "ids": {
+        "appleMusic": "1856301587"
+      }
+    },
+    {
+      "title": "2 Hard 4 The Radio",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "durationMs": 183500,
+      "ids": {
+        "appleMusic": "6769568610"
+      }
+    },
+    {
+      "title": "Caminhador",
+      "artist": "Anitta \u0026 Liniker",
+      "album": "EQUILIBRIVM",
+      "durationMs": 183000,
+      "ids": {
+        "appleMusic": "1893225301"
+      }
+    },
+    {
+      "title": "Shape of a Woman",
+      "artist": "Lady Gaga",
+      "album": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+      "durationMs": 209852,
+      "ids": {
+        "appleMusic": "6764429252"
+      }
+    },
+    {
+      "title": "Club To Your Arms",
+      "artist": "Rose Gray",
+      "album": "Club To Your Arms - Single",
+      "durationMs": 191596,
+      "ids": {
+        "appleMusic": "6774216508"
+      }
+    },
+    {
+      "title": "less",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 193848,
+      "ids": {
+        "appleMusic": "1889992127"
+      }
+    },
+    {
+      "title": "Game Time",
+      "artist": "Future, Tyla \u0026 FIFA Sound",
+      "album": "Official FIFA World Cup 2026™ Album (Opening Ceremony Edition)",
+      "durationMs": 206167,
+      "ids": {
+        "appleMusic": "6778672250"
+      }
+    },
+    {
+      "title": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "album": "Drop Top Pop",
+      "durationMs": 169000,
+      "ids": {
+        "appleMusic": "1887321849"
+      }
+    },
+    {
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album": "After Hours (Deluxe)",
+      "durationMs": 200046,
+      "ids": {
+        "appleMusic": "1505683988"
+      }
+    },
+    {
+      "title": "expectations",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 221958,
+      "ids": {
+        "appleMusic": "1889992129"
+      }
+    },
+    {
+      "title": "KAWASAKI (Tropkillaz Remix)",
+      "artist": "SANTOS BRAVOS \u0026 Tropkillaz",
+      "album": "KAWASAKI (Tropkillaz Remix) - Single",
+      "durationMs": 169200,
+      "ids": {
+        "appleMusic": "6763609427"
+      }
+    },
+    {
+      "title": "Stuck",
+      "artist": "Drake",
+      "album": "MAID OF HONOUR",
+      "durationMs": 177138,
+      "ids": {
+        "appleMusic": "6769557067"
+      }
+    },
+    {
+      "title": "Go",
+      "artist": "The Chemical Brothers",
+      "album": "Summer Festivals 2023",
+      "durationMs": 260697,
+      "ids": {
+        "appleMusic": "1684781331"
+      }
+    },
+    {
+      "title": "Beep (with Devault) [feat. Devault \u0026 will.i.am]",
+      "artist": "The Pussycat Dolls",
+      "album": "PCD Forever (Deluxe Edition)",
+      "durationMs": 147692,
+      "ids": {
+        "appleMusic": "1894116294"
+      }
+    },
+    {
+      "title": "Doors",
+      "artist": "Noah Kahan",
+      "album": "The Great Divide: The Last Of The Bugs",
+      "durationMs": 231087,
+      "ids": {
+        "appleMusic": "6762757727"
+      }
+    },
+    {
+      "title": "begged",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 217869,
+      "ids": {
+        "appleMusic": "1889992124"
+      }
+    },
+    {
+      "title": "Várias Quejas",
+      "artist": "Anitta",
+      "album": "EQUILIBRIVM",
+      "durationMs": 175242,
+      "ids": {
+        "appleMusic": "1893225430"
+      }
+    },
+    {
+      "title": "2.0",
+      "artist": "BTS",
+      "album": "ARIRANG",
+      "durationMs": 169929,
+      "ids": {
+        "appleMusic": "1868862380"
+      }
+    },
+    {
+      "title": "Suddenly I See",
+      "artist": "KT Tunstall",
+      "album": "Eye to the Telescope: Stargazer Edition",
+      "durationMs": 201707,
+      "ids": {
+        "appleMusic": "1848419896"
+      }
+    },
+    {
+      "title": "My Moon My Man",
+      "artist": "Feist",
+      "album": "pov: you're yearning",
+      "durationMs": 228360,
+      "ids": {
+        "appleMusic": "1867867426"
+      }
+    },
+    {
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL \u0026 SOLTO (FR)",
+      "album": "Vacation 2026",
+      "durationMs": 156393,
+      "ids": {
+        "appleMusic": "6767668256"
+      }
+    },
+    {
+      "title": "purple",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "durationMs": 240116,
+      "ids": {
+        "appleMusic": "1889992121"
+      }
+    },
+    {
+      "title": "Cheetah Print",
+      "artist": "Drake \u0026 Sexyy Red",
+      "album": "MAID OF HONOUR",
+      "durationMs": 202467,
+      "ids": {
+        "appleMusic": "6769557055"
+      }
+    },
+    {
+      "title": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
+      "artist": "Miley Cyrus",
+      "album": "Younger You (From the \"Hannah Montana 20th Anniversary Special\") - Single",
+      "durationMs": 167800,
+      "ids": {
+        "appleMusic": "1887385342"
+      }
+    },
+    {
+      "title": "High Fives",
+      "artist": "Drake",
+      "album": "HABIBTI",
+      "durationMs": 256783,
+      "ids": {
+        "appleMusic": "6769551473"
+      }
+    },
+    {
+      "title": "Hooligan",
+      "artist": "BTS",
+      "album": "ARIRANG",
+      "durationMs": 182047,
+      "ids": {
+        "appleMusic": "1885720388"
+      }
+    },
+    {
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga \u0026 Bruno Mars",
+      "album": "Die With A Smile - Single",
+      "durationMs": 251668,
+      "ids": {
+        "appleMusic": "1780408729"
+      }
+    },
+    {
+      "title": "Fortworth",
+      "artist": "Drake \u0026 PARTYNEXTDOOR",
+      "album": "HABIBTI",
+      "durationMs": 231879,
+      "ids": {
+        "appleMusic": "6769551482"
+      }
+    },
+    {
+      "title": "Treat You Better",
+      "artist": "Shawn Mendes",
+      "album": "Estate 2026 - I tormentoni",
+      "durationMs": 187973,
+      "ids": {
+        "appleMusic": "6779752772"
+      }
+    },
+    {
+      "title": "I Want You Back",
+      "artist": "Jackson 5",
+      "album": "Temazos Míticos Vol. 6",
+      "durationMs": 178493,
+      "ids": {
+        "appleMusic": "1711522860"
+      }
+    },
+    {
+      "title": "Bemba",
+      "artist": "Anitta \u0026 Luedji Luna",
+      "album": "EQUILIBRIVM",
+      "durationMs": 135689,
+      "ids": {
+        "appleMusic": "1893225303"
+      }
+    },
+    {
+      "title": "FYA",
+      "artist": "BTS",
+      "album": "ARIRANG",
+      "durationMs": 180544,
+      "ids": {
+        "appleMusic": "1868862379"
+      }
+    },
+    {
+      "title": "Low Rise Jeans",
+      "artist": "Demi Lovato",
+      "album": "Low Rise Jeans - Single",
+      "durationMs": 206173,
+      "ids": {
+        "appleMusic": "1891868786"
+      }
+    },
+    {
+      "title": "The Climb",
+      "artist": "Miley Cyrus",
+      "album": "The Time of Our Lives (Deluxe Edition)",
+      "durationMs": 234520,
+      "ids": {
+        "appleMusic": "1446859743"
+      }
+    },
+    {
+      "title": "Ternura",
+      "artist": "Anitta \u0026 Melly",
+      "album": "EQUILIBRIVM",
+      "durationMs": 179674,
+      "ids": {
+        "appleMusic": "1893225304"
+      }
+    },
+    {
+      "title": "Thinking of You",
+      "artist": "Katy Perry",
+      "album": "One of the Boys",
+      "durationMs": 246410,
+      "ids": {
+        "appleMusic": "1462118197"
+      }
+    },
+    {
+      "title": "Internet Girl",
+      "artist": "KATSEYE",
+      "album": "Internet Girl - Single",
+      "durationMs": 163831,
+      "ids": {
+        "appleMusic": "1862959661"
+      }
+    },
+    {
+      "title": "Pretty When You Cry",
+      "artist": "Lana Del Rey",
+      "album": "Indica: Vol. 1",
+      "durationMs": 234147,
+      "ids": {
+        "appleMusic": "1562374522"
+      }
+    },
+    {
+      "title": "ABC",
+      "artist": "Jackson 5",
+      "album": "70er",
+      "durationMs": 174733,
+      "ids": {
+        "appleMusic": "1471580131"
+      }
+    },
+    {
+      "title": "Nanã",
+      "artist": "Anitta, Rincon Sapiência \u0026 KING Saints",
+      "album": "EQUILIBRIVM",
+      "durationMs": 164704,
+      "ids": {
+        "appleMusic": "1893225434"
+      }
+    },
+    {
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "album": "Housework Hits",
+      "durationMs": 184000,
+      "ids": {
+        "appleMusic": "6779027698"
+      }
+    },
+    {
+      "title": "BIRDS OF A FEATHER",
+      "artist": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "durationMs": 210373,
+      "ids": {
+        "appleMusic": "1739659142"
+      }
+    },
+    {
+      "title": "Vai Dar Caô",
+      "artist": "Anitta, Ebony \u0026 Papatinho",
+      "album": "EQUILIBRIVM",
+      "durationMs": 144140,
+      "ids": {
+        "appleMusic": "1893225435"
+      }
+    },
+    {
+      "title": "The Best of Both Worlds",
+      "artist": "Hannah Montana",
+      "album": "Hannah Montana (Songs from and Inspired By the Hit TV Series)",
+      "durationMs": 174120,
+      "ids": {
+        "appleMusic": "1440778789"
+      }
+    },
+    {
+      "title": "Opalite",
+      "artist": "Taylor Swift",
+      "album": "Opalite - Single",
+      "durationMs": 235356,
+      "ids": {
+        "appleMusic": "1874387733"
+      }
+    },
+    {
+      "title": "Gabriela",
+      "artist": "KATSEYE",
+      "album": "Chillin' in the rain (rainy vibes)",
+      "durationMs": 197227,
+      "ids": {
+        "appleMusic": "1891132439"
+      }
+    },
+    {
+      "title": "Caso de Amor",
+      "artist": "Anitta \u0026 Os Garotin",
+      "album": "EQUILIBRIVM",
+      "durationMs": 182487,
+      "ids": {
+        "appleMusic": "1893225308"
+      }
+    },
+    {
+      "title": "Leak It",
+      "artist": "FLO",
+      "album": "Leak It - Single",
+      "durationMs": 183407,
+      "ids": {
+        "appleMusic": "1881685399"
+      }
+    },
+    {
+      "title": "Abracadabra",
+      "artist": "Lady Gaga",
+      "album": "MAYHEM",
+      "durationMs": 223398,
+      "ids": {
+        "appleMusic": "1837310871"
+      }
+    },
+    {
+      "title": "This Is the Life",
+      "artist": "Hannah Montana",
+      "album": "Hannah Montana (Songs from and Inspired By the Hit TV Series)",
+      "durationMs": 177253,
+      "ids": {
+        "appleMusic": "1440779257"
+      }
+    },
+    {
+      "title": "Tears",
+      "artist": "Sabrina Carpenter",
+      "album": "Pop Hits 2026 by Digster Pop",
+      "durationMs": 160184,
+      "ids": {
+        "appleMusic": "1884638253"
+      }
+    },
+    {
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "album": "Malaysia Hot \u0026 Viral - May 2021",
+      "durationMs": 204347,
+      "ids": {
+        "appleMusic": "1567147241"
+      }
+    },
+    {
+      "title": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
+      "artist": "Ellie Goulding",
+      "album": "Delirium (Deluxe)",
+      "durationMs": 252534,
+      "ids": {
+        "appleMusic": "1440853360"
+      }
+    },
+    {
+      "title": "Ouro",
+      "artist": "Anitta \u0026 Emanazul",
+      "album": "EQUILIBRIVM",
+      "durationMs": 302229,
+      "ids": {
+        "appleMusic": "1893225438"
+      }
+    },
+    {
+      "title": "WILDFLOWER",
+      "artist": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "durationMs": 261467,
+      "ids": {
+        "appleMusic": "1739659144"
+      }
+    },
+    {
+      "title": "Royals",
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "durationMs": 190185,
+      "ids": {
+        "appleMusic": "1440818664"
+      }
+    },
+    {
+      "title": "Legendary Lovers",
+      "artist": "Katy Perry",
+      "album": "The Ones That Got The Plays",
+      "durationMs": 224216,
+      "ids": {
+        "appleMusic": "6768871687"
+      }
+    },
+    {
+      "title": "Vanish Into You",
+      "artist": "Lady Gaga",
+      "album": "MAYHEM",
+      "durationMs": 244915,
+      "ids": {
+        "appleMusic": "1837310875"
+      }
+    },
+    {
+      "title": "So Much Love",
+      "artist": "Anitta",
+      "album": "EQUILIBRIVM",
+      "durationMs": 159550,
+      "ids": {
+        "appleMusic": "1893225432"
+      }
+    },
+    {
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "durationMs": 207322,
+      "ids": {
+        "appleMusic": "1450330686"
+      }
+    },
+    {
+      "title": "LA CANCIÓN",
+      "artist": "J Balvin \u0026 Bad Bunny",
+      "album": "Baddie GRWM",
+      "durationMs": 242573,
+      "ids": {
+        "appleMusic": "1885855340"
+      }
+    },
+    {
+      "title": "The Visitor",
+      "artist": "SIENNA SPIRO",
+      "album": "Soft Nights, Slow Hearts",
+      "durationMs": 228909,
+      "ids": {
+        "appleMusic": "6768784079"
+      }
+    },
+    {
+      "title": "Where Have You Been",
+      "artist": "Rihanna",
+      "album": "Talk That Talk (Deluxe)",
+      "durationMs": 242680,
+      "ids": {
+        "appleMusic": "1443179145"
+      }
+    },
+    {
+      "title": "Obsessed",
+      "artist": "Mariah Carey",
+      "album": "Memoirs of an Imperfect Angel (Special Edition)",
+      "durationMs": 242200,
+      "ids": {
+        "appleMusic": "1445864353"
+      }
+    },
+    {
+      "title": "You'll Always Find Your Way Back Home",
+      "artist": "Hannah Montana",
+      "album": "Hannah Montana: The Hits",
+      "durationMs": 224187,
+      "ids": {
+        "appleMusic": "1890219349"
+      }
+    },
+    {
+      "title": "Ultraviolence",
+      "artist": "Lana Del Rey",
+      "album": "Ultraviolence (Special Edition)",
+      "durationMs": 251480,
+      "ids": {
+        "appleMusic": "1440826336"
+      }
+    },
+    {
+      "title": "Garden Of Eden",
+      "artist": "Lady Gaga",
+      "album": "MAYHEM",
+      "durationMs": 239721,
+      "ids": {
+        "appleMusic": "1837310872"
+      }
+    },
+    {
+      "title": "Gnarly",
+      "artist": "KATSEYE",
+      "album": "Gái Đẹp Xập Xình",
+      "durationMs": 137316,
+      "ids": {
+        "appleMusic": "1862977838"
+      }
+    },
+    {
+      "title": "Disease",
+      "artist": "Lady Gaga",
+      "album": "MAYHEM",
+      "durationMs": 229997,
+      "ids": {
+        "appleMusic": "1837310868"
+      }
+    },
+    {
+      "title": "HOT TO GO!",
+      "artist": "Chappell Roan",
+      "album": "Drink e coisas leves",
+      "durationMs": 184841,
+      "ids": {
+        "appleMusic": "1817690703"
+      }
+    },
+    {
+      "title": "Pump It",
+      "artist": "Black Eyed Peas",
+      "album": "I Am Pop",
+      "durationMs": 213067,
+      "ids": {
+        "appleMusic": "1442505286"
+      }
+    },
+    {
+      "title": "Sunday Morning",
+      "artist": "Maroon 5",
+      "album": "Songs About Jane: 10th Anniversary Edition",
+      "durationMs": 244880,
+      "ids": {
+        "appleMusic": "1428784095"
+      }
+    },
+    {
+      "title": "Anxiety",
+      "artist": "Doechii",
+      "album": "We Are Still Young ~ A Road To Blue Sky",
+      "durationMs": 249302,
+      "ids": {
+        "appleMusic": "1837975349"
+      }
+    },
+    {
+      "title": "Kiss It Better",
+      "artist": "Rihanna",
+      "album": "ANTI (Deluxe)",
+      "durationMs": 253077,
+      "ids": {
+        "appleMusic": "1440934015"
+      }
+    },
+    {
+      "title": "Elizabeth Taylor",
+      "artist": "Taylor Swift",
+      "album": "Elizabeth Taylor",
+      "durationMs": 208292,
+      "ids": {
+        "appleMusic": "1888604735"
+      }
+    },
+    {
+      "title": "Let You Go",
+      "artist": "Demi Lovato",
+      "album": "It’s Not That Deep (Little Bit Extra Version)",
+      "durationMs": 183247,
+      "ids": {
+        "appleMusic": "1854234591"
+      }
+    },
+    {
+      "title": "Confident (feat. Chance The Rapper) [Single Version]",
+      "artist": "Justin Bieber",
+      "album": "Power Hits 2014",
+      "durationMs": 248133,
+      "ids": {
+        "appleMusic": "1442873388"
+      }
+    },
+    {
+      "title": "Hate Me",
+      "artist": "Ellie Goulding \u0026 Juice WRLD",
+      "album": "Brightest Blue (Apple Music Film Edition)",
+      "durationMs": 188067,
+      "ids": {
+        "appleMusic": "1523531734"
+      }
+    },
+    {
+      "title": "One Love",
+      "artist": "Skip Marley",
+      "album": "One Love - Single",
+      "durationMs": 167802,
+      "ids": {
+        "appleMusic": "1872790416"
+      }
+    },
+    {
+      "title": "When Did You Get Hot?",
+      "artist": "Sabrina Carpenter",
+      "album": "Man’s Best Friend",
+      "durationMs": 145399,
+      "ids": {
+        "appleMusic": "1836002475"
+      }
+    },
+    {
+      "title": "DAISIES",
+      "artist": "Justin Bieber",
+      "album": "SWAG II",
+      "durationMs": 176453,
+      "ids": {
+        "appleMusic": "1837867617"
+      }
+    },
+    {
+      "title": "Let Me Love You (feat. Justin Bieber)",
+      "artist": "DJ Snake",
+      "album": "Tunes That Stick, Vol. 6",
+      "durationMs": 205947,
+      "ids": {
+        "appleMusic": "1680987648"
+      }
+    },
+    {
+      "title": "Ribs",
+      "artist": "Lorde",
+      "album": "Coffeehouse Mix",
+      "durationMs": 258969,
+      "ids": {
+        "appleMusic": "1680763456"
+      }
+    },
+    {
+      "title": "Love To Love You Baby",
+      "artist": "Donna Summer",
+      "album": "Domówka Sylwestrowa",
+      "durationMs": 1008533,
+      "ids": {
+        "appleMusic": "6763524036"
+      }
+    },
+    {
+      "title": "bandaids",
+      "artist": "Katy Perry",
+      "album": "The Ones That Got The Plays",
+      "durationMs": 188802,
+      "ids": {
+        "appleMusic": "6768871688"
+      }
+    },
+    {
+      "title": "Sympathy Magic",
+      "artist": "Florence + the Machine",
+      "album": "Top of Rock",
+      "durationMs": 268886,
+      "ids": {
+        "appleMusic": "6778980132"
+      }
+    },
+    {
+      "title": "NOT OK",
+      "artist": "5 Seconds of Summer",
+      "album": "EVERYONE'S A STAR!",
+      "durationMs": 206040,
+      "ids": {
+        "appleMusic": "1840514115"
+      }
+    },
+    {
+      "title": "Father Figure",
+      "artist": "Taylor Swift",
+      "album": "The Life of a Showgirl + Acoustic Collection",
+      "durationMs": 212777,
+      "ids": {
+        "appleMusic": "1850496249"
+      }
+    },
+    {
+      "title": "White Feather Hawk Tail Deer Hunter",
+      "artist": "Lana Del Rey",
+      "album": "White Feather Hawk Tail Deer Hunter - Single",
+      "durationMs": 234049,
+      "ids": {
+        "appleMusic": "1877234387"
+      }
+    },
+    {
+      "title": "Sorry",
+      "artist": "Justin Bieber",
+      "album": "Best Hits 2015",
+      "durationMs": 200787,
+      "ids": {
+        "appleMusic": "1569486514"
+      }
+    },
+    {
+      "title": "What's Up?",
+      "artist": "4 Non Blondes",
+      "album": "Summer Party",
+      "durationMs": 295627,
+      "ids": {
+        "appleMusic": "1442493543"
+      }
+    },
+    {
+      "title": "One Dance (feat. Wizkid \u0026 Kyla)",
+      "artist": "Drake",
+      "album": "Views",
+      "durationMs": 173985,
+      "ids": {
+        "appleMusic": "1440841384"
+      }
+    },
+    {
+      "title": "The Dead Dance",
+      "artist": "Lady Gaga",
+      "album": "MAYHEM",
+      "durationMs": 228519,
+      "ids": {
+        "appleMusic": "1837310878"
+      }
+    },
+    {
+      "title": "Eldest Daughter",
+      "artist": "Taylor Swift",
+      "album": "The Life of a Showgirl",
+      "durationMs": 246356,
+      "ids": {
+        "appleMusic": "1833328848"
+      }
+    },
+    {
+      "title": "Manchild",
+      "artist": "Sabrina Carpenter",
+      "album": "Drop Top Pop",
+      "durationMs": 213646,
+      "ids": {
+        "appleMusic": "1887322110"
+      }
+    },
+    {
+      "title": "Come As You Are",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 218920,
+      "ids": {
+        "appleMusic": "1440823703"
+      }
+    },
+    {
+      "title": "Ruin The Friendship",
+      "artist": "Taylor Swift",
+      "album": "The Life of a Showgirl (Track by Track Version)",
+      "durationMs": 220565,
+      "ids": {
+        "appleMusic": "1844457066"
+      }
+    },
+    {
+      "title": "Every Breath You Take (Remastered 2003)",
+      "artist": "The Police",
+      "album": "Good Times",
+      "durationMs": 253920,
+      "ids": {
+        "appleMusic": "1554153519"
+      }
+    },
+    {
+      "title": "Kiss",
+      "artist": "Demi Lovato",
+      "album": "It’s Not That Deep",
+      "durationMs": 139391,
+      "ids": {
+        "appleMusic": "1848024207"
+      }
+    },
+    {
+      "title": "Only Girl (In The World)",
+      "artist": "Rihanna",
+      "album": "Loud (Deluxe)",
+      "durationMs": 235493,
+      "ids": {
+        "appleMusic": "1440896009"
+      }
+    },
+    {
+      "title": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "album": "Discover More Classic Rock",
+      "durationMs": 355267,
+      "ids": {
+        "appleMusic": "1527145108"
+      }
+    },
+    {
+      "title": "All The Things She Said",
+      "artist": "t.A.T.u.",
+      "album": "Éxitos \u0026 Hits de los 2000s",
+      "durationMs": 214440,
+      "ids": {
+        "appleMusic": "1711865848"
+      }
+    },
+    {
+      "title": "Favourite Daughter",
+      "artist": "Lorde",
+      "album": "Virgin",
+      "durationMs": 208696,
+      "ids": {
+        "appleMusic": "1810905311"
+      }
+    },
+    {
+      "title": "Galaxy",
+      "artist": "Kungs, Theophilus London \u0026 Mind Enterprises",
+      "album": "Jogging 2026",
+      "durationMs": 170640,
+      "ids": {
+        "appleMusic": "6771446324"
+      }
+    },
+    {
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Tears for Fears",
+      "album": "Songs from the Big Chair (Deluxe)",
+      "durationMs": 251480,
+      "ids": {
+        "appleMusic": "1443226353"
+      }
+    },
+    {
+      "title": "Actually Romantic",
+      "artist": "Taylor Swift",
+      "album": "The Life of a Showgirl + Acoustic Collection",
+      "durationMs": 163700,
+      "ids": {
+        "appleMusic": "1850496255"
+      }
+    },
+    {
+      "title": "Cinnamon Girl",
+      "artist": "Lana Del Rey",
+      "album": "Monsoon Love Vol 15",
+      "durationMs": 300683,
+      "ids": {
+        "appleMusic": "1693643589"
+      }
+    },
+    {
+      "title": "Livin' On A Prayer",
+      "artist": "Bon Jovi",
+      "album": "USA Roadtrip",
+      "durationMs": 250627,
+      "ids": {
+        "appleMusic": "1890525769"
+      }
+    },
+    {
+      "title": "Golden",
+      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI \u0026 KPop Demon Hunters Cast",
+      "album": "KPop Demon Hunters (Soundtrack from the Netflix Film / Deluxe Version)",
+      "durationMs": 194608,
+      "ids": {
+        "appleMusic": "1837843445"
+      }
+    },
+    {
+      "title": "I Gotta Feeling",
+      "artist": "Black Eyed Peas",
+      "album": "Kids Birthday Party",
+      "durationMs": 289493,
+      "ids": {
+        "appleMusic": "1691418490"
+      }
+    },
+    {
+      "title": "The Subway",
+      "artist": "Chappell Roan",
+      "album": "Frühlingsmusik",
+      "durationMs": 252276,
+      "ids": {
+        "appleMusic": "1884982253"
+      }
+    },
+    {
+      "title": "Post Sex Clarity",
+      "artist": "Lola Young",
+      "album": "I’m Only F**king Myself",
+      "durationMs": 261960,
+      "ids": {
+        "appleMusic": "1819085992"
+      }
+    },
+    {
+      "title": "Thunder",
+      "artist": "Imagine Dragons",
+      "album": "Happy Morning",
+      "durationMs": 187147,
+      "ids": {
+        "appleMusic": "1564003953"
+      }
+    },
+    {
+      "title": "Wood",
+      "artist": "Taylor Swift",
+      "album": "The Life of a Showgirl + Acoustic Collection",
+      "durationMs": 150518,
+      "ids": {
+        "appleMusic": "1850496257"
+      }
+    },
+    {
+      "title": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 301920,
+      "ids": {
+        "appleMusic": "1440823697"
+      }
+    },
+    {
+      "title": "We Found Love (feat. Calvin Harris)",
+      "artist": "Rihanna",
+      "album": "Talk That Talk",
+      "durationMs": 215227,
+      "ids": {
+        "appleMusic": "1443102668"
+      }
+    },
+    {
+      "title": "Losing My Religion",
+      "artist": "R.E.M.",
+      "album": "Non-Stop Pop Vol 6",
+      "durationMs": 268427,
+      "ids": {
+        "appleMusic": "1672641503"
+      }
+    },
+    {
+      "title": "Have You Ever Seen The Rain",
+      "artist": "Creedence Clearwater Revival",
+      "album": "Camping Night Hits",
+      "durationMs": 160133,
+      "ids": {
+        "appleMusic": "1698453260"
+      }
+    },
+    {
+      "title": "CANCELLED!",
+      "artist": "Taylor Swift",
+      "album": "The Life of a Showgirl + Acoustic Collection",
+      "durationMs": 211498,
+      "ids": {
+        "appleMusic": "1850496258"
+      }
+    },
+    {
+      "title": "Rehab",
+      "artist": "Rihanna",
+      "album": "Good Girl Gone Bad: Reloaded",
+      "durationMs": 294720,
+      "ids": {
+        "appleMusic": "1441154568"
+      }
+    },
+    {
+      "title": "Bring Me To Life",
+      "artist": "Evanescence",
+      "album": "Pra Sempre Rock - Show no Rio",
+      "durationMs": 235893,
+      "ids": {
+        "appleMusic": "1765395295"
+      }
+    },
+    {
+      "title": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+      "artist": "Taylor Swift",
+      "album": "The Life of a Showgirl + Acoustic Collection",
+      "durationMs": 241767,
+      "ids": {
+        "appleMusic": "1850496260"
+      }
+    },
+    {
+      "title": "LOVE SONG",
+      "artist": "Justin Bieber",
+      "album": "SWAG II",
+      "durationMs": 172307,
+      "ids": {
+        "appleMusic": "1837867205"
+      }
+    },
+    {
+      "title": "You da One",
+      "artist": "Rihanna",
+      "album": "Talk That Talk",
+      "durationMs": 200013,
+      "ids": {
+        "appleMusic": "1443102651"
+      }
+    },
+    {
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "album": "Not Like Us - Single",
+      "durationMs": 274192,
+      "ids": {
+        "appleMusic": "1744776167"
+      }
+    },
+    {
+      "title": "Here All Night",
+      "artist": "Demi Lovato",
+      "album": "Here All Night (Remixes) - Single",
+      "durationMs": 176832,
+      "ids": {
+        "appleMusic": "1843146910"
+      }
+    },
+    {
+      "title": "ocean eyes",
+      "artist": "Billie Eilish",
+      "album": "dont smile at me",
+      "durationMs": 200379,
+      "ids": {
+        "appleMusic": "1440899467"
+      }
+    },
+    {
+      "title": "Fast",
+      "artist": "Demi Lovato",
+      "album": "Invierno Mix",
+      "durationMs": 181587,
+      "ids": {
+        "appleMusic": "6775655424"
+      }
+    },
+    {
+      "title": "Breakin' Dishes",
+      "artist": "Rihanna",
+      "album": "Good Girl Gone Bad: Reloaded",
+      "durationMs": 200573,
+      "ids": {
+        "appleMusic": "1441154440"
+      }
+    },
+    {
+      "title": "Jennifer",
+      "artist": "Trinidad Cardona",
+      "album": "ultimate thirst trap songs",
+      "durationMs": 213540,
+      "ids": {
+        "appleMusic": "1888299688"
+      }
+    },
+    {
+      "title": "Love Is Like",
+      "artist": "Maroon 5 \u0026 Lil Wayne",
+      "album": "Love Is Like (Deluxe)",
+      "durationMs": 174912,
+      "ids": {
+        "appleMusic": "1833677174"
+      }
+    },
+    {
+      "title": "Messy",
+      "artist": "Lola Young",
+      "album": "Tanning in the Sun",
+      "durationMs": 284069,
+      "ids": {
+        "appleMusic": "1814405382"
+      }
+    },
+    {
+      "title": "GO BABY",
+      "artist": "Justin Bieber",
+      "album": "SWAG II",
+      "durationMs": 194760,
+      "ids": {
+        "appleMusic": "1839605917"
+      }
+    },
+    {
+      "title": "Counting Stars",
+      "artist": "OneRepublic",
+      "album": "Native",
+      "durationMs": 257286,
+      "ids": {
+        "appleMusic": "1440862803"
+      }
+    },
+    {
+      "title": "Hammer",
+      "artist": "Lorde",
+      "album": "Virgin",
+      "durationMs": 193443,
+      "ids": {
+        "appleMusic": "1810905304"
+      }
+    },
+    {
+      "title": "One Thing",
+      "artist": "Lola Young",
+      "album": "Brunch Vibes 2026",
+      "durationMs": 208829,
+      "ids": {
+        "appleMusic": "1860401779"
+      }
+    },
+    {
+      "title": "Deeper Well",
+      "artist": "Kacey Musgraves",
+      "album": "歐美慢歌精選",
+      "durationMs": 232133,
+      "ids": {
+        "appleMusic": "1749639691"
+      }
+    },
+    {
+      "title": "ALL I CAN TAKE",
+      "artist": "Justin Bieber",
+      "album": "SWAG II",
+      "durationMs": 247547,
+      "ids": {
+        "appleMusic": "1837867616"
+      }
+    },
+    {
+      "title": "Colors",
+      "artist": "Halsey",
+      "album": "BADLANDS",
+      "durationMs": 249500,
+      "ids": {
+        "appleMusic": "1440872980"
+      }
+    },
+    {
+      "title": "BUTTERFLIES",
+      "artist": "Justin Bieber",
+      "album": "SWAG II",
+      "durationMs": 193525,
+      "ids": {
+        "appleMusic": "1837867697"
+      }
+    },
+    {
+      "title": "d£aler",
+      "artist": "Lola Young",
+      "album": "Ostern 2026",
+      "durationMs": 160667,
+      "ids": {
+        "appleMusic": "1879897999"
+      }
+    },
+    {
+      "title": "YUKON",
+      "artist": "Justin Bieber",
+      "album": "SWAG II",
+      "durationMs": 163867,
+      "ids": {
+        "appleMusic": "1839605914"
+      }
+    },
+    {
+      "title": "Gabriela (Young Miko Remix)",
+      "artist": "KATSEYE \u0026 Young Miko",
+      "album": "Gabriela (Young Miko Remix) - Single",
+      "durationMs": 198810,
+      "ids": {
+        "appleMusic": "1831114666"
+      }
+    },
+    {
+      "title": "Not Like That Anymore",
+      "artist": "Lola Young",
+      "album": "Housework Hits",
+      "durationMs": 202412,
+      "ids": {
+        "appleMusic": "6779028174"
+      }
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "album": "MUSE",
+      "durationMs": 170888,
+      "ids": {
+        "appleMusic": "1751773093"
+      }
+    },
+    {
+      "title": "Poker Face",
+      "artist": "Lady Gaga",
+      "album": "Torcida 2018 - Nacional E Internacional",
+      "durationMs": 237200,
+      "ids": {
+        "appleMusic": "1390803101"
+      }
+    },
+    {
+      "title": "What Was That",
+      "artist": "Lorde",
+      "album": "Discover 2025: Popular Global Picks",
+      "durationMs": 209286,
+      "ids": {
+        "appleMusic": "1860981044"
+      }
+    },
+    {
+      "title": "SWAG",
+      "artist": "Justin Bieber, Cash Cobain \u0026 Eddie Benjamin",
+      "album": "SWAG",
+      "durationMs": 150253,
+      "ids": {
+        "appleMusic": "1825998938"
+      }
+    },
+    {
+      "title": "Man Of The Year",
+      "artist": "Lorde",
+      "album": "Discover 2025: Popular Global Picks",
+      "durationMs": 180433,
+      "ids": {
+        "appleMusic": "1860981038"
+      }
+    },
+    {
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "album": "Happy Pride: Love Is Love",
+      "durationMs": 294573,
+      "ids": {
+        "appleMusic": "1692706897"
+      }
+    },
+    {
+      "title": "Sunset Blvd",
+      "artist": "Selena Gomez \u0026 benny blanco",
+      "album": "I Said I Love You First... And You Said It Back",
+      "durationMs": 167584,
+      "ids": {
+        "appleMusic": "1811201077"
+      }
+    },
+    {
+      "title": "Never Say Never (feat. Jaden)",
+      "artist": "Justin Bieber",
+      "album": "Never Say Never (The Remixes) - EP",
+      "durationMs": 227853,
+      "ids": {
+        "appleMusic": "1442924371"
+      }
+    },
+    {
+      "title": "DENIAL IS A RIVER",
+      "artist": "Doechii",
+      "album": "ALT RAP US 2026",
+      "durationMs": 159586,
+      "ids": {
+        "appleMusic": "6762680322"
+      }
+    },
+    {
+      "title": "Somebody That I Used To Know (feat. Kimbra)",
+      "artist": "Gotye",
+      "album": "Family Pool Party",
+      "durationMs": 245755,
+      "ids": {
+        "appleMusic": "1579794140"
+      }
+    },
+    {
+      "title": "Younger And Hotter Than Me",
+      "artist": "Selena Gomez \u0026 benny blanco",
+      "album": "I Said I Love You First... And You Said It Back",
+      "durationMs": 189648,
+      "ids": {
+        "appleMusic": "1811201062"
+      }
+    },
+    {
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "album": "Chart Hits Deutschland 2025",
+      "durationMs": 218424,
+      "ids": {
+        "appleMusic": "1807630005"
+      }
+    },
+    {
+      "title": "Superpowers",
+      "artist": "Daniel Caesar",
+      "album": "NEVER ENOUGH (Bonus Version)",
+      "durationMs": 174513,
+      "ids": {
+        "appleMusic": "1681332243"
+      }
+    },
+    {
+      "title": "Sailor Song",
+      "artist": "Gigi Perez",
+      "album": "Herbstgefühle 2025",
+      "durationMs": 211979,
+      "ids": {
+        "appleMusic": "1834294168"
+      }
+    },
+    {
+      "title": "Rock That Body",
+      "artist": "Black Eyed Peas",
+      "album": "Serving Diva",
+      "durationMs": 268840,
+      "ids": {
+        "appleMusic": "6774747787"
+      }
+    },
+    {
+      "title": "Nosebleeds",
+      "artist": "Doechii",
+      "album": "Female Rappers",
+      "durationMs": 135063,
+      "ids": {
+        "appleMusic": "6773875628"
+      }
+    },
+    {
+      "title": "All The Stars",
+      "artist": "Kendrick Lamar \u0026 SZA",
+      "album": "Tanning in the Sun",
+      "durationMs": 232187,
+      "ids": {
+        "appleMusic": "1814405583"
+      }
+    },
+    {
+      "title": "Cry For Me",
+      "artist": "The Weeknd",
+      "album": "Hurry Up Tomorrow (Video Album)",
+      "durationMs": 224137,
+      "ids": {
+        "appleMusic": "1795692222"
+      }
+    },
+    {
+      "title": "HUMBLE.",
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "durationMs": 177000,
+      "ids": {
+        "appleMusic": "1440881684"
+      }
+    },
+    {
+      "title": "luther",
+      "artist": "Kendrick Lamar",
+      "album": "GNX",
+      "durationMs": 177599,
+      "ids": {
+        "appleMusic": "1781270323"
+      }
+    },
+    {
+      "title": "tv off (feat. Lefty Gunplay)",
+      "artist": "Kendrick Lamar",
+      "album": "GNX",
+      "durationMs": 220690,
+      "ids": {
+        "appleMusic": "1781270540"
+      }
+    },
+    {
+      "title": "Big Girls Don't Cry (Personal)",
+      "artist": "Fergie",
+      "album": "The Dutchess",
+      "durationMs": 268120,
+      "ids": {
+        "appleMusic": "1444049401"
+      }
+    },
+    {
+      "title": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "album": "Espresso EP",
+      "durationMs": 175459,
+      "ids": {
+        "appleMusic": "1746801003"
+      }
+    },
+    {
+      "title": "NOS DESCONOXIMOS",
+      "artist": "Feid",
+      "album": "Solo Éxitos Latinos",
+      "durationMs": 168099,
+      "ids": {
+        "appleMusic": "6779001021"
+      }
+    },
+    {
+      "title": "São Paulo",
+      "artist": "The Weeknd \u0026 Anitta",
+      "album": "Hurry Up Tomorrow",
+      "durationMs": 301623,
+      "ids": {
+        "appleMusic": "1793654352"
+      }
+    },
+    {
+      "title": "Taste",
+      "artist": "Sabrina Carpenter",
+      "album": "drink, date e pizza",
+      "durationMs": 157280,
+      "ids": {
+        "appleMusic": "1827541985"
+      }
+    },
+    {
+      "title": "Dancing In The Flames",
+      "artist": "The Weeknd",
+      "album": "Dancing In The Flames - Single",
+      "durationMs": 220037,
+      "ids": {
+        "appleMusic": "1767511513"
+      }
+    },
+    {
+      "title": "Please Please Please",
+      "artist": "Sabrina Carpenter",
+      "album": "Short n' Sweet",
+      "durationMs": 186365,
+      "ids": {
+        "appleMusic": "1750307080"
+      }
+    },
+    {
+      "title": "Timeless",
+      "artist": "The Weeknd \u0026 Playboi Carti",
+      "album": "Timeless - Single",
+      "durationMs": 256000,
+      "ids": {
+        "appleMusic": "1770380890"
+      }
+    },
+    {
+      "title": "I Love You, I'm Sorry",
+      "artist": "Gracie Abrams",
+      "album": "The Secret of Us",
+      "durationMs": 157139,
+      "ids": {
+        "appleMusic": "1743054747"
+      }
+    },
+    {
+      "title": "Popular (feat. Playboi Carti)",
+      "artist": "The Weeknd \u0026 Madonna",
+      "album": "Popular (feat. Playboi Carti) - Single",
+      "durationMs": 215467,
+      "ids": {
+        "appleMusic": "1727173609"
+      }
+    },
+    {
+      "title": "I'M HIS, HE'S MINE (feat. Doechii)",
+      "artist": "Katy Perry",
+      "album": "1432",
+      "durationMs": 198462,
+      "ids": {
+        "appleMusic": "1784833455"
+      }
+    },
+    {
+      "title": "Tadow",
+      "artist": "Masego \u0026 FKJ",
+      "album": "Tadow - Single",
+      "durationMs": 301893,
+      "ids": {
+        "appleMusic": "1794863655"
+      }
+    },
+    {
+      "title": "Put Your Records On",
+      "artist": "Corinne Bailey Rae",
+      "album": "Comfy Music",
+      "durationMs": 215414,
+      "ids": {
+        "appleMusic": "1716610744"
+      }
+    },
+    {
+      "title": "CHIHIRO",
+      "artist": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "durationMs": 303440,
+      "ids": {
+        "appleMusic": "1739659141"
+      }
+    },
+    {
+      "title": "Why Why Why",
+      "artist": "Shawn Mendes",
+      "album": "Hits Internacionais pra curtir",
+      "durationMs": 169041,
+      "ids": {
+        "appleMusic": "1808788951"
+      }
+    },
+    {
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "album": "Unheard - EP",
+      "durationMs": 251424,
+      "ids": {
+        "appleMusic": "1733904814"
+      }
+    },
+    {
+      "title": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "album": "The Cruelest Summer - Single",
+      "durationMs": 178426,
+      "ids": {
+        "appleMusic": "1712547509"
+      }
+    },
+    {
+      "title": "LUNCH",
+      "artist": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "durationMs": 179587,
+      "ids": {
+        "appleMusic": "1739659140"
+      }
+    },
+    {
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "album": "After Hours (Deluxe)",
+      "durationMs": 215627,
+      "ids": {
+        "appleMusic": "1505683990"
+      }
+    },
+    {
+      "title": "Happier Than Ever (Edit)",
+      "artist": "Billie Eilish",
+      "album": "Worldwide hits 5",
+      "durationMs": 151444,
+      "ids": {
+        "appleMusic": "1680588661"
+      }
+    },
+    {
+      "title": "PROVENZA",
+      "artist": "KAROL G",
+      "album": "Tanning in the Sun",
+      "durationMs": 207627,
+      "ids": {
+        "appleMusic": "1814404863"
+      }
+    }
+  ]
+}

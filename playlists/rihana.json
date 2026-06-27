@@ -1,0 +1,599 @@
+{
+  "name": "Rihana",
+  "tracks": [
+    {
+      "title": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
+      "artist": "Rihanna",
+      "album": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By) - Single",
+      "durationMs": 196520,
+      "ids": {
+        "appleMusic": "1651763192"
+      }
+    },
+    {
+      "title": "Diamonds",
+      "artist": "Rihanna",
+      "album": "Unapologetic",
+      "durationMs": 225147,
+      "ids": {
+        "appleMusic": "1443232440"
+      }
+    },
+    {
+      "title": "Where Have You Been",
+      "artist": "Rihanna",
+      "album": "Talk That Talk (Deluxe)",
+      "durationMs": 242680,
+      "ids": {
+        "appleMusic": "1443179145"
+      }
+    },
+    {
+      "title": "Bad to You",
+      "artist": "Ariana Grande, Normani \u0026 Nicki Minaj",
+      "album": "Charlie's Angels (Original Motion Picture Soundtrack)",
+      "durationMs": 171843,
+      "ids": {
+        "appleMusic": "1482434206"
+      }
+    },
+    {
+      "title": "Rude Boy",
+      "artist": "Rihanna",
+      "album": "Rated R",
+      "durationMs": 222920,
+      "ids": {
+        "appleMusic": "1440885739"
+      }
+    },
+    {
+      "title": "S\u0026M",
+      "artist": "Rihanna",
+      "album": "Loud",
+      "durationMs": 243533,
+      "ids": {
+        "appleMusic": "1440804853"
+      }
+    },
+    {
+      "title": "Playing Games (Extended Version)",
+      "artist": "Summer Walker \u0026 Bryson Tiller",
+      "album": "Women in Hip Hop/RnB",
+      "durationMs": 143227,
+      "ids": {
+        "appleMusic": "1553019517"
+      }
+    },
+    {
+      "title": "Stay (feat. Mikky Ekko)",
+      "artist": "Rihanna",
+      "album": "Unapologetic",
+      "durationMs": 240707,
+      "ids": {
+        "appleMusic": "1443232529"
+      }
+    },
+    {
+      "title": "Work (feat. Drake)",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "durationMs": 219340,
+      "ids": {
+        "appleMusic": "1440933709"
+      }
+    },
+    {
+      "title": "Morning",
+      "artist": "Teyana Taylor \u0026 Kehlani",
+      "album": "Hot Bedroom Music",
+      "durationMs": 253947,
+      "ids": {
+        "appleMusic": "1791842381"
+      }
+    },
+    {
+      "title": "We Found Love (feat. Calvin Harris)",
+      "artist": "Rihanna",
+      "album": "Talk That Talk",
+      "durationMs": 215227,
+      "ids": {
+        "appleMusic": "1443102668"
+      }
+    },
+    {
+      "title": "Only Girl (In The World)",
+      "artist": "Rihanna",
+      "album": "Loud (Deluxe)",
+      "durationMs": 235493,
+      "ids": {
+        "appleMusic": "1440896009"
+      }
+    },
+    {
+      "title": "Cravin (feat. G-Eazy)",
+      "artist": "DaniLeigh",
+      "album": "Heavy Workout Rap Bangers",
+      "durationMs": 178907,
+      "ids": {
+        "appleMusic": "1708509150"
+      }
+    },
+    {
+      "title": "Unfaithful",
+      "artist": "Rihanna",
+      "album": "A Girl Like Me",
+      "durationMs": 226973,
+      "ids": {
+        "appleMusic": "1440655171"
+      }
+    },
+    {
+      "title": "Disturbia",
+      "artist": "Rihanna",
+      "album": "Good Girl Gone Bad: Reloaded",
+      "durationMs": 238627,
+      "ids": {
+        "appleMusic": "1441154571"
+      }
+    },
+    {
+      "title": "Dick",
+      "artist": "Mae Muller",
+      "album": "International Women's day - 2023",
+      "durationMs": 181765,
+      "ids": {
+        "appleMusic": "1713399410"
+      }
+    },
+    {
+      "title": "Sledgehammer (From \"Star Trek Beyond\")",
+      "artist": "Rihanna",
+      "album": "Sledgehammer (From \"Star Trek Beyond\") - Single",
+      "durationMs": 211400,
+      "ids": {
+        "appleMusic": "1445279997"
+      }
+    },
+    {
+      "title": "Kiss It Better",
+      "artist": "Rihanna",
+      "album": "ANTI (Deluxe)",
+      "durationMs": 253077,
+      "ids": {
+        "appleMusic": "1440934015"
+      }
+    },
+    {
+      "title": "Worth It",
+      "artist": "Sharna Bass",
+      "album": "Beautiful Chaos",
+      "durationMs": 186311,
+      "ids": {
+        "appleMusic": "1500932209"
+      }
+    },
+    {
+      "title": "Umbrella (feat. JAŸ-Z)",
+      "artist": "Rihanna",
+      "album": "Good Girl Gone Bad: Reloaded",
+      "durationMs": 276136,
+      "ids": {
+        "appleMusic": "1441154437"
+      }
+    },
+    {
+      "title": "Sidelines",
+      "artist": "EVAN GIIA",
+      "album": "Sidelines - Single",
+      "durationMs": 154981,
+      "ids": {
+        "appleMusic": "1483149817"
+      }
+    },
+    {
+      "title": "FourFiveSeconds",
+      "artist": "Rihanna and Kanye West and Paul McCartney",
+      "album": "FourFiveSeconds - Single",
+      "durationMs": 188238,
+      "ids": {
+        "appleMusic": "1445170918"
+      }
+    },
+    {
+      "title": "Take a Bow",
+      "artist": "Rihanna",
+      "album": "Good Girl Gone Bad: Reloaded",
+      "durationMs": 229413,
+      "ids": {
+        "appleMusic": "1441154580"
+      }
+    },
+    {
+      "title": "Fired Up",
+      "artist": "Grace Carter",
+      "album": "Fired Up - Single",
+      "durationMs": 201087,
+      "ids": {
+        "appleMusic": "1482625130"
+      }
+    },
+    {
+      "title": "Don't Stop The Music",
+      "artist": "Rihanna",
+      "album": "Good Girl Gone Bad: Reloaded",
+      "durationMs": 267080,
+      "ids": {
+        "appleMusic": "1441154439"
+      }
+    },
+    {
+      "title": "Love On the Brain",
+      "artist": "Rihanna",
+      "album": "Best of 2017",
+      "durationMs": 224000,
+      "ids": {
+        "appleMusic": "1442975762"
+      }
+    },
+    {
+      "title": "6 Feet Under",
+      "artist": "Lola Young",
+      "album": "Intro",
+      "durationMs": 201763,
+      "ids": {
+        "appleMusic": "1486320216"
+      }
+    },
+    {
+      "title": "Man Down",
+      "artist": "Rihanna",
+      "album": "Loud",
+      "durationMs": 266987,
+      "ids": {
+        "appleMusic": "1440804866"
+      }
+    },
+    {
+      "title": "Needed Me",
+      "artist": "Rihanna",
+      "album": "ANTI (Deluxe)",
+      "durationMs": 191605,
+      "ids": {
+        "appleMusic": "1440934096"
+      }
+    },
+    {
+      "title": "Look At Her Now",
+      "artist": "Selena Gomez",
+      "album": "Best Clean Pop Hits",
+      "durationMs": 162596,
+      "ids": {
+        "appleMusic": "1591472847"
+      }
+    },
+    {
+      "title": "Te Amo",
+      "artist": "Rihanna",
+      "album": "Rated R",
+      "durationMs": 208427,
+      "ids": {
+        "appleMusic": "1440885959"
+      }
+    },
+    {
+      "title": "What A Shame",
+      "artist": "Leyla Blue",
+      "album": "songs to scream in cars",
+      "durationMs": 177200,
+      "ids": {
+        "appleMusic": "1606071399"
+      }
+    },
+    {
+      "title": "What's My Name? (feat. Drake)",
+      "artist": "Drake \u0026 Rihanna",
+      "album": "Loud",
+      "durationMs": 263173,
+      "ids": {
+        "appleMusic": "1442286232"
+      }
+    },
+    {
+      "title": "Tusa",
+      "artist": "KAROL G \u0026 Nicki Minaj",
+      "album": "Tusa - Single",
+      "durationMs": 200550,
+      "ids": {
+        "appleMusic": "1485476561"
+      }
+    },
+    {
+      "title": "Get It Over With",
+      "artist": "Rihanna",
+      "album": "Unapologetic",
+      "durationMs": 211893,
+      "ids": {
+        "appleMusic": "1443232536"
+      }
+    },
+    {
+      "title": "This Is What You Came For",
+      "artist": "Calvin Harris \u0026 Rihanna",
+      "album": "96 Months",
+      "durationMs": 221901,
+      "ids": {
+        "appleMusic": "1761396653"
+      }
+    },
+    {
+      "title": "7 rings",
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "durationMs": 178631,
+      "ids": {
+        "appleMusic": "1450330685"
+      }
+    },
+    {
+      "title": "Higher",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "durationMs": 120632,
+      "ids": {
+        "appleMusic": "1440933725"
+      }
+    },
+    {
+      "title": "Don't Call Me Angel (Charlie's Angels)",
+      "artist": "Ariana Grande, Miley Cyrus \u0026 Lana Del Rey",
+      "album": "Charlie's Angels (Original Motion Picture Soundtrack)",
+      "durationMs": 190075,
+      "ids": {
+        "appleMusic": "1482434211"
+      }
+    },
+    {
+      "title": "Nobody's Business (feat. Chris Brown)",
+      "artist": "Rihanna",
+      "album": "Unapologetic",
+      "durationMs": 216293,
+      "ids": {
+        "appleMusic": "1443232530"
+      }
+    },
+    {
+      "title": "Playing Games",
+      "artist": "Summer Walker",
+      "album": "Over It (Complete Set)",
+      "durationMs": 143667,
+      "ids": {
+        "appleMusic": "1540833710"
+      }
+    },
+    {
+      "title": "Desperado",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "durationMs": 186451,
+      "ids": {
+        "appleMusic": "1443231180"
+      }
+    },
+    {
+      "title": "If I Never See Your Face Again (feat. Rihanna)",
+      "artist": "Maroon 5",
+      "album": "Good Girl Gone Bad: Reloaded",
+      "durationMs": 198353,
+      "ids": {
+        "appleMusic": "1441154584"
+      }
+    },
+    {
+      "title": "Birthday Cake",
+      "artist": "Rihanna",
+      "album": "Talk That Talk",
+      "durationMs": 78200,
+      "ids": {
+        "appleMusic": "1443103017"
+      }
+    },
+    {
+      "title": "Jenny",
+      "artist": "Mae Muller",
+      "album": "Chapter 1",
+      "durationMs": 175484,
+      "ids": {
+        "appleMusic": "1457831779"
+      }
+    },
+    {
+      "title": "Wild Thoughts (feat. Rihanna \u0026 Bryson Tiller)",
+      "artist": "DJ Khaled",
+      "album": "Grateful",
+      "durationMs": 204173,
+      "ids": {
+        "appleMusic": "1249168253"
+      }
+    },
+    {
+      "title": "Lie To Me (feat. Lil Durk)",
+      "artist": "Queen Naija",
+      "album": "International Women's Day - Hip Hop/RnB",
+      "durationMs": 192824,
+      "ids": {
+        "appleMusic": "1552927916"
+      }
+    },
+    {
+      "title": "Lie To Me (Story of Eve)",
+      "artist": "Angie Rose",
+      "album": "Lie To Me (Story of Eve) - Single",
+      "durationMs": 167966,
+      "ids": {
+        "appleMusic": "1481617963"
+      }
+    },
+    {
+      "title": "Yeah, I Said It",
+      "artist": "Rihanna",
+      "album": "Rainy Day R\u0026B",
+      "durationMs": 133157,
+      "ids": {
+        "appleMusic": "1368218730"
+      }
+    },
+    {
+      "title": "Stretch You Out (feat. A Boogie wit da Hoodie)",
+      "artist": "Summer Walker",
+      "album": "Over It (Complete Set)",
+      "durationMs": 143493,
+      "ids": {
+        "appleMusic": "1540833701"
+      }
+    },
+    {
+      "title": "Good Thing",
+      "artist": "Zedd \u0026 Kehlani",
+      "album": "POP LOVE HITS VOL 18",
+      "durationMs": 210901,
+      "ids": {
+        "appleMusic": "1676358368"
+      }
+    },
+    {
+      "title": "James Joint",
+      "artist": "Rihanna",
+      "album": "ANTI (Deluxe)",
+      "durationMs": 72074,
+      "ids": {
+        "appleMusic": "1440934010"
+      }
+    },
+    {
+      "title": "Castaway (feat. Tyler, The Creator)",
+      "artist": "Yuna",
+      "album": "Funky Basslines",
+      "durationMs": 269893,
+      "ids": {
+        "appleMusic": "1778079908"
+      }
+    },
+    {
+      "title": "Lemon (Edit)",
+      "artist": "N.E.R.D \u0026 Rihanna",
+      "album": "Lemon (Edit) - Single",
+      "durationMs": 146907,
+      "ids": {
+        "appleMusic": "1320224243"
+      }
+    },
+    {
+      "title": "Addict",
+      "artist": "Kensington Moore",
+      "album": "Addict - Single",
+      "durationMs": 171410,
+      "ids": {
+        "appleMusic": "1476642868"
+      }
+    },
+    {
+      "title": "Loveeeeeee Song (feat. Future)",
+      "artist": "Rihanna",
+      "album": "Unapologetic",
+      "durationMs": 256320,
+      "ids": {
+        "appleMusic": "1443232515"
+      }
+    },
+    {
+      "title": "God Is A Dancer",
+      "artist": "Tiësto \u0026 Mabel",
+      "album": "EDM Bangers",
+      "durationMs": 168125,
+      "ids": {
+        "appleMusic": "1568030543"
+      }
+    },
+    {
+      "title": "Pour It Up",
+      "artist": "Rihanna",
+      "album": "Unapologetic",
+      "durationMs": 161200,
+      "ids": {
+        "appleMusic": "1443232449"
+      }
+    },
+    {
+      "title": "Rooting For You",
+      "artist": "Alessia Cara",
+      "album": "Body By Jake: New Year's Revolution 2023",
+      "durationMs": 176080,
+      "ids": {
+        "appleMusic": "1667713631"
+      }
+    },
+    {
+      "title": "Hard (feat. Jeezy)",
+      "artist": "Rihanna",
+      "album": "Rated R",
+      "durationMs": 250600,
+      "ids": {
+        "appleMusic": "1440885474"
+      }
+    },
+    {
+      "title": "Drama",
+      "artist": "Mae Muller, Ms Banks \u0026 Caitlyn Scarlett",
+      "album": "Drama - Single",
+      "durationMs": 191518,
+      "ids": {
+        "appleMusic": "1476776811"
+      }
+    },
+    {
+      "title": "Bitch Better Have My Money",
+      "artist": "Rihanna",
+      "album": "Bitch Better Have My Money - Single",
+      "durationMs": 219306,
+      "ids": {
+        "appleMusic": "1445136075"
+      }
+    },
+    {
+      "title": "How You Want It? (feat. King Combs)",
+      "artist": "Teyana Taylor",
+      "album": "Junie Jams - EP",
+      "durationMs": 222213,
+      "ids": {
+        "appleMusic": "1593251693"
+      }
+    },
+    {
+      "title": "You da One",
+      "artist": "Rihanna",
+      "album": "Talk That Talk",
+      "durationMs": 200013,
+      "ids": {
+        "appleMusic": "1443102651"
+      }
+    },
+    {
+      "title": "Silence",
+      "artist": "Leyla Blue",
+      "album": "Silence - Single",
+      "durationMs": 207380,
+      "ids": {
+        "appleMusic": "1547706284"
+      }
+    },
+    {
+      "title": "Shameless",
+      "artist": "Moko",
+      "album": "48",
+      "durationMs": 152885,
+      "ids": {
+        "appleMusic": "1691760951"
+      }
+    }
+  ]
+}

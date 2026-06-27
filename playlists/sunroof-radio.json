@@ -1,0 +1,446 @@
+{
+  "name": "Sunroof Radio",
+  "tracks": [
+    {
+      "title": "Sunroof",
+      "artist": "Nicky Youre \u0026 Dazy",
+      "album": "Good Times Go",
+      "durationMs": 163026,
+      "ids": {
+        "appleMusic": "1689433299"
+      }
+    },
+    {
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "album": "The Art of Loving",
+      "durationMs": 184000,
+      "ids": {
+        "appleMusic": "1817609509"
+      }
+    },
+    {
+      "title": "INDUSTRY BABY",
+      "artist": "Lil Nas X \u0026 Jack Harlow",
+      "album": "INDUSTRY BABY - Single",
+      "durationMs": 212000,
+      "ids": {
+        "appleMusic": "1577414972"
+      }
+    },
+    {
+      "title": "End of Beginning",
+      "artist": "Djo",
+      "album": "End of Beginning - Single",
+      "durationMs": 159246,
+      "ids": {
+        "appleMusic": "1740299854"
+      }
+    },
+    {
+      "title": "edamame (feat. Rich Brian)",
+      "artist": "bbno$",
+      "album": "edamame (feat. Rich Brian) - Single",
+      "durationMs": 133707,
+      "ids": {
+        "appleMusic": "1683374319"
+      }
+    },
+    {
+      "title": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "album": "Fine Line",
+      "durationMs": 173991,
+      "ids": {
+        "appleMusic": "1485802967"
+      }
+    },
+    {
+      "title": "First Class",
+      "artist": "Jack Harlow",
+      "album": "Come Home The Kids Miss You",
+      "durationMs": 173948,
+      "ids": {
+        "appleMusic": "1622624618"
+      }
+    },
+    {
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "album": "Dreamland",
+      "durationMs": 238805,
+      "ids": {
+        "appleMusic": "1508562516"
+      }
+    },
+    {
+      "title": "Kiss Me More (feat. SZA)",
+      "artist": "Doja Cat",
+      "album": "Planet Her (Deluxe)",
+      "durationMs": 208667,
+      "ids": {
+        "appleMusic": "1577637152"
+      }
+    },
+    {
+      "title": "Mona Lisa",
+      "artist": "Dominic Fike",
+      "album": "Sunburn",
+      "durationMs": 186067,
+      "ids": {
+        "appleMusic": "1694067438"
+      }
+    },
+    {
+      "title": "I Ain't Worried",
+      "artist": "OneRepublic",
+      "album": "Artificial Paradise (Deluxe)",
+      "durationMs": 148486,
+      "ids": {
+        "appleMusic": "1754637010"
+      }
+    },
+    {
+      "title": "Life Goes On",
+      "artist": "Oliver Tree",
+      "album": "Ugly is Beautiful: Shorter, Thicker \u0026 Uglier (Deluxe)",
+      "durationMs": 161803,
+      "ids": {
+        "appleMusic": "1569456896"
+      }
+    },
+    {
+      "title": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "album": "The Art of Loving",
+      "durationMs": 169000,
+      "ids": {
+        "appleMusic": "1817609507"
+      }
+    },
+    {
+      "title": "Circles",
+      "artist": "Post Malone",
+      "album": "Hollywood's Bleeding",
+      "durationMs": 215280,
+      "ids": {
+        "appleMusic": "1477887285"
+      }
+    },
+    {
+      "title": "AOK",
+      "artist": "Tai Verdes",
+      "album": "TV",
+      "durationMs": 173640,
+      "ids": {
+        "appleMusic": "1567699132"
+      }
+    },
+    {
+      "title": "About Damn Time",
+      "artist": "Lizzo",
+      "album": "About Damn Time - Single",
+      "durationMs": 191822,
+      "ids": {
+        "appleMusic": "1619135106"
+      }
+    },
+    {
+      "title": "Adore You",
+      "artist": "Harry Styles",
+      "album": "Fine Line",
+      "durationMs": 207140,
+      "ids": {
+        "appleMusic": "1485802970"
+      }
+    },
+    {
+      "title": "Mystical Magical",
+      "artist": "Benson Boone",
+      "album": "American Heart",
+      "durationMs": 165747,
+      "ids": {
+        "appleMusic": "1807490820"
+      }
+    },
+    {
+      "title": "Lil Boo Thang",
+      "artist": "Paul Russell",
+      "album": "Lil Boo Thang - Single",
+      "durationMs": 114234,
+      "ids": {
+        "appleMusic": "1702576701"
+      }
+    },
+    {
+      "title": "Say So (Friend Within Remix)",
+      "artist": "Doja Cat",
+      "album": "Hot Pink (Video Deluxe)",
+      "durationMs": 172800,
+      "ids": {
+        "appleMusic": "1560225114"
+      }
+    },
+    {
+      "title": "Up!",
+      "artist": "Forrest Frank \u0026 Connor Price",
+      "album": "Up! - Single",
+      "durationMs": 136968,
+      "ids": {
+        "appleMusic": "1732581784"
+      }
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "album": "Future Nostalgia (Bonus Edition)",
+      "durationMs": 203808,
+      "ids": {
+        "appleMusic": "1541803862"
+      }
+    },
+    {
+      "title": "3 Nights",
+      "artist": "Dominic Fike",
+      "album": "Don't Forget About Me, Demos",
+      "durationMs": 177667,
+      "ids": {
+        "appleMusic": "1494065957"
+      }
+    },
+    {
+      "title": "Feel It Still",
+      "artist": "Portugal. The Man",
+      "album": "Rockowy roadtrip",
+      "durationMs": 162093,
+      "ids": {
+        "appleMusic": "6784171985"
+      }
+    },
+    {
+      "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+      "artist": "Post Malone \u0026 Swae Lee",
+      "album": "Hollywood's Bleeding",
+      "durationMs": 157559,
+      "ids": {
+        "appleMusic": "1477880764"
+      }
+    },
+    {
+      "title": "last day on earth",
+      "artist": "Tai Verdes",
+      "album": "last day on earth - Single",
+      "durationMs": 172756,
+      "ids": {
+        "appleMusic": "1603294091"
+      }
+    },
+    {
+      "title": "sunburn",
+      "artist": "almost monday",
+      "album": "sunburn - Single",
+      "durationMs": 173218,
+      "ids": {
+        "appleMusic": "1616571235"
+      }
+    },
+    {
+      "title": "As It Was",
+      "artist": "Harry Styles",
+      "album": "Harry's House",
+      "durationMs": 167303,
+      "ids": {
+        "appleMusic": "1615585008"
+      }
+    },
+    {
+      "title": "MONTERO (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "album": "MONTERO (Call Me By Your Name) - Single",
+      "durationMs": 137876,
+      "ids": {
+        "appleMusic": "1559318719"
+      }
+    },
+    {
+      "title": "Mariposa",
+      "artist": "Peach Tree Rascals",
+      "album": "Mariposa - Single",
+      "durationMs": 210000,
+      "ids": {
+        "appleMusic": "1711618198"
+      }
+    },
+    {
+      "title": "good 4 u",
+      "artist": "Olivia Rodrigo",
+      "album": "SOUR",
+      "durationMs": 178148,
+      "ids": {
+        "appleMusic": "1560735856"
+      }
+    },
+    {
+      "title": "Honeypie",
+      "artist": "JAWNY",
+      "album": "Honeypie - Single",
+      "durationMs": 135521,
+      "ids": {
+        "appleMusic": "1491413356"
+      }
+    },
+    {
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "album": "Don't Start Now - Single",
+      "durationMs": 183290,
+      "ids": {
+        "appleMusic": "1484322135"
+      }
+    },
+    {
+      "title": "YOUR WAY'S BETTER",
+      "artist": "Forrest Frank",
+      "album": "YOUR WAY'S BETTER - Single",
+      "durationMs": 198082,
+      "ids": {
+        "appleMusic": "1775544094"
+      }
+    },
+    {
+      "title": "Taste",
+      "artist": "Sabrina Carpenter",
+      "album": "Short n' Sweet (Deluxe)",
+      "durationMs": 157280,
+      "ids": {
+        "appleMusic": "1795512308"
+      }
+    },
+    {
+      "title": "I Had Some Help (feat. Morgan Wallen)",
+      "artist": "Post Malone",
+      "album": "I Had Some Help (feat. Morgan Wallen) - Single",
+      "durationMs": 178206,
+      "ids": {
+        "appleMusic": "1744452425"
+      }
+    },
+    {
+      "title": "how deep?",
+      "artist": "Tai Verdes",
+      "album": "HDTV",
+      "durationMs": 154507,
+      "ids": {
+        "appleMusic": "1640571655"
+      }
+    },
+    {
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "album": "Unheard - EP",
+      "durationMs": 251424,
+      "ids": {
+        "appleMusic": "1733904814"
+      }
+    },
+    {
+      "title": "Late Night Talking",
+      "artist": "Harry Styles",
+      "album": "Harry's House",
+      "durationMs": 177955,
+      "ids": {
+        "appleMusic": "1615585006"
+      }
+    },
+    {
+      "title": "Notion",
+      "artist": "The Rare Occasions",
+      "album": "Summer Crushing",
+      "durationMs": 195121,
+      "ids": {
+        "appleMusic": "6784163160"
+      }
+    },
+    {
+      "title": "Shotgun",
+      "artist": "George Ezra",
+      "album": "Staying at Tamara's",
+      "durationMs": 201287,
+      "ids": {
+        "appleMusic": "1331589486"
+      }
+    },
+    {
+      "title": "For A Minute",
+      "artist": "WizTheMc",
+      "album": "For A Minute - Single",
+      "durationMs": 108984,
+      "ids": {
+        "appleMusic": "1711562019"
+      }
+    },
+    {
+      "title": "Sorry I'm Here for Someone Else",
+      "artist": "Benson Boone",
+      "album": "Rock music for the road",
+      "durationMs": 156582,
+      "ids": {
+        "appleMusic": "6784168614"
+      }
+    },
+    {
+      "title": "GOOD DAY",
+      "artist": "Forrest Frank",
+      "album": "GOOD DAY - Single",
+      "durationMs": 170522,
+      "ids": {
+        "appleMusic": "1729877847"
+      }
+    },
+    {
+      "title": "Break My Heart",
+      "artist": "Dua Lipa",
+      "album": "Future Nostalgia (Deluxe)",
+      "durationMs": 221820,
+      "ids": {
+        "appleMusic": "1537651833"
+      }
+    },
+    {
+      "title": "Chemical",
+      "artist": "Post Malone",
+      "album": "Chemical - Single",
+      "durationMs": 184005,
+      "ids": {
+        "appleMusic": "1681605996"
+      }
+    },
+    {
+      "title": "sheluvme",
+      "artist": "Tai Verdes",
+      "album": "sheluvme - Single",
+      "durationMs": 150840,
+      "ids": {
+        "appleMusic": "1629511379"
+      }
+    },
+    {
+      "title": "Stolen Dance",
+      "artist": "Milky Chance",
+      "album": "Stolen Dance - Single",
+      "durationMs": 313684,
+      "ids": {
+        "appleMusic": "1608587368"
+      }
+    },
+    {
+      "title": "Better Days",
+      "artist": "NEIKED, Mae Muller \u0026 Polo G",
+      "album": "Better Days - Single",
+      "durationMs": 160657,
+      "ids": {
+        "appleMusic": "1585274082"
+      }
+    }
+  ]
+}

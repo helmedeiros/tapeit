@@ -1,0 +1,1061 @@
+{
+  "name": "Foo Fighters",
+  "tracks": [
+    {
+      "title": "Bridge Burning",
+      "artist": "Foo Fighters",
+      "album": "Wasting Light",
+      "durationMs": 285825,
+      "ids": {
+        "appleMusic": "456564008"
+      }
+    },
+    {
+      "title": "Rope",
+      "artist": "Foo Fighters",
+      "album": "The Essential Foo Fighters",
+      "durationMs": 259603,
+      "ids": {
+        "appleMusic": "1650514021"
+      }
+    },
+    {
+      "title": "Dear Rosemary",
+      "artist": "Foo Fighters",
+      "album": "Wasting Light",
+      "durationMs": 265945,
+      "ids": {
+        "appleMusic": "456564016"
+      }
+    },
+    {
+      "title": "White Limo",
+      "artist": "Foo Fighters",
+      "album": "Wasting Light",
+      "durationMs": 202052,
+      "ids": {
+        "appleMusic": "456564017"
+      }
+    },
+    {
+      "title": "Arlandria",
+      "artist": "Foo Fighters",
+      "album": "Wasting Light",
+      "durationMs": 267445,
+      "ids": {
+        "appleMusic": "456564018"
+      }
+    },
+    {
+      "title": "These Days",
+      "artist": "Foo Fighters",
+      "album": "Wasting Light",
+      "durationMs": 297972,
+      "ids": {
+        "appleMusic": "456564019"
+      }
+    },
+    {
+      "title": "Back \u0026 Forth",
+      "artist": "Foo Fighters",
+      "album": "Wasting Light",
+      "durationMs": 231919,
+      "ids": {
+        "appleMusic": "456564020"
+      }
+    },
+    {
+      "title": "A Matter of Time",
+      "artist": "Foo Fighters",
+      "album": "Wasting Light",
+      "durationMs": 275437,
+      "ids": {
+        "appleMusic": "456564021"
+      }
+    },
+    {
+      "title": "Miss the Misery",
+      "artist": "Foo Fighters",
+      "album": "Wasting Light",
+      "durationMs": 273075,
+      "ids": {
+        "appleMusic": "456564022"
+      }
+    },
+    {
+      "title": "I Should Have Known",
+      "artist": "Foo Fighters",
+      "album": "Wasting Light",
+      "durationMs": 255115,
+      "ids": {
+        "appleMusic": "456564024"
+      }
+    },
+    {
+      "title": "Walk",
+      "artist": "Foo Fighters",
+      "album": "Heroic Hits",
+      "durationMs": 255960,
+      "ids": {
+        "appleMusic": "1463068372"
+      }
+    },
+    {
+      "title": "Better Off",
+      "artist": "Foo Fighters",
+      "album": "Wasting Light (Bonus Tracks) - Single",
+      "durationMs": 252427,
+      "ids": {
+        "appleMusic": "1227038189"
+      }
+    },
+    {
+      "title": "The Pretender",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience \u0026 Grace",
+      "durationMs": 269373
+    },
+    {
+      "title": "Let It Die",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience \u0026 Grace",
+      "durationMs": 244960
+    },
+    {
+      "title": "Erase/Replace",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience \u0026 Grace",
+      "durationMs": 252972,
+      "ids": {
+        "appleMusic": "262743432"
+      }
+    },
+    {
+      "title": "Long Road to Ruin",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience \u0026 Grace",
+      "durationMs": 224880
+    },
+    {
+      "title": "Come Alive",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience \u0026 Grace",
+      "durationMs": 310600
+    },
+    {
+      "title": "Stranger Things Have Happened",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience \u0026 Grace",
+      "durationMs": 321053
+    },
+    {
+      "title": "Cheer Up, Boys (Your Make Up Is Running)",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience \u0026 Grace",
+      "durationMs": 221173
+    },
+    {
+      "title": "Summer's End",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience \u0026 Grace",
+      "durationMs": 277973
+    },
+    {
+      "title": "Ballad of the Beaconsfield Miners",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience \u0026 Grace",
+      "durationMs": 152213
+    },
+    {
+      "title": "Statues",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience \u0026 Grace",
+      "durationMs": 227813
+    },
+    {
+      "title": "But, Honestly",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience \u0026 Grace",
+      "durationMs": 275707
+    },
+    {
+      "title": "Home",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience \u0026 Grace",
+      "durationMs": 292693
+    },
+    {
+      "title": "In Your Honor",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 229756,
+      "ids": {
+        "appleMusic": "300855108"
+      }
+    },
+    {
+      "title": "No Way Back",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 196335,
+      "ids": {
+        "appleMusic": "300855109"
+      }
+    },
+    {
+      "title": "Best of You",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 255261,
+      "ids": {
+        "appleMusic": "300855110"
+      }
+    },
+    {
+      "title": "DOA",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 251745,
+      "ids": {
+        "appleMusic": "300855111"
+      }
+    },
+    {
+      "title": "Hell",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 116846,
+      "ids": {
+        "appleMusic": "300855112"
+      }
+    },
+    {
+      "title": "The Last Song",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 201784,
+      "ids": {
+        "appleMusic": "300855113"
+      }
+    },
+    {
+      "title": "Free Me",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 278253,
+      "ids": {
+        "appleMusic": "300855114"
+      }
+    },
+    {
+      "title": "Resolve",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 288236,
+      "ids": {
+        "appleMusic": "300855115"
+      }
+    },
+    {
+      "title": "The Deepest Blues Are Black",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 237870,
+      "ids": {
+        "appleMusic": "300855116"
+      }
+    },
+    {
+      "title": "End Over End",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 351743,
+      "ids": {
+        "appleMusic": "300855117"
+      }
+    },
+    {
+      "title": "Still",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 312826,
+      "ids": {
+        "appleMusic": "300855118"
+      }
+    },
+    {
+      "title": "What If I Do?",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 302612,
+      "ids": {
+        "appleMusic": "300855119"
+      }
+    },
+    {
+      "title": "Miracle",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 209363,
+      "ids": {
+        "appleMusic": "300855120"
+      }
+    },
+    {
+      "title": "Another Round",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 274504,
+      "ids": {
+        "appleMusic": "300855121"
+      }
+    },
+    {
+      "title": "Friend of a Friend",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 193044,
+      "ids": {
+        "appleMusic": "300855122"
+      }
+    },
+    {
+      "title": "Over and Out",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 315790,
+      "ids": {
+        "appleMusic": "300855123"
+      }
+    },
+    {
+      "title": "On the Mend",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 271547,
+      "ids": {
+        "appleMusic": "300855124"
+      }
+    },
+    {
+      "title": "Virginia Moon",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 228950,
+      "ids": {
+        "appleMusic": "300855125"
+      }
+    },
+    {
+      "title": "Cold Day In the Sun",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 200304,
+      "ids": {
+        "appleMusic": "300855126"
+      }
+    },
+    {
+      "title": "Razor",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 292761,
+      "ids": {
+        "appleMusic": "300855127"
+      }
+    },
+    {
+      "title": "All My Life",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 263440,
+      "ids": {
+        "appleMusic": "538257185"
+      }
+    },
+    {
+      "title": "Low",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 268307,
+      "ids": {
+        "appleMusic": "538257186"
+      }
+    },
+    {
+      "title": "Have It All",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 298000,
+      "ids": {
+        "appleMusic": "538257187"
+      }
+    },
+    {
+      "title": "Times Like These",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 265560,
+      "ids": {
+        "appleMusic": "538257188"
+      }
+    },
+    {
+      "title": "Disenchanted Lullaby",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 273120,
+      "ids": {
+        "appleMusic": "538257309"
+      }
+    },
+    {
+      "title": "Tired of You",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 311280,
+      "ids": {
+        "appleMusic": "538257310"
+      }
+    },
+    {
+      "title": "Halo",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 306520,
+      "ids": {
+        "appleMusic": "538257311"
+      }
+    },
+    {
+      "title": "Lonely As You",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 277147,
+      "ids": {
+        "appleMusic": "538257312"
+      }
+    },
+    {
+      "title": "Overdrive",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 270187,
+      "ids": {
+        "appleMusic": "538257313"
+      }
+    },
+    {
+      "title": "Burn Away",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 297880,
+      "ids": {
+        "appleMusic": "538257314"
+      }
+    },
+    {
+      "title": "Come Back",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 467627,
+      "ids": {
+        "appleMusic": "538257315"
+      }
+    },
+    {
+      "title": "Walking a Line",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 235453,
+      "ids": {
+        "appleMusic": "538257316"
+      }
+    },
+    {
+      "title": "Sister Europe",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 310467,
+      "ids": {
+        "appleMusic": "538257317"
+      }
+    },
+    {
+      "title": "Danny Says",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 177800,
+      "ids": {
+        "appleMusic": "538257318"
+      }
+    },
+    {
+      "title": "Life of Illusion",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 219653,
+      "ids": {
+        "appleMusic": "538257319"
+      }
+    },
+    {
+      "title": "For All the Cows (Live In Amsterdam, 2000)",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 211707,
+      "ids": {
+        "appleMusic": "538257320"
+      }
+    },
+    {
+      "title": "Monkey Wrench (Live In Melbourne, 2000)",
+      "artist": "Foo Fighters",
+      "album": "One By One (Deluxe Edition)",
+      "durationMs": 242493,
+      "ids": {
+        "appleMusic": "538257321"
+      }
+    },
+    {
+      "title": "Next Year (Live at The Chapel, Melbourne, Australia, Feb 2000)",
+      "artist": "Foo Fighters",
+      "album": "00950025 (Live in London 1995 \u0026 Melbourne 2000) - EP",
+      "durationMs": 254280,
+      "ids": {
+        "appleMusic": "1470135055"
+      }
+    },
+    {
+      "title": "Stacked Actors",
+      "artist": "Foo Fighters",
+      "album": "There Is Nothing Left to Lose",
+      "durationMs": 256439,
+      "ids": {
+        "appleMusic": "278229649"
+      }
+    },
+    {
+      "title": "Breakout",
+      "artist": "Foo Fighters",
+      "album": "There Is Nothing Left to Lose",
+      "durationMs": 200800,
+      "ids": {
+        "appleMusic": "278229653"
+      }
+    },
+    {
+      "title": "Learn to Fly",
+      "artist": "Foo Fighters",
+      "album": "There Is Nothing Left to Lose",
+      "durationMs": 235293,
+      "ids": {
+        "appleMusic": "278229654"
+      }
+    },
+    {
+      "title": "Gimme Stitches",
+      "artist": "Foo Fighters",
+      "album": "There Is Nothing Left to Lose",
+      "durationMs": 222139,
+      "ids": {
+        "appleMusic": "278229655"
+      }
+    },
+    {
+      "title": "Generator",
+      "artist": "Foo Fighters",
+      "album": "There Is Nothing Left to Lose",
+      "durationMs": 227472,
+      "ids": {
+        "appleMusic": "278229656"
+      }
+    },
+    {
+      "title": "Aurora",
+      "artist": "Foo Fighters",
+      "album": "There Is Nothing Left to Lose",
+      "durationMs": 349667,
+      "ids": {
+        "appleMusic": "278229659"
+      }
+    },
+    {
+      "title": "Live-In Skin",
+      "artist": "Foo Fighters",
+      "album": "There Is Nothing Left to Lose",
+      "durationMs": 232683,
+      "ids": {
+        "appleMusic": "278229660"
+      }
+    },
+    {
+      "title": "Next Year",
+      "artist": "Foo Fighters",
+      "album": "Coffeehouse Classics, Vol. 1",
+      "durationMs": 276213,
+      "ids": {
+        "appleMusic": "1030789543"
+      }
+    },
+    {
+      "title": "Headwires",
+      "artist": "Foo Fighters",
+      "album": "There Is Nothing Left to Lose",
+      "durationMs": 277395,
+      "ids": {
+        "appleMusic": "278229662"
+      }
+    },
+    {
+      "title": "Ain't It the Life",
+      "artist": "Foo Fighters",
+      "album": "There Is Nothing Left to Lose",
+      "durationMs": 254684,
+      "ids": {
+        "appleMusic": "278229663"
+      }
+    },
+    {
+      "title": "M.I.A.",
+      "artist": "Foo Fighters",
+      "album": "There Is Nothing Left to Lose",
+      "durationMs": 243215,
+      "ids": {
+        "appleMusic": "278229664"
+      }
+    },
+    {
+      "title": "Doll",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 83730,
+      "ids": {
+        "appleMusic": "362133452"
+      }
+    },
+    {
+      "title": "Monkey Wrench",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 231480,
+      "ids": {
+        "appleMusic": "362133453"
+      }
+    },
+    {
+      "title": "Hey, Johnny Park!",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 248266,
+      "ids": {
+        "appleMusic": "362133466"
+      }
+    },
+    {
+      "title": "My Poor Brain",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 213496,
+      "ids": {
+        "appleMusic": "362133467"
+      }
+    },
+    {
+      "title": "Wind Up",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 150563,
+      "ids": {
+        "appleMusic": "362133482"
+      }
+    },
+    {
+      "title": "Up In Arms",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 135542,
+      "ids": {
+        "appleMusic": "362133485"
+      }
+    },
+    {
+      "title": "My Hero",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 260027,
+      "ids": {
+        "appleMusic": "362133488"
+      }
+    },
+    {
+      "title": "See You",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 146649,
+      "ids": {
+        "appleMusic": "362133489"
+      }
+    },
+    {
+      "title": "Enough Space",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 156270,
+      "ids": {
+        "appleMusic": "362133494"
+      }
+    },
+    {
+      "title": "February Stars",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 289280,
+      "ids": {
+        "appleMusic": "362133502"
+      }
+    },
+    {
+      "title": "Everlong",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 250547,
+      "ids": {
+        "appleMusic": "362133505"
+      }
+    },
+    {
+      "title": "Walking After You",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 303724,
+      "ids": {
+        "appleMusic": "362133508"
+      }
+    },
+    {
+      "title": "New Way Home",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 340181,
+      "ids": {
+        "appleMusic": "362133513"
+      }
+    },
+    {
+      "title": "This Is a Call",
+      "artist": "Foo Fighters",
+      "album": "Foo Fighters",
+      "durationMs": 233360,
+      "ids": {
+        "appleMusic": "258512044"
+      }
+    },
+    {
+      "title": "I'll Stick Around",
+      "artist": "Foo Fighters",
+      "album": "Foo Fighters",
+      "durationMs": 232533,
+      "ids": {
+        "appleMusic": "258512097"
+      }
+    },
+    {
+      "title": "Big Me",
+      "artist": "Foo Fighters",
+      "album": "Foo Fighters",
+      "durationMs": 132840,
+      "ids": {
+        "appleMusic": "258512160"
+      }
+    },
+    {
+      "title": "Alone + Easy Target",
+      "artist": "Foo Fighters",
+      "album": "Foo Fighters",
+      "durationMs": 245667,
+      "ids": {
+        "appleMusic": "258512171"
+      }
+    },
+    {
+      "title": "Good Grief",
+      "artist": "Foo Fighters",
+      "album": "Foo Fighters",
+      "durationMs": 241227,
+      "ids": {
+        "appleMusic": "258512182"
+      }
+    },
+    {
+      "title": "Floaty",
+      "artist": "Foo Fighters",
+      "album": "Foo Fighters",
+      "durationMs": 269267,
+      "ids": {
+        "appleMusic": "258512275"
+      }
+    },
+    {
+      "title": "Weenie Beenie",
+      "artist": "Foo Fighters",
+      "album": "Foo Fighters",
+      "durationMs": 165400,
+      "ids": {
+        "appleMusic": "258512297"
+      }
+    },
+    {
+      "title": "Oh, George",
+      "artist": "Foo Fighters",
+      "album": "Foo Fighters",
+      "durationMs": 181800,
+      "ids": {
+        "appleMusic": "258512318"
+      }
+    },
+    {
+      "title": "For All the Cows",
+      "artist": "Foo Fighters",
+      "album": "Foo Fighters",
+      "durationMs": 209240,
+      "ids": {
+        "appleMusic": "258512325"
+      }
+    },
+    {
+      "title": "X-Static",
+      "artist": "Foo Fighters",
+      "album": "Foo Fighters",
+      "durationMs": 253493,
+      "ids": {
+        "appleMusic": "258512345"
+      }
+    },
+    {
+      "title": "Wattershed",
+      "artist": "Foo Fighters",
+      "album": "Foo Fighters",
+      "durationMs": 133507,
+      "ids": {
+        "appleMusic": "258512403"
+      }
+    },
+    {
+      "title": "Exhausted",
+      "artist": "Foo Fighters",
+      "album": "Foo Fighters",
+      "durationMs": 349893,
+      "ids": {
+        "appleMusic": "258512454"
+      }
+    },
+    {
+      "title": "Wheels",
+      "artist": "Foo Fighters",
+      "album": "Greatest Hits",
+      "durationMs": 278213,
+      "ids": {
+        "appleMusic": "334812058"
+      }
+    },
+    {
+      "title": "Skin And Bones (Live at the Pantages Theatre, Los Angeles, CA - August 2006)",
+      "artist": "Foo Fighters",
+      "album": "Greatest Hits",
+      "durationMs": 242373,
+      "ids": {
+        "appleMusic": "334812056"
+      }
+    },
+    {
+      "title": "Word Forward",
+      "artist": "Foo Fighters",
+      "album": "Greatest Hits",
+      "durationMs": 226640,
+      "ids": {
+        "appleMusic": "334812064"
+      }
+    },
+    {
+      "title": "Everlong (Acoustic Version)",
+      "artist": "Foo Fighters",
+      "album": "Greatest Hits",
+      "durationMs": 250907,
+      "ids": {
+        "appleMusic": "334812065"
+      }
+    },
+    {
+      "title": "Something from Nothing",
+      "artist": "Foo Fighters",
+      "album": "Sonic Highways",
+      "durationMs": 288460,
+      "ids": {
+        "appleMusic": "910701344"
+      }
+    },
+    {
+      "title": "The Feast and the Famine",
+      "artist": "Foo Fighters",
+      "album": "Sonic Highways",
+      "durationMs": 229566,
+      "ids": {
+        "appleMusic": "910701350"
+      }
+    },
+    {
+      "title": "Congregation",
+      "artist": "Foo Fighters",
+      "album": "Sonic Highways",
+      "durationMs": 311894,
+      "ids": {
+        "appleMusic": "910701352"
+      }
+    },
+    {
+      "title": "What Did I Do?/God As My Witness",
+      "artist": "Foo Fighters",
+      "album": "Sonic Highways",
+      "durationMs": 343665,
+      "ids": {
+        "appleMusic": "910701353"
+      }
+    },
+    {
+      "title": "Outside",
+      "artist": "Foo Fighters",
+      "album": "Sonic Highways",
+      "durationMs": 314569,
+      "ids": {
+        "appleMusic": "910701354"
+      }
+    },
+    {
+      "title": "In the Clear",
+      "artist": "Foo Fighters",
+      "album": "Sonic Highways",
+      "durationMs": 243843,
+      "ids": {
+        "appleMusic": "910701355"
+      }
+    },
+    {
+      "title": "Subterranean",
+      "artist": "Foo Fighters",
+      "album": "Sonic Highways",
+      "durationMs": 367506,
+      "ids": {
+        "appleMusic": "910701356"
+      }
+    },
+    {
+      "title": "I Am a River",
+      "artist": "Foo Fighters",
+      "album": "Sonic Highways",
+      "durationMs": 428504,
+      "ids": {
+        "appleMusic": "910701383"
+      }
+    },
+    {
+      "title": "T-Shirt",
+      "artist": "Foo Fighters",
+      "album": "Concrete and Gold",
+      "durationMs": 82627,
+      "ids": {
+        "appleMusic": "1249068903"
+      }
+    },
+    {
+      "title": "Run",
+      "artist": "Foo Fighters",
+      "album": "Concrete and Gold",
+      "durationMs": 323373,
+      "ids": {
+        "appleMusic": "1249068904"
+      }
+    },
+    {
+      "title": "Make It Right",
+      "artist": "Foo Fighters",
+      "album": "Concrete and Gold",
+      "durationMs": 279256,
+      "ids": {
+        "appleMusic": "1249068905"
+      }
+    },
+    {
+      "title": "The Sky Is a Neighborhood",
+      "artist": "Foo Fighters",
+      "album": "Concrete and Gold",
+      "durationMs": 244570,
+      "ids": {
+        "appleMusic": "1249068906"
+      }
+    },
+    {
+      "title": "La Dee Da",
+      "artist": "Foo Fighters",
+      "album": "Concrete and Gold",
+      "durationMs": 242760,
+      "ids": {
+        "appleMusic": "1249068907"
+      }
+    },
+    {
+      "title": "Dirty Water",
+      "artist": "Foo Fighters",
+      "album": "Concrete and Gold",
+      "durationMs": 320880,
+      "ids": {
+        "appleMusic": "1249068908"
+      }
+    },
+    {
+      "title": "Arrows",
+      "artist": "Foo Fighters",
+      "album": "Concrete and Gold",
+      "durationMs": 266187,
+      "ids": {
+        "appleMusic": "1249068909"
+      }
+    },
+    {
+      "title": "Happy Ever After (Zero Hour)",
+      "artist": "Foo Fighters",
+      "album": "Concrete and Gold",
+      "durationMs": 220973,
+      "ids": {
+        "appleMusic": "1249068910"
+      }
+    },
+    {
+      "title": "Sunday Rain",
+      "artist": "Foo Fighters",
+      "album": "Concrete and Gold",
+      "durationMs": 371453,
+      "ids": {
+        "appleMusic": "1249069031"
+      }
+    },
+    {
+      "title": "The Line",
+      "artist": "Foo Fighters",
+      "album": "Concrete and Gold",
+      "durationMs": 218240,
+      "ids": {
+        "appleMusic": "1249069032"
+      }
+    },
+    {
+      "title": "Concrete and Gold",
+      "artist": "Foo Fighters",
+      "album": "Concrete and Gold",
+      "durationMs": 331613,
+      "ids": {
+        "appleMusic": "1249069033"
+      }
+    }
+  ]
+}

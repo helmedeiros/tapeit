@@ -1,0 +1,698 @@
+{
+  "name": "French Jazz Café",
+  "tracks": [
+    {
+      "title": "La vénus du mélo",
+      "artist": "Stacey Kent",
+      "album": "Raconte-moi. . . (Édition spéciale)",
+      "durationMs": 227427,
+      "ids": {
+        "appleMusic": "709267082"
+      }
+    },
+    {
+      "title": "Jardin d'hiver",
+      "artist": "Keren Ann",
+      "album": "Not Going Anywhere",
+      "durationMs": 178160,
+      "ids": {
+        "appleMusic": "1240302528"
+      }
+    },
+    {
+      "title": "Petite Fleur",
+      "artist": "Jill Barber",
+      "album": "Chansons",
+      "durationMs": 163187,
+      "ids": {
+        "appleMusic": "985833822"
+      }
+    },
+    {
+      "title": "Ces petits riens",
+      "artist": "Stacey Kent",
+      "album": "Breakfast on the Morning Tram (Bonus Edition)",
+      "durationMs": 201080,
+      "ids": {
+        "appleMusic": "1532375622"
+      }
+    },
+    {
+      "title": "Puttin' On the Ritz",
+      "artist": "Gypsy Swing Revue",
+      "album": "Puttin' On the Ritz",
+      "durationMs": 238093,
+      "ids": {
+        "appleMusic": "268672534"
+      }
+    },
+    {
+      "title": "Le Festin",
+      "artist": "Camille \u0026 Michael Giacchino",
+      "album": "Ratatouille (Score from the Motion Picture)",
+      "durationMs": 170787,
+      "ids": {
+        "appleMusic": "1443314673"
+      }
+    },
+    {
+      "title": "Un jour de différence (feat. Jordan Officer)",
+      "artist": "Susie Arioli",
+      "album": "All the Way (feat. Jordan Officer)",
+      "durationMs": 203160,
+      "ids": {
+        "appleMusic": "1751289067"
+      }
+    },
+    {
+      "title": "Le Poisson Des Mers Du Sud",
+      "artist": "Isabelle Antena",
+      "album": "Hoping for Love",
+      "durationMs": 252995,
+      "ids": {
+        "appleMusic": "348374895"
+      }
+    },
+    {
+      "title": "Hang On Little Tomato",
+      "artist": "Pink Martini",
+      "album": "Hang On Little Tomato",
+      "durationMs": 196893,
+      "ids": {
+        "appleMusic": "307161407"
+      }
+    },
+    {
+      "title": "Les eaux de Mars",
+      "artist": "Stacey Kent",
+      "album": "Raconte-moi. . . (Édition spéciale)",
+      "durationMs": 218240,
+      "ids": {
+        "appleMusic": "709267073"
+      }
+    },
+    {
+      "title": "April In Paris",
+      "artist": "Billie Holiday",
+      "album": "All Or Nothing At All",
+      "durationMs": 185241,
+      "ids": {
+        "appleMusic": "1863145578"
+      }
+    },
+    {
+      "title": "L'ombre et la lumière",
+      "artist": "Coralie Clément",
+      "album": "Salle des pas perdus",
+      "durationMs": 248373,
+      "ids": {
+        "appleMusic": "925658852"
+      }
+    },
+    {
+      "title": "Samba Saravah",
+      "artist": "Stacey Kent",
+      "album": "Blue Note Plays Bossa Nova",
+      "durationMs": 228867,
+      "ids": {
+        "appleMusic": "716686036"
+      }
+    },
+    {
+      "title": "Just Like Heaven",
+      "artist": "Kat Edmonson",
+      "album": "Take to the Sky",
+      "durationMs": 252200,
+      "ids": {
+        "appleMusic": "391236294"
+      }
+    },
+    {
+      "title": "Bistro Fada",
+      "artist": "Stephane Wrembel",
+      "album": "Bistro Fada - Single",
+      "durationMs": 182933,
+      "ids": {
+        "appleMusic": "486920823"
+      }
+    },
+    {
+      "title": "Come on Eileen",
+      "artist": "Nouvelle Vague",
+      "album": "Late Night Tales (Sampler)",
+      "durationMs": 201520,
+      "ids": {
+        "appleMusic": "1101168017"
+      }
+    },
+    {
+      "title": "Samba de mon cœur qui bat",
+      "artist": "Coralie Clément",
+      "album": "Salle des pas perdus",
+      "durationMs": 233960,
+      "ids": {
+        "appleMusic": "925662008"
+      }
+    },
+    {
+      "title": "Fibre De Verre",
+      "artist": "Paris Combo",
+      "album": "French Jazz Café",
+      "durationMs": 220933,
+      "ids": {
+        "appleMusic": "6764132867"
+      }
+    },
+    {
+      "title": "I Love Paris",
+      "artist": "Gypsy Jazz Caravan",
+      "album": "Gypsy Jazz Caravan III",
+      "durationMs": 215413,
+      "ids": {
+        "appleMusic": "626187950"
+      }
+    },
+    {
+      "title": "Deja (Cheek to Cheek)",
+      "artist": "Daniel Roure",
+      "album": "Le Temps D'un Jazz",
+      "durationMs": 299947,
+      "ids": {
+        "appleMusic": "287872568"
+      }
+    },
+    {
+      "title": "Les yeux ouverts (dream a little dream of me)",
+      "artist": "Emilie-Claire Barlow",
+      "album": "The Very Thought of You",
+      "durationMs": 286423,
+      "ids": {
+        "appleMusic": "1228316589"
+      }
+    },
+    {
+      "title": "Paris sera toujours Paris",
+      "artist": "ZAZ",
+      "album": "Paris",
+      "durationMs": 178516,
+      "ids": {
+        "appleMusic": "999344039"
+      }
+    },
+    {
+      "title": "Je M'ennuie",
+      "artist": "Rose",
+      "album": "Rose",
+      "durationMs": 272733,
+      "ids": {
+        "appleMusic": "693153000"
+      }
+    },
+    {
+      "title": "Les Champs - Elysees",
+      "artist": "Chantal Chamberland",
+      "album": "Chantal No 5",
+      "durationMs": 166627,
+      "ids": {
+        "appleMusic": "511369323"
+      }
+    },
+    {
+      "title": "Juste quelqu'un de bien",
+      "artist": "Enzo Enzo",
+      "album": "Deux",
+      "durationMs": 247333,
+      "ids": {
+        "appleMusic": "1881698851"
+      }
+    },
+    {
+      "title": "Mon fantôme",
+      "artist": "Baptiste Trotignon \u0026 Melody Gardot",
+      "album": "Song, Song, Song",
+      "durationMs": 261093,
+      "ids": {
+        "appleMusic": "553830159"
+      }
+    },
+    {
+      "title": "Assedic",
+      "artist": "Les Escrocs",
+      "album": "Faites vous des amis",
+      "durationMs": 265427,
+      "ids": {
+        "appleMusic": "300434567"
+      }
+    },
+    {
+      "title": "La mer",
+      "artist": "Chantal Chamberland",
+      "album": "Swing for Private",
+      "durationMs": 230547,
+      "ids": {
+        "appleMusic": "964475726"
+      }
+    },
+    {
+      "title": "J'ai Vu",
+      "artist": "Daniel Roure",
+      "album": "Le Temps D'un Jazz",
+      "durationMs": 332493,
+      "ids": {
+        "appleMusic": "287871751"
+      }
+    },
+    {
+      "title": "C'est Magnifique",
+      "artist": "Patricia Barber",
+      "album": "The Cole Porter Mix",
+      "durationMs": 217307,
+      "ids": {
+        "appleMusic": "716279207"
+      }
+    },
+    {
+      "title": "Les pages",
+      "artist": "Myrtille",
+      "album": "Murmures",
+      "durationMs": 157173,
+      "ids": {
+        "appleMusic": "1443919586"
+      }
+    },
+    {
+      "title": "Que reste-t-il de nos amours",
+      "artist": "Cyntia M.",
+      "album": "Bistro Blue",
+      "durationMs": 211440,
+      "ids": {
+        "appleMusic": "201763404"
+      }
+    },
+    {
+      "title": "I Wish You Love",
+      "artist": "Chantal Chamberland",
+      "album": "The Other Woman",
+      "durationMs": 171667,
+      "ids": {
+        "appleMusic": "284324294"
+      }
+    },
+    {
+      "title": "Menilmontant",
+      "artist": "Zazou",
+      "album": "Merle Noir",
+      "durationMs": 289413,
+      "ids": {
+        "appleMusic": "271201937"
+      }
+    },
+    {
+      "title": "Tous les garçons et les filles (feat. Sophie Wegener)",
+      "artist": "Zona Sul",
+      "album": "Beira (feat. Sophie Wegener)",
+      "durationMs": 260813,
+      "ids": {
+        "appleMusic": "1133463888"
+      }
+    },
+    {
+      "title": "Do It Again",
+      "artist": "Delicatessen",
+      "album": "Jazz + Bossa",
+      "durationMs": 161107,
+      "ids": {
+        "appleMusic": "258895440"
+      }
+    },
+    {
+      "title": "Une Belle Histoire",
+      "artist": "Eva sur Seine",
+      "album": "Eva Sur Seine - EP",
+      "durationMs": 309947,
+      "ids": {
+        "appleMusic": "879122342"
+      }
+    },
+    {
+      "title": "Comment Te Dire Adieu",
+      "artist": "String Swing",
+      "album": "Waiting For The Good Times",
+      "durationMs": 196560,
+      "ids": {
+        "appleMusic": "307315622"
+      }
+    },
+    {
+      "title": "Poisson rouge",
+      "artist": "Saint Privat",
+      "album": "Superflu",
+      "durationMs": 151755,
+      "ids": {
+        "appleMusic": "1649209883"
+      }
+    },
+    {
+      "title": "Désuets",
+      "artist": "Stacey Kent",
+      "album": "Raconte-moi. . . (Édition spéciale)",
+      "durationMs": 189947,
+      "ids": {
+        "appleMusic": "709267132"
+      }
+    },
+    {
+      "title": "High Low In",
+      "artist": "Paris Combo",
+      "album": "爵美女聲 Jazz Diva",
+      "durationMs": 210560,
+      "ids": {
+        "appleMusic": "1621391465"
+      }
+    },
+    {
+      "title": "Don't Think Twice, It's Alright",
+      "artist": "Emilie-Claire Barlow",
+      "album": "The Beat Goes On",
+      "durationMs": 280529,
+      "ids": {
+        "appleMusic": "1228317841"
+      }
+    },
+    {
+      "title": "Paris",
+      "artist": "Márcio Faraco",
+      "album": "Cajueiro",
+      "durationMs": 201808,
+      "ids": {
+        "appleMusic": "899567823"
+      }
+    },
+    {
+      "title": "Instead",
+      "artist": "Madeleine Peyroux",
+      "album": "Nuevas Divas del Jazz",
+      "durationMs": 311040,
+      "ids": {
+        "appleMusic": "1443348113"
+      }
+    },
+    {
+      "title": "La contradiction",
+      "artist": "Coralie Clément",
+      "album": "Salle des pas perdus",
+      "durationMs": 174613,
+      "ids": {
+        "appleMusic": "925662005"
+      }
+    },
+    {
+      "title": "Aime-moi",
+      "artist": "Henri Salvador",
+      "album": "Chambre Avec Vue",
+      "durationMs": 234067,
+      "ids": {
+        "appleMusic": "697417910"
+      }
+    },
+    {
+      "title": "Où est ma tête ?",
+      "artist": "Pink Martini \u0026 China Forbes",
+      "album": "Non ouais !",
+      "durationMs": 252653,
+      "ids": {
+        "appleMusic": "1692997418"
+      }
+    },
+    {
+      "title": "The Way You Look Tonight",
+      "artist": "Madeleine Peyroux \u0026 William Galison",
+      "album": "Got You on My Mind",
+      "durationMs": 182509,
+      "ids": {
+        "appleMusic": "1607874347"
+      }
+    },
+    {
+      "title": "C'est le printemps",
+      "artist": "Stacey Kent",
+      "album": "Raconte-moi. . . (Édition spéciale)",
+      "durationMs": 268627,
+      "ids": {
+        "appleMusic": "709267097"
+      }
+    },
+    {
+      "title": "Où Veux-Tu Aller?",
+      "artist": "Fredrika Stahl",
+      "album": "A Fraction of You",
+      "durationMs": 211160,
+      "ids": {
+        "appleMusic": "164166102"
+      }
+    },
+    {
+      "title": "La belle dame sans regret (2012)",
+      "artist": "Emilie-Claire Barlow",
+      "album": "Seule ce soir",
+      "durationMs": 360207,
+      "ids": {
+        "appleMusic": "1228318190"
+      }
+    },
+    {
+      "title": "Chez moi",
+      "artist": "Emilie-Claire Barlow",
+      "album": "Haven't We Met?",
+      "durationMs": 173437,
+      "ids": {
+        "appleMusic": "1228318218"
+      }
+    },
+    {
+      "title": "Les Jeux Sont Faits",
+      "artist": "Fredrika Stahl",
+      "album": "A Fraction of You",
+      "durationMs": 217960,
+      "ids": {
+        "appleMusic": "164166254"
+      }
+    },
+    {
+      "title": "Seule ce soir",
+      "artist": "Emilie-Claire Barlow",
+      "album": "Seule ce soir",
+      "durationMs": 365820,
+      "ids": {
+        "appleMusic": "1228318204"
+      }
+    },
+    {
+      "title": "Le Soir",
+      "artist": "Biréli Lagrène",
+      "album": "Gipsy Trio",
+      "durationMs": 250147,
+      "ids": {
+        "appleMusic": "1434425523"
+      }
+    },
+    {
+      "title": "Le chien d'avant garde",
+      "artist": "Keren Ann",
+      "album": "La disparition",
+      "durationMs": 238893,
+      "ids": {
+        "appleMusic": "1240257383"
+      }
+    },
+    {
+      "title": "C'est Si Bon",
+      "artist": "Eartha Kitt",
+      "album": "That Bad Eartha",
+      "durationMs": 179907,
+      "ids": {
+        "appleMusic": "313627030"
+      }
+    },
+    {
+      "title": "Merle Noir",
+      "artist": "Zazou",
+      "album": "Merle Noir",
+      "durationMs": 213960,
+      "ids": {
+        "appleMusic": "271201947"
+      }
+    },
+    {
+      "title": "Faire des ronds dans l'eau",
+      "artist": "Henri Salvador",
+      "album": "Chambre Avec Vue",
+      "durationMs": 168800,
+      "ids": {
+        "appleMusic": "697417808"
+      }
+    },
+    {
+      "title": "Lettre A P",
+      "artist": "Paris Combo",
+      "album": "French Jazz Café",
+      "durationMs": 222667,
+      "ids": {
+        "appleMusic": "6764133914"
+      }
+    },
+    {
+      "title": "Le fou de la reine",
+      "artist": "Françoise Hardy \u0026 Henri Salvador",
+      "album": "Chambre Avec Vue",
+      "durationMs": 190467,
+      "ids": {
+        "appleMusic": "697417765"
+      }
+    },
+    {
+      "title": "Aquarium",
+      "artist": "Paris Combo",
+      "album": "Motifs",
+      "durationMs": 271213,
+      "ids": {
+        "appleMusic": "1443357645"
+      }
+    },
+    {
+      "title": "La Rua Madureira",
+      "artist": "Pauline Croze",
+      "album": "Bossa Nova",
+      "durationMs": 197880,
+      "ids": {
+        "appleMusic": "1456098198"
+      }
+    },
+    {
+      "title": "Le Temps Qui Passe",
+      "artist": "Laura Fygi",
+      "album": "VIVE DURMIENDO",
+      "durationMs": 217880,
+      "ids": {
+        "appleMusic": "1743325125"
+      }
+    },
+    {
+      "title": "L'ongle",
+      "artist": "Presque Oui",
+      "album": "Sauvez les meubles",
+      "durationMs": 182280,
+      "ids": {
+        "appleMusic": "273305195"
+      }
+    },
+    {
+      "title": "Sous le ciel de Paris",
+      "artist": "Jill Barber",
+      "album": "Chansons",
+      "durationMs": 200173,
+      "ids": {
+        "appleMusic": "985833826"
+      }
+    },
+    {
+      "title": "Cette Nuit là",
+      "artist": "Les Chauds Lapins",
+      "album": "Amourettes",
+      "durationMs": 150973,
+      "ids": {
+        "appleMusic": "424787608"
+      }
+    },
+    {
+      "title": "La fée Clochette",
+      "artist": "Polo",
+      "album": "Bienvenue dans l'univers",
+      "durationMs": 185400,
+      "ids": {
+        "appleMusic": "1787875495"
+      }
+    },
+    {
+      "title": "Pour te plaire",
+      "artist": "Laura Fygi",
+      "album": "Rendez-vous",
+      "durationMs": 270187,
+      "ids": {
+        "appleMusic": "1444017807"
+      }
+    },
+    {
+      "title": "Dance Me to the End of Love",
+      "artist": "Madeleine Peyroux",
+      "album": "Careless Love",
+      "durationMs": 235640,
+      "ids": {
+        "appleMusic": "1440717029"
+      }
+    },
+    {
+      "title": "Nuages",
+      "artist": "Laura Fygi",
+      "album": "Rendez-vous",
+      "durationMs": 211400,
+      "ids": {
+        "appleMusic": "1444017810"
+      }
+    },
+    {
+      "title": "L'étang",
+      "artist": "Stacey Kent",
+      "album": "Raconte-moi. . . (Édition spéciale)",
+      "durationMs": 264320,
+      "ids": {
+        "appleMusic": "709267079"
+      }
+    },
+    {
+      "title": "La Valse Des Niglos",
+      "artist": "Zazou",
+      "album": "Merle Noir",
+      "durationMs": 191293,
+      "ids": {
+        "appleMusic": "271201941"
+      }
+    },
+    {
+      "title": "Quelqu'un m'aimera",
+      "artist": "Laura Fygi",
+      "album": "Rendez-vous",
+      "durationMs": 104547,
+      "ids": {
+        "appleMusic": "1444017818"
+      }
+    },
+    {
+      "title": "On N'a Pas Besoin",
+      "artist": "Paris Combo",
+      "album": "French Jazz Café",
+      "durationMs": 247667,
+      "ids": {
+        "appleMusic": "6764133908"
+      }
+    },
+    {
+      "title": "Des croissants de soleil",
+      "artist": "Emilie-Claire Barlow",
+      "album": "Seule ce soir",
+      "durationMs": 238573,
+      "ids": {
+        "appleMusic": "1228317928"
+      }
+    },
+    {
+      "title": "Mi Amor",
+      "artist": "Stacey Kent",
+      "album": "Raconte-moi. . . (Édition spéciale)",
+      "durationMs": 238587,
+      "ids": {
+        "appleMusic": "709267122"
+      }
+    }
+  ]
+}

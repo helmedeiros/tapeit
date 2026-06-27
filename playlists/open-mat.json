@@ -1,0 +1,1439 @@
+{
+  "name": "Open Mat",
+  "tracks": [
+    {
+      "title": "Lugar Ao Sol",
+      "artist": "Charlie Brown Jr.",
+      "album": "Festa na praia",
+      "durationMs": 212600,
+      "ids": {
+        "appleMusic": "1795047311"
+      }
+    },
+    {
+      "title": "Nada Demais",
+      "artist": "Filhos do Totem",
+      "album": "O Que Me Faz Viver",
+      "durationMs": 149552,
+      "ids": {
+        "appleMusic": "1012655882"
+      }
+    },
+    {
+      "title": "21, 22 ,23",
+      "artist": "AnnenMayKantereit",
+      "album": "Alles nix konkretes",
+      "durationMs": 169289,
+      "ids": {
+        "appleMusic": "1440842649"
+      }
+    },
+    {
+      "title": "Mulher de fases",
+      "artist": "Raimundos",
+      "album": "Tardes de plática",
+      "durationMs": 213333,
+      "ids": {
+        "appleMusic": "1763045980"
+      }
+    },
+    {
+      "title": "Learn to Fly",
+      "artist": "Foo Fighters",
+      "album": "There Is Nothing Left to Lose",
+      "durationMs": 235293,
+      "ids": {
+        "appleMusic": "278229654"
+      }
+    },
+    {
+      "title": "Refuse / Resist",
+      "artist": "Sepultura",
+      "album": "Rock",
+      "durationMs": 199227,
+      "ids": {
+        "appleMusic": "1415820740"
+      }
+    },
+    {
+      "title": "Man in the Box",
+      "artist": "Alice In Chains",
+      "album": "Facelift",
+      "durationMs": 285200,
+      "ids": {
+        "appleMusic": "274953022"
+      }
+    },
+    {
+      "title": "Enter Sandman",
+      "artist": "Metallica",
+      "album": "Metallica (Deluxe Box Set)",
+      "durationMs": 331560,
+      "ids": {
+        "appleMusic": "1571983951"
+      }
+    },
+    {
+      "title": "State of Love and Trust",
+      "artist": "Pearl Jam",
+      "album": "rearviewmirror (greatest hits 1991-2003)",
+      "durationMs": 223800,
+      "ids": {
+        "appleMusic": "1826659403"
+      }
+    },
+    {
+      "title": "Killing In The Name",
+      "artist": "Rage Against the Machine",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "durationMs": 313573,
+      "ids": {
+        "appleMusic": "578028952"
+      }
+    },
+    {
+      "title": "Everlong",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 250547,
+      "ids": {
+        "appleMusic": "362133505"
+      }
+    },
+    {
+      "title": "Bulls On Parade",
+      "artist": "Rage Against the Machine",
+      "album": "Rock Clássico",
+      "durationMs": 229467,
+      "ids": {
+        "appleMusic": "1778714255"
+      }
+    },
+    {
+      "title": "In Bloom",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 255080,
+      "ids": {
+        "appleMusic": "1440823700"
+      }
+    },
+    {
+      "title": "My Hero",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "durationMs": 260027,
+      "ids": {
+        "appleMusic": "362133488"
+      }
+    },
+    {
+      "title": "Roots Bloody Roots",
+      "artist": "Sepultura",
+      "album": "Metal Rewind",
+      "durationMs": 212253,
+      "ids": {
+        "appleMusic": "1707207284"
+      }
+    },
+    {
+      "title": "Epic",
+      "artist": "Faith No More",
+      "album": "Finals Footy 2024",
+      "durationMs": 293653,
+      "ids": {
+        "appleMusic": "1763848596"
+      }
+    },
+    {
+      "title": "Best of You",
+      "artist": "Foo Fighters",
+      "album": "In Your Honor",
+      "durationMs": 255261,
+      "ids": {
+        "appleMusic": "300855110"
+      }
+    },
+    {
+      "title": "Puteiro em João Pessoa",
+      "artist": "Raimundos",
+      "album": "Cantigas de Garagem",
+      "durationMs": 189733,
+      "ids": {
+        "appleMusic": "937480678"
+      }
+    },
+    {
+      "title": "Guerrilla Radio",
+      "artist": "Rage Against the Machine",
+      "album": "The 90s: Decade of Classics",
+      "durationMs": 206200,
+      "ids": {
+        "appleMusic": "1691420358"
+      }
+    },
+    {
+      "title": "Self Esteem",
+      "artist": "The Offspring",
+      "album": "Smash",
+      "durationMs": 257827,
+      "ids": {
+        "appleMusic": "1485034811"
+      }
+    },
+    {
+      "title": "When I Come Around",
+      "artist": "Green Day",
+      "album": "Skater Hits",
+      "durationMs": 178000,
+      "ids": {
+        "appleMusic": "1718062615"
+      }
+    },
+    {
+      "title": "Ace of Spades",
+      "artist": "Motörhead",
+      "album": "Ace of Spades",
+      "durationMs": 166707,
+      "ids": {
+        "appleMusic": "1614256829"
+      }
+    },
+    {
+      "title": "Sabotage",
+      "artist": "Beastie Boys",
+      "album": "Ill Communication",
+      "durationMs": 178440,
+      "ids": {
+        "appleMusic": "724771987"
+      }
+    },
+    {
+      "title": "Paranoid (2012 - Remaster)",
+      "artist": "Black Sabbath",
+      "album": "Paranoid",
+      "durationMs": 166693,
+      "ids": {
+        "appleMusic": "1533659669"
+      }
+    },
+    {
+      "title": "Back In Black",
+      "artist": "AC/DC",
+      "album": "Back In Black",
+      "durationMs": 256000
+    },
+    {
+      "title": "Iron Man (2012 - Remaster)",
+      "artist": "Black Sabbath",
+      "album": "Paranoid",
+      "durationMs": 353613,
+      "ids": {
+        "appleMusic": "1533659672"
+      }
+    },
+    {
+      "title": "Welcome to Paradise",
+      "artist": "Green Day",
+      "album": "20 Songs Rock Workout",
+      "durationMs": 224133,
+      "ids": {
+        "appleMusic": "1792390779"
+      }
+    },
+    {
+      "title": "The Trooper (1998 Remaster)",
+      "artist": "Iron Maiden",
+      "album": "Ed Hunter",
+      "durationMs": 250680,
+      "ids": {
+        "appleMusic": "696312931"
+      }
+    },
+    {
+      "title": "Tomorrow (Remastered)",
+      "artist": "Silverchair",
+      "album": "Frogstomp 20th Anniversary (Remastered)",
+      "durationMs": 266280,
+      "ids": {
+        "appleMusic": "977670084"
+      }
+    },
+    {
+      "title": "In the End",
+      "artist": "LINKIN PARK",
+      "album": "Hits 2000",
+      "durationMs": 216800,
+      "ids": {
+        "appleMusic": "1651227811"
+      }
+    },
+    {
+      "title": "Ratamahatta",
+      "artist": "Sepultura",
+      "album": "Metal Blasts: Drums Rule",
+      "durationMs": 270640,
+      "ids": {
+        "appleMusic": "1476531871"
+      }
+    },
+    {
+      "title": "Thunderstruck",
+      "artist": "AC/DC",
+      "album": "The Razors Edge",
+      "durationMs": 292334,
+      "ids": {
+        "appleMusic": "574051407"
+      }
+    },
+    {
+      "title": "Breaking the Law",
+      "artist": "Judas Priest",
+      "album": "British Steel (Bonus Track Version)",
+      "durationMs": 153840,
+      "ids": {
+        "appleMusic": "207346225"
+      }
+    },
+    {
+      "title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "album": "70s HITS - 100 Greatest Songs of the 1970s",
+      "durationMs": 146250,
+      "ids": {
+        "appleMusic": "1714782624"
+      }
+    },
+    {
+      "title": "Overkill",
+      "artist": "Motörhead",
+      "album": "No Remorse (Bonus Track Edition)",
+      "durationMs": 313520,
+      "ids": {
+        "appleMusic": "1439703751"
+      }
+    },
+    {
+      "title": "Like a Stone",
+      "artist": "Audioslave",
+      "album": "Rock Clássico",
+      "durationMs": 293960,
+      "ids": {
+        "appleMusic": "1778713854"
+      }
+    },
+    {
+      "title": "Feuer frei",
+      "artist": "Rammstein",
+      "album": "Mutter",
+      "durationMs": 188600,
+      "ids": {
+        "appleMusic": "1440771498"
+      }
+    },
+    {
+      "title": "Moskau",
+      "artist": "Rammstein",
+      "album": "Reise, Reise",
+      "durationMs": 256307,
+      "ids": {
+        "appleMusic": "1440734702"
+      }
+    },
+    {
+      "title": "Eu quero ver o oco",
+      "artist": "Raimundos",
+      "album": "O Melhor do Heavy Metal",
+      "durationMs": 251400,
+      "ids": {
+        "appleMusic": "1700696499"
+      }
+    },
+    {
+      "title": "Proibida Pra Mim (Grazon)",
+      "artist": "Charlie Brown Jr.",
+      "album": "Senhor do Tempo",
+      "durationMs": 167933,
+      "ids": {
+        "appleMusic": "1737543524"
+      }
+    },
+    {
+      "title": "Basket Case",
+      "artist": "Green Day",
+      "album": "Nineties",
+      "durationMs": 181533,
+      "ids": {
+        "appleMusic": "1702187343"
+      }
+    },
+    {
+      "title": "Give It Away",
+      "artist": "Red Hot Chili Peppers",
+      "album": "Basket Case - 90's Rock Classics",
+      "durationMs": 282907,
+      "ids": {
+        "appleMusic": "1630107090"
+      }
+    },
+    {
+      "title": "Pé Na Porta, Soco Na Cara",
+      "artist": "Matanza",
+      "album": "Música Para Beber e Brigar",
+      "durationMs": 180733,
+      "ids": {
+        "appleMusic": "977438859"
+      }
+    },
+    {
+      "title": "Bom É Quando Faz Mal",
+      "artist": "Matanza",
+      "album": "Fundamental - Matanza",
+      "durationMs": 169093,
+      "ids": {
+        "appleMusic": "981551987"
+      }
+    },
+    {
+      "title": "Interceptor V-6",
+      "artist": "Matanza",
+      "album": "Música Para Beber e Brigar",
+      "durationMs": 172067,
+      "ids": {
+        "appleMusic": "977438865"
+      }
+    },
+    {
+      "title": "I Got Stripes",
+      "artist": "Matanza",
+      "album": "To Hell with Johnny Cash",
+      "durationMs": 67187,
+      "ids": {
+        "appleMusic": "977464643"
+      }
+    },
+    {
+      "title": "Me lambe",
+      "artist": "Raimundos",
+      "album": "Rock Antigos Nostalgia",
+      "durationMs": 196667,
+      "ids": {
+        "appleMusic": "1810646230"
+      }
+    },
+    {
+      "title": "Minha alma (A paz que eu não quero)",
+      "artist": "O Rappa",
+      "album": "Rádio Rock",
+      "durationMs": 303773,
+      "ids": {
+        "appleMusic": "1687931636"
+      }
+    },
+    {
+      "title": "Quem Sabe",
+      "artist": "Los Hermanos",
+      "album": "Rock Mix - Grandes Hits do Rock Nacional",
+      "durationMs": 152640,
+      "ids": {
+        "appleMusic": "668838094"
+      }
+    },
+    {
+      "title": "Horizonte Distante",
+      "artist": "Los Hermanos",
+      "album": "Box - Los Hermanos",
+      "durationMs": 216413,
+      "ids": {
+        "appleMusic": "516393314"
+      }
+    },
+    {
+      "title": "Envelheço na Cidade",
+      "artist": "Ira!",
+      "album": "Sucessos Em Dose Dupla: Ira!",
+      "durationMs": 197080,
+      "ids": {
+        "appleMusic": "509913925"
+      }
+    },
+    {
+      "title": "Flores Em Você",
+      "artist": "Ira!",
+      "album": "Mtv Ao Vivo - Ira!",
+      "durationMs": 128560,
+      "ids": {
+        "appleMusic": "980093897"
+      }
+    },
+    {
+      "title": "Master of Puppets",
+      "artist": "Metallica",
+      "album": "Master of Puppets (Deluxe Box Set)",
+      "durationMs": 515387,
+      "ids": {
+        "appleMusic": "1442993961"
+      }
+    },
+    {
+      "title": "Polícia",
+      "artist": "Titãs",
+      "album": "e-Collection: Titãs",
+      "durationMs": 260867,
+      "ids": {
+        "appleMusic": "562811204"
+      }
+    },
+    {
+      "title": "Me deixa",
+      "artist": "O Rappa",
+      "album": "O Rappa - As Melhores",
+      "durationMs": 247600,
+      "ids": {
+        "appleMusic": "1875201622"
+      }
+    },
+    {
+      "title": "American Jesus",
+      "artist": "Bad Religion",
+      "album": "Recipe for Hate",
+      "durationMs": 197667,
+      "ids": {
+        "appleMusic": "1485011080"
+      }
+    },
+    {
+      "title": "Wir sind keine Menschen",
+      "artist": "Bonaparte",
+      "album": "0110111 - Quantum Physics \u0026 A Horseshoe",
+      "durationMs": 293863,
+      "ids": {
+        "appleMusic": "477052932"
+      }
+    },
+    {
+      "title": "Tudo Que Ela Gosta De Escutar",
+      "artist": "Charlie Brown Jr.",
+      "album": "Transpiração Contínua Prolongada - Edição Comemorativa",
+      "durationMs": 176067,
+      "ids": {
+        "appleMusic": "1442834223"
+      }
+    },
+    {
+      "title": "O Que Sobrou do Céu",
+      "artist": "O Rappa",
+      "album": "iCollection - O Rappa",
+      "durationMs": 232667,
+      "ids": {
+        "appleMusic": "519555440"
+      }
+    },
+    {
+      "title": "O Coro Vai Comê",
+      "artist": "Charlie Brown Jr.",
+      "album": "Dias de Glória",
+      "durationMs": 141133,
+      "ids": {
+        "appleMusic": "1704078766"
+      }
+    },
+    {
+      "title": "Bichos escrotos",
+      "artist": "Titãs",
+      "album": "Explosão do Rock",
+      "durationMs": 195173,
+      "ids": {
+        "appleMusic": "1706475997"
+      }
+    },
+    {
+      "title": "Mantenha o Respeito",
+      "artist": "Planet Hemp",
+      "album": "Usuário",
+      "durationMs": 196200,
+      "ids": {
+        "appleMusic": "1214026007"
+      }
+    },
+    {
+      "title": "Legalize Já (Versão 2017)",
+      "artist": "Planet Hemp",
+      "album": "Usuário",
+      "durationMs": 175043,
+      "ids": {
+        "appleMusic": "1214025873"
+      }
+    },
+    {
+      "title": "Dig Dig Dig (Hempa)",
+      "artist": "Planet Hemp",
+      "album": "Usuário",
+      "durationMs": 113227,
+      "ids": {
+        "appleMusic": "1214026020"
+      }
+    },
+    {
+      "title": "The Brews",
+      "artist": "NOFX",
+      "album": "Punk in Drublic",
+      "durationMs": 160707,
+      "ids": {
+        "appleMusic": "1485034658"
+      }
+    },
+    {
+      "title": "I Won't Have It (2005 Remaster)",
+      "artist": "Pennywise",
+      "album": "About Time (2005 Remaster)",
+      "durationMs": 150240,
+      "ids": {
+        "appleMusic": "1485043328"
+      }
+    },
+    {
+      "title": "Ana's Song (Open Fire)",
+      "artist": "Silverchair",
+      "album": "Neon Ballroom",
+      "durationMs": 222267,
+      "ids": {
+        "appleMusic": "192818616"
+      }
+    },
+    {
+      "title": "Israel's Son",
+      "artist": "Silverchair",
+      "album": "Frogstomp",
+      "durationMs": 318027,
+      "ids": {
+        "appleMusic": "273440999"
+      }
+    },
+    {
+      "title": "The Kids Aren't Alright",
+      "artist": "The Offspring",
+      "album": "Americana",
+      "durationMs": 180160,
+      "ids": {
+        "appleMusic": "1440881625"
+      }
+    },
+    {
+      "title": "Yellow Ledbetter",
+      "artist": "Pearl Jam",
+      "album": "Rock Clássico",
+      "durationMs": 303587,
+      "ids": {
+        "appleMusic": "1778714248"
+      }
+    },
+    {
+      "title": "All the Small Things",
+      "artist": "blink-182",
+      "album": "20 #1’s: Alternative Rock",
+      "durationMs": 168040,
+      "ids": {
+        "appleMusic": "1434901294"
+      }
+    },
+    {
+      "title": "Every You Every Me",
+      "artist": "Placebo",
+      "album": "Without You I'm Nothing",
+      "durationMs": 213800,
+      "ids": {
+        "appleMusic": "961067403"
+      }
+    },
+    {
+      "title": "Special Needs",
+      "artist": "Placebo",
+      "album": "Sleeping with Ghosts",
+      "durationMs": 315987,
+      "ids": {
+        "appleMusic": "961066949"
+      }
+    },
+    {
+      "title": "Pure Morning",
+      "artist": "Placebo",
+      "album": "Without You I'm Nothing",
+      "durationMs": 254760,
+      "ids": {
+        "appleMusic": "961067388"
+      }
+    },
+    {
+      "title": "Zombie",
+      "artist": "The Cranberries",
+      "album": "The Treasure Box for Boys and Girls",
+      "durationMs": 306440,
+      "ids": {
+        "appleMusic": "1440953254"
+      }
+    },
+    {
+      "title": "Crying",
+      "artist": "TV on the Radio",
+      "album": "Crying - Single",
+      "durationMs": 250613,
+      "ids": {
+        "appleMusic": "1437098779"
+      }
+    },
+    {
+      "title": "Andar na pedra (Ao vivo)",
+      "artist": "Raimundos",
+      "album": "MTV ao vivo",
+      "durationMs": 216107,
+      "ids": {
+        "appleMusic": "1245381835"
+      }
+    },
+    {
+      "title": "Baile da Pesada (Ao Vivo)",
+      "artist": "Monobloco",
+      "album": "Monobloco (Ao Vivo)",
+      "durationMs": 194840,
+      "ids": {
+        "appleMusic": "1628181289"
+      }
+    },
+    {
+      "title": "Puteiro Em João Pessóa",
+      "artist": "Raimundos",
+      "album": "E-Collection",
+      "durationMs": 241000,
+      "ids": {
+        "appleMusic": "530965707"
+      }
+    },
+    {
+      "title": "Um Par",
+      "artist": "Los Hermanos",
+      "album": "Box - Los Hermanos",
+      "durationMs": 177813,
+      "ids": {
+        "appleMusic": "516393042"
+      }
+    },
+    {
+      "title": "Infinita Highway",
+      "artist": "Engenheiros do Hawaii",
+      "album": "A Revolta Dos Dandis",
+      "durationMs": 372017,
+      "ids": {
+        "appleMusic": "321838544"
+      }
+    },
+    {
+      "title": "Queimando Tudo",
+      "artist": "Planet Hemp",
+      "album": "Os Cães Ladram Mas a Caravana Não Pára",
+      "durationMs": 172573,
+      "ids": {
+        "appleMusic": "1214066997"
+      }
+    },
+    {
+      "title": "Clube dos Canalhas",
+      "artist": "Matanza",
+      "album": "A Arte do Insulto",
+      "durationMs": 180333,
+      "ids": {
+        "appleMusic": "977391850"
+      }
+    },
+    {
+      "title": "Condicional",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 208187,
+      "ids": {
+        "appleMusic": "860819062"
+      }
+    },
+    {
+      "title": "A mais pedida (feat. Érica Martins)",
+      "artist": "Raimundos",
+      "album": "Hits nacionais atemporais - MPB, Pop e Rock",
+      "durationMs": 233733,
+      "ids": {
+        "appleMusic": "1735967362"
+      }
+    },
+    {
+      "title": "Equalize",
+      "artist": "Pitty",
+      "album": "Admirável Chip Novo",
+      "durationMs": 232240,
+      "ids": {
+        "appleMusic": "977428503"
+      }
+    },
+    {
+      "title": "Ela Roubou Meu Caminhão",
+      "artist": "Matanza",
+      "album": "Santa Madre Cassino",
+      "durationMs": 225427,
+      "ids": {
+        "appleMusic": "980080295"
+      }
+    },
+    {
+      "title": "Pierrot",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 167493,
+      "ids": {
+        "appleMusic": "860819075"
+      }
+    },
+    {
+      "title": "Um Minuto para o Fim do Mundo",
+      "artist": "CPM 22",
+      "album": "Felicidade Instantânea",
+      "durationMs": 198000,
+      "ids": {
+        "appleMusic": "1444064043"
+      }
+    },
+    {
+      "title": "Eu Não Gosto de Ninguém",
+      "artist": "Matanza",
+      "album": "A Arte do Insulto",
+      "durationMs": 231760,
+      "ids": {
+        "appleMusic": "977391855"
+      }
+    },
+    {
+      "title": "Tenha Dó",
+      "artist": "Los Hermanos",
+      "album": "Box - Los Hermanos",
+      "durationMs": 207200,
+      "ids": {
+        "appleMusic": "516392804"
+      }
+    },
+    {
+      "title": "A feira",
+      "artist": "O Rappa",
+      "album": "A hora do Brasil",
+      "durationMs": 239533,
+      "ids": {
+        "appleMusic": "1536550770"
+      }
+    },
+    {
+      "title": "O Vento",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 213867,
+      "ids": {
+        "appleMusic": "860819074"
+      }
+    },
+    {
+      "title": "Não Compre, Plante!",
+      "artist": "Planet Hemp",
+      "album": "Usuário",
+      "durationMs": 251493,
+      "ids": {
+        "appleMusic": "1214025870"
+      }
+    },
+    {
+      "title": "A Arte do Insulto",
+      "artist": "Matanza",
+      "album": "A Arte do Insulto",
+      "durationMs": 110987,
+      "ids": {
+        "appleMusic": "977391849"
+      }
+    },
+    {
+      "title": "Anna Júlia",
+      "artist": "Los Hermanos",
+      "album": "Karaokê - As Mais Tocadas Nacionais (Ao Vivo)",
+      "durationMs": 212200,
+      "ids": {
+        "appleMusic": "1830283858"
+      }
+    },
+    {
+      "title": "Zerovinteum (feat. Fernanda Abreu)",
+      "artist": "Planet Hemp",
+      "album": "Os Cães Ladram Mas a Caravana Não Pára",
+      "durationMs": 315827,
+      "ids": {
+        "appleMusic": "1214066996"
+      }
+    },
+    {
+      "title": "O Último Bar",
+      "artist": "Matanza",
+      "album": "Música Para Beber e Brigar",
+      "durationMs": 187333,
+      "ids": {
+        "appleMusic": "977438860"
+      }
+    },
+    {
+      "title": "Marvin (Ao Vivo) [Live]",
+      "artist": "Titãs",
+      "album": "Praia de Inverno",
+      "durationMs": 264293,
+      "ids": {
+        "appleMusic": "6773622205"
+      }
+    },
+    {
+      "title": "Maracatu Atômico",
+      "artist": "Chico Science \u0026 Nação Zumbi",
+      "album": "The Sound of Brazil",
+      "durationMs": 284173,
+      "ids": {
+        "appleMusic": "888205210"
+      }
+    },
+    {
+      "title": "Jackie Tequila (Ao Vivo)",
+      "artist": "Skank",
+      "album": "Skank - #1 Hits",
+      "durationMs": 250267,
+      "ids": {
+        "appleMusic": "588335761"
+      }
+    },
+    {
+      "title": "Highway to Hell",
+      "artist": "AC/DC",
+      "album": "Highway to Hell",
+      "durationMs": 208111,
+      "ids": {
+        "appleMusic": "574044008"
+      }
+    },
+    {
+      "title": "Manguetown",
+      "artist": "Chico Science \u0026 Nação Zumbi",
+      "album": "Afrociberdelia",
+      "durationMs": 194467,
+      "ids": {
+        "appleMusic": "321581579"
+      }
+    },
+    {
+      "title": "Walk",
+      "artist": "Pantera",
+      "album": "all out metal",
+      "durationMs": 315120,
+      "ids": {
+        "appleMusic": "1673962341"
+      }
+    },
+    {
+      "title": "1406",
+      "artist": "Mamonas Assassinas",
+      "album": "Músicas que me sinto nostálgico",
+      "durationMs": 248267,
+      "ids": {
+        "appleMusic": "1848205423"
+      }
+    },
+    {
+      "title": "Even Flow",
+      "artist": "Pearl Jam",
+      "album": "Ten",
+      "durationMs": 292581,
+      "ids": {
+        "appleMusic": "425465318"
+      }
+    },
+    {
+      "title": "Lado b lado a",
+      "artist": "O Rappa",
+      "album": "Rock Do Brasil",
+      "durationMs": 305227,
+      "ids": {
+        "appleMusic": "1459860900"
+      }
+    },
+    {
+      "title": "The Pretender",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience \u0026 Grace",
+      "durationMs": 269373
+    },
+    {
+      "title": "Alive",
+      "artist": "Pearl Jam",
+      "album": "Ten",
+      "durationMs": 340907,
+      "ids": {
+        "appleMusic": "425465319"
+      }
+    },
+    {
+      "title": "School",
+      "artist": "Nirvana",
+      "album": "Bleach (Deluxe Edition)",
+      "durationMs": 162116,
+      "ids": {
+        "appleMusic": "669728226"
+      }
+    },
+    {
+      "title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "album": "The White Stripes Greatest Hits",
+      "durationMs": 231747,
+      "ids": {
+        "appleMusic": "1534388718"
+      }
+    },
+    {
+      "title": "Beijinho no Ombro",
+      "artist": "Valesca Popozuda",
+      "album": "Beijinho no Ombro - Single",
+      "durationMs": 180689,
+      "ids": {
+        "appleMusic": "683328878"
+      }
+    },
+    {
+      "title": "Agora Tô Solteira",
+      "artist": "Furacão 2000 \u0026 Valesca Popozuda",
+      "album": "Os Melhores Funks da Furacão 2000, Vol. 1",
+      "durationMs": 222131,
+      "ids": {
+        "appleMusic": "1563311108"
+      }
+    },
+    {
+      "title": "Toxicity",
+      "artist": "System Of A Down",
+      "album": "Toxicity",
+      "durationMs": 218933,
+      "ids": {
+        "appleMusic": "273714713"
+      }
+    },
+    {
+      "title": "Breathe",
+      "artist": "The Prodigy",
+      "album": "Electronic Music Anthology (by FG)",
+      "durationMs": 334391,
+      "ids": {
+        "appleMusic": "1435302865"
+      }
+    },
+    {
+      "title": "Smack My Bitch Up",
+      "artist": "The Prodigy",
+      "album": "The Fat of the Land (Expanded Edition)",
+      "durationMs": 343387,
+      "ids": {
+        "appleMusic": "574422933"
+      }
+    },
+    {
+      "title": "Meio Psicopata",
+      "artist": "Matanza",
+      "album": "A Arte do Insulto",
+      "durationMs": 137307,
+      "ids": {
+        "appleMusic": "977391854"
+      }
+    },
+    {
+      "title": "Fazendo a Cabeça",
+      "artist": "Planet Hemp",
+      "album": "Usuário",
+      "durationMs": 200107,
+      "ids": {
+        "appleMusic": "1214025974"
+      }
+    },
+    {
+      "title": "Tarde De Outubro",
+      "artist": "CPM 22",
+      "album": "Puro Rock Brasileiro",
+      "durationMs": 139400,
+      "ids": {
+        "appleMusic": "1755036145"
+      }
+    },
+    {
+      "title": "Tora Tora",
+      "artist": "Raimundos",
+      "album": "E-Collection",
+      "durationMs": 255133,
+      "ids": {
+        "appleMusic": "530965700"
+      }
+    },
+    {
+      "title": "Dias Atrás",
+      "artist": "CPM 22",
+      "album": "Chegou a Hora de Recomeçar",
+      "durationMs": 248373,
+      "ids": {
+        "appleMusic": "1443752902"
+      }
+    },
+    {
+      "title": "Descoberta",
+      "artist": "Los Hermanos",
+      "album": "Box - Los Hermanos",
+      "durationMs": 150293,
+      "ids": {
+        "appleMusic": "516392805"
+      }
+    },
+    {
+      "title": "Máscara",
+      "artist": "Pitty",
+      "album": "Fundamental - Rock",
+      "durationMs": 288120,
+      "ids": {
+        "appleMusic": "981332883"
+      }
+    },
+    {
+      "title": "Regina Let's Go!",
+      "artist": "CPM 22",
+      "album": "CPM22",
+      "durationMs": 135933,
+      "ids": {
+        "appleMusic": "1443486699"
+      }
+    },
+    {
+      "title": "Chop Suey!",
+      "artist": "System Of A Down",
+      "album": "Toxicity",
+      "durationMs": 210240,
+      "ids": {
+        "appleMusic": "273714640"
+      }
+    },
+    {
+      "title": "Azedume",
+      "artist": "Los Hermanos",
+      "album": "Box - Los Hermanos",
+      "durationMs": 81773,
+      "ids": {
+        "appleMusic": "516392850"
+      }
+    },
+    {
+      "title": "Stand By Me",
+      "artist": "Pennywise",
+      "album": "Wildcard - a Word from the Wise",
+      "durationMs": 187827,
+      "ids": {
+        "appleMusic": "285493582"
+      }
+    },
+    {
+      "title": "Reza Vela / Norte-Nordeste Me Veste (Participação Especial RAPadura Xique Chico ) [Ao Vivo]",
+      "artist": "O Rappa",
+      "album": "Acústico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+      "durationMs": 378318,
+      "ids": {
+        "appleMusic": "1116301497"
+      }
+    },
+    {
+      "title": "Tempo Ruim",
+      "artist": "Matanza",
+      "album": "A Arte do Insulto",
+      "durationMs": 162467,
+      "ids": {
+        "appleMusic": "977391858"
+      }
+    },
+    {
+      "title": "Ex-Quadrilha da Fumaça",
+      "artist": "Planet Hemp",
+      "album": "A Invasão do Sagaz Homem Fumaça",
+      "durationMs": 185360,
+      "ids": {
+        "appleMusic": "1214068140"
+      }
+    },
+    {
+      "title": "Primavera",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 262040,
+      "ids": {
+        "appleMusic": "860819076"
+      }
+    },
+    {
+      "title": "I Saw You Saying (That You Say That You Saw)",
+      "artist": "Raimundos",
+      "album": "Lavô Tá Novo",
+      "durationMs": 204240,
+      "ids": {
+        "appleMusic": "84891938"
+      }
+    },
+    {
+      "title": "Só Por Uma Noite",
+      "artist": "Charlie Brown Jr.",
+      "album": "O Melhor do Rock Nacional",
+      "durationMs": 203373,
+      "ids": {
+        "appleMusic": "1821908678"
+      }
+    },
+    {
+      "title": "A Culpa é de Quem",
+      "artist": "Planet Hemp",
+      "album": "Usuário",
+      "durationMs": 227227,
+      "ids": {
+        "appleMusic": "1214026028"
+      }
+    },
+    {
+      "title": "Esporrei Na Manivela",
+      "artist": "Raimundos",
+      "album": "Lavô Tá Novo",
+      "durationMs": 248293,
+      "ids": {
+        "appleMusic": "84891780"
+      }
+    },
+    {
+      "title": "O Chamado do Bar",
+      "artist": "Matanza",
+      "album": "A Arte do Insulto",
+      "durationMs": 125600,
+      "ids": {
+        "appleMusic": "977391851"
+      }
+    },
+    {
+      "title": "Ela Vai Voltar (Todos Os Defeitos de Uma Mulher Perfeita)",
+      "artist": "Charlie Brown Jr.",
+      "album": "Imunidade Musical",
+      "durationMs": 188200,
+      "ids": {
+        "appleMusic": "713533619"
+      }
+    },
+    {
+      "title": "B.Y.O.B.",
+      "artist": "System Of A Down",
+      "album": "Rock Clássico",
+      "durationMs": 255467,
+      "ids": {
+        "appleMusic": "1778713874"
+      }
+    },
+    {
+      "title": "Lágrimas Sofridas",
+      "artist": "Los Hermanos",
+      "album": "Box - Los Hermanos",
+      "durationMs": 107560,
+      "ids": {
+        "appleMusic": "516392851"
+      }
+    },
+    {
+      "title": "Echoes",
+      "artist": "The Rapture",
+      "album": "Echoes",
+      "durationMs": 186560,
+      "ids": {
+        "appleMusic": "1726021707"
+      }
+    },
+    {
+      "title": "We Will Rock You (Remastered 2011)",
+      "artist": "Queen",
+      "album": "Sucessos do Rock - Atualizadas",
+      "durationMs": 122067,
+      "ids": {
+        "appleMusic": "1887923815"
+      }
+    },
+    {
+      "title": "Don't Stop Me Now (Remastered 2011)",
+      "artist": "Queen",
+      "album": "Energia Rock",
+      "durationMs": 209413,
+      "ids": {
+        "appleMusic": "1884584295"
+      }
+    },
+    {
+      "title": "Shine a Light",
+      "artist": "Wolf Parade",
+      "album": "Apologies to the Queen Mary",
+      "durationMs": 227360,
+      "ids": {
+        "appleMusic": "669683910"
+      }
+    },
+    {
+      "title": "Shape Shifter",
+      "artist": "Amon Amarth",
+      "album": "Deceiver of the Gods",
+      "durationMs": 242531,
+      "ids": {
+        "appleMusic": "634108904"
+      }
+    },
+    {
+      "title": "Lisztomania",
+      "artist": "Phoenix",
+      "album": "Wolfgang Amadeus Phoenix",
+      "durationMs": 241640,
+      "ids": {
+        "appleMusic": "1771710017"
+      }
+    },
+    {
+      "title": "The Distance",
+      "artist": "CAKE",
+      "album": "Fashion Nugget (Deluxe Edition)",
+      "durationMs": 180628,
+      "ids": {
+        "appleMusic": "1632540369"
+      }
+    },
+    {
+      "title": "Mr. Jones",
+      "artist": "Counting Crows",
+      "album": "August and Everything After",
+      "durationMs": 272279,
+      "ids": {
+        "appleMusic": "1442449547"
+      }
+    },
+    {
+      "title": "Lump",
+      "artist": "The Presidents of the United States of America",
+      "album": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+      "durationMs": 134200,
+      "ids": {
+        "appleMusic": "1861769246"
+      }
+    },
+    {
+      "title": "Head On",
+      "artist": "The Jesus and Mary Chain",
+      "album": "80's Alternative",
+      "durationMs": 251480,
+      "ids": {
+        "appleMusic": "1301262140"
+      }
+    },
+    {
+      "title": "Sorrow",
+      "artist": "Bad Religion",
+      "album": "The Process of Belief",
+      "durationMs": 201293,
+      "ids": {
+        "appleMusic": "1485040394"
+      }
+    },
+    {
+      "title": "Doesn't Remind Me",
+      "artist": "Audioslave",
+      "album": "Out of Exile",
+      "durationMs": 255000,
+      "ids": {
+        "appleMusic": "1440715273"
+      }
+    },
+    {
+      "title": "The Decline",
+      "artist": "NOFX",
+      "album": "The Decline - Single",
+      "durationMs": 1099773,
+      "ids": {
+        "appleMusic": "291740775"
+      }
+    },
+    {
+      "title": "I Don't Want to Grow Up",
+      "artist": "Ramones",
+      "album": "Adios Amigos",
+      "durationMs": 166067,
+      "ids": {
+        "appleMusic": "697671271"
+      }
+    },
+    {
+      "title": "I Ain't Hiding",
+      "artist": "The Black Crowes",
+      "album": "Before the Frost... Until the Freeze",
+      "durationMs": 356876,
+      "ids": {
+        "appleMusic": "328012924"
+      }
+    },
+    {
+      "title": "We're Not Gonna Take It",
+      "artist": "Twisted Sister",
+      "album": "Hard Rock Anthems",
+      "durationMs": 219667,
+      "ids": {
+        "appleMusic": "1534358111"
+      }
+    },
+    {
+      "title": "Take A Look Around",
+      "artist": "Limp Bizkit",
+      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+      "durationMs": 321040,
+      "ids": {
+        "appleMusic": "1440843451"
+      }
+    },
+    {
+      "title": "Morena",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 178947,
+      "ids": {
+        "appleMusic": "860819067"
+      }
+    },
+    {
+      "title": "Dias de Luta",
+      "artist": "Ira!",
+      "album": "Mtv Ao Vivo - Ira!",
+      "durationMs": 267027,
+      "ids": {
+        "appleMusic": "980092945"
+      }
+    },
+    {
+      "title": "Symphony Of Destruction",
+      "artist": "Megadeth",
+      "album": "Scream Halloween",
+      "durationMs": 246733,
+      "ids": {
+        "appleMusic": "1645910184"
+      }
+    },
+    {
+      "title": "I Should Watch TV (Live)",
+      "artist": "David Byrne",
+      "album": "American Utopia on Broadway (Original Cast Recording Live)",
+      "durationMs": 195573,
+      "ids": {
+        "appleMusic": "1484016137"
+      }
+    }
+  ]
+}

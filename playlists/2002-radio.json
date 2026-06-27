@@ -1,0 +1,410 @@
+{
+  "name": "2002 Radio",
+  "tracks": [
+    {
+      "title": "2002",
+      "artist": "Anne-Marie",
+      "album": "2010er - Alle Hits",
+      "durationMs": 186987,
+      "ids": {
+        "appleMusic": "1600128831"
+      }
+    },
+    {
+      "title": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "album": "Fine Line",
+      "durationMs": 173991,
+      "ids": {
+        "appleMusic": "1485802967"
+      }
+    },
+    {
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "album": "Dreamland",
+      "durationMs": 238805,
+      "ids": {
+        "appleMusic": "1508562516"
+      }
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "album": "Future Nostalgia (Bonus Edition)",
+      "durationMs": 203808,
+      "ids": {
+        "appleMusic": "1541803862"
+      }
+    },
+    {
+      "title": "PSYCHO",
+      "artist": "Anne-Marie \u0026 Aitch",
+      "album": "PSYCHO - Single",
+      "durationMs": 162693,
+      "ids": {
+        "appleMusic": "1850516946"
+      }
+    },
+    {
+      "title": "good 4 u",
+      "artist": "Olivia Rodrigo",
+      "album": "SOUR",
+      "durationMs": 178148,
+      "ids": {
+        "appleMusic": "1560735856"
+      }
+    },
+    {
+      "title": "Sucker",
+      "artist": "Jonas Brothers",
+      "album": "Happiness Begins",
+      "durationMs": 181033,
+      "ids": {
+        "appleMusic": "1461478389"
+      }
+    },
+    {
+      "title": "Our Song",
+      "artist": "Anne-Marie \u0026 Niall Horan",
+      "album": "Our Song - Single",
+      "durationMs": 163733,
+      "ids": {
+        "appleMusic": "1566144680"
+      }
+    },
+    {
+      "title": "Good As Hell",
+      "artist": "Lizzo",
+      "album": "Good As Hell - Single",
+      "durationMs": 159736,
+      "ids": {
+        "appleMusic": "1090585453"
+      }
+    },
+    {
+      "title": "Closer (feat. Halsey)",
+      "artist": "The Chainsmokers",
+      "album": "Closer (feat. Halsey) - Single",
+      "durationMs": 244960,
+      "ids": {
+        "appleMusic": "1136768508"
+      }
+    },
+    {
+      "title": "Rockabye (feat. Sean Paul \u0026 Anne-Marie)",
+      "artist": "Clean Bandit",
+      "album": "Rockabye (feat. Sean Paul \u0026 Anne-Marie) - Single",
+      "durationMs": 251088,
+      "ids": {
+        "appleMusic": "1164046335"
+      }
+    },
+    {
+      "title": "Stuck with U",
+      "artist": "Ariana Grande \u0026 Justin Bieber",
+      "album": "Stuck with U - Single",
+      "durationMs": 228482,
+      "ids": {
+        "appleMusic": "1511562950"
+      }
+    },
+    {
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "album": "Don't Start Now - Single",
+      "durationMs": 183290,
+      "ids": {
+        "appleMusic": "1484322135"
+      }
+    },
+    {
+      "title": "Perfect to Me",
+      "artist": "Anne-Marie",
+      "album": "Perfect to Me - Single",
+      "durationMs": 197853,
+      "ids": {
+        "appleMusic": "1440176710"
+      }
+    },
+    {
+      "title": "Light Switch",
+      "artist": "Charlie Puth",
+      "album": "cafe background music",
+      "durationMs": 185681,
+      "ids": {
+        "appleMusic": "6784167830"
+      }
+    },
+    {
+      "title": "Shotgun",
+      "artist": "George Ezra",
+      "album": "Staying at Tamara's",
+      "durationMs": 201287,
+      "ids": {
+        "appleMusic": "1331589486"
+      }
+    },
+    {
+      "title": "Glorious (feat. Skylar Grey)",
+      "artist": "Macklemore",
+      "album": "GEMINI",
+      "durationMs": 222267,
+      "ids": {
+        "appleMusic": "1272352851"
+      }
+    },
+    {
+      "title": "Sunroof",
+      "artist": "Nicky Youre \u0026 Dazy",
+      "album": "Good Times Go",
+      "durationMs": 163026,
+      "ids": {
+        "appleMusic": "1689433299"
+      }
+    },
+    {
+      "title": "Birthday",
+      "artist": "Anne-Marie",
+      "album": "Birthday - Single",
+      "durationMs": 181467,
+      "ids": {
+        "appleMusic": "1495360252"
+      }
+    },
+    {
+      "title": "Classic",
+      "artist": "MKTO",
+      "album": "MKTO",
+      "durationMs": 175427,
+      "ids": {
+        "appleMusic": "853842868"
+      }
+    },
+    {
+      "title": "High Hopes",
+      "artist": "Panic! At the Disco",
+      "album": "Pray for the Wicked",
+      "durationMs": 190947,
+      "ids": {
+        "appleMusic": "1361152303"
+      }
+    },
+    {
+      "title": "Carry You Home",
+      "artist": "Alex Warren",
+      "album": "Carry You Home - Single",
+      "durationMs": 166881,
+      "ids": {
+        "appleMusic": "1745673617"
+      }
+    },
+    {
+      "title": "no tears left to cry",
+      "artist": "Ariana Grande",
+      "album": "sweetener (Bonus Videos Edition)",
+      "durationMs": 205924,
+      "ids": {
+        "appleMusic": "1544324124"
+      }
+    },
+    {
+      "title": "Ciao Adios",
+      "artist": "Anne-Marie",
+      "album": "My Bad",
+      "durationMs": 199773,
+      "ids": {
+        "appleMusic": "1490007580"
+      }
+    },
+    {
+      "title": "What Makes You Beautiful",
+      "artist": "One Direction",
+      "album": "Up All Night (The Souvenir Edition)",
+      "durationMs": 199987,
+      "ids": {
+        "appleMusic": "505055781"
+      }
+    },
+    {
+      "title": "Castle on the Hill",
+      "artist": "Ed Sheeran",
+      "album": "÷ (Deluxe)",
+      "durationMs": 261154,
+      "ids": {
+        "appleMusic": "1193700917"
+      }
+    },
+    {
+      "title": "I’m Yours",
+      "artist": "Jason Mraz",
+      "album": "Wedding Day Getting Ready",
+      "durationMs": 242040,
+      "ids": {
+        "appleMusic": "6784158201"
+      }
+    },
+    {
+      "title": "That’s What I Like",
+      "artist": "Bruno Mars",
+      "album": "cafe background music",
+      "durationMs": 205080,
+      "ids": {
+        "appleMusic": "6784167435"
+      }
+    },
+    {
+      "title": "UNHEALTHY (feat. Shania Twain)",
+      "artist": "Anne-Marie",
+      "album": "UNHEALTHY (Deluxe)",
+      "durationMs": 149653,
+      "ids": {
+        "appleMusic": "1683994643"
+      }
+    },
+    {
+      "title": "Rather Be (feat. Jess Glynne)",
+      "artist": "Clean Bandit",
+      "album": "Rather Be (feat. Jess Glynne)",
+      "durationMs": 227833,
+      "ids": {
+        "appleMusic": "742117652"
+      }
+    },
+    {
+      "title": "Nonsense",
+      "artist": "Sabrina Carpenter",
+      "album": "emails i can't send",
+      "durationMs": 163648,
+      "ids": {
+        "appleMusic": "1631579019"
+      }
+    },
+    {
+      "title": "Cheap Thrills",
+      "artist": "Sia",
+      "album": "This Is Acting (Deluxe Version)",
+      "durationMs": 211667,
+      "ids": {
+        "appleMusic": "1162482549"
+      }
+    },
+    {
+      "title": "we can't be friends (wait for your love)",
+      "artist": "Ariana Grande",
+      "album": "eternal sunshine",
+      "durationMs": 228639,
+      "ids": {
+        "appleMusic": "1725878242"
+      }
+    },
+    {
+      "title": "Break My Heart",
+      "artist": "Dua Lipa",
+      "album": "Future Nostalgia (Deluxe)",
+      "durationMs": 221820,
+      "ids": {
+        "appleMusic": "1537651833"
+      }
+    },
+    {
+      "title": "Perfect",
+      "artist": "Anne-Marie",
+      "album": "Speak Your Mind (Deluxe)",
+      "durationMs": 233760,
+      "ids": {
+        "appleMusic": "1418704726"
+      }
+    },
+    {
+      "title": "Steal My Girl",
+      "artist": "One Direction",
+      "album": "FOUR (The Ultimate Edition)",
+      "durationMs": 228138,
+      "ids": {
+        "appleMusic": "914556572"
+      }
+    },
+    {
+      "title": "Shivers",
+      "artist": "Ed Sheeran",
+      "album": "=",
+      "durationMs": 207853,
+      "ids": {
+        "appleMusic": "1581087034"
+      }
+    },
+    {
+      "title": "Kings \u0026 Queens",
+      "artist": "Ava Max",
+      "album": "Heaven \u0026 Hell",
+      "durationMs": 162399,
+      "ids": {
+        "appleMusic": "1538214605"
+      }
+    },
+    {
+      "title": "Young Dumb \u0026 Broke",
+      "artist": "Khalid",
+      "album": "American Teen",
+      "durationMs": 202535,
+      "ids": {
+        "appleMusic": "1200868874"
+      }
+    },
+    {
+      "title": "Beautiful",
+      "artist": "Anne-Marie",
+      "album": "Therapy",
+      "durationMs": 194680,
+      "ids": {
+        "appleMusic": "1567637905"
+      }
+    },
+    {
+      "title": "Happier",
+      "artist": "Marshmello \u0026 Bastille",
+      "album": "Happier - Single",
+      "durationMs": 214290,
+      "ids": {
+        "appleMusic": "1711849667"
+      }
+    },
+    {
+      "title": "Youngblood",
+      "artist": "5 Seconds of Summer",
+      "album": "Youngblood",
+      "durationMs": 203418,
+      "ids": {
+        "appleMusic": "1369109851"
+      }
+    },
+    {
+      "title": "How Long",
+      "artist": "Charlie Puth",
+      "album": "Voicenotes",
+      "durationMs": 200853,
+      "ids": {
+        "appleMusic": "1293230534"
+      }
+    },
+    {
+      "title": "Alarm",
+      "artist": "Anne-Marie",
+      "album": "Alarm - Single",
+      "durationMs": 205945,
+      "ids": {
+        "appleMusic": "1168599243"
+      }
+    },
+    {
+      "title": "STAY",
+      "artist": "The Kid LAROI \u0026 Justin Bieber",
+      "album": "STAY - Single",
+      "durationMs": 141806,
+      "ids": {
+        "appleMusic": "1574968888"
+      }
+    }
+  ]
+}

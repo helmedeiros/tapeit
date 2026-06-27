@@ -1,0 +1,437 @@
+{
+  "name": "This Is The Black Keys",
+  "tracks": [
+    {
+      "title": "Lonely Boy",
+      "artist": "The Black Keys",
+      "album": "El Camino",
+      "durationMs": 193173,
+      "ids": {
+        "appleMusic": "1052966684"
+      }
+    },
+    {
+      "title": "Howlin' for You",
+      "artist": "The Black Keys",
+      "album": "Brothers (Deluxe Remastered Anniversary Edition)",
+      "durationMs": 191956,
+      "ids": {
+        "appleMusic": "1542588734"
+      }
+    },
+    {
+      "title": "Wild Child",
+      "artist": "The Black Keys",
+      "album": "Dropout Boogie",
+      "durationMs": 164867,
+      "ids": {
+        "appleMusic": "1611850616"
+      }
+    },
+    {
+      "title": "Fever",
+      "artist": "The Black Keys",
+      "album": "Turn Blue",
+      "durationMs": 246314
+    },
+    {
+      "title": "Gold on the Ceiling",
+      "artist": "The Black Keys",
+      "album": "El Camino",
+      "durationMs": 224333,
+      "ids": {
+        "appleMusic": "1052966702"
+      }
+    },
+    {
+      "title": "Lo/Hi",
+      "artist": "The Black Keys",
+      "album": "Let's Rock",
+      "durationMs": 177768,
+      "ids": {
+        "appleMusic": "1459700593"
+      }
+    },
+    {
+      "title": "Tighten Up",
+      "artist": "The Black Keys",
+      "album": "Brothers (Deluxe Remastered Anniversary Edition)",
+      "durationMs": 211336,
+      "ids": {
+        "appleMusic": "1542588732"
+      }
+    },
+    {
+      "title": "Weight of Love",
+      "artist": "The Black Keys",
+      "album": "Turn Blue",
+      "durationMs": 410196
+    },
+    {
+      "title": "Little Black Submarines",
+      "artist": "The Black Keys",
+      "album": "El Camino",
+      "durationMs": 251267,
+      "ids": {
+        "appleMusic": "1052966705"
+      }
+    },
+    {
+      "title": "Shine A Little Light",
+      "artist": "The Black Keys",
+      "album": "Let's Rock",
+      "durationMs": 196777,
+      "ids": {
+        "appleMusic": "1459700589"
+      }
+    },
+    {
+      "title": "Everlasting Light",
+      "artist": "The Black Keys",
+      "album": "Brothers (Deluxe Remastered Anniversary Edition)",
+      "durationMs": 205396,
+      "ids": {
+        "appleMusic": "1542588730"
+      }
+    },
+    {
+      "title": "Where There's Smoke, There's Fire",
+      "artist": "The Black Keys",
+      "album": "Peaches!",
+      "durationMs": 300624,
+      "ids": {
+        "appleMusic": "1873477949"
+      }
+    },
+    {
+      "title": "10 Lovers",
+      "artist": "The Black Keys",
+      "album": "Turn Blue",
+      "durationMs": 213223
+    },
+    {
+      "title": "I Got Mine",
+      "artist": "The Black Keys",
+      "album": "Attack \u0026 Release",
+      "durationMs": 239144,
+      "ids": {
+        "appleMusic": "1052967340"
+      }
+    },
+    {
+      "title": "Tell Me Lies",
+      "artist": "The Black Keys",
+      "album": "Let's Rock",
+      "durationMs": 219891,
+      "ids": {
+        "appleMusic": "1459700595"
+      }
+    },
+    {
+      "title": "She Does It Right",
+      "artist": "The Black Keys",
+      "album": "Peaches!",
+      "durationMs": 223325,
+      "ids": {
+        "appleMusic": "1873477957"
+      }
+    },
+    {
+      "title": "Man On A Mission",
+      "artist": "The Black Keys",
+      "album": "No Rain, No Flowers",
+      "durationMs": 211721,
+      "ids": {
+        "appleMusic": "1811897310"
+      }
+    },
+    {
+      "title": "Your Touch",
+      "artist": "The Black Keys",
+      "album": "Your Touch - The EP",
+      "durationMs": 162587,
+      "ids": {
+        "appleMusic": "178894746"
+      }
+    },
+    {
+      "title": "Run Right Back",
+      "artist": "The Black Keys",
+      "album": "El Camino",
+      "durationMs": 197000,
+      "ids": {
+        "appleMusic": "1052966709"
+      }
+    },
+    {
+      "title": "Stop Arguing Over Me",
+      "artist": "The Black Keys",
+      "album": "Peaches!",
+      "durationMs": 242115,
+      "ids": {
+        "appleMusic": "1873477951"
+      }
+    },
+    {
+      "title": "Good Love",
+      "artist": "The Black Keys",
+      "album": "Dropout Boogie",
+      "durationMs": 217640,
+      "ids": {
+        "appleMusic": "1611850657"
+      }
+    },
+    {
+      "title": "Heavy Soul",
+      "artist": "The Black Keys",
+      "album": "The Moan - EP",
+      "durationMs": 156413,
+      "ids": {
+        "appleMusic": "281829705"
+      }
+    },
+    {
+      "title": "Dead and Gone",
+      "artist": "The Black Keys",
+      "album": "El Camino",
+      "durationMs": 221027,
+      "ids": {
+        "appleMusic": "1052966685"
+      }
+    },
+    {
+      "title": "You Got to Lose",
+      "artist": "The Black Keys",
+      "album": "Peaches!",
+      "durationMs": 197647,
+      "ids": {
+        "appleMusic": "1873477955"
+      }
+    },
+    {
+      "title": "Go",
+      "artist": "The Black Keys",
+      "album": "Let's Rock",
+      "durationMs": 146597,
+      "ids": {
+        "appleMusic": "1459700599"
+      }
+    },
+    {
+      "title": "Turn Blue",
+      "artist": "The Black Keys",
+      "album": "Turn Blue",
+      "durationMs": 222954
+    },
+    {
+      "title": "Sister",
+      "artist": "The Black Keys",
+      "album": "El Camino",
+      "durationMs": 205187,
+      "ids": {
+        "appleMusic": "1052966710"
+      }
+    },
+    {
+      "title": "Who's Been Foolin' You",
+      "artist": "The Black Keys",
+      "album": "Peaches!",
+      "durationMs": 223562,
+      "ids": {
+        "appleMusic": "1873477952"
+      }
+    },
+    {
+      "title": "Fire Walk With Me",
+      "artist": "The Black Keys",
+      "album": "Let's Rock",
+      "durationMs": 178229,
+      "ids": {
+        "appleMusic": "1459700602"
+      }
+    },
+    {
+      "title": "Psychotic Girl",
+      "artist": "The Black Keys",
+      "album": "Attack \u0026 Release",
+      "durationMs": 250141,
+      "ids": {
+        "appleMusic": "1052967762"
+      }
+    },
+    {
+      "title": "In Time",
+      "artist": "The Black Keys",
+      "album": "Turn Blue",
+      "durationMs": 268116
+    },
+    {
+      "title": "Tomorrow Night",
+      "artist": "The Black Keys",
+      "album": "Peaches!",
+      "durationMs": 235696,
+      "ids": {
+        "appleMusic": "1873477954"
+      }
+    },
+    {
+      "title": "I'll Be Your Man",
+      "artist": "The Black Keys",
+      "album": "The Big Come Up",
+      "durationMs": 140933,
+      "ids": {
+        "appleMusic": "279535854"
+      }
+    },
+    {
+      "title": "Beautiful People (Stay High)",
+      "artist": "The Black Keys",
+      "album": "Ohio Players",
+      "durationMs": 167312,
+      "ids": {
+        "appleMusic": "1722540381"
+      }
+    },
+    {
+      "title": "Gotta Get Away",
+      "artist": "The Black Keys",
+      "album": "Turn Blue",
+      "durationMs": 182166
+    },
+    {
+      "title": "Meet Me in the City",
+      "artist": "The Black Keys",
+      "album": "Chulahoma: The Songs of Junior Kimbrough - EP",
+      "durationMs": 218467,
+      "ids": {
+        "appleMusic": "1080412682"
+      }
+    },
+    {
+      "title": "Coal Black Mattie",
+      "artist": "The Black Keys",
+      "album": "Delta Kream (Bonus Track Version)",
+      "durationMs": 228054,
+      "ids": {
+        "appleMusic": "1562742524"
+      }
+    },
+    {
+      "title": "She's Long Gone",
+      "artist": "The Black Keys",
+      "album": "Boyhood (Music from the Motion Picture)",
+      "durationMs": 186253,
+      "ids": {
+        "appleMusic": "910339157"
+      }
+    },
+    {
+      "title": "No Rain, No Flowers",
+      "artist": "The Black Keys",
+      "album": "No Rain, No Flowers",
+      "durationMs": 196775,
+      "ids": {
+        "appleMusic": "1811897148"
+      }
+    },
+    {
+      "title": "Eagle Birds",
+      "artist": "The Black Keys",
+      "album": "Let's Rock",
+      "durationMs": 160543,
+      "ids": {
+        "appleMusic": "1459700592"
+      }
+    },
+    {
+      "title": "Don't Let Me Go",
+      "artist": "The Black Keys",
+      "album": "Ohio Players (Trophy Edition)",
+      "durationMs": 154512,
+      "ids": {
+        "appleMusic": "1768164544"
+      }
+    },
+    {
+      "title": "Sinister Kid",
+      "artist": "The Black Keys",
+      "album": "Brothers (Deluxe Remastered Anniversary Edition)",
+      "durationMs": 224382,
+      "ids": {
+        "appleMusic": "1542588741"
+      }
+    },
+    {
+      "title": "Keep Me",
+      "artist": "The Black Keys",
+      "album": "Rubber Factory",
+      "durationMs": 172093,
+      "ids": {
+        "appleMusic": "1208771073"
+      }
+    },
+    {
+      "title": "The Night Before",
+      "artist": "The Black Keys",
+      "album": "The Night Before - Single",
+      "durationMs": 154612,
+      "ids": {
+        "appleMusic": "1792402675"
+      }
+    },
+    {
+      "title": "I Forgot To Be Your Lover",
+      "artist": "The Black Keys",
+      "album": "Ohio Players (Trophy Edition)",
+      "durationMs": 147986,
+      "ids": {
+        "appleMusic": "1768164550"
+      }
+    },
+    {
+      "title": "Next Girl",
+      "artist": "The Black Keys",
+      "album": "Tour Rehearsal Tapes - EP",
+      "durationMs": 182314,
+      "ids": {
+        "appleMusic": "566802885"
+      }
+    },
+    {
+      "title": "Going Down South",
+      "artist": "The Black Keys",
+      "album": "Delta Kream (Bonus Track Version)",
+      "durationMs": 228973,
+      "ids": {
+        "appleMusic": "1562742520"
+      }
+    },
+    {
+      "title": "All My Life",
+      "artist": "The Black Keys",
+      "album": "No Rain, No Flowers",
+      "durationMs": 173301,
+      "ids": {
+        "appleMusic": "1811897313"
+      }
+    },
+    {
+      "title": "Thickfreakness",
+      "artist": "The Black Keys",
+      "album": "Thickfreakness",
+      "durationMs": 228373,
+      "ids": {
+        "appleMusic": "1208782857"
+      }
+    },
+    {
+      "title": "Ten Cent Pistol",
+      "artist": "The Black Keys",
+      "album": "Brothers (Deluxe Remastered Anniversary Edition)",
+      "durationMs": 269829,
+      "ids": {
+        "appleMusic": "1542588740"
+      }
+    }
+  ]
+}

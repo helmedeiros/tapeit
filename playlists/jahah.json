@@ -1,0 +1,1010 @@
+{
+  "name": "jahah",
+  "tracks": [
+    {
+      "title": "Instant Crush",
+      "artist": "Daft Punk \u0026 Julian Casablancas",
+      "album": "Random Access Memories",
+      "durationMs": 337562
+    },
+    {
+      "title": "Supermassive Black Hole",
+      "artist": "Muse",
+      "album": "Supermassive Black Hole - Single",
+      "durationMs": 212440,
+      "ids": {
+        "appleMusic": "317961309"
+      }
+    },
+    {
+      "title": "Starlight",
+      "artist": "Muse",
+      "album": "Starlight - EP",
+      "durationMs": 243241,
+      "ids": {
+        "appleMusic": "317961447"
+      }
+    },
+    {
+      "title": "Shrinking Universe",
+      "artist": "Muse",
+      "album": "Hullabaloo Soundtrack",
+      "durationMs": 187066,
+      "ids": {
+        "appleMusic": "138265490"
+      }
+    },
+    {
+      "title": "Around the World",
+      "artist": "Daft Punk",
+      "album": "Homework (25th Anniversary Edition)",
+      "durationMs": 429533,
+      "ids": {
+        "appleMusic": "1609438415"
+      }
+    },
+    {
+      "title": "Beautiful Lies",
+      "artist": "B-Complex",
+      "album": "Sick Music",
+      "durationMs": 405293,
+      "ids": {
+        "appleMusic": "317366338"
+      }
+    },
+    {
+      "title": "Right Behind You",
+      "artist": "Valve Studio Orchestra",
+      "album": "Fight Songs: The Music of Team Fortress 2",
+      "durationMs": 100493,
+      "ids": {
+        "appleMusic": "1891389625"
+      }
+    },
+    {
+      "title": "Truth Be Known",
+      "artist": "Atlas Plug",
+      "album": "2 Days or Die",
+      "durationMs": 285360,
+      "ids": {
+        "appleMusic": "5795062"
+      }
+    },
+    {
+      "title": "Sail",
+      "artist": "AWOLNATION",
+      "album": "Megalithic Symphony",
+      "durationMs": 259093,
+      "ids": {
+        "appleMusic": "422478211"
+      }
+    },
+    {
+      "title": "Mirrors",
+      "artist": "Justin Timberlake",
+      "album": "Românticas Internacionais",
+      "durationMs": 485598,
+      "ids": {
+        "appleMusic": "1719080703"
+      }
+    },
+    {
+      "title": "Dream On",
+      "artist": "Aerosmith",
+      "album": "Pandora's Box",
+      "durationMs": 265729,
+      "ids": {
+        "appleMusic": "1660110152"
+      }
+    },
+    {
+      "title": "Crazy",
+      "artist": "Gnarls Barkley",
+      "album": "Pop Decades: 00s",
+      "durationMs": 177933,
+      "ids": {
+        "appleMusic": "1144947832"
+      }
+    },
+    {
+      "title": "Take on Me",
+      "artist": "a-ha",
+      "album": "100 Greatest Summer Songs",
+      "durationMs": 225280,
+      "ids": {
+        "appleMusic": "1458996323"
+      }
+    },
+    {
+      "title": "Get Lucky (feat. Pharrell Williams \u0026 Nile Rodgers) [Daft Punk Remix]",
+      "artist": "Daft Punk",
+      "album": "Get Lucky (feat. Pharrell Williams \u0026 Nile Rodgers) [Daft Punk Remix]",
+      "durationMs": 632694,
+      "ids": {
+        "appleMusic": "664332744"
+      }
+    },
+    {
+      "title": "Ain't No Rest for the Wicked",
+      "artist": "Cage the Elephant",
+      "album": "The Best Chart Album in the World... Ever!",
+      "durationMs": 177333,
+      "ids": {
+        "appleMusic": "689265302"
+      }
+    },
+    {
+      "title": "You Give Love a Bad Name",
+      "artist": "Bon Jovi",
+      "album": "Cross Road",
+      "durationMs": 224307,
+      "ids": {
+        "appleMusic": "1423285211"
+      }
+    },
+    {
+      "title": "Sultans of Swing",
+      "artist": "Dire Straits",
+      "album": "Dire Straits (Remastered)",
+      "durationMs": 348400,
+      "ids": {
+        "appleMusic": "1440801919"
+      }
+    },
+    {
+      "title": "Radioactive",
+      "artist": "Imagine Dragons",
+      "album": "Night Visions",
+      "durationMs": 186813,
+      "ids": {
+        "appleMusic": "1440830119"
+      }
+    },
+    {
+      "title": "Hey Ya! (Radio Mix/Club Mix)",
+      "artist": "OutKast",
+      "album": "The Way You Move / Hey Ya! - EP",
+      "durationMs": 239240,
+      "ids": {
+        "appleMusic": "303186094"
+      }
+    },
+    {
+      "title": "Feel Good Inc",
+      "artist": "Gorillaz",
+      "album": "The Singles Collection 2001-2011",
+      "durationMs": 221173,
+      "ids": {
+        "appleMusic": "850583586"
+      }
+    },
+    {
+      "title": "Just an Illusion",
+      "artist": "Imagination",
+      "album": "Just an Illusion - Single",
+      "durationMs": 387867,
+      "ids": {
+        "appleMusic": "1580159283"
+      }
+    },
+    {
+      "title": "In the House In a Heartbeat",
+      "artist": "Metro Exodus \u0026 Feel For Music",
+      "album": "In the House In a Heartbeat - Single",
+      "durationMs": 256400,
+      "ids": {
+        "appleMusic": "1265334616"
+      }
+    },
+    {
+      "title": "Crystallize",
+      "artist": "Lindsey Stirling",
+      "album": "Rock Meets Classic",
+      "durationMs": 258920,
+      "ids": {
+        "appleMusic": "1452179757"
+      }
+    },
+    {
+      "title": "The Whistler",
+      "artist": "The White Buffalo",
+      "album": "The Whistler - Single",
+      "durationMs": 206575,
+      "ids": {
+        "appleMusic": "584958735"
+      }
+    },
+    {
+      "title": "The Matador",
+      "artist": "The White Buffalo",
+      "album": "The White Buffalo EP",
+      "durationMs": 274240,
+      "ids": {
+        "appleMusic": "81654332"
+      }
+    },
+    {
+      "title": "Otherside",
+      "artist": "Red Hot Chili Peppers",
+      "album": "Parcelazo 2025",
+      "durationMs": 255373,
+      "ids": {
+        "appleMusic": "1799715405"
+      }
+    },
+    {
+      "title": "Fire",
+      "artist": "The Jimi Hendrix Experience",
+      "album": "Experience Hendrix: The Best of Jimi Hendrix",
+      "durationMs": 163653,
+      "ids": {
+        "appleMusic": "344799570"
+      }
+    },
+    {
+      "title": "Snow (Hey Oh)",
+      "artist": "Red Hot Chili Peppers",
+      "album": "00s Huge Hits",
+      "durationMs": 334667,
+      "ids": {
+        "appleMusic": "1889484671"
+      }
+    },
+    {
+      "title": "My Generation (Mono Version)",
+      "artist": "The Who",
+      "album": "Maximum As \u0026 Bs - The Complete Singles",
+      "durationMs": 197733,
+      "ids": {
+        "appleMusic": "1442933786"
+      }
+    },
+    {
+      "title": "Hysteria",
+      "artist": "Muse",
+      "album": "Hysteria - Single",
+      "durationMs": 227417,
+      "ids": {
+        "appleMusic": "317961372"
+      }
+    },
+    {
+      "title": "First Date",
+      "artist": "blink-182",
+      "album": "Top Class Music Vol 18",
+      "durationMs": 171533,
+      "ids": {
+        "appleMusic": "1680784663"
+      }
+    },
+    {
+      "title": "Shadow On the Sun",
+      "artist": "Audioslave",
+      "album": "Audioslave",
+      "durationMs": 343400,
+      "ids": {
+        "appleMusic": "163301800"
+      }
+    },
+    {
+      "title": "No One Knows",
+      "artist": "Queens of the Stone Age",
+      "album": "Rock Radar",
+      "durationMs": 278747,
+      "ids": {
+        "appleMusic": "1706914828"
+      }
+    },
+    {
+      "title": "Under My Thumb",
+      "artist": "The Rolling Stones",
+      "album": "Anti Love Songs",
+      "durationMs": 221533,
+      "ids": {
+        "appleMusic": "1670230587"
+      }
+    },
+    {
+      "title": "Ms. Jackson",
+      "artist": "OutKast",
+      "album": "Summer Party Bangers",
+      "durationMs": 270507,
+      "ids": {
+        "appleMusic": "1687426291"
+      }
+    },
+    {
+      "title": "Gangsta's Paradise (feat. L.V.)",
+      "artist": "Coolio",
+      "album": "The Collection",
+      "durationMs": 241933,
+      "ids": {
+        "appleMusic": "1604638475"
+      }
+    },
+    {
+      "title": "La Isla Bonita",
+      "artist": "Madonna",
+      "album": "Celebration (Deluxe Version)",
+      "durationMs": 242947,
+      "ids": {
+        "appleMusic": "1874757561"
+      }
+    },
+    {
+      "title": "Frozen",
+      "artist": "Madonna",
+      "album": "Celebration (Deluxe Video Edition)",
+      "durationMs": 378840,
+      "ids": {
+        "appleMusic": "329064733"
+      }
+    },
+    {
+      "title": "Smoke on the Water",
+      "artist": "Deep Purple",
+      "album": "Playlist: Driving",
+      "durationMs": 222080,
+      "ids": {
+        "appleMusic": "726174804"
+      }
+    },
+    {
+      "title": "November Rain",
+      "artist": "Guns N' Roses",
+      "album": "Greatest Hits",
+      "durationMs": 536960,
+      "ids": {
+        "appleMusic": "1533361268"
+      }
+    },
+    {
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "album": "The Best Songs Of All Time",
+      "durationMs": 356627,
+      "ids": {
+        "appleMusic": "1702759273"
+      }
+    },
+    {
+      "title": "Horns of Gondor",
+      "artist": "Battlelore",
+      "album": "Sword's Song",
+      "durationMs": 232160,
+      "ids": {
+        "appleMusic": "1184107693"
+      }
+    },
+    {
+      "title": "Thousand Caves",
+      "artist": "Battlelore",
+      "album": "Third Age of the Sun",
+      "durationMs": 245973,
+      "ids": {
+        "appleMusic": "1184720294"
+      }
+    },
+    {
+      "title": "The Show Must Go On",
+      "artist": "Queen",
+      "album": "Bohemian Rhapsody (The Original Soundtrack)",
+      "durationMs": 271610,
+      "ids": {
+        "appleMusic": "1435375504"
+      }
+    },
+    {
+      "title": "Cry Me a River",
+      "artist": "Justin Timberlake",
+      "album": "Sad Songs",
+      "durationMs": 288333,
+      "ids": {
+        "appleMusic": "904438811"
+      }
+    },
+    {
+      "title": "Because I Got High (Radio Edit)",
+      "artist": "Afroman",
+      "album": "No Seeds, No Stems, Just Hits",
+      "durationMs": 199013,
+      "ids": {
+        "appleMusic": "1443862185"
+      }
+    },
+    {
+      "title": "Teardrop (feat. Elizabeth Fraser)",
+      "artist": "Massive Attack",
+      "album": "romanticizing school",
+      "durationMs": 330773,
+      "ids": {
+        "appleMusic": "1734313135"
+      }
+    },
+    {
+      "title": "Tainted Love",
+      "artist": "Marilyn Manson",
+      "album": "Not Another Teen Movie (Music from the Motion Picture)",
+      "durationMs": 202693,
+      "ids": {
+        "appleMusic": "324595724"
+      }
+    },
+    {
+      "title": "Chateau",
+      "artist": "Rob Dougan",
+      "album": "The Matrix Reloaded: The Album (Music from the Motion Picture)",
+      "durationMs": 203827,
+      "ids": {
+        "appleMusic": "328872354"
+      }
+    },
+    {
+      "title": "Youth of the Nation",
+      "artist": "P.O.D.",
+      "album": "Satellite",
+      "durationMs": 256240,
+      "ids": {
+        "appleMusic": "300206618"
+      }
+    },
+    {
+      "title": "Trust",
+      "artist": "Megadeth",
+      "album": "Trust - EP",
+      "durationMs": 313200,
+      "ids": {
+        "appleMusic": "724146713"
+      }
+    },
+    {
+      "title": "Wonderlust King",
+      "artist": "Gogol Bordello",
+      "album": "Super Taranta!",
+      "durationMs": 238040,
+      "ids": {
+        "appleMusic": "1880808071"
+      }
+    },
+    {
+      "title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "album": "Seven Nation Army - Single",
+      "durationMs": 232627,
+      "ids": {
+        "appleMusic": "1543262843"
+      }
+    },
+    {
+      "title": "Swamped",
+      "artist": "Lacuna Coil",
+      "album": "Comalies",
+      "durationMs": 240400,
+      "ids": {
+        "appleMusic": "1045283905"
+      }
+    },
+    {
+      "title": "Beggin (original Version)",
+      "artist": "Madcon",
+      "album": "So Dark the Con of Man",
+      "durationMs": 216147,
+      "ids": {
+        "appleMusic": "327417057"
+      }
+    },
+    {
+      "title": "Too Close",
+      "artist": "Alex Clare",
+      "album": "Country Music For Kids",
+      "durationMs": 256613,
+      "ids": {
+        "appleMusic": "1579567305"
+      }
+    },
+    {
+      "title": "Clocks",
+      "artist": "Coldplay",
+      "album": "rock and alternative for late nights",
+      "durationMs": 307880,
+      "ids": {
+        "appleMusic": "6781604166"
+      }
+    },
+    {
+      "title": "Handlebars",
+      "artist": "Flobots",
+      "album": "Fight With Tools",
+      "durationMs": 206827,
+      "ids": {
+        "appleMusic": "1442873944"
+      }
+    },
+    {
+      "title": "Freestyler",
+      "artist": "Bomfunk MC's",
+      "album": "Freestyler - EP",
+      "durationMs": 306256,
+      "ids": {
+        "appleMusic": "354137528"
+      }
+    },
+    {
+      "title": "Happy",
+      "artist": "Music Revolution",
+      "album": "Happy - Single",
+      "durationMs": 231732,
+      "ids": {
+        "appleMusic": "657332240"
+      }
+    },
+    {
+      "title": "House of the Rising Sun",
+      "artist": "The Animals",
+      "album": "Flower Power Mega Hits",
+      "durationMs": 267600,
+      "ids": {
+        "appleMusic": "1822494305"
+      }
+    },
+    {
+      "title": "Mr. Tambourine Man",
+      "artist": "Bob Dylan",
+      "album": "Bringing It All Back Home",
+      "durationMs": 326707,
+      "ids": {
+        "appleMusic": "177965612"
+      }
+    },
+    {
+      "title": "Rain (feat. Sara Kay)",
+      "artist": "Klaypex",
+      "album": "Loose Dirt",
+      "durationMs": 266483,
+      "ids": {
+        "appleMusic": "511197573"
+      }
+    },
+    {
+      "title": "Overcome (This Time)",
+      "artist": "Chrisson \u0026 Hot Date",
+      "album": "Monstercat 006: Embrace",
+      "durationMs": 355000,
+      "ids": {
+        "appleMusic": "519744487"
+      }
+    },
+    {
+      "title": "99 Problems",
+      "artist": "JAŸ-Z",
+      "album": "The Hits Collection, Vol. 1 (International Version)",
+      "durationMs": 235467,
+      "ids": {
+        "appleMusic": "1440631668"
+      }
+    },
+    {
+      "title": "Hurt",
+      "artist": "Johnny Cash",
+      "album": "Unearthed (Box Set)",
+      "durationMs": 216533,
+      "ids": {
+        "appleMusic": "1452875626"
+      }
+    },
+    {
+      "title": "Maneater",
+      "artist": "Nelly Furtado",
+      "album": "Loose",
+      "durationMs": 258893,
+      "ids": {
+        "appleMusic": "1442463828"
+      }
+    },
+    {
+      "title": "Rock Your Body",
+      "artist": "Justin Timberlake",
+      "album": "Summer Viral Hits 2022",
+      "durationMs": 267267,
+      "ids": {
+        "appleMusic": "1626009672"
+      }
+    },
+    {
+      "title": "Clint Eastwood",
+      "artist": "Gorillaz",
+      "album": "Hits 2000",
+      "durationMs": 340920,
+      "ids": {
+        "appleMusic": "1651228364"
+      }
+    },
+    {
+      "title": "Stricken",
+      "artist": "Disturbed",
+      "album": "Pure Nu Metal",
+      "durationMs": 245227,
+      "ids": {
+        "appleMusic": "1683141279"
+      }
+    },
+    {
+      "title": "Land of Confusion",
+      "artist": "Disturbed",
+      "album": "Massive Rock Hits",
+      "durationMs": 287067,
+      "ids": {
+        "appleMusic": "1705006668"
+      }
+    },
+    {
+      "title": "Ten Thousand Fists",
+      "artist": "Disturbed",
+      "album": "Modern Hard Rock",
+      "durationMs": 212040,
+      "ids": {
+        "appleMusic": "1629885772"
+      }
+    },
+    {
+      "title": "Extreme Ways",
+      "artist": "Moby",
+      "album": "18",
+      "durationMs": 237640,
+      "ids": {
+        "appleMusic": "1436541303"
+      }
+    },
+    {
+      "title": "In This World",
+      "artist": "Moby",
+      "album": "18",
+      "durationMs": 242520,
+      "ids": {
+        "appleMusic": "1436541292"
+      }
+    },
+    {
+      "title": "The Way Home",
+      "artist": "Sleep Dealer",
+      "album": "The Way Home - EP",
+      "durationMs": 348865,
+      "ids": {
+        "appleMusic": "1759986668"
+      }
+    },
+    {
+      "title": "Promises",
+      "artist": "Megadeth",
+      "album": "The World Needs a Hero",
+      "durationMs": 268707,
+      "ids": {
+        "appleMusic": "1436288113"
+      }
+    },
+    {
+      "title": "Duke Nukem Theme",
+      "artist": "Megadeth",
+      "album": "Warchest",
+      "durationMs": 234400,
+      "ids": {
+        "appleMusic": "719004790"
+      }
+    },
+    {
+      "title": "Devotion And Desire",
+      "artist": "Bayside",
+      "album": "Anthems From When We Were Young",
+      "durationMs": 209627,
+      "ids": {
+        "appleMusic": "1770121381"
+      }
+    },
+    {
+      "title": "I See Fire",
+      "artist": "Ed Sheeran",
+      "album": "The Hobbit: The Desolation of Smaug (Original Motion Picture Soundtrack)",
+      "durationMs": 300747,
+      "ids": {
+        "appleMusic": "1454324518"
+      }
+    },
+    {
+      "title": "Big in Japan",
+      "artist": "Alphaville",
+      "album": "Best 80s Songs",
+      "durationMs": 286160,
+      "ids": {
+        "appleMusic": "1484829406"
+      }
+    },
+    {
+      "title": "Intro",
+      "artist": "The xx",
+      "album": "xx (Deluxe)",
+      "durationMs": 127920,
+      "ids": {
+        "appleMusic": "1849107581"
+      }
+    },
+    {
+      "title": "Young Folks",
+      "artist": "Peter Bjorn and John",
+      "album": "Writer's Block",
+      "durationMs": 276693,
+      "ids": {
+        "appleMusic": "1442990320"
+      }
+    },
+    {
+      "title": "Da Da Da (Ich lieb dich nicht, du liebst mich nicht, aha aha aha) [Maxisingle Version]",
+      "artist": "Trio",
+      "album": "Colour Collection: Trio",
+      "durationMs": 392360,
+      "ids": {
+        "appleMusic": "1445706671"
+      }
+    },
+    {
+      "title": "Street Fighter 2 - Title, Ken's Theme",
+      "artist": "Entertainment System",
+      "album": "The Computer Always Cheats",
+      "durationMs": 283600,
+      "ids": {
+        "appleMusic": "167730167"
+      }
+    },
+    {
+      "title": "Kyoto",
+      "artist": "Yung Lean",
+      "album": "Kyoto - Single",
+      "durationMs": 270000,
+      "ids": {
+        "appleMusic": "1615432326"
+      }
+    },
+    {
+      "title": "Supergeil (feat. Friedrich Liechtenstein)",
+      "artist": "Der Tourist",
+      "album": "Supergeil (feat. Friedrich Liechtenstein) - EP",
+      "durationMs": 244547,
+      "ids": {
+        "appleMusic": "1444485675"
+      }
+    },
+    {
+      "title": "Devil",
+      "artist": "Electro Deluxe",
+      "album": "Home (Deluxe Version)",
+      "durationMs": 202853,
+      "ids": {
+        "appleMusic": "910140927"
+      }
+    },
+    {
+      "title": "I'm a Believer",
+      "artist": "The Monkees",
+      "album": "New Year’s Eve: 100 Uplifting Songs",
+      "durationMs": 165613,
+      "ids": {
+        "appleMusic": "1545412509"
+      }
+    },
+    {
+      "title": "Dirty Harry",
+      "artist": "Gorillaz",
+      "album": "Alternative Radio",
+      "durationMs": 230426,
+      "ids": {
+        "appleMusic": "1597243673"
+      }
+    },
+    {
+      "title": "DARE",
+      "artist": "Gorillaz",
+      "album": "El Soundtrack del Verano 2025",
+      "durationMs": 245000,
+      "ids": {
+        "appleMusic": "1804572767"
+      }
+    },
+    {
+      "title": "Phenomenon",
+      "artist": "Thousand Foot Krutch",
+      "album": "The Ultimate Playlist",
+      "durationMs": 179227,
+      "ids": {
+        "appleMusic": "1443222809"
+      }
+    },
+    {
+      "title": "Ninja Challenge (Dodge \u0026 Fuski Remix)",
+      "artist": "Eptic \u0026 Habstrakt",
+      "album": "Never Say Die Fifty",
+      "durationMs": 177600,
+      "ids": {
+        "appleMusic": "1600817439"
+      }
+    },
+    {
+      "title": "Rock That Body (Radio Edit)",
+      "artist": "Black Eyed Peas",
+      "album": "Rock That Body - Single",
+      "durationMs": 239053,
+      "ids": {
+        "appleMusic": "1444595976"
+      }
+    },
+    {
+      "title": "Sandstorm",
+      "artist": "Darude",
+      "album": "Before the Storm, Special Edition",
+      "durationMs": 225474,
+      "ids": {
+        "appleMusic": "338349243"
+      }
+    },
+    {
+      "title": "Move Your Feet",
+      "artist": "Junior Senior",
+      "album": "D-D-Don't Don't Stop the Beat",
+      "durationMs": 181827,
+      "ids": {
+        "appleMusic": "1445169178"
+      }
+    },
+    {
+      "title": "Skip Rope",
+      "artist": "Tweenchronic",
+      "album": "Skip Rope - Single",
+      "durationMs": 239492,
+      "ids": {
+        "appleMusic": "590646946"
+      }
+    },
+    {
+      "title": "Idioteque",
+      "artist": "Radiohead",
+      "album": "KID A MNESIA",
+      "durationMs": 309093,
+      "ids": {
+        "appleMusic": "1581786354"
+      }
+    },
+    {
+      "title": "Wayak - Bonus Track",
+      "artist": "Borgore \u0026 Dudu Tassa",
+      "album": "Wild Out EP",
+      "durationMs": 194143,
+      "ids": {
+        "appleMusic": "1756937153"
+      }
+    },
+    {
+      "title": "The Only",
+      "artist": "Static-X",
+      "album": "Nu Metal Generation",
+      "durationMs": 171107,
+      "ids": {
+        "appleMusic": "1495676479"
+      }
+    },
+    {
+      "title": "Dark Horse (feat. Juicy J)",
+      "artist": "Katy Perry",
+      "album": "Power Hits 2014",
+      "durationMs": 215672,
+      "ids": {
+        "appleMusic": "1442872950"
+      }
+    },
+    {
+      "title": "Te quiero puta!",
+      "artist": "Rammstein",
+      "album": "Rosenrot",
+      "durationMs": 235627,
+      "ids": {
+        "appleMusic": "1440786655"
+      }
+    },
+    {
+      "title": "Venus",
+      "artist": "Theatre of Tragedy",
+      "album": "Aégis",
+      "durationMs": 333000,
+      "ids": {
+        "appleMusic": "1222123219"
+      }
+    },
+    {
+      "title": "Brothers In Arms",
+      "artist": "Dire Straits",
+      "album": "The Best of Dire Straits \u0026 Mark Knopfler: Private Investigations",
+      "durationMs": 417693,
+      "ids": {
+        "appleMusic": "1440654232"
+      }
+    },
+    {
+      "title": "Heavyweight",
+      "artist": "Infected Mushroom",
+      "album": "Vicious Delicious",
+      "durationMs": 521013,
+      "ids": {
+        "appleMusic": "1486187365"
+      }
+    },
+    {
+      "title": "Artillery",
+      "artist": "Infected Mushroom",
+      "album": "Vicious Delicious",
+      "durationMs": 268120,
+      "ids": {
+        "appleMusic": "1486187346"
+      }
+    },
+    {
+      "title": "Demons (Novel Yom Remix)",
+      "artist": "South Central \u0026 Novel Yom",
+      "album": "10 Years of Experimentation",
+      "durationMs": 236492,
+      "ids": {
+        "appleMusic": "1725173121"
+      }
+    },
+    {
+      "title": "Nights In White Satin (Single Edit)",
+      "artist": "The Moody Blues",
+      "album": "The Very Best of the Moody Blues",
+      "durationMs": 265627,
+      "ids": {
+        "appleMusic": "1440856012"
+      }
+    },
+    {
+      "title": "The Sense of Me",
+      "artist": "Mud Flow",
+      "album": "A Life on Standby",
+      "durationMs": 152507,
+      "ids": {
+        "appleMusic": "1494950119"
+      }
+    },
+    {
+      "title": "Obstacles",
+      "artist": "Syd Matters",
+      "album": "Obstacles - Single",
+      "durationMs": 210707,
+      "ids": {
+        "appleMusic": "59723713"
+      }
+    },
+    {
+      "title": "Silent Running (Epic Trailer Version)",
+      "artist": "Hidden Citizens",
+      "album": "Silent Running (Epic Trailer Version) - Single",
+      "durationMs": 235091,
+      "ids": {
+        "appleMusic": "996933199"
+      }
+    },
+    {
+      "title": "Elea",
+      "artist": "Worakls",
+      "album": "Flocon de neige - Single",
+      "durationMs": 395587,
+      "ids": {
+        "appleMusic": "1114864048"
+      }
+    },
+    {
+      "title": "For the Damaged Coda",
+      "artist": "Blonde Redhead",
+      "album": "Melody of Certain Damaged Lemons",
+      "durationMs": 157000,
+      "ids": {
+        "appleMusic": "1117727565"
+      }
+    }
+  ]
+}

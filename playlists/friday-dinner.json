@@ -1,0 +1,959 @@
+{
+  "name": "Friday Dinner",
+  "tracks": [
+    {
+      "title": "That's the Way of the World",
+      "artist": "Earth, Wind \u0026 Fire",
+      "album": "That's the Way of the World",
+      "durationMs": 345220,
+      "ids": {
+        "appleMusic": "532975791"
+      }
+    },
+    {
+      "title": "Gettin Up",
+      "artist": "Q-Tip",
+      "album": "The Renaissance",
+      "durationMs": 197680,
+      "ids": {
+        "appleMusic": "1443756133"
+      }
+    },
+    {
+      "title": "Gang Related",
+      "artist": "Logic",
+      "album": "Rap That Slaps 2023",
+      "durationMs": 167320,
+      "ids": {
+        "appleMusic": "1893187147"
+      }
+    },
+    {
+      "title": "Elevators (Me \u0026 You)",
+      "artist": "OutKast",
+      "album": "ATLiens",
+      "durationMs": 265200,
+      "ids": {
+        "appleMusic": "263570571"
+      }
+    },
+    {
+      "title": "One Day (feat. Mr. 3-2 \u0026 Ronnie Spencer)",
+      "artist": "UGK",
+      "album": "Ridin' Dirty",
+      "durationMs": 324173,
+      "ids": {
+        "appleMusic": "268523040"
+      }
+    },
+    {
+      "title": "Growing Pains (Do It Again) [Remix] [feat. Lil' Fate, Shawnna, Ludacris, Keon Bryce \u0026 Scarface]",
+      "artist": "Disturbing tha Peace",
+      "album": "Golden Grain",
+      "durationMs": 291600,
+      "ids": {
+        "appleMusic": "1442875118"
+      }
+    },
+    {
+      "title": "Damn It Feel Good to Be a Gangsta",
+      "artist": "Geto Boys \u0026 Scarface",
+      "album": "Best of Geto Boys \u0026 Scarface",
+      "durationMs": 291560,
+      "ids": {
+        "appleMusic": "1812902622"
+      }
+    },
+    {
+      "title": "Regulate (feat. Nate Dogg)",
+      "artist": "Warren G",
+      "album": "Regulate...G Funk Era (20th Anniversary Edition)",
+      "durationMs": 248867,
+      "ids": {
+        "appleMusic": "1443143897"
+      }
+    },
+    {
+      "title": "You Know How We Do It",
+      "artist": "Ice Cube",
+      "album": "1994 Best of by uDiscover",
+      "durationMs": 232787,
+      "ids": {
+        "appleMusic": "1706929534"
+      }
+    },
+    {
+      "title": "It Ain't Hard to Tell",
+      "artist": "Nas",
+      "album": "Illmatic XX",
+      "durationMs": 202107,
+      "ids": {
+        "appleMusic": "806427727"
+      }
+    },
+    {
+      "title": "1999 (feat. Sadat X) [Street Version]",
+      "artist": "Common",
+      "album": "1999 / Like They Used to Say (feat. Sadat X)",
+      "durationMs": 255760,
+      "ids": {
+        "appleMusic": "1445286627"
+      }
+    },
+    {
+      "title": "Compton (feat. Beenie Man)",
+      "artist": "Guerilla Black",
+      "album": "Guerilla City",
+      "durationMs": 233640,
+      "ids": {
+        "appleMusic": "723685181"
+      }
+    },
+    {
+      "title": "I Got a Story to Tell (2014 Remaster)",
+      "artist": "The Notorious B.I.G.",
+      "album": "Music Inspired By Biggie: I Got A Story To Tell",
+      "durationMs": 283053,
+      "ids": {
+        "appleMusic": "1555621601"
+      }
+    },
+    {
+      "title": "In My Lifetime (Remix)",
+      "artist": "JAŸ-Z",
+      "album": "Streets Is Watching (Original Motion Picture Soundtrack)",
+      "durationMs": 277947,
+      "ids": {
+        "appleMusic": "1443632195"
+      }
+    },
+    {
+      "title": "Like It Like That",
+      "artist": "A Tribe Called Quest",
+      "album": "The Love Movement (Deluxe Edition)",
+      "durationMs": 166773,
+      "ids": {
+        "appleMusic": "254661177"
+      }
+    },
+    {
+      "title": "Player's Ball",
+      "artist": "OutKast",
+      "album": "Big Boi \u0026 Dre Present... OutKast",
+      "durationMs": 263187,
+      "ids": {
+        "appleMusic": "256462063"
+      }
+    },
+    {
+      "title": "Get It Together (feat. Q-Tip)",
+      "artist": "Beastie Boys",
+      "album": "Beastie Boys Music",
+      "durationMs": 245627,
+      "ids": {
+        "appleMusic": "1530302653"
+      }
+    },
+    {
+      "title": "Angels (feat. Saba)",
+      "artist": "Chance the Rapper",
+      "album": "Angels (feat. Saba) - Single",
+      "durationMs": 205385,
+      "ids": {
+        "appleMusic": "1052517270"
+      }
+    },
+    {
+      "title": "Day 'n' Nite",
+      "artist": "Kid Cudi",
+      "album": "Stoner Anthems",
+      "durationMs": 221267,
+      "ids": {
+        "appleMusic": "1385675828"
+      }
+    },
+    {
+      "title": "Win or Lose",
+      "artist": "Mobb Deep",
+      "album": "Amerikaz Nightmare",
+      "durationMs": 193347,
+      "ids": {
+        "appleMusic": "253145565"
+      }
+    },
+    {
+      "title": "Put Your Hands Where My Eyes Could See",
+      "artist": "Busta Rhymes",
+      "album": "East Coast Originals",
+      "durationMs": 195133,
+      "ids": {
+        "appleMusic": "1274912751"
+      }
+    },
+    {
+      "title": "Slow Down (2006 Remastered Version)",
+      "artist": "Brand Nubian",
+      "album": "The Very Best of Brand Nubian",
+      "durationMs": 303107,
+      "ids": {
+        "appleMusic": "1604624889"
+      }
+    },
+    {
+      "title": "Paid in Full (Seven Minutes of Madness) [The Coldcut Remix]",
+      "artist": "Eric B. \u0026 Rakim",
+      "album": "Brown Sugar (Music from the Motion Picture)",
+      "durationMs": 429707,
+      "ids": {
+        "appleMusic": "1443077207"
+      }
+    },
+    {
+      "title": "Luck of Lucien",
+      "artist": "A Tribe Called Quest",
+      "album": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "durationMs": 282009,
+      "ids": {
+        "appleMusic": "1806751232"
+      }
+    },
+    {
+      "title": "Flute Loop",
+      "artist": "Beastie Boys",
+      "album": "Ill Communication (Deluxe Edition) [Remastered]",
+      "durationMs": 114653,
+      "ids": {
+        "appleMusic": "716576120"
+      }
+    },
+    {
+      "title": "They Reminisce Over You",
+      "artist": "Pete Rock \u0026 C.L. Smooth",
+      "album": "Hip Hop Classics Party",
+      "durationMs": 286693,
+      "ids": {
+        "appleMusic": "1587658503"
+      }
+    },
+    {
+      "title": "Here I Go Again (feat. AZ \u0026 Rell)",
+      "artist": "Ghostface Killah",
+      "album": "36 Seasons",
+      "durationMs": 208149,
+      "ids": {
+        "appleMusic": "938800328"
+      }
+    },
+    {
+      "title": "All I Need",
+      "artist": "JAŸ-Z",
+      "album": "The Blueprint Collector's Edition (Explicit Version)",
+      "durationMs": 265827,
+      "ids": {
+        "appleMusic": "1862654504"
+      }
+    },
+    {
+      "title": "Machine Gun Funk",
+      "artist": "The Notorious B.I.G.",
+      "album": "Ready To Die: For The Money - EP",
+      "durationMs": 255893,
+      "ids": {
+        "appleMusic": "1765108451"
+      }
+    },
+    {
+      "title": "I'm Not a Player",
+      "artist": "Big Punisher",
+      "album": "Capital Punishment",
+      "durationMs": 221335,
+      "ids": {
+        "appleMusic": "253532371"
+      }
+    },
+    {
+      "title": "I Can",
+      "artist": "Nas",
+      "album": "God's Son",
+      "durationMs": 253720,
+      "ids": {
+        "appleMusic": "162508312"
+      }
+    },
+    {
+      "title": "Shook Ones, Pt. II",
+      "artist": "Mobb Deep",
+      "album": "The Infamous (25th Anniversary Expanded Edition)",
+      "durationMs": 325507,
+      "ids": {
+        "appleMusic": "1508622545"
+      }
+    },
+    {
+      "title": "Can I Kick It?",
+      "artist": "A Tribe Called Quest",
+      "album": "Pure... 90S",
+      "durationMs": 251653,
+      "ids": {
+        "appleMusic": "541518991"
+      }
+    },
+    {
+      "title": "Vocab (Refugees Hip Hop Remix)",
+      "artist": "Fugees",
+      "album": "Greatest Hits",
+      "durationMs": 240186,
+      "ids": {
+        "appleMusic": "267384404"
+      }
+    },
+    {
+      "title": "Runnin' (Philippians Remix)",
+      "artist": "The Pharcyde",
+      "album": "Runnin' / 4 Better Or 4 Worse (Remixes) - EP",
+      "durationMs": 332587,
+      "ids": {
+        "appleMusic": "1443744168"
+      }
+    },
+    {
+      "title": "93 'Til Infinity",
+      "artist": "Souls of Mischief",
+      "album": "93 'til Infinity",
+      "durationMs": 286440,
+      "ids": {
+        "appleMusic": "369570892"
+      }
+    },
+    {
+      "title": "This Way",
+      "artist": "Dilated Peoples",
+      "album": "Neighborhood Watch",
+      "durationMs": 245827,
+      "ids": {
+        "appleMusic": "724476057"
+      }
+    },
+    {
+      "title": "Grown Up",
+      "artist": "Danny Brown",
+      "album": "Grown Up - Single",
+      "durationMs": 139931,
+      "ids": {
+        "appleMusic": "1810313271"
+      }
+    },
+    {
+      "title": "Institutionalized (feat. Bilal, Anna Wise \u0026 Snoop Dogg)",
+      "artist": "Kendrick Lamar",
+      "album": "To Pimp a Butterfly",
+      "durationMs": 271774,
+      "ids": {
+        "appleMusic": "1440829145"
+      }
+    },
+    {
+      "title": "It Was a Good Day",
+      "artist": "Ice Cube",
+      "album": "Greatest Hits",
+      "durationMs": 260080,
+      "ids": {
+        "appleMusic": "724363751"
+      }
+    },
+    {
+      "title": "SpottieOttieDopaliscious",
+      "artist": "OutKast",
+      "album": "Aquemini",
+      "durationMs": 426859,
+      "ids": {
+        "appleMusic": "266365523"
+      }
+    },
+    {
+      "title": "Never Enough",
+      "artist": "Logic",
+      "album": "Under Pressure",
+      "durationMs": 262562,
+      "ids": {
+        "appleMusic": "1440815749"
+      }
+    },
+    {
+      "title": "Bonita Applebum",
+      "artist": "A Tribe Called Quest",
+      "album": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "durationMs": 229847,
+      "ids": {
+        "appleMusic": "1806751240"
+      }
+    },
+    {
+      "title": "Passin' Me By",
+      "artist": "The Pharcyde",
+      "album": "Waxing Off: Delicious Vinyl's Greatest Hits",
+      "durationMs": 303467,
+      "ids": {
+        "appleMusic": "1442263701"
+      }
+    },
+    {
+      "title": "F!*@ You Tonight (feat. R. Kelly)",
+      "artist": "The Notorious B.I.G.",
+      "album": "Life After Death (2014 Remaster)",
+      "durationMs": 345467,
+      "ids": {
+        "appleMusic": "906888508"
+      }
+    },
+    {
+      "title": "Good Lovin (feat. Miguel)",
+      "artist": "Ludacris",
+      "album": "Hip Hop Love Songs",
+      "durationMs": 224069,
+      "ids": {
+        "appleMusic": "1472466800"
+      }
+    },
+    {
+      "title": "Only You (Bad Boy Remix) [feat. The Notorious B.I.G. \u0026 Mase]",
+      "artist": "112",
+      "album": "Golden Era of R\u0026B",
+      "durationMs": 285453,
+      "ids": {
+        "appleMusic": "6763239022"
+      }
+    },
+    {
+      "title": "Loungin (Who Do Ya Luv)",
+      "artist": "LL COOL J",
+      "album": "All World",
+      "durationMs": 226227,
+      "ids": {
+        "appleMusic": "1440911387"
+      }
+    },
+    {
+      "title": "V. 3005",
+      "artist": "Childish Gambino",
+      "album": "Because the Internet",
+      "durationMs": 234215,
+      "ids": {
+        "appleMusic": "1440859177"
+      }
+    },
+    {
+      "title": "Alright (feat. Allen Anthony)",
+      "artist": "Freeway",
+      "album": "Philadelphia Freeway",
+      "durationMs": 323840,
+      "ids": {
+        "appleMusic": "1443402127"
+      }
+    },
+    {
+      "title": "What's On Your Mind (House Party II Rap Theme) [Extended Vocal Version]",
+      "artist": "Eric B. \u0026 Rakim",
+      "album": "Gold: Eric B. \u0026 Rakim",
+      "durationMs": 321867,
+      "ids": {
+        "appleMusic": "1452806758"
+      }
+    },
+    {
+      "title": "Can't You See",
+      "artist": "Total",
+      "album": "Twice as Nice",
+      "durationMs": 253427,
+      "ids": {
+        "appleMusic": "1244743901"
+      }
+    },
+    {
+      "title": "Electric Relaxation (Relax Yourself Girl)",
+      "artist": "A Tribe Called Quest",
+      "album": "Hits, Rarities \u0026 Remixes",
+      "durationMs": 224920,
+      "ids": {
+        "appleMusic": "253696791"
+      }
+    },
+    {
+      "title": "Beautiful (feat. Pharrell Williams \u0026 Uncle Charlie Wilson)",
+      "artist": "Snoop Dogg",
+      "album": "Soirée rap 00",
+      "durationMs": 299147,
+      "ids": {
+        "appleMusic": "1786446927"
+      }
+    },
+    {
+      "title": "The Way You Move (feat. Sleepy Brown)",
+      "artist": "OutKast",
+      "album": "Speakerboxxx/The Love Below",
+      "durationMs": 234000,
+      "ids": {
+        "appleMusic": "1774796505"
+      }
+    },
+    {
+      "title": "Fantasy (feat. Ol' Dirty Bastard) [Bad Boy Fantasy]",
+      "artist": "Mariah Carey",
+      "album": "Happiness Forever",
+      "durationMs": 290413,
+      "ids": {
+        "appleMusic": "1030800558"
+      }
+    },
+    {
+      "title": "No Diggity (feat. Dr. Dre \u0026 Queen Pen)",
+      "artist": "Blackstreet",
+      "album": "Another Level",
+      "durationMs": 304600,
+      "ids": {
+        "appleMusic": "1440908981"
+      }
+    },
+    {
+      "title": "These Walls (feat. Bilal, Anna Wise \u0026 Thundercat)",
+      "artist": "Kendrick Lamar",
+      "album": "To Pimp a Butterfly",
+      "durationMs": 300976,
+      "ids": {
+        "appleMusic": "1440829150"
+      }
+    },
+    {
+      "title": "Miss Me (feat. Lil Wayne)",
+      "artist": "Drake",
+      "album": "Thank Me Later",
+      "durationMs": 305520,
+      "ids": {
+        "appleMusic": "1440782139"
+      }
+    },
+    {
+      "title": "Sexual Eruption",
+      "artist": "Snoop Dogg",
+      "album": "Ego Trippin'",
+      "durationMs": 240307,
+      "ids": {
+        "appleMusic": "1443237989"
+      }
+    },
+    {
+      "title": "Down and Out (feat. Kanye West \u0026 Syleena Johnson)",
+      "artist": "Cam’ron",
+      "album": "Purple Haze",
+      "durationMs": 248627,
+      "ids": {
+        "appleMusic": "1440755464"
+      }
+    },
+    {
+      "title": "Flava in Ya Ear (Remix) [feat. Rampage, Busta Rhymes, The Notorious B.I.G. \u0026 LL Cool J]",
+      "artist": "Craig Mack",
+      "album": "Top Hits: 1980 - 2000",
+      "durationMs": 302013,
+      "ids": {
+        "appleMusic": "1777996923"
+      }
+    },
+    {
+      "title": "Feel So Good",
+      "artist": "Ma$e",
+      "album": "Upbeat R'n'B",
+      "durationMs": 203627,
+      "ids": {
+        "appleMusic": "1693374503"
+      }
+    },
+    {
+      "title": "Party Is Goin' On Over Here",
+      "artist": "Busta Rhymes",
+      "album": "The Mod Squad (Music from the MGM Motion Picture)",
+      "durationMs": 153293,
+      "ids": {
+        "appleMusic": "797534308"
+      }
+    },
+    {
+      "title": "Roc Boys (And the Winner Is)...",
+      "artist": "JAŸ-Z",
+      "album": "The Hits Collection, Vol. One (Deluxe Edition with Videos)",
+      "durationMs": 252307,
+      "ids": {
+        "appleMusic": "1440984734"
+      }
+    },
+    {
+      "title": "Throw Some D's Remix (feat. André 3000, Jim Jones, Nelly, Murphy Lee \u0026 The Game)",
+      "artist": "Rich Boy",
+      "album": "Down South: 2000s Hip Hop Bangers",
+      "durationMs": 351053,
+      "ids": {
+        "appleMusic": "1810568763"
+      }
+    },
+    {
+      "title": "Hay",
+      "artist": "Crucial Conflict",
+      "album": "Midwest Mix",
+      "durationMs": 260240,
+      "ids": {
+        "appleMusic": "1579980045"
+      }
+    },
+    {
+      "title": "The Whole World (feat. Killer Mike)",
+      "artist": "OutKast",
+      "album": "Big Boi \u0026 Dre Present... OutKast",
+      "durationMs": 295347,
+      "ids": {
+        "appleMusic": "256461806"
+      }
+    },
+    {
+      "title": "Driving Ms Daisy (feat. Childish Gambino)",
+      "artist": "Logic",
+      "album": "Under Pressure (Deluxe Edition)",
+      "durationMs": 240584,
+      "ids": {
+        "appleMusic": "1440819785"
+      }
+    },
+    {
+      "title": "Mr. Carter (feat. JAŸ-Z)",
+      "artist": "Lil Wayne",
+      "album": "Tha Carter III",
+      "durationMs": 316267,
+      "ids": {
+        "appleMusic": "1440737226"
+      }
+    },
+    {
+      "title": "Notorious Thugs (2014 Remaster)",
+      "artist": "The Notorious B.I.G.",
+      "album": "Music Inspired By Biggie: I Got A Story To Tell",
+      "durationMs": 366880,
+      "ids": {
+        "appleMusic": "1555621727"
+      }
+    },
+    {
+      "title": "Tha Shiznit",
+      "artist": "Snoop Dogg",
+      "album": "Doggystyle",
+      "durationMs": 280613,
+      "ids": {
+        "appleMusic": "1676306186"
+      }
+    },
+    {
+      "title": "Been There Done That",
+      "artist": "Dr. Dre",
+      "album": "Dr. Dre Presents... The Aftermath",
+      "durationMs": 310440,
+      "ids": {
+        "appleMusic": "1444001602"
+      }
+    },
+    {
+      "title": "I Got 5 On It (feat. Michael Marshall)",
+      "artist": "Luniz",
+      "album": "TBT",
+      "durationMs": 253533,
+      "ids": {
+        "appleMusic": "1610028470"
+      }
+    },
+    {
+      "title": "Check Yo Self (Remix)",
+      "artist": "Ice Cube",
+      "album": "Greatest Hits",
+      "durationMs": 255533,
+      "ids": {
+        "appleMusic": "724363427"
+      }
+    },
+    {
+      "title": "The Humpty Dance",
+      "artist": "Digital Underground",
+      "album": "The Humpty Dance - Single",
+      "durationMs": 391693,
+      "ids": {
+        "appleMusic": "1634644372"
+      }
+    },
+    {
+      "title": "Bop Gun (One Nation) [Radio Edit]",
+      "artist": "Ice Cube",
+      "album": "Greatest Hits",
+      "durationMs": 287080,
+      "ids": {
+        "appleMusic": "724363785"
+      }
+    },
+    {
+      "title": "Express Yourself",
+      "artist": "N.W.A",
+      "album": "The Best of N.W.A: The Strength of Street Knowledge",
+      "durationMs": 262933,
+      "ids": {
+        "appleMusic": "1489662958"
+      }
+    },
+    {
+      "title": "Hand On the Pump",
+      "artist": "Cypress Hill",
+      "album": "Greatest Hits From The Bong",
+      "durationMs": 242333,
+      "ids": {
+        "appleMusic": "155715858"
+      }
+    },
+    {
+      "title": "It's Funky Enough",
+      "artist": "The D.O.C.",
+      "album": "No One Can Do It Better",
+      "durationMs": 269973,
+      "ids": {
+        "appleMusic": "79023418"
+      }
+    },
+    {
+      "title": "Ain’t No Fun (If the Homies Can’t Have None) [feat. Nate Dogg, Warren G \u0026 Kurupt]",
+      "artist": "Snoop Dogg",
+      "album": "Doggystyle",
+      "durationMs": 246400,
+      "ids": {
+        "appleMusic": "1676306192"
+      }
+    },
+    {
+      "title": "Hate It Or Love It (feat. 50 Cent)",
+      "artist": "The Game",
+      "album": "The Documentary",
+      "durationMs": 206400,
+      "ids": {
+        "appleMusic": "1440799195"
+      }
+    },
+    {
+      "title": "Straight Outta Compton",
+      "artist": "N.W.A",
+      "album": "Hip Hop Workout",
+      "durationMs": 258688,
+      "ids": {
+        "appleMusic": "1375814040"
+      }
+    },
+    {
+      "title": "Doggy Dogg World (feat. Tha Dogg Pound \u0026 The Dramatics)",
+      "artist": "Snoop Dogg",
+      "album": "Doggystyle",
+      "durationMs": 338760,
+      "ids": {
+        "appleMusic": "1676306193"
+      }
+    },
+    {
+      "title": "Whateva Man (feat. Erick Sermon)",
+      "artist": "Redman",
+      "album": "Best Of",
+      "durationMs": 189120,
+      "ids": {
+        "appleMusic": "1444011081"
+      }
+    },
+    {
+      "title": "Da Rockwilder",
+      "artist": "Method Man \u0026 Redman",
+      "album": "Poker Night",
+      "durationMs": 136453,
+      "ids": {
+        "appleMusic": "1824351248"
+      }
+    },
+    {
+      "title": "What Means the World to You",
+      "artist": "Cam’ron",
+      "album": "Cam'ron... Harlem's Greatest",
+      "durationMs": 279467,
+      "ids": {
+        "appleMusic": "298171061"
+      }
+    },
+    {
+      "title": "Super Lyrical (feat. Black Thought)",
+      "artist": "Big Punisher",
+      "album": "Capital Punishment",
+      "durationMs": 208217,
+      "ids": {
+        "appleMusic": "253531339"
+      }
+    },
+    {
+      "title": "Public Service Announcement (Interlude)",
+      "artist": "JAŸ-Z",
+      "album": "The Hits Collection, Vol. One (Deluxe Edition with Videos)",
+      "durationMs": 166000,
+      "ids": {
+        "appleMusic": "1440984703"
+      }
+    },
+    {
+      "title": "MC's Act Like They Don't Know",
+      "artist": "KRS-One",
+      "album": "KRS-One",
+      "durationMs": 295933,
+      "ids": {
+        "appleMusic": "254977164"
+      }
+    },
+    {
+      "title": "Made You Look",
+      "artist": "Nas",
+      "album": "God's Son",
+      "durationMs": 203000,
+      "ids": {
+        "appleMusic": "162508258"
+      }
+    },
+    {
+      "title": "Give Up the Goods (Just Step) [feat. Big Noyd]",
+      "artist": "Mobb Deep",
+      "album": "The Infamous (25th Anniversary Expanded Edition)",
+      "durationMs": 243133,
+      "ids": {
+        "appleMusic": "1508622225"
+      }
+    },
+    {
+      "title": "Money, Power \u0026 Respect (feat. DMX \u0026 Lil' Kim)",
+      "artist": "The LOX",
+      "album": "Money, Power \u0026 Respect",
+      "durationMs": 270493,
+      "ids": {
+        "appleMusic": "80978968"
+      }
+    },
+    {
+      "title": "What We Do (feat. JAŸ-Z \u0026 Beanie Sigel)",
+      "artist": "Freeway",
+      "album": "Philadelphia Freeway",
+      "durationMs": 229107,
+      "ids": {
+        "appleMusic": "1443402108"
+      }
+    },
+    {
+      "title": "Ill Bomb (feat. LL Cool J)",
+      "artist": "Funk Flex \u0026 Big Kap",
+      "album": "G.O.A.T. Featuring James T. Smith - The Greatest of All Time",
+      "durationMs": 241627,
+      "ids": {
+        "appleMusic": "1443315525"
+      }
+    },
+    {
+      "title": "Boom (Street Version)",
+      "artist": "Royce Da 5'9\"",
+      "album": "Boom / Soldier's Story",
+      "durationMs": 235760,
+      "ids": {
+        "appleMusic": "276255691"
+      }
+    },
+    {
+      "title": "Off the Books (feat. Big Punisher \u0026 Cuban Linx)",
+      "artist": "The Beatnuts",
+      "album": "The Legacy: The Best Of Big Pun",
+      "durationMs": 167520,
+      "ids": {
+        "appleMusic": "330176957"
+      }
+    },
+    {
+      "title": "Phone Tap",
+      "artist": "Nas, AZ, Nature \u0026 Dr. Dre",
+      "album": "Nas, Foxy Brown, AZ, and Nature Present: The Album",
+      "durationMs": 226307,
+      "ids": {
+        "appleMusic": "1728310860"
+      }
+    },
+    {
+      "title": "Energy",
+      "artist": "Drake",
+      "album": "If You're Reading This It's Too Late",
+      "durationMs": 181928,
+      "ids": {
+        "appleMusic": "1440839943"
+      }
+    },
+    {
+      "title": "Dipset Anthem",
+      "artist": "The Diplomats",
+      "album": "Diplomatic Immunity",
+      "durationMs": 249040,
+      "ids": {
+        "appleMusic": "1440661371"
+      }
+    },
+    {
+      "title": "Step Into a World (Rapture's Delight)",
+      "artist": "KRS-One",
+      "album": "I Got Next",
+      "durationMs": 289843,
+      "ids": {
+        "appleMusic": "286588617"
+      }
+    },
+    {
+      "title": "The World Is Yours",
+      "artist": "Nas",
+      "album": "Illmatic",
+      "durationMs": 290579,
+      "ids": {
+        "appleMusic": "662324541"
+      }
+    },
+    {
+      "title": "Top Down",
+      "artist": "Swizz Beatz",
+      "album": "One Man Band Man",
+      "durationMs": 188933,
+      "ids": {
+        "appleMusic": "1449916598"
+      }
+    },
+    {
+      "title": "Protect Ya Neck (The Jump Off)",
+      "artist": "Wu-Tang Clan",
+      "album": "Legend Of The Wu-Tang: Wu-Tang Clan's Greatest Hits",
+      "durationMs": 238293,
+      "ids": {
+        "appleMusic": "269865624"
+      }
+    },
+    {
+      "title": "Wu-Gambinos",
+      "artist": "Raekwon",
+      "album": "Wu-Chronicles",
+      "durationMs": 340467,
+      "ids": {
+        "appleMusic": "288246288"
+      }
+    },
+    {
+      "title": "Got 2 Be Down (feat. Faith Evans)",
+      "artist": "Robin Thicke featuring Faith Evans",
+      "album": "The Evolution of Robin Thicke (Deluxe Edition)",
+      "durationMs": 273320,
+      "ids": {
+        "appleMusic": "1440784329"
+      }
+    }
+  ]
+}

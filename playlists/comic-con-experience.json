@@ -1,0 +1,302 @@
+{
+  "name": "Comic Con Experience",
+  "tracks": [
+    {
+      "title": "Star Wars: Main Title",
+      "artist": "Boston Pops Orchestra \u0026 John Williams",
+      "album": "Boston Pops Orchestra: John Williams",
+      "durationMs": 337333,
+      "ids": {
+        "appleMusic": "1662646906"
+      }
+    },
+    {
+      "title": "The Imperial March (Darth Vader's Theme)",
+      "artist": "John Williams \u0026 London Symphony Orchestra",
+      "album": "Star Wars: Das Imperium schlägt zurück (Original Film-Soundtrack)",
+      "durationMs": 179560,
+      "ids": {
+        "appleMusic": "1376702360"
+      }
+    },
+    {
+      "title": "Main Theme (From \"Back to the Future\")",
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Pearl \u0026 Dean - The Nation's Favourite Movie Themes",
+      "durationMs": 206787,
+      "ids": {
+        "appleMusic": "1657261261"
+      }
+    },
+    {
+      "title": "The Walking Dead Theme",
+      "artist": "Retrospectre",
+      "album": "Halloween: The Album",
+      "durationMs": 39967,
+      "ids": {
+        "appleMusic": "1169123171"
+      }
+    },
+    {
+      "title": "Theme from Superman (Concert Version)",
+      "artist": "John Williams \u0026 London Symphony Orchestra",
+      "album": "Superman: The Movie (Soundtrack from the Motion Picture) [Deluxe]",
+      "durationMs": 264293,
+      "ids": {
+        "appleMusic": "50235930"
+      }
+    },
+    {
+      "title": "James Bond Theme",
+      "artist": "London Symphony Orchestra",
+      "album": "007 Classics (The Songs From James Bond)",
+      "durationMs": 106200,
+      "ids": {
+        "appleMusic": "310742319"
+      }
+    },
+    {
+      "title": "Theme from Jurassic Park",
+      "artist": "John Williams",
+      "album": "Jurassic Park (Original Motion Picture Soundtrack)",
+      "durationMs": 207427,
+      "ids": {
+        "appleMusic": "1440800213"
+      }
+    },
+    {
+      "title": "Title Card",
+      "artist": "Pedro Bromfman, Gavin Greenaway \u0026 Everton Nelson",
+      "album": "RoboCop",
+      "durationMs": 49507,
+      "ids": {
+        "appleMusic": "797457293"
+      }
+    },
+    {
+      "title": "Main Title (From \"Daredevil\"/Score)",
+      "artist": "John Paesano \u0026 Braden Kimball",
+      "album": "Greatest Movie Soundtracks Of All Time",
+      "durationMs": 64947,
+      "ids": {
+        "appleMusic": "1798285567"
+      }
+    },
+    {
+      "title": "Pacific Rim (feat. Tom Morello)",
+      "artist": "Ramin Djawadi",
+      "album": "Pacific Rim (Original Motion Picture Soundtrack)",
+      "durationMs": 295427,
+      "ids": {
+        "appleMusic": "1455255965"
+      }
+    },
+    {
+      "title": "Arkham Knight (Main Theme)",
+      "artist": "David Buckley",
+      "album": "Batman: Arkham Knight, Vol. 1 (Original Video Game Score)",
+      "durationMs": 142413,
+      "ids": {
+        "appleMusic": "1455254794"
+      }
+    },
+    {
+      "title": "Metal Gear Solid: Sons of Liberty Theme",
+      "artist": "London Philharmonic Orchestra \u0026 Andrew Skeet",
+      "album": "Die beste Videospielmusik",
+      "durationMs": 237593,
+      "ids": {
+        "appleMusic": "472991412"
+      }
+    },
+    {
+      "title": "Main Theme",
+      "artist": "John Ottman, Jeffrey Schindler \u0026 American Federation of Musicians",
+      "album": "X-Men: Days of Future Past - Rogue Cut (Original Motion Picture Soundtrack) [Extended Version]",
+      "durationMs": 56840,
+      "ids": {
+        "appleMusic": "1005000100"
+      }
+    },
+    {
+      "title": "Main Title (From Game of Thrones: Season 4)",
+      "artist": "Ramin Djawadi",
+      "album": "Game of Thrones: Season 4 (Music from the HBO Series)",
+      "durationMs": 103587,
+      "ids": {
+        "appleMusic": "1454397569"
+      }
+    },
+    {
+      "title": "Better Call Saul",
+      "artist": "Junior Brown",
+      "album": "Better Call Saul - Single",
+      "durationMs": 156120,
+      "ids": {
+        "appleMusic": "925557242"
+      }
+    },
+    {
+      "title": "Champion Sound (From \"Assassin's Creed Syndicate\")",
+      "artist": "Ill Factor",
+      "album": "Champion Sound (From \"Assassin's Creed Syndicate\") - Single",
+      "durationMs": 184000,
+      "ids": {
+        "appleMusic": "1594576257"
+      }
+    },
+    {
+      "title": "Super Mario Bros. (Theme)",
+      "artist": "Cover Guru",
+      "album": "Super Mario Bros. (Theme) - Single",
+      "durationMs": 85684,
+      "ids": {
+        "appleMusic": "1513731655"
+      }
+    },
+    {
+      "title": "End Credits",
+      "artist": "John Williams",
+      "album": "Jurassic Park (Original Motion Picture Soundtrack)",
+      "durationMs": 205840,
+      "ids": {
+        "appleMusic": "1440800586"
+      }
+    },
+    {
+      "title": "Breaking Bad - Main Title Theme (Extended)",
+      "artist": "Dave Porter",
+      "album": "Breaking Bad (Original Score from the Television Series)",
+      "durationMs": 75667,
+      "ids": {
+        "appleMusic": "553068781"
+      }
+    },
+    {
+      "title": "Terminator Theme (From \"Terminator\")",
+      "artist": "Hanny Williams",
+      "album": "Terminator Theme (From \"Terminator\") - Single",
+      "durationMs": 121907,
+      "ids": {
+        "appleMusic": "590530460"
+      }
+    },
+    {
+      "title": "Drink Up Me Hearties Yo Ho",
+      "artist": "Hans Zimmer",
+      "album": "Pirates of the Caribbean: At World's End (Soundtrack from the Motion Picture)",
+      "durationMs": 271867,
+      "ids": {
+        "appleMusic": "1440743977"
+      }
+    },
+    {
+      "title": "My Dear Frodo",
+      "artist": "Howard Shore",
+      "album": "The Hobbit: An Unexpected Journey (Original Motion Picture Soundtrack)",
+      "durationMs": 484074,
+      "ids": {
+        "appleMusic": "1454373316"
+      }
+    },
+    {
+      "title": "The Avengers (From \"The Avengers\"/Score)",
+      "artist": "Alan Silvestri",
+      "album": "Bandas Sonoras Selectas Para Ti",
+      "durationMs": 123360,
+      "ids": {
+        "appleMusic": "1765791325"
+      }
+    },
+    {
+      "title": "Mission Impossible - Main Theme (From \"Mission: Impossible\" Original Motion Picture Score)",
+      "artist": "Danny Elfman",
+      "album": "Bandas Sonoras Selectas Para Ti",
+      "durationMs": 62827,
+      "ids": {
+        "appleMusic": "1765791343"
+      }
+    },
+    {
+      "title": "Tetris Theme (8-Bit Version)",
+      "artist": "8-Bit Universe",
+      "album": "8-Bit Universe, Vol. 10",
+      "durationMs": 90213,
+      "ids": {
+        "appleMusic": "894910328"
+      }
+    },
+    {
+      "title": "Pokémon Theme",
+      "artist": "Pokémon",
+      "album": "Pokémon 2.B.A. Master (Music from the TV Series)",
+      "durationMs": 198187,
+      "ids": {
+        "appleMusic": "1834060954"
+      }
+    },
+    {
+      "title": "The Simpsons",
+      "artist": "Movie Sounds Unlimited",
+      "album": "50 Best of American TV Themes",
+      "durationMs": 47276,
+      "ids": {
+        "appleMusic": "543541171"
+      }
+    },
+    {
+      "title": "Sonic the Hedgehog: Green Hill Zone \u0026 Boss Theme (Instrumental)",
+      "artist": "The Video Game Music Orchestra",
+      "album": "The Best of Retro Video Games",
+      "durationMs": 195987,
+      "ids": {
+        "appleMusic": "563734455"
+      }
+    },
+    {
+      "title": "Super Mario Bros. (Medley)",
+      "artist": "Arcadia",
+      "album": "The Best of Retro Video Games",
+      "durationMs": 199413,
+      "ids": {
+        "appleMusic": "563734342"
+      }
+    },
+    {
+      "title": "The Fresh Prince of Bel Air (Theme from NBC's The Fresh Prince Of Bel Air)",
+      "artist": "DJ Jazzy Jeff \u0026 The Fresh Prince",
+      "album": "DJ Jazzy Jeff \u0026 The Fresh Prince: Greatest Hits",
+      "durationMs": 177267,
+      "ids": {
+        "appleMusic": "309484327"
+      }
+    },
+    {
+      "title": "Big Bang Theory Theme",
+      "artist": "Barenaked Ladies",
+      "album": "Hits from Yesterday \u0026 the Day Before",
+      "durationMs": 105267,
+      "ids": {
+        "appleMusic": "464675958"
+      }
+    },
+    {
+      "title": "Batman: The Animated Series (Main Title)",
+      "artist": "Danny Elfman",
+      "album": "Batman: The Animated Series, Vol. 1 (Original Soundtrack from the Warner Bros. Television Series)",
+      "durationMs": 61787,
+      "ids": {
+        "appleMusic": "1456163229"
+      }
+    },
+    {
+      "title": "House of Cards Main Title Season 2",
+      "artist": "Jeff Beal",
+      "album": "House of Cards: Season 2 (Music From the Netflix Original Series)",
+      "durationMs": 198573,
+      "ids": {
+        "appleMusic": "1443493496"
+      }
+    }
+  ]
+}

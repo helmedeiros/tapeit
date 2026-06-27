@@ -1,0 +1,680 @@
+{
+  "name": "Walk Like A Badass",
+  "tracks": [
+    {
+      "title": "Starburster",
+      "artist": "Fontaines D.C.",
+      "album": "Romance",
+      "durationMs": 221451,
+      "ids": {
+        "appleMusic": "1737990264"
+      }
+    },
+    {
+      "title": "POP POP POP",
+      "artist": "IDLES",
+      "album": "TANGK",
+      "durationMs": 256573,
+      "ids": {
+        "appleMusic": "1783175067"
+      }
+    },
+    {
+      "title": "Supermassive Black Hole",
+      "artist": "Muse",
+      "album": "Supermassive Black Hole - Single",
+      "durationMs": 212440,
+      "ids": {
+        "appleMusic": "317961309"
+      }
+    },
+    {
+      "title": "Hate to Say I Told You So",
+      "artist": "The Hives",
+      "album": "Veni Vidi Vicious",
+      "durationMs": 200693,
+      "ids": {
+        "appleMusic": "1485028050"
+      }
+    },
+    {
+      "title": "Won't Settle",
+      "artist": "BONES UK",
+      "album": "Soft",
+      "durationMs": 246429,
+      "ids": {
+        "appleMusic": "1817627794"
+      }
+    },
+    {
+      "title": "King",
+      "artist": "Florence + the Machine",
+      "album": "Dance Fever",
+      "durationMs": 280131,
+      "ids": {
+        "appleMusic": "1613321263"
+      }
+    },
+    {
+      "title": "Elephant",
+      "artist": "Tame Impala",
+      "album": "Lonerism",
+      "durationMs": 211027,
+      "ids": {
+        "appleMusic": "1440826312"
+      }
+    },
+    {
+      "title": "Can’t Stop",
+      "artist": "Red Hot Chili Peppers",
+      "album": "Boxen - Playlist - Boxing",
+      "durationMs": 269000,
+      "ids": {
+        "appleMusic": "1735285813"
+      }
+    },
+    {
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "album": "Do I Wanna Know? - Single",
+      "durationMs": 273424,
+      "ids": {
+        "appleMusic": "675833167"
+      }
+    },
+    {
+      "title": "Sinner",
+      "artist": "The Last Dinner Party",
+      "album": "Sinner - Single",
+      "durationMs": 176707,
+      "ids": {
+        "appleMusic": "1691826608"
+      }
+    },
+    {
+      "title": "Leader of the Pack",
+      "artist": "Wunderhorse",
+      "album": "Leader of the Pack - EP",
+      "durationMs": 183467,
+      "ids": {
+        "appleMusic": "1626317033"
+      }
+    },
+    {
+      "title": "Teenagers",
+      "artist": "My Chemical Romance",
+      "album": "May Death Never Stop You (Deluxe Version)",
+      "durationMs": 162200,
+      "ids": {
+        "appleMusic": "811747404"
+      }
+    },
+    {
+      "title": "Next Semester",
+      "artist": "twenty one pilots",
+      "album": "In the Game Zone",
+      "durationMs": 234400,
+      "ids": {
+        "appleMusic": "1743829557"
+      }
+    },
+    {
+      "title": "Lowlife",
+      "artist": "YUNGBLUD",
+      "album": "Lowlife - Single",
+      "durationMs": 233627,
+      "ids": {
+        "appleMusic": "1689702441"
+      }
+    },
+    {
+      "title": "BLACKOUT",
+      "artist": "Turnstile",
+      "album": "GLOW ON",
+      "durationMs": 173280,
+      "ids": {
+        "appleMusic": "1576430194"
+      }
+    },
+    {
+      "title": "U Should Not Be Doing That",
+      "artist": "Amyl and The Sniffers",
+      "album": "U Should Not Be Doing That / Facts - Single",
+      "durationMs": 206659,
+      "ids": {
+        "appleMusic": "1742014139"
+      }
+    },
+    {
+      "title": "Hayloft",
+      "artist": "Mother Mother",
+      "album": "O My Heart (Extended Edition)",
+      "durationMs": 181680,
+      "ids": {
+        "appleMusic": "1765191405"
+      }
+    },
+    {
+      "title": "Icky Thump",
+      "artist": "The White Stripes",
+      "album": "The White Stripes Greatest Hits",
+      "durationMs": 254533,
+      "ids": {
+        "appleMusic": "1534388606"
+      }
+    },
+    {
+      "title": "Welcome to the DCC",
+      "artist": "Nothing But Thieves",
+      "album": "Welcome to the DCC - Single",
+      "durationMs": 198799,
+      "ids": {
+        "appleMusic": "1673770390"
+      }
+    },
+    {
+      "title": "Smile",
+      "artist": "Wolf Alice",
+      "album": "Blue Weekend",
+      "durationMs": 196804,
+      "ids": {
+        "appleMusic": "1551677860"
+      }
+    },
+    {
+      "title": "I WANNA BE YOUR SLAVE",
+      "artist": "Måneskin",
+      "album": "Teatro d'Ira - Vol. I",
+      "durationMs": 173347,
+      "ids": {
+        "appleMusic": "1556035502"
+      }
+    },
+    {
+      "title": "Jumpsuit",
+      "artist": "twenty one pilots",
+      "album": "Jumpsuit / Nico And The Niners - Single",
+      "durationMs": 238568,
+      "ids": {
+        "appleMusic": "1409892036"
+      }
+    },
+    {
+      "title": "What Went Down",
+      "artist": "Foals",
+      "album": "What Went Down",
+      "durationMs": 300720,
+      "ids": {
+        "appleMusic": "1552267617"
+      }
+    },
+    {
+      "title": "Longshot",
+      "artist": "Catfish and the Bottlemen",
+      "album": "Longshot - Single",
+      "durationMs": 232959,
+      "ids": {
+        "appleMusic": "1447051168"
+      }
+    },
+    {
+      "title": "Seize the Power",
+      "artist": "YONAKA",
+      "album": "Seize the Power - Single",
+      "durationMs": 161617,
+      "ids": {
+        "appleMusic": "1545543110"
+      }
+    },
+    {
+      "title": "Mustang",
+      "artist": "Kings of Leon",
+      "album": "Can We Please Have Fun",
+      "durationMs": 194732,
+      "ids": {
+        "appleMusic": "1730816796"
+      }
+    },
+    {
+      "title": "Aye",
+      "artist": "Sam Fender",
+      "album": "Seventeen Going Under (Deluxe)",
+      "durationMs": 186773,
+      "ids": {
+        "appleMusic": "1578778209"
+      }
+    },
+    {
+      "title": "The Way You Used To Do",
+      "artist": "Queens of the Stone Age",
+      "album": "Villains",
+      "durationMs": 274282,
+      "ids": {
+        "appleMusic": "1586489509"
+      }
+    },
+    {
+      "title": "Running",
+      "artist": "Fat Dog",
+      "album": "WOOF.",
+      "durationMs": 317467,
+      "ids": {
+        "appleMusic": "1738213335"
+      }
+    },
+    {
+      "title": "Pass The Nirvana",
+      "artist": "Pierce the Veil",
+      "album": "The Jaws Of Life (Deluxe)",
+      "durationMs": 197374,
+      "ids": {
+        "appleMusic": "1809283134"
+      }
+    },
+    {
+      "title": "Oh!",
+      "artist": "The Linda Lindas",
+      "album": "Growing Up",
+      "durationMs": 155336,
+      "ids": {
+        "appleMusic": "1603407101"
+      }
+    },
+    {
+      "title": "So Sweet I Could Die",
+      "artist": "Lucia \u0026 The Best Boys",
+      "album": "Burning Castles",
+      "durationMs": 142328,
+      "ids": {
+        "appleMusic": "1683832700"
+      }
+    },
+    {
+      "title": "The News",
+      "artist": "Paramore",
+      "album": "This Is Why",
+      "durationMs": 187697,
+      "ids": {
+        "appleMusic": "1739497267"
+      }
+    },
+    {
+      "title": "Fuck Me (I Didn’t Know How To Say)",
+      "artist": "Crawlers",
+      "album": "Fuck Me (I Didn’t Know How To Say) - Single",
+      "durationMs": 186787,
+      "ids": {
+        "appleMusic": "1622722371"
+      }
+    },
+    {
+      "title": "Wild Stare",
+      "artist": "Giant Rooks",
+      "album": "ROOKERY",
+      "durationMs": 194480,
+      "ids": {
+        "appleMusic": "1511711635"
+      }
+    },
+    {
+      "title": "Vertigo",
+      "artist": "Alice Merton",
+      "album": "S.I.D.E.S.",
+      "durationMs": 186933,
+      "ids": {
+        "appleMusic": "1609381118"
+      }
+    },
+    {
+      "title": "Hold Me like a Grudge",
+      "artist": "Fall Out Boy",
+      "album": "100 from the 20's - Rock",
+      "durationMs": 215601,
+      "ids": {
+        "appleMusic": "1746681606"
+      }
+    },
+    {
+      "title": "Boilermaker",
+      "artist": "Royal Blood",
+      "album": "Typhoons",
+      "durationMs": 209480,
+      "ids": {
+        "appleMusic": "1547968992"
+      }
+    },
+    {
+      "title": "Dad Vibes",
+      "artist": "Limp Bizkit",
+      "album": "Dad Vibes - Single",
+      "durationMs": 132206,
+      "ids": {
+        "appleMusic": "1588055876"
+      }
+    },
+    {
+      "title": "Italian Horror",
+      "artist": "Kasabian",
+      "album": "Happenings",
+      "durationMs": 155659,
+      "ids": {
+        "appleMusic": "1731888322"
+      }
+    },
+    {
+      "title": "Pop The Balloon",
+      "artist": "Nothing But Thieves",
+      "album": "Dead Club City (Extended Deluxe)",
+      "durationMs": 271328,
+      "ids": {
+        "appleMusic": "1756530685"
+      }
+    },
+    {
+      "title": "St. Charles Square",
+      "artist": "Blur",
+      "album": "St. Charles Square - Single",
+      "durationMs": 235326,
+      "ids": {
+        "appleMusic": "1694297015"
+      }
+    },
+    {
+      "title": "What's the Trick?",
+      "artist": "Jack White",
+      "album": "Fear Of The Dawn",
+      "durationMs": 214843,
+      "ids": {
+        "appleMusic": "1608206781"
+      }
+    },
+    {
+      "title": "Parasite Eve",
+      "artist": "Bring Me The Horizon",
+      "album": "POST HUMAN: SURVIVAL HORROR",
+      "durationMs": 291813,
+      "ids": {
+        "appleMusic": "1535067182"
+      }
+    },
+    {
+      "title": "Sink Ya Teeth",
+      "artist": "The Mysterines",
+      "album": "Afraid of Tomorrows",
+      "durationMs": 207652,
+      "ids": {
+        "appleMusic": "1728659758"
+      }
+    },
+    {
+      "title": "BLACK COUNTRY GOTHIC",
+      "artist": "BIG SPECIAL",
+      "album": "POSTINDUSTRIAL HOMETOWN BLUES",
+      "durationMs": 177598,
+      "ids": {
+        "appleMusic": "1738486101"
+      }
+    },
+    {
+      "title": "Get Down",
+      "artist": "Kid Kapichi",
+      "album": "There Goes the Neighbourhood",
+      "durationMs": 219720,
+      "ids": {
+        "appleMusic": "1709202472"
+      }
+    },
+    {
+      "title": "Burnout",
+      "artist": "The Warning",
+      "album": "Keep Me Fed",
+      "durationMs": 204914,
+      "ids": {
+        "appleMusic": "1733742301"
+      }
+    },
+    {
+      "title": "The Last Dance",
+      "artist": "The Mysterines",
+      "album": "Afraid of Tomorrows",
+      "durationMs": 270149,
+      "ids": {
+        "appleMusic": "1728659591"
+      }
+    },
+    {
+      "title": "Cheer Up London",
+      "artist": "SOFT PLAY",
+      "album": "Are You Satisfied?",
+      "durationMs": 153267,
+      "ids": {
+        "appleMusic": "1440835344"
+      }
+    },
+    {
+      "title": "I.N.V.U.",
+      "artist": "Kid Kapichi",
+      "album": "Here's What You Could Have Won (Deluxe)",
+      "durationMs": 163560,
+      "ids": {
+        "appleMusic": "1668235105"
+      }
+    },
+    {
+      "title": "Ready for the High",
+      "artist": "The Wombats",
+      "album": "Fix Yourself, Not the World",
+      "durationMs": 245320,
+      "ids": {
+        "appleMusic": "1575380823"
+      }
+    },
+    {
+      "title": "Ready For Something",
+      "artist": "The Amazons",
+      "album": "How Will I Know If Heaven Will Find Me?",
+      "durationMs": 237560,
+      "ids": {
+        "appleMusic": "1614430013"
+      }
+    },
+    {
+      "title": "Slow",
+      "artist": "Airways",
+      "album": "Slow - Single",
+      "durationMs": 187826,
+      "ids": {
+        "appleMusic": "1566405231"
+      }
+    },
+    {
+      "title": "This is Our Life",
+      "artist": "Des Rocs",
+      "album": "This is Our Life - EP",
+      "durationMs": 224307,
+      "ids": {
+        "appleMusic": "1649640844"
+      }
+    },
+    {
+      "title": "I Like the Way You Die",
+      "artist": "Black Honey",
+      "album": "Written \u0026 Directed",
+      "durationMs": 188027,
+      "ids": {
+        "appleMusic": "1531876397"
+      }
+    },
+    {
+      "title": "Mirror Muscles",
+      "artist": "SOFT PLAY",
+      "album": "Mirror Muscles - Single",
+      "durationMs": 163257,
+      "ids": {
+        "appleMusic": "1730737634"
+      }
+    },
+    {
+      "title": "kinda smacks",
+      "artist": "Royal \u0026 the Serpent \u0026 GAYLE",
+      "album": "kinda smacks - Single",
+      "durationMs": 136601,
+      "ids": {
+        "appleMusic": "1728568623"
+      }
+    },
+    {
+      "title": "Golden",
+      "artist": "Barns Courtney",
+      "album": "Golden - Single",
+      "durationMs": 170523,
+      "ids": {
+        "appleMusic": "1682884285"
+      }
+    },
+    {
+      "title": "Weirdo",
+      "artist": "K.Flay",
+      "album": "Outside Voices - EP",
+      "durationMs": 225034,
+      "ids": {
+        "appleMusic": "1710142752"
+      }
+    },
+    {
+      "title": "PREDATOR",
+      "artist": "YONAKA",
+      "album": "PREDATOR - Single",
+      "durationMs": 171507,
+      "ids": {
+        "appleMusic": "1720894144"
+      }
+    },
+    {
+      "title": "City Streets",
+      "artist": "George Barnett",
+      "album": "City Streets - Single",
+      "durationMs": 206557,
+      "ids": {
+        "appleMusic": "1833957800"
+      }
+    },
+    {
+      "title": "Who’s Gonna Love Me Now",
+      "artist": "Cold War Kids",
+      "album": "New Age Norms 2",
+      "durationMs": 171227,
+      "ids": {
+        "appleMusic": "1515249067"
+      }
+    },
+    {
+      "title": "Country Life",
+      "artist": "Master Peace",
+      "album": "Country Life - Single",
+      "durationMs": 147536,
+      "ids": {
+        "appleMusic": "1646093477"
+      }
+    },
+    {
+      "title": "HONEY",
+      "artist": "LUNA AURA",
+      "album": "THREE CHEERS FOR THE AMERICAN BEAUTY - EP",
+      "durationMs": 155680,
+      "ids": {
+        "appleMusic": "1505936456"
+      }
+    },
+    {
+      "title": "Burn the Witch",
+      "artist": "PVRIS, Tommy Genesis \u0026 Alice Longyu Gao",
+      "album": "Burn the Witch - Single",
+      "durationMs": 175960,
+      "ids": {
+        "appleMusic": "1728352373"
+      }
+    },
+    {
+      "title": "THREE HEADS*",
+      "artist": "Jean Dawson",
+      "album": "THREE HEADS* - Single",
+      "durationMs": 171842,
+      "ids": {
+        "appleMusic": "1635390526"
+      }
+    },
+    {
+      "title": "All I Wanna Do Is Hate",
+      "artist": "Coach Party",
+      "album": "All I Wanna Do Is Hate - Single",
+      "durationMs": 165053,
+      "ids": {
+        "appleMusic": "1681873910"
+      }
+    },
+    {
+      "title": "Call A Doctor",
+      "artist": "Girl and Girl",
+      "album": "Call A Doctor",
+      "durationMs": 309184,
+      "ids": {
+        "appleMusic": "1728330447"
+      }
+    },
+    {
+      "title": "Dead Weight",
+      "artist": "PVRIS",
+      "album": "Use Me",
+      "durationMs": 207000,
+      "ids": {
+        "appleMusic": "1499740206"
+      }
+    },
+    {
+      "title": "All The Problems",
+      "artist": "Shelf Lives",
+      "album": "All The Problems - Single",
+      "durationMs": 176907,
+      "ids": {
+        "appleMusic": "1810721538"
+      }
+    },
+    {
+      "title": "Natural Born Killer",
+      "artist": "Highly Suspect",
+      "album": "The Midnight Demon Club",
+      "durationMs": 196136,
+      "ids": {
+        "appleMusic": "1631008979"
+      }
+    },
+    {
+      "title": "Stuck",
+      "artist": "Thirty Seconds to Mars",
+      "album": "Stuck (DJ John Michael Peloton Remix) - Single",
+      "durationMs": 182747,
+      "ids": {
+        "appleMusic": "1753197189"
+      }
+    },
+    {
+      "title": "New York Transit Queen",
+      "artist": "Corinne Bailey Rae",
+      "album": "Black Rainbows",
+      "durationMs": 109388,
+      "ids": {
+        "appleMusic": "1690201642"
+      }
+    },
+    {
+      "title": "Running",
+      "artist": "Pearl Jam",
+      "album": "Dark Matter",
+      "durationMs": 139432,
+      "ids": {
+        "appleMusic": "1730088437"
+      }
+    }
+  ]
+}

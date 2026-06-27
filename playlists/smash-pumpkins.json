@@ -1,0 +1,428 @@
+{
+  "name": "Smash Pumpkins",
+  "tracks": [
+    {
+      "title": "Zombie",
+      "artist": "The Cranberries",
+      "album": "The Treasure Box for Boys and Girls",
+      "durationMs": 306440,
+      "ids": {
+        "appleMusic": "1440953254"
+      }
+    },
+    {
+      "title": "Paranoid (2012 - Remaster)",
+      "artist": "Black Sabbath",
+      "album": "Paranoid",
+      "durationMs": 166693,
+      "ids": {
+        "appleMusic": "1533659669"
+      }
+    },
+    {
+      "title": "Iron Man (2012 - Remaster)",
+      "artist": "Black Sabbath",
+      "album": "Paranoid",
+      "durationMs": 353613,
+      "ids": {
+        "appleMusic": "1533659672"
+      }
+    },
+    {
+      "title": "Dragula",
+      "artist": "Rob Zombie",
+      "album": "Hellbilly Deluxe",
+      "durationMs": 222827,
+      "ids": {
+        "appleMusic": "1440845806"
+      }
+    },
+    {
+      "title": "End Of The Beginning",
+      "artist": "Black Sabbath",
+      "album": "Feliz dia do Rock",
+      "durationMs": 486227,
+      "ids": {
+        "appleMusic": "1825438615"
+      }
+    },
+    {
+      "title": "Kickstart My Heart",
+      "artist": "Mötley Crüe",
+      "album": "Dr. Feelgood",
+      "durationMs": 282653,
+      "ids": {
+        "appleMusic": "1764396024"
+      }
+    },
+    {
+      "title": "18 and Life",
+      "artist": "Skid Row",
+      "album": "I Wanna Rock!",
+      "durationMs": 229960,
+      "ids": {
+        "appleMusic": "1391629881"
+      }
+    },
+    {
+      "title": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 301920,
+      "ids": {
+        "appleMusic": "1440823697"
+      }
+    },
+    {
+      "title": "Lithium",
+      "artist": "Nirvana",
+      "album": "Nevermind (Super Deluxe Edition)",
+      "durationMs": 257053,
+      "ids": {
+        "appleMusic": "1440823708"
+      }
+    },
+    {
+      "title": "Tom Sawyer",
+      "artist": "Rush",
+      "album": "The Complete Mercury Years",
+      "durationMs": 276880,
+      "ids": {
+        "appleMusic": "1440831923"
+      }
+    },
+    {
+      "title": "In Between",
+      "artist": "Beartooth",
+      "album": "Disgusting (Deluxe Edition)",
+      "durationMs": 213576,
+      "ids": {
+        "appleMusic": "1067439159"
+      }
+    },
+    {
+      "title": "Loser",
+      "artist": "Beartooth",
+      "album": "Aggressive",
+      "durationMs": 239361,
+      "ids": {
+        "appleMusic": "1102861439"
+      }
+    },
+    {
+      "title": "Beaten in Lips",
+      "artist": "Beartooth",
+      "album": "Disgusting",
+      "durationMs": 212732,
+      "ids": {
+        "appleMusic": "872815924"
+      }
+    },
+    {
+      "title": "Down with the Sickness",
+      "artist": "Disturbed",
+      "album": "The Sickness (10th Anniversary Edition)",
+      "durationMs": 278707,
+      "ids": {
+        "appleMusic": "360726064"
+      }
+    },
+    {
+      "title": "Indestructible",
+      "artist": "Disturbed",
+      "album": "Disturbed",
+      "durationMs": 278027,
+      "ids": {
+        "appleMusic": "367378856"
+      }
+    },
+    {
+      "title": "Immortalized",
+      "artist": "Disturbed",
+      "album": "Nu Metal Greats",
+      "durationMs": 257836,
+      "ids": {
+        "appleMusic": "1702004731"
+      }
+    },
+    {
+      "title": "Ten Thousand Fists",
+      "artist": "Disturbed",
+      "album": "Modern Hard Rock",
+      "durationMs": 212040,
+      "ids": {
+        "appleMusic": "1629885772"
+      }
+    },
+    {
+      "title": "Question Everything",
+      "artist": "Five Finger Death Punch",
+      "album": "Got Your Six (Deluxe)",
+      "durationMs": 305744,
+      "ids": {
+        "appleMusic": "1242694339"
+      }
+    },
+    {
+      "title": "No Sudden Movement",
+      "artist": "Five Finger Death Punch",
+      "album": "Got Your Six (Deluxe)",
+      "durationMs": 201097,
+      "ids": {
+        "appleMusic": "1242694338"
+      }
+    },
+    {
+      "title": "Coming Undone",
+      "artist": "Korn",
+      "album": "See You On the Other Side",
+      "durationMs": 199773,
+      "ids": {
+        "appleMusic": "1594715396"
+      }
+    },
+    {
+      "title": "Blank Space",
+      "artist": "I Prevail",
+      "album": "Punk Goes Pop 6",
+      "durationMs": 240928,
+      "ids": {
+        "appleMusic": "1004782283"
+      }
+    },
+    {
+      "title": "Call Me Maybe",
+      "artist": "Upon This Dawning",
+      "album": "To Keep Us Safe",
+      "durationMs": 207093,
+      "ids": {
+        "appleMusic": "1444081891"
+      }
+    },
+    {
+      "title": "Kryptonite",
+      "artist": "3 Doors Down",
+      "album": "The Better Life (Deluxe Edition)",
+      "durationMs": 233827,
+      "ids": {
+        "appleMusic": "1452011941"
+      }
+    },
+    {
+      "title": "Here Without You",
+      "artist": "3 Doors Down",
+      "album": "Summer Of '99",
+      "durationMs": 238560,
+      "ids": {
+        "appleMusic": "1750341653"
+      }
+    },
+    {
+      "title": "Loser",
+      "artist": "3 Doors Down",
+      "album": "The Greatest Hits",
+      "durationMs": 274826,
+      "ids": {
+        "appleMusic": "1440831382"
+      }
+    },
+    {
+      "title": "Let Me Go",
+      "artist": "3 Doors Down",
+      "album": "Summer Of '99",
+      "durationMs": 243053,
+      "ids": {
+        "appleMusic": "1750341673"
+      }
+    },
+    {
+      "title": "Riot",
+      "artist": "Three Days Grace",
+      "album": "One-X",
+      "durationMs": 207587,
+      "ids": {
+        "appleMusic": "287459303"
+      }
+    },
+    {
+      "title": "Animal I Have Become",
+      "artist": "Three Days Grace",
+      "album": "One-X",
+      "durationMs": 231400,
+      "ids": {
+        "appleMusic": "1002798163"
+      }
+    },
+    {
+      "title": "I Hate Everything About You",
+      "artist": "Three Days Grace",
+      "album": "Three Days Grace",
+      "durationMs": 231480,
+      "ids": {
+        "appleMusic": "1587427716"
+      }
+    },
+    {
+      "title": "Time of Dying",
+      "artist": "Three Days Grace",
+      "album": "One-X",
+      "durationMs": 186373,
+      "ids": {
+        "appleMusic": "287459314"
+      }
+    },
+    {
+      "title": "Just Like You",
+      "artist": "Three Days Grace",
+      "album": "Three Days Grace",
+      "durationMs": 186893,
+      "ids": {
+        "appleMusic": "1587427382"
+      }
+    },
+    {
+      "title": "Don't Stay",
+      "artist": "LINKIN PARK",
+      "album": "Nu Metal Hits",
+      "durationMs": 187933,
+      "ids": {
+        "appleMusic": "1687942501"
+      }
+    },
+    {
+      "title": "Faint",
+      "artist": "LINKIN PARK",
+      "album": "Ctrl + ALT",
+      "durationMs": 164040,
+      "ids": {
+        "appleMusic": "1824435700"
+      }
+    },
+    {
+      "title": "Hit the Floor",
+      "artist": "LINKIN PARK",
+      "album": "Dark Alt",
+      "durationMs": 164213,
+      "ids": {
+        "appleMusic": "1734586914"
+      }
+    },
+    {
+      "title": "Lying from You",
+      "artist": "LINKIN PARK",
+      "album": "Rock Metal Essentials",
+      "durationMs": 175053,
+      "ids": {
+        "appleMusic": "6778304446"
+      }
+    },
+    {
+      "title": "Bleed It Out",
+      "artist": "LINKIN PARK",
+      "album": "Upiorne hity",
+      "durationMs": 164760,
+      "ids": {
+        "appleMusic": "1846773913"
+      }
+    },
+    {
+      "title": "What I’ve Done",
+      "artist": "LINKIN PARK",
+      "album": "100 Greatest Pop Tracks",
+      "durationMs": 205613,
+      "ids": {
+        "appleMusic": "1824253015"
+      }
+    },
+    {
+      "title": "Given Up",
+      "artist": "LINKIN PARK",
+      "album": "Los Red Hot and More Music",
+      "durationMs": 189293,
+      "ids": {
+        "appleMusic": "1749231668"
+      }
+    },
+    {
+      "title": "No More Sorrow",
+      "artist": "LINKIN PARK",
+      "album": "Minutes to Midnight (Deluxe Edition)",
+      "durationMs": 221764,
+      "ids": {
+        "appleMusic": "590427452"
+      }
+    },
+    {
+      "title": "Papercut",
+      "artist": "LINKIN PARK",
+      "album": "Rock Metal Essentials",
+      "durationMs": 184867,
+      "ids": {
+        "appleMusic": "6778304473"
+      }
+    },
+    {
+      "title": "One Step Closer",
+      "artist": "LINKIN PARK",
+      "album": "ROCK - Simply the Best Rock Hits",
+      "durationMs": 157333,
+      "ids": {
+        "appleMusic": "1721390576"
+      }
+    },
+    {
+      "title": "Burn It to the Ground",
+      "artist": "Nickelback",
+      "album": "Transformers: Revenge of the Fallen (The Album)",
+      "durationMs": 212347,
+      "ids": {
+        "appleMusic": "318875997"
+      }
+    },
+    {
+      "title": "Hand of Blood",
+      "artist": "Bullet for My Valentine",
+      "album": "Hand of Blood / 4 Words - Single",
+      "durationMs": 217427,
+      "ids": {
+        "appleMusic": "456867277"
+      }
+    },
+    {
+      "title": "Zombie",
+      "artist": "Miser",
+      "album": "Colors",
+      "durationMs": 368667,
+      "ids": {
+        "appleMusic": "1526888155"
+      }
+    },
+    {
+      "title": "Headstrong",
+      "artist": "Trapt",
+      "album": "Trapt",
+      "durationMs": 286000,
+      "ids": {
+        "appleMusic": "301126021"
+      }
+    },
+    {
+      "title": "Stuck In Your Head",
+      "artist": "I Prevail",
+      "album": "Lifelines",
+      "durationMs": 214997,
+      "ids": {
+        "appleMusic": "1440942074"
+      }
+    },
+    {
+      "title": "Last Resort",
+      "artist": "Papa Roach",
+      "album": "Metal Mania",
+      "durationMs": 199893,
+      "ids": {
+        "appleMusic": "1443009711"
+      }
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "name": "This Is Daft Punk",
+  "tracks": [
+    {
+      "title": "Around the World",
+      "artist": "Daft Punk",
+      "album": "Homework",
+      "durationMs": 429533,
+      "ids": {
+        "appleMusic": "696886431"
+      }
+    },
+    {
+      "title": "Da Funk",
+      "artist": "Daft Punk",
+      "album": "Homework",
+      "durationMs": 328680,
+      "ids": {
+        "appleMusic": "696885792"
+      }
+    },
+    {
+      "title": "One More Time",
+      "artist": "Daft Punk",
+      "album": "Discovery",
+      "durationMs": 320357,
+      "ids": {
+        "appleMusic": "697195462"
+      }
+    },
+    {
+      "title": "Get Lucky",
+      "artist": "Daft Punk",
+      "album": "Random Access Memories (10th Anniversary Edition)",
+      "durationMs": 369615,
+      "ids": {
+        "appleMusic": "1673536443"
+      }
+    },
+    {
+      "title": "Digital Love",
+      "artist": "Daft Punk",
+      "album": "Discovery",
+      "durationMs": 301373,
+      "ids": {
+        "appleMusic": "697195633"
+      }
+    },
+    {
+      "title": "Starboy",
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "durationMs": 230461,
+      "ids": {
+        "appleMusic": "1440870375"
+      }
+    },
+    {
+      "title": "Instant Crush",
+      "artist": "Daft Punk",
+      "album": "Random Access Memories",
+      "durationMs": 337562
+    },
+    {
+      "title": "Something About Us",
+      "artist": "Daft Punk",
+      "album": "Discovery",
+      "durationMs": 232667,
+      "ids": {
+        "appleMusic": "697195941"
+      }
+    },
+    {
+      "title": "End of Line",
+      "artist": "Daft Punk",
+      "album": "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)",
+      "durationMs": 156486,
+      "ids": {
+        "appleMusic": "1543825337"
+      }
+    },
+    {
+      "title": "I Feel It Coming",
+      "artist": "The Weeknd",
+      "album": "Starboy (Deluxe)",
+      "durationMs": 269177,
+      "ids": {
+        "appleMusic": "1677006159"
+      }
+    },
+    {
+      "title": "Lose Yourself to Dance",
+      "artist": "Daft Punk",
+      "album": "Random Access Memories",
+      "durationMs": 353896
+    },
+    {
+      "title": "Veridis Quo",
+      "artist": "Daft Punk",
+      "album": "Discovery",
+      "durationMs": 345187,
+      "ids": {
+        "appleMusic": "697196125"
+      }
+    },
+    {
+      "title": "Around the World / Harder, Better, Faster, Stronger",
+      "artist": "Daft Punk",
+      "album": "Alive 2007",
+      "durationMs": 342627,
+      "ids": {
+        "appleMusic": "716657849"
+      }
+    },
+    {
+      "title": "The Son of Flynn",
+      "artist": "Daft Punk",
+      "album": "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)",
+      "durationMs": 95226,
+      "ids": {
+        "appleMusic": "1543825327"
+      }
+    },
+    {
+      "title": "Give Life Back to Music",
+      "artist": "Daft Punk",
+      "album": "Random Access Memories",
+      "durationMs": 274403
+    },
+    {
+      "title": "Harder, Better, Faster, Stronger",
+      "artist": "Daft Punk"
+    },
+    {
+      "title": "Television Rules the Nation / Crescendolls",
+      "artist": "Daft Punk",
+      "album": "Alive 2007",
+      "durationMs": 290840,
+      "ids": {
+        "appleMusic": "716657846"
+      }
+    },
+    {
+      "title": "Infinity Repeating",
+      "artist": "Daft Punk",
+      "album": "Random Access Memories (10th Anniversary Edition)",
+      "durationMs": 239213,
+      "ids": {
+        "appleMusic": "1673536669"
+      }
+    },
+    {
+      "title": "Fragments of Time",
+      "artist": "Daft Punk",
+      "album": "Random Access Memories",
+      "durationMs": 279776
+    },
+    {
+      "title": "Voyager",
+      "artist": "Daft Punk",
+      "album": "Discovery",
+      "durationMs": 227867,
+      "ids": {
+        "appleMusic": "697195991"
+      }
+    },
+    {
+      "title": "Derezzed",
+      "artist": "Daft Punk",
+      "album": "TRON: Legacy (Original Motion Picture Soundtrack)",
+      "durationMs": 104120,
+      "ids": {
+        "appleMusic": "1440617959"
+      }
+    },
+    {
+      "title": "One More Time / Aerodynamic",
+      "artist": "Daft Punk",
+      "album": "Alive 2007",
+      "durationMs": 370533,
+      "ids": {
+        "appleMusic": "716657855"
+      }
+    },
+    {
+      "title": "Doin' It Right",
+      "artist": "Daft Punk",
+      "album": "Random Access Memories",
+      "durationMs": 251302
+    },
+    {
+      "title": "Face to Face",
+      "artist": "Daft Punk",
+      "album": "Discovery",
+      "durationMs": 240173,
+      "ids": {
+        "appleMusic": "697196420"
+      }
+    },
+    {
+      "title": "Technologic",
+      "artist": "Daft Punk",
+      "album": "Human After All",
+      "durationMs": 284280,
+      "ids": {
+        "appleMusic": "696479088"
+      }
+    },
+    {
+      "title": "Touch It / Technologic",
+      "artist": "Daft Punk"
+    },
+    {
+      "title": "Giorgio by Moroder",
+      "artist": "Daft Punk",
+      "album": "Random Access Memories",
+      "durationMs": 544629
+    },
+    {
+      "title": "Aerodynamic",
+      "artist": "Daft Punk",
+      "album": "Discovery",
+      "durationMs": 212547,
+      "ids": {
+        "appleMusic": "697195570"
+      }
+    },
+    {
+      "title": "Robot Rock",
+      "artist": "Daft Punk",
+      "album": "Human After All",
+      "durationMs": 287720,
+      "ids": {
+        "appleMusic": "696479071"
+      }
+    },
+    {
+      "title": "Solar Sailer",
+      "artist": "Daft Punk",
+      "album": "TRON: Legacy (Original Motion Picture Soundtrack)",
+      "durationMs": 162120,
+      "ids": {
+        "appleMusic": "1440617968"
+      }
+    },
+    {
+      "title": "Too Long / Steam Machine",
+      "artist": "Daft Punk",
+      "album": "Alive 2007",
+      "durationMs": 421600,
+      "ids": {
+        "appleMusic": "716657847"
+      }
+    },
+    {
+      "title": "The Grid",
+      "artist": "Daft Punk",
+      "album": "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)",
+      "durationMs": 96740,
+      "ids": {
+        "appleMusic": "1543825326"
+      }
+    },
+    {
+      "title": "Make Love",
+      "artist": "Daft Punk",
+      "album": "Human After All",
+      "durationMs": 289680,
+      "ids": {
+        "appleMusic": "696479081"
+      }
+    },
+    {
+      "title": "Revolution 909",
+      "artist": "Daft Punk",
+      "album": "Homework",
+      "durationMs": 335027,
+      "ids": {
+        "appleMusic": "696885733"
+      }
+    },
+    {
+      "title": "Robot Rock / Oh Yeah",
+      "artist": "Daft Punk",
+      "album": "Alive 2007",
+      "durationMs": 387507,
+      "ids": {
+        "appleMusic": "716657804"
+      }
+    },
+    {
+      "title": "Arena",
+      "artist": "Daft Punk",
+      "album": "TRON: Legacy (Original Motion Picture Soundtrack)",
+      "durationMs": 93227,
+      "ids": {
+        "appleMusic": "1440617844"
+      }
+    },
+    {
+      "title": "Human After All",
+      "artist": "Daft Punk",
+      "album": "Human After All",
+      "durationMs": 320107,
+      "ids": {
+        "appleMusic": "696478986"
+      }
+    },
+    {
+      "title": "Harder, Better, Faster, Stronger (Alive 2007)",
+      "artist": "Daft Punk",
+      "album": "Discovery",
+      "durationMs": 224693,
+      "ids": {
+        "appleMusic": "697195787"
+      }
+    },
+    {
+      "title": "Horizon",
+      "artist": "Daft Punk",
+      "album": "Random Access Memories (10th Anniversary Edition)",
+      "durationMs": 262560,
+      "ids": {
+        "appleMusic": "1673536455"
+      }
+    },
+    {
+      "title": "Recognizer",
+      "artist": "Daft Punk",
+      "album": "TRON: Legacy (Original Motion Picture Soundtrack)",
+      "durationMs": 157707,
+      "ids": {
+        "appleMusic": "1440617836"
+      }
+    },
+    {
+      "title": "Flynn Lives",
+      "artist": "Daft Punk",
+      "album": "TRON: Legacy (Original Motion Picture Soundtrack)",
+      "durationMs": 202147,
+      "ids": {
+        "appleMusic": "1440618225"
+      }
+    },
+    {
+      "title": "Fresh",
+      "artist": "Daft Punk",
+      "album": "Homework",
+      "durationMs": 244400,
+      "ids": {
+        "appleMusic": "696886212"
+      }
+    },
+    {
+      "title": "LYTD (Vocoder Tests)",
+      "artist": "Daft Punk",
+      "album": "Random Access Memories (10th Anniversary Edition)",
+      "durationMs": 128440,
+      "ids": {
+        "appleMusic": "1673536675"
+      }
+    },
+    {
+      "title": "Funk Ad",
+      "artist": "Daft Punk",
+      "album": "Homework",
+      "durationMs": 51400,
+      "ids": {
+        "appleMusic": "696887557"
+      }
+    },
+    {
+      "title": "Alive",
+      "artist": "Daft Punk",
+      "album": "Homework (25th Anniversary Edition)",
+      "durationMs": 316253,
+      "ids": {
+        "appleMusic": "1609438522"
+      }
+    },
+    {
+      "title": "Daftendirekt",
+      "artist": "Daft Punk",
+      "album": "Homework",
+      "durationMs": 164560,
+      "ids": {
+        "appleMusic": "696885550"
+      }
+    }
+  ]
+}

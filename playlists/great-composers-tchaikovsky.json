@@ -1,0 +1,464 @@
+{
+  "name": "Great Composers: Tchaikovsky",
+  "tracks": [
+    {
+      "title": "Symphony No. 1 in E minor: Finale (Quasi una fantasia)",
+      "artist": "Adrian Leaper \u0026 Slovak Philharmonic Orchestra",
+      "album": "Sibelius (The Best Of)",
+      "durationMs": 717490,
+      "ids": {
+        "appleMusic": "363143201"
+      }
+    },
+    {
+      "title": "Piano Concerto No. 1 in B-Flat Minor, Op. 23, TH 55: I. Allegro non troppo e molto maestoso - Allegro con spirito",
+      "artist": "Slovak Radio Symphony Orchestra, Joseph Banowetz \u0026 Ondrej Lenárd",
+      "album": "Tchaikovsky: Piano Concerto No. 1 - The Tempest - Eugene Onegin",
+      "durationMs": 1185000,
+      "ids": {
+        "appleMusic": "1226768516"
+      }
+    },
+    {
+      "title": "The Tempest, Op. 18",
+      "artist": "Ondrej Lenárd \u0026 Slovak Radio Symphony Orchestra",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 1309000,
+      "ids": {
+        "appleMusic": "658450924"
+      }
+    },
+    {
+      "title": "Eugene Onegin, Op. 24, TH 5, Act III Scene 1: Polonaise",
+      "artist": "Slovak Radio Symphony Orchestra \u0026 Ondrej Lenárd",
+      "album": "20 Most Famous Opera Pieces of All Times",
+      "durationMs": 262000,
+      "ids": {
+        "appleMusic": "1337795247"
+      }
+    },
+    {
+      "title": "Symphony No. 5 in E Minor, Op. 64: II. Andante cantabile, con alcuna licenza",
+      "artist": "Antoni Wit \u0026 Polish National Radio Symphony Orchestra",
+      "album": "Tchaikovsky: His Life and Music",
+      "durationMs": 818000,
+      "ids": {
+        "appleMusic": "478980881"
+      }
+    },
+    {
+      "title": "Groza, Op. 76, \"The Storm\": Overture in E Major",
+      "artist": "Polish National Radio Symphony Orchestra \u0026 Antoni Wit",
+      "album": "50 Of the Best Classical Music: Tchaikovsky",
+      "durationMs": 856400,
+      "ids": {
+        "appleMusic": "863356921"
+      }
+    },
+    {
+      "title": "Romeo and Juliet Fantasy Overture (3rd version, 1880)",
+      "artist": "Marin Alsop \u0026 Colorado Symphony",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 1199520,
+      "ids": {
+        "appleMusic": "658450928"
+      }
+    },
+    {
+      "title": "Serenade for Strings in C Major, Op. 48: I. Pezzo in forma di Sonatina",
+      "artist": "Philippe Entremont \u0026 Vienna Chamber Orchestra",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 570040,
+      "ids": {
+        "appleMusic": "658451090"
+      }
+    },
+    {
+      "title": "The Sleeping Beauty, Op. 66: Introduction",
+      "artist": "Ondrej Lenárd \u0026 Slovak Radio Symphony Orchestra",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 241467,
+      "ids": {
+        "appleMusic": "658451096"
+      }
+    },
+    {
+      "title": "Cherevichki, Act III: Danse russe",
+      "artist": "Theodore Kuchar \u0026 National Symphony Orchestra of Ukraine",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 231013,
+      "ids": {
+        "appleMusic": "658451097"
+      }
+    },
+    {
+      "title": "Souvenir de Florence, Op. 70: II. Adagio cantabile",
+      "artist": "Philippe Entremont \u0026 Vienna Chamber Orchestra",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 636107,
+      "ids": {
+        "appleMusic": "658451106"
+      }
+    },
+    {
+      "title": "Dumka, Russian rustic scene, Op. 59",
+      "artist": "Oxana Yablonskaya",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 536693,
+      "ids": {
+        "appleMusic": "658451107"
+      }
+    },
+    {
+      "title": "Romance in F Minor, Op. 5",
+      "artist": "Oxana Yablonskaya",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 368720,
+      "ids": {
+        "appleMusic": "658451108"
+      }
+    },
+    {
+      "title": "6 Morceaux, Op. 19: No. IV. Nocturne",
+      "artist": "Oxana Yablonskaya",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 229667,
+      "ids": {
+        "appleMusic": "658451229"
+      }
+    },
+    {
+      "title": "Les Saisons (The Seasons), Op. 37b: II. February. Carnival",
+      "artist": "Ilona Prunyi",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 162293,
+      "ids": {
+        "appleMusic": "658451230"
+      }
+    },
+    {
+      "title": "Swan Lake, Op. 20: Scene",
+      "artist": "Slovak Philharmonic Orchestra \u0026 Michael Halász",
+      "album": "Tchaikovsky: Highlights from the Nutcracker and Swan Lake",
+      "durationMs": 156000,
+      "ids": {
+        "appleMusic": "291361667"
+      }
+    },
+    {
+      "title": "Les Saisons (The Seasons), Op. 37b: X. October. Autumn Song",
+      "artist": "Ilona Prunyi",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 239693,
+      "ids": {
+        "appleMusic": "658451232"
+      }
+    },
+    {
+      "title": "12 Pieces, Op. 40, TH 138: No. 2. Chanson triste in G Minor",
+      "artist": "Ilona Prunyi",
+      "album": "Tchaikovsky: The Seasons - Chanson Triste - Song Without Words - Nocturne",
+      "durationMs": 199000,
+      "ids": {
+        "appleMusic": "1220533444"
+      }
+    },
+    {
+      "title": "The Nutcracker Suite, Op. 71a, TH 35: IIb. Dance of the Sugar Plum Fairy",
+      "artist": "Slovak Philharmonic Orchestra \u0026 Michael Halász",
+      "album": "My Playlist for Baking",
+      "durationMs": 108040,
+      "ids": {
+        "appleMusic": "1437575534"
+      }
+    },
+    {
+      "title": "The Sleeping Beauty, Op. 66, Act I The Spell: Pas d'action: I. Adagio a la rose",
+      "artist": "Ondrej Lenárd \u0026 Slovak Radio Symphony Orchestra",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 326000,
+      "ids": {
+        "appleMusic": "658451235"
+      }
+    },
+    {
+      "title": "Symphony No. 6 in B Minor, Op. 74 \"Pathétique\": II. Allegro con grazia",
+      "artist": "Antoni Wit \u0026 Polish National Radio Symphony Orchestra",
+      "album": "Great Russian Symphonies",
+      "durationMs": 520000,
+      "ids": {
+        "appleMusic": "518837116"
+      }
+    },
+    {
+      "title": "6 Morceaux, Op. 19: IV. Nocturne (Version for Cello and Strings)",
+      "artist": "Maria Kliegel, Gerhard Markson \u0026 RTÉ National Symphony Orchestra",
+      "album": "My First Tchaikovsky Album",
+      "durationMs": 286120,
+      "ids": {
+        "appleMusic": "505995687"
+      }
+    },
+    {
+      "title": "Piano Concerto No. 2 in G Major, Op. 44: III. Allegro con fuoco",
+      "artist": "Bernd Glemser, Antoni Wit \u0026 Polish National Radio Symphony Orchestra",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 477773,
+      "ids": {
+        "appleMusic": "658451238"
+      }
+    },
+    {
+      "title": "The Nutcracker Suite, Op. 71a: IV. Russian Dance, \"Trepak\"",
+      "artist": "Michael Halász \u0026 Slovak Philharmonic Orchestra",
+      "album": "Panda Classics - Issue No. 3: Symphonic Dance Time",
+      "durationMs": 70960,
+      "ids": {
+        "appleMusic": "446845123"
+      }
+    },
+    {
+      "title": "Mazeppa, Act I: Gopak",
+      "artist": "Theodore Kuchar \u0026 National Symphony Orchestra of Ukraine",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 260560,
+      "ids": {
+        "appleMusic": "658451240"
+      }
+    },
+    {
+      "title": "Symphony No. 1 in G Minor, Op. 13, \"Winter Daydreams\": III. Scherzo. Allegro scherzando giocoso",
+      "artist": "Polish National Radio Symphony Orchestra \u0026 Adrian Leaper",
+      "album": "50 Of the Best Classical Music: Tchaikovsky",
+      "durationMs": 489960,
+      "ids": {
+        "appleMusic": "863356925"
+      }
+    },
+    {
+      "title": "Les saisons (The Seasons), Op. 37b: June. Barcarolle",
+      "artist": "Ilona Prunyi",
+      "album": "Classics for a Rainy Day",
+      "durationMs": 291000,
+      "ids": {
+        "appleMusic": "863335530"
+      }
+    },
+    {
+      "title": "Swan Lake, Op. 20, TH 219: No. 13e, Dances of the Swans. Andante",
+      "artist": "Slovak Philharmonic Orchestra \u0026 Michael Halász",
+      "album": "Tchaikovsky: Swan Lake (Highlights)",
+      "durationMs": 402040,
+      "ids": {
+        "appleMusic": "1146892358"
+      }
+    },
+    {
+      "title": "Hamlet, Op. 67",
+      "artist": "Adrian Leaper \u0026 Polish National Radio Symphony Orchestra",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 1069813,
+      "ids": {
+        "appleMusic": "658451302"
+      }
+    },
+    {
+      "title": "Fantaisie de Concert in G Major, Op. 56: II. Contrastes",
+      "artist": "Bernd Glemser, Antoni Wit \u0026 Polish National Radio Symphony Orchestra",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 867067,
+      "ids": {
+        "appleMusic": "658451303"
+      }
+    },
+    {
+      "title": "Piano Concerto No. 3 in E-Flat Major, Op. 75",
+      "artist": "Konstantin Scherbakov, Dmitry Yablonsky \u0026 Russian Philharmonic Orchestra",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 959720,
+      "ids": {
+        "appleMusic": "658451304"
+      }
+    },
+    {
+      "title": "Pique Dame (The Queen of Spades), Op. 68, Act I: Overture",
+      "artist": "Theodore Kuchar \u0026 National Symphony Orchestra of Ukraine",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 240387,
+      "ids": {
+        "appleMusic": "658451305"
+      }
+    },
+    {
+      "title": "The Sleeping Beauty, Op. 66: Waltz",
+      "artist": "Slovak Radio Symphony Orchestra \u0026 Ondrej Lenárd",
+      "album": "20 Most Famous Opera Pieces of All Times",
+      "durationMs": 278027,
+      "ids": {
+        "appleMusic": "1337795080"
+      }
+    },
+    {
+      "title": "The Maid of Orleans, Act II: Danse des Bohemiens",
+      "artist": "Theodore Kuchar \u0026 National Symphony Orchestra of Ukraine",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 224533,
+      "ids": {
+        "appleMusic": "658451307"
+      }
+    },
+    {
+      "title": "Schwanensee-Suite, Op. 20a, TH 219: Nr. 2, Walzer",
+      "artist": "Slovenská filharmónia \u0026 Michael Halász",
+      "album": "Klassik ohne Krise: Traum-Tänze",
+      "durationMs": 348973,
+      "ids": {
+        "appleMusic": "988026804"
+      }
+    },
+    {
+      "title": "The Enchantress, Act I: Introduction",
+      "artist": "Theodore Kuchar \u0026 National Symphony Orchestra of Ukraine",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 331160,
+      "ids": {
+        "appleMusic": "658451351"
+      }
+    },
+    {
+      "title": "The Oprichnik, Act IV: Danses",
+      "artist": "Theodore Kuchar \u0026 National Symphony Orchestra of Ukraine",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 342880,
+      "ids": {
+        "appleMusic": "658451353"
+      }
+    },
+    {
+      "title": "Capriccio Italien, Op. 45 (Conclusion)",
+      "artist": "Theodore Kuchar \u0026 National Symphony Orchestra of Ukraine",
+      "album": "Tchaikovsky: His Life and Music",
+      "durationMs": 981720,
+      "ids": {
+        "appleMusic": "478980845"
+      }
+    },
+    {
+      "title": "Marche slave (Slavonic March), Op. 31",
+      "artist": "Theodore Kuchar \u0026 National Symphony Orchestra of Ukraine",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 561240,
+      "ids": {
+        "appleMusic": "658451358"
+      }
+    },
+    {
+      "title": "1812 Festival Overture, Op. 49",
+      "artist": "Theodore Kuchar \u0026 National Symphony Orchestra of Ukraine",
+      "album": "A Guided Tour of the Romantic Era, Vol. 12",
+      "durationMs": 932720,
+      "ids": {
+        "appleMusic": "592960424"
+      }
+    },
+    {
+      "title": "The Snow Maiden, Op. 12: Introduction",
+      "artist": "Igor Golovschin \u0026 Moscow Symphony Orchestra",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 293760,
+      "ids": {
+        "appleMusic": "658451360"
+      }
+    },
+    {
+      "title": "Sérénade mélancolique, Op. 26",
+      "artist": "Slovak Radio Symphony Orchestra, Keith Clark \u0026 Mariko Honda",
+      "album": "Tchaikovsky: Violin Concerto in D Major - Serenade Melancolique - Souvenir D'Un Lieu Cher",
+      "durationMs": 599000,
+      "ids": {
+        "appleMusic": "1216816046"
+      }
+    },
+    {
+      "title": "Valse-scherzo, Op. 34",
+      "artist": "Ilya Kaler, Dmitry Yablonsky \u0026 Russian Philharmonic Orchestra",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 338387,
+      "ids": {
+        "appleMusic": "658451362"
+      }
+    },
+    {
+      "title": "Voyevoda, Op. 3, Act I: Overture",
+      "artist": "Theodore Kuchar \u0026 National Symphony Orchestra of Ukraine",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 560800,
+      "ids": {
+        "appleMusic": "658451366"
+      }
+    },
+    {
+      "title": "Violin Concerto in D Major, Op. 35: II. Canzonetta. Andante",
+      "artist": "Mariko Honda, Keith Clark, Slovak Philharmonic Orchestra \u0026 Slovak Radio Symphony Orchestra",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 439960,
+      "ids": {
+        "appleMusic": "658451368"
+      }
+    },
+    {
+      "title": "Symphony No. 2 in C Minor, Op. 17, \"Little Russian\": I. Andante sostenuto - Allegro vivo",
+      "artist": "Adrian Leaper \u0026 Polish National Radio Symphony Orchestra",
+      "album": "Tchaikovsky: Complete Symphonies and Piano Concertos",
+      "durationMs": 635733,
+      "ids": {
+        "appleMusic": "452724784"
+      }
+    },
+    {
+      "title": "Serenade for Strings in C Major, Op. 48: III. Elegie",
+      "artist": "Philippe Entremont \u0026 Vienna Chamber Orchestra",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 545760,
+      "ids": {
+        "appleMusic": "658451412"
+      }
+    },
+    {
+      "title": "The Nutcracker Suite, Op. 71a: III. Waltz of the Flowers",
+      "artist": "Michael Halász \u0026 Slovak Philharmonic Orchestra",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 414027,
+      "ids": {
+        "appleMusic": "658451415"
+      }
+    },
+    {
+      "title": "Variations on a Rococo Theme in A Major, Op. 33",
+      "artist": "Gerhard Markson, Maria Kliegel \u0026 RTÉ National Symphony Orchestra",
+      "album": "A Guided Tour of Nationalism in the Romantic Era, Vol. 6",
+      "durationMs": 1116613,
+      "ids": {
+        "appleMusic": "592936224"
+      }
+    },
+    {
+      "title": "Souvenir de Hapsal, Op. 2: No. 3, Song without Words in F Major",
+      "artist": "Ilona Prunyi",
+      "album": "Tchaikovsky - 50 of the Best",
+      "durationMs": 199333,
+      "ids": {
+        "appleMusic": "658451420"
+      }
+    },
+    {
+      "title": "Symphony No. 4 in F Minor, Op. 36: IV. Finale: Allegro con fuoco",
+      "artist": "Adrian Leaper \u0026 Polish National Radio Symphony Orchestra",
+      "album": "Tchaikovsky: Complete Symphonies and Piano Concertos",
+      "durationMs": 553107,
+      "ids": {
+        "appleMusic": "452724855"
+      }
+    }
+  ]
+}

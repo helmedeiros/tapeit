@@ -1,0 +1,368 @@
+{
+  "name": "This Is The Vines",
+  "tracks": [
+    {
+      "title": "Get Free",
+      "artist": "The Vines",
+      "album": "Get Free - EP",
+      "durationMs": 127987,
+      "ids": {
+        "appleMusic": "724219595"
+      }
+    },
+    {
+      "title": "Ride",
+      "artist": "The Vines",
+      "album": "Winning Days",
+      "durationMs": 156213,
+      "ids": {
+        "appleMusic": "716154413"
+      }
+    },
+    {
+      "title": "Green Utopia",
+      "artist": "The Vines",
+      "album": "Wicked Nature",
+      "durationMs": 145976,
+      "ids": {
+        "appleMusic": "907364644"
+      }
+    },
+    {
+      "title": "Don't Listen To The Radio",
+      "artist": "The Vines",
+      "album": "Don't Listen to the Radio - Single",
+      "durationMs": 131840,
+      "ids": {
+        "appleMusic": "721208453"
+      }
+    },
+    {
+      "title": "Outtathaway",
+      "artist": "The Vines"
+    },
+    {
+      "title": "Black Dragon",
+      "artist": "The Vines",
+      "album": "Future Primitive",
+      "durationMs": 208987,
+      "ids": {
+        "appleMusic": "438399352"
+      }
+    },
+    {
+      "title": "Metal Zone",
+      "artist": "The Vines",
+      "album": "Wicked Nature",
+      "durationMs": 144860,
+      "ids": {
+        "appleMusic": "907364642"
+      }
+    },
+    {
+      "title": "Winning Days",
+      "artist": "The Vines",
+      "album": "Winning Days",
+      "durationMs": 213547,
+      "ids": {
+        "appleMusic": "716351137"
+      }
+    },
+    {
+      "title": "Factory",
+      "artist": "The Vines",
+      "album": "Highly Evolved",
+      "durationMs": 192267,
+      "ids": {
+        "appleMusic": "724725602"
+      }
+    },
+    {
+      "title": "Waitin",
+      "artist": "The Vines",
+      "album": "In Miracle Land",
+      "durationMs": 100753,
+      "ids": {
+        "appleMusic": "1391453777"
+      }
+    },
+    {
+      "title": "Killin The Planet",
+      "artist": "The Vines",
+      "album": "Wicked Nature",
+      "durationMs": 204030,
+      "ids": {
+        "appleMusic": "907364646"
+      }
+    },
+    {
+      "title": "TV Pro",
+      "artist": "The Vines",
+      "album": "Winning Days",
+      "durationMs": 227000,
+      "ids": {
+        "appleMusic": "724242242"
+      }
+    },
+    {
+      "title": "Highly Evolved",
+      "artist": "The Vines",
+      "album": "Highly Evolved",
+      "durationMs": 94427,
+      "ids": {
+        "appleMusic": "724725491"
+      }
+    },
+    {
+      "title": "Leave Me Alone",
+      "artist": "The Vines",
+      "album": "In Miracle Land",
+      "durationMs": 135808,
+      "ids": {
+        "appleMusic": "1391453773"
+      }
+    },
+    {
+      "title": "Psychomatic",
+      "artist": "The Vines",
+      "album": "Wicked Nature",
+      "durationMs": 122951,
+      "ids": {
+        "appleMusic": "907364645"
+      }
+    },
+    {
+      "title": "Animal Machine",
+      "artist": "The Vines",
+      "album": "Winning Days",
+      "durationMs": 208293,
+      "ids": {
+        "appleMusic": "724242241"
+      }
+    },
+    {
+      "title": "Autumn Shade",
+      "artist": "The Vines",
+      "album": "Highly Evolved",
+      "durationMs": 137733,
+      "ids": {
+        "appleMusic": "724725495"
+      }
+    },
+    {
+      "title": "Sky Gazer",
+      "artist": "The Vines",
+      "album": "In Miracle Land",
+      "durationMs": 240917,
+      "ids": {
+        "appleMusic": "1391453776"
+      }
+    },
+    {
+      "title": "Ladybug",
+      "artist": "The Vines",
+      "album": "Wicked Nature",
+      "durationMs": 149388,
+      "ids": {
+        "appleMusic": "907364643"
+      }
+    },
+    {
+      "title": "Autumn Shade II",
+      "artist": "The Vines",
+      "album": "Winning Days",
+      "durationMs": 194147,
+      "ids": {
+        "appleMusic": "716154449"
+      }
+    },
+    {
+      "title": "Homesick",
+      "artist": "The Vines",
+      "album": "Highly Evolved",
+      "durationMs": 293160,
+      "ids": {
+        "appleMusic": "724725512"
+      }
+    },
+    {
+      "title": "Anysound",
+      "artist": "The Vines",
+      "album": "Vision Valley",
+      "durationMs": 115493,
+      "ids": {
+        "appleMusic": "715907488"
+      }
+    },
+    {
+      "title": "Funny Thing",
+      "artist": "The Vines",
+      "album": "Wicked Nature",
+      "durationMs": 219814,
+      "ids": {
+        "appleMusic": "907364667"
+      }
+    },
+    {
+      "title": "Fuck The World",
+      "artist": "The Vines"
+    },
+    {
+      "title": "Goodbye",
+      "artist": "The Vines",
+      "album": "Future Primitive",
+      "durationMs": 134267,
+      "ids": {
+        "appleMusic": "438399358"
+      }
+    },
+    {
+      "title": "Hate the Sound",
+      "artist": "The Vines",
+      "album": "In Miracle Land",
+      "durationMs": 164785,
+      "ids": {
+        "appleMusic": "1391453529"
+      }
+    },
+    {
+      "title": "Get Out",
+      "artist": "The Vines",
+      "album": "Melodia",
+      "durationMs": 130693,
+      "ids": {
+        "appleMusic": "1654010292"
+      }
+    },
+    {
+      "title": "Vision Valley",
+      "artist": "The Vines",
+      "album": "Vision Valley",
+      "durationMs": 162427,
+      "ids": {
+        "appleMusic": "715907511"
+      }
+    },
+    {
+      "title": "Gimme Love",
+      "artist": "The Vines",
+      "album": "Future Primitive",
+      "durationMs": 111960,
+      "ids": {
+        "appleMusic": "438399342"
+      }
+    },
+    {
+      "title": "I Wanna Go Down",
+      "artist": "The Vines",
+      "album": "In Miracle Land",
+      "durationMs": 124269,
+      "ids": {
+        "appleMusic": "1391453781"
+      }
+    },
+    {
+      "title": "He's A Rocker",
+      "artist": "The Vines",
+      "album": "He's a Rocker - EP",
+      "durationMs": 116947,
+      "ids": {
+        "appleMusic": "280913828"
+      }
+    },
+    {
+      "title": "Spaceship",
+      "artist": "The Vines",
+      "album": "Vision Valley",
+      "durationMs": 367000,
+      "ids": {
+        "appleMusic": "715907740"
+      }
+    },
+    {
+      "title": "A.S.4",
+      "artist": "The Vines",
+      "album": "Future Primitive",
+      "durationMs": 200133,
+      "ids": {
+        "appleMusic": "438399346"
+      }
+    },
+    {
+      "title": "Slide Away",
+      "artist": "The Vines",
+      "album": "In Miracle Land",
+      "durationMs": 160560,
+      "ids": {
+        "appleMusic": "1391453778"
+      }
+    },
+    {
+      "title": "True As The Night",
+      "artist": "The Vines",
+      "album": "Melodia",
+      "durationMs": 367213,
+      "ids": {
+        "appleMusic": "1654010624"
+      }
+    },
+    {
+      "title": "F*k Yeh",
+      "artist": "The Vines"
+    },
+    {
+      "title": "Future Primitive",
+      "artist": "The Vines",
+      "album": "Future Primitive",
+      "durationMs": 114907,
+      "ids": {
+        "appleMusic": "438399350"
+      }
+    },
+    {
+      "title": "A.S III",
+      "artist": "The Vines",
+      "album": "Melodia",
+      "durationMs": 113720,
+      "ids": {
+        "appleMusic": "1654010606"
+      }
+    },
+    {
+      "title": "Take Me Back",
+      "artist": "The Vines",
+      "album": "Vision Valley (Bonus Track Version)",
+      "durationMs": 162547,
+      "ids": {
+        "appleMusic": "716371470"
+      }
+    },
+    {
+      "title": "Weird Animals",
+      "artist": "The Vines",
+      "album": "Future Primitive",
+      "durationMs": 121920,
+      "ids": {
+        "appleMusic": "438399347"
+      }
+    },
+    {
+      "title": "Scream",
+      "artist": "The Vines",
+      "album": "Melodia",
+      "durationMs": 120147,
+      "ids": {
+        "appleMusic": "1654011301"
+      }
+    },
+    {
+      "title": "Hey",
+      "artist": "The Vines",
+      "album": "Melodia",
+      "durationMs": 93613,
+      "ids": {
+        "appleMusic": "1654011295"
+      }
+    }
+  ]
+}

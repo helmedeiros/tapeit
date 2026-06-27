@@ -1,0 +1,369 @@
+{
+  "name": "This Is The Hives",
+  "tracks": [
+    {
+      "title": "Hate To Say I Told You So",
+      "artist": "The Hives",
+      "album": "Veni Vidi Vicious",
+      "durationMs": 200693,
+      "ids": {
+        "appleMusic": "1485028050"
+      }
+    },
+    {
+      "title": "Tick Tick Boom",
+      "artist": "The Hives",
+      "album": "The Black and White album",
+      "durationMs": 205387,
+      "ids": {
+        "appleMusic": "1443435099"
+      }
+    },
+    {
+      "title": "Walk Idiot Walk",
+      "artist": "The Hives",
+      "album": "Tyrannosaurus Hives",
+      "durationMs": 211813,
+      "ids": {
+        "appleMusic": "1442588983"
+      }
+    },
+    {
+      "title": "Enough Is Enough",
+      "artist": "The Hives"
+    },
+    {
+      "title": "Main Offender",
+      "artist": "The Hives",
+      "album": "Veni Vidi Vicious",
+      "durationMs": 153160,
+      "ids": {
+        "appleMusic": "1485028048"
+      }
+    },
+    {
+      "title": "Come On!",
+      "artist": "The Hives",
+      "album": "Lex Hives (Deluxe Edition)",
+      "durationMs": 68133,
+      "ids": {
+        "appleMusic": "1731408788"
+      }
+    },
+    {
+      "title": "Two-Timing Touch and Broken Bones",
+      "artist": "The Hives",
+      "album": "Tyrannosaurus Hives",
+      "durationMs": 120507,
+      "ids": {
+        "appleMusic": "1442588736"
+      }
+    },
+    {
+      "title": "Roll Out The Red Carpet",
+      "artist": "The Hives",
+      "album": "The Hives Forever Forever The Hives",
+      "durationMs": 139781,
+      "ids": {
+        "appleMusic": "1803614590"
+      }
+    },
+    {
+      "title": "Bogus Operandi",
+      "artist": "The Hives"
+    },
+    {
+      "title": "Won't Be Long",
+      "artist": "The Hives",
+      "album": "The Black and White album",
+      "durationMs": 226467,
+      "ids": {
+        "appleMusic": "1443435398"
+      }
+    },
+    {
+      "title": "Die, All Right!",
+      "artist": "The Hives",
+      "album": "Die, All Right! - EP",
+      "durationMs": 165773,
+      "ids": {
+        "appleMusic": "1604691703"
+      }
+    },
+    {
+      "title": "Legalize Living",
+      "artist": "The Hives",
+      "album": "The Hives Forever Forever The Hives",
+      "durationMs": 204632,
+      "ids": {
+        "appleMusic": "1803614579"
+      }
+    },
+    {
+      "title": "Rigor Mortis Radio",
+      "artist": "The Hives"
+    },
+    {
+      "title": "Abra Cadaver",
+      "artist": "The Hives",
+      "album": "Tyrannosaurus Hives",
+      "durationMs": 93613,
+      "ids": {
+        "appleMusic": "1442588715"
+      }
+    },
+    {
+      "title": "Good Samaritan",
+      "artist": "The Hives",
+      "album": "Good Samaritan - Single",
+      "durationMs": 186900,
+      "ids": {
+        "appleMusic": "1461752309"
+      }
+    },
+    {
+      "title": "Hooray Hooray Hooray",
+      "artist": "The Hives",
+      "album": "The Hives Forever Forever The Hives",
+      "durationMs": 152694,
+      "ids": {
+        "appleMusic": "1803614452"
+      }
+    },
+    {
+      "title": "Countdown To Shutdown",
+      "artist": "The Hives",
+      "album": "Countdown to Shutdown - Single",
+      "durationMs": 193557,
+      "ids": {
+        "appleMusic": "1687672954"
+      }
+    },
+    {
+      "title": "B is for Brutus",
+      "artist": "The Hives",
+      "album": "Tyrannosaurus Hives",
+      "durationMs": 156347,
+      "ids": {
+        "appleMusic": "1442588995"
+      }
+    },
+    {
+      "title": "Bigger Hole To Fill",
+      "artist": "The Hives",
+      "album": "The Black and White Album",
+      "durationMs": 217840,
+      "ids": {
+        "appleMusic": "1443156801"
+      }
+    },
+    {
+      "title": "The Hives Forever Forever The Hives",
+      "artist": "The Hives",
+      "album": "The Hives Forever Forever The Hives",
+      "durationMs": 183466,
+      "ids": {
+        "appleMusic": "1803614794"
+      }
+    },
+    {
+      "title": "Trapdoor Solution",
+      "artist": "The Hives",
+      "album": "Trapdoor Solution / The Bomb - Single",
+      "durationMs": 63497,
+      "ids": {
+        "appleMusic": "1692940594"
+      }
+    },
+    {
+      "title": "A Little More For Little You",
+      "artist": "The Hives",
+      "album": "Tyrannosaurus Hives",
+      "durationMs": 178640,
+      "ids": {
+        "appleMusic": "1442588991"
+      }
+    },
+    {
+      "title": "Try It Again",
+      "artist": "The Hives",
+      "album": "The Black and White Album",
+      "durationMs": 209907,
+      "ids": {
+        "appleMusic": "1443156174"
+      }
+    },
+    {
+      "title": "Paint A Picture",
+      "artist": "The Hives"
+    },
+    {
+      "title": "Smoke \u0026 Mirrors",
+      "artist": "The Hives"
+    },
+    {
+      "title": "Here We Go Again",
+      "artist": "The Hives",
+      "album": "Your New Favourite Band",
+      "durationMs": 132798,
+      "ids": {
+        "appleMusic": "1485029634"
+      }
+    },
+    {
+      "title": "No Pun Intended",
+      "artist": "The Hives",
+      "album": "Tyrannosaurus Hives",
+      "durationMs": 140533,
+      "ids": {
+        "appleMusic": "1442588988"
+      }
+    },
+    {
+      "title": "Go Right Ahead",
+      "artist": "The Hives"
+    },
+    {
+      "title": "Two Kinds Of Trouble",
+      "artist": "The Hives"
+    },
+    {
+      "title": "A.K.A. I-D-I-O-T",
+      "artist": "The Hives"
+    },
+    {
+      "title": "Blood Red Moon",
+      "artist": "The Hives",
+      "album": "Blood Red Moon - Single",
+      "durationMs": 271547,
+      "ids": {
+        "appleMusic": "970529932"
+      }
+    },
+    {
+      "title": "Wait A Minute",
+      "artist": "The Hives",
+      "album": "Lex Hives",
+      "durationMs": 181520,
+      "ids": {
+        "appleMusic": "1599106029"
+      }
+    },
+    {
+      "title": "Hey Little World",
+      "artist": "The Hives",
+      "album": "The Black and White Album",
+      "durationMs": 202760,
+      "ids": {
+        "appleMusic": "1443156432"
+      }
+    },
+    {
+      "title": "Inspection Wise 1999",
+      "artist": "The Hives",
+      "album": "Veni Vidi Vicious",
+      "durationMs": 97667,
+      "ids": {
+        "appleMusic": "1485028054"
+      }
+    },
+    {
+      "title": "The Stomp",
+      "artist": "The Hives",
+      "album": "Barely Legal",
+      "durationMs": 114730,
+      "ids": {
+        "appleMusic": "1485027568"
+      }
+    },
+    {
+      "title": "Take Back The Toys",
+      "artist": "The Hives",
+      "album": "Lex Hives (Deluxe Edition)",
+      "durationMs": 173987,
+      "ids": {
+        "appleMusic": "1731408794"
+      }
+    },
+    {
+      "title": "You Got It All... Wrong",
+      "artist": "The Hives",
+      "album": "The Black and White Album",
+      "durationMs": 162293,
+      "ids": {
+        "appleMusic": "1443156182"
+      }
+    },
+    {
+      "title": "A Get Together To Tear It Apart",
+      "artist": "The Hives",
+      "album": "Veni Vidi Vicious",
+      "durationMs": 112867,
+      "ids": {
+        "appleMusic": "1485028047"
+      }
+    },
+    {
+      "title": "I'm Alive",
+      "artist": "The Hives",
+      "album": "I'm Alive - Single",
+      "durationMs": 251973,
+      "ids": {
+        "appleMusic": "1461751866"
+      }
+    },
+    {
+      "title": "1000 Answers",
+      "artist": "The Hives",
+      "album": "Lex Hives",
+      "durationMs": 127067,
+      "ids": {
+        "appleMusic": "1599105843"
+      }
+    },
+    {
+      "title": "Hail Hail Spit N' Drool",
+      "artist": "The Hives",
+      "album": "Barely Legal",
+      "durationMs": 87005,
+      "ids": {
+        "appleMusic": "1485027562"
+      }
+    },
+    {
+      "title": "Declare Guerre Nucleaire",
+      "artist": "The Hives"
+    },
+    {
+      "title": "Throw It On Me",
+      "artist": "Timbaland",
+      "album": "Shock Value",
+      "durationMs": 130867,
+      "ids": {
+        "appleMusic": "1443720842"
+      }
+    },
+    {
+      "title": "These Spectacles Reveal the Nostalgics",
+      "artist": "The Hives",
+      "album": "Lex Hives",
+      "durationMs": 116787,
+      "ids": {
+        "appleMusic": "1599106039"
+      }
+    },
+    {
+      "title": "I'm A Wicked One",
+      "artist": "The Hives",
+      "album": "Barely Legal",
+      "durationMs": 105250,
+      "ids": {
+        "appleMusic": "1485027559"
+      }
+    },
+    {
+      "title": "Hooked On A Feeling",
+      "artist": "The Hives"
+    }
+  ]
+}

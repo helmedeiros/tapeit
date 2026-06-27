@@ -1,0 +1,47 @@
+{
+  "name": "Pato Fu | Amor de Brinquedo",
+  "tracks": [
+    {
+      "title": "Every Breath You Take",
+      "artist": "Pato Fu",
+      "album": "Música de Brinquedo 2",
+      "durationMs": 247809,
+      "ids": {
+        "appleMusic": "1675564411"
+      }
+    },
+    {
+      "title": "My Girl",
+      "artist": "Pato Fu",
+      "album": "Música de Brinquedo",
+      "durationMs": 170067
+    },
+    {
+      "title": "Primavera (Vai Chuva)",
+      "artist": "Pato Fu",
+      "album": "Música de Brinquedo",
+      "durationMs": 134613
+    },
+    {
+      "title": "Rock and Roll Lullaby",
+      "artist": "Pato Fu",
+      "album": "Música de Brinquedo",
+      "durationMs": 259920
+    },
+    {
+      "title": "Love Me Tender",
+      "artist": "Pato Fu",
+      "album": "Música de Brinquedo",
+      "durationMs": 197173
+    },
+    {
+      "title": "Não Se Vá",
+      "artist": "Pato Fu",
+      "album": "Música de Brinquedo 2",
+      "durationMs": 274251,
+      "ids": {
+        "appleMusic": "1675564416"
+      }
+    }
+  ]
+}

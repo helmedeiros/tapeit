@@ -1,0 +1,620 @@
+{
+  "name": "Home de Bowie",
+  "tracks": [
+    {
+      "title": "Ready for the Floor",
+      "artist": "Hot Chip",
+      "album": "Made in the Dark",
+      "durationMs": 234240,
+      "ids": {
+        "appleMusic": "1251019255"
+      }
+    },
+    {
+      "title": "Time to Pretend",
+      "artist": "MGMT",
+      "album": "Time to Pretend - Single",
+      "durationMs": 261000,
+      "ids": {
+        "appleMusic": "305864791"
+      }
+    },
+    {
+      "title": "1901",
+      "artist": "Phoenix",
+      "album": "Wolfgang Amadeus Phoenix",
+      "durationMs": 193107,
+      "ids": {
+        "appleMusic": "1771710539"
+      }
+    },
+    {
+      "title": "Fidelity",
+      "artist": "Regina Spektor",
+      "album": "Begin to Hope",
+      "durationMs": 226680,
+      "ids": {
+        "appleMusic": "157819403"
+      }
+    },
+    {
+      "title": "Losing You",
+      "artist": "Solange",
+      "album": "Losing You - Single",
+      "durationMs": 260400,
+      "ids": {
+        "appleMusic": "1648346153"
+      }
+    },
+    {
+      "title": "Why Do You Let Me Stay Here?",
+      "artist": "She \u0026 Him",
+      "album": "Volume One",
+      "durationMs": 150507,
+      "ids": {
+        "appleMusic": "1839131584"
+      }
+    },
+    {
+      "title": "A Menina Dança",
+      "artist": "Novos Baianos",
+      "album": "Acabou Chorare",
+      "durationMs": 232200,
+      "ids": {
+        "appleMusic": "1831607577"
+      }
+    },
+    {
+      "title": "I Follow Rivers",
+      "artist": "Lykke Li",
+      "album": "Hits 2000",
+      "durationMs": 228467,
+      "ids": {
+        "appleMusic": "1651228625"
+      }
+    },
+    {
+      "title": "Green Light",
+      "artist": "Lorde",
+      "album": "Wake Up",
+      "durationMs": 234653,
+      "ids": {
+        "appleMusic": "1551388198"
+      }
+    },
+    {
+      "title": "D.A.N.C.E.",
+      "artist": "Justice",
+      "album": "D.A.N.C.E. (Logic Reprise) - Single",
+      "durationMs": 242267,
+      "ids": {
+        "appleMusic": "1655184119"
+      }
+    },
+    {
+      "title": "Vou Recomeçar",
+      "artist": "Gal Costa",
+      "album": "Tropical Romance: Bossa Nova for Lovers",
+      "durationMs": 205027,
+      "ids": {
+        "appleMusic": "960299338"
+      }
+    },
+    {
+      "title": "My Mistakes",
+      "artist": "Eleanor Friedberger",
+      "album": "Last Summer",
+      "durationMs": 268907,
+      "ids": {
+        "appleMusic": "1751171263"
+      }
+    },
+    {
+      "title": "Just Like Heaven",
+      "artist": "The Cure",
+      "album": "Kiss Me Kiss Me Kiss Me",
+      "durationMs": 212827,
+      "ids": {
+        "appleMusic": "1444058551"
+      }
+    },
+    {
+      "title": "Wouldn't It Be Nice (Mono / Remastered 2012)",
+      "artist": "The Beach Boys",
+      "album": "TOP OF THE SPOT  Musica \u0026 Pubblicità in TV 80's / 90's Vol.1",
+      "durationMs": 146191,
+      "ids": {
+        "appleMusic": "6765497465"
+      }
+    },
+    {
+      "title": "Wake Up",
+      "artist": "Arcade Fire",
+      "album": "Funeral",
+      "durationMs": 335333,
+      "ids": {
+        "appleMusic": "1249418625"
+      }
+    },
+    {
+      "title": "Bizarre Love Triangle (Shep Pettibone 7\" Remix)",
+      "artist": "New Order",
+      "album": "Total (Deluxe Version)",
+      "durationMs": 226293,
+      "ids": {
+        "appleMusic": "439807782"
+      }
+    },
+    {
+      "title": "Jacqueline",
+      "artist": "Franz Ferdinand",
+      "album": "Franz Ferdinand",
+      "durationMs": 229027,
+      "ids": {
+        "appleMusic": "315844010"
+      }
+    },
+    {
+      "title": "Evil",
+      "artist": "Interpol",
+      "album": "Evil - EP",
+      "durationMs": 215827,
+      "ids": {
+        "appleMusic": "1589113505"
+      }
+    },
+    {
+      "title": "Hung Up",
+      "artist": "Madonna",
+      "album": "FYP Pop Hits",
+      "durationMs": 337733,
+      "ids": {
+        "appleMusic": "1854679850"
+      }
+    },
+    {
+      "title": "Skeleton Boy",
+      "artist": "Friendly Fires",
+      "album": "Friendly Fires (Expanded Version)",
+      "durationMs": 213640,
+      "ids": {
+        "appleMusic": "325550983"
+      }
+    },
+    {
+      "title": "I Can Change",
+      "artist": "LCD Soundsystem",
+      "album": "Modern Alternative Pop",
+      "durationMs": 355813,
+      "ids": {
+        "appleMusic": "1622353412"
+      }
+    },
+    {
+      "title": "No One’s Better Sake",
+      "artist": "Little Joy",
+      "album": "Little Joy",
+      "durationMs": 173613,
+      "ids": {
+        "appleMusic": "293921685"
+      }
+    },
+    {
+      "title": "The Greatest",
+      "artist": "Cat Power",
+      "album": "The Greatest: Slipcase Edition",
+      "durationMs": 202560,
+      "ids": {
+        "appleMusic": "1589276270"
+      }
+    },
+    {
+      "title": "Take a Walk",
+      "artist": "Passion Pit",
+      "album": "Gossamer (Expanded Edition)",
+      "durationMs": 264547,
+      "ids": {
+        "appleMusic": "1680812015"
+      }
+    },
+    {
+      "title": "Mardy Bum",
+      "artist": "Arctic Monkeys",
+      "album": "Whatever People Say I Am, That's What I'm Not",
+      "durationMs": 175440
+    },
+    {
+      "title": "Ruby",
+      "artist": "Kaiser Chiefs",
+      "album": "Yours Truly, Angry Mob (Deluxe)",
+      "durationMs": 204200,
+      "ids": {
+        "appleMusic": "1443919262"
+      }
+    },
+    {
+      "title": "Alright",
+      "artist": "Supergrass",
+      "album": "Supergrass Is 10 - The Best Of 94-04",
+      "durationMs": 180880,
+      "ids": {
+        "appleMusic": "1437332848"
+      }
+    },
+    {
+      "title": "The Bucket",
+      "artist": "Kings of Leon",
+      "album": "Coffeehouse Classics, Vol. 1",
+      "durationMs": 175547,
+      "ids": {
+        "appleMusic": "1030788404"
+      }
+    },
+    {
+      "title": "Read My Mind",
+      "artist": "The Killers",
+      "album": "Sam's Town",
+      "durationMs": 246840,
+      "ids": {
+        "appleMusic": "1440507529"
+      }
+    },
+    {
+      "title": "Undercover Martyn",
+      "artist": "Two Door Cinema Club",
+      "album": "Tourist History (Deluxe Edition)",
+      "durationMs": 166573,
+      "ids": {
+        "appleMusic": "920412101"
+      }
+    },
+    {
+      "title": "Diane Young",
+      "artist": "Vampire Weekend",
+      "album": "Modern Vampires of the City",
+      "durationMs": 160067,
+      "ids": {
+        "appleMusic": "613185021"
+      }
+    },
+    {
+      "title": "O Vento",
+      "artist": "Los Hermanos",
+      "album": "Mega Hits: Los Hermanos",
+      "durationMs": 213867,
+      "ids": {
+        "appleMusic": "860819074"
+      }
+    },
+    {
+      "title": "Drive It Like You Stole It",
+      "artist": "Sing Street",
+      "album": "Sing Street (Original Motion Picture Soundtrack)",
+      "durationMs": 216387,
+      "ids": {
+        "appleMusic": "1440752681"
+      }
+    },
+    {
+      "title": "Pumped Up Kicks",
+      "artist": "Foster the People",
+      "album": "Canzoni estive",
+      "durationMs": 239600,
+      "ids": {
+        "appleMusic": "1752198216"
+      }
+    },
+    {
+      "title": "Young Folks",
+      "artist": "Peter Bjorn and John",
+      "album": "Frühling 2022",
+      "durationMs": 276693,
+      "ids": {
+        "appleMusic": "1609323657"
+      }
+    },
+    {
+      "title": "I Dare You",
+      "artist": "The xx",
+      "album": "I See You (Deluxe)",
+      "durationMs": 233280,
+      "ids": {
+        "appleMusic": "1247685004"
+      }
+    },
+    {
+      "title": "French Navy",
+      "artist": "Camera Obscura",
+      "album": "French Navy - EP",
+      "durationMs": 198893,
+      "ids": {
+        "appleMusic": "308989873"
+      }
+    },
+    {
+      "title": "Maps",
+      "artist": "Yeah Yeah Yeahs",
+      "album": "Indie Classics",
+      "durationMs": 219987,
+      "ids": {
+        "appleMusic": "1888552984"
+      }
+    },
+    {
+      "title": "Cheated Hearts",
+      "artist": "Yeah Yeah Yeahs",
+      "album": "Show Your Bones",
+      "durationMs": 238040,
+      "ids": {
+        "appleMusic": "1443719593"
+      }
+    },
+    {
+      "title": "Nightcall",
+      "artist": "Kavinsky",
+      "album": "Nightcall",
+      "durationMs": 258413,
+      "ids": {
+        "appleMusic": "1442447970"
+      }
+    },
+    {
+      "title": "Don't Dream It's Over",
+      "artist": "Crowded House",
+      "album": "Striking Tunes Vol 7",
+      "durationMs": 236800,
+      "ids": {
+        "appleMusic": "1894030662"
+      }
+    },
+    {
+      "title": "True (Single Edit)",
+      "artist": "Spandau Ballet",
+      "album": "Top 100 80s",
+      "durationMs": 329147,
+      "ids": {
+        "appleMusic": "1484826858"
+      }
+    },
+    {
+      "title": "Build",
+      "artist": "The Housemartins",
+      "album": "The People Who Grinned Themselves to Death",
+      "durationMs": 287067,
+      "ids": {
+        "appleMusic": "1443904688"
+      }
+    },
+    {
+      "title": "Fight Test",
+      "artist": "The Flaming Lips",
+      "album": "iTunes Originals: The Flaming Lips",
+      "durationMs": 256720,
+      "ids": {
+        "appleMusic": "413928535"
+      }
+    },
+    {
+      "title": "Hard Times",
+      "artist": "Paramore",
+      "album": "Morning Coffee Tunes 2025",
+      "durationMs": 182693,
+      "ids": {
+        "appleMusic": "1816914260"
+      }
+    },
+    {
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Tears for Fears",
+      "album": "Songs from the Big Chair (Deluxe)",
+      "durationMs": 251480,
+      "ids": {
+        "appleMusic": "1443226353"
+      }
+    },
+    {
+      "title": "Hard to Beat",
+      "artist": "Hard-Fi",
+      "album": "New Year’s Eve: 100 Uplifting Songs",
+      "durationMs": 253307,
+      "ids": {
+        "appleMusic": "1545412136"
+      }
+    },
+    {
+      "title": "Dancing On My Own",
+      "artist": "Robyn",
+      "album": "Body Talk, Pt. 1",
+      "durationMs": 288670,
+      "ids": {
+        "appleMusic": "376971805"
+      }
+    },
+    {
+      "title": "Countdown",
+      "artist": "Beyoncé",
+      "album": "Countdown (Remixes) - EP",
+      "durationMs": 211893,
+      "ids": {
+        "appleMusic": "479853625"
+      }
+    },
+    {
+      "title": "The Suburbs",
+      "artist": "Arcade Fire",
+      "album": "The Suburbs",
+      "durationMs": 315200,
+      "ids": {
+        "appleMusic": "1252758311"
+      }
+    },
+    {
+      "title": "A Certain Romance",
+      "artist": "Arctic Monkeys",
+      "album": "Whatever People Say I Am, That's What I'm Not",
+      "durationMs": 331200
+    },
+    {
+      "title": "Sowing The Seeds Of Love",
+      "artist": "Tears for Fears",
+      "album": "Gartenarbeit",
+      "durationMs": 377613,
+      "ids": {
+        "appleMusic": "1817299266"
+      }
+    },
+    {
+      "title": "Elephant Gun",
+      "artist": "Beirut",
+      "album": "Lon Gisland - EP",
+      "durationMs": 348893,
+      "ids": {
+        "appleMusic": "1343375764"
+      }
+    },
+    {
+      "title": "Too Late To Turn Back Now",
+      "artist": "Cornelius Brothers \u0026 Sister Rose",
+      "album": "Top Hits 70's",
+      "durationMs": 198693,
+      "ids": {
+        "appleMusic": "1711377067"
+      }
+    },
+    {
+      "title": "TenTwentyTen",
+      "artist": "Generationals",
+      "album": "ActorCaster",
+      "durationMs": 202613,
+      "ids": {
+        "appleMusic": "1365205414"
+      }
+    },
+    {
+      "title": "Energy",
+      "artist": "The Apples In Stereo",
+      "album": "New Magnetic Wonder",
+      "durationMs": 210693,
+      "ids": {
+        "appleMusic": "1655114676"
+      }
+    },
+    {
+      "title": "Hazla Corta",
+      "artist": "Tunacola",
+      "album": "En el Centro de la Fiesta Está el Vacío, Pero en el Centro del Vacío Hay Otra Fiesta",
+      "durationMs": 287832,
+      "ids": {
+        "appleMusic": "1440299203"
+      }
+    },
+    {
+      "title": "Get Lucky (feat. Pharrell Williams) [Radio Edit]",
+      "artist": "Daft Punk",
+      "album": "Get Lucky (feat. Pharrell Williams) [Radio Edit] - Single",
+      "durationMs": 247633,
+      "ids": {
+        "appleMusic": "636968288"
+      }
+    },
+    {
+      "title": "Blind (Radio Edit)",
+      "artist": "Hercules \u0026 Love Affair",
+      "album": "Best of the Bands",
+      "durationMs": 345560,
+      "ids": {
+        "appleMusic": "693661840"
+      }
+    },
+    {
+      "title": "The Killing Moon",
+      "artist": "Echo \u0026 The Bunnymen",
+      "album": "Wednesday Goth \u0026 Indie",
+      "durationMs": 346280,
+      "ids": {
+        "appleMusic": "1676607711"
+      }
+    },
+    {
+      "title": "Bom Senso",
+      "artist": "Tim Maia",
+      "album": "Racional, Vol. 1",
+      "durationMs": 305693,
+      "ids": {
+        "appleMusic": "1455936357"
+      }
+    },
+    {
+      "title": "After Hours",
+      "artist": "The Velvet Underground",
+      "album": "comfy autumn",
+      "durationMs": 127453,
+      "ids": {
+        "appleMusic": "1831061684"
+      }
+    },
+    {
+      "title": "Get It On",
+      "artist": "T. Rex",
+      "album": "Electric Warrior",
+      "durationMs": 262613,
+      "ids": {
+        "appleMusic": "1440805585"
+      }
+    },
+    {
+      "title": "Rock 'n' Roll Star (Remastered)",
+      "artist": "Oasis",
+      "album": "Definitely Maybe (30th Anniversary Deluxe Edition)",
+      "durationMs": 322947,
+      "ids": {
+        "appleMusic": "1744418871"
+      }
+    },
+    {
+      "title": "Oração Ao Tempo (Ao Vivo)",
+      "artist": "Caetano Veloso",
+      "album": "Ofertório (feat. Tom Veloso) [Ao Vivo]",
+      "durationMs": 225271,
+      "ids": {
+        "appleMusic": "1384652888"
+      }
+    },
+    {
+      "title": "Absolute Beginners (Single Version) [2002 Remaster]",
+      "artist": "David Bowie",
+      "album": "Best of Bowie",
+      "durationMs": 337667,
+      "ids": {
+        "appleMusic": "695543535"
+      }
+    },
+    {
+      "title": "Changes (2015 Remaster)",
+      "artist": "David Bowie",
+      "album": "Moonage Daydream – A Brett Morgen Film",
+      "durationMs": 212963,
+      "ids": {
+        "appleMusic": "1642700771"
+      }
+    },
+    {
+      "title": "Ironic (2015 Remaster)",
+      "artist": "Alanis Morissette",
+      "album": "Dark Songs - Hopeless, Angry, Sad",
+      "durationMs": 230000,
+      "ids": {
+        "appleMusic": "1754172052"
+      }
+    },
+    {
+      "title": "Deeper and Deeper",
+      "artist": "Madonna",
+      "album": "Erotica",
+      "durationMs": 333467,
+      "ids": {
+        "appleMusic": "80814537"
+      }
+    }
+  ]
+}

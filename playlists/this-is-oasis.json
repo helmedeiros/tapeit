@@ -1,0 +1,306 @@
+{
+  "name": "This Is Oasis",
+  "tracks": [
+    {
+      "title": "Wonderwall",
+      "artist": "Oasis",
+      "album": "Stop The Clocks",
+      "durationMs": 258613,
+      "ids": {
+        "appleMusic": "1517520101"
+      }
+    },
+    {
+      "title": "Stop Crying Your Heart Out",
+      "artist": "Oasis",
+      "album": "Heathen Chemistry",
+      "durationMs": 303120,
+      "ids": {
+        "appleMusic": "1517508236"
+      }
+    },
+    {
+      "title": "Stand by Me",
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "durationMs": 356600
+    },
+    {
+      "title": "Live Forever",
+      "artist": "Oasis",
+      "album": "Definitely Maybe",
+      "durationMs": 276867,
+      "ids": {
+        "appleMusic": "1517506707"
+      }
+    },
+    {
+      "title": "Don't Look Back in Anger",
+      "artist": "Oasis",
+      "album": "Stop The Clocks",
+      "durationMs": 293573,
+      "ids": {
+        "appleMusic": "1517520396"
+      }
+    },
+    {
+      "title": "Little by Little",
+      "artist": "Oasis",
+      "album": "Heathen Chemistry",
+      "durationMs": 292853,
+      "ids": {
+        "appleMusic": "1517508240"
+      }
+    },
+    {
+      "title": "Don't Go Away",
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "durationMs": 288600
+    },
+    {
+      "title": "Supersonic",
+      "artist": "Oasis",
+      "album": "Supersonic - Single",
+      "durationMs": 283744,
+      "ids": {
+        "appleMusic": "1517491513"
+      }
+    },
+    {
+      "title": "Champagne Supernova",
+      "artist": "Oasis",
+      "album": "(What's the Story) Morning Glory?",
+      "durationMs": 450507,
+      "ids": {
+        "appleMusic": "1517447869"
+      }
+    },
+    {
+      "title": "Songbird",
+      "artist": "Oasis",
+      "album": "Heathen Chemistry",
+      "durationMs": 127600,
+      "ids": {
+        "appleMusic": "1517508239"
+      }
+    },
+    {
+      "title": "Let There Be Love",
+      "artist": "Oasis",
+      "album": "Don't Believe the Truth",
+      "durationMs": 331653
+    },
+    {
+      "title": "Whatever",
+      "artist": "Oasis",
+      "album": "Whatever - EP",
+      "durationMs": 381267,
+      "ids": {
+        "appleMusic": "1517670355"
+      }
+    },
+    {
+      "title": "She's Electric",
+      "artist": "Oasis",
+      "album": "(What's the Story) Morning Glory?",
+      "durationMs": 220920,
+      "ids": {
+        "appleMusic": "1517447778"
+      }
+    },
+    {
+      "title": "The Masterplan",
+      "artist": "Oasis",
+      "album": "The Masterplan",
+      "durationMs": 322640
+    },
+    {
+      "title": "The Importance of Being Idle",
+      "artist": "Oasis",
+      "album": "The Importance Of Being Idle - Single",
+      "durationMs": 219827,
+      "ids": {
+        "appleMusic": "1517499608"
+      }
+    },
+    {
+      "title": "Slide Away",
+      "artist": "Oasis",
+      "album": "Definitely Maybe",
+      "durationMs": 392773,
+      "ids": {
+        "appleMusic": "1517507454"
+      }
+    },
+    {
+      "title": "Acquiesce",
+      "artist": "Oasis",
+      "album": "The Masterplan",
+      "durationMs": 264960
+    },
+    {
+      "title": "Sad Song",
+      "artist": "Oasis",
+      "album": "Definitely Maybe (Deluxe Edition Remastered)",
+      "durationMs": 269213,
+      "ids": {
+        "appleMusic": "1525936431"
+      }
+    },
+    {
+      "title": "D'You Know What I Mean?",
+      "artist": "Oasis",
+      "album": "D'You Know What I Mean? - EP",
+      "durationMs": 462493,
+      "ids": {
+        "appleMusic": "1517444929"
+      }
+    },
+    {
+      "title": "Half the World Away",
+      "artist": "Oasis",
+      "album": "Whatever - EP",
+      "durationMs": 265427,
+      "ids": {
+        "appleMusic": "1517670494"
+      }
+    },
+    {
+      "title": "Roll with It",
+      "artist": "Oasis",
+      "album": "(What's the Story) Morning Glory?",
+      "durationMs": 239827,
+      "ids": {
+        "appleMusic": "1517447326"
+      }
+    },
+    {
+      "title": "Fuckin' in the Bushes",
+      "artist": "Oasis"
+    },
+    {
+      "title": "All Around the World",
+      "artist": "Oasis",
+      "album": "All Around The World - EP",
+      "durationMs": 560040,
+      "ids": {
+        "appleMusic": "1517447630"
+      }
+    },
+    {
+      "title": "Married with Children",
+      "artist": "Oasis",
+      "album": "Born on a Different Cloud - EP",
+      "durationMs": 161181,
+      "ids": {
+        "appleMusic": "1652207975"
+      }
+    },
+    {
+      "title": "Lyla",
+      "artist": "Oasis",
+      "album": "Don't Believe the Truth",
+      "durationMs": 310440
+    },
+    {
+      "title": "I'm Outta Time",
+      "artist": "Oasis",
+      "album": "Dig Out Your Soul",
+      "durationMs": 250013,
+      "ids": {
+        "appleMusic": "1517495781"
+      }
+    },
+    {
+      "title": "Go Let It Out",
+      "artist": "Oasis",
+      "album": "Standing on the Shoulder of Giants",
+      "durationMs": 278693,
+      "ids": {
+        "appleMusic": "1517445625"
+      }
+    },
+    {
+      "title": "The Hindu Times",
+      "artist": "Oasis",
+      "album": "Heathen Chemistry",
+      "durationMs": 226400,
+      "ids": {
+        "appleMusic": "1517508216"
+      }
+    },
+    {
+      "title": "Keep The Dream Alive",
+      "artist": "Oasis",
+      "album": "Don't Believe the Truth",
+      "durationMs": 345707
+    },
+    {
+      "title": "The Girl in the Dirty Shirt",
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "durationMs": 347400
+    },
+    {
+      "title": "The Shock of the Lightning",
+      "artist": "Oasis",
+      "album": "Dig Out Your Soul",
+      "durationMs": 299947,
+      "ids": {
+        "appleMusic": "1517495778"
+      }
+    },
+    {
+      "title": "Where Did It All Go Wrong?",
+      "artist": "Oasis",
+      "album": "Standing on the Shoulder of Giants",
+      "durationMs": 266840,
+      "ids": {
+        "appleMusic": "1517446560"
+      }
+    },
+    {
+      "title": "She Is Love",
+      "artist": "Oasis",
+      "album": "Heathen Chemistry",
+      "durationMs": 189373,
+      "ids": {
+        "appleMusic": "1517508399"
+      }
+    },
+    {
+      "title": "I Hope, I Think, I Know",
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "durationMs": 262427
+    },
+    {
+      "title": "Falling Down",
+      "artist": "Oasis",
+      "album": "Dig Out Your Soul",
+      "durationMs": 260080,
+      "ids": {
+        "appleMusic": "1517496135"
+      }
+    },
+    {
+      "title": "Sunday Morning Call",
+      "artist": "Oasis",
+      "album": "Standing on the Shoulder of Giants",
+      "durationMs": 312680,
+      "ids": {
+        "appleMusic": "1517446765"
+      }
+    },
+    {
+      "title": "Gas Panic!",
+      "artist": "Oasis",
+      "album": "Standing on the Shoulder of Giants",
+      "durationMs": 368253,
+      "ids": {
+        "appleMusic": "1517446554"
+      }
+    }
+  ]
+}

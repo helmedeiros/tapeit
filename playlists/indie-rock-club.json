@@ -1,0 +1,635 @@
+{
+  "name": "Indie Rock Club",
+  "tracks": [
+    {
+      "title": "R U Mine?",
+      "artist": "Arctic Monkeys",
+      "album": "AM",
+      "durationMs": 201726,
+      "ids": {
+        "appleMusic": "663097966"
+      }
+    },
+    {
+      "title": "Someday",
+      "artist": "The Strokes",
+      "album": "Is This It",
+      "durationMs": 183573
+    },
+    {
+      "title": "Mr. Brightside",
+      "artist": "The Killers",
+      "album": "Hot Fuss",
+      "durationMs": 222973,
+      "ids": {
+        "appleMusic": "1526194192"
+      }
+    },
+    {
+      "title": "Take Me Out",
+      "artist": "Franz Ferdinand",
+      "album": "Franz Ferdinand",
+      "durationMs": 237027,
+      "ids": {
+        "appleMusic": "315844084"
+      }
+    },
+    {
+      "title": "Fell In Love With a Girl",
+      "artist": "The White Stripes",
+      "album": "White Blood Cells",
+      "durationMs": 110093
+    },
+    {
+      "title": "Hate to Say I Told You So",
+      "artist": "The Hives",
+      "album": "Veni Vidi Vicious",
+      "durationMs": 200693,
+      "ids": {
+        "appleMusic": "1485028050"
+      }
+    },
+    {
+      "title": "The Funeral",
+      "artist": "Band of Horses",
+      "album": "Everything All The Time (20th Anniversary Edition)",
+      "durationMs": 321880,
+      "ids": {
+        "appleMusic": "1862267705"
+      }
+    },
+    {
+      "title": "Rock \u0026 Roll Queen",
+      "artist": "The Subways",
+      "album": "The O.C. Mix 5",
+      "durationMs": 169947,
+      "ids": {
+        "appleMusic": "160324651"
+      }
+    },
+    {
+      "title": "Fluorescent Adolescent",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "durationMs": 177534
+    },
+    {
+      "title": "Where Is My Mind? (2007 Remaster)",
+      "artist": "Pixies",
+      "album": "Surfer Rosa (2007 Remaster)",
+      "durationMs": 234973,
+      "ids": {
+        "appleMusic": "1027465608"
+      }
+    },
+    {
+      "title": "Are You Gonna Be My Girl",
+      "artist": "Jet",
+      "album": "Get Born (Deluxe Edition)",
+      "durationMs": 213800,
+      "ids": {
+        "appleMusic": "1778048261"
+      }
+    },
+    {
+      "title": "Alright (2015 - Remaster)",
+      "artist": "Supergrass",
+      "album": "I Should Coco (20th Anniversary Collector's Edition)",
+      "durationMs": 181267,
+      "ids": {
+        "appleMusic": "1437461931"
+      }
+    },
+    {
+      "title": "I Bet You Look Good on the Dancefloor",
+      "artist": "Arctic Monkeys",
+      "album": "Whatever People Say I Am, That's What I'm Not",
+      "durationMs": 173680
+    },
+    {
+      "title": "Heads Will Roll",
+      "artist": "Yeah Yeah Yeahs",
+      "album": "It's Blitz!",
+      "durationMs": 221000,
+      "ids": {
+        "appleMusic": "1443538212"
+      }
+    },
+    {
+      "title": "Ruby",
+      "artist": "Kaiser Chiefs",
+      "album": "Yours Truly, Angry Mob (Deluxe)",
+      "durationMs": 204200,
+      "ids": {
+        "appleMusic": "1443919262"
+      }
+    },
+    {
+      "title": "Bang Bang You're Dead",
+      "artist": "Dirty Pretty Things",
+      "album": "Bang Bang You're Dead - EP",
+      "durationMs": 213520,
+      "ids": {
+        "appleMusic": "1444413473"
+      }
+    },
+    {
+      "title": "Steady, As She Goes",
+      "artist": "The Raconteurs",
+      "album": "Broken Boy Soldiers",
+      "durationMs": 215267,
+      "ids": {
+        "appleMusic": "1552875311"
+      }
+    },
+    {
+      "title": "Munich",
+      "artist": "Editors",
+      "album": "The Back Room",
+      "durationMs": 226427,
+      "ids": {
+        "appleMusic": "1378432562"
+      }
+    },
+    {
+      "title": "Naive",
+      "artist": "The Kooks",
+      "album": "Inside In Inside Out",
+      "durationMs": 203507,
+      "ids": {
+        "appleMusic": "724160600"
+      }
+    },
+    {
+      "title": "1901",
+      "artist": "Phoenix",
+      "album": "Wolfgang Amadeus Phoenix",
+      "durationMs": 193107,
+      "ids": {
+        "appleMusic": "1771710539"
+      }
+    },
+    {
+      "title": "Chelsea Dagger",
+      "artist": "The Fratellis",
+      "album": "Costello Music",
+      "durationMs": 215307,
+      "ids": {
+        "appleMusic": "1440783311"
+      }
+    },
+    {
+      "title": "Helicopter",
+      "artist": "Bloc Party",
+      "album": "Silent Alarm",
+      "durationMs": 220173,
+      "ids": {
+        "appleMusic": "983993909"
+      }
+    },
+    {
+      "title": "Ain't No Rest For The Wicked",
+      "artist": "Cage the Elephant",
+      "album": "Cage The Elephant",
+      "durationMs": 175493,
+      "ids": {
+        "appleMusic": "1558444362"
+      }
+    },
+    {
+      "title": "Howlin' for You",
+      "artist": "The Black Keys",
+      "album": "Brothers (Deluxe Remastered Anniversary Edition)",
+      "durationMs": 191956,
+      "ids": {
+        "appleMusic": "1542588734"
+      }
+    },
+    {
+      "title": "Bohemian Like You",
+      "artist": "The Dandy Warhols",
+      "album": "Thirteen Tales From Urban Bohemia",
+      "durationMs": 211707,
+      "ids": {
+        "appleMusic": "1668264777"
+      }
+    },
+    {
+      "title": "An Honest Mistake (Superdiscount Remix)",
+      "artist": "The Bravery",
+      "album": "An Honest Mistake (Superdiscount Remix) - Single",
+      "durationMs": 469707,
+      "ids": {
+        "appleMusic": "1445131607"
+      }
+    },
+    {
+      "title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "album": "Seven Nation Army - Single",
+      "durationMs": 232627,
+      "ids": {
+        "appleMusic": "1543262843"
+      }
+    },
+    {
+      "title": "Mountain at My Gates",
+      "artist": "Foals",
+      "album": "What Went Down",
+      "durationMs": 244293,
+      "ids": {
+        "appleMusic": "1552267619"
+      }
+    },
+    {
+      "title": "Farewell To the Fairground",
+      "artist": "White Lies",
+      "album": "To Lose My Life ... (10th Anniversary Edition)",
+      "durationMs": 256720,
+      "ids": {
+        "appleMusic": "1674022962"
+      }
+    },
+    {
+      "title": "Let's Dance to Joy Division",
+      "artist": "The Wombats",
+      "album": "A Guide to Love, Loss \u0026 Desperation",
+      "durationMs": 191293,
+      "ids": {
+        "appleMusic": "267024731"
+      }
+    },
+    {
+      "title": "Help I'm Alive",
+      "artist": "Metric",
+      "album": "Fantasies",
+      "durationMs": 286013,
+      "ids": {
+        "appleMusic": "1440945967"
+      }
+    },
+    {
+      "title": "I Know What I Am (Remastered 2024)",
+      "artist": "Band of Skulls",
+      "album": "Baby Darling Doll Face Honey (Remastered 2024)",
+      "durationMs": 198027,
+      "ids": {
+        "appleMusic": "1786671756"
+      }
+    },
+    {
+      "title": "A-Punk",
+      "artist": "Vampire Weekend",
+      "album": "Vampire Weekend",
+      "durationMs": 137760,
+      "ids": {
+        "appleMusic": "271489744"
+      }
+    },
+    {
+      "title": "Golden Touch (Full Length)",
+      "artist": "Razorlight",
+      "album": "Up All Night (20th Anniversary Deluxe Edition)",
+      "durationMs": 205213,
+      "ids": {
+        "appleMusic": "1751995071"
+      }
+    },
+    {
+      "title": "Do You Want To",
+      "artist": "Franz Ferdinand",
+      "album": "You Could Have It So Much Better",
+      "durationMs": 215000,
+      "ids": {
+        "appleMusic": "80970744"
+      }
+    },
+    {
+      "title": "Evil",
+      "artist": "Interpol",
+      "album": "Antics",
+      "durationMs": 215827
+    },
+    {
+      "title": "Spread Your Love",
+      "artist": "Black Rebel Motorcycle Club",
+      "album": "B.R.M.C.",
+      "durationMs": 225333,
+      "ids": {
+        "appleMusic": "1660742424"
+      }
+    },
+    {
+      "title": "Last Nite",
+      "artist": "The Strokes",
+      "album": "Is This It",
+      "durationMs": 193507
+    },
+    {
+      "title": "Something Good Can Work",
+      "artist": "Two Door Cinema Club",
+      "album": "Tourist History",
+      "durationMs": 162907,
+      "ids": {
+        "appleMusic": "671942163"
+      }
+    },
+    {
+      "title": "Hang Me up to Dry",
+      "artist": "Cold War Kids",
+      "album": "Robbers \u0026 Cowards",
+      "durationMs": 218787,
+      "ids": {
+        "appleMusic": "945245883"
+      }
+    },
+    {
+      "title": "Here It Goes Again",
+      "artist": "OK Go",
+      "album": "Oh No",
+      "durationMs": 179813,
+      "ids": {
+        "appleMusic": "715554157"
+      }
+    },
+    {
+      "title": "Obstacle 1 (2012 Remaster)",
+      "artist": "Interpol",
+      "album": "Turn On the Bright Lights (The Tenth Anniversary Edition - 2012 Remaster)",
+      "durationMs": 251547,
+      "ids": {
+        "appleMusic": "1589227554"
+      }
+    },
+    {
+      "title": "When You Were Young",
+      "artist": "The Killers",
+      "album": "Sam's Town",
+      "durationMs": 220427,
+      "ids": {
+        "appleMusic": "1440891558"
+      }
+    },
+    {
+      "title": "Men's Needs",
+      "artist": "The Cribs",
+      "album": "Men's Needs, Women's Needs, Whatever",
+      "durationMs": 195973,
+      "ids": {
+        "appleMusic": "254150241"
+      }
+    },
+    {
+      "title": "Believe",
+      "artist": "The Bravery",
+      "album": "The Sun and the Moon",
+      "durationMs": 226347,
+      "ids": {
+        "appleMusic": "1440768731"
+      }
+    },
+    {
+      "title": "Molly's Chambers",
+      "artist": "Kings of Leon",
+      "album": "Youth And Young Manhood",
+      "durationMs": 134907,
+      "ids": {
+        "appleMusic": "1435820271"
+      }
+    },
+    {
+      "title": "Banquet",
+      "artist": "Bloc Party",
+      "album": "Silent Alarm",
+      "durationMs": 201360,
+      "ids": {
+        "appleMusic": "983993912"
+      }
+    },
+    {
+      "title": "Float On",
+      "artist": "Modest Mouse",
+      "album": "Good News for People Who Love Bad News",
+      "durationMs": 208467,
+      "ids": {
+        "appleMusic": "201257515"
+      }
+    },
+    {
+      "title": "My Number",
+      "artist": "Foals",
+      "album": "Holy Fire",
+      "durationMs": 238853,
+      "ids": {
+        "appleMusic": "1551377314"
+      }
+    },
+    {
+      "title": "Shoot the Runner",
+      "artist": "Kasabian",
+      "album": "Empire (Bonus Track Version)",
+      "durationMs": 207373,
+      "ids": {
+        "appleMusic": "207132766"
+      }
+    },
+    {
+      "title": "Get Free",
+      "artist": "The Vines",
+      "album": "Get Free - EP",
+      "durationMs": 127987,
+      "ids": {
+        "appleMusic": "724219595"
+      }
+    },
+    {
+      "title": "Main Offender",
+      "artist": "The Hives",
+      "album": "Veni Vidi Vicious",
+      "durationMs": 153160,
+      "ids": {
+        "appleMusic": "1485028048"
+      }
+    },
+    {
+      "title": "Lazy Eye",
+      "artist": "Silversun Pickups",
+      "album": "The Singles Collection",
+      "durationMs": 354360,
+      "ids": {
+        "appleMusic": "1862927160"
+      }
+    },
+    {
+      "title": "Lonely Boy",
+      "artist": "The Black Keys",
+      "album": "El Camino",
+      "durationMs": 193173,
+      "ids": {
+        "appleMusic": "1052966684"
+      }
+    },
+    {
+      "title": "Come Closer",
+      "artist": "Miles Kane",
+      "album": "Come Closer - EP",
+      "durationMs": 178507,
+      "ids": {
+        "appleMusic": "463263389"
+      }
+    },
+    {
+      "title": "The Age of the Understatement",
+      "artist": "The Last Shadow Puppets",
+      "album": "The Age of the Understatement",
+      "durationMs": 189560,
+      "ids": {
+        "appleMusic": "277075928"
+      }
+    },
+    {
+      "title": "Future Starts Slow",
+      "artist": "The Kills",
+      "album": "Blood Pressures",
+      "durationMs": 245000,
+      "ids": {
+        "appleMusic": "422153220"
+      }
+    },
+    {
+      "title": "Its Getting Boring By The Sea",
+      "artist": "Blood Red Shoes",
+      "album": "Box Of Secrets",
+      "durationMs": 176160,
+      "ids": {
+        "appleMusic": "1775409582"
+      }
+    },
+    {
+      "title": "America",
+      "artist": "Razorlight",
+      "album": "Razorlight (Bonus Tracks)",
+      "durationMs": 250147,
+      "ids": {
+        "appleMusic": "1443209929"
+      }
+    },
+    {
+      "title": "Nobody Move, Nobody Get Hurt",
+      "artist": "We Are Scientists",
+      "album": "Nobody Move, Nobody Get Hurt - Single",
+      "durationMs": 197707,
+      "ids": {
+        "appleMusic": "716231322"
+      }
+    },
+    {
+      "title": "Do You Read Me",
+      "artist": "Ghinzu",
+      "album": "Blow",
+      "durationMs": 257337,
+      "ids": {
+        "appleMusic": "334270555"
+      }
+    },
+    {
+      "title": "Bros",
+      "artist": "Wolf Alice",
+      "album": "My Love Is Cool (Deluxe Edition)",
+      "durationMs": 224720,
+      "ids": {
+        "appleMusic": "1079485844"
+      }
+    },
+    {
+      "title": "Heaven",
+      "artist": "The Walkmen",
+      "album": "Heaven",
+      "durationMs": 266867,
+      "ids": {
+        "appleMusic": "672052048"
+      }
+    },
+    {
+      "title": "The Wire",
+      "artist": "HAIM",
+      "album": "Days Are Gone (Deluxe Edition)",
+      "durationMs": 245787,
+      "ids": {
+        "appleMusic": "1440860289"
+      }
+    },
+    {
+      "title": "Can't Stand Me Now (Live at the O2 Academy Glasgow, September 6, 2015)",
+      "artist": "The Libertines",
+      "album": "Live 2015: September 6, O2 Academy Glasgow",
+      "durationMs": 214520,
+      "ids": {
+        "appleMusic": "1076945082"
+      }
+    },
+    {
+      "title": "Not Nineteen Forever",
+      "artist": "Courteeners",
+      "album": "St. Jude (Bonus Track Version)",
+      "durationMs": 241453,
+      "ids": {
+        "appleMusic": "1440789255"
+      }
+    },
+    {
+      "title": "The Bucket",
+      "artist": "Kings of Leon",
+      "album": "Aha Shake Heartbreak",
+      "durationMs": 175694,
+      "ids": {
+        "appleMusic": "1482424948"
+      }
+    },
+    {
+      "title": "If You Wanna",
+      "artist": "The Vaccines",
+      "album": "What Did You Expect from The Vaccines?",
+      "durationMs": 174013,
+      "ids": {
+        "appleMusic": "1510012338"
+      }
+    },
+    {
+      "title": "Bandages",
+      "artist": "Hot Hot Heat",
+      "album": "Make Up the Breakdown",
+      "durationMs": 212867,
+      "ids": {
+        "appleMusic": "2522353"
+      }
+    },
+    {
+      "title": "Same Jeans",
+      "artist": "The View",
+      "album": "Hats Off To the Buskers",
+      "durationMs": 212947,
+      "ids": {
+        "appleMusic": "619155840"
+      }
+    },
+    {
+      "title": "Hounds of Love",
+      "artist": "The Futureheads",
+      "album": "Pop Throwback",
+      "durationMs": 182680,
+      "ids": {
+        "appleMusic": "1471010510"
+      }
+    },
+    {
+      "title": "T-Shirt Weather",
+      "artist": "Circa Waves",
+      "album": "Young Chasers (Deluxe)",
+      "durationMs": 192120,
+      "ids": {
+        "appleMusic": "1659657599"
+      }
+    }
+  ]
+}

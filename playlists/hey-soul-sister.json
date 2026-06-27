@@ -1,0 +1,446 @@
+{
+  "name": "Hey, Soul Sister",
+  "tracks": [
+    {
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "album": "Chill",
+      "durationMs": 216667,
+      "ids": {
+        "appleMusic": "1023317156"
+      }
+    },
+    {
+      "title": "Over You",
+      "artist": "Olivia King",
+      "album": "Over You - Single",
+      "durationMs": 211766,
+      "ids": {
+        "appleMusic": "1418664978"
+      }
+    },
+    {
+      "title": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "album": "Autunno Vibes 2023",
+      "durationMs": 220733,
+      "ids": {
+        "appleMusic": "1707860567"
+      }
+    },
+    {
+      "title": "Billionaire (feat. Bruno Mars)",
+      "artist": "Travie McCoy",
+      "album": "Fragole Pop",
+      "durationMs": 211160,
+      "ids": {
+        "appleMusic": "1805863549"
+      }
+    },
+    {
+      "title": "The Lazy Song",
+      "artist": "Bruno Mars",
+      "album": "Carnaval Zen",
+      "durationMs": 190213,
+      "ids": {
+        "appleMusic": "1876240159"
+      }
+    },
+    {
+      "title": "Misery",
+      "artist": "Maroon 5",
+      "album": "Hands All Over (Deluxe Version)",
+      "durationMs": 216200,
+      "ids": {
+        "appleMusic": "1440777051"
+      }
+    },
+    {
+      "title": "We Are Young (feat. Janelle Monáe)",
+      "artist": "Fun.",
+      "album": "Remember These Oldschool Hits - Pop \u0026 Rock",
+      "durationMs": 250627,
+      "ids": {
+        "appleMusic": "1827033871"
+      }
+    },
+    {
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "album": "Back 2 School 2024",
+      "durationMs": 193147,
+      "ids": {
+        "appleMusic": "1716440039"
+      }
+    },
+    {
+      "title": "Glad You Came",
+      "artist": "The Wanted",
+      "album": "Chic Pop",
+      "durationMs": 197936,
+      "ids": {
+        "appleMusic": "1870709214"
+      }
+    },
+    {
+      "title": "Lightning",
+      "artist": "The Wanted",
+      "album": "Battleground",
+      "durationMs": 203619,
+      "ids": {
+        "appleMusic": "1443392469"
+      }
+    },
+    {
+      "title": "Stereo Hearts (feat. Adam Levine)",
+      "artist": "Gym Class Heroes",
+      "album": "Canzoni da dedicare",
+      "durationMs": 210960,
+      "ids": {
+        "appleMusic": "1728454383"
+      }
+    },
+    {
+      "title": "Royals",
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "durationMs": 190185,
+      "ids": {
+        "appleMusic": "1440818664"
+      }
+    },
+    {
+      "title": "Counting Stars",
+      "artist": "OneRepublic",
+      "album": "Native",
+      "durationMs": 257286,
+      "ids": {
+        "appleMusic": "1440862803"
+      }
+    },
+    {
+      "title": "You’re Beautiful",
+      "artist": "James Blunt",
+      "album": "Classic Hits Acoustic",
+      "durationMs": 209493,
+      "ids": {
+        "appleMusic": "1847387439"
+      }
+    },
+    {
+      "title": "Radioactive",
+      "artist": "Imagine Dragons",
+      "album": "Night Visions",
+      "durationMs": 186813,
+      "ids": {
+        "appleMusic": "1440830119"
+      }
+    },
+    {
+      "title": "It's Time",
+      "artist": "Imagine Dragons",
+      "album": "Seven In The Morning",
+      "durationMs": 240307,
+      "ids": {
+        "appleMusic": "1634646946"
+      }
+    },
+    {
+      "title": "Grace Kelly",
+      "artist": "MIKA",
+      "album": "Life In Cartoon Motion",
+      "durationMs": 187733,
+      "ids": {
+        "appleMusic": "1440803014"
+      }
+    },
+    {
+      "title": "Always",
+      "artist": "Bon Jovi",
+      "album": "Greatest Hits: The Ultimate Collection (Deluxe Edition)",
+      "durationMs": 353107,
+      "ids": {
+        "appleMusic": "1440677806"
+      }
+    },
+    {
+      "title": "Mil Horas",
+      "artist": "Los Abuelos de la Nada",
+      "album": "Música Para El Mejor Padre",
+      "durationMs": 170547,
+      "ids": {
+        "appleMusic": "1891797092"
+      }
+    },
+    {
+      "title": "The Monster (feat. Rihanna)",
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP2 (Expanded Edition)",
+      "durationMs": 250189,
+      "ids": {
+        "appleMusic": "1711706730"
+      }
+    },
+    {
+      "title": "About a Girl",
+      "artist": "Nirvana",
+      "album": "Bleach (Deluxe Edition)",
+      "durationMs": 168429,
+      "ids": {
+        "appleMusic": "669728225"
+      }
+    },
+    {
+      "title": "Mariposa tecknicolor",
+      "artist": "Fito Páez",
+      "album": "Mariposa Tecknicolor - Top Rock Latino",
+      "durationMs": 222347,
+      "ids": {
+        "appleMusic": "1687118590"
+      }
+    },
+    {
+      "title": "Me And My Broken Heart",
+      "artist": "Rixton",
+      "album": "Safe For Work",
+      "durationMs": 193733,
+      "ids": {
+        "appleMusic": "1603146256"
+      }
+    },
+    {
+      "title": "Zombie",
+      "artist": "The Cranberries",
+      "album": "The Treasure Box for Boys and Girls",
+      "durationMs": 306440,
+      "ids": {
+        "appleMusic": "1440953254"
+      }
+    },
+    {
+      "title": "Sugar",
+      "artist": "Maroon 5",
+      "album": "Lieblings... Kinder Hits",
+      "durationMs": 235253,
+      "ids": {
+        "appleMusic": "1528951657"
+      }
+    },
+    {
+      "title": "Rude",
+      "artist": "MAGIC!",
+      "album": "Summer Party Bangers",
+      "durationMs": 224850,
+      "ids": {
+        "appleMusic": "1687426715"
+      }
+    },
+    {
+      "title": "Demons",
+      "artist": "Imagine Dragons",
+      "album": "Halloween Hits 2021",
+      "durationMs": 177507,
+      "ids": {
+        "appleMusic": "1586866975"
+      }
+    },
+    {
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "album": "Do I Wanna Know? - Single",
+      "durationMs": 273424,
+      "ids": {
+        "appleMusic": "675833167"
+      }
+    },
+    {
+      "title": "Livin' On A Prayer",
+      "artist": "Bon Jovi",
+      "album": "USA Roadtrip",
+      "durationMs": 250627,
+      "ids": {
+        "appleMusic": "1890525769"
+      }
+    },
+    {
+      "title": "La Playa",
+      "artist": "La Oreja de Van Gogh",
+      "album": "El Viaje De Copperpot",
+      "durationMs": 247693,
+      "ids": {
+        "appleMusic": "1776907569"
+      }
+    },
+    {
+      "title": "Como Yo Nadie Te Ha Amado",
+      "artist": "Gabriel Marian",
+      "album": "Tributos de Colección: Lo Mejor de Bon Jovi",
+      "durationMs": 288235,
+      "ids": {
+        "appleMusic": "1524893954"
+      }
+    },
+    {
+      "title": "The Time (Dirty Bit)",
+      "artist": "Black Eyed Peas",
+      "album": "Musiquita para tiendas",
+      "durationMs": 307640,
+      "ids": {
+        "appleMusic": "1824341466"
+      }
+    },
+    {
+      "title": "Take a Walk",
+      "artist": "Passion Pit",
+      "album": "Gossamer (Expanded Edition)",
+      "durationMs": 264547,
+      "ids": {
+        "appleMusic": "1680812015"
+      }
+    },
+    {
+      "title": "Diane Young",
+      "artist": "Vampire Weekend",
+      "album": "Modern Vampires of the City",
+      "durationMs": 160067,
+      "ids": {
+        "appleMusic": "613185021"
+      }
+    },
+    {
+      "title": "The Nights",
+      "artist": "Avicii",
+      "album": "Hity EDM",
+      "durationMs": 178058,
+      "ids": {
+        "appleMusic": "1551214087"
+      }
+    },
+    {
+      "title": "The Days",
+      "artist": "Avicii",
+      "album": "Sommerhits 2026",
+      "durationMs": 278480,
+      "ids": {
+        "appleMusic": "6767309002"
+      }
+    },
+    {
+      "title": "You're On (feat. Kyan)",
+      "artist": "Madeon",
+      "album": "Adventure (Deluxe)",
+      "durationMs": 192718,
+      "ids": {
+        "appleMusic": "955824968"
+      }
+    },
+    {
+      "title": "It's Tricky",
+      "artist": "Run-DMC",
+      "album": "The Essential Run DMC",
+      "durationMs": 183200,
+      "ids": {
+        "appleMusic": "1498287911"
+      }
+    },
+    {
+      "title": "Don't You Worry Child (feat. John Martin) [Radio Edit]",
+      "artist": "Swedish House Mafia",
+      "album": "Hity EDM",
+      "durationMs": 211360,
+      "ids": {
+        "appleMusic": "1551213170"
+      }
+    },
+    {
+      "title": "Bitter Sweet Symphony",
+      "artist": "The Verve",
+      "album": "Cruel Intentions (Music from the Original Motion Picture Soundtrack)",
+      "durationMs": 358333,
+      "ids": {
+        "appleMusic": "712767309"
+      }
+    },
+    {
+      "title": "The Reason",
+      "artist": "Hoobastank",
+      "album": "40 Rock Power Ballads",
+      "durationMs": 233027,
+      "ids": {
+        "appleMusic": "1440665697"
+      }
+    },
+    {
+      "title": "Amor de verano",
+      "artist": "Airbag",
+      "album": "The Pop Sound: Nostalgia 2000",
+      "durationMs": 197386,
+      "ids": {
+        "appleMusic": "1839933472"
+      }
+    },
+    {
+      "title": "Degeneración Actual",
+      "artist": "Pedro Suárez Vértiz",
+      "album": "Degeneración Actual",
+      "durationMs": 316027,
+      "ids": {
+        "appleMusic": "536237989"
+      }
+    },
+    {
+      "title": "Sweet Victory",
+      "artist": "David Eisley \u0026 Bob Kulick",
+      "album": "Spongebob Squarepants - The Yellow Album",
+      "durationMs": 126653,
+      "ids": {
+        "appleMusic": "283379767"
+      }
+    },
+    {
+      "title": "Mi primer millon",
+      "artist": "Bacilos",
+      "album": "Tardes de Mate",
+      "durationMs": 237387,
+      "ids": {
+        "appleMusic": "6770842140"
+      }
+    },
+    {
+      "title": "De Música Ligera",
+      "artist": "Soda Stereo",
+      "album": "Me Verás Volver (Hits \u0026 Más)",
+      "durationMs": 212974,
+      "ids": {
+        "appleMusic": "262638322"
+      }
+    },
+    {
+      "title": "Bailando (feat. Descemer Bueno \u0026 Gente de Zona) [Spanish Version]",
+      "artist": "Enrique Iglesias",
+      "album": "SEX AND LOVE",
+      "durationMs": 243400,
+      "ids": {
+        "appleMusic": "1443231391"
+      }
+    },
+    {
+      "title": "Elastic Heart",
+      "artist": "Sia",
+      "album": "1000 Forms of Fear (Deluxe Version)",
+      "durationMs": 257200,
+      "ids": {
+        "appleMusic": "989874555"
+      }
+    },
+    {
+      "title": "Hello",
+      "artist": "Adele",
+      "album": "Hello - Single",
+      "durationMs": 295502,
+      "ids": {
+        "appleMusic": "1050994384"
+      }
+    }
+  ]
+}
