@@ -1,5 +1,8 @@
 # tapeIt
 
+[![ci](https://github.com/helmedeiros/tapeit/actions/workflows/ci.yml/badge.svg)](https://github.com/helmedeiros/tapeit/actions/workflows/ci.yml)
+[![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Migrate your music library from **Spotify** to **Apple Music**.
 
 A one-time migration CLI (Go) that reads everything you've added to your Spotify
