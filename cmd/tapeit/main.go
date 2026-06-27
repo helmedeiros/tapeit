@@ -376,37 +376,9 @@ func cmdCreate(ctx context.Context, args []string) error {
 		return err
 	}
 
-	plName := strings.TrimSpace(*name)
-	var tracks []domain.Track
-	if *from != "" && strings.HasSuffix(strings.ToLower(*from), ".json") {
-		f, err := os.Open(*from)
-		if err != nil {
-			return err
-		}
-		defer func() { _ = f.Close() }()
-		jsonName, tr, err := tracklist.ParseJSON(f)
-		if err != nil {
-			return err
-		}
-		tracks = tr
-		if plName == "" {
-			plName = strings.TrimSpace(jsonName)
-		}
-	} else {
-		var r io.Reader = os.Stdin
-		if *from != "" {
-			f, err := os.Open(*from)
-			if err != nil {
-				return err
-			}
-			defer func() { _ = f.Close() }()
-			r = f
-		}
-		tr, err := tracklist.Parse(r)
-		if err != nil {
-			return err
-		}
-		tracks = tr
+	plName, tracks, err := readTrackList(*from, *name)
+	if err != nil {
+		return err
 	}
 
 	if plName == "" {
@@ -454,6 +426,42 @@ func cmdCreate(ctx context.Context, args []string) error {
 	}
 	fmt.Println("\n✓ Created.")
 	return nil
+}
+
+// readTrackList loads tracks for `create`: a .json export (which also carries a
+// playlist name), or "Title - Artist" lines from a file or stdin.
+func readTrackList(from, name string) (string, []domain.Track, error) {
+	plName := strings.TrimSpace(name)
+	if from != "" && strings.HasSuffix(strings.ToLower(from), ".json") {
+		f, err := os.Open(from)
+		if err != nil {
+			return "", nil, err
+		}
+		defer func() { _ = f.Close() }()
+		jsonName, tracks, err := tracklist.ParseJSON(f)
+		if err != nil {
+			return "", nil, err
+		}
+		if plName == "" {
+			plName = strings.TrimSpace(jsonName)
+		}
+		return plName, tracks, nil
+	}
+
+	r := io.Reader(os.Stdin)
+	if from != "" {
+		f, err := os.Open(from)
+		if err != nil {
+			return "", nil, err
+		}
+		defer func() { _ = f.Close() }()
+		r = f
+	}
+	tracks, err := tracklist.Parse(r)
+	if err != nil {
+		return "", nil, err
+	}
+	return plName, tracks, nil
 }
 
 // --- shared helpers ---
