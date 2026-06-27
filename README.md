@@ -7,8 +7,12 @@ library — owned playlists, **followed** playlists, and **Liked Songs** — mat
 each track to the Apple Music catalog, and recreates the playlists in your Apple
 Music library.
 
-> Status: **working end to end** (`pull` → `match` → `push`). See
-> [`docs/DESIGN.md`](docs/DESIGN.md) for architecture and
+It also maintains a portable, service-agnostic catalog of playlists as JSON under
+[`playlists/`](playlists/) — build a list by hand, enrich it from any service,
+and recreate it anywhere.
+
+> Status: **working end to end** (`pull` → `match` → `push`, plus `create` and
+> `import`). See [`docs/DESIGN.md`](docs/DESIGN.md) for architecture and
 > [`docs/DECISIONS.md`](docs/DECISIONS.md) for the verified facts and trade-offs.
 
 ---
@@ -31,6 +35,20 @@ Four separable stages, each re-runnable and inspectable:
 
 `match` is the lossy step — you review the match report **before** anything is
 written to Apple.
+
+### Beyond migration: portable playlist lists
+
+Two more commands work with the JSON catalog under [`playlists/`](playlists/) —
+one file per playlist, matched across services by ISRC (else title):
+
+| Command  | What it does                                                                       |
+| -------- | --------------------------------------------------------------------------------- |
+| `create` | Build a playlist on Apple Music from a hand-supplied song list (JSON or text).     |
+| `import` | Read a service's library into the JSON lists — `import apple` / `import spotify`. Merges, never overwrites. |
+
+A list belongs to no single service — it only **accrues** metadata (album,
+duration, per-service ids) as it moves between them. Format and contribution
+guide: [`playlists/README.md`](playlists/README.md).
 
 ---
 
@@ -77,7 +95,7 @@ The official Apple Music API requires a paid Apple Developer membership
 
 ---
 
-## Quickstart (planned UX)
+## Quickstart
 
 ```bash
 make build                                          # builds ./bin/tapeit
@@ -96,6 +114,18 @@ make build                                          # builds ./bin/tapeit
 # 4. recreate the playlists in Apple Music
 ./bin/tapeit push --dry-run                          # preview
 ./bin/tapeit push                                    # idempotent — safe to re-run
+```
+
+Build or back up the portable lists under `playlists/`:
+
+```bash
+# build a playlist on Apple Music from a song list (JSON, or "Title - Artist" lines)
+./bin/tapeit create --from playlists/my-list.json --dry-run   # preview the match
+./bin/tapeit create --from playlists/my-list.json
+
+# read a whole library into playlists/ (merging, service-agnostic)
+./bin/tapeit import apple
+./bin/tapeit import spotify                           # add --owned-only to skip followed
 ```
 
 State lives under your user config dir (`tapeit/`): tokens, the library
@@ -118,7 +148,11 @@ Go 1.26+. Architecture and conventions: [`docs/DESIGN.md`](docs/DESIGN.md).
 
 ## License & scope
 
-Personal-use tool for migrating **your own** accounts. Not affiliated with
-Spotify or Apple. The Apple web-player token technique uses Apple's
-infrastructure outside its published API terms; use it only against your own
-library.
+[MIT](LICENSE) — the **code** is free to use, fork, and modify.
+
+**Scope & disclaimer.** A personal-use tool for moving and backing up **your
+own** library. Not affiliated with Spotify or Apple. The Apple web-player token
+technique uses Apple's infrastructure outside its published API terms; use it
+only against your own library. The [`playlists/`](playlists/) collection is open
+to share to — see [`CONTRIBUTING.md`](CONTRIBUTING.md) and
+[`SECURITY.md`](SECURITY.md).
