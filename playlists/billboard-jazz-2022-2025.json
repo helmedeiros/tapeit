@@ -1,0 +1,90 @@
+{
+  "name": "Billboard Jazz 2022-2025",
+  "tracks": [
+    {"title": "From the Start", "artist": "Laufey"},
+    {"title": "Second Best", "artist": "Laufey"},
+    {"title": "Promise", "artist": "Laufey"},
+    {"title": "Misty", "artist": "Laufey"},
+    {"title": "While You Were Sleeping", "artist": "Laufey"},
+    {"title": "Falling Behind", "artist": "Laufey"},
+    {"title": "Valentine", "artist": "Laufey"},
+    {"title": "Like the Movies", "artist": "Laufey"},
+
+    {"title": "Fly Me to the Moon", "artist": "Frank Sinatra"},
+    {"title": "The Way You Look Tonight", "artist": "Frank Sinatra"},
+    {"title": "My Way", "artist": "Frank Sinatra"},
+    {"title": "Strangers in the Night", "artist": "Frank Sinatra"},
+    {"title": "That's Life", "artist": "Frank Sinatra"},
+    {"title": "Theme from New York, New York", "artist": "Frank Sinatra"},
+    {"title": "I've Got You Under My Skin", "artist": "Frank Sinatra"},
+    {"title": "Summer Wind", "artist": "Frank Sinatra"},
+
+    {"title": "Haven't Met You Yet", "artist": "Michael Bublé"},
+    {"title": "Everything", "artist": "Michael Bublé"},
+    {"title": "Feeling Good", "artist": "Michael Bublé"},
+    {"title": "Home", "artist": "Michael Bublé"},
+    {"title": "Sway", "artist": "Michael Bublé"},
+    {"title": "It's a Beautiful Day", "artist": "Michael Bublé"},
+    {"title": "Cry Me a River", "artist": "Michael Bublé"},
+    {"title": "Hold On", "artist": "Michael Bublé"},
+
+    {"title": "Don't Know Why", "artist": "Norah Jones"},
+    {"title": "Come Away with Me", "artist": "Norah Jones"},
+    {"title": "Sunrise", "artist": "Norah Jones"},
+    {"title": "Turn Me On", "artist": "Norah Jones"},
+    {"title": "Feelin' the Same Way", "artist": "Norah Jones"},
+
+    {"title": "So What", "artist": "Miles Davis"},
+    {"title": "Freddie Freeloader", "artist": "Miles Davis"},
+    {"title": "Blue in Green", "artist": "Miles Davis"},
+    {"title": "All Blues", "artist": "Miles Davis"},
+
+    {"title": "Smooth Operator", "artist": "Sade"},
+    {"title": "No Ordinary Love", "artist": "Sade"},
+    {"title": "By Your Side", "artist": "Sade"},
+    {"title": "The Sweetest Taboo", "artist": "Sade"},
+    {"title": "Your Love Is King", "artist": "Sade"},
+
+    {"title": "What a Wonderful World", "artist": "Louis Armstrong"},
+    {"title": "La Vie en Rose", "artist": "Louis Armstrong"},
+    {"title": "Dream a Little Dream of Me", "artist": "Louis Armstrong"},
+    {"title": "Hello, Dolly!", "artist": "Louis Armstrong"},
+
+    {"title": "Unforgettable", "artist": "Nat King Cole"},
+    {"title": "L-O-V-E", "artist": "Nat King Cole"},
+    {"title": "Mona Lisa", "artist": "Nat King Cole"},
+    {"title": "The Christmas Song", "artist": "Nat King Cole"},
+
+    {"title": "Linus and Lucy", "artist": "Vince Guaraldi Trio"},
+    {"title": "Christmas Time Is Here", "artist": "Vince Guaraldi Trio"},
+    {"title": "Skating", "artist": "Vince Guaraldi Trio"},
+
+    {"title": "The Girl from Ipanema", "artist": "Stan Getz"},
+    {"title": "Corcovado", "artist": "Stan Getz"},
+    {"title": "Desafinado", "artist": "Stan Getz"},
+
+    {"title": "Take Five", "artist": "The Dave Brubeck Quartet"},
+    {"title": "Blue Rondo à la Turk", "artist": "The Dave Brubeck Quartet"},
+    {"title": "Three to Get Ready", "artist": "The Dave Brubeck Quartet"},
+
+    {"title": "Can't Get Out of This Mood", "artist": "Samara Joy"},
+    {"title": "Guess Who I Saw Today", "artist": "Samara Joy"},
+    {"title": "Stardust", "artist": "Samara Joy"},
+
+    {"title": "I Put a Spell on You", "artist": "Nina Simone"},
+    {"title": "Feeling Good", "artist": "Nina Simone"},
+    {"title": "Ne Me Quitte Pas", "artist": "Nina Simone"},
+
+    {"title": "Strange Fruit", "artist": "Billie Holiday"},
+    {"title": "God Bless the Child", "artist": "Billie Holiday"},
+    {"title": "Summertime", "artist": "Billie Holiday"},
+
+    {"title": "Songbird", "artist": "Kenny G"},
+    {"title": "Forever in Love", "artist": "Kenny G"},
+    {"title": "The Moment", "artist": "Kenny G"},
+
+    {"title": "I Get a Kick Out of You", "artist": "Tony Bennett & Lady Gaga"},
+    {"title": "Love for Sale", "artist": "Tony Bennett & Lady Gaga"},
+    {"title": "Anything Goes", "artist": "Tony Bennett & Lady Gaga"}
+  ]
+}

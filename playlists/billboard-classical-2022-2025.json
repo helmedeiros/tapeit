@@ -1,0 +1,42 @@
+{
+  "name": "Billboard Classical 2022-2025",
+  "tracks": [
+    {"title": "A Thousand Years", "artist": "The Piano Guys"},
+    {"title": "Beethoven's 5 Secrets", "artist": "The Piano Guys"},
+    {"title": "Cello Wars", "artist": "The Piano Guys"},
+
+    {"title": "Nuvole Bianche", "artist": "Ludovico Einaudi"},
+    {"title": "Experience", "artist": "Ludovico Einaudi"},
+    {"title": "Una Mattina", "artist": "Ludovico Einaudi"},
+
+    {"title": "Crystallize", "artist": "Lindsey Stirling"},
+    {"title": "Shatter Me", "artist": "Lindsey Stirling"},
+    {"title": "Roundtable Rival", "artist": "Lindsey Stirling"},
+
+    {"title": "Clair de Lune", "artist": "Lang Lang"},
+    {"title": "Für Elise", "artist": "Lang Lang"},
+    {"title": "Gymnopédie No. 1", "artist": "Lang Lang"},
+
+    {"title": "On the Nature of Daylight", "artist": "Max Richter"},
+    {"title": "Dream 3", "artist": "Max Richter"},
+    {"title": "Path 5", "artist": "Max Richter"},
+
+    {"title": "The Swan", "artist": "Yo-Yo Ma"},
+    {"title": "Ave Maria", "artist": "Yo-Yo Ma"},
+    {"title": "Cello Suite No. 1 in G Major: Prélude", "artist": "Yo-Yo Ma"},
+
+    {"title": "Time to Say Goodbye", "artist": "Andrea Bocelli"},
+    {"title": "Con te partirò", "artist": "Andrea Bocelli"},
+    {"title": "The Prayer", "artist": "Andrea Bocelli"},
+
+    {"title": "You Raise Me Up", "artist": "Josh Groban"},
+    {"title": "Believe", "artist": "Josh Groban"},
+    {"title": "To Where You Are", "artist": "Josh Groban"},
+
+    {"title": "River Flows in You", "artist": "Yiruma"},
+    {"title": "Kiss the Rain", "artist": "Yiruma"},
+    {"title": "Maybe", "artist": "Yiruma"},
+
+    {"title": "Hedwig's Theme", "artist": "John Williams"}
+  ]
+}
