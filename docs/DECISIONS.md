@@ -60,3 +60,18 @@
 - Text-search fallback carries `durationInMillis` + `isrc` for scoring.
 - Expect a non-trivial unmatched rate (regional/catalog gaps, ISRC variance,
   occasional 404 on a returned id) — surface for manual review.
+
+### Metadata enrichment (bpm/isrc) — CONFIRMED via Deezer
+- `tapeit enrich` fills `features.bpm`/`gain` and backfills `isrc` on the
+  playlist JSON, matching by title/artist search. Public Deezer API, no auth.
+- Search: `GET /search/track?q=artist:"A" track:"T"` returns id + isrc +
+  duration (no bpm). Full track: `GET /track/{id}` returns `bpm`, `gain`, `isrc`.
+  <https://developers.deezer.com/api/track>
+- Rationale: our Apple-library reads carry no ISRC, and Apple/Spotify expose no
+  usable audio features (Spotify `audio_features` restricted for new apps Nov
+  2024). Deezer is the free path to bpm + isrc. See
+  `docs/playlist-intelligence/research/06-metadata-enrichment-sources.md`.
+- Known gap: Deezer reports `bpm: 0` for some tracks (older/live); energy /
+  valence / key remain unavailable without audio or a resolved Spotify id.
+- Self-throttled ~4 req/s; two calls per track (search + track), so a full
+  library pass is minutes — run per-file or as a background sweep.

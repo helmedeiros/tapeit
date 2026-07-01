@@ -56,6 +56,8 @@ func run(ctx context.Context, args []string) error {
 		return cmdCreate(ctx, args[1:])
 	case "import":
 		return cmdImport(ctx, args[1:])
+	case "enrich":
+		return cmdEnrich(ctx, args[1:])
 	case "report":
 		return cmdReport(args[1:])
 	case "version", "--version":
@@ -82,6 +84,7 @@ Usage:
   tapeit push   [--dry-run]               Create playlists in Apple Music
   tapeit create --name N [--from FILE]    Build a playlist from a song list
   tapeit import (apple|spotify) [--out DIR]  Read a service into the JSON lists
+  tapeit enrich [--from FILE] [--dir DIR]  Add bpm/isrc to the JSON lists (Deezer)
   tapeit version
 
 Spotify redirect URI to register: ` + spotify.RedirectURI + `

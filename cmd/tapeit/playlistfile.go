@@ -21,6 +21,15 @@ type playlistTrack struct {
 	DurationMS int               `json:"durationMs,omitempty"`
 	ISRC       string            `json:"isrc,omitempty"`
 	IDs        map[string]string `json:"ids,omitempty"`
+	Features   *trackFeatures    `json:"features,omitempty"`
+}
+
+// trackFeatures holds audio characteristics fetched from an enrichment source
+// (see `tapeit enrich`). Absent until enriched.
+type trackFeatures struct {
+	BPM    float64 `json:"bpm,omitempty"`
+	Gain   float64 `json:"gain,omitempty"`
+	Source string  `json:"source,omitempty"`
 }
 
 // importedTrack is one track as a service reports it, ready to fold into a
