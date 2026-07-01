@@ -75,3 +75,19 @@
   valence / key remain unavailable without audio or a resolved Spotify id.
 - Self-throttled ~4 req/s; two calls per track (search + track), so a full
   library pass is minutes — run per-file or as a background sweep.
+
+### Curator (`tapeit curate`) — co-occurrence, not PMI
+- Builds a playlist from the user's own library by expanding from a seed artist
+  along artist co-occurrence (which artists they group together across
+  playlists), then separating so no two adjacent tracks share an artist.
+- Neighbours ranked by **raw shared-playlist count**, capped to the top
+  `--breadth` (default 12). Tried **PMI** to down-weight popular-with-everything
+  artists — it backfired: artists appearing in a single playlist (freq 1) get
+  inflated PMI and tie, so one-off co-occurrences flooded the top alphabetically
+  (Arctic → "3 Doors Down, ABBA"). Raw weight + breadth cap is more robust on
+  this sparse, "This Is <Artist>"-heavy library.
+- Known limit: sparse seeds only present in one dedicated playlist + generic
+  hits mixes (e.g. Daft Punk) expand into whatever co-occurs in those mixes.
+  Lower `--breadth` to stay tighter (more seed tracks, fewer neighbours).
+- Better candidate generation (embeddings, playlist-size-weighted affinity) is
+  future work — see docs/playlist-intelligence/PLAN.md and lab notebook 02.
