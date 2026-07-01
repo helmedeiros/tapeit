@@ -1,35 +1,254 @@
 {
   "name": "The Best Dinner Party Records",
   "tracks": [
-    {"title": "Take Five", "artist": "The Dave Brubeck Quartet"},
-    {"title": "Cross Road Blues", "artist": "Robert Johnson"},
-    {"title": "Let the Good Times Roll", "artist": "Ray Charles"},
-    {"title": "Dreams", "artist": "Fleetwood Mac"},
-    {"title": "Chan Chan", "artist": "Buena Vista Social Club"},
-    {"title": "Blue Train", "artist": "John Coltrane"},
-    {"title": "Every Day I Have the Blues", "artist": "B.B. King"},
-    {"title": "Your Song", "artist": "Elton John"},
-    {"title": "Love Will Tear Us Apart", "artist": "Nouvelle Vague"},
-    {"title": "Without a Song", "artist": "Sonny Rollins"},
-    {"title": "El Cuarto de Tula", "artist": "Buena Vista Social Club"},
-    {"title": "Moment's Notice", "artist": "John Coltrane"},
-    {"title": "Sweet Little Angel", "artist": "B.B. King"},
-    {"title": "Goodbye Yellow Brick Road", "artist": "Elton John"},
-    {"title": "The Guns of Brixton", "artist": "Nouvelle Vague"},
-    {"title": "The Bridge", "artist": "Sonny Rollins"},
-    {"title": "Blue Rondo à la Turk", "artist": "The Dave Brubeck Quartet"},
-    {"title": "Sweet Home Chicago", "artist": "Robert Johnson"},
-    {"title": "Come Rain or Come Shine", "artist": "Ray Charles"},
-    {"title": "Go Your Own Way", "artist": "Fleetwood Mac"},
-    {"title": "I Guess That's Why They Call It the Blues", "artist": "Elton John"},
-    {"title": "Just Can't Get Enough", "artist": "Nouvelle Vague"},
-    {"title": "God Bless the Child", "artist": "Sonny Rollins"},
-    {"title": "Three to Get Ready", "artist": "The Dave Brubeck Quartet"},
-    {"title": "Hellhound on My Trail", "artist": "Robert Johnson"},
-    {"title": "Just for a Thrill", "artist": "Ray Charles"},
-    {"title": "The Chain", "artist": "Fleetwood Mac"},
-    {"title": "Candela", "artist": "Buena Vista Social Club"},
-    {"title": "Locomotion", "artist": "John Coltrane"},
-    {"title": "How Blue Can You Get", "artist": "B.B. King"}
+    {
+      "title": "Take Five",
+      "artist": "The Dave Brubeck Quartet",
+      "isrc": "USSM15900108",
+      "features": {
+        "bpm": 172.3,
+        "gain": -15.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Cross Road Blues",
+      "artist": "Robert Johnson",
+      "isrc": "USSM13600025",
+      "features": {
+        "bpm": 102.1,
+        "gain": -15.8,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Let the Good Times Roll",
+      "artist": "Ray Charles",
+      "isrc": "QZR8K2212001"
+    },
+    {
+      "title": "Dreams",
+      "artist": "Fleetwood Mac",
+      "isrc": "USWB10400046",
+      "features": {
+        "bpm": 120.2,
+        "gain": -12.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Chan Chan",
+      "artist": "Buena Vista Social Club",
+      "isrc": "GBBGU9700150"
+    },
+    {
+      "title": "Blue Train",
+      "artist": "John Coltrane",
+      "isrc": "USBN20300528",
+      "features": {
+        "bpm": 135.1,
+        "gain": -11.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Every Day I Have the Blues",
+      "artist": "B.B. King",
+      "isrc": "USMC16449162",
+      "features": {
+        "bpm": 164.7,
+        "gain": -12.4,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Your Song",
+      "artist": "Elton John",
+      "isrc": "GBAMB9500072",
+      "features": {
+        "bpm": 128,
+        "gain": -13.1,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Love Will Tear Us Apart",
+      "artist": "Nouvelle Vague",
+      "isrc": "GBEWK0400019"
+    },
+    {
+      "title": "Without a Song",
+      "artist": "Sonny Rollins",
+      "isrc": "USBB10300404",
+      "features": {
+        "bpm": 112.3,
+        "gain": -15.8,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "El Cuarto de Tula",
+      "artist": "Buena Vista Social Club",
+      "isrc": "GBBGU9700350"
+    },
+    {
+      "title": "Moment's Notice",
+      "artist": "John Coltrane",
+      "isrc": "USBN21200586"
+    },
+    {
+      "title": "Sweet Little Angel",
+      "artist": "B.B. King",
+      "isrc": "USMC16449163",
+      "features": {
+        "bpm": 101.33,
+        "gain": -11.4,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Goodbye Yellow Brick Road",
+      "artist": "Elton John",
+      "isrc": "GBUM71304956",
+      "features": {
+        "bpm": 120.5,
+        "gain": -11.6,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "The Guns of Brixton",
+      "artist": "Nouvelle Vague"
+    },
+    {
+      "title": "The Bridge",
+      "artist": "Sonny Rollins",
+      "isrc": "USBB10300407",
+      "features": {
+        "bpm": 160.9,
+        "gain": -14.1,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Blue Rondo à la Turk",
+      "artist": "The Dave Brubeck Quartet",
+      "isrc": "USSM15900106",
+      "features": {
+        "bpm": 112.7,
+        "gain": -14.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Sweet Home Chicago",
+      "artist": "Robert Johnson",
+      "isrc": "USSM10404756",
+      "features": {
+        "bpm": 101.6,
+        "gain": -14.2,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Come Rain or Come Shine",
+      "artist": "Ray Charles",
+      "isrc": "USAT20003625",
+      "features": {
+        "bpm": 122,
+        "gain": -16.8,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Go Your Own Way",
+      "artist": "Fleetwood Mac",
+      "isrc": "USWB10400050",
+      "features": {
+        "bpm": 135.1,
+        "gain": -9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "I Guess That's Why They Call It the Blues",
+      "artist": "Elton John",
+      "isrc": "GBALX8300088",
+      "features": {
+        "bpm": 120.5,
+        "gain": -16.4,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Just Can't Get Enough",
+      "artist": "Nouvelle Vague",
+      "isrc": "GBEWK0400020"
+    },
+    {
+      "title": "God Bless the Child",
+      "artist": "Sonny Rollins",
+      "isrc": "USBB10300408",
+      "features": {
+        "bpm": 159.6,
+        "gain": -16.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Three to Get Ready",
+      "artist": "The Dave Brubeck Quartet",
+      "isrc": "USSM11105021",
+      "features": {
+        "bpm": 103.1,
+        "gain": -18.5,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Hellhound on My Trail",
+      "artist": "Robert Johnson",
+      "isrc": "FR8X01600028"
+    },
+    {
+      "title": "Just for a Thrill",
+      "artist": "Ray Charles",
+      "isrc": "USAT20003620",
+      "features": {
+        "bpm": 132.5,
+        "gain": -15.1,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "The Chain",
+      "artist": "Fleetwood Mac",
+      "isrc": "USWB10400053",
+      "features": {
+        "bpm": 151.44,
+        "gain": -9.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Candela",
+      "artist": "Buena Vista Social Club",
+      "isrc": "GBBGU9700950"
+    },
+    {
+      "title": "Locomotion",
+      "artist": "John Coltrane",
+      "isrc": "USBN21200587"
+    },
+    {
+      "title": "How Blue Can You Get",
+      "artist": "B.B. King",
+      "isrc": "USMC16453142",
+      "features": {
+        "bpm": 103.9,
+        "gain": -13.4,
+        "source": "deezer"
+      }
+    }
   ]
 }
