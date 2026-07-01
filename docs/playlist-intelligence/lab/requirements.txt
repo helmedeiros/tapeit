@@ -1,0 +1,11 @@
+# Notebook dependencies for the Playlist Intelligence lab.
+# build_db.py needs none of these (stdlib only); these are for the notebooks.
+pandas
+numpy
+matplotlib
+jupyterlab
+networkx
+scikit-learn
+# Optional, for the embedding / LLM prototyping cells in notebook 02/03:
+# sentence-transformers
+# anthropic
