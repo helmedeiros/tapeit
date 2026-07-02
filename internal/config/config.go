@@ -39,6 +39,10 @@ func MatchesPath() (string, error) { return inDir("matches.json") }
 // PushStatePath tracks push progress for idempotent re-runs.
 func PushStatePath() (string, error) { return inDir("push_state.json") }
 
+// ArtistIndexPath is the local cache of online artist relationships used for
+// discovery (see `tapeit curate --discover`).
+func ArtistIndexPath() (string, error) { return inDir("artist_index.json") }
+
 func inDir(name string) (string, error) {
 	dir, err := Dir()
 	if err != nil {

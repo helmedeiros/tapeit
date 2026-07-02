@@ -4,22 +4,28 @@ import (
 	"context"
 	"flag"
 	"fmt"
+	"os"
 	"path/filepath"
 	"sort"
 	"strings"
 
+	"github.com/helmedeiros/tapeit/internal/artistindex"
+	"github.com/helmedeiros/tapeit/internal/config"
 	"github.com/helmedeiros/tapeit/internal/curator"
+	"github.com/helmedeiros/tapeit/internal/deezer"
 )
 
-func cmdCurate(_ context.Context, args []string) error {
+func cmdCurate(ctx context.Context, args []string) error {
 	fs := flag.NewFlagSet("curate", flag.ContinueOnError)
 	seed := fs.String("seed", "", "seed artist to build the playlist around (required)")
-	size := fs.Int("size", 30, "target number of tracks")
+	size := fs.Int("size", 30, "target number of tracks from your library")
 	breadth := fs.Int("breadth", 12, "how many neighbouring artists to draw from (lower = tighter)")
 	minWeight := fs.Int("min-affinity", 1, "min playlists a neighbour must share with the seed")
+	discover := fs.Int("discover", 0, "also add up to N tracks by similar artists you don't own yet (online)")
 	name := fs.String("name", "", "playlist name (default: \"Around <seed>\")")
 	dir := fs.String("dir", "playlists", "library directory to draw from")
 	out := fs.String("out", "playlists", "directory to write the new playlist into")
+	force := fs.Bool("force", false, "overwrite the output file if it already exists")
 	if err := fs.Parse(args); err != nil {
 		return err
 	}
@@ -37,20 +43,77 @@ func cmdCurate(_ context.Context, args []string) error {
 		return fmt.Errorf("no tracks found around %q — is that artist in your library (under %s/)?", *seed, *dir)
 	}
 
+	discovered := 0
+	if *discover > 0 {
+		tracks, discovered, err = addDiscovery(ctx, model, tracks, *seed, *discover)
+		if err != nil {
+			return err
+		}
+		tracks = curator.Separate(tracks)
+	}
+
 	plName := *name
 	if plName == "" {
 		plName = "Around " + *seed
 	}
-	doc := playlistDoc{Name: plName, Tracks: fromCuratorTracks(tracks)}
 	path := filepath.Join(*out, slugify(plName)+".json")
+	if !*force {
+		if _, err := os.Stat(path); err == nil {
+			return fmt.Errorf("%s already exists — pass --force to overwrite, or --name to write elsewhere", path)
+		}
+	}
+	doc := playlistDoc{Name: plName, Tracks: fromCuratorTracks(tracks)}
 	if err := writeJSON(path, doc); err != nil {
 		return err
 	}
 
-	fmt.Printf("✓ curated %q — %d tracks from %d artists → %s\n",
-		plName, len(tracks), distinctArtists(tracks), path)
+	fmt.Printf("✓ curated %q — %d tracks from %d artists", plName, len(tracks), distinctArtists(tracks))
+	if discovered > 0 {
+		fmt.Printf(" (%d discovered from new artists)", discovered)
+	}
+	fmt.Printf(" → %s\n", path)
 	fmt.Println("  build it on Apple Music with:  tapeit create --from " + path)
 	return nil
+}
+
+// addDiscovery appends up to n tracks by artists similar to the seed that the
+// user doesn't already own, using the local (network-backed) artist index.
+func addDiscovery(ctx context.Context, model *curator.Model, tracks []curator.Track, seed string, n int) ([]curator.Track, int, error) {
+	path, err := config.ArtistIndexPath()
+	if err != nil {
+		return tracks, 0, err
+	}
+	ix, err := artistindex.Load(path)
+	if err != nil {
+		return tracks, 0, err
+	}
+	src := deezer.NewClient()
+	related, err := ix.Related(ctx, src, seed)
+	if err != nil {
+		return tracks, 0, err
+	}
+
+	added := 0
+	for _, artist := range related {
+		if added >= n || model.Knows(artist) {
+			continue
+		}
+		tops, err := ix.TopTracks(ctx, src, artist, 2)
+		if err != nil {
+			return tracks, added, err
+		}
+		for _, t := range tops {
+			if added >= n {
+				break
+			}
+			tracks = append(tracks, curator.Track{Title: t.Title, Artist: artist})
+			added++
+		}
+	}
+	if err := ix.Save(); err != nil {
+		return tracks, added, err
+	}
+	return tracks, added, nil
 }
 
 func loadLibrary(dir string) ([]curator.Playlist, error) {

@@ -120,6 +120,69 @@ func (c *Client) Track(ctx context.Context, id int64) (Track, error) {
 	return d.toTrack(), nil
 }
 
+// ArtistID resolves an artist name to its Deezer id (best search hit).
+func (c *Client) ArtistID(ctx context.Context, name string) (int64, bool, error) {
+	u := apiBase + "/search/artist?limit=1&q=" + url.QueryEscape(name)
+	var body struct {
+		Data []struct {
+			ID int64 `json:"id"`
+		} `json:"data"`
+		Error *apiError `json:"error"`
+	}
+	if err := c.get(ctx, u, &body); err != nil {
+		return 0, false, err
+	}
+	if body.Error != nil {
+		return 0, false, body.Error
+	}
+	if len(body.Data) == 0 {
+		return 0, false, nil
+	}
+	return body.Data[0].ID, true, nil
+}
+
+// RelatedArtists returns artists Deezer considers similar to the given artist id.
+func (c *Client) RelatedArtists(ctx context.Context, id int64) ([]string, error) {
+	u := fmt.Sprintf("%s/artist/%d/related?limit=25", apiBase, id)
+	var body struct {
+		Data []struct {
+			Name string `json:"name"`
+		} `json:"data"`
+		Error *apiError `json:"error"`
+	}
+	if err := c.get(ctx, u, &body); err != nil {
+		return nil, err
+	}
+	if body.Error != nil {
+		return nil, body.Error
+	}
+	out := make([]string, 0, len(body.Data))
+	for _, a := range body.Data {
+		out = append(out, a.Name)
+	}
+	return out, nil
+}
+
+// TopTracks returns an artist's most popular tracks by Deezer id.
+func (c *Client) TopTracks(ctx context.Context, id int64, limit int) ([]Track, error) {
+	u := fmt.Sprintf("%s/artist/%d/top?limit=%d", apiBase, id, limit)
+	var body struct {
+		Data  []trackDTO `json:"data"`
+		Error *apiError  `json:"error"`
+	}
+	if err := c.get(ctx, u, &body); err != nil {
+		return nil, err
+	}
+	if body.Error != nil {
+		return nil, body.Error
+	}
+	out := make([]Track, 0, len(body.Data))
+	for _, d := range body.Data {
+		out = append(out, d.toTrack())
+	}
+	return out, nil
+}
+
 // get paces, fetches, and decodes. Deezer signals quota errors in a 200 body
 // (code 4); retry those a few times with backoff.
 func (c *Client) get(ctx context.Context, u string, out any) error {

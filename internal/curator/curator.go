@@ -92,6 +92,16 @@ func Build(playlists []Playlist) *Model {
 	return m
 }
 
+// Knows reports whether the artist appears anywhere in the library.
+func (m *Model) Knows(artist string) bool {
+	_, ok := m.tracks[matching.Normalize(artist)]
+	return ok
+}
+
+// Separate reorders tracks so no two adjacent share an artist. Exported so a
+// caller can re-sequence a set it has combined (e.g. library + discovery).
+func Separate(tracks []Track) []Track { return separate(tracks) }
+
 func ownsTrack(pool []Track, t Track) bool {
 	title := matching.Normalize(t.Title)
 	for _, p := range pool {

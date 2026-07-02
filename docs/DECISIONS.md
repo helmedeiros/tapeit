@@ -91,3 +91,17 @@
   Lower `--breadth` to stay tighter (more seed tracks, fewer neighbours).
 - Better candidate generation (embeddings, playlist-size-weighted affinity) is
   future work — see docs/playlist-intelligence/PLAN.md and lab notebook 02.
+
+### Curate overwrite guard + online discovery
+- `curate` writes a *fresh* doc (unlike `import`/`enrich`, which read-merge), so
+  it now refuses to overwrite an existing output file unless `--force` — a
+  `--name` collision or a re-run no longer silently clobbers a real playlist.
+- `--discover N` augments the library-only result with up to N tracks by similar
+  artists the user does NOT already own, so curation can learn new artists.
+  Similarity + top tracks come from the public Deezer API (`/search/artist` →
+  `/artist/{id}/related`, `/artist/{id}/top`; no auth). Daft Punk → Cassius,
+  Étienne de Crécy, Yuksek, Mr. Oizo, Alan Braxe — the electronic peers
+  co-occurrence couldn't surface from this library.
+- Results are cached in a local artist index (`internal/artistindex`, stored at
+  config `artist_index.json`) so it's fetched once and reused offline. Already-
+  owned similar artists are skipped (only genuinely new artists are added).
