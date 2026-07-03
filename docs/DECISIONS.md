@@ -105,3 +105,14 @@
 - Results are cached in a local artist index (`internal/artistindex`, stored at
   config `artist_index.json`) so it's fetched once and reused offline. Already-
   owned similar artists are skipped (only genuinely new artists are added).
+
+### LLM naming stays at the harness level — tapeit remains zero-dependency
+- `tapeit` has no third-party Go dependencies, and that's a kept property (see
+  go.mod, README). Rather than add the Anthropic SDK (a dependency tree) or a
+  raw-HTTP client just for playlist naming, the LLM stays **out of the binary**.
+- `curate` names deterministically ("Around <seed>"); an LLM (the operator's
+  assistant) supplies evocative names/themes/rationale at the harness level and
+  passes them via `--name`. This matches the Playlist Intelligence plan's split:
+  data engine in the tool, LLM as collaborator around it.
+- Revisit an in-tool `--describe` (raw-HTTP, keep zero-dep) only if naming needs
+  to run unattended.
