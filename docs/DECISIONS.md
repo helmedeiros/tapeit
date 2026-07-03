@@ -91,6 +91,13 @@
   inflated PMI and tie, so one-off co-occurrences flooded the top alphabetically
   (Arctic → "3 Doors Down, ABBA"). Focus-weighting is the robust alternative on
   this sparse, "This Is <Artist>"-heavy library.
+- **Empirically validated** (leave-one-out APC eval, `lab/experiments/`): raw &
+  focus recover 2–3× more held-out artists than a popularity baseline; unsmoothed
+  PMI ≈ popularity and even count-gated PMI loses to raw/focus (avoiding PMI is
+  vindicated, not a tuning accident); focus beats raw ~30% in the **single-seed**
+  case `curate` actually uses. But single-seed co-occurrence is a *weak* regime
+  (a lone seed under-recovers vs popularity) → motivates **multi-artist seeding**
+  and keeps `--discover` well-justified. See `lab/experiments/RESULTS.md`.
 - Known limit: sparse seeds only present in one dedicated playlist + generic
   hits mixes (e.g. Daft Punk) expand into whatever co-occurs in those mixes.
   Lower `--breadth` to stay tighter (more seed tracks, fewer neighbours).
