@@ -15,7 +15,7 @@ func lib() []Playlist {
 
 func TestCurateExpandsFromSeedByCooccurrence(t *testing.T) {
 	m := Build(lib())
-	got := m.Curate("Arctic Monkeys", Options{Size: 10})
+	got := m.Curate([]string{"Arctic Monkeys"}, Options{Size: 10})
 
 	artists := map[string]bool{}
 	for _, tr := range got {
@@ -34,7 +34,7 @@ func TestCurateExpandsFromSeedByCooccurrence(t *testing.T) {
 
 func TestCurateSeparatesArtists(t *testing.T) {
 	m := Build(lib())
-	got := m.Curate("Arctic Monkeys", Options{Size: 10})
+	got := m.Curate([]string{"Arctic Monkeys"}, Options{Size: 10})
 	for i := 1; i < len(got); i++ {
 		if got[i].Artist == got[i-1].Artist {
 			t.Errorf("adjacent same-artist at %d: %s", i, got[i].Artist)
@@ -44,7 +44,7 @@ func TestCurateSeparatesArtists(t *testing.T) {
 
 func TestCurateBreadthLimitsNeighbours(t *testing.T) {
 	m := Build(lib())
-	got := m.Curate("Arctic Monkeys", Options{Size: 10, Breadth: 1})
+	got := m.Curate([]string{"Arctic Monkeys"}, Options{Size: 10, Breadth: 1})
 	artists := map[string]bool{}
 	for _, tr := range got {
 		artists[tr.Artist] = true
@@ -56,7 +56,28 @@ func TestCurateBreadthLimitsNeighbours(t *testing.T) {
 
 func TestCurateUnknownSeed(t *testing.T) {
 	m := Build(lib())
-	if got := m.Curate("Nonexistent Band", Options{Size: 10}); got != nil {
+	if got := m.Curate([]string{"Nonexistent Band"}, Options{Size: 10}); got != nil {
 		t.Errorf("unknown seed should yield nil, got %v", got)
+	}
+}
+
+func TestCurateMultipleSeeds(t *testing.T) {
+	m := Build(lib())
+	// Seeding both clusters should surface tracks from both, and never place the
+	// seeds themselves as neighbours of each other.
+	got := m.Curate([]string{"Arctic Monkeys", "Miles Davis"}, Options{Size: 20})
+	artists := map[string]bool{}
+	for _, tr := range got {
+		artists[tr.Artist] = true
+	}
+	if !artists["Arctic Monkeys"] || !artists["Miles Davis"] {
+		t.Errorf("both seeds should appear, got %v", artists)
+	}
+	if !artists["The Strokes"] || !artists["John Coltrane"] {
+		t.Errorf("neighbours of each seed should appear, got %v", artists)
+	}
+	// One unknown seed among known ones is simply ignored.
+	if got := m.Curate([]string{"Nobody", "Arctic Monkeys"}, Options{Size: 6}); len(got) == 0 {
+		t.Error("a known seed alongside an unknown one should still curate")
 	}
 }

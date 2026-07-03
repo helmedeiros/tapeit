@@ -87,7 +87,7 @@ Usage:
   tapeit create --name N [--from FILE]    Build a playlist from a song list
   tapeit import (apple|spotify) [--out DIR]  Read a service into the JSON lists
   tapeit enrich [--from FILE] [--dir DIR]  Add bpm/isrc to the JSON lists (Deezer)
-  tapeit curate --seed ARTIST [--size N]   Build a playlist from your library
+  tapeit curate --seed A[,B,...] [--size N]  Build a playlist from your library
   tapeit version
 
 Spotify redirect URI to register: ` + spotify.RedirectURI + `

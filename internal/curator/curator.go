@@ -145,31 +145,39 @@ func (m *Model) addPair(a, b string, share float64) {
 	m.wpairs[a][b] += share
 }
 
-// Curate returns up to opts.Size tracks around the seed artist: the seed's own
-// tracks plus those of its strongest-affinity neighbours, sequenced so no two
-// adjacent tracks share an artist. Empty if the seed isn't in the library.
+// Curate returns up to opts.Size tracks around the seed artists: the seeds' own
+// tracks plus those of their strongest-affinity neighbours, sequenced so no two
+// adjacent tracks share an artist. Empty if none of the seeds are in the library.
 //
-// Neighbours are ranked by how many playlists they share with the seed and
-// capped at opts.Breadth, so the result stays focused on the seed's strongest
-// affinities instead of padding with one-off co-occurrences.
-func (m *Model) Curate(seed string, opts Options) []Track {
-	ns := matching.Normalize(seed)
-	if _, ok := m.tracks[ns]; !ok {
+// Seeding from several artists is materially stronger than one: a single seed
+// barely constrains what belongs (see lab/experiments/RESULTS.md), so affinity
+// is summed across all seeds. Neighbours are ranked by focus-weighted affinity
+// and capped at opts.Breadth to stay focused on the strongest associations.
+func (m *Model) Curate(seeds []string, opts Options) []Track {
+	var known []string
+	seen := map[string]bool{}
+	for _, s := range seeds {
+		ns := matching.Normalize(s)
+		if _, ok := m.tracks[ns]; ok && !seen[ns] {
+			known = append(known, ns)
+			seen[ns] = true
+		}
+	}
+	if len(known) == 0 {
 		return nil
 	}
 	opts = opts.withDefaults()
-	selected := m.gather(ns, opts)
-	return separate(selected)
+	return separate(m.gather(known, seen, opts))
 }
 
-// gather collects tracks round-robin across the seed and its top neighbours,
+// gather collects tracks round-robin across the seeds and their top neighbours,
 // one per artist per pass, until it reaches opts.Size.
-func (m *Model) gather(seed string, opts Options) []Track {
-	nbs := m.neighbours(seed, opts.MinWeight)
+func (m *Model) gather(seeds []string, seedSet map[string]bool, opts Options) []Track {
+	nbs := m.neighbours(seeds, seedSet, opts.MinWeight)
 	if len(nbs) > opts.Breadth {
 		nbs = nbs[:opts.Breadth]
 	}
-	order := append([]string{seed}, nbs...)
+	order := append(append([]string{}, seeds...), nbs...)
 	pos := map[string]int{}
 	var out []Track
 	for progressed := true; len(out) < opts.Size && progressed; {
@@ -189,18 +197,31 @@ func (m *Model) gather(seed string, opts Options) []Track {
 	return out
 }
 
-// neighbours returns the seed's co-occurring artists (sharing at least minWeight
-// playlists), ranked by focus-weighted affinity (ties broken by name for
-// determinism) so artists grouped in tight playlists outrank chance co-occurrence.
-func (m *Model) neighbours(seed string, minWeight int) []string {
+// neighbours returns artists co-occurring with any seed (in at least minWeight
+// playlists with that seed), ranked by affinity summed across the seeds and
+// focus-weighted (ties broken by name), excluding the seeds themselves.
+func (m *Model) neighbours(seeds []string, seedSet map[string]bool, minWeight int) []string {
+	score := map[string]float64{}
+	maxCount := map[string]int{}
+	for _, s := range seeds {
+		for a, count := range m.pairs[s] {
+			if seedSet[a] {
+				continue
+			}
+			if count > maxCount[a] {
+				maxCount[a] = count
+			}
+			score[a] += m.wpairs[s][a]
+		}
+	}
 	type nb struct {
 		artist string
 		score  float64
 	}
 	var nbs []nb
-	for a, count := range m.pairs[seed] {
-		if count >= minWeight {
-			nbs = append(nbs, nb{a, m.wpairs[seed][a]})
+	for a := range score {
+		if maxCount[a] >= minWeight {
+			nbs = append(nbs, nb{a, score[a]})
 		}
 	}
 	sort.Slice(nbs, func(i, j int) bool {
