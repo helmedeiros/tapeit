@@ -104,6 +104,21 @@
 - Better candidate generation (embeddings, playlist-size-weighted affinity) is
   future work — see docs/playlist-intelligence/PLAN.md and lab notebook 02.
 
+### Curate seeding — multi-artist and whole-playlist (APC)
+- `--seed` takes a comma-separated artist list; affinity is summed across all
+  seeds. Empirically single-seed co-occurrence under-recovers vs popularity, but
+  seeding from several artists is materially stronger (see the APC eval above), so
+  multi-seed is the intended mode.
+- `--seed-playlist <slug|path>` is the strongest case: seed from **all** of an
+  existing playlist's artists and **exclude its own tracks**, so the result is
+  genuine Automatic Playlist Continuation — "more like this, but new". A bare slug
+  resolves under `--dir`; a value ending in `.json` or containing a path separator
+  is used as a path. Names the output `"More Like <source>"`.
+  Verified: `--seed-playlist indie-rock-club` → 18 tracks, 0 overlapping the
+  source, expanding into Editors / Foals / The Wombats / Metric.
+- `--discover` fans out at most `maxDiscoverySeeds` (5) seeds online — a whole
+  seed-playlist can carry hundreds of artists, one Deezer lookup each.
+
 ### Curate overwrite guard + online discovery
 - `curate` writes a *fresh* doc (unlike `import`/`enrich`, which read-merge), so
   it now refuses to overwrite an existing output file unless `--force` — a

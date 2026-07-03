@@ -17,7 +17,8 @@ import (
 
 func cmdCurate(ctx context.Context, args []string) error {
 	fs := flag.NewFlagSet("curate", flag.ContinueOnError)
-	seed := fs.String("seed", "", "seed artist(s) to build around, comma-separated (required)")
+	seed := fs.String("seed", "", "seed artist(s) to build around, comma-separated")
+	seedPlaylist := fs.String("seed-playlist", "", "extend an existing playlist: seed from all its artists, exclude its tracks (slug or path)")
 	size := fs.Int("size", 30, "target number of tracks from your library")
 	breadth := fs.Int("breadth", 12, "how many neighbouring artists to draw from (lower = tighter)")
 	minWeight := fs.Int("min-affinity", 1, "min playlists a neighbour must share with the seed")
@@ -29,9 +30,13 @@ func cmdCurate(ctx context.Context, args []string) error {
 	if err := fs.Parse(args); err != nil {
 		return err
 	}
-	seeds := splitSeeds(*seed)
+	explicit := splitSeeds(*seed)
+	seeds, sourceName, exclude, err := assembleSeeds(explicit, *seedPlaylist, *dir)
+	if err != nil {
+		return err
+	}
 	if len(seeds) == 0 {
-		return fmt.Errorf("missing --seed (one or more artists in your library, comma-separated)")
+		return fmt.Errorf("give --seed (comma-separated artists) or --seed-playlist")
 	}
 
 	lib, err := loadLibrary(*dir)
@@ -39,14 +44,18 @@ func cmdCurate(ctx context.Context, args []string) error {
 		return err
 	}
 	model := curator.Build(lib)
-	tracks := model.Curate(seeds, curator.Options{Size: *size, Breadth: *breadth, MinWeight: *minWeight})
+	tracks := model.Curate(seeds, curator.Options{Size: *size, Breadth: *breadth, MinWeight: *minWeight, Exclude: exclude})
 	if len(tracks) == 0 {
-		return fmt.Errorf("no tracks found around %s — are those artists in your library (under %s/)?", strings.Join(seeds, ", "), *dir)
+		return fmt.Errorf("no tracks found — are the seed artists in your library (under %s/)?", *dir)
 	}
 
 	discovered := 0
 	if *discover > 0 {
-		tracks, discovered, err = addDiscovery(ctx, model, tracks, seeds, *discover)
+		discoverSeeds := explicit
+		if len(discoverSeeds) == 0 {
+			discoverSeeds = seeds
+		}
+		tracks, discovered, err = addDiscovery(ctx, model, tracks, discoverSeeds, *discover)
 		if err != nil {
 			return err
 		}
@@ -54,8 +63,12 @@ func cmdCurate(ctx context.Context, args []string) error {
 	}
 
 	plName := *name
-	if plName == "" {
-		plName = "Around " + strings.Join(seeds, " & ")
+	switch {
+	case plName != "":
+	case sourceName != "":
+		plName = "More Like " + sourceName
+	default:
+		plName = "Around " + strings.Join(explicit, " & ")
 	}
 	path := filepath.Join(*out, slugify(plName)+".json")
 	if !*force {
@@ -91,6 +104,9 @@ func addDiscovery(ctx context.Context, model *curator.Model, tracks []curator.Tr
 	}
 	src := deezer.NewClient()
 
+	if len(seeds) > maxDiscoverySeeds {
+		seeds = seeds[:maxDiscoverySeeds]
+	}
 	related := make([][]string, len(seeds))
 	for i, s := range seeds {
 		if related[i], err = ix.Related(ctx, src, s); err != nil {
@@ -139,6 +155,39 @@ func appendTops(tracks []curator.Track, tops []artistindex.Track, artist string,
 	}
 	return tracks, added
 }
+
+// assembleSeeds combines the explicit --seed artists with those of a
+// --seed-playlist (if given), returning the seed list, the source playlist's
+// name, and the set of its tracks to exclude from the result.
+func assembleSeeds(explicit []string, seedPlaylist, dir string) (seeds []string, sourceName string, exclude map[string]bool, err error) {
+	seeds = append([]string{}, explicit...)
+	if seedPlaylist == "" {
+		return seeds, "", nil, nil
+	}
+	src, err := loadDoc(resolvePlaylist(seedPlaylist, dir))
+	if err != nil {
+		return nil, "", nil, fmt.Errorf("read --seed-playlist: %w", err)
+	}
+	exclude = map[string]bool{}
+	for _, t := range src.Tracks {
+		seeds = append(seeds, t.Artist)
+		exclude[curator.Key(curator.Track{Title: t.Title, Artist: t.Artist})] = true
+	}
+	return seeds, src.Name, exclude, nil
+}
+
+// resolvePlaylist turns a --seed-playlist value into a file path: a bare slug is
+// looked up under dir; a path or *.json value is used as-is.
+func resolvePlaylist(v, dir string) string {
+	if strings.HasSuffix(v, ".json") || strings.ContainsRune(v, filepath.Separator) {
+		return v
+	}
+	return filepath.Join(dir, slugify(v)+".json")
+}
+
+// maxDiscoverySeeds bounds how many seeds we fan out to online — a whole
+// seed-playlist can carry hundreds of artists, one Deezer lookup each.
+const maxDiscoverySeeds = 5
 
 // splitSeeds parses a comma-separated --seed value into trimmed artist names.
 func splitSeeds(s string) []string {

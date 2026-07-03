@@ -35,9 +35,15 @@ const cooccurrenceMaxTracks = 250
 
 // Options tune a curation run.
 type Options struct {
-	Size      int // target number of tracks
-	MinWeight int // a neighbour must co-occur with the seed in at least this many playlists
-	Breadth   int // use at most this many (strongest-PMI) neighbours
+	Size      int             // target number of tracks
+	MinWeight int             // a neighbour must co-occur with the seed in at least this many playlists
+	Breadth   int             // use at most this many (strongest-affinity) neighbours
+	Exclude   map[string]bool // Key()s to skip (e.g. tracks already in a source playlist)
+}
+
+// Key is a track's identity for exclusion — normalized title + artist.
+func Key(t Track) string {
+	return matching.Normalize(t.Title) + "|" + matching.Normalize(t.Artist)
 }
 
 func (o Options) withDefaults() Options {
@@ -187,6 +193,9 @@ func (m *Model) gather(seeds []string, seedSet map[string]bool, opts Options) []
 				break
 			}
 			pool := m.artistTracksSorted(a)
+			for pos[a] < len(pool) && opts.Exclude[Key(pool[pos[a]])] {
+				pos[a]++
+			}
 			if pos[a] < len(pool) {
 				out = append(out, pool[pos[a]])
 				pos[a]++
