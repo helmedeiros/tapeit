@@ -80,11 +80,16 @@
 - Builds a playlist from the user's own library by expanding from a seed artist
   along artist co-occurrence (which artists they group together across
   playlists), then separating so no two adjacent tracks share an artist.
-- Neighbours ranked by **raw shared-playlist count**, capped to the top
-  `--breadth` (default 12). Tried **PMI** to down-weight popular-with-everything
-  artists — it backfired: artists appearing in a single playlist (freq 1) get
+- Neighbours ranked by **focus-weighted affinity**, capped to the top
+  `--breadth` (default 12). Each playlist distributes one unit of affinity, so a
+  pair in a k-artist playlist scores 1/(k-1) — co-occurrence in a tight 12-artist
+  set counts far more than in a 150-artist grab-bag. A raw shared-playlist count
+  still gates `--min-affinity`. This tightened Arctic Monkeys (added Wolf Alice /
+  Belle & Sebastian, dropped John Mayer) and Nirvana (Smashing Pumpkins / Incubus
+  over 3 Doors Down) while leaving the already-good jazz cluster unchanged.
+- Tried **PMI** first — it backfired: artists in a single playlist (freq 1) get
   inflated PMI and tie, so one-off co-occurrences flooded the top alphabetically
-  (Arctic → "3 Doors Down, ABBA"). Raw weight + breadth cap is more robust on
+  (Arctic → "3 Doors Down, ABBA"). Focus-weighting is the robust alternative on
   this sparse, "This Is <Artist>"-heavy library.
 - Known limit: sparse seeds only present in one dedicated playlist + generic
   hits mixes (e.g. Daft Punk) expand into whatever co-occurs in those mixes.

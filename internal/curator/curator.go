@@ -55,15 +55,17 @@ func (o Options) withDefaults() Options {
 
 // Model holds artist affinity and each artist's track pool, derived from a library.
 type Model struct {
-	pairs   map[string]map[string]int // norm(artist) -> norm(neighbor) -> co-occurrence count
-	tracks  map[string][]Track        // norm(artist) -> unique tracks (by norm title)
-	display map[string]string         // norm(artist) -> a display name
+	pairs   map[string]map[string]int     // norm(artist) -> norm(neighbor) -> # shared playlists
+	wpairs  map[string]map[string]float64 // same, weighted by playlist focus (see countPairs)
+	tracks  map[string][]Track            // norm(artist) -> unique tracks (by norm title)
+	display map[string]string             // norm(artist) -> a display name
 }
 
 // Build derives the affinity model from a library of playlists.
 func Build(playlists []Playlist) *Model {
 	m := &Model{
 		pairs:   map[string]map[string]int{},
+		wpairs:  map[string]map[string]float64{},
 		tracks:  map[string][]Track{},
 		display: map[string]string{},
 	}
@@ -112,24 +114,35 @@ func ownsTrack(pool []Track, t Track) bool {
 	return false
 }
 
+// countPairs records artist co-occurrence for one playlist. It tracks both a raw
+// shared-playlist count and a weighted score: each playlist distributes a fixed
+// unit of affinity, so in a k-artist playlist every pair contributes 1/(k-1).
+// A focused 12-artist set therefore counts for far more per pair than a
+// 150-artist grab-bag, surfacing genuine affinity over incidental co-occurrence.
 func (m *Model) countPairs(artists map[string]bool) {
 	list := make([]string, 0, len(artists))
 	for a := range artists {
 		list = append(list, a)
 	}
+	if len(list) < 2 {
+		return
+	}
+	share := 1.0 / float64(len(list)-1)
 	for i := 0; i < len(list); i++ {
 		for j := i + 1; j < len(list); j++ {
-			a, b := list[i], list[j]
-			if m.pairs[a] == nil {
-				m.pairs[a] = map[string]int{}
-			}
-			if m.pairs[b] == nil {
-				m.pairs[b] = map[string]int{}
-			}
-			m.pairs[a][b]++
-			m.pairs[b][a]++
+			m.addPair(list[i], list[j], share)
+			m.addPair(list[j], list[i], share)
 		}
 	}
+}
+
+func (m *Model) addPair(a, b string, share float64) {
+	if m.pairs[a] == nil {
+		m.pairs[a] = map[string]int{}
+		m.wpairs[a] = map[string]float64{}
+	}
+	m.pairs[a][b]++
+	m.wpairs[a][b] += share
 }
 
 // Curate returns up to opts.Size tracks around the seed artist: the seed's own
@@ -177,21 +190,22 @@ func (m *Model) gather(seed string, opts Options) []Track {
 }
 
 // neighbours returns the seed's co-occurring artists (sharing at least minWeight
-// playlists), most-shared first (ties broken by name for determinism).
+// playlists), ranked by focus-weighted affinity (ties broken by name for
+// determinism) so artists grouped in tight playlists outrank chance co-occurrence.
 func (m *Model) neighbours(seed string, minWeight int) []string {
 	type nb struct {
 		artist string
-		weight int
+		score  float64
 	}
 	var nbs []nb
-	for a, w := range m.pairs[seed] {
-		if w >= minWeight {
-			nbs = append(nbs, nb{a, w})
+	for a, count := range m.pairs[seed] {
+		if count >= minWeight {
+			nbs = append(nbs, nb{a, m.wpairs[seed][a]})
 		}
 	}
 	sort.Slice(nbs, func(i, j int) bool {
-		if nbs[i].weight != nbs[j].weight {
-			return nbs[i].weight > nbs[j].weight
+		if nbs[i].score != nbs[j].score {
+			return nbs[i].score > nbs[j].score
 		}
 		return nbs[i].artist < nbs[j].artist
 	})
