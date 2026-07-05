@@ -24,6 +24,7 @@ func cmdCurate(ctx context.Context, args []string) error {
 	minWeight := fs.Int("min-affinity", 1, "min playlists a neighbour must share with the seed")
 	discover := fs.Int("discover", 0, "also add up to N tracks by similar artists you don't own yet (online)")
 	evaluate := fs.Bool("evaluate", false, "leave-one-out APC test of the library's affinity signal (no playlist written)")
+	flow := fs.String("flow", "none", "tempo shape once enriched: none|smooth|arc")
 	name := fs.String("name", "", "playlist name (default: \"Around <seed>\")")
 	dir := fs.String("dir", "playlists", "library directory to draw from")
 	out := fs.String("out", "playlists", "directory to write the new playlist into")
@@ -33,6 +34,10 @@ func cmdCurate(ctx context.Context, args []string) error {
 	}
 	if *evaluate {
 		return runEvaluate(*dir)
+	}
+	flowMode, ok := curator.ParseFlow(*flow)
+	if !ok {
+		return fmt.Errorf("unknown --flow %q (use none|smooth|arc)", *flow)
 	}
 
 	explicit := splitSeeds(*seed)
@@ -64,8 +69,8 @@ func cmdCurate(ctx context.Context, args []string) error {
 		if err != nil {
 			return err
 		}
-		tracks = curator.Separate(tracks)
 	}
+	tracks = curator.Sequence(tracks, flowMode)
 
 	plName := curateName(*name, sourceName, explicit)
 	path := filepath.Join(*out, slugify(plName)+".json")

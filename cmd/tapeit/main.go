@@ -60,6 +60,8 @@ func run(ctx context.Context, args []string) error {
 		return cmdEnrich(ctx, args[1:])
 	case "curate":
 		return cmdCurate(ctx, args[1:])
+	case "sequence":
+		return cmdSequence(args[1:])
 	case "report":
 		return cmdReport(args[1:])
 	case "version", "--version":
@@ -88,6 +90,7 @@ Usage:
   tapeit import (apple|spotify) [--out DIR]  Read a service into the JSON lists
   tapeit enrich [--from FILE] [--dir DIR]  Add bpm/isrc to the JSON lists (Deezer)
   tapeit curate --seed A[,B,...] [--size N]  Build a playlist from your library
+  tapeit sequence --from FILE [--flow smooth|arc]  Reorder a playlist by tempo
   tapeit version
 
 Spotify redirect URI to register: ` + spotify.RedirectURI + `

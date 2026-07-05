@@ -119,6 +119,23 @@
 - `--discover` fans out at most `maxDiscoverySeeds` (5) seeds online — a whole
   seed-playlist can carry hundreds of artists, one Deezer lookup each.
 
+### BPM-aware sequencing (`tapeit sequence`, `curate --flow`)
+- Orders a playlist by tempo while keeping the no-adjacent-same-artist invariant.
+  `smooth` ramps BPM from slowest to fastest; `arc` climbs to a peak in the middle
+  then eases down (bitonic). Tracks with no BPM can't sit on the curve, so they're
+  artist-separated among themselves and appended after the tempo run.
+- Realistic pipeline is **curate → enrich → sequence**: our Apple/library reads
+  carry no BPM, so tempo data only exists after `tapeit enrich` (Deezer). Hence a
+  standalone `tapeit sequence --from FILE --flow smooth|arc` (the usual path, run
+  post-enrich) *and* a `curate --flow` flag (useful once library tracks are
+  enriched). With too little BPM signal (<2 tracks) it falls back to plain artist
+  separation, so it's always safe to pass.
+- Artist de-clumping wins ties over strict tempo monotonicity: `repairAdjacent`
+  swaps a same-artist neighbour for the nearest later different-artist track,
+  which introduces small local BPM inversions by design (verified on the dinner-
+  party set: a clean 101→172 ascent with a handful of ±2 BPM repairs). Same-artist
+  tracks usually share tempo, so the disturbance is minor.
+
 ### Curate self-evaluation (`--evaluate`)
 - `tapeit curate --evaluate` runs the leave-one-out APC test in the binary (no
   Python, no playlist written): for each library playlist with ≥8 distinct
