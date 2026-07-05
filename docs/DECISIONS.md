@@ -104,6 +104,25 @@
 - Better candidate generation (embeddings, playlist-size-weighted affinity) is
   future work — see docs/playlist-intelligence/PLAN.md and lab notebook 02.
 
+### Structural cohesion — tried and rejected (like PMI)
+- Hypothesis: co-occurrence can drift into an unrelated cluster via a "bridge"
+  artist, so re-weight neighbours by how embedded each is in the seed's
+  neighbourhood (a true cluster-mate co-occurs with the seed's *other*
+  neighbours; a bridge doesn't). Two formulations tried: raw weighted
+  common-neighbour mass, and the neighbourhood-internal *fraction* of a
+  candidate's connections (normalized, to avoid favoring hubs).
+- **Both hurt.** Swept the blend weight against `--evaluate`: artist recall was
+  flat-to-worse and fell monotonically as the weight rose (raw: 0.143 → 0.113;
+  normalized: 0.143 → 0.083), track recall never improved. Rejected — not
+  shipped, mirroring the PMI decision.
+- Why it fails *here*: the library is sparse and star-shaped (dedicated "This Is
+  <Artist>" playlists), so genuinely related artists frequently connect to a seed
+  through a single playlist and have few common neighbours. Cohesion assumes a
+  dense community graph this data doesn't have, and demotes exactly the
+  sparse-but-real related artists. A content signal (genre/tags) would attack
+  bridging without this assumption — that's the remaining candidate, needing an
+  external source, so it stays future work.
+
 ### Curate seeding — multi-artist and whole-playlist (APC)
 - `--seed` takes a comma-separated artist list; affinity is summed across all
   seeds. Empirically single-seed co-occurrence under-recovers vs popularity, but
