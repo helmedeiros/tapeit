@@ -15,6 +15,7 @@
       "artist": "Caetano Veloso",
       "album": "Livro",
       "durationMs": 207000,
+      "isrc": "BRPGD9700690",
       "ids": {
         "appleMusic": "1583987791"
       }
@@ -24,8 +25,14 @@
       "artist": "Gilberto Gil",
       "album": "Um banda um",
       "durationMs": 200960,
+      "isrc": "BRWMB9701574",
       "ids": {
         "appleMusic": "1498849453"
+      },
+      "features": {
+        "bpm": 94.8,
+        "gain": -10.4,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +49,14 @@
       "artist": "Maria Bethânia",
       "album": "Meus Quintais",
       "durationMs": 186933,
+      "isrc": "BRPUI1400115",
       "ids": {
         "appleMusic": "884986374"
+      },
+      "features": {
+        "bpm": 113.9,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +82,14 @@
       "artist": "Igor de Carvalho",
       "album": "A TV, A Lâmpada e o Opaxorô",
       "durationMs": 35657,
+      "isrc": "BRZG11300001",
       "ids": {
         "appleMusic": "959060977"
+      },
+      "features": {
+        "bpm": 88,
+        "gain": -19.9,
+        "source": "deezer"
       }
     },
     {
@@ -78,8 +97,14 @@
       "artist": "Caetano Veloso",
       "album": "Caetanear",
       "durationMs": 238333,
+      "isrc": "BRPGD7900013",
       "ids": {
         "appleMusic": "1444051474"
+      },
+      "features": {
+        "bpm": 108,
+        "gain": -19.6,
+        "source": "deezer"
       }
     },
     {
@@ -87,6 +112,7 @@
       "artist": "J. Velloso \u0026 Félix Ayoh'Omidire",
       "album": "Aboio para um Rinoceronte",
       "durationMs": 240840,
+      "isrc": "BRJ2V0400005",
       "ids": {
         "appleMusic": "1721291227"
       }
@@ -96,8 +122,14 @@
       "artist": "Maria Bethânia",
       "album": "Brasileirinho",
       "durationMs": 147933,
+      "isrc": "BRQQI0300019",
       "ids": {
         "appleMusic": "986084921"
+      },
+      "features": {
+        "bpm": 173,
+        "gain": -10.7,
+        "source": "deezer"
       }
     },
     {
@@ -105,6 +137,7 @@
       "artist": "OQuadro \u0026 Dimak",
       "album": "OQuadro",
       "durationMs": 232827,
+      "isrc": "BRH5U1200020",
       "ids": {
         "appleMusic": "1449264228"
       }
@@ -114,8 +147,14 @@
       "artist": "Maria Bethânia",
       "album": "Brasileirinho",
       "durationMs": 256707,
+      "isrc": "BRQQI0300018",
       "ids": {
         "appleMusic": "986084918"
+      },
+      "features": {
+        "bpm": 130.8,
+        "gain": -13.3,
+        "source": "deezer"
       }
     },
     {
@@ -132,8 +171,14 @@
       "artist": "J. Velloso",
       "album": "Cavaleiros de Jorge",
       "durationMs": 249030,
+      "isrc": "BRQQI0800139",
       "ids": {
         "appleMusic": "342611343"
+      },
+      "features": {
+        "bpm": 123.8,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -141,8 +186,14 @@
       "artist": "Caetano Veloso",
       "album": "Cinema Transcendental (Remixed Original Album)",
       "durationMs": 139933,
+      "isrc": "BRUM70601178",
       "ids": {
         "appleMusic": "1443594159"
+      },
+      "features": {
+        "bpm": 116.1,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -168,8 +219,14 @@
       "artist": "Bicho de Pé",
       "album": "Forró Universitário",
       "durationMs": 221107,
+      "isrc": "BRPRX0002210",
       "ids": {
         "appleMusic": "1682052662"
+      },
+      "features": {
+        "bpm": 144.56,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -177,6 +234,7 @@
       "artist": "Moraes Moreira \u0026 Davi Moraes",
       "album": "Nossa Parceria",
       "durationMs": 201067,
+      "isrc": "BRDEP1500052",
       "ids": {
         "appleMusic": "1578552663"
       }
@@ -195,8 +253,14 @@
       "artist": "Guentaê!",
       "album": "Sapatilha 37",
       "durationMs": 246627,
+      "isrc": "BRMCA0100148",
       "ids": {
         "appleMusic": "1442393417"
+      },
+      "features": {
+        "bpm": 159.6,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -204,8 +268,14 @@
       "artist": "Gilberto Gil",
       "album": "Kaya N'Gan Daya",
       "durationMs": 259453,
+      "isrc": "BRWMB0200272",
       "ids": {
         "appleMusic": "1815037691"
+      },
+      "features": {
+        "bpm": 160.9,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -213,8 +283,14 @@
       "artist": "Gilberto Gil",
       "album": "Raça humana",
       "durationMs": 307200,
+      "isrc": "BRWMB0201323",
       "ids": {
         "appleMusic": "1515969783"
+      },
+      "features": {
+        "bpm": 133.4,
+        "gain": -12.4,
+        "source": "deezer"
       }
     },
     {
@@ -222,6 +298,7 @@
       "artist": "Dread Lion",
       "album": "Por Que Ñ Paz",
       "durationMs": 235333,
+      "isrc": "BRSME9900122",
       "ids": {
         "appleMusic": "401895769"
       }
@@ -249,6 +326,7 @@
       "artist": "Gilberto Gil",
       "album": "Realce",
       "durationMs": 254573,
+      "isrc": "BRGPG7900005",
       "ids": {
         "appleMusic": "1805242482"
       }
@@ -258,8 +336,14 @@
       "artist": "Mart'nália",
       "album": "Não Tente Compreender",
       "durationMs": 226720,
+      "isrc": "BRPUI1100830",
       "ids": {
         "appleMusic": "512424803"
+      },
+      "features": {
+        "bpm": 148.2,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -267,6 +351,7 @@
       "artist": "Lucas Santtana",
       "album": "Sem Nostalgia",
       "durationMs": 214267,
+      "isrc": "GBNQA1100007",
       "ids": {
         "appleMusic": "1677838338"
       }
@@ -276,8 +361,14 @@
       "artist": "Mariana de Moraes",
       "album": "Desejo",
       "durationMs": 203800,
+      "isrc": "BXMVM1400004",
       "ids": {
         "appleMusic": "918348707"
+      },
+      "features": {
+        "bpm": 160.2,
+        "gain": -11.4,
+        "source": "deezer"
       }
     },
     {
@@ -285,8 +376,14 @@
       "artist": "Maria Bethânia",
       "album": "Que Falta Você Me Faz",
       "durationMs": 224987,
+      "isrc": "BRPUI0400115",
       "ids": {
         "appleMusic": "258763140"
+      },
+      "features": {
+        "bpm": 112,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -294,8 +391,14 @@
       "artist": "Gilberto Gil",
       "album": "Refazenda",
       "durationMs": 234480,
+      "isrc": "BRWMB9701571",
       "ids": {
         "appleMusic": "1757623011"
+      },
+      "features": {
+        "bpm": 154.85,
+        "gain": -13.7,
+        "source": "deezer"
       }
     },
     {
@@ -303,8 +406,14 @@
       "artist": "Gal Costa",
       "album": "Hoje",
       "durationMs": 327907,
+      "isrc": "BRTPA0500180",
       "ids": {
         "appleMusic": "1213978251"
+      },
+      "features": {
+        "bpm": 168.06,
+        "gain": -15.5,
+        "source": "deezer"
       }
     },
     {
@@ -312,6 +421,7 @@
       "artist": "Gilberto Gil",
       "album": "Gilbertos Samba",
       "durationMs": 292640,
+      "isrc": "BRGPG1400010",
       "ids": {
         "appleMusic": "1516406599"
       }
@@ -330,8 +440,14 @@
       "artist": "Chico Chico",
       "album": "2x0 Vargem Alta",
       "durationMs": 149573,
+      "isrc": "BRRF51500003",
       "ids": {
         "appleMusic": "1038998247"
+      },
+      "features": {
+        "bpm": 92.08,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -339,8 +455,14 @@
       "artist": "Gal Costa",
       "album": "Gal Estratosférica",
       "durationMs": 267267,
+      "isrc": "BRSME1500170",
       "ids": {
         "appleMusic": "1075299078"
+      },
+      "features": {
+        "bpm": 157.8,
+        "gain": -13.2,
+        "source": "deezer"
       }
     },
     {
@@ -348,6 +470,7 @@
       "artist": "Gilsons",
       "album": "Várias Queixas - EP",
       "durationMs": 170110,
+      "isrc": "BRGPG1800094",
       "ids": {
         "appleMusic": "1576861643"
       }
@@ -357,8 +480,14 @@
       "artist": "Karina Buhr",
       "album": "Longe de Onde",
       "durationMs": 94920,
+      "isrc": "US7VG1639074",
       "ids": {
         "appleMusic": "1110842941"
+      },
+      "features": {
+        "bpm": 88.91,
+        "gain": -14.3,
+        "source": "deezer"
       }
     },
     {
@@ -375,8 +504,14 @@
       "artist": "Gal Costa",
       "album": "Viva Brasil",
       "durationMs": 230493,
+      "isrc": "BRMCA0500282",
       "ids": {
         "appleMusic": "1710454829"
+      },
+      "features": {
+        "bpm": 143.55,
+        "gain": -13.1,
+        "source": "deezer"
       }
     },
     {
@@ -384,6 +519,7 @@
       "artist": "Caetano Veloso",
       "album": "Livro",
       "durationMs": 201893,
+      "isrc": "BRPGD9700685",
       "ids": {
         "appleMusic": "1583987782"
       }
@@ -393,6 +529,7 @@
       "artist": "Bebel Gilberto",
       "album": "Tanto Tempo",
       "durationMs": 206733,
+      "isrc": "BE6F50001680",
       "ids": {
         "appleMusic": "1443333051"
       }
@@ -402,6 +539,7 @@
       "artist": "Gal Costa",
       "album": "Maxximum: Gal Costa",
       "durationMs": 213427,
+      "isrc": "BRBMG9000678",
       "ids": {
         "appleMusic": "482308469"
       }
@@ -411,8 +549,14 @@
       "artist": "Novos Baianos",
       "album": "Novos Baianos",
       "durationMs": 202200,
+      "isrc": "BRSME7800018",
       "ids": {
         "appleMusic": "402342713"
+      },
+      "features": {
+        "bpm": 99.1,
+        "gain": -16.3,
+        "source": "deezer"
       }
     },
     {
@@ -420,6 +564,7 @@
       "artist": "Steen Rasmussen",
       "album": "Steen Rasmussen Quarteto Em São Paulo",
       "durationMs": 220213,
+      "isrc": "DK3KA1100502",
       "ids": {
         "appleMusic": "478137374"
       }
@@ -429,8 +574,14 @@
       "artist": "Novos Baianos",
       "album": "Enciclopédia Musical Brasileira: Novos Baianos",
       "durationMs": 262933,
+      "isrc": "BRWMB9800059",
       "ids": {
         "appleMusic": "495555959"
+      },
+      "features": {
+        "bpm": 145.1,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -438,6 +589,7 @@
       "artist": "Adriana Calcanhotto",
       "album": "Maré",
       "durationMs": 223519,
+      "isrc": "BRSME0700768",
       "ids": {
         "appleMusic": "276903461"
       }
@@ -474,8 +626,14 @@
       "artist": "Novos Baianos",
       "album": "Sorrir e cantar como Bahia",
       "durationMs": 242627,
+      "isrc": "BRWMB9800060",
       "ids": {
         "appleMusic": "1238432457"
+      },
+      "features": {
+        "bpm": 148.2,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
@@ -483,8 +641,14 @@
       "artist": "Gal Costa",
       "album": "Gal Estratosférica",
       "durationMs": 245173,
+      "isrc": "BRSME1500161",
       "ids": {
         "appleMusic": "1075299083"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
@@ -492,6 +656,7 @@
       "artist": "Gilberto Gil \u0026 Roberta Sá",
       "album": "OK OK OK (Deluxe)",
       "durationMs": 248149,
+      "isrc": "BRGPG1800058",
       "ids": {
         "appleMusic": "1472539595"
       }
@@ -501,8 +666,14 @@
       "artist": "Jorge Drexler",
       "album": "Igual Te Quiero",
       "durationMs": 184547,
+      "isrc": "ES5030100125",
       "ids": {
         "appleMusic": "6770842679"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -11.4,
+        "source": "deezer"
       }
     },
     {
@@ -510,8 +681,14 @@
       "artist": "Maria Bethânia \u0026 Zeca Pagodinho",
       "album": "De Santo Amaro a Xerém (Ao Vivo)",
       "durationMs": 172858,
+      "isrc": "BRPUI1800271",
       "ids": {
         "appleMusic": "1442034444"
+      },
+      "features": {
+        "bpm": 93.96,
+        "gain": -12.3,
+        "source": "deezer"
       }
     },
     {
@@ -519,6 +696,7 @@
       "artist": "Graveola",
       "album": "Graveola e O Lixo Polifônico",
       "durationMs": 143387,
+      "isrc": "BRB6N0800011",
       "ids": {
         "appleMusic": "1339815192"
       }
@@ -537,8 +715,14 @@
       "artist": "Miriam Makeba",
       "album": "Makeba Sings!",
       "durationMs": 152450,
+      "isrc": "USRC10301781",
       "ids": {
         "appleMusic": "1003885380"
+      },
+      "features": {
+        "bpm": 135.11,
+        "gain": -14.4,
+        "source": "deezer"
       }
     },
     {
@@ -546,6 +730,7 @@
       "artist": "Fióti",
       "album": "Será Que Eu Me Permito? - Single",
       "durationMs": 244627,
+      "isrc": "BRX6F1800112",
       "ids": {
         "appleMusic": "1461108513"
       }
@@ -582,8 +767,14 @@
       "artist": "Mahmundi",
       "album": "Para Dias Ruins",
       "durationMs": 234483,
+      "isrc": "BRUM71802652",
       "ids": {
         "appleMusic": "1422099113"
+      },
+      "features": {
+        "bpm": 102.08,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -591,6 +782,7 @@
       "artist": "Gilberto Gil \u0026 João Donato",
       "album": "OK OK OK",
       "durationMs": 243914,
+      "isrc": "BRGPG1800069",
       "ids": {
         "appleMusic": "1400500929"
       }
@@ -600,8 +792,14 @@
       "artist": "Maria Rita",
       "album": "Café y Jazz",
       "durationMs": 312763,
+      "isrc": "BRUM71707068",
       "ids": {
         "appleMusic": "1805991612"
+      },
+      "features": {
+        "bpm": 98.91,
+        "gain": -11.3,
+        "source": "deezer"
       }
     },
     {
@@ -609,6 +807,7 @@
       "artist": "BaianaSystem",
       "album": "O Futuro Não Demora",
       "durationMs": 252027,
+      "isrc": "BXBIY1900002",
       "ids": {
         "appleMusic": "1451579031"
       }
@@ -627,8 +826,14 @@
       "artist": "Caetano Veloso",
       "album": "Transa (2012 Remaster)",
       "durationMs": 366480,
+      "isrc": "BRMCA7200155",
       "ids": {
         "appleMusic": "1443511766"
+      },
+      "features": {
+        "bpm": 156.6,
+        "gain": -15.8,
+        "source": "deezer"
       }
     },
     {
@@ -654,6 +859,7 @@
       "artist": "Maria Bethânia",
       "album": "Mangueira - a Menina Dos Meus Olhos",
       "durationMs": 157690,
+      "isrc": "BRQQI1900006",
       "ids": {
         "appleMusic": "1488952799"
       }
@@ -663,8 +869,14 @@
       "artist": "Jorge Mautner",
       "album": "Mil e uma Noites de Bagdá",
       "durationMs": 192400,
+      "isrc": "BRUM71300882",
       "ids": {
         "appleMusic": "1442533911"
+      },
+      "features": {
+        "bpm": 136.9,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -672,8 +884,14 @@
       "artist": "Lulu Santos",
       "album": "Eu e Memê, Memê e Eu",
       "durationMs": 275827,
+      "isrc": "BRBMG9500017",
       "ids": {
         "appleMusic": "321536023"
+      },
+      "features": {
+        "bpm": 110,
+        "gain": -16.2,
+        "source": "deezer"
       }
     },
     {
@@ -681,6 +899,7 @@
       "artist": "Alice Caymmi",
       "album": "Alice Caymmi",
       "durationMs": 191587,
+      "isrc": "BRI6Y1200009",
       "ids": {
         "appleMusic": "1524371944"
       }
@@ -690,6 +909,7 @@
       "artist": "Tribalistas",
       "album": "Tribalistas",
       "durationMs": 167907,
+      "isrc": "BRONE0400009",
       "ids": {
         "appleMusic": "1513009475"
       }
@@ -699,8 +919,14 @@
       "artist": "Palavra Cantada",
       "album": "Pauleco e Sandreca",
       "durationMs": 230427,
+      "isrc": "BRUEN1300007",
       "ids": {
         "appleMusic": "1128625975"
+      },
+      "features": {
+        "bpm": 118.12,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -708,8 +934,14 @@
       "artist": "Zeca Pagodinho",
       "album": "Churrasco do Pagodinho",
       "durationMs": 211497,
+      "isrc": "BXGJS1900001",
       "ids": {
         "appleMusic": "1564786416"
+      },
+      "features": {
+        "bpm": 172.27,
+        "gain": -14.6,
+        "source": "deezer"
       }
     },
     {
@@ -717,8 +949,14 @@
       "artist": "Caetano Veloso",
       "album": "Ofertório (feat. Tom Veloso) [Ao Vivo]",
       "durationMs": 200046,
+      "isrc": "BR3UN1800045",
       "ids": {
         "appleMusic": "1384653319"
+      },
+      "features": {
+        "bpm": 178.98,
+        "gain": -14.8,
+        "source": "deezer"
       }
     },
     {
@@ -726,8 +964,14 @@
       "artist": "Fagner",
       "album": "Terral",
       "durationMs": 244533,
+      "isrc": "BRBMG9700477",
       "ids": {
         "appleMusic": "479490243"
+      },
+      "features": {
+        "bpm": 144.1,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {

@@ -6,8 +6,14 @@
       "artist": "Creedence Clearwater Revival",
       "album": "On The Road Rock Love Songs",
       "durationMs": 140773,
+      "isrc": "USC4R0919634",
       "ids": {
         "appleMusic": "1822896944"
+      },
+      "features": {
+        "bpm": 143.55,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "Tears for Fears",
       "album": "Songs from the Big Chair (Deluxe)",
       "durationMs": 251480,
+      "isrc": "GBF088590110",
       "ids": {
         "appleMusic": "1443226353"
+      },
+      "features": {
+        "bpm": 168.1,
+        "gain": -13.5,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +36,14 @@
       "artist": "Lynyrd Skynyrd",
       "album": "The Complete Collection",
       "durationMs": 283800,
+      "isrc": "USMC17446153",
       "ids": {
         "appleMusic": "1484427991"
+      },
+      "features": {
+        "bpm": 195.9,
+        "gain": -15.9,
+        "source": "deezer"
       }
     },
     {
@@ -33,6 +51,7 @@
       "artist": "Marvin Gaye \u0026 Tammi Terrell",
       "album": "Anthology: The Best of Marvin Gaye",
       "durationMs": 148093,
+      "isrc": "USMO16700534",
       "ids": {
         "appleMusic": "1426881930"
       }
@@ -42,8 +61,14 @@
       "artist": "R.E.M.",
       "album": "Non-Stop Pop Vol 6",
       "durationMs": 268427,
+      "isrc": "USC4R1605373",
       "ids": {
         "appleMusic": "1672641503"
+      },
+      "features": {
+        "bpm": 125.66,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -51,8 +76,14 @@
       "artist": "Creedence Clearwater Revival",
       "album": "Camping Night Hits",
       "durationMs": 160133,
+      "isrc": "USFI87000066",
       "ids": {
         "appleMusic": "1698453260"
+      },
+      "features": {
+        "bpm": 116.1,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +91,14 @@
       "artist": "The Police",
       "album": "Good Times",
       "durationMs": 253920,
+      "isrc": "GBAAM0201110",
       "ids": {
         "appleMusic": "1554153519"
+      },
+      "features": {
+        "bpm": 117.5,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +106,14 @@
       "artist": "The Cardigans",
       "album": "First Band on the Moon (2019 Remaster)",
       "durationMs": 193953,
+      "isrc": "SEBKB9629387",
       "ids": {
         "appleMusic": "1450141548"
+      },
+      "features": {
+        "bpm": 104.9,
+        "gain": -17.9,
+        "source": "deezer"
       }
     },
     {
@@ -78,8 +121,14 @@
       "artist": "Queen",
       "album": "The Game",
       "durationMs": 214653,
+      "isrc": "GBUM71029605",
       "ids": {
         "appleMusic": "1440830736"
+      },
+      "features": {
+        "bpm": 110,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +136,14 @@
       "artist": "The Beatles",
       "album": "Discover More Classic Rock",
       "durationMs": 259947,
+      "isrc": "GBAYE0601690",
       "ids": {
         "appleMusic": "1527145177"
+      },
+      "features": {
+        "bpm": 164.06,
+        "gain": -12.9,
+        "source": "deezer"
       }
     },
     {
@@ -96,8 +151,14 @@
       "artist": "Asia",
       "album": "Asia",
       "durationMs": 227893,
+      "isrc": "USGF18200801",
       "ids": {
         "appleMusic": "1421430452"
+      },
+      "features": {
+        "bpm": 137.35,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -105,6 +166,7 @@
       "artist": "ABBA",
       "album": "Après Ski 2024",
       "durationMs": 165800,
+      "isrc": "SEAYD7415010",
       "ids": {
         "appleMusic": "1718469623"
       }
@@ -114,8 +176,14 @@
       "artist": "Tom Cochrane",
       "album": "1992 Best of by uDiscover",
       "durationMs": 266560,
+      "isrc": "CAE159100001",
       "ids": {
         "appleMusic": "1807401474"
+      },
+      "features": {
+        "bpm": 103.1,
+        "gain": -14.8,
+        "source": "deezer"
       }
     },
     {
@@ -123,8 +191,14 @@
       "artist": "U2",
       "album": "The Joshua Tree",
       "durationMs": 277477,
+      "isrc": "GBUM70709783",
       "ids": {
         "appleMusic": "1443155644"
+      },
+      "features": {
+        "bpm": 100.8,
+        "gain": -12.2,
+        "source": "deezer"
       }
     },
     {
@@ -132,8 +206,14 @@
       "artist": "Queen",
       "album": "Energia Rock",
       "durationMs": 209413,
+      "isrc": "GBUM71029610",
       "ids": {
         "appleMusic": "1884584295"
+      },
+      "features": {
+        "bpm": 156,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -141,8 +221,14 @@
       "artist": "Smash Mouth",
       "album": "Horrifying Hits",
       "durationMs": 200373,
+      "isrc": "USIR19902220",
       "ids": {
         "appleMusic": "1590260911"
+      },
+      "features": {
+        "bpm": 103.9,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -159,8 +245,14 @@
       "artist": "The Verve",
       "album": "1997 Best of by uDiscover",
       "durationMs": 357267,
+      "isrc": "GBUM71601816",
       "ids": {
         "appleMusic": "1697206635"
+      },
+      "features": {
+        "bpm": 170.84,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -168,8 +260,14 @@
       "artist": "Chuck Berry",
       "album": "Berry Is On Top",
       "durationMs": 161560,
+      "isrc": "DEA549703480",
       "ids": {
         "appleMusic": "1425230917"
+      },
+      "features": {
+        "bpm": 166,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -177,6 +275,7 @@
       "artist": "Tom Petty",
       "album": "Rock Klassiker: 80er \u0026 90er",
       "durationMs": 247600,
+      "isrc": "USMC18928464",
       "ids": {
         "appleMusic": "1892442635"
       }
@@ -186,8 +285,14 @@
       "artist": "Elton John",
       "album": "Honky Château (Bonus Track Version)",
       "durationMs": 281613,
+      "isrc": "GBAMB7200006",
       "ids": {
         "appleMusic": "1440910931"
+      },
+      "features": {
+        "bpm": 136.4,
+        "gain": -12.5,
+        "source": "deezer"
       }
     },
     {
@@ -195,8 +300,14 @@
       "artist": "Blind Melon",
       "album": "Blind Melon",
       "durationMs": 217107,
+      "isrc": "USCA29200194",
       "ids": {
         "appleMusic": "725821929"
+      },
+      "features": {
+        "bpm": 148.7,
+        "gain": -12.6,
+        "source": "deezer"
       }
     },
     {
@@ -204,8 +315,14 @@
       "artist": "Scorpions",
       "album": "Crazy World",
       "durationMs": 312360,
+      "isrc": "USPG19090037",
       "ids": {
         "appleMusic": "1440761801"
+      },
+      "features": {
+        "bpm": 151.44,
+        "gain": -14.2,
+        "source": "deezer"
       }
     },
     {
@@ -213,8 +330,14 @@
       "artist": "Bon Jovi",
       "album": "USA Roadtrip",
       "durationMs": 250627,
+      "isrc": "USPR38619998",
       "ids": {
         "appleMusic": "1890525769"
+      },
+      "features": {
+        "bpm": 122.32,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -240,6 +363,7 @@
       "artist": "The Beach Boys",
       "album": "BEST ROAD TRIP 60'S HITS",
       "durationMs": 148973,
+      "isrc": "USCA20001654",
       "ids": {
         "appleMusic": "1686964660"
       }
@@ -249,6 +373,7 @@
       "artist": "Rednex",
       "album": "Sex \u0026 Violins",
       "durationMs": 194000,
+      "isrc": "DEA319600881",
       "ids": {
         "appleMusic": "1297392650"
       }
@@ -258,8 +383,14 @@
       "artist": "The Black Crowes",
       "album": "Shake Your Money Maker",
       "durationMs": 188067,
+      "isrc": "USSM19000343",
       "ids": {
         "appleMusic": "1440810837"
+      },
+      "features": {
+        "bpm": 103.9,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -267,8 +398,14 @@
       "artist": "Thin Lizzy",
       "album": "Jailbreak (Deluxe Edition)",
       "durationMs": 266720,
+      "isrc": "GBF087600063",
       "ids": {
         "appleMusic": "1443910472"
+      },
+      "features": {
+        "bpm": 161.5,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -276,8 +413,14 @@
       "artist": "Steve Miller Band",
       "album": "stoner hippy",
       "durationMs": 264504,
+      "isrc": "USCA29100532",
       "ids": {
         "appleMusic": "6762672176"
+      },
+      "features": {
+        "bpm": 166,
+        "gain": -11.7,
+        "source": "deezer"
       }
     },
     {
@@ -285,8 +428,14 @@
       "artist": "Stevie Wonder",
       "album": "Disco Dance",
       "durationMs": 252560,
+      "isrc": "USMO18500543",
       "ids": {
         "appleMusic": "1612497685"
+      },
+      "features": {
+        "bpm": 174.4,
+        "gain": -17.8,
+        "source": "deezer"
       }
     },
     {
@@ -294,8 +443,14 @@
       "artist": "Shania Twain",
       "album": "Come On Over",
       "durationMs": 233631,
+      "isrc": "USMR19887508",
       "ids": {
         "appleMusic": "1445668856"
+      },
+      "features": {
+        "bpm": 124.91,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -303,8 +458,14 @@
       "artist": "Mazzy Star",
       "album": "soft songs to listen to while studying",
       "durationMs": 297160,
+      "isrc": "USCA29300105",
       "ids": {
         "appleMusic": "6766954369"
+      },
+      "features": {
+        "bpm": 157.2,
+        "gain": -14.8,
+        "source": "deezer"
       }
     },
     {
@@ -312,6 +473,7 @@
       "artist": "Bryan Adams",
       "album": "Reckless (30th Anniversary) [Deluxe Edition]",
       "durationMs": 233275,
+      "isrc": "USAM18490003",
       "ids": {
         "appleMusic": "1440823689"
       }
@@ -321,8 +483,14 @@
       "artist": "Queen",
       "album": "Bohemian Rhapsody (The Original Soundtrack)",
       "durationMs": 163342,
+      "isrc": "GBUM71029612",
       "ids": {
         "appleMusic": "1435375013"
+      },
+      "features": {
+        "bpm": 153.12,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -330,6 +498,7 @@
       "artist": "Little Richard",
       "album": "Black History Month: Classroom Edition",
       "durationMs": 144227,
+      "isrc": "USC4R0817275",
       "ids": {
         "appleMusic": "1876363562"
       }
@@ -339,8 +508,14 @@
       "artist": "Sheryl Crow",
       "album": "Sheryl: Music From The Feature Documentary",
       "durationMs": 255987,
+      "isrc": "USAM19604368",
       "ids": {
         "appleMusic": "1613464958"
+      },
+      "features": {
+        "bpm": 113,
+        "gain": -10.5,
+        "source": "deezer"
       }
     },
     {
@@ -348,8 +523,14 @@
       "artist": "Spice Girls",
       "album": "Wedding Morning",
       "durationMs": 173027,
+      "isrc": "GBAAA9600008",
       "ids": {
         "appleMusic": "6765759471"
+      },
+      "features": {
+        "bpm": 110,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -357,8 +538,14 @@
       "artist": "Radiohead",
       "album": "Karma Police - EP",
       "durationMs": 264067,
+      "isrc": "GBAYE9701368",
       "ids": {
         "appleMusic": "1112414724"
+      },
+      "features": {
+        "bpm": 150.89,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -366,8 +553,14 @@
       "artist": "Stevie Wonder",
       "album": "For Once in My Life",
       "durationMs": 169824,
+      "isrc": "USMO16800531",
       "ids": {
         "appleMusic": "1442836195"
+      },
+      "features": {
+        "bpm": 109.4,
+        "gain": -16.4,
+        "source": "deezer"
       }
     },
     {
@@ -375,8 +568,14 @@
       "artist": "Bon Jovi",
       "album": "After Ski 2024",
       "durationMs": 308560,
+      "isrc": "USPR39402222",
       "ids": {
         "appleMusic": "1709848030"
+      },
+      "features": {
+        "bpm": 150.89,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -384,8 +583,14 @@
       "artist": "Savage Garden",
       "album": "Truly Madly Completely: The Best of Savage Garden",
       "durationMs": 233893,
+      "isrc": "USSM10102025",
       "ids": {
         "appleMusic": "159463526"
+      },
+      "features": {
+        "bpm": 110.8,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -393,8 +598,14 @@
       "artist": "Tom Petty",
       "album": "stoner hippy",
       "durationMs": 256000,
+      "isrc": "USMC18925673",
       "ids": {
         "appleMusic": "6762672167"
+      },
+      "features": {
+        "bpm": 168.75,
+        "gain": -16.9,
+        "source": "deezer"
       }
     },
     {
@@ -402,8 +613,14 @@
       "artist": "The Police",
       "album": "Pop Rock For Kids",
       "durationMs": 242867,
+      "isrc": "GBAAM0201148",
       "ids": {
         "appleMusic": "1634076443"
+      },
+      "features": {
+        "bpm": 140.2,
+        "gain": -14.6,
+        "source": "deezer"
       }
     },
     {
@@ -411,8 +628,14 @@
       "artist": "Tom Petty",
       "album": "USA Roadtrip",
       "durationMs": 178360,
+      "isrc": "USMC18925675",
       "ids": {
         "appleMusic": "1890526097"
+      },
+      "features": {
+        "bpm": 113.89,
+        "gain": -17.1,
+        "source": "deezer"
       }
     },
     {
@@ -420,8 +643,14 @@
       "artist": "The Righteous Brothers",
       "album": "60s Best of by uDiscover",
       "durationMs": 216147,
+      "isrc": "USCRB0000546",
       "ids": {
         "appleMusic": "1689685099"
+      },
+      "features": {
+        "bpm": 99.6,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -429,8 +658,14 @@
       "artist": "Steely Dan",
       "album": "New York City Rock",
       "durationMs": 275467,
+      "isrc": "USMC17347184",
       "ids": {
         "appleMusic": "6763672622"
+      },
+      "features": {
+        "bpm": 134.7,
+        "gain": -11.8,
+        "source": "deezer"
       }
     },
     {
@@ -438,6 +673,7 @@
       "artist": "U2",
       "album": "How To Re-Assemble An Atomic Bomb",
       "durationMs": 298247,
+      "isrc": "GBUM72403658",
       "ids": {
         "appleMusic": "1781682896"
       }
@@ -447,6 +683,7 @@
       "artist": "Lesley Gore",
       "album": "Lesley Gore Sings of Mixed-Up Hearts",
       "durationMs": 150000,
+      "isrc": "USPR36309035",
       "ids": {
         "appleMusic": "1444111099"
       }
@@ -456,8 +693,14 @@
       "artist": "The Smashing Pumpkins",
       "album": "Classic Rock Anthems",
       "durationMs": 266197,
+      "isrc": "USVI21200910",
       "ids": {
         "appleMusic": "1892514068"
+      },
+      "features": {
+        "bpm": 126.82,
+        "gain": -11.3,
+        "source": "deezer"
       }
     },
     {
@@ -465,8 +708,14 @@
       "artist": "Supertramp",
       "album": "Kid Friendly Classic Rock",
       "durationMs": 248173,
+      "isrc": "USAM19500634",
       "ids": {
         "appleMusic": "1582859642"
+      },
+      "features": {
+        "bpm": 179.8,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -474,8 +723,14 @@
       "artist": "Bon Jovi",
       "album": "Greatest Hits: The Ultimate Collection (Deluxe Edition)",
       "durationMs": 353107,
+      "isrc": "USPR39412221",
       "ids": {
         "appleMusic": "1440677806"
+      },
+      "features": {
+        "bpm": 143.06,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -483,8 +738,14 @@
       "artist": "The Beatles",
       "album": "1",
       "durationMs": 425653,
+      "isrc": "GBUM71505902",
       "ids": {
         "appleMusic": "1440834224"
+      },
+      "features": {
+        "bpm": 147.66,
+        "gain": -11.2,
+        "source": "deezer"
       }
     },
     {
@@ -492,6 +753,7 @@
       "artist": "The Cranberries",
       "album": "The Treasure Box for Boys and Girls",
       "durationMs": 210907,
+      "isrc": "USIR29300081",
       "ids": {
         "appleMusic": "1440952601"
       }
@@ -501,8 +763,14 @@
       "artist": "The Rolling Stones",
       "album": "Best of Party 2026",
       "durationMs": 213067,
+      "isrc": "GBUM70909474",
       "ids": {
         "appleMusic": "1885645272"
+      },
+      "features": {
+        "bpm": 122.3,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -510,6 +778,7 @@
       "artist": "Steve Winwood",
       "album": "Back In the High Life",
       "durationMs": 351507,
+      "isrc": "GBAAN8600003",
       "ids": {
         "appleMusic": "1449494596"
       }
@@ -519,8 +788,14 @@
       "artist": "The Smashing Pumpkins",
       "album": "Rock Klassiker: 80er \u0026 90er",
       "durationMs": 258489,
+      "isrc": "USVI21200897",
       "ids": {
         "appleMusic": "1892442494"
+      },
+      "features": {
+        "bpm": 130.83,
+        "gain": -11.3,
+        "source": "deezer"
       }
     },
     {
@@ -528,8 +803,14 @@
       "artist": "Def Leppard",
       "album": "Hysteria (Super Deluxe Edition)",
       "durationMs": 354651,
+      "isrc": "GBF088700612",
       "ids": {
         "appleMusic": "1440907045"
+      },
+      "features": {
+        "bpm": 107.11,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -537,8 +818,14 @@
       "artist": "The Rolling Stones",
       "album": "stoner hippy",
       "durationMs": 265173,
+      "isrc": "GBCJN7800009",
       "ids": {
         "appleMusic": "6762672291"
+      },
+      "features": {
+        "bpm": 100.3,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -555,8 +842,14 @@
       "artist": "The Who",
       "album": "The Who Hits 50! (Deluxe Edition)",
       "durationMs": 299996,
+      "isrc": "GBAKW7100001",
       "ids": {
         "appleMusic": "1461217645"
+      },
+      "features": {
+        "bpm": 115.2,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -564,6 +857,7 @@
       "artist": "Dion",
       "album": "Jukebox Favorites",
       "durationMs": 171600,
+      "isrc": "QM2PV1803292",
       "ids": {
         "appleMusic": "1893172528"
       }
@@ -573,8 +867,14 @@
       "artist": "Buddy Holly",
       "album": "Buddy Holly",
       "durationMs": 129120,
+      "isrc": "USLIC0600295",
       "ids": {
         "appleMusic": "1434877965"
+      },
+      "features": {
+        "bpm": 136.4,
+        "gain": -18,
+        "source": "deezer"
       }
     },
     {
@@ -582,6 +882,7 @@
       "artist": "Cutting Crew",
       "album": "Rock Bangers",
       "durationMs": 269040,
+      "isrc": "GBHCD1726419",
       "ids": {
         "appleMusic": "1890040245"
       }
@@ -591,6 +892,7 @@
       "artist": "Etta James",
       "album": "Etta James: My Greatest Songs",
       "durationMs": 180667,
+      "isrc": "DETT11798906",
       "ids": {
         "appleMusic": "1443329537"
       }
@@ -600,8 +902,14 @@
       "artist": "Nirvana",
       "album": "Nevermind (Super Deluxe Edition)",
       "durationMs": 218920,
+      "isrc": "USGF19942503",
       "ids": {
         "appleMusic": "1440823703"
+      },
+      "features": {
+        "bpm": 120.2,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -609,8 +917,14 @@
       "artist": "Daryl Hall \u0026 John Oates",
       "album": "Voices",
       "durationMs": 190627,
+      "isrc": "USRC10301828",
       "ids": {
         "appleMusic": "217764773"
+      },
+      "features": {
+        "bpm": 167.38,
+        "gain": -17.4,
+        "source": "deezer"
       }
     },
     {
@@ -618,8 +932,14 @@
       "artist": "John Mellencamp",
       "album": "Classic Rock Summer Vibes",
       "durationMs": 218960,
+      "isrc": "USJM18200002",
       "ids": {
         "appleMusic": "6767663380"
+      },
+      "features": {
+        "bpm": 125.66,
+        "gain": -12.5,
+        "source": "deezer"
       }
     },
     {
@@ -627,8 +947,14 @@
       "artist": "blink-182",
       "album": "Greatest Hits",
       "durationMs": 148493,
+      "isrc": "USMC19959007",
       "ids": {
         "appleMusic": "1531763459"
+      },
+      "features": {
+        "bpm": 157.2,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -636,8 +962,14 @@
       "artist": "The Police",
       "album": "Ghost in the Machine (Remastered)",
       "durationMs": 260600,
+      "isrc": "GBAAM0201127",
       "ids": {
         "appleMusic": "1440754954"
+      },
+      "features": {
+        "bpm": 164.1,
+        "gain": -13.8,
+        "source": "deezer"
       }
     },
     {
@@ -645,8 +977,14 @@
       "artist": "Tom Petty",
       "album": "The Best of Everything: The Definitive Career Spanning Hits Collection 1976-2016",
       "durationMs": 261800,
+      "isrc": "USMC18925680",
       "ids": {
         "appleMusic": "1465208189"
+      },
+      "features": {
+        "bpm": 170.14,
+        "gain": -13.1,
+        "source": "deezer"
       }
     },
     {
@@ -654,8 +992,14 @@
       "artist": "Billy Idol",
       "album": "Música Para El Mejor Padre",
       "durationMs": 288533,
+      "isrc": "USCH38400024",
       "ids": {
         "appleMusic": "1891796973"
+      },
+      "features": {
+        "bpm": 166.04,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -672,8 +1016,14 @@
       "artist": "Rusted Root",
       "album": "90s",
       "durationMs": 263333,
+      "isrc": "USPR39402077",
       "ids": {
         "appleMusic": "1415809651"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -12.3,
+        "source": "deezer"
       }
     },
     {
@@ -681,8 +1031,14 @@
       "artist": "Sheryl Crow",
       "album": "Sheryl Crow",
       "durationMs": 324840,
+      "isrc": "USAM19604339",
       "ids": {
         "appleMusic": "1440918686"
+      },
+      "features": {
+        "bpm": 95.3,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -690,8 +1046,14 @@
       "artist": "The Allman Brothers Band",
       "album": "Dreams",
       "durationMs": 288507,
+      "isrc": "USPR37330006",
       "ids": {
         "appleMusic": "1434902398"
+      },
+      "features": {
+        "bpm": 178.21,
+        "gain": -12.6,
+        "source": "deezer"
       }
     },
     {
@@ -699,8 +1061,14 @@
       "artist": "Elton John",
       "album": "Too Low For Zero (Bonus Track Version)",
       "durationMs": 183440,
+      "isrc": "GBALX8300190",
       "ids": {
         "appleMusic": "1440912993"
+      },
+      "features": {
+        "bpm": 177.4,
+        "gain": -10.7,
+        "source": "deezer"
       }
     },
     {
@@ -708,8 +1076,14 @@
       "artist": "Sheryl Crow",
       "album": "Throwback Tunes: 90's",
       "durationMs": 272621,
+      "isrc": "USAM19300013",
       "ids": {
         "appleMusic": "1440653633"
+      },
+      "features": {
+        "bpm": 120.2,
+        "gain": -16.2,
+        "source": "deezer"
       }
     },
     {
@@ -717,8 +1091,14 @@
       "artist": "Chubby Checker",
       "album": "It's Pony Time / Let's Twist Again",
       "durationMs": 137360,
+      "isrc": "QMFMF1514310",
       "ids": {
         "appleMusic": "1443091056"
+      },
+      "features": {
+        "bpm": 168.75,
+        "gain": -14,
+        "source": "deezer"
       }
     },
     {
@@ -726,8 +1106,14 @@
       "artist": "Pat Benatar",
       "album": "Tropico",
       "durationMs": 221133,
+      "isrc": "USCH38400001",
       "ids": {
         "appleMusic": "716136071"
+      },
+      "features": {
+        "bpm": 135.1,
+        "gain": -11.3,
+        "source": "deezer"
       }
     },
     {
@@ -735,8 +1121,14 @@
       "artist": "Lifehouse",
       "album": "Dark Rock Classics",
       "durationMs": 216067,
+      "isrc": "USDW10022031",
       "ids": {
         "appleMusic": "6767681456"
+      },
+      "features": {
+        "bpm": 124.5,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -744,8 +1136,14 @@
       "artist": "The Turtles",
       "album": "Happy Together",
       "durationMs": 176293,
+      "isrc": "USA560587940",
       "ids": {
         "appleMusic": "79087150"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -12.4,
+        "source": "deezer"
       }
     },
     {
@@ -753,8 +1151,14 @@
       "artist": "Steve Miller Band",
       "album": "Summer Rock Classics",
       "durationMs": 187067,
+      "isrc": "USCA28700297",
       "ids": {
         "appleMusic": "6762674940"
+      },
+      "features": {
+        "bpm": 121.96,
+        "gain": -15.1,
+        "source": "deezer"
       }
     },
     {
@@ -762,8 +1166,14 @@
       "artist": "Bee Gees",
       "album": "1978 Best of by uDiscover",
       "durationMs": 285373,
+      "isrc": "USRH10721057",
       "ids": {
         "appleMusic": "1682122901"
+      },
+      "features": {
+        "bpm": 103.62,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -771,6 +1181,7 @@
       "artist": "Bachman-Turner Overdrive",
       "album": "Bachman-Turner Overdrive II",
       "durationMs": 289893,
+      "isrc": "USMR17387011",
       "ids": {
         "appleMusic": "1434872823"
       }
@@ -780,8 +1191,14 @@
       "artist": "Bachman-Turner Overdrive",
       "album": "Lieblings... 70er",
       "durationMs": 234880,
+      "isrc": "USPR39401742",
       "ids": {
         "appleMusic": "1528951688"
+      },
+      "features": {
+        "bpm": 118.8,
+        "gain": -17.8,
+        "source": "deezer"
       }
     },
     {
@@ -789,8 +1206,14 @@
       "artist": "New Radicals",
       "album": "90s Mixtape",
       "durationMs": 301160,
+      "isrc": "USMC19858327",
       "ids": {
         "appleMusic": "1442267693"
+      },
+      "features": {
+        "bpm": 113.9,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -798,8 +1221,14 @@
       "artist": "Don Henley",
       "album": "Classic Rock Summer Vibes",
       "durationMs": 288333,
+      "isrc": "USGF18502601",
       "ids": {
         "appleMusic": "6767662739"
+      },
+      "features": {
+        "bpm": 177.4,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -807,8 +1236,14 @@
       "artist": "Chuck Berry",
       "album": "St. Louis to Liverpool",
       "durationMs": 161907,
+      "isrc": "GBPS81525693",
       "ids": {
         "appleMusic": "1468986490"
+      },
+      "features": {
+        "bpm": 157.2,
+        "gain": -14,
+        "source": "deezer"
       }
     },
     {
@@ -816,8 +1251,14 @@
       "artist": "Lenny Kravitz",
       "album": "Mama Said",
       "durationMs": 233067,
+      "isrc": "USVI21200722",
       "ids": {
         "appleMusic": "712308677"
+      },
+      "features": {
+        "bpm": 168.75,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -825,6 +1266,7 @@
       "artist": "The Beach Boys",
       "album": "Greatest Hits",
       "durationMs": 215617,
+      "isrc": "USNPD0713481",
       "ids": {
         "appleMusic": "728255310"
       }
@@ -843,6 +1285,7 @@
       "artist": "38 Special",
       "album": "Wild-Eyed Southern Boys",
       "durationMs": 280636,
+      "isrc": "GX5MY2390394",
       "ids": {
         "appleMusic": "1443457100"
       }
@@ -852,6 +1295,7 @@
       "artist": "Martha Reeves \u0026 The Vandellas",
       "album": "Heat Wave",
       "durationMs": 163053,
+      "isrc": "USMO16300273",
       "ids": {
         "appleMusic": "1444017336"
       }
@@ -861,6 +1305,7 @@
       "artist": "Bryan Adams",
       "album": "Reckless (30th Anniversary) [Deluxe Edition]",
       "durationMs": 216053,
+      "isrc": "USAM18490006",
       "ids": {
         "appleMusic": "1440823965"
       }
@@ -870,8 +1315,14 @@
       "artist": "The Human League",
       "album": "Canciones De Hace Un Tiempo - 80's",
       "durationMs": 236920,
+      "isrc": "GBAAA8100001",
       "ids": {
         "appleMusic": "1701064669"
+      },
+      "features": {
+        "bpm": 117.5,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -879,8 +1330,14 @@
       "artist": "Supertramp",
       "album": "Rock Anthems",
       "durationMs": 251253,
+      "isrc": "USUM71021480",
       "ids": {
         "appleMusic": "6763248469"
+      },
+      "features": {
+        "bpm": 119.5,
+        "gain": -10.7,
+        "source": "deezer"
       }
     },
     {
@@ -888,8 +1345,14 @@
       "artist": "Kiss",
       "album": "Greatest Kiss",
       "durationMs": 271278,
+      "isrc": "USIR20000512",
       "ids": {
         "appleMusic": "1440854031"
+      },
+      "features": {
+        "bpm": 129.6,
+        "gain": -7.06,
+        "source": "deezer"
       }
     },
     {
@@ -897,8 +1360,14 @@
       "artist": "Meredith Brooks",
       "album": "Blurring The Edges (Expanded Edition)",
       "durationMs": 252760,
+      "isrc": "USCA29701376",
       "ids": {
         "appleMusic": "1663386831"
+      },
+      "features": {
+        "bpm": 96.4,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -906,8 +1375,14 @@
       "artist": "Elton John \u0026 Kiki Dee",
       "album": "To Be Continued (Box Set)",
       "durationMs": 271133,
+      "isrc": "GBALX7600007",
       "ids": {
         "appleMusic": "1452864418"
+      },
+      "features": {
+        "bpm": 131.7,
+        "gain": -12.4,
+        "source": "deezer"
       }
     },
     {
@@ -915,8 +1390,14 @@
       "artist": "Johnny Cash",
       "album": "American II: Unchained",
       "durationMs": 197533,
+      "isrc": "USSM19605699",
       "ids": {
         "appleMusic": "1442463314"
+      },
+      "features": {
+        "bpm": 112,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -924,8 +1405,14 @@
       "artist": "The Isley Brothers",
       "album": "This Old Heart of Mine",
       "durationMs": 172733,
+      "isrc": "USMO16600488",
       "ids": {
         "appleMusic": "1444118296"
+      },
+      "features": {
+        "bpm": 130.4,
+        "gain": -13.7,
+        "source": "deezer"
       }
     },
     {
@@ -933,8 +1420,14 @@
       "artist": "38 Special",
       "album": "Special Forces",
       "durationMs": 279333,
+      "isrc": "USAM18201204",
       "ids": {
         "appleMusic": "1444005128"
+      },
+      "features": {
+        "bpm": 132.5,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -942,8 +1435,14 @@
       "artist": "Four Tops",
       "album": "Four Tops",
       "durationMs": 166035,
+      "isrc": "USMO10111235",
       "ids": {
         "appleMusic": "1443196178"
+      },
+      "features": {
+        "bpm": 121,
+        "gain": -6.56,
+        "source": "deezer"
       }
     },
     {
@@ -951,8 +1450,14 @@
       "artist": "The Mamas \u0026 The Papas",
       "album": "Sammys Abenteuer (Original Soundtrack)",
       "durationMs": 158920,
+      "isrc": "USMC16532697",
       "ids": {
         "appleMusic": "1442267467"
+      },
+      "features": {
+        "bpm": 112.35,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -960,8 +1465,14 @@
       "artist": "Pat Benatar",
       "album": "Crimes of Passion",
       "durationMs": 171440,
+      "isrc": "USCH38400009",
       "ids": {
         "appleMusic": "1440822809"
+      },
+      "features": {
+        "bpm": 127.6,
+        "gain": -13.4,
+        "source": "deezer"
       }
     },
     {
@@ -996,8 +1507,14 @@
       "artist": "Kiss",
       "album": "Double Platinum",
       "durationMs": 168626,
+      "isrc": "USPR37509157",
       "ids": {
         "appleMusic": "1440853313"
+      },
+      "features": {
+        "bpm": 144.56,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -1005,8 +1522,14 @@
       "artist": "Def Leppard",
       "album": "All Timers - EP",
       "durationMs": 247962,
+      "isrc": "GBF088300067",
       "ids": {
         "appleMusic": "1558761490"
+      },
+      "features": {
+        "bpm": 123.78,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -1014,8 +1537,14 @@
       "artist": "Blues Traveler",
       "album": "Four",
       "durationMs": 279800,
+      "isrc": "USAM19400296",
       "ids": {
         "appleMusic": "1440923113"
+      },
+      "features": {
+        "bpm": 151.4,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -1023,8 +1552,14 @@
       "artist": "Joe Sample \u0026 Randy Crawford",
       "album": "Feeling Good",
       "durationMs": 208453,
+      "isrc": "USPRA0600002",
       "ids": {
         "appleMusic": "1472873388"
+      },
+      "features": {
+        "bpm": 126.43,
+        "gain": -14.3,
+        "source": "deezer"
       }
     },
     {
@@ -1041,8 +1576,14 @@
       "artist": "The J. Geils Band",
       "album": "ドライブが楽しくなる洋楽ヒッツ!80年代 ROCK",
       "durationMs": 216573,
+      "isrc": "USCA28100075",
       "ids": {
         "appleMusic": "1692390800"
+      },
+      "features": {
+        "bpm": 114.2,
+        "gain": -16.3,
+        "source": "deezer"
       }
     },
     {
@@ -1050,6 +1591,7 @@
       "artist": "The Cranberries",
       "album": "Everybody Else Is Doing It, So Why Can't We? (Super Deluxe Edition)",
       "durationMs": 274720,
+      "isrc": "USIR29300085",
       "ids": {
         "appleMusic": "6765562560"
       }
@@ -1059,6 +1601,7 @@
       "artist": "Lesley Gore",
       "album": "I'll Cry If I Want To",
       "durationMs": 140000,
+      "isrc": "GBRKQ2224743",
       "ids": {
         "appleMusic": "1444105756"
       }
@@ -1068,8 +1611,14 @@
       "artist": "Bruce Springsteen",
       "album": "Greatest Hits",
       "durationMs": 242267,
+      "isrc": "USSM18400416",
       "ids": {
         "appleMusic": "1435854369"
+      },
+      "features": {
+        "bpm": 148.7,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -1077,8 +1626,14 @@
       "artist": "The Offspring",
       "album": "Americana",
       "durationMs": 180160,
+      "isrc": "USSM19804363",
       "ids": {
         "appleMusic": "1440881625"
+      },
+      "features": {
+        "bpm": 99.62,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -1086,8 +1641,14 @@
       "artist": "Semisonic",
       "album": "Canciones De Hace Un Tiempo - Éxitos Vol. 1",
       "durationMs": 274160,
+      "isrc": "USUM71810665",
       "ids": {
         "appleMusic": "1893158913"
+      },
+      "features": {
+        "bpm": 184.57,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -1095,8 +1656,14 @@
       "artist": "Gin Blossoms",
       "album": "New Miserable Experience",
       "durationMs": 236440,
+      "isrc": "USAM19201246",
       "ids": {
         "appleMusic": "1442677785"
+      },
+      "features": {
+        "bpm": 152.6,
+        "gain": -12.3,
+        "source": "deezer"
       }
     },
     {
@@ -1104,8 +1671,14 @@
       "artist": "Glen Campbell",
       "album": "The Best 60s Album In The World...Ever!",
       "durationMs": 186200,
+      "isrc": "USCN10100759",
       "ids": {
         "appleMusic": "1595173579"
+      },
+      "features": {
+        "bpm": 168.1,
+        "gain": -13.8,
+        "source": "deezer"
       }
     },
     {
@@ -1113,8 +1686,14 @@
       "artist": "America",
       "album": "View from the Ground",
       "durationMs": 237467,
+      "isrc": "USCA28500158",
       "ids": {
         "appleMusic": "716036654"
+      },
+      "features": {
+        "bpm": 136.4,
+        "gain": -17.6,
+        "source": "deezer"
       }
     },
     {
@@ -1122,8 +1701,14 @@
       "artist": "Elton John",
       "album": "1971: The Year That Music Changed Everything",
       "durationMs": 241707,
+      "isrc": "GBUM70711448",
       "ids": {
         "appleMusic": "1567623707"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -14.7,
+        "source": "deezer"
       }
     },
     {
@@ -1140,8 +1725,14 @@
       "artist": "The Platters",
       "album": "Golden Hits",
       "durationMs": 156560,
+      "isrc": "GBVUT1000784",
       "ids": {
         "appleMusic": "1783391461"
+      },
+      "features": {
+        "bpm": 83,
+        "gain": -3.65,
+        "source": "deezer"
       }
     },
     {
@@ -1149,8 +1740,14 @@
       "artist": "Counting Crows",
       "album": "August and Everything After",
       "durationMs": 272279,
+      "isrc": "USIR10000287",
       "ids": {
         "appleMusic": "1442449547"
+      },
+      "features": {
+        "bpm": 141.6,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -1158,8 +1755,14 @@
       "artist": "Rush",
       "album": "The Complete Mercury Years",
       "durationMs": 276880,
+      "isrc": "USMR18180103",
       "ids": {
         "appleMusic": "1440831923"
+      },
+      "features": {
+        "bpm": 175.2,
+        "gain": -12.2,
+        "source": "deezer"
       }
     },
     {
@@ -1167,8 +1770,14 @@
       "artist": "Canned Heat",
       "album": "The Best of Canned Heat",
       "durationMs": 171373,
+      "isrc": "USCA20500172",
       "ids": {
         "appleMusic": "725789244"
+      },
+      "features": {
+        "bpm": 159,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -1176,8 +1785,14 @@
       "artist": "U2",
       "album": "War (Deluxe Edition)",
       "durationMs": 279440,
+      "isrc": "GBUM70713138",
       "ids": {
         "appleMusic": "1440746347"
+      },
+      "features": {
+        "bpm": 101.1,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -1194,8 +1809,14 @@
       "artist": "The Knack",
       "album": "Get the Knack",
       "durationMs": 295400,
+      "isrc": "USCA28900153",
       "ids": {
         "appleMusic": "716268684"
+      },
+      "features": {
+        "bpm": 147.7,
+        "gain": -13.1,
+        "source": "deezer"
       }
     },
     {
@@ -1203,8 +1824,14 @@
       "artist": "Grand Funk Railroad",
       "album": "Striking Tunes Vol 7",
       "durationMs": 202733,
+      "isrc": "USCA29900297",
       "ids": {
         "appleMusic": "1894030792"
+      },
+      "features": {
+        "bpm": 121.6,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -1212,8 +1839,14 @@
       "artist": "Soundgarden",
       "album": "Songs About Love - The Classics",
       "durationMs": 318133,
+      "isrc": "USAM19400007",
       "ids": {
         "appleMusic": "1442404059"
+      },
+      "features": {
+        "bpm": 104.7,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -1221,8 +1854,14 @@
       "artist": "Toploader",
       "album": "New Year's Eve - NYE 2018/2019",
       "durationMs": 232693,
+      "isrc": "GBBBL9902165",
       "ids": {
         "appleMusic": "1445215966"
+      },
+      "features": {
+        "bpm": 119.5,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -1230,8 +1869,14 @@
       "artist": "The Cure",
       "album": "Three Imaginary Boys (Deluxe Edition)",
       "durationMs": 155973,
+      "isrc": "GBALB7800001",
       "ids": {
         "appleMusic": "1444157482"
+      },
+      "features": {
+        "bpm": 168.8,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -1239,8 +1884,14 @@
       "artist": "The Contours",
       "album": "Old But Gold",
       "durationMs": 172400,
+      "isrc": "USMO16200263",
       "ids": {
         "appleMusic": "1718644247"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -12.5,
+        "source": "deezer"
       }
     },
     {
@@ -1248,8 +1899,14 @@
       "artist": "The La's",
       "album": "The La's (Remastered) [Bonus Track Version]",
       "durationMs": 162187,
+      "isrc": "GBAQT8800001",
       "ids": {
         "appleMusic": "1443735637"
+      },
+      "features": {
+        "bpm": 122.7,
+        "gain": -14,
+        "source": "deezer"
       }
     },
     {
@@ -1257,6 +1914,7 @@
       "artist": "The Mighty Mighty Bosstones",
       "album": "40 Éxitos: Rock",
       "durationMs": 194760,
+      "isrc": "USMR19780102",
       "ids": {
         "appleMusic": "1707090663"
       }
@@ -1266,8 +1924,14 @@
       "artist": "The Go-Go's",
       "album": "Cheerleader Hits",
       "durationMs": 153133,
+      "isrc": "USCA21100772",
       "ids": {
         "appleMusic": "1834501018"
+      },
+      "features": {
+        "bpm": 151.4,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -1275,8 +1939,14 @@
       "artist": "Poison",
       "album": "Romance Veraniego",
       "durationMs": 223406,
+      "isrc": "USCA28800138",
       "ids": {
         "appleMusic": "1892530022"
+      },
+      "features": {
+        "bpm": 129.2,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -1284,8 +1954,14 @@
       "artist": "Lionel Richie",
       "album": "Gold: Lionel Richie / Commodores",
       "durationMs": 357067,
+      "isrc": "USMO10110143",
       "ids": {
         "appleMusic": "1445751860"
+      },
+      "features": {
+        "bpm": 121.2,
+        "gain": -16.3,
+        "source": "deezer"
       }
     },
     {
@@ -1293,8 +1969,14 @@
       "artist": "Deep Purple",
       "album": "Rock Morning Mixtape 2022",
       "durationMs": 340742,
+      "isrc": "GBDXG1200006",
       "ids": {
         "appleMusic": "1602386015"
+      },
+      "features": {
+        "bpm": 113.9,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -1302,8 +1984,14 @@
       "artist": "Lionel Richie",
       "album": "The Definitive Collection",
       "durationMs": 191867,
+      "isrc": "USMO18390015",
       "ids": {
         "appleMusic": "1440723516"
+      },
+      "features": {
+        "bpm": 132.1,
+        "gain": -18.4,
+        "source": "deezer"
       }
     },
     {
@@ -1311,8 +1999,14 @@
       "artist": "The Cure",
       "album": "Wish",
       "durationMs": 215160,
+      "isrc": "GBALB9200002",
       "ids": {
         "appleMusic": "1440932817"
+      },
+      "features": {
+        "bpm": 136,
+        "gain": -15.5,
+        "source": "deezer"
       }
     },
     {
@@ -1320,8 +2014,14 @@
       "artist": "The Animals",
       "album": "Sounds of the 60's",
       "durationMs": 145693,
+      "isrc": "GBAYE6500156",
       "ids": {
         "appleMusic": "1665584367"
+      },
+      "features": {
+        "bpm": 111.4,
+        "gain": -13.1,
+        "source": "deezer"
       }
     },
     {
@@ -1329,6 +2029,7 @@
       "artist": "Metallica",
       "album": "Metallica (Remastered)",
       "durationMs": 388733,
+      "isrc": "QMKHM1900008",
       "ids": {
         "appleMusic": "1571969050"
       }
@@ -1338,6 +2039,7 @@
       "artist": "Metallica",
       "album": "Metallica (Deluxe Box Set)",
       "durationMs": 331560,
+      "isrc": "QMKHM1900001",
       "ids": {
         "appleMusic": "1571983951"
       }

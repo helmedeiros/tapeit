@@ -6,6 +6,7 @@
       "artist": "Interpol",
       "album": "This Mirror Weighs a Ton",
       "durationMs": 296747,
+      "isrc": "USBQU2600032",
       "ids": {
         "appleMusic": "6768694734"
       }
@@ -14,19 +15,22 @@
       "title": "Evil",
       "artist": "Interpol",
       "album": "Antics",
-      "durationMs": 215827
+      "durationMs": 215827,
+      "isrc": "USMTD0567902"
     },
     {
       "title": "Obstacle 1",
       "artist": "Interpol",
       "album": "Turn On The Bright Lights",
-      "durationMs": 251293
+      "durationMs": 251293,
+      "isrc": "USMTD0254502"
     },
     {
       "title": "Rest My Chemistry",
       "artist": "Interpol",
       "album": "Our Love To Admire",
       "durationMs": 301094,
+      "isrc": "USCA20703931",
       "ids": {
         "appleMusic": "1645063624"
       }
@@ -36,6 +40,7 @@
       "artist": "Interpol",
       "album": "This Mirror Weighs a Ton",
       "durationMs": 312253,
+      "isrc": "USBQU2600031",
       "ids": {
         "appleMusic": "6768694731"
       }
@@ -44,19 +49,22 @@
       "title": "C'mere",
       "artist": "Interpol",
       "album": "Antics",
-      "durationMs": 191173
+      "durationMs": 191173,
+      "isrc": "USMTD0461608"
     },
     {
       "title": "Untitled",
       "artist": "Interpol",
       "album": "Turn On The Bright Lights",
-      "durationMs": 236707
+      "durationMs": 236707,
+      "isrc": "USMTD0254501"
     },
     {
       "title": "No I In Threesome",
       "artist": "Interpol",
       "album": "Our Love To Admire",
       "durationMs": 231529,
+      "isrc": "USCA20703925",
       "ids": {
         "appleMusic": "1645063609"
       }
@@ -65,25 +73,29 @@
       "title": "All the Rage Back Home",
       "artist": "Interpol",
       "album": "El Pintor",
-      "durationMs": 262427
+      "durationMs": 262427,
+      "isrc": "USMTD1404915"
     },
     {
       "title": "Slow Hands",
       "artist": "Interpol",
       "album": "Antics",
-      "durationMs": 183973
+      "durationMs": 183973,
+      "isrc": "USMTD0461605"
     },
     {
       "title": "PDA",
       "artist": "Interpol",
       "album": "Turn On The Bright Lights",
-      "durationMs": 299773
+      "durationMs": 299773,
+      "isrc": "USMTD0254504"
     },
     {
       "title": "The Heinrich Maneuver",
       "artist": "Interpol",
       "album": "Our Love To Admire",
       "durationMs": 208423,
+      "isrc": "USCA20703927",
       "ids": {
         "appleMusic": "1645063614"
       }
@@ -93,6 +105,7 @@
       "artist": "Interpol",
       "album": "Marauder",
       "durationMs": 265573,
+      "isrc": "USMTD1811626",
       "ids": {
         "appleMusic": "1586489219"
       }
@@ -101,19 +114,22 @@
       "title": "Narc",
       "artist": "Interpol",
       "album": "Antics",
-      "durationMs": 247907
+      "durationMs": 247907,
+      "isrc": "GBCAD0402680"
     },
     {
       "title": "Leif Erikson",
       "artist": "Interpol",
       "album": "Turn On The Bright Lights",
-      "durationMs": 240093
+      "durationMs": 240093,
+      "isrc": "USMTD0254511"
     },
     {
       "title": "Pioneer To The Falls",
       "artist": "Interpol",
       "album": "Our Love To Admire",
       "durationMs": 342539,
+      "isrc": "USCA20703924",
       "ids": {
         "appleMusic": "1645063608"
       }
@@ -122,13 +138,15 @@
       "title": "My Desire",
       "artist": "Interpol",
       "album": "El Pintor",
-      "durationMs": 300027
+      "durationMs": 300027,
+      "isrc": "USMTD1404916"
     },
     {
       "title": "The Rover",
       "artist": "Interpol",
       "album": "Marauder",
       "durationMs": 217693,
+      "isrc": "USMTD1811627",
       "ids": {
         "appleMusic": "1586489221"
       }
@@ -137,13 +155,15 @@
       "title": "Say Hello to the Angels",
       "artist": "Interpol",
       "album": "Turn On The Bright Lights",
-      "durationMs": 268333
+      "durationMs": 268333,
+      "isrc": "USMTD0254505"
     },
     {
       "title": "Take You on a Cruise",
       "artist": "Interpol",
       "album": "Antics (The Twentieth Anniversary Edition)",
       "durationMs": 294400,
+      "isrc": "USMTD0461604",
       "ids": {
         "appleMusic": "1755482004"
       }
@@ -153,6 +173,7 @@
       "artist": "Interpol",
       "album": "Our Love To Admire",
       "durationMs": 277304,
+      "isrc": "USCA20703929",
       "ids": {
         "appleMusic": "1645063619"
       }
@@ -161,19 +182,22 @@
       "title": "Everything Is Wrong",
       "artist": "Interpol",
       "album": "El Pintor",
-      "durationMs": 212853
+      "durationMs": 212853,
+      "isrc": "USMTD1404920"
     },
     {
       "title": "NYC",
       "artist": "Interpol",
       "album": "Turn On The Bright Lights",
-      "durationMs": 259733
+      "durationMs": 259733,
+      "isrc": "USMTD0254503"
     },
     {
       "title": "Not Even Jail",
       "artist": "Interpol",
       "album": "Antics (The Twentieth Anniversary Edition)",
       "durationMs": 346627,
+      "isrc": "USMTD0461606",
       "ids": {
         "appleMusic": "1755482009"
       }
@@ -183,6 +207,7 @@
       "artist": "Interpol",
       "album": "Our Love To Admire",
       "durationMs": 205040,
+      "isrc": "USCA20703926",
       "ids": {
         "appleMusic": "1645063612"
       }
@@ -192,36 +217,42 @@
       "artist": "Interpol",
       "album": "Interpol",
       "durationMs": 250000,
+      "isrc": "USMTD1000377",
       "ids": {
         "appleMusic": "1691271871"
       }
     },
     {
       "title": "Toni",
-      "artist": "Interpol"
+      "artist": "Interpol",
+      "isrc": "USMTD2200003"
     },
     {
       "title": "My Blue Supreme",
-      "artist": "Interpol"
+      "artist": "Interpol",
+      "isrc": "USMTD1404919"
     },
     {
       "title": "Song Seven",
       "artist": "Interpol",
       "album": "Antics (The Special Edition)",
       "durationMs": 292333,
+      "isrc": "USMTD0461611",
       "ids": {
         "appleMusic": "1589185680"
       }
     },
     {
       "title": "Try It On",
-      "artist": "Interpol"
+      "artist": "Interpol",
+      "isrc": "USMTD1000380"
     },
     {
       "title": "Flight of Fancy",
       "artist": "Interpol",
       "album": "Marauder",
       "durationMs": 231813,
+      "isrc": "USMTD1811629",
       "ids": {
         "appleMusic": "1586489225"
       }
@@ -230,13 +261,15 @@
       "title": "Anywhere",
       "artist": "Interpol",
       "album": "El Pintor",
-      "durationMs": 192973
+      "durationMs": 192973,
+      "isrc": "USMTD1404917"
     },
     {
       "title": "What Is What",
       "artist": "Interpol",
       "album": "El Pintor (Bonus Tracks) - Single",
       "durationMs": 213777,
+      "isrc": "USMTD1505979",
       "ids": {
         "appleMusic": "1691268155"
       }
@@ -246,25 +279,34 @@
       "artist": "Interpol",
       "album": "Interpol",
       "durationMs": 337867,
+      "isrc": "USMTD1000376",
       "ids": {
         "appleMusic": "1691271867"
       }
     },
     {
       "title": "Specialist",
-      "artist": "Interpol"
+      "artist": "Interpol",
+      "isrc": "USMTD0254603",
+      "features": {
+        "bpm": 110.5,
+        "gain": -7.4,
+        "source": "deezer"
+      }
     },
     {
       "title": "Tidal Wave",
       "artist": "Interpol",
       "album": "El Pintor",
-      "durationMs": 257773
+      "durationMs": 257773,
+      "isrc": "USMTD1404923"
     },
     {
       "title": "Passenger",
       "artist": "Interpol",
       "album": "The Other Side of Make-Believe",
       "durationMs": 254400,
+      "isrc": "USMTD2200009",
       "ids": {
         "appleMusic": "1614604876"
       }
@@ -274,6 +316,7 @@
       "artist": "Interpol",
       "album": "Marauder",
       "durationMs": 293213,
+      "isrc": "USMTD1811630",
       "ids": {
         "appleMusic": "1586489556"
       }
@@ -283,6 +326,7 @@
       "artist": "Interpol",
       "album": "El Pintor (Bonus Tracks) - Single",
       "durationMs": 248120,
+      "isrc": "USMTD1404925",
       "ids": {
         "appleMusic": "1691268143"
       }
@@ -292,6 +336,7 @@
       "artist": "Interpol",
       "album": "Interpol",
       "durationMs": 243467,
+      "isrc": "USMTD1000375",
       "ids": {
         "appleMusic": "1691271866"
       }
@@ -301,6 +346,7 @@
       "artist": "Interpol",
       "album": "The Other Side of Make-Believe",
       "durationMs": 274040,
+      "isrc": "USMTD2200004",
       "ids": {
         "appleMusic": "1614604411"
       }
@@ -310,6 +356,7 @@
       "artist": "Interpol",
       "album": "Marauder",
       "durationMs": 196853,
+      "isrc": "USMTD1811633",
       "ids": {
         "appleMusic": "1586489561"
       }
@@ -319,6 +366,7 @@
       "artist": "Interpol",
       "album": "A Fine Mess - EP",
       "durationMs": 195733,
+      "isrc": "USMTD1912611",
       "ids": {
         "appleMusic": "1586497814"
       }
@@ -328,6 +376,7 @@
       "artist": "Interpol",
       "album": "Interpol",
       "durationMs": 206613,
+      "isrc": "USMTD1000373",
       "ids": {
         "appleMusic": "1691271856"
       }
@@ -337,6 +386,7 @@
       "artist": "Interpol",
       "album": "The Other Side of Make-Believe",
       "durationMs": 228133,
+      "isrc": "USMTD2200006",
       "ids": {
         "appleMusic": "1614604855"
       }
@@ -346,6 +396,7 @@
       "artist": "Interpol",
       "album": "Marauder",
       "durationMs": 188053,
+      "isrc": "USMTD1811632",
       "ids": {
         "appleMusic": "1586489558"
       }
@@ -355,6 +406,7 @@
       "artist": "Interpol",
       "album": "Interpol",
       "durationMs": 301787,
+      "isrc": "USMTD1000374",
       "ids": {
         "appleMusic": "1691271858"
       }
@@ -364,6 +416,7 @@
       "artist": "Interpol",
       "album": "The Other Side of Make-Believe",
       "durationMs": 244027,
+      "isrc": "USMTD2200011",
       "ids": {
         "appleMusic": "1614605106"
       }
@@ -373,6 +426,7 @@
       "artist": "Interpol",
       "album": "The Other Side of Make-Believe",
       "durationMs": 236227,
+      "isrc": "USMTD2200007",
       "ids": {
         "appleMusic": "1614604868"
       }

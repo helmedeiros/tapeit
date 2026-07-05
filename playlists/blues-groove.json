@@ -6,8 +6,14 @@
       "artist": "Diane Schuur \u0026 B.B. King",
       "album": "Heart to Heart",
       "durationMs": 268227,
+      "isrc": "USGR19400009",
       "ids": {
         "appleMusic": "1442244894"
+      },
+      "features": {
+        "bpm": 103.1,
+        "gain": -13.6,
+        "source": "deezer"
       }
     },
     {
@@ -24,6 +30,7 @@
       "artist": "Koko Taylor",
       "album": "What It Takes: The Chess Years (Expanded Edition)",
       "durationMs": 157373,
+      "isrc": "ES64E2416692",
       "ids": {
         "appleMusic": "1483860138"
       }
@@ -33,6 +40,7 @@
       "artist": "Slim Harpo",
       "album": "The Excello Singles Anthology",
       "durationMs": 168533,
+      "isrc": "USUM15701001",
       "ids": {
         "appleMusic": "1447452265"
       }
@@ -51,8 +59,14 @@
       "artist": "Earl King",
       "album": "The Sonet Blues Story",
       "durationMs": 134733,
+      "isrc": "SEBFO0400640",
       "ids": {
         "appleMusic": "1443594000"
+      },
+      "features": {
+        "bpm": 119.5,
+        "gain": -8.46,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +74,14 @@
       "artist": "Joe Louis Walker",
       "album": "Preacher and the President",
       "durationMs": 219227,
+      "isrc": "FRZ029800810",
       "ids": {
         "appleMusic": "1443859957"
+      },
+      "features": {
+        "bpm": 104.1,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -78,8 +98,14 @@
       "artist": "Mighty Joe Young",
       "album": "The Sonet Blues Story",
       "durationMs": 376667,
+      "isrc": "SEBFO0400510",
       "ids": {
         "appleMusic": "1444128194"
+      },
+      "features": {
+        "bpm": 204.7,
+        "gain": -10.5,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +113,14 @@
       "artist": "James Cotton",
       "album": "Living the Blues",
       "durationMs": 299584,
+      "isrc": "FRZ029303100",
       "ids": {
         "appleMusic": "1443726645"
+      },
+      "features": {
+        "bpm": 116.8,
+        "gain": -11.1,
+        "source": "deezer"
       }
     },
     {
@@ -105,8 +137,14 @@
       "artist": "Susan Tedeschi",
       "album": "Hope and Desire",
       "durationMs": 171600,
+      "isrc": "USUM70501685",
       "ids": {
         "appleMusic": "1443467137"
+      },
+      "features": {
+        "bpm": 94,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -114,8 +152,14 @@
       "artist": "Jean-Jacques Milteau",
       "album": "Memphis",
       "durationMs": 284133,
+      "isrc": "FRZ020180120",
       "ids": {
         "appleMusic": "1443550928"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -12.2,
+        "source": "deezer"
       }
     },
     {
@@ -123,8 +167,14 @@
       "artist": "Champion Jack Dupree",
       "album": "The Sonet Blues Story",
       "durationMs": 252427,
+      "isrc": "SEBFO0400598",
       "ids": {
         "appleMusic": "1443565763"
+      },
+      "features": {
+        "bpm": 120.2,
+        "gain": -11.3,
+        "source": "deezer"
       }
     },
     {
@@ -132,6 +182,7 @@
       "artist": "Memphis Slim",
       "album": "The Sonet Blues Story",
       "durationMs": 171640,
+      "isrc": "AUXN22074975",
       "ids": {
         "appleMusic": "1443185876"
       }
@@ -141,8 +192,14 @@
       "artist": "Robert Cray",
       "album": "Strong Persuader",
       "durationMs": 243765,
+      "isrc": "USWWW0126267",
       "ids": {
         "appleMusic": "1440860677"
+      },
+      "features": {
+        "bpm": 128.4,
+        "gain": -17.5,
+        "source": "deezer"
       }
     },
     {
@@ -159,6 +216,7 @@
       "artist": "Bo Diddley",
       "album": "Gold",
       "durationMs": 167240,
+      "isrc": "USMC15547011",
       "ids": {
         "appleMusic": "1461506763"
       }
@@ -168,8 +226,14 @@
       "artist": "Howlin' Wolf",
       "album": "Blues Gold",
       "durationMs": 186550,
+      "isrc": "USMC15646854",
       "ids": {
         "appleMusic": "1445663401"
+      },
+      "features": {
+        "bpm": 145.6,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -177,8 +241,14 @@
       "artist": "John Mayall \u0026 The Bluesbreakers \u0026 Eric Clapton",
       "album": "The World Of John Mayall",
       "durationMs": 126373,
+      "isrc": "GBF076623560",
       "ids": {
         "appleMusic": "1491195844"
+      },
+      "features": {
+        "bpm": 97.05,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -195,8 +265,14 @@
       "artist": "Takats Tamas Blues Band",
       "album": "Ebredj Fel",
       "durationMs": 189613,
+      "isrc": "HUUM70800472",
       "ids": {
         "appleMusic": "1443474431"
+      },
+      "features": {
+        "bpm": 114.8,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
@@ -204,6 +280,7 @@
       "artist": "Little Walter",
       "album": "The Complete Chess Masters (1950 - 1967)",
       "durationMs": 134733,
+      "isrc": "USUM70951813",
       "ids": {
         "appleMusic": "1486972776"
       }
@@ -213,8 +290,14 @@
       "artist": "Muddy Waters",
       "album": "The Muddy Waters Woodstock Album",
       "durationMs": 315533,
+      "isrc": "USMC17504034",
       "ids": {
         "appleMusic": "1443411716"
+      },
+      "features": {
+        "bpm": 125.3,
+        "gain": -11.3,
+        "source": "deezer"
       }
     }
   ]

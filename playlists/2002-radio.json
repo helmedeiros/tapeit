@@ -6,8 +6,14 @@
       "artist": "Anne-Marie",
       "album": "2010er - Alle Hits",
       "durationMs": 186987,
+      "isrc": "GBAHS1800094",
       "ids": {
         "appleMusic": "1600128831"
+      },
+      "features": {
+        "bpm": 95.93,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "Harry Styles",
       "album": "Fine Line",
       "durationMs": 173991,
+      "isrc": "USSM11912587",
       "ids": {
         "appleMusic": "1485802967"
+      },
+      "features": {
+        "bpm": 95.48,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -24,6 +36,7 @@
       "artist": "Glass Animals",
       "album": "Dreamland",
       "durationMs": 238805,
+      "isrc": "GBUM72000433",
       "ids": {
         "appleMusic": "1508562516"
       }
@@ -33,6 +46,7 @@
       "artist": "Dua Lipa",
       "album": "Future Nostalgia (Bonus Edition)",
       "durationMs": 203808,
+      "isrc": "GBAHT1901299",
       "ids": {
         "appleMusic": "1541803862"
       }
@@ -42,6 +56,7 @@
       "artist": "Anne-Marie \u0026 Aitch",
       "album": "PSYCHO - Single",
       "durationMs": 162693,
+      "isrc": "GBAHS2201059",
       "ids": {
         "appleMusic": "1850516946"
       }
@@ -51,6 +66,7 @@
       "artist": "Olivia Rodrigo",
       "album": "SOUR",
       "durationMs": 178148,
+      "isrc": "USUG12101245",
       "ids": {
         "appleMusic": "1560735856"
       }
@@ -60,6 +76,7 @@
       "artist": "Jonas Brothers",
       "album": "Happiness Begins",
       "durationMs": 181033,
+      "isrc": "USUG11900515",
       "ids": {
         "appleMusic": "1461478389"
       }
@@ -69,6 +86,7 @@
       "artist": "Anne-Marie \u0026 Niall Horan",
       "album": "Our Song - Single",
       "durationMs": 163733,
+      "isrc": "GBAHS2100323",
       "ids": {
         "appleMusic": "1566144680"
       }
@@ -78,8 +96,14 @@
       "artist": "Lizzo",
       "album": "Good As Hell - Single",
       "durationMs": 159736,
+      "isrc": "USAT21905910",
       "ids": {
         "appleMusic": "1090585453"
+      },
+      "features": {
+        "bpm": 95.93,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -96,8 +120,14 @@
       "artist": "Clean Bandit",
       "album": "Rockabye (feat. Sean Paul \u0026 Anne-Marie) - Single",
       "durationMs": 251088,
+      "isrc": "GBAHS1600363",
       "ids": {
         "appleMusic": "1164046335"
+      },
+      "features": {
+        "bpm": 102.08,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -105,6 +135,7 @@
       "artist": "Ariana Grande \u0026 Justin Bieber",
       "album": "Stuck with U - Single",
       "durationMs": 228482,
+      "isrc": "USUM72009644",
       "ids": {
         "appleMusic": "1511562950"
       }
@@ -114,6 +145,7 @@
       "artist": "Dua Lipa",
       "album": "Don't Start Now - Single",
       "durationMs": 183290,
+      "isrc": "GBAHT1901121",
       "ids": {
         "appleMusic": "1484322135"
       }
@@ -123,8 +155,14 @@
       "artist": "Anne-Marie",
       "album": "Perfect to Me - Single",
       "durationMs": 197853,
+      "isrc": "GBAHS1800729",
       "ids": {
         "appleMusic": "1440176710"
+      },
+      "features": {
+        "bpm": 179.76,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -132,6 +170,7 @@
       "artist": "Charlie Puth",
       "album": "cafe background music",
       "durationMs": 185681,
+      "isrc": "USAT22201213",
       "ids": {
         "appleMusic": "6784167830"
       }
@@ -141,6 +180,7 @@
       "artist": "George Ezra",
       "album": "Staying at Tamara's",
       "durationMs": 201287,
+      "isrc": "GBARL1701802",
       "ids": {
         "appleMusic": "1331589486"
       }
@@ -150,8 +190,14 @@
       "artist": "Macklemore",
       "album": "GEMINI",
       "durationMs": 222267,
+      "isrc": "QZ8TY1700002",
       "ids": {
         "appleMusic": "1272352851"
+      },
+      "features": {
+        "bpm": 140.15,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -168,8 +214,14 @@
       "artist": "Anne-Marie",
       "album": "Birthday - Single",
       "durationMs": 181467,
+      "isrc": "GBAHS2000028",
       "ids": {
         "appleMusic": "1495360252"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -177,8 +229,14 @@
       "artist": "MKTO",
       "album": "MKTO",
       "durationMs": 175427,
+      "isrc": "USSM11301446",
       "ids": {
         "appleMusic": "853842868"
+      },
+      "features": {
+        "bpm": 102.1,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -186,8 +244,14 @@
       "artist": "Panic! At the Disco",
       "album": "Pray for the Wicked",
       "durationMs": 190947,
+      "isrc": "USAT21801174",
       "ids": {
         "appleMusic": "1361152303"
+      },
+      "features": {
+        "bpm": 164.06,
+        "gain": -6.3,
+        "source": "deezer"
       }
     },
     {
@@ -195,6 +259,7 @@
       "artist": "Alex Warren",
       "album": "Carry You Home - Single",
       "durationMs": 166881,
+      "isrc": "USAT22403017",
       "ids": {
         "appleMusic": "1745673617"
       }
@@ -213,8 +278,14 @@
       "artist": "Anne-Marie",
       "album": "My Bad",
       "durationMs": 199773,
+      "isrc": "GBAHS1700195",
       "ids": {
         "appleMusic": "1490007580"
+      },
+      "features": {
+        "bpm": 106.01,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -222,8 +293,14 @@
       "artist": "One Direction",
       "album": "Up All Night (The Souvenir Edition)",
       "durationMs": 199987,
+      "isrc": "GBHMU1100018",
       "ids": {
         "appleMusic": "505055781"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -231,8 +308,14 @@
       "artist": "Ed Sheeran",
       "album": "÷ (Deluxe)",
       "durationMs": 261154,
+      "isrc": "GBAHS1600462",
       "ids": {
         "appleMusic": "1193700917"
+      },
+      "features": {
+        "bpm": 135.11,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -240,6 +323,7 @@
       "artist": "Jason Mraz",
       "album": "Wedding Day Getting Ready",
       "durationMs": 242040,
+      "isrc": "USEE10800667",
       "ids": {
         "appleMusic": "6784158201"
       }
@@ -249,8 +333,14 @@
       "artist": "Bruno Mars",
       "album": "cafe background music",
       "durationMs": 205080,
+      "isrc": "USAT21602948",
       "ids": {
         "appleMusic": "6784167435"
+      },
+      "features": {
+        "bpm": 133.8,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -258,6 +348,7 @@
       "artist": "Anne-Marie",
       "album": "UNHEALTHY (Deluxe)",
       "durationMs": 149653,
+      "isrc": "GBAHS2300345",
       "ids": {
         "appleMusic": "1683994643"
       }
@@ -267,8 +358,14 @@
       "artist": "Clean Bandit",
       "album": "Rather Be (feat. Jess Glynne)",
       "durationMs": 227833,
+      "isrc": "GBAHS1300498",
       "ids": {
         "appleMusic": "742117652"
+      },
+      "features": {
+        "bpm": 120.9,
+        "gain": -11,
+        "source": "deezer"
       }
     },
     {
@@ -276,6 +373,7 @@
       "artist": "Sabrina Carpenter",
       "album": "emails i can't send",
       "durationMs": 163648,
+      "isrc": "USUM72210708",
       "ids": {
         "appleMusic": "1631579019"
       }
@@ -285,8 +383,14 @@
       "artist": "Sia",
       "album": "This Is Acting (Deluxe Version)",
       "durationMs": 211667,
+      "isrc": "USRC11502935",
       "ids": {
         "appleMusic": "1162482549"
+      },
+      "features": {
+        "bpm": 179.8,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -294,6 +398,7 @@
       "artist": "Ariana Grande",
       "album": "eternal sunshine",
       "durationMs": 228639,
+      "isrc": "USUM72317276",
       "ids": {
         "appleMusic": "1725878242"
       }
@@ -303,6 +408,7 @@
       "artist": "Dua Lipa",
       "album": "Future Nostalgia (Deluxe)",
       "durationMs": 221820,
+      "isrc": "GBAHT1901303",
       "ids": {
         "appleMusic": "1537651833"
       }
@@ -312,8 +418,14 @@
       "artist": "Anne-Marie",
       "album": "Speak Your Mind (Deluxe)",
       "durationMs": 233760,
+      "isrc": "GBAHS1800092",
       "ids": {
         "appleMusic": "1418704726"
+      },
+      "features": {
+        "bpm": 88.53,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -321,8 +433,14 @@
       "artist": "One Direction",
       "album": "FOUR (The Ultimate Edition)",
       "durationMs": 228138,
+      "isrc": "GBHMU1400159",
       "ids": {
         "appleMusic": "914556572"
+      },
+      "features": {
+        "bpm": 154.3,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -330,6 +448,7 @@
       "artist": "Ed Sheeran",
       "album": "=",
       "durationMs": 207853,
+      "isrc": "GBAHS2100671",
       "ids": {
         "appleMusic": "1581087034"
       }
@@ -339,8 +458,14 @@
       "artist": "Ava Max",
       "album": "Heaven \u0026 Hell",
       "durationMs": 162399,
+      "isrc": "USAT21906943",
       "ids": {
         "appleMusic": "1538214605"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -348,8 +473,14 @@
       "artist": "Khalid",
       "album": "American Teen",
       "durationMs": 202535,
+      "isrc": "USRC11700144",
       "ids": {
         "appleMusic": "1200868874"
+      },
+      "features": {
+        "bpm": 136.9,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -357,6 +488,7 @@
       "artist": "Anne-Marie",
       "album": "Therapy",
       "durationMs": 194680,
+      "isrc": "GBAHS2100225",
       "ids": {
         "appleMusic": "1567637905"
       }
@@ -366,6 +498,7 @@
       "artist": "Marshmello \u0026 Bastille",
       "album": "Happier - Single",
       "durationMs": 214290,
+      "isrc": "USUG11801651",
       "ids": {
         "appleMusic": "1711849667"
       }
@@ -375,8 +508,14 @@
       "artist": "5 Seconds of Summer",
       "album": "Youngblood",
       "durationMs": 203418,
+      "isrc": "GBUM71800366",
       "ids": {
         "appleMusic": "1369109851"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -384,8 +523,14 @@
       "artist": "Charlie Puth",
       "album": "Voicenotes",
       "durationMs": 200853,
+      "isrc": "USAT21702278",
       "ids": {
         "appleMusic": "1293230534"
+      },
+      "features": {
+        "bpm": 109.96,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -393,8 +538,14 @@
       "artist": "Anne-Marie",
       "album": "Alarm - Single",
       "durationMs": 205945,
+      "isrc": "GBAHS1600223",
       "ids": {
         "appleMusic": "1168599243"
+      },
+      "features": {
+        "bpm": 147.13,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -402,6 +553,7 @@
       "artist": "The Kid LAROI \u0026 Justin Bieber",
       "album": "STAY - Single",
       "durationMs": 141806,
+      "isrc": "USSM12103949",
       "ids": {
         "appleMusic": "1574968888"
       }

@@ -6,8 +6,14 @@
       "artist": "Marilyn Manson",
       "album": "Mechanical Animals",
       "durationMs": 189760,
+      "isrc": "USIR19801984",
       "ids": {
         "appleMusic": "1440738183"
+      },
+      "features": {
+        "bpm": 101.1,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "Rob Zombie",
       "album": "Hellbilly Deluxe",
       "durationMs": 222827,
+      "isrc": "USGF19821203",
       "ids": {
         "appleMusic": "1440845806"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +36,14 @@
       "artist": "Fukkk Offf",
       "album": "Halloween Weapons",
       "durationMs": 180923,
+      "isrc": "GBKQU1889834",
       "ids": {
         "appleMusic": "1440166936"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -5.1,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +60,14 @@
       "artist": "Rammstein",
       "album": "Sehnsucht",
       "durationMs": 234227,
+      "isrc": "DED579704010",
       "ids": {
         "appleMusic": "1390562691"
+      },
+      "features": {
+        "bpm": 124.91,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -51,8 +75,14 @@
       "artist": "Rage Against the Machine",
       "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
       "durationMs": 363853,
+      "isrc": "USSM19200665",
       "ids": {
         "appleMusic": "578028959"
+      },
+      "features": {
+        "bpm": 170.8,
+        "gain": -11.2,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +90,14 @@
       "artist": "Ministry",
       "album": "Greatest Fits",
       "durationMs": 325382,
+      "isrc": "USWB19900082",
       "ids": {
         "appleMusic": "358592633"
+      },
+      "features": {
+        "bpm": 179.76,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +105,14 @@
       "artist": "Robert D",
       "album": "The Very Best of Sci - Fi \u0026 Fantasy (From Sucker Punch to V for Vendetta) [Original Motion Picture Soundtrack]",
       "durationMs": 244107,
+      "isrc": "GBXWM1605355",
       "ids": {
         "appleMusic": "1741500442"
+      },
+      "features": {
+        "bpm": 102.08,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -78,6 +120,7 @@
       "artist": "The Prodigy",
       "album": "The Fat of the Land (Expanded Edition)",
       "durationMs": 339907,
+      "isrc": "GBBKS9700078",
       "ids": {
         "appleMusic": "574422938"
       }
@@ -87,6 +130,7 @@
       "artist": "Fukkk Offf \u0026 Cult Classique",
       "album": "Gaming Music 2020",
       "durationMs": 353273,
+      "isrc": "GBKQU1968524",
       "ids": {
         "appleMusic": "1507367560"
       }
@@ -96,8 +140,14 @@
       "artist": "Marilyn Manson",
       "album": "The Matrix Reloaded: The Album (Music from the Motion Picture)",
       "durationMs": 260293,
+      "isrc": "USIR10300252",
       "ids": {
         "appleMusic": "328870982"
+      },
+      "features": {
+        "bpm": 178.2,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -105,6 +155,7 @@
       "artist": "LINKIN PARK",
       "album": "The Matrix Reloaded: The Album (Music from the Motion Picture)",
       "durationMs": 144733,
+      "isrc": "USWB10300473",
       "ids": {
         "appleMusic": "331681280"
       }
@@ -132,8 +183,14 @@
       "artist": "Rage Against the Machine",
       "album": "The Matrix Reloaded: The Album (Music from the Motion Picture)",
       "durationMs": 298867,
+      "isrc": "USSM19920166",
       "ids": {
         "appleMusic": "328872083"
+      },
+      "features": {
+        "bpm": 148.7,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -141,6 +198,7 @@
       "artist": "BIG BROTHER 84 \u0026 Justpim",
       "album": "Metronome - EP",
       "durationMs": 192480,
+      "isrc": "GBKQU2018721",
       "ids": {
         "appleMusic": "1500413931"
       }
@@ -159,8 +217,14 @@
       "artist": "Meat Beat Manifesto",
       "album": "Actual Sounds + Voices",
       "durationMs": 377760,
+      "isrc": "BEP010490374",
       "ids": {
         "appleMusic": "600107976"
+      },
+      "features": {
+        "bpm": 126,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -168,6 +232,7 @@
       "artist": "Hive",
       "album": "Devious Methods",
       "durationMs": 294133,
+      "isrc": "US25X1801314",
       "ids": {
         "appleMusic": "1843804251"
       }
@@ -177,6 +242,7 @@
       "artist": "Monster Magnet",
       "album": "Dopes To Infinity",
       "durationMs": 392000,
+      "isrc": "USAM19500487",
       "ids": {
         "appleMusic": "1713553496"
       }
@@ -186,8 +252,14 @@
       "artist": "Rob Zombie",
       "album": "Rock and Rap Workout",
       "durationMs": 265160,
+      "isrc": "USIR10300268",
       "ids": {
         "appleMusic": "1607057151"
+      },
+      "features": {
+        "bpm": 140.1,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -195,8 +267,14 @@
       "artist": "P.O.D.",
       "album": "The Matrix Reloaded: The Album (Music from the Motion Picture)",
       "durationMs": 203733,
+      "isrc": "USAT20300684",
       "ids": {
         "appleMusic": "328871609"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
@@ -204,8 +282,14 @@
       "artist": "Unloco",
       "album": "Becoming i",
       "durationMs": 156160,
+      "isrc": "USMV20200186",
       "ids": {
         "appleMusic": "1054084"
+      },
+      "features": {
+        "bpm": 132.09,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -213,8 +297,14 @@
       "artist": "Don Davis",
       "album": "Matrix Revolutions (The Motion Picture Soundtrack)",
       "durationMs": 85200,
+      "isrc": "USMV20300231",
       "ids": {
         "appleMusic": "298704446"
+      },
+      "features": {
+        "bpm": 106.8,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -222,8 +312,14 @@
       "artist": "Naeleck \u0026 Oddity",
       "album": "Gaming Music 2020",
       "durationMs": 254769,
+      "isrc": "GBKQU1524511",
       "ids": {
         "appleMusic": "1507367430"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -231,8 +327,14 @@
       "artist": "Juno Reactor vs. Don Davis",
       "album": "Matrix Revolutions: (Music from the Motion Picture)",
       "durationMs": 163200,
+      "isrc": "USMV20300228",
       "ids": {
         "appleMusic": "298755747"
+      },
+      "features": {
+        "bpm": 145.6,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -240,8 +342,14 @@
       "artist": "Juno Reactor vs. Don Davis",
       "album": "Matrix Revolutions (The Motion Picture Soundtrack)",
       "durationMs": 201133,
+      "isrc": "USMV20300229",
       "ids": {
         "appleMusic": "298704442"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -249,8 +357,14 @@
       "artist": "Pale 3",
       "album": "Matrix Revolutions (The Motion Picture Soundtrack)",
       "durationMs": 226227,
+      "isrc": "USMV20300230",
       "ids": {
         "appleMusic": "298704443"
+      },
+      "features": {
+        "bpm": 183.8,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -258,6 +372,7 @@
       "artist": "Fukkk Offf \u0026 Cult Classique",
       "album": "Loudness War - EP",
       "durationMs": 333938,
+      "isrc": "GBKQU1968525",
       "ids": {
         "appleMusic": "1471623795"
       }
@@ -276,8 +391,14 @@
       "artist": "Juno Reactor vs. Don Davis",
       "album": "Matrix Revolutions: (Music from the Motion Picture)",
       "durationMs": 548867,
+      "isrc": "USMV20300242",
       "ids": {
         "appleMusic": "298755762"
+      },
+      "features": {
+        "bpm": 135.1,
+        "gain": -10.7,
+        "source": "deezer"
       }
     },
     {
@@ -285,8 +406,14 @@
       "artist": "Propellerheads",
       "album": "Decksandrumsandrockandroll",
       "durationMs": 420067,
+      "isrc": "GBCRC9700040",
       "ids": {
         "appleMusic": "540024593"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -294,8 +421,14 @@
       "artist": "Propellerheads",
       "album": "Spybreak! (Pink) - EP",
       "durationMs": 244400,
+      "isrc": "BEP011820006",
       "ids": {
         "appleMusic": "1396741481"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -10.8,
+        "source": "deezer"
       }
     }
   ]

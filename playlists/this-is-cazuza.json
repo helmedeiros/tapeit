@@ -6,6 +6,7 @@
       "artist": "Cazuza",
       "album": "Exagerado",
       "durationMs": 222696,
+      "isrc": "BRRGE8500044",
       "ids": {
         "appleMusic": "677125769"
       }
@@ -15,8 +16,14 @@
       "artist": "Cazuza",
       "album": "Ideologia",
       "durationMs": 173267,
+      "isrc": "BRPGD8800011",
       "ids": {
         "appleMusic": "1442275333"
+      },
+      "features": {
+        "bpm": 144.1,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -24,6 +31,7 @@
       "artist": "Cazuza",
       "album": "O Tempo Não Pára (Ao Vivo)",
       "durationMs": 280267,
+      "isrc": "BRPGD8800024",
       "ids": {
         "appleMusic": "1582273064"
       }
@@ -33,6 +41,7 @@
       "artist": "Silva \u0026 Cazuza",
       "album": "Preciso Dizer Que Te Amo - Single",
       "durationMs": 233991,
+      "isrc": "BRRGE2300593",
       "ids": {
         "appleMusic": "1701479135"
       }
@@ -51,8 +60,14 @@
       "artist": "Cazuza",
       "album": "Ideologia",
       "durationMs": 246293,
+      "isrc": "BRPGD8800026",
       "ids": {
         "appleMusic": "1442274761"
+      },
+      "features": {
+        "bpm": 132.5,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +75,14 @@
       "artist": "Cazuza",
       "album": "Minha História",
       "durationMs": 215400,
+      "isrc": "BRPGD8800028",
       "ids": {
         "appleMusic": "1443659793"
+      },
+      "features": {
+        "bpm": 122.3,
+        "gain": -13.4,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +90,14 @@
       "artist": "Cazuza",
       "album": "Burguesia",
       "durationMs": 175040,
+      "isrc": "BRMCA8900069",
       "ids": {
         "appleMusic": "1442438943"
+      },
+      "features": {
+        "bpm": 90.3,
+        "gain": -14.3,
+        "source": "deezer"
       }
     },
     {
@@ -78,8 +105,14 @@
       "artist": "Cazuza",
       "album": "I Love MPB: O Nosso Amor a Gente Inventa",
       "durationMs": 203333,
+      "isrc": "BRSGL8800033",
       "ids": {
         "appleMusic": "1442466605"
+      },
+      "features": {
+        "bpm": 91.9,
+        "gain": -11.9,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +120,14 @@
       "artist": "Cazuza",
       "album": "O Tempo Não Pára (Ao Vivo)",
       "durationMs": 169973,
+      "isrc": "BRMCA8800071",
       "ids": {
         "appleMusic": "1582272988"
+      },
+      "features": {
+        "bpm": 136,
+        "gain": -14.8,
+        "source": "deezer"
       }
     },
     {
@@ -96,8 +135,14 @@
       "artist": "Cazuza",
       "album": "Ideologia",
       "durationMs": 256507,
+      "isrc": "BRMCA8800070",
       "ids": {
         "appleMusic": "1442275046"
+      },
+      "features": {
+        "bpm": 118.1,
+        "gain": -14.6,
+        "source": "deezer"
       }
     },
     {
@@ -105,6 +150,7 @@
       "artist": "Cazuza",
       "album": "Exagerado",
       "durationMs": 185968,
+      "isrc": "BRRGE8500024",
       "ids": {
         "appleMusic": "677125949"
       }
@@ -114,8 +160,14 @@
       "artist": "Cazuza",
       "album": "Exagerado 3.0 - Single",
       "durationMs": 226141,
+      "isrc": "BRRGE1502405",
       "ids": {
         "appleMusic": "998615556"
+      },
+      "features": {
+        "bpm": 136,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -123,8 +175,14 @@
       "artist": "Cazuza",
       "album": "Ideologia",
       "durationMs": 218160,
+      "isrc": "BRMCA8800017",
       "ids": {
         "appleMusic": "1442275038"
+      },
+      "features": {
+        "bpm": 98.7,
+        "gain": -12.9,
+        "source": "deezer"
       }
     },
     {
@@ -132,8 +190,14 @@
       "artist": "Cazuza",
       "album": "O Tempo Não Pára (Ao Vivo)",
       "durationMs": 259360,
+      "isrc": "BRMCA8800072",
       "ids": {
         "appleMusic": "1582272974"
+      },
+      "features": {
+        "bpm": 137.4,
+        "gain": -14.1,
+        "source": "deezer"
       }
     },
     {
@@ -141,6 +205,7 @@
       "artist": "Carol Biazin \u0026 Cazuza",
       "album": "Exagerados - EP",
       "durationMs": 149000,
+      "isrc": "BRUM72300392",
       "ids": {
         "appleMusic": "1692842873"
       }
@@ -150,8 +215,14 @@
       "artist": "Cazuza",
       "album": "Novo Millennium: Cazuza",
       "durationMs": 234587,
+      "isrc": "BRMCA8700083",
       "ids": {
         "appleMusic": "1442631623"
+      },
+      "features": {
+        "bpm": 112.3,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -159,8 +230,14 @@
       "artist": "Cazuza",
       "album": "Ideologia",
       "durationMs": 186893,
+      "isrc": "BRMCA8800018",
       "ids": {
         "appleMusic": "1442275059"
+      },
+      "features": {
+        "bpm": 122,
+        "gain": -15.6,
+        "source": "deezer"
       }
     },
     {
@@ -168,6 +245,7 @@
       "artist": "Cazuza",
       "album": "Exagerado",
       "durationMs": 201226,
+      "isrc": "BRRGE8500019",
       "ids": {
         "appleMusic": "677125947"
       }
@@ -177,8 +255,14 @@
       "artist": "Cazuza",
       "album": "Novo Millennium: Cazuza",
       "durationMs": 164813,
+      "isrc": "BRMCA8700025",
       "ids": {
         "appleMusic": "1442632214"
+      },
+      "features": {
+        "bpm": 143.6,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -186,8 +270,14 @@
       "artist": "Cazuza",
       "album": "Ideologia",
       "durationMs": 193173,
+      "isrc": "BRMCA8800058",
       "ids": {
         "appleMusic": "1442275035"
+      },
+      "features": {
+        "bpm": 123.8,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -195,8 +285,14 @@
       "artist": "Cazuza",
       "album": "Exagerado",
       "durationMs": 223375,
+      "isrc": "BRRGE8500049",
       "ids": {
         "appleMusic": "677125847"
+      },
+      "features": {
+        "bpm": 110.84,
+        "gain": -15.6,
+        "source": "deezer"
       }
     },
     {
@@ -204,6 +300,7 @@
       "artist": "Mahmundi \u0026 Cazuza",
       "album": "Exagerados - EP",
       "durationMs": 163427,
+      "isrc": "BRUM72300390",
       "ids": {
         "appleMusic": "1692842870"
       }
@@ -213,8 +310,14 @@
       "artist": "Cazuza",
       "album": "I Love MPB: O Nosso Amor a Gente Inventa",
       "durationMs": 244667,
+      "isrc": "BRMCA8700084",
       "ids": {
         "appleMusic": "1442466609"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -222,6 +325,7 @@
       "artist": "Cazuza \u0026 Ney Matogrosso",
       "album": "Exagerado",
       "durationMs": 188388,
+      "isrc": "BRUM71703083",
       "ids": {
         "appleMusic": "1442269592"
       }
@@ -231,6 +335,7 @@
       "artist": "Cazuza",
       "album": "Exagerado",
       "durationMs": 260606,
+      "isrc": "BRRGE8500020",
       "ids": {
         "appleMusic": "677125790"
       }
@@ -249,8 +354,14 @@
       "artist": "Cazuza",
       "album": "Só Se For a Dois",
       "durationMs": 199867,
+      "isrc": "BRMCA8700116",
       "ids": {
         "appleMusic": "1442278098"
+      },
+      "features": {
+        "bpm": 117.1,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -267,6 +378,7 @@
       "artist": "Luiza Martins \u0026 Cazuza",
       "album": "Codinome Beija-Flor - Single",
       "durationMs": 153965,
+      "isrc": "BRRGE2300644",
       "ids": {
         "appleMusic": "1701497463"
       }
@@ -285,8 +397,14 @@
       "artist": "Cazuza",
       "album": "Só Se For a Dois",
       "durationMs": 226200,
+      "isrc": "BRMCA8700115",
       "ids": {
         "appleMusic": "1442278102"
+      },
+      "features": {
+        "bpm": 155.4,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -294,8 +412,14 @@
       "artist": "Cazuza",
       "album": "Minha História",
       "durationMs": 332200,
+      "isrc": "BRUM70500075",
       "ids": {
         "appleMusic": "1443660187"
+      },
+      "features": {
+        "bpm": 122.7,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -312,8 +436,14 @@
       "artist": "Cazuza",
       "album": "Por Aí...",
       "durationMs": 208333,
+      "isrc": "BRUM70601231",
       "ids": {
         "appleMusic": "1442639968"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -321,8 +451,14 @@
       "artist": "Cazuza",
       "album": "Burguesia",
       "durationMs": 225800,
+      "isrc": "BRUM70500090",
       "ids": {
         "appleMusic": "1442439051"
+      },
+      "features": {
+        "bpm": 144.6,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -330,6 +466,7 @@
       "artist": "Bryan Behr \u0026 Cazuza",
       "album": "Exagerados - EP",
       "durationMs": 207613,
+      "isrc": "BRUM72300391",
       "ids": {
         "appleMusic": "1692842871"
       }
@@ -348,6 +485,7 @@
       "artist": "Cazuza",
       "album": "A Arte De Cazuza",
       "durationMs": 133093,
+      "isrc": "BRPGD8900001",
       "ids": {
         "appleMusic": "1567456047"
       }
@@ -357,8 +495,14 @@
       "artist": "Cazuza",
       "album": "Minha História",
       "durationMs": 112267,
+      "isrc": "BRUM70500083",
       "ids": {
         "appleMusic": "1443660178"
+      },
+      "features": {
+        "bpm": 159.6,
+        "gain": -11.4,
+        "source": "deezer"
       }
     },
     {
@@ -366,6 +510,7 @@
       "artist": "Cazuza",
       "album": "Melhores Momentos",
       "durationMs": 184427,
+      "isrc": "BRSGL8600001",
       "ids": {
         "appleMusic": "1016474712"
       }
@@ -375,8 +520,14 @@
       "artist": "Cazuza",
       "album": "Por Aí...",
       "durationMs": 189507,
+      "isrc": "BRUM70601226",
       "ids": {
         "appleMusic": "1442639689"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -384,6 +535,7 @@
       "artist": "Cazuza",
       "album": "Mina - Single",
       "durationMs": 177125,
+      "isrc": "BRUM72100861",
       "ids": {
         "appleMusic": "1573862393"
       }
@@ -393,8 +545,14 @@
       "artist": "Cazuza",
       "album": "Burguesia",
       "durationMs": 217427,
+      "isrc": "BRUM70500087",
       "ids": {
         "appleMusic": "1442439047"
+      },
+      "features": {
+        "bpm": 101.8,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -411,6 +569,7 @@
       "artist": "Celso Blues Boy",
       "album": "Vagabundo Errante",
       "durationMs": 301813,
+      "isrc": "BRMPQ1500003",
       "ids": {
         "appleMusic": "991182225"
       }

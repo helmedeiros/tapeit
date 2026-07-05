@@ -6,6 +6,7 @@
       "artist": "Jon Batiste",
       "album": "Black Mozart",
       "durationMs": 235224,
+      "isrc": "USUG12604119",
       "ids": {
         "appleMusic": "6764654544"
       }
@@ -15,6 +16,7 @@
       "artist": "Houndmouth",
       "album": "Lordy",
       "durationMs": 169000,
+      "isrc": "USDMG2666809",
       "ids": {
         "appleMusic": "1886482358"
       }
@@ -24,6 +26,7 @@
       "artist": "Elis Regina",
       "album": "Altos E Baixos (Sashet Lo-Fi Remix) - Single",
       "durationMs": 300000,
+      "isrc": "US83Z2604536",
       "ids": {
         "appleMusic": "6778402367"
       }
@@ -42,6 +45,7 @@
       "artist": "Martin Garrix \u0026 Ed Sheeran",
       "album": "Repeat It - Single",
       "durationMs": 191716,
+      "isrc": "NLM5S2602811",
       "ids": {
         "appleMusic": "6764277864"
       }
@@ -51,6 +55,7 @@
       "artist": "Semisonic",
       "album": "Don't Give Up Yet - Single",
       "durationMs": 202957,
+      "isrc": "QM6P42670110",
       "ids": {
         "appleMusic": "6766684997"
       }
@@ -60,6 +65,7 @@
       "artist": "Simply Three",
       "album": "Magnolia - Single",
       "durationMs": 182498,
+      "isrc": "QZ9LV2600002",
       "ids": {
         "appleMusic": "6772458556"
       }
@@ -78,6 +84,7 @@
       "artist": "Planta e Raiz \u0026 Parmi",
       "album": "Pode Celebrar - Single",
       "durationMs": 182659,
+      "isrc": "BXR1L2600001",
       "ids": {
         "appleMusic": "6773904486"
       }
@@ -87,6 +94,7 @@
       "artist": "Corey King",
       "album": "Change the Wind",
       "durationMs": 224693,
+      "isrc": "US78L2630606",
       "ids": {
         "appleMusic": "1889998607"
       }
@@ -96,6 +104,7 @@
       "artist": "Ne-Yo",
       "album": "Highway 79",
       "durationMs": 282201,
+      "isrc": "QZJ842604425",
       "ids": {
         "appleMusic": "6770614885"
       }
@@ -114,6 +123,7 @@
       "artist": "Jack White",
       "album": "Frozen Charlotte",
       "durationMs": 162213,
+      "isrc": "US3JJ2601446",
       "ids": {
         "appleMusic": "6766302435"
       }
@@ -123,6 +133,7 @@
       "artist": "Electric Callboy",
       "album": "TANZNEID",
       "durationMs": 210914,
+      "isrc": "GBDHC2549607",
       "ids": {
         "appleMusic": "1890191478"
       }
@@ -132,6 +143,7 @@
       "artist": "The Rolling Stones",
       "album": "Official FIFA World Cup 2026™ Album",
       "durationMs": 298503,
+      "isrc": "GBUM72603673",
       "ids": {
         "appleMusic": "6776010607"
       }
@@ -141,6 +153,7 @@
       "artist": "Alex Warren",
       "album": "WILDCHILD",
       "durationMs": 159771,
+      "isrc": "USAT22602850",
       "ids": {
         "appleMusic": "6773456081"
       }
@@ -150,8 +163,14 @@
       "artist": "Nando Reis",
       "album": "Drês",
       "durationMs": 343813,
+      "isrc": "BRUM70900236",
       "ids": {
         "appleMusic": "1442359256"
+      },
+      "features": {
+        "bpm": 182.9,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -168,6 +187,7 @@
       "artist": "Interpol",
       "album": "This Mirror Weighs a Ton",
       "durationMs": 296747,
+      "isrc": "USBQU2600032",
       "ids": {
         "appleMusic": "6768694734"
       }
@@ -177,8 +197,14 @@
       "artist": "No Te Va Gustar",
       "album": "Aunque Cueste Ver el Sol",
       "durationMs": 244093,
+      "isrc": "UYB140700106",
       "ids": {
         "appleMusic": "257490338"
+      },
+      "features": {
+        "bpm": 95,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -186,6 +212,7 @@
       "artist": "Katy Perry \u0026 Chief Keef",
       "album": "Legendary Lovers (Save Me) - Single",
       "durationMs": 177311,
+      "isrc": "USUM72604541",
       "ids": {
         "appleMusic": "6774307090"
       }
@@ -195,6 +222,7 @@
       "artist": "Weezer",
       "album": "Weezer",
       "durationMs": 214347,
+      "isrc": "USRE12600121",
       "ids": {
         "appleMusic": "6772365051"
       }
@@ -204,6 +232,7 @@
       "artist": "Smash Mouth",
       "album": "Better Believer - Single",
       "durationMs": 186944,
+      "isrc": "QT4K42608793",
       "ids": {
         "appleMusic": "6768076467"
       }
@@ -213,6 +242,7 @@
       "artist": "Boy Throb \u0026 Kesha",
       "album": "DJ Turn It Down - Single",
       "durationMs": 155847,
+      "isrc": "QT8JC2645413",
       "ids": {
         "appleMusic": "6774708115"
       }
@@ -231,6 +261,7 @@
       "artist": "Belle and Sebastian",
       "album": "It Only Takes One Lion - Single",
       "durationMs": 253243,
+      "isrc": "USMTD2600107",
       "ids": {
         "appleMusic": "6767207496"
       }
@@ -258,6 +289,7 @@
       "artist": "Bebe Rexha \u0026 David Guetta",
       "album": "DIRTY BLONDE",
       "durationMs": 168772,
+      "isrc": "USUYG1791772",
       "ids": {
         "appleMusic": "1891886776"
       }
@@ -276,6 +308,7 @@
       "artist": "Faouzia",
       "album": "FILM NOIR (fin)",
       "durationMs": 247990,
+      "isrc": "QM24S2603013",
       "ids": {
         "appleMusic": "6771926850"
       }
@@ -294,6 +327,7 @@
       "artist": "Hans Zimmer",
       "album": "Euphoria: Season 3 (HBO Original Series Soundtrack)",
       "durationMs": 170981,
+      "isrc": "USQX92603157",
       "ids": {
         "appleMusic": "6771859148"
       }
@@ -321,6 +355,7 @@
       "artist": "The Macarons Project",
       "album": "Bunga Maaf - Single",
       "durationMs": 287986,
+      "isrc": "QT3F22628436",
       "ids": {
         "appleMusic": "6776963724"
       }

@@ -6,8 +6,14 @@
       "artist": "The Vines",
       "album": "Get Free - EP",
       "durationMs": 127987,
+      "isrc": "USCA20200462",
       "ids": {
         "appleMusic": "724219595"
+      },
+      "features": {
+        "bpm": 138.7,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "The Vines",
       "album": "Winning Days",
       "durationMs": 156213,
+      "isrc": "USCA20300806",
       "ids": {
         "appleMusic": "716154413"
+      },
+      "features": {
+        "bpm": 125.7,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +36,14 @@
       "artist": "The Vines",
       "album": "Wicked Nature",
       "durationMs": 145976,
+      "isrc": "AUPF31400147",
       "ids": {
         "appleMusic": "907364644"
+      },
+      "features": {
+        "bpm": 136.9,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -33,21 +51,39 @@
       "artist": "The Vines",
       "album": "Don't Listen to the Radio - Single",
       "durationMs": 131840,
+      "isrc": "USCA20600442",
       "ids": {
         "appleMusic": "721208453"
+      },
+      "features": {
+        "bpm": 134.2,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
       "title": "Outtathaway",
-      "artist": "The Vines"
+      "artist": "The Vines",
+      "isrc": "USCA20200464",
+      "features": {
+        "bpm": 133.8,
+        "gain": -7.5,
+        "source": "deezer"
+      }
     },
     {
       "title": "Black Dragon",
       "artist": "The Vines",
       "album": "Future Primitive",
       "durationMs": 208987,
+      "isrc": "AUBM01100082",
       "ids": {
         "appleMusic": "438399352"
+      },
+      "features": {
+        "bpm": 138.7,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -55,8 +91,14 @@
       "artist": "The Vines",
       "album": "Wicked Nature",
       "durationMs": 144860,
+      "isrc": "AUPF31400145",
       "ids": {
         "appleMusic": "907364642"
+      },
+      "features": {
+        "bpm": 132.1,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -64,8 +106,14 @@
       "artist": "The Vines",
       "album": "Winning Days",
       "durationMs": 213547,
+      "isrc": "USCA20300813",
       "ids": {
         "appleMusic": "716351137"
+      },
+      "features": {
+        "bpm": 106,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -73,8 +121,14 @@
       "artist": "The Vines",
       "album": "Highly Evolved",
       "durationMs": 192267,
+      "isrc": "USCA20200468",
       "ids": {
         "appleMusic": "724725602"
+      },
+      "features": {
+        "bpm": 115.8,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -82,8 +136,14 @@
       "artist": "The Vines",
       "album": "In Miracle Land",
       "durationMs": 100753,
+      "isrc": "AUMGB1600486",
       "ids": {
         "appleMusic": "1391453777"
+      },
+      "features": {
+        "bpm": 126.82,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -91,8 +151,14 @@
       "artist": "The Vines",
       "album": "Wicked Nature",
       "durationMs": 204030,
+      "isrc": "AUPF31400149",
       "ids": {
         "appleMusic": "907364646"
+      },
+      "features": {
+        "bpm": 88,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -100,8 +166,14 @@
       "artist": "The Vines",
       "album": "Winning Days",
       "durationMs": 227000,
+      "isrc": "USCA20300810",
       "ids": {
         "appleMusic": "724242242"
+      },
+      "features": {
+        "bpm": 131.7,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -109,8 +181,14 @@
       "artist": "The Vines",
       "album": "Highly Evolved",
       "durationMs": 94427,
+      "isrc": "USCA20200473",
       "ids": {
         "appleMusic": "724725491"
+      },
+      "features": {
+        "bpm": 131.7,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -118,8 +196,14 @@
       "artist": "The Vines",
       "album": "In Miracle Land",
       "durationMs": 135808,
+      "isrc": "AUMGB1600482",
       "ids": {
         "appleMusic": "1391453773"
+      },
+      "features": {
+        "bpm": 123.05,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -127,8 +211,14 @@
       "artist": "The Vines",
       "album": "Wicked Nature",
       "durationMs": 122951,
+      "isrc": "AUPF31400148",
       "ids": {
         "appleMusic": "907364645"
+      },
+      "features": {
+        "bpm": 142.1,
+        "gain": -6.1,
+        "source": "deezer"
       }
     },
     {
@@ -136,8 +226,14 @@
       "artist": "The Vines",
       "album": "Winning Days",
       "durationMs": 208293,
+      "isrc": "USCA20300807",
       "ids": {
         "appleMusic": "724242241"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -145,8 +241,14 @@
       "artist": "The Vines",
       "album": "Highly Evolved",
       "durationMs": 137733,
+      "isrc": "USCA20200463",
       "ids": {
         "appleMusic": "724725495"
+      },
+      "features": {
+        "bpm": 132.9,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -154,8 +256,14 @@
       "artist": "The Vines",
       "album": "In Miracle Land",
       "durationMs": 240917,
+      "isrc": "AUMGB1600485",
       "ids": {
         "appleMusic": "1391453776"
+      },
+      "features": {
+        "bpm": 189.65,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -163,8 +271,14 @@
       "artist": "The Vines",
       "album": "Wicked Nature",
       "durationMs": 149388,
+      "isrc": "AUPF31400146",
       "ids": {
         "appleMusic": "907364643"
+      },
+      "features": {
+        "bpm": 106,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
@@ -172,8 +286,14 @@
       "artist": "The Vines",
       "album": "Winning Days",
       "durationMs": 194147,
+      "isrc": "USCA20300811",
       "ids": {
         "appleMusic": "716154449"
+      },
+      "features": {
+        "bpm": 122,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -181,8 +301,14 @@
       "artist": "The Vines",
       "album": "Highly Evolved",
       "durationMs": 293160,
+      "isrc": "USCA20200466",
       "ids": {
         "appleMusic": "724725512"
+      },
+      "features": {
+        "bpm": 132.5,
+        "gain": -11.1,
+        "source": "deezer"
       }
     },
     {
@@ -190,8 +316,14 @@
       "artist": "The Vines",
       "album": "Vision Valley",
       "durationMs": 115493,
+      "isrc": "USCA20600347",
       "ids": {
         "appleMusic": "715907488"
+      },
+      "features": {
+        "bpm": 125.3,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -199,21 +331,39 @@
       "artist": "The Vines",
       "album": "Wicked Nature",
       "durationMs": 219814,
+      "isrc": "AUPF31400166",
       "ids": {
         "appleMusic": "907364667"
+      },
+      "features": {
+        "bpm": 119.2,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
       "title": "Fuck The World",
-      "artist": "The Vines"
+      "artist": "The Vines",
+      "isrc": "USCA20300790",
+      "features": {
+        "bpm": 134.7,
+        "gain": -7.3,
+        "source": "deezer"
+      }
     },
     {
       "title": "Goodbye",
       "artist": "The Vines",
       "album": "Future Primitive",
       "durationMs": 134267,
+      "isrc": "AUBM01100084",
       "ids": {
         "appleMusic": "438399358"
+      },
+      "features": {
+        "bpm": 134.7,
+        "gain": -11.8,
+        "source": "deezer"
       }
     },
     {
@@ -221,8 +371,14 @@
       "artist": "The Vines",
       "album": "In Miracle Land",
       "durationMs": 164785,
+      "isrc": "AUMGB1600480",
       "ids": {
         "appleMusic": "1391453529"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -230,6 +386,7 @@
       "artist": "The Vines",
       "album": "Melodia",
       "durationMs": 130693,
+      "isrc": "AULI00846530",
       "ids": {
         "appleMusic": "1654010292"
       }
@@ -239,8 +396,14 @@
       "artist": "The Vines",
       "album": "Vision Valley",
       "durationMs": 162427,
+      "isrc": "USCA20600350",
       "ids": {
         "appleMusic": "715907511"
+      },
+      "features": {
+        "bpm": 127.2,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -248,8 +411,14 @@
       "artist": "The Vines",
       "album": "Future Primitive",
       "durationMs": 111960,
+      "isrc": "AUBM01100078",
       "ids": {
         "appleMusic": "438399342"
+      },
+      "features": {
+        "bpm": 145.1,
+        "gain": -4.9,
+        "source": "deezer"
       }
     },
     {
@@ -257,6 +426,7 @@
       "artist": "The Vines",
       "album": "In Miracle Land",
       "durationMs": 124269,
+      "isrc": "AUMGB1600490",
       "ids": {
         "appleMusic": "1391453781"
       }
@@ -266,6 +436,7 @@
       "artist": "The Vines",
       "album": "He's a Rocker - EP",
       "durationMs": 116947,
+      "isrc": "AULI00846560",
       "ids": {
         "appleMusic": "280913828"
       }
@@ -275,8 +446,14 @@
       "artist": "The Vines",
       "album": "Vision Valley",
       "durationMs": 367000,
+      "isrc": "USCA20600356",
       "ids": {
         "appleMusic": "715907740"
+      },
+      "features": {
+        "bpm": 116.8,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -284,8 +461,14 @@
       "artist": "The Vines",
       "album": "Future Primitive",
       "durationMs": 200133,
+      "isrc": "AUBM01100077",
       "ids": {
         "appleMusic": "438399346"
+      },
+      "features": {
+        "bpm": 100.8,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -293,8 +476,14 @@
       "artist": "The Vines",
       "album": "In Miracle Land",
       "durationMs": 160560,
+      "isrc": "AUMGB1600487",
       "ids": {
         "appleMusic": "1391453778"
+      },
+      "features": {
+        "bpm": 140.15,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -302,21 +491,34 @@
       "artist": "The Vines",
       "album": "Melodia",
       "durationMs": 367213,
+      "isrc": "AULI00846590",
       "ids": {
         "appleMusic": "1654010624"
       }
     },
     {
       "title": "F*k Yeh",
-      "artist": "The Vines"
+      "artist": "The Vines",
+      "isrc": "USCA20600352",
+      "features": {
+        "bpm": 135.1,
+        "gain": -5.9,
+        "source": "deezer"
+      }
     },
     {
       "title": "Future Primitive",
       "artist": "The Vines",
       "album": "Future Primitive",
       "durationMs": 114907,
+      "isrc": "AUBM01100073",
       "ids": {
         "appleMusic": "438399350"
+      },
+      "features": {
+        "bpm": 144.6,
+        "gain": -6.1,
+        "source": "deezer"
       }
     },
     {
@@ -324,6 +526,7 @@
       "artist": "The Vines",
       "album": "Melodia",
       "durationMs": 113720,
+      "isrc": "AULI00846550",
       "ids": {
         "appleMusic": "1654010606"
       }
@@ -333,8 +536,14 @@
       "artist": "The Vines",
       "album": "Vision Valley (Bonus Track Version)",
       "durationMs": 162547,
+      "isrc": "USCA20600351",
       "ids": {
         "appleMusic": "716371470"
+      },
+      "features": {
+        "bpm": 101.6,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -342,8 +551,14 @@
       "artist": "The Vines",
       "album": "Future Primitive",
       "durationMs": 121920,
+      "isrc": "AUBM01100080",
       "ids": {
         "appleMusic": "438399347"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -5.6,
+        "source": "deezer"
       }
     },
     {
@@ -351,6 +566,7 @@
       "artist": "The Vines",
       "album": "Melodia",
       "durationMs": 120147,
+      "isrc": "AULI00846650",
       "ids": {
         "appleMusic": "1654011301"
       }
@@ -360,6 +576,7 @@
       "artist": "The Vines",
       "album": "Melodia",
       "durationMs": 93613,
+      "isrc": "AULI00846630",
       "ids": {
         "appleMusic": "1654011295"
       }

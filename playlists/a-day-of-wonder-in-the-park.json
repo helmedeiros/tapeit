@@ -6,6 +6,7 @@
       "artist": "Adele",
       "album": "19 (Deluxe Edition)",
       "durationMs": 212040,
+      "isrc": "GBBKS0700586",
       "ids": {
         "appleMusic": "295832779"
       }
@@ -15,6 +16,7 @@
       "artist": "Adele",
       "album": "25",
       "durationMs": 290900,
+      "isrc": "GBBKS1500217",
       "ids": {
         "appleMusic": "1051333208"
       }
@@ -24,6 +26,7 @@
       "artist": "alt-J",
       "album": "This Is All Yours",
       "durationMs": 225018,
+      "isrc": "GBZUZ1400279",
       "ids": {
         "appleMusic": "1620183342"
       }
@@ -33,6 +36,7 @@
       "artist": "Austin Plaine",
       "album": "Happy Folk Songs",
       "durationMs": 196240,
+      "isrc": "USRZR1566301",
       "ids": {
         "appleMusic": "1825222379"
       }
@@ -42,6 +46,7 @@
       "artist": "Austin Plaine",
       "album": "Austin Plaine",
       "durationMs": 187730,
+      "isrc": "USRZR1566304",
       "ids": {
         "appleMusic": "1440932160"
       }
@@ -51,6 +56,7 @@
       "artist": "Austin Plaine",
       "album": "Happy Folk Songs",
       "durationMs": 223920,
+      "isrc": "USRZR1566310",
       "ids": {
         "appleMusic": "1825222386"
       }
@@ -60,8 +66,14 @@
       "artist": "The Barr Brothers",
       "album": "Sleeping Operator",
       "durationMs": 230518,
+      "isrc": "CA0RZ1400025",
       "ids": {
         "appleMusic": "890650370"
+      },
+      "features": {
+        "bpm": 201.7,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -69,6 +81,7 @@
       "artist": "The Collective West",
       "album": "Fire \u0026 the Ocean",
       "durationMs": 241307,
+      "isrc": "CA54P1200002",
       "ids": {
         "appleMusic": "576226401"
       }
@@ -78,6 +91,7 @@
       "artist": "The Collective West",
       "album": "Fire \u0026 the Ocean",
       "durationMs": 217360,
+      "isrc": "CA54P1200007",
       "ids": {
         "appleMusic": "576226406"
       }
@@ -87,6 +101,7 @@
       "artist": "Daughter of the Moon",
       "album": "Daughter of the Moon - EP",
       "durationMs": 288573,
+      "isrc": "CAHRK1800002",
       "ids": {
         "appleMusic": "1434501669"
       }
@@ -96,6 +111,7 @@
       "artist": "Daughter of the Moon",
       "album": "Daughter of the Moon - EP",
       "durationMs": 247253,
+      "isrc": "CAHRK1800003",
       "ids": {
         "appleMusic": "1434501670"
       }
@@ -105,8 +121,14 @@
       "artist": "Eddie Vedder",
       "album": "Earthling Expansion: The Calm Cuts",
       "durationMs": 236307,
+      "isrc": "USJY51700107",
       "ids": {
         "appleMusic": "1623272737"
+      },
+      "features": {
+        "bpm": 162.13,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -114,8 +136,14 @@
       "artist": "The Greeting Committee",
       "album": "Rainy Day Vibes",
       "durationMs": 254750,
+      "isrc": "USUM71701111",
       "ids": {
         "appleMusic": "1620921002"
+      },
+      "features": {
+        "bpm": 125.66,
+        "gain": -12.3,
+        "source": "deezer"
       }
     },
     {
@@ -123,6 +151,7 @@
       "artist": "Harry Styles",
       "album": "Fine Line",
       "durationMs": 259180,
+      "isrc": "USSM11912589",
       "ids": {
         "appleMusic": "1485802974"
       }
@@ -132,6 +161,7 @@
       "artist": "Harry Styles",
       "album": "Fine Line",
       "durationMs": 189784,
+      "isrc": "USSM11912595",
       "ids": {
         "appleMusic": "1485802980"
       }
@@ -141,6 +171,7 @@
       "artist": "Jill Andrews",
       "album": "The War Inside",
       "durationMs": 226967,
+      "isrc": "QMF921550084",
       "ids": {
         "appleMusic": "1029923745"
       }
@@ -150,8 +181,14 @@
       "artist": "KALEO",
       "album": "The Great Outdoors",
       "durationMs": 186907,
+      "isrc": "USAT21601412",
       "ids": {
         "appleMusic": "1683289750"
+      },
+      "features": {
+        "bpm": 126.05,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -159,6 +196,7 @@
       "artist": "Lord Huron",
       "album": "Lonesome Dreams (Bonus Track Version)",
       "durationMs": 284147,
+      "isrc": "US53Q1200031",
       "ids": {
         "appleMusic": "1758066417"
       }
@@ -168,6 +206,7 @@
       "artist": "Lord Huron",
       "album": "Lonesome Dreams (Bonus Track Version)",
       "durationMs": 299360,
+      "isrc": "US53Q1200040",
       "ids": {
         "appleMusic": "1758066908"
       }
@@ -177,8 +216,14 @@
       "artist": "The Lumineers",
       "album": "Cleopatra (Deluxe Edition)",
       "durationMs": 193720,
+      "isrc": "USDMG1673807",
       "ids": {
         "appleMusic": "1754025133"
+      },
+      "features": {
+        "bpm": 116.46,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -186,8 +231,14 @@
       "artist": "The Lumineers",
       "album": "III",
       "durationMs": 231360,
+      "isrc": "USDMG1995102",
       "ids": {
         "appleMusic": "1458527340"
+      },
+      "features": {
+        "bpm": 97.05,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -195,8 +246,14 @@
       "artist": "The Lumineers",
       "album": "The Lumineers",
       "durationMs": 307000,
+      "isrc": "USDMG1260806",
       "ids": {
         "appleMusic": "1754219316"
+      },
+      "features": {
+        "bpm": 124.53,
+        "gain": -16.8,
+        "source": "deezer"
       }
     },
     {
@@ -213,6 +270,7 @@
       "artist": "Mumford \u0026 Sons",
       "album": "Sigh No More",
       "durationMs": 173413,
+      "isrc": "GBUM70909098",
       "ids": {
         "appleMusic": "1440751168"
       }
@@ -231,8 +289,14 @@
       "artist": "The New Pornographers",
       "album": "Challengers",
       "durationMs": 211533,
+      "isrc": "USMTD0777003",
       "ids": {
         "appleMusic": "1589232738"
+      },
+      "features": {
+        "bpm": 166.7,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -240,8 +304,14 @@
       "artist": "The Staves",
       "album": "The Motherlode - Single",
       "durationMs": 267176,
+      "isrc": "GBAHS1200087",
       "ids": {
         "appleMusic": "512566053"
+      },
+      "features": {
+        "bpm": 110.8,
+        "gain": -14.3,
+        "source": "deezer"
       }
     },
     {
@@ -249,8 +319,14 @@
       "artist": "The Staves",
       "album": "Dead \u0026 Born \u0026 Grown",
       "durationMs": 159533,
+      "isrc": "GBAHS1200392",
       "ids": {
         "appleMusic": "574887648"
+      },
+      "features": {
+        "bpm": 83.5,
+        "gain": -14.7,
+        "source": "deezer"
       }
     },
     {
@@ -258,8 +334,14 @@
       "artist": "The Staves",
       "album": "Dead \u0026 Born \u0026 Grown",
       "durationMs": 173147,
+      "isrc": "GBAHS1200394",
       "ids": {
         "appleMusic": "574887710"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -18.3,
+        "source": "deezer"
       }
     },
     {
@@ -267,6 +349,7 @@
       "artist": "Tall Heights",
       "album": "Holding On, Holding Out - EP",
       "durationMs": 218760,
+      "isrc": "US3E41500053",
       "ids": {
         "appleMusic": "6778082291"
       }
@@ -276,6 +359,7 @@
       "artist": "Tall Heights",
       "album": "Rafters - EP",
       "durationMs": 332501,
+      "isrc": "USHM81161437",
       "ids": {
         "appleMusic": "1521902541"
       }
@@ -285,8 +369,14 @@
       "artist": "Tired Pony",
       "album": "The Ghost of the Mountain",
       "durationMs": 256160,
+      "isrc": "GBUM71303531",
       "ids": {
         "appleMusic": "1444038756"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -11.7,
+        "source": "deezer"
       }
     },
     {
@@ -294,8 +384,14 @@
       "artist": "You+Me",
       "album": "rose ave.",
       "durationMs": 212903,
+      "isrc": "USRC11402070",
       "ids": {
         "appleMusic": "916315761"
+      },
+      "features": {
+        "bpm": 168.1,
+        "gain": -15.8,
+        "source": "deezer"
       }
     },
     {
@@ -303,8 +399,14 @@
       "artist": "You+Me",
       "album": "rose ave.",
       "durationMs": 221294,
+      "isrc": "USRC11402065",
       "ids": {
         "appleMusic": "916318992"
+      },
+      "features": {
+        "bpm": 126.8,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -312,8 +414,14 @@
       "artist": "You+Me",
       "album": "rose ave.",
       "durationMs": 221226,
+      "isrc": "USRC11402063",
       "ids": {
         "appleMusic": "916319010"
+      },
+      "features": {
+        "bpm": 155.4,
+        "gain": -13.3,
+        "source": "deezer"
       }
     },
     {
@@ -321,6 +429,7 @@
       "artist": "The Low \u0026 Plenty",
       "album": "Modest House Sessions (Live at the Grand Stafford Theater) - Single",
       "durationMs": 288299,
+      "isrc": "USCGH2058449",
       "ids": {
         "appleMusic": "1496906335"
       }
@@ -330,6 +439,7 @@
       "artist": "The Low \u0026 Plenty",
       "album": "Modest House Sessions (Live at the Grand Stafford Theater) - Single",
       "durationMs": 199837,
+      "isrc": "USCGH2058450",
       "ids": {
         "appleMusic": "1496906342"
       }
@@ -339,6 +449,7 @@
       "artist": "The Low \u0026 Plenty",
       "album": "Modest House Sessions (Live at the Grand Stafford Theater) - Single",
       "durationMs": 313005,
+      "isrc": "USCGH2058451",
       "ids": {
         "appleMusic": "1496906343"
       }
@@ -348,8 +459,14 @@
       "artist": "Fleetwood Mac",
       "album": "Rumours (Deluxe Edition)",
       "durationMs": 257800,
+      "isrc": "USWB10400046",
       "ids": {
         "appleMusic": "651871679"
+      },
+      "features": {
+        "bpm": 120.2,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -357,8 +474,14 @@
       "artist": "Fleetwood Mac",
       "album": "Fleetwood Mac 1975 to 1987",
       "durationMs": 222400,
+      "isrc": "USRH11602188",
       "ids": {
         "appleMusic": "1792535938"
+      },
+      "features": {
+        "bpm": 119.15,
+        "gain": -12.6,
+        "source": "deezer"
       }
     },
     {
@@ -366,8 +489,14 @@
       "artist": "Fleetwood Mac",
       "album": "Fleetwood Mac",
       "durationMs": 252773,
+      "isrc": "USWB19900188",
       "ids": {
         "appleMusic": "309646664"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -16.7,
+        "source": "deezer"
       }
     },
     {
@@ -375,8 +504,14 @@
       "artist": "Sufjan Stevens",
       "album": "Call Me By Your Name (Original Motion Picture Soundtrack)",
       "durationMs": 248965,
+      "isrc": "US64G1737302",
       "ids": {
         "appleMusic": "1304616729"
+      },
+      "features": {
+        "bpm": 107.95,
+        "gain": -13.7,
+        "source": "deezer"
       }
     },
     {
@@ -384,6 +519,7 @@
       "artist": "Mitski",
       "album": "Retired from Sad, New Career in Business",
       "durationMs": 114277,
+      "isrc": "USHM81309668",
       "ids": {
         "appleMusic": "1635189059"
       }

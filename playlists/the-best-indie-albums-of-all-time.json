@@ -1,25 +1,164 @@
 {
   "name": "The Best Indie Albums of All Time",
   "tracks": [
-    {"title": "A-Punk", "artist": "Vampire Weekend"},
-    {"title": "Dance for You", "artist": "Dirty Projectors"},
-    {"title": "Sprawl II (Mountains Beyond Mountains)", "artist": "Arcade Fire"},
-    {"title": "Obstacle 1", "artist": "Interpol"},
-    {"title": "The Stars of Track and Field", "artist": "Belle and Sebastian"},
-    {"title": "Galaxy of the Lost", "artist": "Lightspeed Champion"},
-    {"title": "Adventure", "artist": "Be Your Own Pet"},
-    {"title": "Take Me Out", "artist": "Franz Ferdinand"},
-    {"title": "Don't Delete the Kisses", "artist": "Wolf Alice"},
-    {"title": "New Slang", "artist": "The Shins"},
-    {"title": "Girls", "artist": "The 1975"},
-    {"title": "Be Sweet", "artist": "Japanese Breakfast"},
-    {"title": "Debaser", "artist": "Pixies"},
-    {"title": "Helicopter", "artist": "Bloc Party"},
-    {"title": "Maps", "artist": "Yeah Yeah Yeahs"},
-    {"title": "Do I Wanna Know?", "artist": "Arctic Monkeys"},
-    {"title": "Common People", "artist": "Pulp"},
-    {"title": "Fell in Love with a Girl", "artist": "The White Stripes"},
-    {"title": "This Charming Man", "artist": "The Smiths"},
-    {"title": "Last Nite", "artist": "The Strokes"}
+    {
+      "title": "A-Punk",
+      "artist": "Vampire Weekend",
+      "isrc": "GBBKS0700527"
+    },
+    {
+      "title": "Dance for You",
+      "artist": "Dirty Projectors",
+      "isrc": "GBCEL1200122",
+      "features": {
+        "bpm": 148.19,
+        "gain": -8.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Sprawl II (Mountains Beyond Mountains)",
+      "artist": "Arcade Fire",
+      "isrc": "GBUM71021646",
+      "features": {
+        "bpm": 99.86,
+        "gain": -9.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Obstacle 1",
+      "artist": "Interpol",
+      "isrc": "USMTD0254502"
+    },
+    {
+      "title": "The Stars of Track and Field",
+      "artist": "Belle and Sebastian"
+    },
+    {
+      "title": "Galaxy of the Lost",
+      "artist": "Lightspeed Champion",
+      "isrc": "GBCEL0700293",
+      "features": {
+        "bpm": 136.45,
+        "gain": -11.3,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Adventure",
+      "artist": "Be Your Own Pet",
+      "isrc": "GBBKS0562706"
+    },
+    {
+      "title": "Take Me Out",
+      "artist": "Franz Ferdinand",
+      "isrc": "GBCEL0300192",
+      "features": {
+        "bpm": 104.4,
+        "gain": -12,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Don't Delete the Kisses",
+      "artist": "Wolf Alice",
+      "isrc": "GBK3W1700561",
+      "features": {
+        "bpm": 121.96,
+        "gain": -8.6,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "New Slang",
+      "artist": "The Shins",
+      "isrc": "USSUB0311671"
+    },
+    {
+      "title": "Girls",
+      "artist": "The 1975",
+      "isrc": "GBK3W1000200",
+      "features": {
+        "bpm": 107.9,
+        "gain": -8.8,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Be Sweet",
+      "artist": "Japanese Breakfast",
+      "isrc": "USJ5G2022502"
+    },
+    {
+      "title": "Debaser",
+      "artist": "Pixies",
+      "isrc": "GBAFL9700091"
+    },
+    {
+      "title": "Helicopter",
+      "artist": "Bloc Party",
+      "isrc": "GBDNH0400364",
+      "features": {
+        "bpm": 170.14,
+        "gain": -7.2,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Maps",
+      "artist": "Yeah Yeah Yeahs",
+      "isrc": "USIR10300259",
+      "features": {
+        "bpm": 119.84,
+        "gain": -7.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "isrc": "GBCEL1300362",
+      "features": {
+        "bpm": 84.89,
+        "gain": -10.1,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Common People",
+      "artist": "Pulp",
+      "isrc": "GBAAN9500078",
+      "features": {
+        "bpm": 156,
+        "gain": -11.1,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Fell in Love with a Girl",
+      "artist": "The White Stripes",
+      "isrc": "GBBKS0100352"
+    },
+    {
+      "title": "This Charming Man",
+      "artist": "The Smiths",
+      "isrc": "GBCRL0800302",
+      "features": {
+        "bpm": 104.1,
+        "gain": -8.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Last Nite",
+      "artist": "The Strokes",
+      "isrc": "USRC10100765",
+      "features": {
+        "bpm": 103.9,
+        "gain": -9.3,
+        "source": "deezer"
+      }
+    }
   ]
 }

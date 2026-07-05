@@ -6,6 +6,7 @@
       "artist": "The Strokes",
       "album": "The New Abnormal",
       "durationMs": 309053,
+      "isrc": "USRC11902726",
       "ids": {
         "appleMusic": "1498121711"
       }
@@ -15,6 +16,7 @@
       "artist": "The Strokes",
       "album": "The New Abnormal",
       "durationMs": 222093,
+      "isrc": "USRC11902727",
       "ids": {
         "appleMusic": "1498121718"
       }
@@ -24,6 +26,7 @@
       "artist": "The Strokes",
       "album": "The New Abnormal",
       "durationMs": 235947,
+      "isrc": "USRC11902728",
       "ids": {
         "appleMusic": "1498121722"
       }
@@ -33,8 +36,14 @@
       "artist": "The Strokes",
       "album": "The New Abnormal",
       "durationMs": 293360,
+      "isrc": "USRC11902729",
       "ids": {
         "appleMusic": "1498121725"
+      },
+      "features": {
+        "bpm": 153.12,
+        "gain": -5.8,
+        "source": "deezer"
       }
     },
     {
@@ -42,6 +51,7 @@
       "artist": "The Strokes",
       "album": "The New Abnormal",
       "durationMs": 375320,
+      "isrc": "USRC11902730",
       "ids": {
         "appleMusic": "1498121734"
       }
@@ -51,6 +61,7 @@
       "artist": "The Strokes",
       "album": "The New Abnormal",
       "durationMs": 310373,
+      "isrc": "USRC11902731",
       "ids": {
         "appleMusic": "1498121946"
       }
@@ -60,6 +71,7 @@
       "artist": "The Strokes",
       "album": "The New Abnormal",
       "durationMs": 275667,
+      "isrc": "USRC11902732",
       "ids": {
         "appleMusic": "1498121950"
       }
@@ -69,6 +81,7 @@
       "artist": "The Strokes",
       "album": "The New Abnormal",
       "durationMs": 337333,
+      "isrc": "USRC11902733",
       "ids": {
         "appleMusic": "1498121953"
       }
@@ -78,6 +91,7 @@
       "artist": "The Strokes",
       "album": "The New Abnormal",
       "durationMs": 351787,
+      "isrc": "USRC11902734",
       "ids": {
         "appleMusic": "1498121956"
       }

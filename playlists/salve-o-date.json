@@ -6,6 +6,7 @@
       "artist": "Belle and Sebastian",
       "album": "Dear Catastrophe Waitress",
       "durationMs": 305400,
+      "isrc": "GBCVZ0300691",
       "ids": {
         "appleMusic": "260060974"
       }
@@ -15,8 +16,14 @@
       "artist": "Robin Schulz",
       "album": "Happiest Wake Up Songs",
       "durationMs": 219043,
+      "isrc": "DEA621501057",
       "ids": {
         "appleMusic": "6766814759"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -24,6 +31,7 @@
       "artist": "Metric",
       "album": "Fantasies",
       "durationMs": 234587,
+      "isrc": "CARB70901906",
       "ids": {
         "appleMusic": "1440946134"
       }
@@ -33,8 +41,14 @@
       "artist": "Morcheeba",
       "album": "Rome Wasn't Built In a Day - Single",
       "durationMs": 214720,
+      "isrc": "GBAHS0004193",
       "ids": {
         "appleMusic": "121065752"
+      },
+      "features": {
+        "bpm": 112,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -42,6 +56,7 @@
       "artist": "Tahiti 80",
       "album": "Puzzle",
       "durationMs": 206600,
+      "isrc": "FR5E79800340",
       "ids": {
         "appleMusic": "686572672"
       }
@@ -51,6 +66,7 @@
       "artist": "Mayer Hawthorne",
       "album": "How Do You Do",
       "durationMs": 221013,
+      "isrc": "USUM71107382",
       "ids": {
         "appleMusic": "1446016656"
       }
@@ -60,6 +76,7 @@
       "artist": "Miike Snow",
       "album": "Miike Snow (Deluxe Edition)",
       "durationMs": 264267,
+      "isrc": "GBARL0900399",
       "ids": {
         "appleMusic": "1798494827"
       }
@@ -69,6 +86,7 @@
       "artist": "Keane",
       "album": "Hopes and Fears",
       "durationMs": 237147,
+      "isrc": "GBUM71307225",
       "ids": {
         "appleMusic": "1440798037"
       }
@@ -77,15 +95,27 @@
       "title": "I Am Mine",
       "artist": "Pearl Jam",
       "album": "Riot Act",
-      "durationMs": 215680
+      "durationMs": 215680,
+      "isrc": "USSM10211351",
+      "features": {
+        "bpm": 161.5,
+        "gain": -7.4,
+        "source": "deezer"
+      }
     },
     {
       "title": "Super Duper Love",
       "artist": "Joss Stone",
       "album": "LOVE 說愛・情歌集",
       "durationMs": 260013,
+      "isrc": "USESC0300041",
       "ids": {
         "appleMusic": "1552772858"
+      },
+      "features": {
+        "bpm": 187.9,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -102,6 +132,7 @@
       "artist": "alt-J",
       "album": "An Awesome Wave",
       "durationMs": 227080,
+      "isrc": "GBZUZ1200028",
       "ids": {
         "appleMusic": "1622205906"
       }
@@ -110,7 +141,13 @@
       "title": "10 Lovers",
       "artist": "The Black Keys",
       "album": "Turn Blue",
-      "durationMs": 213223
+      "durationMs": 213223,
+      "isrc": "USNO11400185",
+      "features": {
+        "bpm": 97.97,
+        "gain": -9.1,
+        "source": "deezer"
+      }
     },
     {
       "title": "One Out of Two (feat. Irfane)",
@@ -135,6 +172,7 @@
       "artist": "Mayer Hawthorne",
       "album": "Where Does This Door Go (Deluxe Edition)",
       "durationMs": 213350,
+      "isrc": "USUM71306801",
       "ids": {
         "appleMusic": "1445882924"
       }
@@ -144,8 +182,14 @@
       "artist": "Alabama Shakes",
       "album": "Boys \u0026 Girls (Deluxe Edition)",
       "durationMs": 226187,
+      "isrc": "USATO1200017",
       "ids": {
         "appleMusic": "1651006325"
+      },
+      "features": {
+        "bpm": 176.7,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -153,8 +197,14 @@
       "artist": "Breakbot \u0026 Irfane",
       "album": "Support Your Local Record Label",
       "durationMs": 215787,
+      "isrc": "FR0NT0900390",
       "ids": {
         "appleMusic": "1689610634"
+      },
+      "features": {
+        "bpm": 118.1,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -171,6 +221,7 @@
       "artist": "Heartless Bastards",
       "album": "Arrow (10th Anniversary Deluxe Edition)",
       "durationMs": 308067,
+      "isrc": "USBQU1100085",
       "ids": {
         "appleMusic": "1783190297"
       }
@@ -189,8 +240,14 @@
       "artist": "Amy Winehouse",
       "album": "Lioness: Hidden Treasures",
       "durationMs": 233864,
+      "isrc": "GBUM71110104",
       "ids": {
         "appleMusic": "1440810024"
+      },
+      "features": {
+        "bpm": 84.2,
+        "gain": -11.6,
+        "source": "deezer"
       }
     },
     {
@@ -198,8 +255,14 @@
       "artist": "The Animals",
       "album": "60s",
       "durationMs": 145693,
+      "isrc": "GBAYE6500156",
       "ids": {
         "appleMusic": "1355647253"
+      },
+      "features": {
+        "bpm": 111.4,
+        "gain": -13.1,
+        "source": "deezer"
       }
     },
     {
@@ -225,6 +288,7 @@
       "artist": "Justin Timberlake",
       "album": "Summer Viral Hits 2022",
       "durationMs": 267267,
+      "isrc": "USJI10200367",
       "ids": {
         "appleMusic": "1626009672"
       }
@@ -243,8 +307,14 @@
       "artist": "The Neighbourhood",
       "album": "Viral Summer Hits",
       "durationMs": 240400,
+      "isrc": "USSM11300080",
       "ids": {
         "appleMusic": "1626029555"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -252,8 +322,14 @@
       "artist": "Echosmith",
       "album": "feel-good pop",
       "durationMs": 237627,
+      "isrc": "USWB11301764",
       "ids": {
         "appleMusic": "1823966119"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -261,23 +337,41 @@
       "artist": "Bastille",
       "album": "Bad Blood X (10th Anniversary Edition)",
       "durationMs": 214147,
+      "isrc": "GBAAA1200795",
       "ids": {
         "appleMusic": "1710633309"
+      },
+      "features": {
+        "bpm": 127.6,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
       "title": "Two Fingers",
       "artist": "Jake Bugg",
       "album": "Jake Bugg",
-      "durationMs": 195987
+      "durationMs": 195987,
+      "isrc": "GBUM71202028",
+      "features": {
+        "bpm": 122,
+        "gain": -7.6,
+        "source": "deezer"
+      }
     },
     {
       "title": "Out Of Control",
       "artist": "The Rolling Stones",
       "album": "Bridges To Babylon (2009 Remaster)",
       "durationMs": 283840,
+      "isrc": "GBUM70909367",
       "ids": {
         "appleMusic": "1440812927"
+      },
+      "features": {
+        "bpm": 123.4,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -285,6 +379,7 @@
       "artist": "Oasis",
       "album": "(What's The Story) Morning Glory? (30th Anniversary Deluxe Edition)",
       "durationMs": 220920,
+      "isrc": "GBQCP1400115",
       "ids": {
         "appleMusic": "1821193272"
       }
@@ -294,8 +389,14 @@
       "artist": "Angus \u0026 Julia Stone",
       "album": "Angus \u0026 Julia Stone (Bonus Track Version)",
       "durationMs": 248526,
+      "isrc": "AUAP11400004",
       "ids": {
         "appleMusic": "1440824721"
+      },
+      "features": {
+        "bpm": 118.1,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -303,8 +404,14 @@
       "artist": "The Zutons",
       "album": "Tired of Hanging Around",
       "durationMs": 236247,
+      "isrc": "GBETG0501055",
       "ids": {
         "appleMusic": "211460079"
+      },
+      "features": {
+        "bpm": 164.7,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -312,6 +419,7 @@
       "artist": "The Temper Trap",
       "album": "Conditions",
       "durationMs": 234680,
+      "isrc": "GBZUZ0900013",
       "ids": {
         "appleMusic": "1451856622"
       }
@@ -321,23 +429,41 @@
       "artist": "Two Door Cinema Club",
       "album": "Beacon",
       "durationMs": 187720,
+      "isrc": "FRU701200087",
       "ids": {
         "appleMusic": "1684648431"
+      },
+      "features": {
+        "bpm": 97,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
       "title": "505",
       "artist": "Arctic Monkeys",
       "album": "Favourite Worst Nightmare",
-      "durationMs": 253224
+      "durationMs": 253224,
+      "isrc": "GBCEL0700074",
+      "features": {
+        "bpm": 140.15,
+        "gain": -9,
+        "source": "deezer"
+      }
     },
     {
       "title": "What Goes Around.../...Comes Around (Interlude)",
       "artist": "Justin Timberlake",
       "album": "FutureSex/LoveSounds",
       "durationMs": 448573,
+      "isrc": "USJI10600479",
       "ids": {
         "appleMusic": "187666645"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -345,6 +471,7 @@
       "artist": "The xx",
       "album": "xx (Deluxe)",
       "durationMs": 177093,
+      "isrc": "GBBKS0900197",
       "ids": {
         "appleMusic": "1849107793"
       }
@@ -354,8 +481,14 @@
       "artist": "John Mayer",
       "album": "Love Soundsation",
       "durationMs": 213627,
+      "isrc": "USSM11403983",
       "ids": {
         "appleMusic": "1099743975"
+      },
+      "features": {
+        "bpm": 173.7,
+        "gain": -12.3,
+        "source": "deezer"
       }
     },
     {
@@ -363,8 +496,14 @@
       "artist": "The Velvet Underground",
       "album": "Post - Punk Aesthetic",
       "durationMs": 445187,
+      "isrc": "USRH11503021",
       "ids": {
         "appleMusic": "1689179099"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -13.1,
+        "source": "deezer"
       }
     },
     {
@@ -372,8 +511,14 @@
       "artist": "Norah Jones",
       "album": "Little Broken Hearts (Deluxe Edition)",
       "durationMs": 214680,
+      "isrc": "USBN21200218",
       "ids": {
         "appleMusic": "1678202394"
+      },
+      "features": {
+        "bpm": 88.9,
+        "gain": -9.9,
+        "source": "deezer"
       }
     }
   ]

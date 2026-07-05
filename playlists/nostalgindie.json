@@ -6,8 +6,14 @@
       "artist": "Two Door Cinema Club",
       "album": "Something Good Can Work - EP",
       "durationMs": 164200,
+      "isrc": "FRU700900101",
       "ids": {
         "appleMusic": "671900586"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -15,6 +21,7 @@
       "artist": "MGMT",
       "album": "Summer Viral Hits 2022",
       "durationMs": 302840,
+      "isrc": "USSM10702135",
       "ids": {
         "appleMusic": "1626009275"
       }
@@ -23,15 +30,27 @@
       "title": "Under Cover of Darkness",
       "artist": "The Strokes",
       "album": "Angles",
-      "durationMs": 235547
+      "durationMs": 235547,
+      "isrc": "USRC11100031",
+      "features": {
+        "bpm": 99.9,
+        "gain": -7.4,
+        "source": "deezer"
+      }
     },
     {
       "title": "Houdini",
       "artist": "Foster the People",
       "album": "Beach Beats",
       "durationMs": 202467,
+      "isrc": "USSM11005694",
       "ids": {
         "appleMusic": "1741746785"
+      },
+      "features": {
+        "bpm": 110,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -39,38 +58,68 @@
       "artist": "The Fratellis",
       "album": "Kids Sing Along Pac",
       "durationMs": 213840,
+      "isrc": "GBUM70601571",
       "ids": {
         "appleMusic": "1442493288"
+      },
+      "features": {
+        "bpm": 77.3,
+        "gain": -6.3,
+        "source": "deezer"
       }
     },
     {
       "title": "I Bet You Look Good on the Dancefloor",
       "artist": "Arctic Monkeys",
       "album": "Whatever People Say I Am, That's What I'm Not",
-      "durationMs": 173680
+      "durationMs": 173680,
+      "isrc": "GBCEL0501181",
+      "features": {
+        "bpm": 102.85,
+        "gain": -8.1,
+        "source": "deezer"
+      }
     },
     {
       "title": "What You Know",
       "artist": "Two Door Cinema Club",
       "album": "What You Know (Live \u0026 Smiling) - Single",
       "durationMs": 191413,
+      "isrc": "FRU700900116",
       "ids": {
         "appleMusic": "1693417672"
+      },
+      "features": {
+        "bpm": 138.7,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
       "title": "You Only Live Once",
       "artist": "The Strokes",
       "album": "First Impressions Of Earth",
-      "durationMs": 189227
+      "durationMs": 189227,
+      "isrc": "USRC10503559",
+      "features": {
+        "bpm": 120.5,
+        "gain": -6.5,
+        "source": "deezer"
+      }
     },
     {
       "title": "Helena Beat",
       "artist": "Foster the People",
       "album": "Seize the Day! Your Morning Commute",
       "durationMs": 276173,
+      "isrc": "USSM11005693",
       "ids": {
         "appleMusic": "1090310947"
+      },
+      "features": {
+        "bpm": 126.8,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -78,6 +127,7 @@
       "artist": "AC/DC",
       "album": "Highway to Hell",
       "durationMs": 208111,
+      "isrc": "UKDNQ1559817",
       "ids": {
         "appleMusic": "574044008"
       }
@@ -87,6 +137,7 @@
       "artist": "Phoenix",
       "album": "Wolfgang Amadeus Phoenix",
       "durationMs": 241640,
+      "isrc": "FR31Q0900001",
       "ids": {
         "appleMusic": "1771710017"
       }
@@ -96,8 +147,14 @@
       "artist": "Arctic Monkeys",
       "album": "AM",
       "durationMs": 201726,
+      "isrc": "GBCEL1300363",
       "ids": {
         "appleMusic": "663097966"
+      },
+      "features": {
+        "bpm": 97.05,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -105,6 +162,7 @@
       "artist": "The Raconteurs",
       "album": "Steady, As She Goes - Single",
       "durationMs": 215267,
+      "isrc": "USVT10600052",
       "ids": {
         "appleMusic": "1436864147"
       }
@@ -114,8 +172,14 @@
       "artist": "The Strokes",
       "album": "Rock Clássico",
       "durationMs": 193373,
+      "isrc": "USRC10100765",
       "ids": {
         "appleMusic": "1778714100"
+      },
+      "features": {
+        "bpm": 103.9,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -123,6 +187,7 @@
       "artist": "The White Stripes",
       "album": "The White Stripes Greatest Hits",
       "durationMs": 110093,
+      "isrc": "GBBKS0100352",
       "ids": {
         "appleMusic": "1534388062"
       }
@@ -132,8 +197,14 @@
       "artist": "Jet",
       "album": "100 Greatest Guilty Pleasures: Cheesy Pop Hits",
       "durationMs": 213800,
+      "isrc": "USEE11200795",
       "ids": {
         "appleMusic": "1497619739"
+      },
+      "features": {
+        "bpm": 104.93,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
@@ -141,6 +212,7 @@
       "artist": "Kaiser Chiefs",
       "album": "Employment",
       "durationMs": 233187,
+      "isrc": "UKZKB2500013",
       "ids": {
         "appleMusic": "1440954740"
       }
@@ -150,23 +222,41 @@
       "artist": "Talking Heads",
       "album": "Wuthering 70's Hits",
       "durationMs": 261413,
+      "isrc": "USWB10302417",
       "ids": {
         "appleMusic": "1553906799"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
       "title": "Fluorescent Adolescent",
       "artist": "Arctic Monkeys",
       "album": "Favourite Worst Nightmare",
-      "durationMs": 177534
+      "durationMs": 177534,
+      "isrc": "GBCEL0700067",
+      "features": {
+        "bpm": 112.04,
+        "gain": -9,
+        "source": "deezer"
+      }
     },
     {
       "title": "No One Knows",
       "artist": "Queens of the Stone Age",
       "album": "Rock Radar",
       "durationMs": 278747,
+      "isrc": "USIR10211291",
       "ids": {
         "appleMusic": "1706914828"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -174,8 +264,14 @@
       "artist": "Kaiser Chiefs",
       "album": "Yours Truly, Angry Mob (Deluxe)",
       "durationMs": 204200,
+      "isrc": "GBDVX0600080",
       "ids": {
         "appleMusic": "1443919262"
+      },
+      "features": {
+        "bpm": 187.9,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -183,8 +279,14 @@
       "artist": "San Cisco",
       "album": "San Cisco",
       "durationMs": 154093,
+      "isrc": "AUU221100001",
       "ids": {
         "appleMusic": "662047170"
+      },
+      "features": {
+        "bpm": 161.5,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -192,8 +294,14 @@
       "artist": "Peter Bjorn and John",
       "album": "Writer's Block",
       "durationMs": 276693,
+      "isrc": "SEBPA0600024",
       "ids": {
         "appleMusic": "1442990320"
+      },
+      "features": {
+        "bpm": 138.3,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -201,23 +309,41 @@
       "artist": "The Ting Tings",
       "album": "We Started Nothing",
       "durationMs": 171227,
+      "isrc": "GBARL0800134",
       "ids": {
         "appleMusic": "297579371"
+      },
+      "features": {
+        "bpm": 108,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
       "title": "Someday",
       "artist": "The Strokes",
       "album": "Is This It",
-      "durationMs": 183573
+      "durationMs": 183573,
+      "isrc": "USRC10100769",
+      "features": {
+        "bpm": 106,
+        "gain": -10.5,
+        "source": "deezer"
+      }
     },
     {
       "title": "Fuck You",
       "artist": "Lily Allen",
       "album": "Let Me Down Easy Breakup Songs",
       "durationMs": 219893,
+      "isrc": "GBAYE0802265",
       "ids": {
         "appleMusic": "1684479847"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -225,6 +351,7 @@
       "artist": "The Killers",
       "album": "We Are Still Young ~ A Road To Blue Sky",
       "durationMs": 284547,
+      "isrc": "USUM70842814",
       "ids": {
         "appleMusic": "1837975648"
       }
@@ -233,21 +360,39 @@
       "title": "The Pretender",
       "artist": "Foo Fighters",
       "album": "Echoes, Silence, Patience \u0026 Grace",
-      "durationMs": 269373
+      "durationMs": 269373,
+      "isrc": "USRW30700007",
+      "features": {
+        "bpm": 172.99,
+        "gain": -6.9,
+        "source": "deezer"
+      }
     },
     {
       "title": "Always Where I Need to Be",
       "artist": "The Kooks",
       "album": "Konk",
-      "durationMs": 161720
+      "durationMs": 161720,
+      "isrc": "GBAAA0800033",
+      "features": {
+        "bpm": 169.4,
+        "gain": -7.6,
+        "source": "deezer"
+      }
     },
     {
       "title": "Lonely Boy",
       "artist": "The Black Keys",
       "album": "Lonely Boy - Single",
       "durationMs": 193653,
+      "isrc": "USNO11100273",
       "ids": {
         "appleMusic": "474616637"
+      },
+      "features": {
+        "bpm": 168.1,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -255,8 +400,14 @@
       "artist": "The Ting Tings",
       "album": "We Started Nothing",
       "durationMs": 310573,
+      "isrc": "GBARL0800038",
       "ids": {
         "appleMusic": "297579317"
+      },
+      "features": {
+        "bpm": 145.1,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -264,8 +415,14 @@
       "artist": "Florence + the Machine",
       "album": "I Am Pop",
       "durationMs": 251060,
+      "isrc": "GBUM70900209",
       "ids": {
         "appleMusic": "1442506195"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -273,8 +430,14 @@
       "artist": "Kings of Leon",
       "album": "00s Party Mixtape",
       "durationMs": 203347,
+      "isrc": "USRC10800300",
       "ids": {
         "appleMusic": "1032181382"
+      },
+      "features": {
+        "bpm": 153.1,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -282,8 +445,14 @@
       "artist": "Hot Chip",
       "album": "Made in the Dark",
       "durationMs": 234240,
+      "isrc": "GBAYE0703181",
       "ids": {
         "appleMusic": "1251019255"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -291,8 +460,14 @@
       "artist": "Franz Ferdinand",
       "album": "Franz Ferdinand",
       "durationMs": 237027,
+      "isrc": "GBCEL0300192",
       "ids": {
         "appleMusic": "315844084"
+      },
+      "features": {
+        "bpm": 104.4,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -300,6 +475,7 @@
       "artist": "Scissor Sisters",
       "album": "Kids Party Pop",
       "durationMs": 248640,
+      "isrc": "GBUM70602112",
       "ids": {
         "appleMusic": "1576393042"
       }
@@ -309,6 +485,7 @@
       "artist": "Oasis",
       "album": "Don't Look Back In Anger - EP",
       "durationMs": 287827,
+      "isrc": "GBAAW9500190",
       "ids": {
         "appleMusic": "1517448096"
       }
@@ -318,8 +495,14 @@
       "artist": "Justice",
       "album": "D.A.N.C.E. (Logic Reprise) - Single",
       "durationMs": 242267,
+      "isrc": "FR0NT0700420",
       "ids": {
         "appleMusic": "1655184119"
+      },
+      "features": {
+        "bpm": 113,
+        "gain": -7.8,
+        "source": "deezer"
       }
     }
   ]

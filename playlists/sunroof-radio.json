@@ -15,6 +15,7 @@
       "artist": "Olivia Dean",
       "album": "The Art of Loving",
       "durationMs": 184000,
+      "isrc": "GBUM72503089",
       "ids": {
         "appleMusic": "1817609509"
       }
@@ -24,6 +25,7 @@
       "artist": "Lil Nas X \u0026 Jack Harlow",
       "album": "INDUSTRY BABY - Single",
       "durationMs": 212000,
+      "isrc": "USSM12104539",
       "ids": {
         "appleMusic": "1577414972"
       }
@@ -33,6 +35,7 @@
       "artist": "Djo",
       "album": "End of Beginning - Single",
       "durationMs": 159246,
+      "isrc": "GBKPL2205058",
       "ids": {
         "appleMusic": "1740299854"
       }
@@ -51,8 +54,14 @@
       "artist": "Harry Styles",
       "album": "Fine Line",
       "durationMs": 173991,
+      "isrc": "USSM11912587",
       "ids": {
         "appleMusic": "1485802967"
+      },
+      "features": {
+        "bpm": 95.48,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -60,6 +69,7 @@
       "artist": "Jack Harlow",
       "album": "Come Home The Kids Miss You",
       "durationMs": 173948,
+      "isrc": "USAT22203024",
       "ids": {
         "appleMusic": "1622624618"
       }
@@ -69,6 +79,7 @@
       "artist": "Glass Animals",
       "album": "Dreamland",
       "durationMs": 238805,
+      "isrc": "GBUM72000433",
       "ids": {
         "appleMusic": "1508562516"
       }
@@ -78,6 +89,7 @@
       "artist": "Doja Cat",
       "album": "Planet Her (Deluxe)",
       "durationMs": 208667,
+      "isrc": "USRC12100543",
       "ids": {
         "appleMusic": "1577637152"
       }
@@ -87,6 +99,7 @@
       "artist": "Dominic Fike",
       "album": "Sunburn",
       "durationMs": 186067,
+      "isrc": "USQX92303644",
       "ids": {
         "appleMusic": "1694067438"
       }
@@ -96,6 +109,7 @@
       "artist": "OneRepublic",
       "album": "Artificial Paradise (Deluxe)",
       "durationMs": 148486,
+      "isrc": "USUM72206227",
       "ids": {
         "appleMusic": "1754637010"
       }
@@ -105,6 +119,7 @@
       "artist": "Oliver Tree",
       "album": "Ugly is Beautiful: Shorter, Thicker \u0026 Uglier (Deluxe)",
       "durationMs": 161803,
+      "isrc": "USAT22007153",
       "ids": {
         "appleMusic": "1569456896"
       }
@@ -114,6 +129,7 @@
       "artist": "Olivia Dean",
       "album": "The Art of Loving",
       "durationMs": 169000,
+      "isrc": "GBUM72503087",
       "ids": {
         "appleMusic": "1817609507"
       }
@@ -123,8 +139,14 @@
       "artist": "Post Malone",
       "album": "Hollywood's Bleeding",
       "durationMs": 215280,
+      "isrc": "USUM71915699",
       "ids": {
         "appleMusic": "1477887285"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
@@ -132,6 +154,7 @@
       "artist": "Tai Verdes",
       "album": "TV",
       "durationMs": 173640,
+      "isrc": "USQX92101406",
       "ids": {
         "appleMusic": "1567699132"
       }
@@ -141,6 +164,7 @@
       "artist": "Lizzo",
       "album": "About Damn Time - Single",
       "durationMs": 191822,
+      "isrc": "USAT22203704",
       "ids": {
         "appleMusic": "1619135106"
       }
@@ -150,8 +174,14 @@
       "artist": "Harry Styles",
       "album": "Fine Line",
       "durationMs": 207140,
+      "isrc": "USSM11912588",
       "ids": {
         "appleMusic": "1485802970"
+      },
+      "features": {
+        "bpm": 98.91,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -159,6 +189,7 @@
       "artist": "Benson Boone",
       "album": "American Heart",
       "durationMs": 165747,
+      "isrc": "USWB12500844",
       "ids": {
         "appleMusic": "1807490820"
       }
@@ -168,6 +199,7 @@
       "artist": "Paul Russell",
       "album": "Lil Boo Thang - Single",
       "durationMs": 114234,
+      "isrc": "USAR12300323",
       "ids": {
         "appleMusic": "1702576701"
       }
@@ -177,6 +209,7 @@
       "artist": "Doja Cat",
       "album": "Hot Pink (Video Deluxe)",
       "durationMs": 172800,
+      "isrc": "USRC12000867",
       "ids": {
         "appleMusic": "1560225114"
       }
@@ -186,6 +219,7 @@
       "artist": "Forrest Frank \u0026 Connor Price",
       "album": "Up! - Single",
       "durationMs": 136968,
+      "isrc": "QZES72407803",
       "ids": {
         "appleMusic": "1732581784"
       }
@@ -195,6 +229,7 @@
       "artist": "Dua Lipa",
       "album": "Future Nostalgia (Bonus Edition)",
       "durationMs": 203808,
+      "isrc": "GBAHT1901299",
       "ids": {
         "appleMusic": "1541803862"
       }
@@ -204,8 +239,14 @@
       "artist": "Dominic Fike",
       "album": "Don't Forget About Me, Demos",
       "durationMs": 177667,
+      "isrc": "USQX91802455",
       "ids": {
         "appleMusic": "1494065957"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -213,8 +254,14 @@
       "artist": "Portugal. The Man",
       "album": "Rockowy roadtrip",
       "durationMs": 162093,
+      "isrc": "USAT21700437",
       "ids": {
         "appleMusic": "6784171985"
+      },
+      "features": {
+        "bpm": 158.41,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -222,8 +269,14 @@
       "artist": "Post Malone \u0026 Swae Lee",
       "album": "Hollywood's Bleeding",
       "durationMs": 157559,
+      "isrc": "USUM71814888",
       "ids": {
         "appleMusic": "1477880764"
+      },
+      "features": {
+        "bpm": 179.76,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -231,6 +284,7 @@
       "artist": "Tai Verdes",
       "album": "last day on earth - Single",
       "durationMs": 172756,
+      "isrc": "USAR12200001",
       "ids": {
         "appleMusic": "1603294091"
       }
@@ -240,6 +294,7 @@
       "artist": "almost monday",
       "album": "sunburn - Single",
       "durationMs": 173218,
+      "isrc": "USHR12243145",
       "ids": {
         "appleMusic": "1616571235"
       }
@@ -249,6 +304,7 @@
       "artist": "Harry Styles",
       "album": "Harry's House",
       "durationMs": 167303,
+      "isrc": "USSM12200612",
       "ids": {
         "appleMusic": "1615585008"
       }
@@ -258,6 +314,7 @@
       "artist": "Lil Nas X",
       "album": "MONTERO (Call Me By Your Name) - Single",
       "durationMs": 137876,
+      "isrc": "USSM12100531",
       "ids": {
         "appleMusic": "1559318719"
       }
@@ -267,6 +324,7 @@
       "artist": "Peach Tree Rascals",
       "album": "Mariposa - Single",
       "durationMs": 210000,
+      "isrc": "QZFZ21934119",
       "ids": {
         "appleMusic": "1711618198"
       }
@@ -276,6 +334,7 @@
       "artist": "Olivia Rodrigo",
       "album": "SOUR",
       "durationMs": 178148,
+      "isrc": "USUG12101245",
       "ids": {
         "appleMusic": "1560735856"
       }
@@ -285,6 +344,7 @@
       "artist": "JAWNY",
       "album": "Honeypie - Single",
       "durationMs": 135521,
+      "isrc": "GBKPL1946902",
       "ids": {
         "appleMusic": "1491413356"
       }
@@ -294,6 +354,7 @@
       "artist": "Dua Lipa",
       "album": "Don't Start Now - Single",
       "durationMs": 183290,
+      "isrc": "GBAHT1901121",
       "ids": {
         "appleMusic": "1484322135"
       }
@@ -303,6 +364,7 @@
       "artist": "Forrest Frank",
       "album": "YOUR WAY'S BETTER - Single",
       "durationMs": 198082,
+      "isrc": "QZJ842403434",
       "ids": {
         "appleMusic": "1775544094"
       }
@@ -312,6 +374,7 @@
       "artist": "Sabrina Carpenter",
       "album": "Short n' Sweet (Deluxe)",
       "durationMs": 157280,
+      "isrc": "USUM72404100",
       "ids": {
         "appleMusic": "1795512308"
       }
@@ -330,6 +393,7 @@
       "artist": "Tai Verdes",
       "album": "HDTV",
       "durationMs": 154507,
+      "isrc": "USAR12200373",
       "ids": {
         "appleMusic": "1640571655"
       }
@@ -339,6 +403,7 @@
       "artist": "Hozier",
       "album": "Unheard - EP",
       "durationMs": 251424,
+      "isrc": "IEACJ2300335",
       "ids": {
         "appleMusic": "1733904814"
       }
@@ -348,6 +413,7 @@
       "artist": "Harry Styles",
       "album": "Harry's House",
       "durationMs": 177955,
+      "isrc": "USSM12200610",
       "ids": {
         "appleMusic": "1615585006"
       }
@@ -357,6 +423,7 @@
       "artist": "The Rare Occasions",
       "album": "Summer Crushing",
       "durationMs": 195121,
+      "isrc": "USHM21617726",
       "ids": {
         "appleMusic": "6784163160"
       }
@@ -366,6 +433,7 @@
       "artist": "George Ezra",
       "album": "Staying at Tamara's",
       "durationMs": 201287,
+      "isrc": "GBARL1701802",
       "ids": {
         "appleMusic": "1331589486"
       }
@@ -375,6 +443,7 @@
       "artist": "WizTheMc",
       "album": "For A Minute - Single",
       "durationMs": 108984,
+      "isrc": "QZES52016808",
       "ids": {
         "appleMusic": "1711562019"
       }
@@ -384,6 +453,7 @@
       "artist": "Benson Boone",
       "album": "Rock music for the road",
       "durationMs": 156582,
+      "isrc": "USWB12500464",
       "ids": {
         "appleMusic": "6784168614"
       }
@@ -393,6 +463,7 @@
       "artist": "Forrest Frank",
       "album": "GOOD DAY - Single",
       "durationMs": 170522,
+      "isrc": "QZFZ22423696",
       "ids": {
         "appleMusic": "1729877847"
       }
@@ -402,6 +473,7 @@
       "artist": "Dua Lipa",
       "album": "Future Nostalgia (Deluxe)",
       "durationMs": 221820,
+      "isrc": "GBAHT1901303",
       "ids": {
         "appleMusic": "1537651833"
       }
@@ -411,6 +483,7 @@
       "artist": "Post Malone",
       "album": "Chemical - Single",
       "durationMs": 184005,
+      "isrc": "USUM72305205",
       "ids": {
         "appleMusic": "1681605996"
       }
@@ -420,6 +493,7 @@
       "artist": "Tai Verdes",
       "album": "sheluvme - Single",
       "durationMs": 150840,
+      "isrc": "USAR12200333",
       "ids": {
         "appleMusic": "1629511379"
       }
@@ -429,6 +503,7 @@
       "artist": "Milky Chance",
       "album": "Stolen Dance - Single",
       "durationMs": 313684,
+      "isrc": "DEL211300741",
       "ids": {
         "appleMusic": "1608587368"
       }

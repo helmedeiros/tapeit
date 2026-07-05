@@ -51,8 +51,14 @@
       "artist": "The Weeknd",
       "album": "Starboy",
       "durationMs": 230461,
+      "isrc": "USUG11600976",
       "ids": {
         "appleMusic": "1440870375"
+      },
+      "features": {
+        "bpm": 186.23,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -84,8 +90,14 @@
       "artist": "The Weeknd",
       "album": "Starboy (Deluxe)",
       "durationMs": 269177,
+      "isrc": "USUG11601012",
       "ids": {
         "appleMusic": "1677006159"
+      },
+      "features": {
+        "bpm": 186.23,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {

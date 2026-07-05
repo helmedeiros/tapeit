@@ -6,8 +6,14 @@
       "artist": "Foo Fighters",
       "album": "Wasting Light",
       "durationMs": 285825,
+      "isrc": "USRW31100004",
       "ids": {
         "appleMusic": "456564008"
+      },
+      "features": {
+        "bpm": 85.1,
+        "gain": -6.3,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "Foo Fighters",
       "album": "The Essential Foo Fighters",
       "durationMs": 259603,
+      "isrc": "USRW31100001",
       "ids": {
         "appleMusic": "1650514021"
+      },
+      "features": {
+        "bpm": 137.8,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +36,14 @@
       "artist": "Foo Fighters",
       "album": "Wasting Light",
       "durationMs": 265945,
+      "isrc": "USRW31100005",
       "ids": {
         "appleMusic": "456564016"
+      },
+      "features": {
+        "bpm": 123.8,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -33,8 +51,14 @@
       "artist": "Foo Fighters",
       "album": "Wasting Light",
       "durationMs": 202052,
+      "isrc": "USRW31100006",
       "ids": {
         "appleMusic": "456564017"
+      },
+      "features": {
+        "bpm": 168.1,
+        "gain": -5.9,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +66,14 @@
       "artist": "Foo Fighters",
       "album": "Wasting Light",
       "durationMs": 267445,
+      "isrc": "USRW31100007",
       "ids": {
         "appleMusic": "456564018"
+      },
+      "features": {
+        "bpm": 116.8,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -51,8 +81,14 @@
       "artist": "Foo Fighters",
       "album": "Wasting Light",
       "durationMs": 297972,
+      "isrc": "USRW31100008",
       "ids": {
         "appleMusic": "456564019"
+      },
+      "features": {
+        "bpm": 136,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +96,14 @@
       "artist": "Foo Fighters",
       "album": "Wasting Light",
       "durationMs": 231919,
+      "isrc": "USRW31100009",
       "ids": {
         "appleMusic": "456564020"
+      },
+      "features": {
+        "bpm": 138.7,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +111,14 @@
       "artist": "Foo Fighters",
       "album": "Wasting Light",
       "durationMs": 275437,
+      "isrc": "USRW31100010",
       "ids": {
         "appleMusic": "456564021"
+      },
+      "features": {
+        "bpm": 173,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -78,8 +126,14 @@
       "artist": "Foo Fighters",
       "album": "Wasting Light",
       "durationMs": 273075,
+      "isrc": "USRW31100011",
       "ids": {
         "appleMusic": "456564022"
+      },
+      "features": {
+        "bpm": 120.9,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +141,14 @@
       "artist": "Foo Fighters",
       "album": "Wasting Light",
       "durationMs": 255115,
+      "isrc": "USRW31100012",
       "ids": {
         "appleMusic": "456564024"
+      },
+      "features": {
+        "bpm": 116.8,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -96,8 +156,14 @@
       "artist": "Foo Fighters",
       "album": "Heroic Hits",
       "durationMs": 255960,
+      "isrc": "USRW31100002",
       "ids": {
         "appleMusic": "1463068372"
+      },
+      "features": {
+        "bpm": 140.1,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -105,92 +171,176 @@
       "artist": "Foo Fighters",
       "album": "Wasting Light (Bonus Tracks) - Single",
       "durationMs": 252427,
+      "isrc": "USRW31100020",
       "ids": {
         "appleMusic": "1227038189"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
       "title": "The Pretender",
       "artist": "Foo Fighters",
       "album": "Echoes, Silence, Patience \u0026 Grace",
-      "durationMs": 269373
+      "durationMs": 269373,
+      "isrc": "USRW30700007",
+      "features": {
+        "bpm": 172.99,
+        "gain": -6.9,
+        "source": "deezer"
+      }
     },
     {
       "title": "Let It Die",
       "artist": "Foo Fighters",
       "album": "Echoes, Silence, Patience \u0026 Grace",
-      "durationMs": 244960
+      "durationMs": 244960,
+      "isrc": "USRW30700008",
+      "features": {
+        "bpm": 124.2,
+        "gain": -7,
+        "source": "deezer"
+      }
     },
     {
       "title": "Erase/Replace",
       "artist": "Foo Fighters",
       "album": "Echoes, Silence, Patience \u0026 Grace",
       "durationMs": 252972,
+      "isrc": "USRW30700009",
       "ids": {
         "appleMusic": "262743432"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
       "title": "Long Road to Ruin",
       "artist": "Foo Fighters",
       "album": "Echoes, Silence, Patience \u0026 Grace",
-      "durationMs": 224880
+      "durationMs": 224880,
+      "isrc": "USRW30700010",
+      "features": {
+        "bpm": 147.13,
+        "gain": -8,
+        "source": "deezer"
+      }
     },
     {
       "title": "Come Alive",
       "artist": "Foo Fighters",
       "album": "Echoes, Silence, Patience \u0026 Grace",
-      "durationMs": 310600
+      "durationMs": 310600,
+      "isrc": "USRW30700011",
+      "features": {
+        "bpm": 140.1,
+        "gain": -7.1,
+        "source": "deezer"
+      }
     },
     {
       "title": "Stranger Things Have Happened",
       "artist": "Foo Fighters",
       "album": "Echoes, Silence, Patience \u0026 Grace",
-      "durationMs": 321053
+      "durationMs": 321053,
+      "isrc": "USRW30700012",
+      "features": {
+        "bpm": 98,
+        "gain": -13.2,
+        "source": "deezer"
+      }
     },
     {
       "title": "Cheer Up, Boys (Your Make Up Is Running)",
       "artist": "Foo Fighters",
       "album": "Echoes, Silence, Patience \u0026 Grace",
-      "durationMs": 221173
+      "durationMs": 221173,
+      "isrc": "USRW30700013",
+      "features": {
+        "bpm": 141.6,
+        "gain": -6.5,
+        "source": "deezer"
+      }
     },
     {
       "title": "Summer's End",
       "artist": "Foo Fighters",
       "album": "Echoes, Silence, Patience \u0026 Grace",
-      "durationMs": 277973
+      "durationMs": 277973,
+      "isrc": "USRW30700014",
+      "features": {
+        "bpm": 123,
+        "gain": -8.5,
+        "source": "deezer"
+      }
     },
     {
       "title": "Ballad of the Beaconsfield Miners",
       "artist": "Foo Fighters",
       "album": "Echoes, Silence, Patience \u0026 Grace",
-      "durationMs": 152213
+      "durationMs": 152213,
+      "isrc": "USRW30700015",
+      "features": {
+        "bpm": 140.6,
+        "gain": -13,
+        "source": "deezer"
+      }
     },
     {
       "title": "Statues",
       "artist": "Foo Fighters",
       "album": "Echoes, Silence, Patience \u0026 Grace",
-      "durationMs": 227813
+      "durationMs": 227813,
+      "isrc": "USRW30700016",
+      "features": {
+        "bpm": 94,
+        "gain": -8.8,
+        "source": "deezer"
+      }
     },
     {
       "title": "But, Honestly",
       "artist": "Foo Fighters",
       "album": "Echoes, Silence, Patience \u0026 Grace",
-      "durationMs": 275707
+      "durationMs": 275707,
+      "isrc": "USRW30700017",
+      "features": {
+        "bpm": 164.7,
+        "gain": -9,
+        "source": "deezer"
+      }
     },
     {
       "title": "Home",
       "artist": "Foo Fighters",
       "album": "Echoes, Silence, Patience \u0026 Grace",
-      "durationMs": 292693
+      "durationMs": 292693,
+      "isrc": "USRW30700018",
+      "features": {
+        "bpm": 104.9,
+        "gain": -13.6,
+        "source": "deezer"
+      }
     },
     {
       "title": "In Your Honor",
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 229756,
+      "isrc": "USRW30500025",
       "ids": {
         "appleMusic": "300855108"
+      },
+      "features": {
+        "bpm": 138.7,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -198,8 +348,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 196335,
+      "isrc": "USRW30500007",
       "ids": {
         "appleMusic": "300855109"
+      },
+      "features": {
+        "bpm": 93.1,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -207,8 +363,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 255261,
+      "isrc": "USRW30500001",
       "ids": {
         "appleMusic": "300855110"
+      },
+      "features": {
+        "bpm": 130.83,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -216,8 +378,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 251745,
+      "isrc": "USRW30500008",
       "ids": {
         "appleMusic": "300855111"
+      },
+      "features": {
+        "bpm": 145.6,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -225,8 +393,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 116846,
+      "isrc": "USRW30500009",
       "ids": {
         "appleMusic": "300855112"
+      },
+      "features": {
+        "bpm": 154.8,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -234,8 +408,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 201784,
+      "isrc": "USRW30500010",
       "ids": {
         "appleMusic": "300855113"
+      },
+      "features": {
+        "bpm": 148.7,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -243,8 +423,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 278253,
+      "isrc": "USRW30500011",
       "ids": {
         "appleMusic": "300855114"
+      },
+      "features": {
+        "bpm": 154.8,
+        "gain": -6.4,
+        "source": "deezer"
       }
     },
     {
@@ -252,8 +438,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 288236,
+      "isrc": "USRW30500012",
       "ids": {
         "appleMusic": "300855115"
+      },
+      "features": {
+        "bpm": 110.5,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -261,8 +453,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 237870,
+      "isrc": "USRW30500013",
       "ids": {
         "appleMusic": "300855116"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -270,8 +468,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 351743,
+      "isrc": "USRW30500014",
       "ids": {
         "appleMusic": "300855117"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -279,8 +483,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 312826,
+      "isrc": "USRW30500015",
       "ids": {
         "appleMusic": "300855118"
+      },
+      "features": {
+        "bpm": 110.5,
+        "gain": -12.3,
+        "source": "deezer"
       }
     },
     {
@@ -288,8 +498,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 302612,
+      "isrc": "USRW30500016",
       "ids": {
         "appleMusic": "300855119"
+      },
+      "features": {
+        "bpm": 96.6,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
@@ -297,8 +513,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 209363,
+      "isrc": "USRW30500017",
       "ids": {
         "appleMusic": "300855120"
+      },
+      "features": {
+        "bpm": 96.6,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -306,8 +528,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 274504,
+      "isrc": "USRW30500018",
       "ids": {
         "appleMusic": "300855121"
+      },
+      "features": {
+        "bpm": 114.5,
+        "gain": -11.1,
+        "source": "deezer"
       }
     },
     {
@@ -315,8 +543,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 193044,
+      "isrc": "USRW30500019",
       "ids": {
         "appleMusic": "300855122"
+      },
+      "features": {
+        "bpm": 95.5,
+        "gain": -13.2,
+        "source": "deezer"
       }
     },
     {
@@ -324,8 +558,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 315790,
+      "isrc": "USRW30500020",
       "ids": {
         "appleMusic": "300855123"
+      },
+      "features": {
+        "bpm": 89.5,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
@@ -333,8 +573,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 271547,
+      "isrc": "USRW30500021",
       "ids": {
         "appleMusic": "300855124"
+      },
+      "features": {
+        "bpm": 134.7,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -342,8 +588,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 228950,
+      "isrc": "USRW30500022",
       "ids": {
         "appleMusic": "300855125"
+      },
+      "features": {
+        "bpm": 125.7,
+        "gain": -11.8,
+        "source": "deezer"
       }
     },
     {
@@ -351,8 +603,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 200304,
+      "isrc": "USRW30500023",
       "ids": {
         "appleMusic": "300855126"
+      },
+      "features": {
+        "bpm": 132.9,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -360,8 +618,14 @@
       "artist": "Foo Fighters",
       "album": "In Your Honor",
       "durationMs": 292761,
+      "isrc": "USRW30500024",
       "ids": {
         "appleMusic": "300855127"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -11.9,
+        "source": "deezer"
       }
     },
     {
@@ -369,8 +633,14 @@
       "artist": "Foo Fighters",
       "album": "One By One (Deluxe Edition)",
       "durationMs": 263440,
+      "isrc": "USRW30200001",
       "ids": {
         "appleMusic": "538257185"
+      },
+      "features": {
+        "bpm": 168.06,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -378,8 +648,14 @@
       "artist": "Foo Fighters",
       "album": "One By One (Deluxe Edition)",
       "durationMs": 268307,
+      "isrc": "USRW30200003",
       "ids": {
         "appleMusic": "538257186"
+      },
+      "features": {
+        "bpm": 143.6,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -387,8 +663,14 @@
       "artist": "Foo Fighters",
       "album": "One By One (Deluxe Edition)",
       "durationMs": 298000,
+      "isrc": "USRW30200004",
       "ids": {
         "appleMusic": "538257187"
+      },
+      "features": {
+        "bpm": 81.9,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -396,8 +678,14 @@
       "artist": "Foo Fighters",
       "album": "One By One (Deluxe Edition)",
       "durationMs": 265560,
+      "isrc": "USRW30200005",
       "ids": {
         "appleMusic": "538257188"
+      },
+      "features": {
+        "bpm": 144.6,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -405,8 +693,14 @@
       "artist": "Foo Fighters",
       "album": "One By One (Deluxe Edition)",
       "durationMs": 273120,
+      "isrc": "USRW30200006",
       "ids": {
         "appleMusic": "538257309"
+      },
+      "features": {
+        "bpm": 113.3,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -414,8 +708,14 @@
       "artist": "Foo Fighters",
       "album": "One By One (Deluxe Edition)",
       "durationMs": 311280,
+      "isrc": "USRW30200007",
       "ids": {
         "appleMusic": "538257310"
+      },
+      "features": {
+        "bpm": 106.3,
+        "gain": -10.7,
+        "source": "deezer"
       }
     },
     {
@@ -423,8 +723,14 @@
       "artist": "Foo Fighters",
       "album": "One By One (Deluxe Edition)",
       "durationMs": 306520,
+      "isrc": "USRW30200008",
       "ids": {
         "appleMusic": "538257311"
+      },
+      "features": {
+        "bpm": 131.2,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -432,8 +738,14 @@
       "artist": "Foo Fighters",
       "album": "One By One (Deluxe Edition)",
       "durationMs": 277147,
+      "isrc": "USRW30200009",
       "ids": {
         "appleMusic": "538257312"
+      },
+      "features": {
+        "bpm": 162.1,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -441,8 +753,14 @@
       "artist": "Foo Fighters",
       "album": "One By One (Deluxe Edition)",
       "durationMs": 270187,
+      "isrc": "USRW30200010",
       "ids": {
         "appleMusic": "538257313"
+      },
+      "features": {
+        "bpm": 157.8,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -450,8 +768,14 @@
       "artist": "Foo Fighters",
       "album": "One By One (Deluxe Edition)",
       "durationMs": 297880,
+      "isrc": "USRW30200011",
       "ids": {
         "appleMusic": "538257314"
+      },
+      "features": {
+        "bpm": 126.4,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -459,8 +783,14 @@
       "artist": "Foo Fighters",
       "album": "One By One (Deluxe Edition)",
       "durationMs": 467627,
+      "isrc": "USRW30200012",
       "ids": {
         "appleMusic": "538257315"
+      },
+      "features": {
+        "bpm": 89.1,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -468,8 +798,14 @@
       "artist": "Foo Fighters",
       "album": "One By One (Deluxe Edition)",
       "durationMs": 235453,
+      "isrc": "USRW30300028",
       "ids": {
         "appleMusic": "538257316"
+      },
+      "features": {
+        "bpm": 156,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -477,8 +813,14 @@
       "artist": "Foo Fighters",
       "album": "One By One (Deluxe Edition)",
       "durationMs": 310467,
+      "isrc": "USRW30200014",
       "ids": {
         "appleMusic": "538257317"
+      },
+      "features": {
+        "bpm": 97.1,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -486,8 +828,14 @@
       "artist": "Foo Fighters",
       "album": "One By One (Deluxe Edition)",
       "durationMs": 177800,
+      "isrc": "USRW30200013",
       "ids": {
         "appleMusic": "538257318"
+      },
+      "features": {
+        "bpm": 127.6,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -495,8 +843,14 @@
       "artist": "Foo Fighters",
       "album": "One By One (Deluxe Edition)",
       "durationMs": 219653,
+      "isrc": "USRW30200016",
       "ids": {
         "appleMusic": "538257319"
+      },
+      "features": {
+        "bpm": 121.6,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -531,8 +885,14 @@
       "artist": "Foo Fighters",
       "album": "There Is Nothing Left to Lose",
       "durationMs": 256439,
+      "isrc": "USRW39900003",
       "ids": {
         "appleMusic": "278229649"
+      },
+      "features": {
+        "bpm": 134.7,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -540,8 +900,14 @@
       "artist": "Foo Fighters",
       "album": "There Is Nothing Left to Lose",
       "durationMs": 200800,
+      "isrc": "USRW39900004",
       "ids": {
         "appleMusic": "278229653"
+      },
+      "features": {
+        "bpm": 156.61,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -549,8 +915,14 @@
       "artist": "Foo Fighters",
       "album": "There Is Nothing Left to Lose",
       "durationMs": 235293,
+      "isrc": "USRW39900002",
       "ids": {
         "appleMusic": "278229654"
+      },
+      "features": {
+        "bpm": 136,
+        "gain": -6.1,
+        "source": "deezer"
       }
     },
     {
@@ -558,8 +930,14 @@
       "artist": "Foo Fighters",
       "album": "There Is Nothing Left to Lose",
       "durationMs": 222139,
+      "isrc": "USRW39900005",
       "ids": {
         "appleMusic": "278229655"
+      },
+      "features": {
+        "bpm": 111.7,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -567,8 +945,14 @@
       "artist": "Foo Fighters",
       "album": "There Is Nothing Left to Lose",
       "durationMs": 227472,
+      "isrc": "USRW39900006",
       "ids": {
         "appleMusic": "278229656"
+      },
+      "features": {
+        "bpm": 152.6,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -576,8 +960,14 @@
       "artist": "Foo Fighters",
       "album": "There Is Nothing Left to Lose",
       "durationMs": 349667,
+      "isrc": "USRW39900007",
       "ids": {
         "appleMusic": "278229659"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -585,8 +975,14 @@
       "artist": "Foo Fighters",
       "album": "There Is Nothing Left to Lose",
       "durationMs": 232683,
+      "isrc": "USRW39900008",
       "ids": {
         "appleMusic": "278229660"
+      },
+      "features": {
+        "bpm": 118.1,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -594,8 +990,14 @@
       "artist": "Foo Fighters",
       "album": "Coffeehouse Classics, Vol. 1",
       "durationMs": 276213,
+      "isrc": "USRW39900009",
       "ids": {
         "appleMusic": "1030789543"
+      },
+      "features": {
+        "bpm": 176.7,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -603,8 +1005,14 @@
       "artist": "Foo Fighters",
       "album": "There Is Nothing Left to Lose",
       "durationMs": 277395,
+      "isrc": "USRW39900010",
       "ids": {
         "appleMusic": "278229662"
+      },
+      "features": {
+        "bpm": 129.6,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -612,8 +1020,14 @@
       "artist": "Foo Fighters",
       "album": "There Is Nothing Left to Lose",
       "durationMs": 254684,
+      "isrc": "USRW39900011",
       "ids": {
         "appleMusic": "278229663"
+      },
+      "features": {
+        "bpm": 108.8,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -621,8 +1035,14 @@
       "artist": "Foo Fighters",
       "album": "There Is Nothing Left to Lose",
       "durationMs": 243215,
+      "isrc": "USRW39900012",
       "ids": {
         "appleMusic": "278229664"
+      },
+      "features": {
+        "bpm": 97.1,
+        "gain": -6.1,
+        "source": "deezer"
       }
     },
     {
@@ -630,8 +1050,14 @@
       "artist": "Foo Fighters",
       "album": "The Colour And The Shape",
       "durationMs": 83730,
+      "isrc": "USRW29600002",
       "ids": {
         "appleMusic": "362133452"
+      },
+      "features": {
+        "bpm": 118.1,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -639,8 +1065,14 @@
       "artist": "Foo Fighters",
       "album": "The Colour And The Shape",
       "durationMs": 231480,
+      "isrc": "USRW29600001",
       "ids": {
         "appleMusic": "362133453"
+      },
+      "features": {
+        "bpm": 87.04,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -648,8 +1080,14 @@
       "artist": "Foo Fighters",
       "album": "The Colour And The Shape",
       "durationMs": 248266,
+      "isrc": "USRW29600003",
       "ids": {
         "appleMusic": "362133466"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -657,8 +1095,14 @@
       "artist": "Foo Fighters",
       "album": "The Colour And The Shape",
       "durationMs": 213496,
+      "isrc": "USRW29600004",
       "ids": {
         "appleMusic": "362133467"
+      },
+      "features": {
+        "bpm": 126,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -666,8 +1110,14 @@
       "artist": "Foo Fighters",
       "album": "The Colour And The Shape",
       "durationMs": 150563,
+      "isrc": "USRW29600005",
       "ids": {
         "appleMusic": "362133482"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -675,8 +1125,14 @@
       "artist": "Foo Fighters",
       "album": "The Colour And The Shape",
       "durationMs": 135542,
+      "isrc": "USRW29600006",
       "ids": {
         "appleMusic": "362133485"
+      },
+      "features": {
+        "bpm": 166.7,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -684,8 +1140,14 @@
       "artist": "Foo Fighters",
       "album": "The Colour And The Shape",
       "durationMs": 260027,
+      "isrc": "USRW29600007",
       "ids": {
         "appleMusic": "362133488"
+      },
+      "features": {
+        "bpm": 154.27,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -693,8 +1155,14 @@
       "artist": "Foo Fighters",
       "album": "The Colour And The Shape",
       "durationMs": 146649,
+      "isrc": "USRW29600008",
       "ids": {
         "appleMusic": "362133489"
+      },
+      "features": {
+        "bpm": 170.8,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -702,8 +1170,14 @@
       "artist": "Foo Fighters",
       "album": "The Colour And The Shape",
       "durationMs": 156270,
+      "isrc": "USRW29600009",
       "ids": {
         "appleMusic": "362133494"
+      },
+      "features": {
+        "bpm": 144.1,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -711,8 +1185,14 @@
       "artist": "Foo Fighters",
       "album": "The Colour And The Shape",
       "durationMs": 289280,
+      "isrc": "USRW29600010",
       "ids": {
         "appleMusic": "362133502"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -720,8 +1200,14 @@
       "artist": "Foo Fighters",
       "album": "The Colour And The Shape",
       "durationMs": 250547,
+      "isrc": "USRW29600011",
       "ids": {
         "appleMusic": "362133505"
+      },
+      "features": {
+        "bpm": 157.8,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -738,8 +1224,14 @@
       "artist": "Foo Fighters",
       "album": "The Colour And The Shape",
       "durationMs": 340181,
+      "isrc": "USRW29600013",
       "ids": {
         "appleMusic": "362133513"
+      },
+      "features": {
+        "bpm": 139.2,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -747,8 +1239,14 @@
       "artist": "Foo Fighters",
       "album": "Foo Fighters",
       "durationMs": 233360,
+      "isrc": "USRW29500014",
       "ids": {
         "appleMusic": "258512044"
+      },
+      "features": {
+        "bpm": 164.1,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -756,8 +1254,14 @@
       "artist": "Foo Fighters",
       "album": "Foo Fighters",
       "durationMs": 232533,
+      "isrc": "USRW29500010",
       "ids": {
         "appleMusic": "258512097"
+      },
+      "features": {
+        "bpm": 132.9,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -765,8 +1269,14 @@
       "artist": "Foo Fighters",
       "album": "Foo Fighters",
       "durationMs": 132840,
+      "isrc": "USRW29500002",
       "ids": {
         "appleMusic": "258512160"
+      },
+      "features": {
+        "bpm": 130.83,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -774,8 +1284,14 @@
       "artist": "Foo Fighters",
       "album": "Foo Fighters",
       "durationMs": 245667,
+      "isrc": "USRW29500001",
       "ids": {
         "appleMusic": "258512171"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -783,8 +1299,14 @@
       "artist": "Foo Fighters",
       "album": "Foo Fighters",
       "durationMs": 241227,
+      "isrc": "USRW29500008",
       "ids": {
         "appleMusic": "258512182"
+      },
+      "features": {
+        "bpm": 95.7,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -792,8 +1314,14 @@
       "artist": "Foo Fighters",
       "album": "Foo Fighters",
       "durationMs": 269267,
+      "isrc": "USRW29500004",
       "ids": {
         "appleMusic": "258512275"
+      },
+      "features": {
+        "bpm": 112.7,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -801,8 +1329,14 @@
       "artist": "Foo Fighters",
       "album": "Foo Fighters",
       "durationMs": 165400,
+      "isrc": "USRW29500015",
       "ids": {
         "appleMusic": "258512297"
+      },
+      "features": {
+        "bpm": 87,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -810,8 +1344,14 @@
       "artist": "Foo Fighters",
       "album": "Foo Fighters",
       "durationMs": 181800,
+      "isrc": "USRW29500011",
       "ids": {
         "appleMusic": "258512318"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -819,8 +1359,14 @@
       "artist": "Foo Fighters",
       "album": "Foo Fighters",
       "durationMs": 209240,
+      "isrc": "USRW29500005",
       "ids": {
         "appleMusic": "258512325"
+      },
+      "features": {
+        "bpm": 117.8,
+        "gain": -11.4,
+        "source": "deezer"
       }
     },
     {
@@ -828,8 +1374,14 @@
       "artist": "Foo Fighters",
       "album": "Foo Fighters",
       "durationMs": 253493,
+      "isrc": "USRW29500016",
       "ids": {
         "appleMusic": "258512345"
+      },
+      "features": {
+        "bpm": 101.3,
+        "gain": -11.5,
+        "source": "deezer"
       }
     },
     {
@@ -837,8 +1389,14 @@
       "artist": "Foo Fighters",
       "album": "Foo Fighters",
       "durationMs": 133507,
+      "isrc": "USRW29500017",
       "ids": {
         "appleMusic": "258512403"
+      },
+      "features": {
+        "bpm": 95.9,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -846,8 +1404,14 @@
       "artist": "Foo Fighters",
       "album": "Foo Fighters",
       "durationMs": 349893,
+      "isrc": "USRW29500003",
       "ids": {
         "appleMusic": "258512454"
+      },
+      "features": {
+        "bpm": 120.2,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -855,8 +1419,14 @@
       "artist": "Foo Fighters",
       "album": "Greatest Hits",
       "durationMs": 278213,
+      "isrc": "USRC10900528",
       "ids": {
         "appleMusic": "334812058"
+      },
+      "features": {
+        "bpm": 162.13,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -864,8 +1434,14 @@
       "artist": "Foo Fighters",
       "album": "Greatest Hits",
       "durationMs": 242373,
+      "isrc": "USRW30600044",
       "ids": {
         "appleMusic": "334812056"
+      },
+      "features": {
+        "bpm": 102.34,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -873,8 +1449,14 @@
       "artist": "Foo Fighters",
       "album": "Greatest Hits",
       "durationMs": 226640,
+      "isrc": "USRW30900001",
       "ids": {
         "appleMusic": "334812064"
+      },
+      "features": {
+        "bpm": 142.07,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -882,8 +1464,14 @@
       "artist": "Foo Fighters",
       "album": "Greatest Hits",
       "durationMs": 250907,
+      "isrc": "USRW30900002",
       "ids": {
         "appleMusic": "334812065"
+      },
+      "features": {
+        "bpm": 144.56,
+        "gain": -13.5,
+        "source": "deezer"
       }
     },
     {
@@ -891,8 +1479,14 @@
       "artist": "Foo Fighters",
       "album": "Sonic Highways",
       "durationMs": 288460,
+      "isrc": "USRW31400002",
       "ids": {
         "appleMusic": "910701344"
+      },
+      "features": {
+        "bpm": 186.23,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -900,8 +1494,14 @@
       "artist": "Foo Fighters",
       "album": "Sonic Highways",
       "durationMs": 229566,
+      "isrc": "USRW31400003",
       "ids": {
         "appleMusic": "910701350"
+      },
+      "features": {
+        "bpm": 174.45,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -909,8 +1509,14 @@
       "artist": "Foo Fighters",
       "album": "Sonic Highways",
       "durationMs": 311894,
+      "isrc": "USRW31400004",
       "ids": {
         "appleMusic": "910701352"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -918,8 +1524,14 @@
       "artist": "Foo Fighters",
       "album": "Sonic Highways",
       "durationMs": 343665,
+      "isrc": "USRW31400005",
       "ids": {
         "appleMusic": "910701353"
+      },
+      "features": {
+        "bpm": 86.86,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -927,8 +1539,14 @@
       "artist": "Foo Fighters",
       "album": "Sonic Highways",
       "durationMs": 314569,
+      "isrc": "USRW31400006",
       "ids": {
         "appleMusic": "910701354"
+      },
+      "features": {
+        "bpm": 166.04,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -936,8 +1554,14 @@
       "artist": "Foo Fighters",
       "album": "Sonic Highways",
       "durationMs": 243843,
+      "isrc": "USRW31400007",
       "ids": {
         "appleMusic": "910701355"
+      },
+      "features": {
+        "bpm": 132.94,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -945,8 +1569,14 @@
       "artist": "Foo Fighters",
       "album": "Sonic Highways",
       "durationMs": 367506,
+      "isrc": "USRW31400008",
       "ids": {
         "appleMusic": "910701356"
+      },
+      "features": {
+        "bpm": 112.96,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -954,8 +1584,14 @@
       "artist": "Foo Fighters",
       "album": "Sonic Highways",
       "durationMs": 428504,
+      "isrc": "USRW31400009",
       "ids": {
         "appleMusic": "910701383"
+      },
+      "features": {
+        "bpm": 82.85,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -963,8 +1599,14 @@
       "artist": "Foo Fighters",
       "album": "Concrete and Gold",
       "durationMs": 82627,
+      "isrc": "USRW31700016",
       "ids": {
         "appleMusic": "1249068903"
+      },
+      "features": {
+        "bpm": 145.58,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -972,8 +1614,14 @@
       "artist": "Foo Fighters",
       "album": "Concrete and Gold",
       "durationMs": 323373,
+      "isrc": "USRW31700013",
       "ids": {
         "appleMusic": "1249068904"
+      },
+      "features": {
+        "bpm": 136,
+        "gain": -10.4,
+        "source": "deezer"
       }
     },
     {
@@ -981,8 +1629,14 @@
       "artist": "Foo Fighters",
       "album": "Concrete and Gold",
       "durationMs": 279256,
+      "isrc": "USRW31700017",
       "ids": {
         "appleMusic": "1249068905"
+      },
+      "features": {
+        "bpm": 142.07,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -990,8 +1644,14 @@
       "artist": "Foo Fighters",
       "album": "Concrete and Gold",
       "durationMs": 244570,
+      "isrc": "USRW31700018",
       "ids": {
         "appleMusic": "1249068906"
+      },
+      "features": {
+        "bpm": 133.37,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -999,8 +1659,14 @@
       "artist": "Foo Fighters",
       "album": "Concrete and Gold",
       "durationMs": 242760,
+      "isrc": "USRW31700019",
       "ids": {
         "appleMusic": "1249068907"
+      },
+      "features": {
+        "bpm": 175.93,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -1008,8 +1674,14 @@
       "artist": "Foo Fighters",
       "album": "Concrete and Gold",
       "durationMs": 320880,
+      "isrc": "USRW31700020",
       "ids": {
         "appleMusic": "1249068908"
+      },
+      "features": {
+        "bpm": 142.56,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -1017,8 +1689,14 @@
       "artist": "Foo Fighters",
       "album": "Concrete and Gold",
       "durationMs": 266187,
+      "isrc": "USRW31700021",
       "ids": {
         "appleMusic": "1249068909"
+      },
+      "features": {
+        "bpm": 121.96,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -1035,8 +1713,14 @@
       "artist": "Foo Fighters",
       "album": "Concrete and Gold",
       "durationMs": 371453,
+      "isrc": "USRW31700023",
       "ids": {
         "appleMusic": "1249069031"
+      },
+      "features": {
+        "bpm": 154.85,
+        "gain": -11.8,
+        "source": "deezer"
       }
     },
     {
@@ -1044,8 +1728,14 @@
       "artist": "Foo Fighters",
       "album": "Concrete and Gold",
       "durationMs": 218240,
+      "isrc": "USRW31700025",
       "ids": {
         "appleMusic": "1249069032"
+      },
+      "features": {
+        "bpm": 136,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -1053,8 +1743,14 @@
       "artist": "Foo Fighters",
       "album": "Concrete and Gold",
       "durationMs": 331613,
+      "isrc": "USRW31700026",
       "ids": {
         "appleMusic": "1249069033"
+      },
+      "features": {
+        "bpm": 103.88,
+        "gain": -10.7,
+        "source": "deezer"
       }
     }
   ]

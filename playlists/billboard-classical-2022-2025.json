@@ -1,42 +1,197 @@
 {
   "name": "Billboard Classical 2022-2025",
   "tracks": [
-    {"title": "A Thousand Years", "artist": "The Piano Guys"},
-    {"title": "Beethoven's 5 Secrets", "artist": "The Piano Guys"},
-    {"title": "Cello Wars", "artist": "The Piano Guys"},
-
-    {"title": "Nuvole Bianche", "artist": "Ludovico Einaudi"},
-    {"title": "Experience", "artist": "Ludovico Einaudi"},
-    {"title": "Una Mattina", "artist": "Ludovico Einaudi"},
-
-    {"title": "Crystallize", "artist": "Lindsey Stirling"},
-    {"title": "Shatter Me", "artist": "Lindsey Stirling"},
-    {"title": "Roundtable Rival", "artist": "Lindsey Stirling"},
-
-    {"title": "Clair de Lune", "artist": "Lang Lang"},
-    {"title": "Für Elise", "artist": "Lang Lang"},
-    {"title": "Gymnopédie No. 1", "artist": "Lang Lang"},
-
-    {"title": "On the Nature of Daylight", "artist": "Max Richter"},
-    {"title": "Dream 3", "artist": "Max Richter"},
-    {"title": "Path 5", "artist": "Max Richter"},
-
-    {"title": "The Swan", "artist": "Yo-Yo Ma"},
-    {"title": "Ave Maria", "artist": "Yo-Yo Ma"},
-    {"title": "Cello Suite No. 1 in G Major: Prélude", "artist": "Yo-Yo Ma"},
-
-    {"title": "Time to Say Goodbye", "artist": "Andrea Bocelli"},
-    {"title": "Con te partirò", "artist": "Andrea Bocelli"},
-    {"title": "The Prayer", "artist": "Andrea Bocelli"},
-
-    {"title": "You Raise Me Up", "artist": "Josh Groban"},
-    {"title": "Believe", "artist": "Josh Groban"},
-    {"title": "To Where You Are", "artist": "Josh Groban"},
-
-    {"title": "River Flows in You", "artist": "Yiruma"},
-    {"title": "Kiss the Rain", "artist": "Yiruma"},
-    {"title": "Maybe", "artist": "Yiruma"},
-
-    {"title": "Hedwig's Theme", "artist": "John Williams"}
+    {
+      "title": "A Thousand Years",
+      "artist": "The Piano Guys",
+      "isrc": "USQX91201530",
+      "features": {
+        "bpm": 157.2,
+        "gain": -12.4,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Beethoven's 5 Secrets",
+      "artist": "The Piano Guys",
+      "isrc": "USQX91201526",
+      "features": {
+        "bpm": 149.8,
+        "gain": -10,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Cello Wars",
+      "artist": "The Piano Guys",
+      "isrc": "USQX91201529",
+      "features": {
+        "bpm": 128,
+        "gain": -10.1,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Nuvole Bianche",
+      "artist": "Ludovico Einaudi",
+      "isrc": "ITC490700125"
+    },
+    {
+      "title": "Experience",
+      "artist": "Ludovico Einaudi",
+      "isrc": "ITB282100051"
+    },
+    {
+      "title": "Una Mattina",
+      "artist": "Ludovico Einaudi",
+      "isrc": "ITB282100033"
+    },
+    {
+      "title": "Crystallize",
+      "artist": "Lindsey Stirling",
+      "isrc": "USTEY0900057"
+    },
+    {
+      "title": "Shatter Me",
+      "artist": "Lindsey Stirling",
+      "isrc": "TCAKA2523367"
+    },
+    {
+      "title": "Roundtable Rival",
+      "artist": "Lindsey Stirling",
+      "isrc": "QMF921450110",
+      "features": {
+        "bpm": 128,
+        "gain": -7.3,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Clair de Lune",
+      "artist": "Lang Lang"
+    },
+    {
+      "title": "Für Elise",
+      "artist": "Lang Lang"
+    },
+    {
+      "title": "Gymnopédie No. 1",
+      "artist": "Lang Lang"
+    },
+    {
+      "title": "On the Nature of Daylight",
+      "artist": "Max Richter"
+    },
+    {
+      "title": "Dream 3",
+      "artist": "Max Richter"
+    },
+    {
+      "title": "Path 5",
+      "artist": "Max Richter"
+    },
+    {
+      "title": "The Swan",
+      "artist": "Yo-Yo Ma",
+      "isrc": "USQX91502178"
+    },
+    {
+      "title": "Ave Maria",
+      "artist": "Yo-Yo Ma",
+      "isrc": "USQX91500811"
+    },
+    {
+      "title": "Cello Suite No. 1 in G Major: Prélude",
+      "artist": "Yo-Yo Ma"
+    },
+    {
+      "title": "Time to Say Goodbye",
+      "artist": "Andrea Bocelli",
+      "isrc": "ITZ041100045",
+      "features": {
+        "bpm": 111.1,
+        "gain": -12.8,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Con te partirò",
+      "artist": "Andrea Bocelli",
+      "isrc": "ITZ049700077",
+      "features": {
+        "bpm": 101.83,
+        "gain": -11.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "The Prayer",
+      "artist": "Andrea Bocelli",
+      "isrc": "ITZ049900380",
+      "features": {
+        "bpm": 133.4,
+        "gain": -12.1,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "You Raise Me Up",
+      "artist": "Josh Groban",
+      "isrc": "USRE10301532",
+      "features": {
+        "bpm": 115.8,
+        "gain": -14.8,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Believe",
+      "artist": "Josh Groban",
+      "isrc": "USWB10403588",
+      "features": {
+        "bpm": 154.8,
+        "gain": -11.3,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "To Where You Are",
+      "artist": "Josh Groban",
+      "isrc": "USWB10107377",
+      "features": {
+        "bpm": 126,
+        "gain": -11.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "River Flows in You",
+      "artist": "Yiruma",
+      "isrc": "KRA031103194",
+      "features": {
+        "bpm": 143.6,
+        "gain": -16.2,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Kiss the Rain",
+      "artist": "Yiruma",
+      "isrc": "HKOA10617046"
+    },
+    {
+      "title": "Maybe",
+      "artist": "Yiruma"
+    },
+    {
+      "title": "Hedwig's Theme",
+      "artist": "John Williams",
+      "isrc": "USAT20109275",
+      "features": {
+        "bpm": 156.6,
+        "gain": -17,
+        "source": "deezer"
+      }
+    }
   ]
 }

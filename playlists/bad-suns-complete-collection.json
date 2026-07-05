@@ -6,6 +6,7 @@
       "artist": "Bad Suns",
       "album": "Accelerator",
       "durationMs": 246000,
+      "isrc": "USEP42521001",
       "ids": {
         "appleMusic": "1806112851"
       }
@@ -15,6 +16,7 @@
       "artist": "Bad Suns",
       "album": "Accelerator",
       "durationMs": 206000,
+      "isrc": "USEP42521002",
       "ids": {
         "appleMusic": "1806112852"
       }
@@ -24,6 +26,7 @@
       "artist": "Bad Suns",
       "album": "Accelerator",
       "durationMs": 218867,
+      "isrc": "USEP42521003",
       "ids": {
         "appleMusic": "1806112853"
       }
@@ -33,6 +36,7 @@
       "artist": "Bad Suns",
       "album": "Communicating - Single",
       "durationMs": 188400,
+      "isrc": "USEP42442002",
       "ids": {
         "appleMusic": "1785979190"
       }
@@ -42,6 +46,7 @@
       "artist": "Bad Suns",
       "album": "Accelerator",
       "durationMs": 237133,
+      "isrc": "USEP42521004",
       "ids": {
         "appleMusic": "1806112855"
       }
@@ -51,6 +56,7 @@
       "artist": "Bad Suns",
       "album": "Accelerator",
       "durationMs": 228200,
+      "isrc": "USEP42521005",
       "ids": {
         "appleMusic": "1806112856"
       }
@@ -60,6 +66,7 @@
       "artist": "Bad Suns",
       "album": "Accelerator",
       "durationMs": 230533,
+      "isrc": "USEP42521006",
       "ids": {
         "appleMusic": "1806112857"
       }
@@ -69,6 +76,7 @@
       "artist": "Bad Suns",
       "album": "Accelerator",
       "durationMs": 221867,
+      "isrc": "USEP42521007",
       "ids": {
         "appleMusic": "1806112858"
       }
@@ -78,6 +86,7 @@
       "artist": "Bad Suns",
       "album": "Accelerator",
       "durationMs": 210333,
+      "isrc": "USEP42521008",
       "ids": {
         "appleMusic": "1806112859"
       }
@@ -87,6 +96,7 @@
       "artist": "Bad Suns",
       "album": "Accelerator",
       "durationMs": 184000,
+      "isrc": "USEP42521009",
       "ids": {
         "appleMusic": "1806112860"
       }
@@ -96,6 +106,7 @@
       "artist": "Bad Suns",
       "album": "Accelerator",
       "durationMs": 309667,
+      "isrc": "USEP42521010",
       "ids": {
         "appleMusic": "1806112861"
       }
@@ -105,6 +116,7 @@
       "artist": "Bad Suns",
       "album": "Accelerator",
       "durationMs": 223133,
+      "isrc": "USEP42521011",
       "ids": {
         "appleMusic": "1806112862"
       }
@@ -114,6 +126,7 @@
       "artist": "Bad Suns",
       "album": "Lovefool - Single",
       "durationMs": 183097,
+      "isrc": "USEP42442001",
       "ids": {
         "appleMusic": "1769544557"
       }
@@ -123,6 +136,7 @@
       "artist": "Bad Suns",
       "album": "Infinite Joy - EP",
       "durationMs": 200249,
+      "isrc": "USEP42348003",
       "ids": {
         "appleMusic": "1711059240"
       }
@@ -132,6 +146,7 @@
       "artist": "Bad Suns",
       "album": "Infinite Joy - EP",
       "durationMs": 221802,
+      "isrc": "USEP42348001",
       "ids": {
         "appleMusic": "1711059241"
       }
@@ -141,6 +156,7 @@
       "artist": "Bad Suns",
       "album": "Astral Plans - Single",
       "durationMs": 239106,
+      "isrc": "USEP42348002",
       "ids": {
         "appleMusic": "1707566922"
       }
@@ -150,6 +166,7 @@
       "artist": "Bad Suns",
       "album": "Infinite Joy - EP",
       "durationMs": 176544,
+      "isrc": "USEP42348004",
       "ids": {
         "appleMusic": "1711059243"
       }
@@ -159,6 +176,7 @@
       "artist": "Bad Suns",
       "album": "Infinite Joy - EP",
       "durationMs": 211410,
+      "isrc": "USEP42348005",
       "ids": {
         "appleMusic": "1711059244"
       }
@@ -168,6 +186,7 @@
       "artist": "Bad Suns",
       "album": "Infinite Joy - EP",
       "durationMs": 219352,
+      "isrc": "USEP42348006",
       "ids": {
         "appleMusic": "1711059245"
       }
@@ -177,6 +196,7 @@
       "artist": "Bad Suns",
       "album": "Apocalypse Whenever (Deluxe Edition)",
       "durationMs": 218622,
+      "isrc": "USEP42139002",
       "ids": {
         "appleMusic": "1643233361"
       }
@@ -186,6 +206,7 @@
       "artist": "Bad Suns",
       "album": "Apocalypse Whenever",
       "durationMs": 214727,
+      "isrc": "USEP42139003",
       "ids": {
         "appleMusic": "1583061272"
       }
@@ -195,6 +216,7 @@
       "artist": "Bad Suns",
       "album": "Apocalypse Whenever (Deluxe Edition)",
       "durationMs": 220580,
+      "isrc": "USEP42028001",
       "ids": {
         "appleMusic": "1643233363"
       }
@@ -204,6 +226,7 @@
       "artist": "Bad Suns",
       "album": "Apocalypse Whenever (Deluxe Edition)",
       "durationMs": 202956,
+      "isrc": "USEP42139004",
       "ids": {
         "appleMusic": "1643233364"
       }
@@ -213,6 +236,7 @@
       "artist": "Bad Suns",
       "album": "Apocalypse Whenever",
       "durationMs": 210795,
+      "isrc": "USEP42139005",
       "ids": {
         "appleMusic": "1583061275"
       }
@@ -222,6 +246,7 @@
       "artist": "Bad Suns",
       "album": "Apocalypse Whenever (Deluxe Edition)",
       "durationMs": 215822,
+      "isrc": "USEP42139006",
       "ids": {
         "appleMusic": "1643233546"
       }
@@ -231,6 +256,7 @@
       "artist": "Bad Suns",
       "album": "Apocalypse Whenever (Deluxe Edition)",
       "durationMs": 204290,
+      "isrc": "USEP42139007",
       "ids": {
         "appleMusic": "1643233547"
       }
@@ -240,6 +266,7 @@
       "artist": "Bad Suns",
       "album": "Apocalypse Whenever (Deluxe Edition)",
       "durationMs": 226105,
+      "isrc": "USEP42139008",
       "ids": {
         "appleMusic": "1643233548"
       }
@@ -249,6 +276,7 @@
       "artist": "Bad Suns",
       "album": "Apocalypse Whenever",
       "durationMs": 231125,
+      "isrc": "USEP42139009",
       "ids": {
         "appleMusic": "1583061639"
       }
@@ -258,6 +286,7 @@
       "artist": "Bad Suns",
       "album": "Apocalypse Whenever",
       "durationMs": 231846,
+      "isrc": "USEP42139001",
       "ids": {
         "appleMusic": "1583061640"
       }
@@ -267,6 +296,7 @@
       "artist": "Bad Suns",
       "album": "Apocalypse Whenever (Deluxe Edition)",
       "durationMs": 222162,
+      "isrc": "USEP42139010",
       "ids": {
         "appleMusic": "1643233551"
       }
@@ -276,6 +306,7 @@
       "artist": "Bad Suns",
       "album": "Apocalypse Whenever",
       "durationMs": 214071,
+      "isrc": "USEP42139011",
       "ids": {
         "appleMusic": "1583061642"
       }
@@ -285,6 +316,7 @@
       "artist": "Bad Suns",
       "album": "Apocalypse Whenever",
       "durationMs": 259323,
+      "isrc": "USEP42139012",
       "ids": {
         "appleMusic": "1583061643"
       }
@@ -294,6 +326,7 @@
       "artist": "Bad Suns \u0026 PVRIS",
       "album": "Maybe You Saved Me - Single",
       "durationMs": 204632,
+      "isrc": "USEP42238002",
       "ids": {
         "appleMusic": "1634799724"
       }
@@ -303,6 +336,7 @@
       "artist": "Bad Suns",
       "album": "Apocalypse Whenever (Deluxe Edition)",
       "durationMs": 175691,
+      "isrc": "USEP42238003",
       "ids": {
         "appleMusic": "1643233555"
       }
@@ -312,6 +346,7 @@
       "artist": "Bad Suns \u0026 Robotaki",
       "album": "Apocalypse Whenever (Deluxe Edition)",
       "durationMs": 214286,
+      "isrc": "USEP42238001",
       "ids": {
         "appleMusic": "1643233556"
       }
@@ -321,6 +356,7 @@
       "artist": "Bad Suns",
       "album": "Unstable - Single",
       "durationMs": 193000,
+      "isrc": "USEP42028003",
       "ids": {
         "appleMusic": "1509483175"
       }
@@ -330,6 +366,7 @@
       "artist": "Bad Suns",
       "album": "I'm Not Having Any Fun - Single",
       "durationMs": 191027,
+      "isrc": "USEP42028002",
       "ids": {
         "appleMusic": "1506697891"
       }
@@ -339,6 +376,7 @@
       "artist": "Bad Suns",
       "album": "Mystic Truth",
       "durationMs": 205373,
+      "isrc": "USEP41852001",
       "ids": {
         "appleMusic": "1485073940"
       }
@@ -348,6 +386,7 @@
       "artist": "Bad Suns",
       "album": "Mystic Truth",
       "durationMs": 217333,
+      "isrc": "USEP41852002",
       "ids": {
         "appleMusic": "1485073942"
       }
@@ -357,6 +396,7 @@
       "artist": "Bad Suns",
       "album": "Mystic Truth",
       "durationMs": 209360,
+      "isrc": "USEP41852003",
       "ids": {
         "appleMusic": "1485073943"
       }
@@ -366,6 +406,7 @@
       "artist": "Bad Suns",
       "album": "Mystic Truth",
       "durationMs": 172133,
+      "isrc": "USEP41852004",
       "ids": {
         "appleMusic": "1485073944"
       }
@@ -375,6 +416,7 @@
       "artist": "Bad Suns",
       "album": "Mystic Truth",
       "durationMs": 153227,
+      "isrc": "USEP41852005",
       "ids": {
         "appleMusic": "1485073945"
       }
@@ -384,6 +426,7 @@
       "artist": "Bad Suns",
       "album": "Mystic Truth",
       "durationMs": 217867,
+      "isrc": "USEP41852006",
       "ids": {
         "appleMusic": "1485073946"
       }
@@ -393,8 +436,14 @@
       "artist": "Bad Suns",
       "album": "Mystic Truth",
       "durationMs": 182333,
+      "isrc": "USEP41852007",
       "ids": {
         "appleMusic": "1485073947"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -402,6 +451,7 @@
       "artist": "Bad Suns",
       "album": "Mystic Truth",
       "durationMs": 161307,
+      "isrc": "USEP41852008",
       "ids": {
         "appleMusic": "1485073948"
       }
@@ -411,6 +461,7 @@
       "artist": "Bad Suns",
       "album": "Mystic Truth",
       "durationMs": 211053,
+      "isrc": "USEP41852009",
       "ids": {
         "appleMusic": "1485073949"
       }
@@ -420,6 +471,7 @@
       "artist": "Bad Suns",
       "album": "Mystic Truth",
       "durationMs": 242573,
+      "isrc": "USEP41852010",
       "ids": {
         "appleMusic": "1485073950"
       }
@@ -429,6 +481,7 @@
       "artist": "Bad Suns",
       "album": "Disappear Here",
       "durationMs": 225347,
+      "isrc": "QMRSZ1600412",
       "ids": {
         "appleMusic": "1485076041"
       }
@@ -438,8 +491,14 @@
       "artist": "Bad Suns",
       "album": "Disappear Here",
       "durationMs": 206067,
+      "isrc": "QMRSZ1600413",
       "ids": {
         "appleMusic": "1485076044"
+      },
+      "features": {
+        "bpm": 176.68,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -447,8 +506,14 @@
       "artist": "Bad Suns",
       "album": "Disappear Here",
       "durationMs": 236440,
+      "isrc": "QMRSZ1600414",
       "ids": {
         "appleMusic": "1485076045"
+      },
+      "features": {
+        "bpm": 132.09,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -456,8 +521,14 @@
       "artist": "Bad Suns",
       "album": "Disappear Here",
       "durationMs": 223907,
+      "isrc": "QMRSZ1600415",
       "ids": {
         "appleMusic": "1485076046"
+      },
+      "features": {
+        "bpm": 109.96,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -465,8 +536,14 @@
       "artist": "Bad Suns",
       "album": "Disappear Here",
       "durationMs": 237973,
+      "isrc": "QMRSZ1600471",
       "ids": {
         "appleMusic": "1485076049"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -474,8 +551,14 @@
       "artist": "Bad Suns",
       "album": "Disappear Here",
       "durationMs": 211507,
+      "isrc": "QMRSZ1600416",
       "ids": {
         "appleMusic": "1485076052"
+      },
+      "features": {
+        "bpm": 178.21,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -483,8 +566,14 @@
       "artist": "Bad Suns",
       "album": "Disappear Here",
       "durationMs": 221280,
+      "isrc": "QMRSZ1600417",
       "ids": {
         "appleMusic": "1485076055"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -510,8 +599,14 @@
       "artist": "Bad Suns",
       "album": "Disappear Here",
       "durationMs": 198400,
+      "isrc": "QMRSZ1600420",
       "ids": {
         "appleMusic": "1485076208"
+      },
+      "features": {
+        "bpm": 103.1,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -519,8 +614,14 @@
       "artist": "Bad Suns",
       "album": "Disappear Here",
       "durationMs": 205373,
+      "isrc": "QMRSZ1600421",
       "ids": {
         "appleMusic": "1485076209"
+      },
+      "features": {
+        "bpm": 124.16,
+        "gain": -10.7,
+        "source": "deezer"
       }
     },
     {
@@ -528,8 +629,14 @@
       "artist": "Bad Suns",
       "album": "Disappear Here",
       "durationMs": 153173,
+      "isrc": "QMRSZ1600473",
       "ids": {
         "appleMusic": "1485076210"
+      },
+      "features": {
+        "bpm": 136,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -537,8 +644,14 @@
       "artist": "Bad Suns",
       "album": "Disappear Here",
       "durationMs": 200012,
+      "isrc": "QMRSZ1600422",
       "ids": {
         "appleMusic": "1485076211"
+      },
+      "features": {
+        "bpm": 101.58,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -546,8 +659,14 @@
       "artist": "Bad Suns",
       "album": "Language \u0026 Perspective",
       "durationMs": 203541,
+      "isrc": "USVR91421201",
       "ids": {
         "appleMusic": "1485075934"
+      },
+      "features": {
+        "bpm": 132.94,
+        "gain": -6.1,
+        "source": "deezer"
       }
     },
     {
@@ -555,8 +674,14 @@
       "artist": "Bad Suns",
       "album": "Language \u0026 Perspective",
       "durationMs": 189172,
+      "isrc": "USVR91421202",
       "ids": {
         "appleMusic": "1485075935"
+      },
+      "features": {
+        "bpm": 118.12,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -564,6 +689,7 @@
       "artist": "Bad Suns",
       "album": "Transpose - EP",
       "durationMs": 182518,
+      "isrc": "USVR91316301",
       "ids": {
         "appleMusic": "1485073864"
       }
@@ -573,8 +699,14 @@
       "artist": "Bad Suns",
       "album": "Language \u0026 Perspective",
       "durationMs": 214168,
+      "isrc": "USVR91421204",
       "ids": {
         "appleMusic": "1485076027"
+      },
+      "features": {
+        "bpm": 126.05,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -582,8 +714,14 @@
       "artist": "Bad Suns",
       "album": "Language \u0026 Perspective",
       "durationMs": 188599,
+      "isrc": "USVR91421205",
       "ids": {
         "appleMusic": "1485076028"
+      },
+      "features": {
+        "bpm": 183.75,
+        "gain": -6.3,
+        "source": "deezer"
       }
     },
     {
@@ -591,8 +729,14 @@
       "artist": "Bad Suns",
       "album": "Language \u0026 Perspective",
       "durationMs": 225760,
+      "isrc": "USVR91421206",
       "ids": {
         "appleMusic": "1485076029"
+      },
+      "features": {
+        "bpm": 124.16,
+        "gain": -5.7,
+        "source": "deezer"
       }
     },
     {
@@ -600,8 +744,14 @@
       "artist": "Bad Suns",
       "album": "Transpose EP",
       "durationMs": 226544,
+      "isrc": "USVR91316303",
       "ids": {
         "appleMusic": "807439847"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -609,8 +759,14 @@
       "artist": "Bad Suns",
       "album": "Language \u0026 Perspective",
       "durationMs": 233055,
+      "isrc": "USVR91316302",
       "ids": {
         "appleMusic": "1485076031"
+      },
+      "features": {
+        "bpm": 146.09,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
@@ -618,8 +774,14 @@
       "artist": "Bad Suns",
       "album": "Language \u0026 Perspective",
       "durationMs": 214397,
+      "isrc": "USVR91421209",
       "ids": {
         "appleMusic": "1485076032"
+      },
+      "features": {
+        "bpm": 185.4,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -627,6 +789,7 @@
       "artist": "Bad Suns",
       "album": "Language \u0026 Perspective",
       "durationMs": 186663,
+      "isrc": "USVR91421210",
       "ids": {
         "appleMusic": "1485076033"
       }
@@ -636,8 +799,14 @@
       "artist": "Bad Suns",
       "album": "Language \u0026 Perspective",
       "durationMs": 186034,
+      "isrc": "USVR91421211",
       "ids": {
         "appleMusic": "1485076034"
+      },
+      "features": {
+        "bpm": 133.8,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
@@ -645,8 +814,14 @@
       "artist": "Bad Suns",
       "album": "This Was a Home Once - Single",
       "durationMs": 195173,
+      "isrc": "TCADH1733091",
       "ids": {
         "appleMusic": "1292379547"
+      },
+      "features": {
+        "bpm": 106.01,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -654,6 +829,7 @@
       "artist": "Bad Suns \u0026 OurVinyl Pop",
       "album": "Bad Suns | OurVinyl Sessions - Single",
       "durationMs": 182000,
+      "isrc": "QM24S1801285",
       "ids": {
         "appleMusic": "1341982506"
       }
@@ -663,6 +839,7 @@
       "artist": "Bad Suns \u0026 OurVinyl Pop",
       "album": "Bad Suns | OurVinyl Sessions - Single",
       "durationMs": 170000,
+      "isrc": "QM24S1801286",
       "ids": {
         "appleMusic": "1341982507"
       }
@@ -681,8 +858,13 @@
       "artist": "Bad Suns",
       "album": "Salt (Peter Thomas Remix) - Single",
       "durationMs": 243119,
+      "isrc": "USVR91412801",
       "ids": {
         "appleMusic": "1181388039"
+      },
+      "features": {
+        "bpm": 126.05,
+        "source": "deezer"
       }
     },
     {
@@ -690,8 +872,14 @@
       "artist": "Bad Suns",
       "album": "Cardiac Arrest (WoodysProduce Remix) - Single",
       "durationMs": 182400,
+      "isrc": "TCACT1684226",
       "ids": {
         "appleMusic": "1178678143"
+      },
+      "features": {
+        "bpm": 99.86,
+        "gain": -6.9,
+        "source": "deezer"
       }
     }
   ]

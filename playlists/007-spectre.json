@@ -6,8 +6,14 @@
       "artist": "Sam Smith",
       "album": "PRIDE: Celebrate Love",
       "durationMs": 278987,
+      "isrc": "GBUM71505354",
       "ids": {
         "appleMusic": "1751829982"
+      },
+      "features": {
+        "bpm": 130.83,
+        "gain": -11.2,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "Shirley Bassey",
       "album": "60er Pop Hits",
       "durationMs": 168733,
+      "isrc": "ITQ031000049",
       "ids": {
         "appleMusic": "1563890828"
+      },
+      "features": {
+        "bpm": 103.9,
+        "gain": -15.4,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +36,14 @@
       "artist": "Adele",
       "album": "Skyfall - Single",
       "durationMs": 286082,
+      "isrc": "GBBKS1200164",
       "ids": {
         "appleMusic": "566322365"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -33,8 +51,14 @@
       "artist": "Paul McCartney \u0026 Wings",
       "album": "All The Best (UK Version)",
       "durationMs": 191493,
+      "isrc": "GBCCS1500158",
       "ids": {
         "appleMusic": "1440942228"
+      },
+      "features": {
+        "bpm": 154.27,
+        "gain": -13.3,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +66,14 @@
       "artist": "Jack White \u0026 Alicia Keys",
       "album": "Movie Hits",
       "durationMs": 262733,
+      "isrc": "USJAY0800153",
       "ids": {
         "appleMusic": "1308707078"
+      },
+      "features": {
+        "bpm": 142.1,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -51,6 +81,7 @@
       "artist": "Garbage",
       "album": "The World Is Not Enough - Single",
       "durationMs": 237733,
+      "isrc": "USMC19959616",
       "ids": {
         "appleMusic": "1644906907"
       }
@@ -60,8 +91,14 @@
       "artist": "Tina Turner",
       "album": "90s Essence",
       "durationMs": 209907,
+      "isrc": "GBAYE9500152",
       "ids": {
         "appleMusic": "1794520509"
+      },
+      "features": {
+        "bpm": 102.1,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -69,6 +106,7 @@
       "artist": "Chris Cornell",
       "album": "Carry On",
       "durationMs": 240120,
+      "isrc": "USUM70613448",
       "ids": {
         "appleMusic": "1440655757"
       }
@@ -78,8 +116,14 @@
       "artist": "Sheena Easton",
       "album": "You Could Have Been With Me (Bonus Tracks Version)",
       "durationMs": 184480,
+      "isrc": "USMG28100001",
       "ids": {
         "appleMusic": "735021066"
+      },
+      "features": {
+        "bpm": 82.4,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +131,14 @@
       "artist": "Tom Jones",
       "album": "Glanzlichter: Tom Jones",
       "durationMs": 171907,
+      "isrc": "GBF076520920",
       "ids": {
         "appleMusic": "1442683049"
+      },
+      "features": {
+        "bpm": 97.74,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -96,8 +146,14 @@
       "artist": "Sheryl Crow",
       "album": "Tomorrow Never Dies (Soundtrack)",
       "durationMs": 291267,
+      "isrc": "USAM19774851",
       "ids": {
         "appleMusic": "1443099573"
+      },
+      "features": {
+        "bpm": 108,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -105,8 +161,14 @@
       "artist": "Duran Duran",
       "album": "The Singles 1986-1995",
       "durationMs": 217693,
+      "isrc": "USMG28500001",
       "ids": {
         "appleMusic": "1759062325"
+      },
+      "features": {
+        "bpm": 125.3,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -114,6 +176,7 @@
       "artist": "Louis Armstrong",
       "album": "Pure Jazz",
       "durationMs": 193973,
+      "isrc": "DETT11798078",
       "ids": {
         "appleMusic": "696552585"
       }
@@ -123,6 +186,7 @@
       "artist": "Carly Simon",
       "album": "Spy Detective Music",
       "durationMs": 212667,
+      "isrc": "USMG27700012",
       "ids": {
         "appleMusic": "1874771760"
       }
@@ -132,8 +196,14 @@
       "artist": "a-ha",
       "album": "Stay On These Roads",
       "durationMs": 286000,
+      "isrc": "USWB10003330",
       "ids": {
         "appleMusic": "300947022"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -11.4,
+        "source": "deezer"
       }
     },
     {
@@ -141,8 +211,14 @@
       "artist": "Madonna",
       "album": "Celebration (Deluxe Video Edition)",
       "durationMs": 276987,
+      "isrc": "USWB10202888",
       "ids": {
         "appleMusic": "329064739"
+      },
+      "features": {
+        "bpm": 123.8,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -150,8 +226,14 @@
       "artist": "The Crusaders",
       "album": "The Crusaders' Finest Hour",
       "durationMs": 673600,
+      "isrc": "USMC17948328",
       "ids": {
         "appleMusic": "1443115753"
+      },
+      "features": {
+        "bpm": 111.14,
+        "gain": -19.4,
+        "source": "deezer"
       }
     },
     {
@@ -159,6 +241,7 @@
       "artist": "Ivy Levan",
       "album": "Spy (Original Soundtrack Album)",
       "durationMs": 282893,
+      "isrc": "US5941405447",
       "ids": {
         "appleMusic": "1501765052"
       }
@@ -168,8 +251,14 @@
       "artist": "Quincy Jones and His Orchestra",
       "album": "Quincy Jones's Finest Hour",
       "durationMs": 167107,
+      "isrc": "ZA42A1402891",
       "ids": {
         "appleMusic": "1434910446"
+      },
+      "features": {
+        "bpm": 155.4,
+        "gain": -14.2,
+        "source": "deezer"
       }
     },
     {
@@ -177,8 +266,14 @@
       "artist": "Chavela Vargas",
       "album": "2 de noviembre",
       "durationMs": 511333,
+      "isrc": "ES5159623031",
       "ids": {
         "appleMusic": "1712843828"
+      },
+      "features": {
+        "bpm": 136.9,
+        "gain": -21.9,
+        "source": "deezer"
       }
     },
     {
@@ -186,8 +281,14 @@
       "artist": "John Barry",
       "album": "Movie Hits",
       "durationMs": 173093,
+      "isrc": "GBBBN6600001",
       "ids": {
         "appleMusic": "1308707141"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -15.1,
+        "source": "deezer"
       }
     },
     {
@@ -204,6 +305,7 @@
       "artist": "Guns N' Roses",
       "album": "Use Your Illusion I (Deluxe Edition)",
       "durationMs": 183387,
+      "isrc": "USGF19141503",
       "ids": {
         "appleMusic": "1644782459"
       }
@@ -213,8 +315,14 @@
       "artist": "Portishead",
       "album": "romanticizing school",
       "durationMs": 308627,
+      "isrc": "GBAQT9400066",
       "ids": {
         "appleMusic": "1734312911"
+      },
+      "features": {
+        "bpm": 120.19,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -222,8 +330,14 @@
       "artist": "Nina Simone",
       "album": "Feeling Good: Her Greatest Hits \u0026 Remixes",
       "durationMs": 125811,
+      "isrc": "USPR36560024",
       "ids": {
         "appleMusic": "1584419696"
+      },
+      "features": {
+        "bpm": 101.83,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -231,6 +345,7 @@
       "artist": "Beck",
       "album": "Colors",
       "durationMs": 314487,
+      "isrc": "US3841500096",
       "ids": {
         "appleMusic": "1440881782"
       }
@@ -240,8 +355,14 @@
       "artist": "James Brown",
       "album": "Star Time",
       "durationMs": 421307,
+      "isrc": "USUR10200173",
       "ids": {
         "appleMusic": "1793519759"
+      },
+      "features": {
+        "bpm": 185.4,
+        "gain": -15.2,
+        "source": "deezer"
       }
     },
     {
@@ -258,8 +379,14 @@
       "artist": "Green Day",
       "album": "Shenanigans",
       "durationMs": 203333,
+      "isrc": "USRE19700655",
       "ids": {
         "appleMusic": "5132751"
+      },
+      "features": {
+        "bpm": 135.6,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -267,8 +394,14 @@
       "artist": "Beastie Boys",
       "album": "Ill Communication",
       "durationMs": 178440,
+      "isrc": "USCA20501226",
       "ids": {
         "appleMusic": "724771987"
+      },
+      "features": {
+        "bpm": 168.1,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -276,8 +409,14 @@
       "artist": "Roxy Music",
       "album": "The Thrill of It All",
       "durationMs": 246493,
+      "isrc": "GBAAA9900187",
       "ids": {
         "appleMusic": "714827009"
+      },
+      "features": {
+        "bpm": 124.5,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -285,23 +424,36 @@
       "artist": "Dusty Springfield",
       "album": "20th Century Masters - The Millennium Collection: The Best of Dusty Springfield",
       "durationMs": 216107,
+      "isrc": "GBF080300977",
       "ids": {
         "appleMusic": "1440923494"
+      },
+      "features": {
+        "bpm": 95.5,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
       "title": "The Masterplan",
       "artist": "Oasis",
       "album": "The Masterplan",
-      "durationMs": 322640
+      "durationMs": 322640,
+      "isrc": "GBAAW9500350"
     },
     {
       "title": "Edit",
       "artist": "Regina Spektor",
       "album": "100% Indie",
       "durationMs": 291200,
+      "isrc": "USWB10601923",
       "ids": {
         "appleMusic": "1610194907"
+      },
+      "features": {
+        "bpm": 157.2,
+        "gain": -10.4,
+        "source": "deezer"
       }
     },
     {
@@ -309,6 +461,7 @@
       "artist": "Lana Del Rey",
       "album": "Etheral Life",
       "durationMs": 158654,
+      "isrc": "GBUM71205019",
       "ids": {
         "appleMusic": "1693503519"
       }
@@ -318,8 +471,14 @@
       "artist": "The Dead Weather",
       "album": "Horehound",
       "durationMs": 250302,
+      "isrc": "US3JJ0900006",
       "ids": {
         "appleMusic": "320973994"
+      },
+      "features": {
+        "bpm": 98.2,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -327,8 +486,14 @@
       "artist": "Matt Monro",
       "album": "Matt Monroe Sings",
       "durationMs": 156907,
+      "isrc": "GBQRF0836479",
       "ids": {
         "appleMusic": "1272713449"
+      },
+      "features": {
+        "bpm": 98,
+        "gain": -5.64,
+        "source": "deezer"
       }
     },
     {
@@ -336,6 +501,7 @@
       "artist": "Shirley Bassey",
       "album": "15 Classic Tracks",
       "durationMs": 161933,
+      "isrc": "USMG21500012",
       "ids": {
         "appleMusic": "693524248"
       }

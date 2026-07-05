@@ -6,8 +6,14 @@
       "artist": "The Cranberries",
       "album": "The Treasure Box for Boys and Girls",
       "durationMs": 306440,
+      "isrc": "USIR29400443",
       "ids": {
         "appleMusic": "1440953254"
+      },
+      "features": {
+        "bpm": 166,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -33,8 +39,14 @@
       "artist": "Rob Zombie",
       "album": "Hellbilly Deluxe",
       "durationMs": 222827,
+      "isrc": "USGF19821203",
       "ids": {
         "appleMusic": "1440845806"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +54,14 @@
       "artist": "Black Sabbath",
       "album": "Feliz dia do Rock",
       "durationMs": 486227,
+      "isrc": "GBUM71302308",
       "ids": {
         "appleMusic": "1825438615"
+      },
+      "features": {
+        "bpm": 118.1,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -51,6 +69,7 @@
       "artist": "Mötley Crüe",
       "album": "Dr. Feelgood",
       "durationMs": 282653,
+      "isrc": "USBY29900215",
       "ids": {
         "appleMusic": "1764396024"
       }
@@ -60,6 +79,7 @@
       "artist": "Skid Row",
       "album": "I Wanna Rock!",
       "durationMs": 229960,
+      "isrc": "USRH11804145",
       "ids": {
         "appleMusic": "1391629881"
       }
@@ -69,8 +89,14 @@
       "artist": "Nirvana",
       "album": "Nevermind (Super Deluxe Edition)",
       "durationMs": 301920,
+      "isrc": "USGF19942501",
       "ids": {
         "appleMusic": "1440823697"
+      },
+      "features": {
+        "bpm": 116.1,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -78,8 +104,14 @@
       "artist": "Nirvana",
       "album": "Nevermind (Super Deluxe Edition)",
       "durationMs": 257053,
+      "isrc": "USUM71113535",
       "ids": {
         "appleMusic": "1440823708"
+      },
+      "features": {
+        "bpm": 122.6,
+        "gain": -7.98,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +119,14 @@
       "artist": "Rush",
       "album": "The Complete Mercury Years",
       "durationMs": 276880,
+      "isrc": "USMR18180103",
       "ids": {
         "appleMusic": "1440831923"
+      },
+      "features": {
+        "bpm": 175.2,
+        "gain": -12.2,
+        "source": "deezer"
       }
     },
     {
@@ -96,8 +134,14 @@
       "artist": "Beartooth",
       "album": "Disgusting (Deluxe Edition)",
       "durationMs": 213576,
+      "isrc": "USP6L1400182",
       "ids": {
         "appleMusic": "1067439159"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
@@ -105,8 +149,14 @@
       "artist": "Beartooth",
       "album": "Aggressive",
       "durationMs": 239361,
+      "isrc": "USP6L1500110",
       "ids": {
         "appleMusic": "1102861439"
+      },
+      "features": {
+        "bpm": 170.14,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -114,8 +164,14 @@
       "artist": "Beartooth",
       "album": "Disgusting",
       "durationMs": 212732,
+      "isrc": "USP6L1400180",
       "ids": {
         "appleMusic": "872815924"
+      },
+      "features": {
+        "bpm": 160.2,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -123,8 +179,14 @@
       "artist": "Disturbed",
       "album": "The Sickness (10th Anniversary Edition)",
       "durationMs": 278707,
+      "isrc": "USGI19900180",
       "ids": {
         "appleMusic": "360726064"
+      },
+      "features": {
+        "bpm": 179.8,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -132,8 +194,14 @@
       "artist": "Disturbed",
       "album": "Disturbed",
       "durationMs": 278027,
+      "isrc": "USRE10800127",
       "ids": {
         "appleMusic": "367378856"
+      },
+      "features": {
+        "bpm": 179.8,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -141,8 +209,14 @@
       "artist": "Disturbed",
       "album": "Nu Metal Greats",
       "durationMs": 257836,
+      "isrc": "USRE11500171",
       "ids": {
         "appleMusic": "1702004731"
+      },
+      "features": {
+        "bpm": 197.8,
+        "gain": -5.1,
+        "source": "deezer"
       }
     },
     {
@@ -150,8 +224,14 @@
       "artist": "Disturbed",
       "album": "Modern Hard Rock",
       "durationMs": 212040,
+      "isrc": "USRE10500888",
       "ids": {
         "appleMusic": "1629885772"
+      },
+      "features": {
+        "bpm": 106.8,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
@@ -159,8 +239,14 @@
       "artist": "Five Finger Death Punch",
       "album": "Got Your Six (Deluxe)",
       "durationMs": 305744,
+      "isrc": "US5Z51500628",
       "ids": {
         "appleMusic": "1242694339"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -168,8 +254,14 @@
       "artist": "Five Finger Death Punch",
       "album": "Got Your Six (Deluxe)",
       "durationMs": 201097,
+      "isrc": "US5Z51500627",
       "ids": {
         "appleMusic": "1242694338"
+      },
+      "features": {
+        "bpm": 121.96,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -186,8 +278,14 @@
       "artist": "I Prevail",
       "album": "Punk Goes Pop 6",
       "durationMs": 240928,
+      "isrc": "TCACC1437531",
       "ids": {
         "appleMusic": "1004782283"
+      },
+      "features": {
+        "bpm": 97.05,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -195,8 +293,14 @@
       "artist": "Upon This Dawning",
       "album": "To Keep Us Safe",
       "durationMs": 207093,
+      "isrc": "US5261216913",
       "ids": {
         "appleMusic": "1444081891"
+      },
+      "features": {
+        "bpm": 124.91,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -204,8 +308,14 @@
       "artist": "3 Doors Down",
       "album": "The Better Life (Deluxe Edition)",
       "durationMs": 233827,
+      "isrc": "USUR19980187",
       "ids": {
         "appleMusic": "1452011941"
+      },
+      "features": {
+        "bpm": 98.91,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -213,6 +323,7 @@
       "artist": "3 Doors Down",
       "album": "Summer Of '99",
       "durationMs": 238560,
+      "isrc": "USUR10200764",
       "ids": {
         "appleMusic": "1750341653"
       }
@@ -222,6 +333,7 @@
       "artist": "3 Doors Down",
       "album": "The Greatest Hits",
       "durationMs": 274826,
+      "isrc": "USUM71213129",
       "ids": {
         "appleMusic": "1440831382"
       }
@@ -231,6 +343,7 @@
       "artist": "3 Doors Down",
       "album": "Summer Of '99",
       "durationMs": 243053,
+      "isrc": "USUM71213131",
       "ids": {
         "appleMusic": "1750341673"
       }
@@ -240,8 +353,14 @@
       "artist": "Three Days Grace",
       "album": "One-X",
       "durationMs": 207587,
+      "isrc": "USJI10600162",
       "ids": {
         "appleMusic": "287459303"
+      },
+      "features": {
+        "bpm": 130.8,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -249,8 +368,14 @@
       "artist": "Three Days Grace",
       "album": "One-X",
       "durationMs": 231400,
+      "isrc": "USJI10600117",
       "ids": {
         "appleMusic": "1002798163"
+      },
+      "features": {
+        "bpm": 122,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -258,8 +383,14 @@
       "artist": "Three Days Grace",
       "album": "Three Days Grace",
       "durationMs": 231480,
+      "isrc": "USJI10300075",
       "ids": {
         "appleMusic": "1587427716"
+      },
+      "features": {
+        "bpm": 89.3,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -267,8 +398,14 @@
       "artist": "Three Days Grace",
       "album": "One-X",
       "durationMs": 186373,
+      "isrc": "USJI10600165",
       "ids": {
         "appleMusic": "287459314"
+      },
+      "features": {
+        "bpm": 99.2,
+        "gain": -6.3,
+        "source": "deezer"
       }
     },
     {
@@ -276,8 +413,14 @@
       "artist": "Three Days Grace",
       "album": "Three Days Grace",
       "durationMs": 186893,
+      "isrc": "USJI10300077",
       "ids": {
         "appleMusic": "1587427382"
+      },
+      "features": {
+        "bpm": 177.4,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -285,8 +428,14 @@
       "artist": "LINKIN PARK",
       "album": "Nu Metal Hits",
       "durationMs": 187933,
+      "isrc": "USWB10300464",
       "ids": {
         "appleMusic": "1687942501"
+      },
+      "features": {
+        "bpm": 179.8,
+        "gain": -5.8,
+        "source": "deezer"
       }
     },
     {
@@ -294,8 +443,14 @@
       "artist": "LINKIN PARK",
       "album": "Ctrl + ALT",
       "durationMs": 164040,
+      "isrc": "USWB10701472",
       "ids": {
         "appleMusic": "1824435700"
+      },
+      "features": {
+        "bpm": 135.1,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -303,8 +458,14 @@
       "artist": "LINKIN PARK",
       "album": "Dark Alt",
       "durationMs": 164213,
+      "isrc": "USWB10300466",
       "ids": {
         "appleMusic": "1734586914"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -312,6 +473,7 @@
       "artist": "LINKIN PARK",
       "album": "Rock Metal Essentials",
       "durationMs": 175053,
+      "isrc": "USWB10300465",
       "ids": {
         "appleMusic": "6778304446"
       }
@@ -321,6 +483,7 @@
       "artist": "LINKIN PARK",
       "album": "Upiorne hity",
       "durationMs": 164760,
+      "isrc": "USWB10701213",
       "ids": {
         "appleMusic": "1846773913"
       }
@@ -330,6 +493,7 @@
       "artist": "LINKIN PARK",
       "album": "100 Greatest Pop Tracks",
       "durationMs": 205613,
+      "isrc": "USWB10700721",
       "ids": {
         "appleMusic": "1824253015"
       }
@@ -339,6 +503,7 @@
       "artist": "LINKIN PARK",
       "album": "Los Red Hot and More Music",
       "durationMs": 189293,
+      "isrc": "USWB10701211",
       "ids": {
         "appleMusic": "1749231668"
       }
@@ -348,6 +513,7 @@
       "artist": "LINKIN PARK",
       "album": "Minutes to Midnight (Deluxe Edition)",
       "durationMs": 221764,
+      "isrc": "USWB10701216",
       "ids": {
         "appleMusic": "590427452"
       }
@@ -357,8 +523,14 @@
       "artist": "LINKIN PARK",
       "album": "Rock Metal Essentials",
       "durationMs": 184867,
+      "isrc": "USWB10002403",
       "ids": {
         "appleMusic": "6778304473"
+      },
+      "features": {
+        "bpm": 150.3,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -366,8 +538,14 @@
       "artist": "LINKIN PARK",
       "album": "ROCK - Simply the Best Rock Hits",
       "durationMs": 157333,
+      "isrc": "USWB10002399",
       "ids": {
         "appleMusic": "1721390576"
+      },
+      "features": {
+        "bpm": 95,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -375,8 +553,14 @@
       "artist": "Nickelback",
       "album": "Transformers: Revenge of the Fallen (The Album)",
       "durationMs": 212347,
+      "isrc": "NLA320888014",
       "ids": {
         "appleMusic": "318875997"
+      },
+      "features": {
+        "bpm": 132.1,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -384,8 +568,14 @@
       "artist": "Bullet for My Valentine",
       "album": "Hand of Blood / 4 Words - Single",
       "durationMs": 217427,
+      "isrc": "GBHQD0400003",
       "ids": {
         "appleMusic": "456867277"
+      },
+      "features": {
+        "bpm": 187.9,
+        "gain": -6.1,
+        "source": "deezer"
       }
     },
     {
@@ -393,6 +583,7 @@
       "artist": "Miser",
       "album": "Colors",
       "durationMs": 368667,
+      "isrc": "USCGH1221944",
       "ids": {
         "appleMusic": "1526888155"
       }
@@ -402,6 +593,7 @@
       "artist": "Trapt",
       "album": "Trapt",
       "durationMs": 286000,
+      "isrc": "USWB10201991",
       "ids": {
         "appleMusic": "301126021"
       }
@@ -411,8 +603,14 @@
       "artist": "I Prevail",
       "album": "Lifelines",
       "durationMs": 214997,
+      "isrc": "US5261622472",
       "ids": {
         "appleMusic": "1440942074"
+      },
+      "features": {
+        "bpm": 154.85,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -420,8 +618,14 @@
       "artist": "Papa Roach",
       "album": "Metal Mania",
       "durationMs": 199893,
+      "isrc": "USDW10021712",
       "ids": {
         "appleMusic": "1443009711"
+      },
+      "features": {
+        "bpm": 90.5,
+        "gain": -6.9,
+        "source": "deezer"
       }
     }
   ]

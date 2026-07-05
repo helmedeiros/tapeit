@@ -1,92 +1,461 @@
 {
-  "name": "Billboard Rock & Alternative 2022-2025",
+  "name": "Billboard Rock \u0026 Alternative 2022-2025",
   "tracks": [
-    {"title": "Something in the Orange", "artist": "Zach Bryan"},
-    {"title": "I Remember Everything", "artist": "Zach Bryan"},
-    {"title": "Pink Skies", "artist": "Zach Bryan"},
-    {"title": "Hey Driver", "artist": "Zach Bryan"},
-    {"title": "Dawns", "artist": "Zach Bryan"},
-    {"title": "Tourniquet", "artist": "Zach Bryan"},
-    {"title": "28", "artist": "Zach Bryan"},
-    {"title": "Spotless", "artist": "Zach Bryan"},
-    {"title": "Revival", "artist": "Zach Bryan"},
-    {"title": "American Nights", "artist": "Zach Bryan"},
-
-    {"title": "Birds of a Feather", "artist": "Billie Eilish"},
-    {"title": "What Was I Made For?", "artist": "Billie Eilish"},
-    {"title": "Happier Than Ever", "artist": "Billie Eilish"},
-    {"title": "Lunch", "artist": "Billie Eilish"},
-    {"title": "Wildflower", "artist": "Billie Eilish"},
-    {"title": "Chihiro", "artist": "Billie Eilish"},
-    {"title": "Blue", "artist": "Billie Eilish"},
-    {"title": "The Greatest", "artist": "Billie Eilish"},
-    {"title": "Skinny", "artist": "Billie Eilish"},
-    {"title": "TV", "artist": "Billie Eilish"},
-
-    {"title": "Stick Season", "artist": "Noah Kahan"},
-    {"title": "Dial Drunk", "artist": "Noah Kahan"},
-    {"title": "Northern Attitude", "artist": "Noah Kahan"},
-    {"title": "You're Gonna Go Far", "artist": "Noah Kahan"},
-    {"title": "Forever", "artist": "Noah Kahan"},
-    {"title": "Everywhere, Everything", "artist": "Noah Kahan"},
-    {"title": "Homesick", "artist": "Noah Kahan"},
-    {"title": "All My Love", "artist": "Noah Kahan"},
-    {"title": "Orange Juice", "artist": "Noah Kahan"},
-    {"title": "Your Needs, My Needs", "artist": "Noah Kahan"},
-
-    {"title": "Need a Favor", "artist": "Jelly Roll"},
-    {"title": "Son of a Sinner", "artist": "Jelly Roll"},
-    {"title": "Liar", "artist": "Jelly Roll"},
-    {"title": "Halfway to Hell", "artist": "Jelly Roll"},
-    {"title": "Heart of Stone", "artist": "Jelly Roll"},
-    {"title": "Hard Fought Hallelujah", "artist": "Jelly Roll"},
-    {"title": "Save Me", "artist": "Jelly Roll"},
-    {"title": "Wild Ones", "artist": "Jelly Roll"},
-    {"title": "I Am Not Okay", "artist": "Jelly Roll"},
-    {"title": "Creature", "artist": "Jelly Roll"},
-
-    {"title": "Enemy", "artist": "Imagine Dragons"},
-    {"title": "Bones", "artist": "Imagine Dragons"},
-    {"title": "Sharks", "artist": "Imagine Dragons"},
-    {"title": "Eyes Closed", "artist": "Imagine Dragons"},
-    {"title": "Believer", "artist": "Imagine Dragons"},
-    {"title": "Thunder", "artist": "Imagine Dragons"},
-    {"title": "Radioactive", "artist": "Imagine Dragons"},
-    {"title": "Demons", "artist": "Imagine Dragons"},
-    {"title": "Natural", "artist": "Imagine Dragons"},
-    {"title": "Whatever It Takes", "artist": "Imagine Dragons"},
-
-    {"title": "Bad Idea Right?", "artist": "Olivia Rodrigo"},
-    {"title": "Get Him Back!", "artist": "Olivia Rodrigo"},
-    {"title": "Obsessed", "artist": "Olivia Rodrigo"},
-    {"title": "All-American Bitch", "artist": "Olivia Rodrigo"},
-    {"title": "Vampire", "artist": "Olivia Rodrigo"},
-    {"title": "Good 4 U", "artist": "Olivia Rodrigo"},
-    {"title": "Drivers License", "artist": "Olivia Rodrigo"},
-    {"title": "Deja Vu", "artist": "Olivia Rodrigo"},
-    {"title": "Traitor", "artist": "Olivia Rodrigo"},
-    {"title": "Brutal", "artist": "Olivia Rodrigo"},
-
-    {"title": "Too Sweet", "artist": "Hozier"},
-    {"title": "Eat Your Young", "artist": "Hozier"},
-    {"title": "Take Me to Church", "artist": "Hozier"},
-    {"title": "Work Song", "artist": "Hozier"},
-    {"title": "Cherry Wine", "artist": "Hozier"},
-    {"title": "Movement", "artist": "Hozier"},
-    {"title": "Would That I", "artist": "Hozier"},
-    {"title": "Nina Cried Power", "artist": "Hozier"},
-    {"title": "Almost (Sweet Music)", "artist": "Hozier"},
-    {"title": "Jackie and Wilson", "artist": "Hozier"},
-
-    {"title": "Emo Girl", "artist": "Machine Gun Kelly"},
-    {"title": "Make Up Sex", "artist": "Machine Gun Kelly"},
-    {"title": "Ay!", "artist": "Machine Gun Kelly"},
-    {"title": "Maybe", "artist": "Machine Gun Kelly"},
-    {"title": "Cliché", "artist": "Machine Gun Kelly"},
-    {"title": "My Ex's Best Friend", "artist": "Machine Gun Kelly"},
-    {"title": "Bloody Valentine", "artist": "Machine Gun Kelly"},
-    {"title": "Papercuts", "artist": "Machine Gun Kelly"},
-    {"title": "Twin Flame", "artist": "Machine Gun Kelly"},
-    {"title": "Pressure", "artist": "Machine Gun Kelly"}
+    {
+      "title": "Something in the Orange",
+      "artist": "Zach Bryan",
+      "isrc": "USWB12201356"
+    },
+    {
+      "title": "I Remember Everything",
+      "artist": "Zach Bryan",
+      "isrc": "USWB12304903"
+    },
+    {
+      "title": "Pink Skies",
+      "artist": "Zach Bryan",
+      "isrc": "USWB12401947"
+    },
+    {
+      "title": "Hey Driver",
+      "artist": "Zach Bryan",
+      "isrc": "USWB12304897"
+    },
+    {
+      "title": "Dawns",
+      "artist": "Zach Bryan",
+      "isrc": "USWB12300176"
+    },
+    {
+      "title": "Tourniquet",
+      "artist": "Zach Bryan",
+      "isrc": "USWB12304904"
+    },
+    {
+      "title": "28",
+      "artist": "Zach Bryan",
+      "isrc": "USWB12402693"
+    },
+    {
+      "title": "Spotless",
+      "artist": "Zach Bryan",
+      "isrc": "USWB12304905"
+    },
+    {
+      "title": "Revival",
+      "artist": "Zach Bryan",
+      "isrc": "TCAEW2013163"
+    },
+    {
+      "title": "American Nights",
+      "artist": "Zach Bryan",
+      "isrc": "USWB12402694"
+    },
+    {
+      "title": "Birds of a Feather",
+      "artist": "Billie Eilish"
+    },
+    {
+      "title": "What Was I Made For?",
+      "artist": "Billie Eilish"
+    },
+    {
+      "title": "Happier Than Ever",
+      "artist": "Billie Eilish",
+      "isrc": "USUM72105936"
+    },
+    {
+      "title": "Lunch",
+      "artist": "Billie Eilish",
+      "isrc": "USUM72401991"
+    },
+    {
+      "title": "Wildflower",
+      "artist": "Billie Eilish",
+      "isrc": "USUM72401993"
+    },
+    {
+      "title": "Chihiro",
+      "artist": "Billie Eilish",
+      "isrc": "USUM72401988"
+    },
+    {
+      "title": "Blue",
+      "artist": "Billie Eilish",
+      "isrc": "USUM72401996"
+    },
+    {
+      "title": "The Greatest",
+      "artist": "Billie Eilish",
+      "isrc": "USUM72401992"
+    },
+    {
+      "title": "Skinny",
+      "artist": "Billie Eilish",
+      "isrc": "USUM72401995"
+    },
+    {
+      "title": "TV",
+      "artist": "Billie Eilish",
+      "isrc": "USUM72213724"
+    },
+    {
+      "title": "Stick Season",
+      "artist": "Noah Kahan",
+      "isrc": "USUM72212470"
+    },
+    {
+      "title": "Dial Drunk",
+      "artist": "Noah Kahan",
+      "isrc": "USUM72308676"
+    },
+    {
+      "title": "Northern Attitude",
+      "artist": "Noah Kahan",
+      "isrc": "USUM72315552"
+    },
+    {
+      "title": "You're Gonna Go Far",
+      "artist": "Noah Kahan",
+      "isrc": "USUM72307687"
+    },
+    {
+      "title": "Forever",
+      "artist": "Noah Kahan",
+      "isrc": "USUM72400725"
+    },
+    {
+      "title": "Everywhere, Everything",
+      "artist": "Noah Kahan",
+      "isrc": "USUM72317571"
+    },
+    {
+      "title": "Homesick",
+      "artist": "Noah Kahan",
+      "isrc": "USUM72400057"
+    },
+    {
+      "title": "All My Love",
+      "artist": "Noah Kahan",
+      "isrc": "USUM72217168"
+    },
+    {
+      "title": "Orange Juice",
+      "artist": "Noah Kahan",
+      "isrc": "USUM72217174"
+    },
+    {
+      "title": "Your Needs, My Needs",
+      "artist": "Noah Kahan",
+      "isrc": "USUM72307682"
+    },
+    {
+      "title": "Need a Favor",
+      "artist": "Jelly Roll",
+      "isrc": "QMRSZ2203220"
+    },
+    {
+      "title": "Son of a Sinner",
+      "artist": "Jelly Roll",
+      "isrc": "QMRSZ2102218"
+    },
+    {
+      "title": "Liar",
+      "artist": "Jelly Roll",
+      "isrc": "USUG12404541"
+    },
+    {
+      "title": "Halfway to Hell",
+      "artist": "Jelly Roll",
+      "isrc": "QMRSZ2300351"
+    },
+    {
+      "title": "Heart of Stone",
+      "artist": "Jelly Roll",
+      "isrc": "USUG12404535"
+    },
+    {
+      "title": "Hard Fought Hallelujah",
+      "artist": "Jelly Roll"
+    },
+    {
+      "title": "Save Me",
+      "artist": "Jelly Roll",
+      "isrc": "USZHR2000088"
+    },
+    {
+      "title": "Wild Ones",
+      "artist": "Jelly Roll"
+    },
+    {
+      "title": "I Am Not Okay",
+      "artist": "Jelly Roll",
+      "isrc": "USUG12403674"
+    },
+    {
+      "title": "Creature",
+      "artist": "Jelly Roll",
+      "isrc": "USZHR1800865"
+    },
+    {
+      "title": "Enemy",
+      "artist": "Imagine Dragons",
+      "isrc": "USUM72119916"
+    },
+    {
+      "title": "Bones",
+      "artist": "Imagine Dragons",
+      "isrc": "USUM72201759"
+    },
+    {
+      "title": "Sharks",
+      "artist": "Imagine Dragons",
+      "isrc": "USUM72205464"
+    },
+    {
+      "title": "Eyes Closed",
+      "artist": "Imagine Dragons",
+      "isrc": "USUM72402448"
+    },
+    {
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "isrc": "USUM71700626",
+      "features": {
+        "bpm": 124.91,
+        "gain": -6.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Thunder",
+      "artist": "Imagine Dragons",
+      "isrc": "USUM71704167",
+      "features": {
+        "bpm": 168.06,
+        "gain": -7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Radioactive",
+      "artist": "Imagine Dragons",
+      "isrc": "USUM71201074",
+      "features": {
+        "bpm": 136.45,
+        "gain": -5.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Demons",
+      "artist": "Imagine Dragons",
+      "isrc": "USUM71201071",
+      "features": {
+        "bpm": 89.88,
+        "gain": -6,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Natural",
+      "artist": "Imagine Dragons",
+      "isrc": "USUM71806694",
+      "features": {
+        "bpm": 99.86,
+        "gain": -8.8,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Whatever It Takes",
+      "artist": "Imagine Dragons",
+      "isrc": "USUM71703515",
+      "features": {
+        "bpm": 135.11,
+        "gain": -7.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Bad Idea Right?",
+      "artist": "Olivia Rodrigo",
+      "isrc": "USUG12304094"
+    },
+    {
+      "title": "Get Him Back!",
+      "artist": "Olivia Rodrigo",
+      "isrc": "USUG12304099"
+    },
+    {
+      "title": "Obsessed",
+      "artist": "Olivia Rodrigo",
+      "isrc": "USUG12305564"
+    },
+    {
+      "title": "All-American Bitch",
+      "artist": "Olivia Rodrigo",
+      "isrc": "USUG12304093"
+    },
+    {
+      "title": "Vampire",
+      "artist": "Olivia Rodrigo",
+      "isrc": "USUG12304091"
+    },
+    {
+      "title": "Good 4 U",
+      "artist": "Olivia Rodrigo",
+      "isrc": "USUG12101245"
+    },
+    {
+      "title": "Drivers License",
+      "artist": "Olivia Rodrigo",
+      "isrc": "USUG12004749"
+    },
+    {
+      "title": "Deja Vu",
+      "artist": "Olivia Rodrigo",
+      "isrc": "USUG12101240"
+    },
+    {
+      "title": "Traitor",
+      "artist": "Olivia Rodrigo",
+      "isrc": "USUG12101243"
+    },
+    {
+      "title": "Brutal",
+      "artist": "Olivia Rodrigo",
+      "isrc": "USUG12101242"
+    },
+    {
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "isrc": "IEACJ2300335"
+    },
+    {
+      "title": "Eat Your Young",
+      "artist": "Hozier",
+      "isrc": "IEACJ2300020"
+    },
+    {
+      "title": "Take Me to Church",
+      "artist": "Hozier",
+      "isrc": "IEACJ1300031",
+      "features": {
+        "bpm": 128.8,
+        "gain": -8.1,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Work Song",
+      "artist": "Hozier",
+      "isrc": "IEACJ1400146",
+      "features": {
+        "bpm": 121.2,
+        "gain": -9.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Cherry Wine",
+      "artist": "Hozier",
+      "isrc": "IEACJ1300034",
+      "features": {
+        "bpm": 128.8,
+        "gain": -13.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Movement",
+      "artist": "Hozier",
+      "isrc": "IEACJ1800083",
+      "features": {
+        "bpm": 142.07,
+        "gain": -8.4,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Would That I",
+      "artist": "Hozier",
+      "isrc": "IEACJ1800137",
+      "features": {
+        "bpm": 130.83,
+        "gain": -8.3,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Nina Cried Power",
+      "artist": "Hozier",
+      "isrc": "IEACJ1800073",
+      "features": {
+        "bpm": 98.91,
+        "gain": -6.3,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Almost (Sweet Music)",
+      "artist": "Hozier",
+      "isrc": "IEACJ1800127",
+      "features": {
+        "bpm": 179.76,
+        "gain": -7.6,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Jackie and Wilson",
+      "artist": "Hozier",
+      "isrc": "IEACJ1400141",
+      "features": {
+        "bpm": 164.1,
+        "gain": -6.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Emo Girl",
+      "artist": "Machine Gun Kelly"
+    },
+    {
+      "title": "Make Up Sex",
+      "artist": "Machine Gun Kelly"
+    },
+    {
+      "title": "Ay!",
+      "artist": "Machine Gun Kelly"
+    },
+    {
+      "title": "Maybe",
+      "artist": "Machine Gun Kelly"
+    },
+    {
+      "title": "Cliché",
+      "artist": "Machine Gun Kelly"
+    },
+    {
+      "title": "My Ex's Best Friend",
+      "artist": "Machine Gun Kelly"
+    },
+    {
+      "title": "Bloody Valentine",
+      "artist": "Machine Gun Kelly"
+    },
+    {
+      "title": "Papercuts",
+      "artist": "Machine Gun Kelly"
+    },
+    {
+      "title": "Twin Flame",
+      "artist": "Machine Gun Kelly"
+    },
+    {
+      "title": "Pressure",
+      "artist": "Machine Gun Kelly"
+    }
   ]
 }

@@ -6,6 +6,7 @@
       "artist": "100 gecs",
       "album": "10,000 gecs",
       "durationMs": 137440,
+      "isrc": "USAT22208962",
       "ids": {
         "appleMusic": "1655225321"
       }
@@ -15,6 +16,7 @@
       "artist": "Tzusing",
       "album": "绿帽 Green Hat",
       "durationMs": 248063,
+      "isrc": "QMB622312312",
       "ids": {
         "appleMusic": "1669105802"
       }
@@ -24,6 +26,7 @@
       "artist": "Skrillex \u0026 Nai Barghouti",
       "album": "Quest For Fire",
       "durationMs": 251586,
+      "isrc": "USAT22300340",
       "ids": {
         "appleMusic": "1672155594"
       }
@@ -33,6 +36,7 @@
       "artist": "Underworld",
       "album": "Beaucoup Fish (Remastered / Super Deluxe)",
       "durationMs": 461187,
+      "isrc": "UK7EF1600011",
       "ids": {
         "appleMusic": "1442999319"
       }
@@ -42,6 +46,7 @@
       "artist": "The Prodigy",
       "album": "Firestarter - EP",
       "durationMs": 471733,
+      "isrc": "GBBKS9700094",
       "ids": {
         "appleMusic": "1540686684"
       }
@@ -51,6 +56,7 @@
       "artist": "Toño Rosario",
       "album": "KULIKITAKA - Single (En Vivo)",
       "durationMs": 219115,
+      "isrc": "USEWG2300002",
       "ids": {
         "appleMusic": "1671890279"
       }
@@ -60,6 +66,7 @@
       "artist": "Romy \u0026 Fred again..",
       "album": "Strong - Single",
       "durationMs": 234053,
+      "isrc": "UK7MC2200175",
       "ids": {
         "appleMusic": "1650658608"
       }
@@ -69,6 +76,7 @@
       "artist": "3Phaz",
       "album": "Drumtratrax - Single",
       "durationMs": 241233,
+      "isrc": "COAB11900146",
       "ids": {
         "appleMusic": "1685920384"
       }
@@ -78,6 +86,7 @@
       "artist": "For Those I Love",
       "album": "I Have a Love (Overmono Remix) - Single",
       "durationMs": 366149,
+      "isrc": "QMFME2013719",
       "ids": {
         "appleMusic": "1538450829"
       }
@@ -87,6 +96,7 @@
       "artist": "The Chemical Brothers",
       "album": "The Darkness That You Fear - Single",
       "durationMs": 365933,
+      "isrc": "GBUM72101144",
       "ids": {
         "appleMusic": "1575699663"
       }
@@ -96,8 +106,14 @@
       "artist": "The Chemical Brothers",
       "album": "No Geography",
       "durationMs": 261267,
+      "isrc": "GBUM71807658",
       "ids": {
         "appleMusic": "1450389830"
+      },
+      "features": {
+        "bpm": 124.91,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -105,6 +121,7 @@
       "artist": "Jamie xx",
       "album": "In Colour",
       "durationMs": 297267,
+      "isrc": "UK7MC1500025",
       "ids": {
         "appleMusic": "1525506993"
       }
@@ -114,6 +131,7 @@
       "artist": "SOPHIE",
       "album": "Oil of Every Pearl's Un-Insides",
       "durationMs": 546356,
+      "isrc": "AUFF01800040",
       "ids": {
         "appleMusic": "1395046318"
       }
@@ -123,8 +141,14 @@
       "artist": "Skrillex",
       "album": "Scary Monsters and Nice Sprites",
       "durationMs": 389024,
+      "isrc": "GBTDG1000200",
       "ids": {
         "appleMusic": "409001997"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -132,6 +156,7 @@
       "artist": "Karla Borecky",
       "album": "Still In Your Pocket",
       "durationMs": 234027,
+      "isrc": "DEX260992688",
       "ids": {
         "appleMusic": "922529532"
       }
@@ -141,6 +166,7 @@
       "artist": "Lorenzo Senni",
       "album": "Think Big - Single",
       "durationMs": 367920,
+      "isrc": "GBBPW2000017",
       "ids": {
         "appleMusic": "1507927492"
       }

@@ -6,8 +6,14 @@
       "artist": "Hot Chip",
       "album": "Made in the Dark",
       "durationMs": 234240,
+      "isrc": "GBAYE0703181",
       "ids": {
         "appleMusic": "1251019255"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -15,6 +21,7 @@
       "artist": "MGMT",
       "album": "Time to Pretend - Single",
       "durationMs": 261000,
+      "isrc": "USSM10702127",
       "ids": {
         "appleMusic": "305864791"
       }
@@ -24,6 +31,7 @@
       "artist": "Phoenix",
       "album": "Wolfgang Amadeus Phoenix",
       "durationMs": 193107,
+      "isrc": "FR31Q0900002",
       "ids": {
         "appleMusic": "1771710539"
       }
@@ -33,8 +41,14 @@
       "artist": "Regina Spektor",
       "album": "Begin to Hope",
       "durationMs": 226680,
+      "isrc": "USWB10600587",
       "ids": {
         "appleMusic": "157819403"
+      },
+      "features": {
+        "bpm": 92.9,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -42,6 +56,7 @@
       "artist": "Solange",
       "album": "Losing You - Single",
       "durationMs": 260400,
+      "isrc": "USME31201358",
       "ids": {
         "appleMusic": "1648346153"
       }
@@ -51,6 +66,7 @@
       "artist": "She \u0026 Him",
       "album": "Volume One",
       "durationMs": 150507,
+      "isrc": "USMRG0832402",
       "ids": {
         "appleMusic": "1839131584"
       }
@@ -60,6 +76,7 @@
       "artist": "Novos Baianos",
       "album": "Acabou Chorare",
       "durationMs": 232200,
+      "isrc": "BRSGL7200015",
       "ids": {
         "appleMusic": "1831607577"
       }
@@ -69,8 +86,14 @@
       "artist": "Lykke Li",
       "album": "Hits 2000",
       "durationMs": 228467,
+      "isrc": "SEVUM1000502",
       "ids": {
         "appleMusic": "1651228625"
+      },
+      "features": {
+        "bpm": 122.3,
+        "gain": -16,
+        "source": "deezer"
       }
     },
     {
@@ -78,8 +101,14 @@
       "artist": "Lorde",
       "album": "Wake Up",
       "durationMs": 234653,
+      "isrc": "NZUM71700063",
       "ids": {
         "appleMusic": "1551388198"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +116,14 @@
       "artist": "Justice",
       "album": "D.A.N.C.E. (Logic Reprise) - Single",
       "durationMs": 242267,
+      "isrc": "FR0NT0700420",
       "ids": {
         "appleMusic": "1655184119"
+      },
+      "features": {
+        "bpm": 113,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -96,6 +131,7 @@
       "artist": "Gal Costa",
       "album": "Tropical Romance: Bossa Nova for Lovers",
       "durationMs": 205027,
+      "isrc": "BRMCA6900124",
       "ids": {
         "appleMusic": "960299338"
       }
@@ -105,6 +141,7 @@
       "artist": "Eleanor Friedberger",
       "album": "Last Summer",
       "durationMs": 268907,
+      "isrc": "USMRG1142101",
       "ids": {
         "appleMusic": "1751171263"
       }
@@ -114,8 +151,14 @@
       "artist": "The Cure",
       "album": "Kiss Me Kiss Me Kiss Me",
       "durationMs": 212827,
+      "isrc": "GBALB8700003",
       "ids": {
         "appleMusic": "1444058551"
+      },
+      "features": {
+        "bpm": 150.34,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -132,8 +175,14 @@
       "artist": "Arcade Fire",
       "album": "Funeral",
       "durationMs": 335333,
+      "isrc": "USMRG0467008",
       "ids": {
         "appleMusic": "1249418625"
+      },
+      "features": {
+        "bpm": 138.74,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -141,8 +190,14 @@
       "artist": "New Order",
       "album": "Total (Deluxe Version)",
       "durationMs": 226293,
+      "isrc": "GBCRL1100219",
       "ids": {
         "appleMusic": "439807782"
+      },
+      "features": {
+        "bpm": 118.5,
+        "gain": -11,
+        "source": "deezer"
       }
     },
     {
@@ -150,8 +205,14 @@
       "artist": "Franz Ferdinand",
       "album": "Franz Ferdinand",
       "durationMs": 229027,
+      "isrc": "GBCEL0300190",
       "ids": {
         "appleMusic": "315844010"
+      },
+      "features": {
+        "bpm": 152.56,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -159,6 +220,7 @@
       "artist": "Interpol",
       "album": "Evil - EP",
       "durationMs": 215827,
+      "isrc": "USMTD0567902",
       "ids": {
         "appleMusic": "1589113505"
       }
@@ -168,8 +230,14 @@
       "artist": "Madonna",
       "album": "FYP Pop Hits",
       "durationMs": 337733,
+      "isrc": "USWB10504319",
       "ids": {
         "appleMusic": "1854679850"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -177,6 +245,7 @@
       "artist": "Friendly Fires",
       "album": "Friendly Fires (Expanded Version)",
       "durationMs": 213640,
+      "isrc": "GBBKS0800402",
       "ids": {
         "appleMusic": "325550983"
       }
@@ -186,8 +255,14 @@
       "artist": "LCD Soundsystem",
       "album": "Modern Alternative Pop",
       "durationMs": 355813,
+      "isrc": "US4GE1000023",
       "ids": {
         "appleMusic": "1622353412"
+      },
+      "features": {
+        "bpm": 117.1,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
@@ -195,8 +270,14 @@
       "artist": "Little Joy",
       "album": "Little Joy",
       "durationMs": 173613,
+      "isrc": "GBCVZ0802478",
       "ids": {
         "appleMusic": "293921685"
+      },
+      "features": {
+        "bpm": 159,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -204,8 +285,14 @@
       "artist": "Cat Power",
       "album": "The Greatest: Slipcase Edition",
       "durationMs": 202560,
+      "isrc": "USMTD0662601",
       "ids": {
         "appleMusic": "1589276270"
+      },
+      "features": {
+        "bpm": 107.4,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -213,23 +300,41 @@
       "artist": "Passion Pit",
       "album": "Gossamer (Expanded Edition)",
       "durationMs": 264547,
+      "isrc": "USSM11202617",
       "ids": {
         "appleMusic": "1680812015"
+      },
+      "features": {
+        "bpm": 101.1,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
       "title": "Mardy Bum",
       "artist": "Arctic Monkeys",
       "album": "Whatever People Say I Am, That's What I'm Not",
-      "durationMs": 175440
+      "durationMs": 175440,
+      "isrc": "GBCEL0501188",
+      "features": {
+        "bpm": 112.35,
+        "gain": -9.9,
+        "source": "deezer"
+      }
     },
     {
       "title": "Ruby",
       "artist": "Kaiser Chiefs",
       "album": "Yours Truly, Angry Mob (Deluxe)",
       "durationMs": 204200,
+      "isrc": "GBDVX0600080",
       "ids": {
         "appleMusic": "1443919262"
+      },
+      "features": {
+        "bpm": 187.9,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -237,6 +342,7 @@
       "artist": "Supergrass",
       "album": "Supergrass Is 10 - The Best Of 94-04",
       "durationMs": 180880,
+      "isrc": "GBAYE9500044",
       "ids": {
         "appleMusic": "1437332848"
       }
@@ -246,8 +352,14 @@
       "artist": "Kings of Leon",
       "album": "Coffeehouse Classics, Vol. 1",
       "durationMs": 175547,
+      "isrc": "USRC10401362",
       "ids": {
         "appleMusic": "1030788404"
+      },
+      "features": {
+        "bpm": 140.15,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -255,6 +367,7 @@
       "artist": "The Killers",
       "album": "Sam's Town",
       "durationMs": 246840,
+      "isrc": "USUM70605406",
       "ids": {
         "appleMusic": "1440507529"
       }
@@ -264,8 +377,14 @@
       "artist": "Two Door Cinema Club",
       "album": "Tourist History (Deluxe Edition)",
       "durationMs": 166573,
+      "isrc": "FRU700900115",
       "ids": {
         "appleMusic": "920412101"
+      },
+      "features": {
+        "bpm": 159.6,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -273,6 +392,7 @@
       "artist": "Vampire Weekend",
       "album": "Modern Vampires of the City",
       "durationMs": 160067,
+      "isrc": "GBBKS1300008",
       "ids": {
         "appleMusic": "613185021"
       }
@@ -282,8 +402,14 @@
       "artist": "Los Hermanos",
       "album": "Mega Hits: Los Hermanos",
       "durationMs": 213867,
+      "isrc": "BRBMG0500149",
       "ids": {
         "appleMusic": "860819074"
+      },
+      "features": {
+        "bpm": 138.3,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -291,8 +417,14 @@
       "artist": "Sing Street",
       "album": "Sing Street (Original Motion Picture Soundtrack)",
       "durationMs": 216387,
+      "isrc": "GBUM71601383",
       "ids": {
         "appleMusic": "1440752681"
+      },
+      "features": {
+        "bpm": 84.89,
+        "gain": -11,
+        "source": "deezer"
       }
     },
     {
@@ -300,8 +432,14 @@
       "artist": "Foster the People",
       "album": "Canzoni estive",
       "durationMs": 239600,
+      "isrc": "USSM11002931",
       "ids": {
         "appleMusic": "1752198216"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -309,8 +447,14 @@
       "artist": "Peter Bjorn and John",
       "album": "Frühling 2022",
       "durationMs": 276693,
+      "isrc": "SEBPA0600024",
       "ids": {
         "appleMusic": "1609323657"
+      },
+      "features": {
+        "bpm": 138.3,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -318,6 +462,7 @@
       "artist": "The xx",
       "album": "I See You (Deluxe)",
       "durationMs": 233280,
+      "isrc": "UK7MC1600068",
       "ids": {
         "appleMusic": "1247685004"
       }
@@ -327,6 +472,7 @@
       "artist": "Camera Obscura",
       "album": "French Navy - EP",
       "durationMs": 198893,
+      "isrc": "GBZLK0900014",
       "ids": {
         "appleMusic": "308989873"
       }
@@ -336,8 +482,14 @@
       "artist": "Yeah Yeah Yeahs",
       "album": "Indie Classics",
       "durationMs": 219987,
+      "isrc": "USIR10300259",
       "ids": {
         "appleMusic": "1888552984"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -345,8 +497,14 @@
       "artist": "Yeah Yeah Yeahs",
       "album": "Show Your Bones",
       "durationMs": 238040,
+      "isrc": "GBUM70501003",
       "ids": {
         "appleMusic": "1443719593"
+      },
+      "features": {
+        "bpm": 136.4,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -354,8 +512,14 @@
       "artist": "Kavinsky",
       "album": "Nightcall",
       "durationMs": 258413,
+      "isrc": "FRS710900410",
       "ids": {
         "appleMusic": "1442447970"
+      },
+      "features": {
+        "bpm": 91.1,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -363,8 +527,14 @@
       "artist": "Crowded House",
       "album": "Striking Tunes Vol 7",
       "durationMs": 236800,
+      "isrc": "USCA28600048",
       "ids": {
         "appleMusic": "1894030662"
+      },
+      "features": {
+        "bpm": 162.13,
+        "gain": -20.3,
+        "source": "deezer"
       }
     },
     {
@@ -372,6 +542,7 @@
       "artist": "Spandau Ballet",
       "album": "Top 100 80s",
       "durationMs": 329147,
+      "isrc": "GBAYK8300004",
       "ids": {
         "appleMusic": "1484826858"
       }
@@ -381,8 +552,14 @@
       "artist": "The Housemartins",
       "album": "The People Who Grinned Themselves to Death",
       "durationMs": 287067,
+      "isrc": "GBF080080415",
       "ids": {
         "appleMusic": "1443904688"
+      },
+      "features": {
+        "bpm": 107.1,
+        "gain": -18.4,
+        "source": "deezer"
       }
     },
     {
@@ -390,6 +567,7 @@
       "artist": "The Flaming Lips",
       "album": "iTunes Originals: The Flaming Lips",
       "durationMs": 256720,
+      "isrc": "USWB12205225",
       "ids": {
         "appleMusic": "413928535"
       }
@@ -399,8 +577,14 @@
       "artist": "Paramore",
       "album": "Morning Coffee Tunes 2025",
       "durationMs": 182693,
+      "isrc": "USAT21700948",
       "ids": {
         "appleMusic": "1816914260"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -408,8 +592,14 @@
       "artist": "Tears for Fears",
       "album": "Songs from the Big Chair (Deluxe)",
       "durationMs": 251480,
+      "isrc": "GBF088590110",
       "ids": {
         "appleMusic": "1443226353"
+      },
+      "features": {
+        "bpm": 168.1,
+        "gain": -13.5,
+        "source": "deezer"
       }
     },
     {
@@ -417,8 +607,14 @@
       "artist": "Hard-Fi",
       "album": "New Year’s Eve: 100 Uplifting Songs",
       "durationMs": 253307,
+      "isrc": "GBAHS0500151",
       "ids": {
         "appleMusic": "1545412136"
+      },
+      "features": {
+        "bpm": 125.3,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -426,8 +622,14 @@
       "artist": "Robyn",
       "album": "Body Talk, Pt. 1",
       "durationMs": 288670,
+      "isrc": "SEWKZ1000003",
       "ids": {
         "appleMusic": "376971805"
+      },
+      "features": {
+        "bpm": 117.1,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -435,8 +637,14 @@
       "artist": "Beyoncé",
       "album": "Countdown (Remixes) - EP",
       "durationMs": 211893,
+      "isrc": "USSM11102909",
       "ids": {
         "appleMusic": "479853625"
+      },
+      "features": {
+        "bpm": 167.4,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -444,23 +652,41 @@
       "artist": "Arcade Fire",
       "album": "The Suburbs",
       "durationMs": 315200,
+      "isrc": "GBUM71018417",
       "ids": {
         "appleMusic": "1252758311"
+      },
+      "features": {
+        "bpm": 117.79,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
       "title": "A Certain Romance",
       "artist": "Arctic Monkeys",
       "album": "Whatever People Say I Am, That's What I'm Not",
-      "durationMs": 331200
+      "durationMs": 331200,
+      "isrc": "GBCEL0501192",
+      "features": {
+        "bpm": 137.35,
+        "gain": -9.6,
+        "source": "deezer"
+      }
     },
     {
       "title": "Sowing The Seeds Of Love",
       "artist": "Tears for Fears",
       "album": "Gartenarbeit",
       "durationMs": 377613,
+      "isrc": "GBF088990128",
       "ids": {
         "appleMusic": "1817299266"
+      },
+      "features": {
+        "bpm": 169.44,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -468,8 +694,14 @@
       "artist": "Beirut",
       "album": "Lon Gisland - EP",
       "durationMs": 348893,
+      "isrc": "USCPT0600053",
       "ids": {
         "appleMusic": "1343375764"
+      },
+      "features": {
+        "bpm": 179.76,
+        "gain": -11.6,
+        "source": "deezer"
       }
     },
     {
@@ -477,8 +709,14 @@
       "artist": "Cornelius Brothers \u0026 Sister Rose",
       "album": "Top Hits 70's",
       "durationMs": 198693,
+      "isrc": "USEM39300202",
       "ids": {
         "appleMusic": "1711377067"
+      },
+      "features": {
+        "bpm": 114.8,
+        "gain": -10.7,
+        "source": "deezer"
       }
     },
     {
@@ -486,8 +724,14 @@
       "artist": "Generationals",
       "album": "ActorCaster",
       "durationMs": 202613,
+      "isrc": "USNNZ1100571",
       "ids": {
         "appleMusic": "1365205414"
+      },
+      "features": {
+        "bpm": 85.95,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -495,8 +739,14 @@
       "artist": "The Apples In Stereo",
       "album": "New Magnetic Wonder",
       "durationMs": 210693,
+      "isrc": "USSLX0910113",
       "ids": {
         "appleMusic": "1655114676"
+      },
+      "features": {
+        "bpm": 105.2,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -504,6 +754,7 @@
       "artist": "Tunacola",
       "album": "En el Centro de la Fiesta Está el Vacío, Pero en el Centro del Vacío Hay Otra Fiesta",
       "durationMs": 287832,
+      "isrc": "CLNV21800407",
       "ids": {
         "appleMusic": "1440299203"
       }
@@ -522,8 +773,14 @@
       "artist": "Hercules \u0026 Love Affair",
       "album": "Best of the Bands",
       "durationMs": 345560,
+      "isrc": "US4GE0700152",
       "ids": {
         "appleMusic": "693661840"
+      },
+      "features": {
+        "bpm": 118.5,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
@@ -540,8 +797,14 @@
       "artist": "Tim Maia",
       "album": "Racional, Vol. 1",
       "durationMs": 305693,
+      "isrc": "USLB10710010",
       "ids": {
         "appleMusic": "1455936357"
+      },
+      "features": {
+        "bpm": 102.3,
+        "gain": -13.3,
+        "source": "deezer"
       }
     },
     {
@@ -558,8 +821,14 @@
       "artist": "T. Rex",
       "album": "Electric Warrior",
       "durationMs": 262613,
+      "isrc": "GBCHM7100038",
       "ids": {
         "appleMusic": "1440805585"
+      },
+      "features": {
+        "bpm": 126.8,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -567,6 +836,7 @@
       "artist": "Oasis",
       "album": "Definitely Maybe (30th Anniversary Deluxe Edition)",
       "durationMs": 322947,
+      "isrc": "GBQCP1400009",
       "ids": {
         "appleMusic": "1744418871"
       }
@@ -576,8 +846,14 @@
       "artist": "Caetano Veloso",
       "album": "Ofertório (feat. Tom Veloso) [Ao Vivo]",
       "durationMs": 225271,
+      "isrc": "BR3UN1800042",
       "ids": {
         "appleMusic": "1384652888"
+      },
+      "features": {
+        "bpm": 136,
+        "gain": -16,
+        "source": "deezer"
       }
     },
     {
@@ -594,8 +870,14 @@
       "artist": "David Bowie",
       "album": "Moonage Daydream – A Brett Morgen Film",
       "durationMs": 212963,
+      "isrc": "USJT11500128",
       "ids": {
         "appleMusic": "1642700771"
+      },
+      "features": {
+        "bpm": 114.21,
+        "gain": -14.4,
+        "source": "deezer"
       }
     },
     {
@@ -603,8 +885,14 @@
       "artist": "Alanis Morissette",
       "album": "Dark Songs - Hopeless, Angry, Sad",
       "durationMs": 230000,
+      "isrc": "USMV21500010",
       "ids": {
         "appleMusic": "1754172052"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -612,8 +900,14 @@
       "artist": "Madonna",
       "album": "Erotica",
       "durationMs": 333467,
+      "isrc": "USWB19200061",
       "ids": {
         "appleMusic": "80814537"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -10.8,
+        "source": "deezer"
       }
     }
   ]

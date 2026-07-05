@@ -6,6 +6,7 @@
       "artist": "Stacey Kent",
       "album": "Raconte-moi. . . (Édition spéciale)",
       "durationMs": 227427,
+      "isrc": "GBKRR0900305",
       "ids": {
         "appleMusic": "709267082"
       }
@@ -15,8 +16,14 @@
       "artist": "Keren Ann",
       "album": "Not Going Anywhere",
       "durationMs": 178160,
+      "isrc": "FRZ119900470",
       "ids": {
         "appleMusic": "1240302528"
+      },
+      "features": {
+        "bpm": 114.84,
+        "gain": -12.6,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +31,14 @@
       "artist": "Jill Barber",
       "album": "Chansons",
       "durationMs": 163187,
+      "isrc": "CAO371208301",
       "ids": {
         "appleMusic": "985833822"
+      },
+      "features": {
+        "bpm": 114.84,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -33,6 +46,7 @@
       "artist": "Stacey Kent",
       "album": "Breakfast on the Morning Tram (Bonus Edition)",
       "durationMs": 201080,
+      "isrc": "GBKRR0700203",
       "ids": {
         "appleMusic": "1532375622"
       }
@@ -42,8 +56,14 @@
       "artist": "Gypsy Swing Revue",
       "album": "Puttin' On the Ritz",
       "durationMs": 238093,
+      "isrc": "USL4Q0733739",
       "ids": {
         "appleMusic": "268672534"
+      },
+      "features": {
+        "bpm": 113.6,
+        "gain": -14.9,
+        "source": "deezer"
       }
     },
     {
@@ -51,8 +71,14 @@
       "artist": "Camille \u0026 Michael Giacchino",
       "album": "Ratatouille (Score from the Motion Picture)",
       "durationMs": 170787,
+      "isrc": "USWD10732000",
       "ids": {
         "appleMusic": "1443314673"
+      },
+      "features": {
+        "bpm": 133.4,
+        "gain": -13,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +95,14 @@
       "artist": "Isabelle Antena",
       "album": "Hoping for Love",
       "durationMs": 252995,
+      "isrc": "USTCB0983640",
       "ids": {
         "appleMusic": "348374895"
+      },
+      "features": {
+        "bpm": 141.1,
+        "gain": -15.4,
+        "source": "deezer"
       }
     },
     {
@@ -78,8 +110,14 @@
       "artist": "Pink Martini",
       "album": "Hang On Little Tomato",
       "durationMs": 196893,
+      "isrc": "USHNZ0400015",
       "ids": {
         "appleMusic": "307161407"
+      },
+      "features": {
+        "bpm": 91.47,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -87,6 +125,7 @@
       "artist": "Stacey Kent",
       "album": "Raconte-moi. . . (Édition spéciale)",
       "durationMs": 218240,
+      "isrc": "GBKRR0900301",
       "ids": {
         "appleMusic": "709267073"
       }
@@ -96,8 +135,14 @@
       "artist": "Billie Holiday",
       "album": "All Or Nothing At All",
       "durationMs": 185241,
+      "isrc": "USPR35600073",
       "ids": {
         "appleMusic": "1863145578"
+      },
+      "features": {
+        "bpm": 112.96,
+        "gain": -19,
+        "source": "deezer"
       }
     },
     {
@@ -105,8 +150,14 @@
       "artist": "Coralie Clément",
       "album": "Salle des pas perdus",
       "durationMs": 248373,
+      "isrc": "FR35T0100002",
       "ids": {
         "appleMusic": "925658852"
+      },
+      "features": {
+        "bpm": 137.3,
+        "gain": -11.1,
+        "source": "deezer"
       }
     },
     {
@@ -114,8 +165,14 @@
       "artist": "Stacey Kent",
       "album": "Blue Note Plays Bossa Nova",
       "durationMs": 228867,
+      "isrc": "GBKRR0700206",
       "ids": {
         "appleMusic": "716686036"
+      },
+      "features": {
+        "bpm": 156,
+        "gain": -12.6,
+        "source": "deezer"
       }
     },
     {
@@ -123,8 +180,14 @@
       "artist": "Kat Edmonson",
       "album": "Take to the Sky",
       "durationMs": 252200,
+      "isrc": "USN840900002",
       "ids": {
         "appleMusic": "391236294"
+      },
+      "features": {
+        "bpm": 99.2,
+        "gain": -6.64,
+        "source": "deezer"
       }
     },
     {
@@ -132,8 +195,14 @@
       "artist": "Stephane Wrembel",
       "album": "Bistro Fada - Single",
       "durationMs": 182933,
+      "isrc": "USCGJ1179165",
       "ids": {
         "appleMusic": "486920823"
+      },
+      "features": {
+        "bpm": 98.91,
+        "gain": -15.5,
+        "source": "deezer"
       }
     },
     {
@@ -150,8 +219,14 @@
       "artist": "Coralie Clément",
       "album": "Salle des pas perdus",
       "durationMs": 233960,
+      "isrc": "FR35T0100007",
       "ids": {
         "appleMusic": "925662008"
+      },
+      "features": {
+        "bpm": 133.8,
+        "gain": -11,
+        "source": "deezer"
       }
     },
     {
@@ -159,8 +234,14 @@
       "artist": "Paris Combo",
       "album": "French Jazz Café",
       "durationMs": 220933,
+      "isrc": "FRZ020101080",
       "ids": {
         "appleMusic": "6764132867"
+      },
+      "features": {
+        "bpm": 132.51,
+        "gain": -11.4,
+        "source": "deezer"
       }
     },
     {
@@ -168,8 +249,14 @@
       "artist": "Gypsy Jazz Caravan",
       "album": "Gypsy Jazz Caravan III",
       "durationMs": 215413,
+      "isrc": "USCGJ1322291",
       "ids": {
         "appleMusic": "626187950"
+      },
+      "features": {
+        "bpm": 112,
+        "gain": -15.1,
+        "source": "deezer"
       }
     },
     {
@@ -177,6 +264,7 @@
       "artist": "Daniel Roure",
       "album": "Le Temps D'un Jazz",
       "durationMs": 299947,
+      "isrc": "USCGH0837449",
       "ids": {
         "appleMusic": "287872568"
       }
@@ -186,8 +274,14 @@
       "artist": "Emilie-Claire Barlow",
       "album": "The Very Thought of You",
       "durationMs": 286423,
+      "isrc": "CABJ60700004",
       "ids": {
         "appleMusic": "1228316589"
+      },
+      "features": {
+        "bpm": 82.03,
+        "gain": -13.2,
+        "source": "deezer"
       }
     },
     {
@@ -195,8 +289,14 @@
       "artist": "ZAZ",
       "album": "Paris",
       "durationMs": 178516,
+      "isrc": "FR2PY1403200",
       "ids": {
         "appleMusic": "999344039"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -204,8 +304,14 @@
       "artist": "Rose",
       "album": "Rose",
       "durationMs": 272733,
+      "isrc": "FRZ110600735",
       "ids": {
         "appleMusic": "693153000"
+      },
+      "features": {
+        "bpm": 112,
+        "gain": -11.8,
+        "source": "deezer"
       }
     },
     {
@@ -213,8 +319,14 @@
       "artist": "Chantal Chamberland",
       "album": "Chantal No 5",
       "durationMs": 166627,
+      "isrc": "CA6EI1100007",
       "ids": {
         "appleMusic": "511369323"
+      },
+      "features": {
+        "bpm": 109.4,
+        "gain": -12.9,
+        "source": "deezer"
       }
     },
     {
@@ -222,6 +334,7 @@
       "artist": "Enzo Enzo",
       "album": "Deux",
       "durationMs": 247333,
+      "isrc": "FRZ059300980",
       "ids": {
         "appleMusic": "1881698851"
       }
@@ -240,8 +353,14 @@
       "artist": "Les Escrocs",
       "album": "Faites vous des amis",
       "durationMs": 265427,
+      "isrc": "USA560862765",
       "ids": {
         "appleMusic": "300434567"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -14,
+        "source": "deezer"
       }
     },
     {
@@ -249,6 +368,7 @@
       "artist": "Chantal Chamberland",
       "album": "Swing for Private",
       "durationMs": 230547,
+      "isrc": "CAGI10800044",
       "ids": {
         "appleMusic": "964475726"
       }
@@ -258,8 +378,14 @@
       "artist": "Daniel Roure",
       "album": "Le Temps D'un Jazz",
       "durationMs": 332493,
+      "isrc": "USCGH0837445",
       "ids": {
         "appleMusic": "287871751"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -12.9,
+        "source": "deezer"
       }
     },
     {
@@ -267,8 +393,14 @@
       "artist": "Patricia Barber",
       "album": "The Cole Porter Mix",
       "durationMs": 217307,
+      "isrc": "USBN20800008",
       "ids": {
         "appleMusic": "716279207"
+      },
+      "features": {
+        "bpm": 88.9,
+        "gain": -17,
+        "source": "deezer"
       }
     },
     {
@@ -276,8 +408,14 @@
       "artist": "Myrtille",
       "album": "Murmures",
       "durationMs": 157173,
+      "isrc": "FRZ800400170",
       "ids": {
         "appleMusic": "1443919586"
+      },
+      "features": {
+        "bpm": 154.3,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -294,6 +432,7 @@
       "artist": "Chantal Chamberland",
       "album": "The Other Woman",
       "durationMs": 171667,
+      "isrc": "CAGI10800042",
       "ids": {
         "appleMusic": "284324294"
       }
@@ -303,8 +442,14 @@
       "artist": "Zazou",
       "album": "Merle Noir",
       "durationMs": 289413,
+      "isrc": "USL4Q0779791",
       "ids": {
         "appleMusic": "271201937"
+      },
+      "features": {
+        "bpm": 137.8,
+        "gain": -13.2,
+        "source": "deezer"
       }
     },
     {
@@ -321,8 +466,14 @@
       "artist": "Delicatessen",
       "album": "Jazz + Bossa",
       "durationMs": 161107,
+      "isrc": "BRBLC0500002",
       "ids": {
         "appleMusic": "258895440"
+      },
+      "features": {
+        "bpm": 132.1,
+        "gain": -14.2,
+        "source": "deezer"
       }
     },
     {
@@ -330,8 +481,14 @@
       "artist": "Eva sur Seine",
       "album": "Eva Sur Seine - EP",
       "durationMs": 309947,
+      "isrc": "SEYOK1300601",
       "ids": {
         "appleMusic": "879122342"
+      },
+      "features": {
+        "bpm": 157.8,
+        "gain": -12.4,
+        "source": "deezer"
       }
     },
     {
@@ -339,6 +496,7 @@
       "artist": "String Swing",
       "album": "Waiting For The Good Times",
       "durationMs": 196560,
+      "isrc": "USA560914067",
       "ids": {
         "appleMusic": "307315622"
       }
@@ -348,6 +506,7 @@
       "artist": "Saint Privat",
       "album": "Superflu",
       "durationMs": 151755,
+      "isrc": "ATW630601901",
       "ids": {
         "appleMusic": "1649209883"
       }
@@ -357,6 +516,7 @@
       "artist": "Stacey Kent",
       "album": "Raconte-moi. . . (Édition spéciale)",
       "durationMs": 189947,
+      "isrc": "GBKRR0900312",
       "ids": {
         "appleMusic": "709267132"
       }
@@ -366,8 +526,14 @@
       "artist": "Paris Combo",
       "album": "爵美女聲 Jazz Diva",
       "durationMs": 210560,
+      "isrc": "FRZ020101940",
       "ids": {
         "appleMusic": "1621391465"
+      },
+      "features": {
+        "bpm": 135.6,
+        "gain": -12.2,
+        "source": "deezer"
       }
     },
     {
@@ -375,8 +541,14 @@
       "artist": "Emilie-Claire Barlow",
       "album": "The Beat Goes On",
       "durationMs": 280529,
+      "isrc": "CABJ61000004",
       "ids": {
         "appleMusic": "1228317841"
+      },
+      "features": {
+        "bpm": 95.93,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
@@ -384,8 +556,14 @@
       "artist": "Márcio Faraco",
       "album": "Cajueiro",
       "durationMs": 201808,
+      "isrc": "FRZ141411020",
       "ids": {
         "appleMusic": "899567823"
+      },
+      "features": {
+        "bpm": 107.7,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -393,8 +571,14 @@
       "artist": "Madeleine Peyroux",
       "album": "Nuevas Divas del Jazz",
       "durationMs": 311040,
+      "isrc": "USRO20927201",
       "ids": {
         "appleMusic": "1443348113"
+      },
+      "features": {
+        "bpm": 97.3,
+        "gain": -11.1,
+        "source": "deezer"
       }
     },
     {
@@ -402,8 +586,14 @@
       "artist": "Coralie Clément",
       "album": "Salle des pas perdus",
       "durationMs": 174613,
+      "isrc": "FR35T0100004",
       "ids": {
         "appleMusic": "925662005"
+      },
+      "features": {
+        "bpm": 150.3,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -420,6 +610,7 @@
       "artist": "Pink Martini \u0026 China Forbes",
       "album": "Non ouais !",
       "durationMs": 252653,
+      "isrc": "USHNZ0900073",
       "ids": {
         "appleMusic": "1692997418"
       }
@@ -429,8 +620,14 @@
       "artist": "Madeleine Peyroux \u0026 William Galison",
       "album": "Got You on My Mind",
       "durationMs": 182509,
+      "isrc": "USA370564908",
       "ids": {
         "appleMusic": "1607874347"
+      },
+      "features": {
+        "bpm": 101.3,
+        "gain": -14.8,
+        "source": "deezer"
       }
     },
     {
@@ -438,6 +635,7 @@
       "artist": "Stacey Kent",
       "album": "Raconte-moi. . . (Édition spéciale)",
       "durationMs": 268627,
+      "isrc": "GBKRR0900307",
       "ids": {
         "appleMusic": "709267097"
       }
@@ -447,8 +645,14 @@
       "artist": "Fredrika Stahl",
       "album": "A Fraction of You",
       "durationMs": 211160,
+      "isrc": "FR5W10500007",
       "ids": {
         "appleMusic": "164166102"
+      },
+      "features": {
+        "bpm": 135.6,
+        "gain": -11.4,
+        "source": "deezer"
       }
     },
     {
@@ -456,8 +660,14 @@
       "artist": "Emilie-Claire Barlow",
       "album": "Seule ce soir",
       "durationMs": 360207,
+      "isrc": "CABJ61200008",
       "ids": {
         "appleMusic": "1228318190"
+      },
+      "features": {
+        "bpm": 140.15,
+        "gain": -11.7,
+        "source": "deezer"
       }
     },
     {
@@ -465,8 +675,14 @@
       "artist": "Emilie-Claire Barlow",
       "album": "Haven't We Met?",
       "durationMs": 173437,
+      "isrc": "CABJ60900007",
       "ids": {
         "appleMusic": "1228318218"
+      },
+      "features": {
+        "bpm": 95.93,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
@@ -474,8 +690,14 @@
       "artist": "Fredrika Stahl",
       "album": "A Fraction of You",
       "durationMs": 217960,
+      "isrc": "FR5W10500011",
       "ids": {
         "appleMusic": "164166254"
+      },
+      "features": {
+        "bpm": 133.8,
+        "gain": -12.4,
+        "source": "deezer"
       }
     },
     {
@@ -483,8 +705,14 @@
       "artist": "Emilie-Claire Barlow",
       "album": "Seule ce soir",
       "durationMs": 365820,
+      "isrc": "CABJ61200011",
       "ids": {
         "appleMusic": "1228318204"
+      },
+      "features": {
+        "bpm": 159.63,
+        "gain": -12.5,
+        "source": "deezer"
       }
     },
     {
@@ -492,6 +720,7 @@
       "artist": "Biréli Lagrène",
       "album": "Gipsy Trio",
       "durationMs": 250147,
+      "isrc": "FR14F0800580",
       "ids": {
         "appleMusic": "1434425523"
       }
@@ -501,8 +730,14 @@
       "artist": "Keren Ann",
       "album": "La disparition",
       "durationMs": 238893,
+      "isrc": "FRZ110100622",
       "ids": {
         "appleMusic": "1240257383"
+      },
+      "features": {
+        "bpm": 82.03,
+        "gain": -12.5,
+        "source": "deezer"
       }
     },
     {
@@ -510,8 +745,14 @@
       "artist": "Eartha Kitt",
       "album": "That Bad Eartha",
       "durationMs": 179907,
+      "isrc": "US29S0400471",
       "ids": {
         "appleMusic": "313627030"
+      },
+      "features": {
+        "bpm": 107.1,
+        "gain": -19,
+        "source": "deezer"
       }
     },
     {
@@ -519,8 +760,14 @@
       "artist": "Zazou",
       "album": "Merle Noir",
       "durationMs": 213960,
+      "isrc": "USL4Q0779793",
       "ids": {
         "appleMusic": "271201947"
+      },
+      "features": {
+        "bpm": 132.1,
+        "gain": -14.3,
+        "source": "deezer"
       }
     },
     {
@@ -528,8 +775,14 @@
       "artist": "Henri Salvador",
       "album": "Chambre Avec Vue",
       "durationMs": 168800,
+      "isrc": "FRS630000034",
       "ids": {
         "appleMusic": "697417808"
+      },
+      "features": {
+        "bpm": 87.6,
+        "gain": -14.5,
+        "source": "deezer"
       }
     },
     {
@@ -537,8 +790,14 @@
       "artist": "Paris Combo",
       "album": "French Jazz Café",
       "durationMs": 222667,
+      "isrc": "FRZ020101010",
       "ids": {
         "appleMusic": "6764133914"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -11.3,
+        "source": "deezer"
       }
     },
     {
@@ -546,8 +805,14 @@
       "artist": "Françoise Hardy \u0026 Henri Salvador",
       "album": "Chambre Avec Vue",
       "durationMs": 190467,
+      "isrc": "FRS630000033",
       "ids": {
         "appleMusic": "697417765"
+      },
+      "features": {
+        "bpm": 109.7,
+        "gain": -14.7,
+        "source": "deezer"
       }
     },
     {
@@ -555,8 +820,14 @@
       "artist": "Paris Combo",
       "album": "Motifs",
       "durationMs": 271213,
+      "isrc": "FRZ020101950",
       "ids": {
         "appleMusic": "1443357645"
+      },
+      "features": {
+        "bpm": 166,
+        "gain": -11.4,
+        "source": "deezer"
       }
     },
     {
@@ -564,8 +835,14 @@
       "artist": "Pauline Croze",
       "album": "Bossa Nova",
       "durationMs": 197880,
+      "isrc": "FR9W11602520",
       "ids": {
         "appleMusic": "1456098198"
+      },
+      "features": {
+        "bpm": 172.27,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -573,8 +850,14 @@
       "artist": "Laura Fygi",
       "album": "VIVE DURMIENDO",
       "durationMs": 217880,
+      "isrc": "NLUM70700204",
       "ids": {
         "appleMusic": "1743325125"
+      },
+      "features": {
+        "bpm": 80,
+        "gain": -14.5,
+        "source": "deezer"
       }
     },
     {
@@ -582,8 +865,14 @@
       "artist": "Presque Oui",
       "album": "Sauvez les meubles",
       "durationMs": 182280,
+      "isrc": "FRP4M0500060",
       "ids": {
         "appleMusic": "273305195"
+      },
+      "features": {
+        "bpm": 155.4,
+        "gain": -11.7,
+        "source": "deezer"
       }
     },
     {
@@ -591,8 +880,14 @@
       "artist": "Jill Barber",
       "album": "Chansons",
       "durationMs": 200173,
+      "isrc": "CAO371208305",
       "ids": {
         "appleMusic": "985833826"
+      },
+      "features": {
+        "bpm": 95.04,
+        "gain": -14.6,
+        "source": "deezer"
       }
     },
     {
@@ -600,8 +895,14 @@
       "artist": "Les Chauds Lapins",
       "album": "Amourettes",
       "durationMs": 150973,
+      "isrc": "USCNP1103002",
       "ids": {
         "appleMusic": "424787608"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -11.6,
+        "source": "deezer"
       }
     },
     {
@@ -609,6 +910,7 @@
       "artist": "Polo",
       "album": "Bienvenue dans l'univers",
       "durationMs": 185400,
+      "isrc": "FR5E79600070",
       "ids": {
         "appleMusic": "1787875495"
       }
@@ -618,8 +920,14 @@
       "artist": "Laura Fygi",
       "album": "Rendez-vous",
       "durationMs": 270187,
+      "isrc": "NLUM70700200",
       "ids": {
         "appleMusic": "1444017807"
+      },
+      "features": {
+        "bpm": 111.7,
+        "gain": -16.2,
+        "source": "deezer"
       }
     },
     {
@@ -627,8 +935,14 @@
       "artist": "Madeleine Peyroux",
       "album": "Careless Love",
       "durationMs": 235640,
+      "isrc": "USRO20419201",
       "ids": {
         "appleMusic": "1440717029"
+      },
+      "features": {
+        "bpm": 137.8,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -636,8 +950,14 @@
       "artist": "Laura Fygi",
       "album": "Rendez-vous",
       "durationMs": 211400,
+      "isrc": "NLUM70700198",
       "ids": {
         "appleMusic": "1444017810"
+      },
+      "features": {
+        "bpm": 88.2,
+        "gain": -15.4,
+        "source": "deezer"
       }
     },
     {
@@ -645,6 +965,7 @@
       "artist": "Stacey Kent",
       "album": "Raconte-moi. . . (Édition spéciale)",
       "durationMs": 264320,
+      "isrc": "GBKRR0900304",
       "ids": {
         "appleMusic": "709267079"
       }
@@ -654,8 +975,14 @@
       "artist": "Zazou",
       "album": "Merle Noir",
       "durationMs": 191293,
+      "isrc": "USL4Q0779792",
       "ids": {
         "appleMusic": "271201941"
+      },
+      "features": {
+        "bpm": 94.4,
+        "gain": -15.3,
+        "source": "deezer"
       }
     },
     {
@@ -663,8 +990,14 @@
       "artist": "Laura Fygi",
       "album": "Rendez-vous",
       "durationMs": 104547,
+      "isrc": "NLUM70700203",
       "ids": {
         "appleMusic": "1444017818"
+      },
+      "features": {
+        "bpm": 90.1,
+        "gain": -14.5,
+        "source": "deezer"
       }
     },
     {
@@ -672,8 +1005,14 @@
       "artist": "Paris Combo",
       "album": "French Jazz Café",
       "durationMs": 247667,
+      "isrc": "FRY829756010",
       "ids": {
         "appleMusic": "6764133908"
+      },
+      "features": {
+        "bpm": 132.9,
+        "gain": -15.3,
+        "source": "deezer"
       }
     },
     {
@@ -681,8 +1020,14 @@
       "artist": "Emilie-Claire Barlow",
       "album": "Seule ce soir",
       "durationMs": 238573,
+      "isrc": "CABJ61200004",
       "ids": {
         "appleMusic": "1228317928"
+      },
+      "features": {
+        "bpm": 95.93,
+        "gain": -11.5,
+        "source": "deezer"
       }
     },
     {
@@ -690,6 +1035,7 @@
       "artist": "Stacey Kent",
       "album": "Raconte-moi. . . (Édition spéciale)",
       "durationMs": 238587,
+      "isrc": "GBKRR0900310",
       "ids": {
         "appleMusic": "709267122"
       }

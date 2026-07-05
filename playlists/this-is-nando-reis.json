@@ -6,6 +6,7 @@
       "artist": "Nando Reis",
       "album": "Uma Estrela Misteriosa Revelará o Segredo",
       "durationMs": 215027,
+      "isrc": "BR7OQ2400005",
       "ids": {
         "appleMusic": "1767002192"
       }
@@ -15,8 +16,14 @@
       "artist": "Nando Reis",
       "album": "Drês",
       "durationMs": 343813,
+      "isrc": "BRUM70900236",
       "ids": {
         "appleMusic": "1442359256"
+      },
+      "features": {
+        "bpm": 182.9,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +31,14 @@
       "artist": "Nando Reis",
       "album": "Voz e Violão: No Recreio, Vol. 1 (Ao Vivo)",
       "durationMs": 289160,
+      "isrc": "BR7OQ1500015",
       "ids": {
         "appleMusic": "1056765508"
+      },
+      "features": {
+        "bpm": 138.3,
+        "gain": -13.5,
+        "source": "deezer"
       }
     },
     {
@@ -33,8 +46,14 @@
       "artist": "Cássia Eller \u0026 Nando Reis",
       "album": "O Mundo Completo De Cássia Eller",
       "durationMs": 246493,
+      "isrc": "BRMCA0100113",
       "ids": {
         "appleMusic": "1453163068"
+      },
+      "features": {
+        "bpm": 112.96,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +61,14 @@
       "artist": "Nando Reis \u0026 Roberta Campos",
       "album": "Varrendo a Lua",
       "durationMs": 190960,
+      "isrc": "BRDEP1000005",
       "ids": {
         "appleMusic": "977448496"
+      },
+      "features": {
+        "bpm": 160.2,
+        "gain": -11.6,
+        "source": "deezer"
       }
     },
     {
@@ -51,8 +76,14 @@
       "artist": "Nando Reis",
       "album": "Voz e Violão: No Recreio, Vol. 1 (Ao Vivo)",
       "durationMs": 233613,
+      "isrc": "BR7OQ1500013",
       "ids": {
         "appleMusic": "1056765506"
+      },
+      "features": {
+        "bpm": 138.3,
+        "gain": -13.4,
+        "source": "deezer"
       }
     },
     {
@@ -60,6 +91,7 @@
       "artist": "Nando Reis",
       "album": "Sim e Não",
       "durationMs": 213880,
+      "isrc": "BR7OQ1800008",
       "ids": {
         "appleMusic": "1444209953"
       }
@@ -78,6 +110,7 @@
       "artist": "Nando Reis \u0026 Sebastião Reis",
       "album": "Nando \u0026 Sebastião - EP",
       "durationMs": 262809,
+      "isrc": "BR7OQ2100003",
       "ids": {
         "appleMusic": "1564474415"
       }
@@ -87,8 +120,14 @@
       "artist": "Nando Reis",
       "album": "Jardim - Pomar",
       "durationMs": 198765,
+      "isrc": "BR7OQ1600018",
       "ids": {
         "appleMusic": "1168085956"
+      },
+      "features": {
+        "bpm": 147.66,
+        "gain": -12.2,
+        "source": "deezer"
       }
     },
     {
@@ -96,6 +135,7 @@
       "artist": "Nando Reis",
       "album": "Onde Você Mora? - Single",
       "durationMs": 238143,
+      "isrc": "BR7OQ1900038",
       "ids": {
         "appleMusic": "1500108152"
       }
@@ -105,8 +145,14 @@
       "artist": "Nando Reis",
       "album": "Para Quando o Arco Íris Encontrar o Pote de Ouro",
       "durationMs": 246096,
+      "isrc": "BRWMB0001284",
       "ids": {
         "appleMusic": "80835201"
+      },
+      "features": {
+        "bpm": 168.1,
+        "gain": -12.2,
+        "source": "deezer"
       }
     },
     {
@@ -114,8 +160,14 @@
       "artist": "Nando Reis",
       "album": "Sim e Não",
       "durationMs": 226040,
+      "isrc": "BRUM70600172",
       "ids": {
         "appleMusic": "1444209968"
+      },
+      "features": {
+        "bpm": 164.1,
+        "gain": -11.5,
+        "source": "deezer"
       }
     },
     {
@@ -123,8 +175,14 @@
       "artist": "Nando Reis",
       "album": "Não Sou Nenhum Roberto, Mas as Vezes Chego Perto",
       "durationMs": 211238,
+      "isrc": "BR7OQ1900005",
       "ids": {
         "appleMusic": "1458004736"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -16.5,
+        "source": "deezer"
       }
     },
     {
@@ -132,8 +190,14 @@
       "artist": "Nando Reis",
       "album": "Sei",
       "durationMs": 198467,
+      "isrc": "BR70Q1200002",
       "ids": {
         "appleMusic": "1062410223"
+      },
+      "features": {
+        "bpm": 156.6,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -141,6 +205,7 @@
       "artist": "Nando Reis",
       "album": "Como Vai Você - Single",
       "durationMs": 227568,
+      "isrc": "BR7OQ1900020",
       "ids": {
         "appleMusic": "1478930204"
       }
@@ -150,8 +215,14 @@
       "artist": "Nando Reis",
       "album": "Sim e Não",
       "durationMs": 299147,
+      "isrc": "BRUM70600180",
       "ids": {
         "appleMusic": "1444209946"
+      },
+      "features": {
+        "bpm": 118.1,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -159,8 +230,14 @@
       "artist": "Nando Reis",
       "album": "A Arte de Nando Reis",
       "durationMs": 334733,
+      "isrc": "BRMCA0300115",
       "ids": {
         "appleMusic": "1442558883"
+      },
+      "features": {
+        "bpm": 168.1,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -168,6 +245,7 @@
       "artist": "Pitty \u0026 Nando Reis",
       "album": "PITTYNANDO – As Suas, As Minhas e As Nossas (Ao Vivo)",
       "durationMs": 241626,
+      "isrc": "BRDEP2300233",
       "ids": {
         "appleMusic": "1729849108"
       }
@@ -177,6 +255,7 @@
       "artist": "Nando Reis",
       "album": "12 de Janeiro (Edição Comemorativa 2023)",
       "durationMs": 246848,
+      "isrc": "BRWMB2201006",
       "ids": {
         "appleMusic": "1661219258"
       }
@@ -186,6 +265,7 @@
       "artist": "Nando Reis \u0026 Jão",
       "album": "Sim - Single",
       "durationMs": 229868,
+      "isrc": "BR7OQ2200004",
       "ids": {
         "appleMusic": "1613368062"
       }
@@ -195,6 +275,7 @@
       "artist": "Nando Reis",
       "album": "Para Quando o Arco Íris Encontrar o Pote de Ouro (Extended Edition)",
       "durationMs": 193325,
+      "isrc": "BRWMB0001275",
       "ids": {
         "appleMusic": "1628172872"
       }
@@ -204,6 +285,7 @@
       "artist": "Nando Reis \u0026 Ana Vilela",
       "album": "Laços - Single",
       "durationMs": 240585,
+      "isrc": "BRUKM2000007",
       "ids": {
         "appleMusic": "1541386593"
       }
@@ -213,8 +295,14 @@
       "artist": "Nando Reis",
       "album": "Infernal... But There's Still a Full Moon Shining Over Jalalabad",
       "durationMs": 239827,
+      "isrc": "BRWMB0103183",
       "ids": {
         "appleMusic": "74950710"
+      },
+      "features": {
+        "bpm": 154.3,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -222,6 +310,7 @@
       "artist": "Pitty \u0026 Nando Reis",
       "album": "PITTYNANDO – As Suas, As Minhas e As Nossas (Ao Vivo)",
       "durationMs": 161512,
+      "isrc": "BRDEP2300231",
       "ids": {
         "appleMusic": "1729848780"
       }
@@ -231,6 +320,7 @@
       "artist": "Nando Reis",
       "album": "Sei",
       "durationMs": 249104,
+      "isrc": "BR70Q1200010",
       "ids": {
         "appleMusic": "1062410292"
       }
@@ -249,8 +339,14 @@
       "artist": "Nando Reis",
       "album": "Infernal... But There's Still a Full Moon Shining Over Jalalabad",
       "durationMs": 258267,
+      "isrc": "BRWMB0103191",
       "ids": {
         "appleMusic": "74950749"
+      },
+      "features": {
+        "bpm": 154.8,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -258,6 +354,7 @@
       "artist": "Pitty",
       "album": "Matriz (Ao Vivo na Bahia)",
       "durationMs": 266426,
+      "isrc": "BRDEP2000241",
       "ids": {
         "appleMusic": "1541231600"
       }
@@ -267,6 +364,7 @@
       "artist": "Péricles \u0026 Nando Reis",
       "album": "Céu Lilás",
       "durationMs": 218823,
+      "isrc": "BX3F32100031",
       "ids": {
         "appleMusic": "1743080910"
       }
@@ -276,8 +374,14 @@
       "artist": "Nando Reis",
       "album": "Turnê Jardim-Pomar, Rio de Janeiro/RJ - 12 e 13 de Maio de 2017, #8 (Ao Vivo)",
       "durationMs": 283702,
+      "isrc": "BR7OQ1700135",
       "ids": {
         "appleMusic": "1258177664"
+      },
+      "features": {
+        "bpm": 118.12,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -285,6 +389,7 @@
       "artist": "Pitty \u0026 Nando Reis",
       "album": "PITTYNANDO – As Suas, As Minhas e As Nossas (Ao Vivo)",
       "durationMs": 311744,
+      "isrc": "BRDEP2300226",
       "ids": {
         "appleMusic": "1729848355"
       }
@@ -294,8 +399,14 @@
       "artist": "Nando Reis",
       "album": "Voz e Violão: No Recreio, Vol. 1 (Ao Vivo)",
       "durationMs": 207907,
+      "isrc": "BR7OQ1500001",
       "ids": {
         "appleMusic": "1056765491"
+      },
+      "features": {
+        "bpm": 168.8,
+        "gain": -13.3,
+        "source": "deezer"
       }
     },
     {
@@ -303,6 +414,7 @@
       "artist": "Nando Reis \u0026 Arnaldo Antunes",
       "album": "Não Vou Me Adaptar (Ao Vivo) - Single",
       "durationMs": 276887,
+      "isrc": "BR7OQ2100020",
       "ids": {
         "appleMusic": "1593480693"
       }
@@ -312,8 +424,14 @@
       "artist": "Nando Reis",
       "album": "Voz e Violão: No Recreio, Vol. 1 (Ao Vivo)",
       "durationMs": 304520,
+      "isrc": "BR7OQ1500004",
       "ids": {
         "appleMusic": "1056765493"
+      },
+      "features": {
+        "bpm": 145.1,
+        "gain": -13.5,
+        "source": "deezer"
       }
     },
     {
@@ -321,6 +439,7 @@
       "artist": "Nando Reis",
       "album": "Espera a Primavera (Acústico) - Single",
       "durationMs": 254879,
+      "isrc": "BR7OQ2000013",
       "ids": {
         "appleMusic": "1538629074"
       }
@@ -330,6 +449,7 @@
       "artist": "Pitty \u0026 Nando Reis",
       "album": "PITTYNANDO – As Suas, As Minhas e As Nossas (Ao Vivo)",
       "durationMs": 446814,
+      "isrc": "BRDEP2300225",
       "ids": {
         "appleMusic": "1729848187"
       }
@@ -339,6 +459,7 @@
       "artist": "Marcella Fogaça \u0026 Nando Reis",
       "album": "Sem Medo",
       "durationMs": 181594,
+      "isrc": "BRYS51700003",
       "ids": {
         "appleMusic": "1757549374"
       }
@@ -348,6 +469,7 @@
       "artist": "Nando Reis",
       "album": "Nando Hits",
       "durationMs": 200023,
+      "isrc": "BR7OQ2300003",
       "ids": {
         "appleMusic": "1684157719"
       }
@@ -357,8 +479,14 @@
       "artist": "Cássia Eller \u0026 Nando Reis",
       "album": "A Arte de Nando Reis",
       "durationMs": 240867,
+      "isrc": "BRUM71100153",
       "ids": {
         "appleMusic": "1442558519"
+      },
+      "features": {
+        "bpm": 134.7,
+        "gain": -11.1,
+        "source": "deezer"
       }
     },
     {
@@ -366,6 +494,7 @@
       "artist": "Pitty",
       "album": "ACNXX Ao Vivo em Salvador",
       "durationMs": 234135,
+      "isrc": "BRDEP2400046",
       "ids": {
         "appleMusic": "1726985619"
       }
@@ -375,8 +504,14 @@
       "artist": "Nando Reis",
       "album": "Infernal... But There's Still a Full Moon Shining Over Jalalabad",
       "durationMs": 279867,
+      "isrc": "BR7OQ1300020",
       "ids": {
         "appleMusic": "74951245"
+      },
+      "features": {
+        "bpm": 171.55,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -384,8 +519,14 @@
       "artist": "Ana Cañas",
       "album": "Coração Inevitável",
       "durationMs": 284933,
+      "isrc": "BRRGE1300391",
       "ids": {
         "appleMusic": "741198494"
+      },
+      "features": {
+        "bpm": 154.3,
+        "gain": -12.9,
+        "source": "deezer"
       }
     },
     {
@@ -393,6 +534,7 @@
       "artist": "Nando Reis",
       "album": "Revelará... - EP",
       "durationMs": 259320,
+      "isrc": "BR7OQ2400036",
       "ids": {
         "appleMusic": "1760219112"
       }
@@ -411,8 +553,14 @@
       "artist": "Nando Reis",
       "album": "Não Sou Nenhum Roberto, Mas as Vezes Chego Perto",
       "durationMs": 329066,
+      "isrc": "BR7OQ1900009",
       "ids": {
         "appleMusic": "1458004740"
+      },
+      "features": {
+        "bpm": 136,
+        "gain": -15.8,
+        "source": "deezer"
       }
     }
   ]

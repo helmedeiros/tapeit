@@ -6,8 +6,14 @@
       "artist": "WALK THE MOON",
       "album": "TALKING IS HARD (Expanded Edition)",
       "durationMs": 199080,
+      "isrc": "USRC11401949",
       "ids": {
         "appleMusic": "961298418"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +30,14 @@
       "artist": "MAGIC!",
       "album": "Summer Party Bangers",
       "durationMs": 224850,
+      "isrc": "CAV161300016",
       "ids": {
         "appleMusic": "1687426715"
+      },
+      "features": {
+        "bpm": 144.05,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -33,8 +45,14 @@
       "artist": "Foster the People",
       "album": "Canzoni estive",
       "durationMs": 239600,
+      "isrc": "USSM11002931",
       "ids": {
         "appleMusic": "1752198216"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +60,14 @@
       "artist": "One Direction",
       "album": "What Makes You Beautiful - Single",
       "durationMs": 198693,
+      "isrc": "GBHMU1100018",
       "ids": {
         "appleMusic": "452514301"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -51,8 +75,14 @@
       "artist": "American Authors",
       "album": "Oh, What a Life",
       "durationMs": 194239,
+      "isrc": "USUM71302187",
       "ids": {
         "appleMusic": "1443219769"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -6.4,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +90,14 @@
       "artist": "Harold Faltermeyer",
       "album": "Beverly Hills Cop (Music From the Motion Picture Soundtrack)",
       "durationMs": 184800,
+      "isrc": "USMC18416586",
       "ids": {
         "appleMusic": "1440857098"
+      },
+      "features": {
+        "bpm": 117.1,
+        "gain": -20.3,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +105,14 @@
       "artist": "Fun.",
       "album": "Remember These Oldschool Hits - Pop \u0026 Rock",
       "durationMs": 250627,
+      "isrc": "USAT21101399",
       "ids": {
         "appleMusic": "1827033871"
+      },
+      "features": {
+        "bpm": 92.1,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +129,14 @@
       "artist": "Talking Heads",
       "album": "Wuthering 70's Hits",
       "durationMs": 261413,
+      "isrc": "USWB10302417",
       "ids": {
         "appleMusic": "1553906799"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -96,8 +144,14 @@
       "artist": "Talking Heads",
       "album": "Remain In Light (Deluxe Version)",
       "durationMs": 285613,
+      "isrc": "USWB10502867",
       "ids": {
         "appleMusic": "124921087"
+      },
+      "features": {
+        "bpm": 135.1,
+        "gain": -11.5,
+        "source": "deezer"
       }
     },
     {
@@ -105,8 +159,14 @@
       "artist": "Peter Bjorn and John",
       "album": "Frühling 2022",
       "durationMs": 276693,
+      "isrc": "SEBPA0600024",
       "ids": {
         "appleMusic": "1609323657"
+      },
+      "features": {
+        "bpm": 138.3,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -114,8 +174,14 @@
       "artist": "Mark Ronson",
       "album": "Summer Party Bangers",
       "durationMs": 269658,
+      "isrc": "GBARL1401524",
       "ids": {
         "appleMusic": "1687426724"
+      },
+      "features": {
+        "bpm": 114.8,
+        "gain": -11.9,
+        "source": "deezer"
       }
     },
     {
@@ -123,8 +189,14 @@
       "artist": "Hozier",
       "album": "Mercury is in Retrograde",
       "durationMs": 241688,
+      "isrc": "IEACJ1300031",
       "ids": {
         "appleMusic": "1609335751"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -132,6 +204,7 @@
       "artist": "The White Stripes",
       "album": "Seven Nation Army - Single",
       "durationMs": 232627,
+      "isrc": "USVT10300001",
       "ids": {
         "appleMusic": "1543262843"
       }
@@ -141,8 +214,14 @@
       "artist": "J.J. Fad",
       "album": "Supersonic (Re-Recorded / Remastered)",
       "durationMs": 233442,
+      "isrc": "USA560940530",
       "ids": {
         "appleMusic": "313246893"
+      },
+      "features": {
+        "bpm": 132.1,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -150,8 +229,14 @@
       "artist": "Katy Perry",
       "album": "PRISM (Deluxe Version)",
       "durationMs": 223546,
+      "isrc": "USUM71308669",
       "ids": {
         "appleMusic": "1440818897"
+      },
+      "features": {
+        "bpm": 179.8,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -177,8 +262,14 @@
       "artist": "They Might Be Giants",
       "album": "Alt Archives The 90s",
       "durationMs": 115720,
+      "isrc": "USEE10181582",
       "ids": {
         "appleMusic": "1860838173"
+      },
+      "features": {
+        "bpm": 187.9,
+        "gain": -12.5,
+        "source": "deezer"
       }
     },
     {
@@ -186,8 +277,14 @@
       "artist": "They Might Be Giants",
       "album": "Feel Good Music",
       "durationMs": 153813,
+      "isrc": "USEE10181576",
       "ids": {
         "appleMusic": "1205411569"
+      },
+      "features": {
+        "bpm": 113.9,
+        "gain": -13.8,
+        "source": "deezer"
       }
     },
     {
@@ -195,6 +292,7 @@
       "artist": "They Might Be Giants",
       "album": "Severe Tire Damage",
       "durationMs": 181533,
+      "isrc": "USIR79800001",
       "ids": {
         "appleMusic": "1495112516"
       }
@@ -204,8 +302,14 @@
       "artist": "CAKE",
       "album": "Cake: B-Sides and Rarities",
       "durationMs": 174067,
+      "isrc": "USGHH0700003",
       "ids": {
         "appleMusic": "267847236"
+      },
+      "features": {
+        "bpm": 179.8,
+        "gain": -13.2,
+        "source": "deezer"
       }
     },
     {
@@ -213,6 +317,7 @@
       "artist": "The Presidents of the United States of America",
       "album": "Peaches (Live 1998) - Single",
       "durationMs": 171693,
+      "isrc": "US35G0400026",
       "ids": {
         "appleMusic": "6776014694"
       }
@@ -222,8 +327,14 @@
       "artist": "The Rentals",
       "album": "Alternative Anthems",
       "durationMs": 212267,
+      "isrc": "USMV29400001",
       "ids": {
         "appleMusic": "1583205292"
+      },
+      "features": {
+        "bpm": 107.9,
+        "gain": -11.5,
+        "source": "deezer"
       }
     },
     {
@@ -231,8 +342,14 @@
       "artist": "CAKE",
       "album": "Fashion Nugget (Deluxe Edition)",
       "durationMs": 180628,
+      "isrc": "USCA19686701",
       "ids": {
         "appleMusic": "1632540369"
+      },
+      "features": {
+        "bpm": 182.9,
+        "gain": -11.5,
+        "source": "deezer"
       }
     },
     {
@@ -240,8 +357,14 @@
       "artist": "CAKE",
       "album": "Motorcade of Generosity",
       "durationMs": 254067,
+      "isrc": "USCA19486839",
       "ids": {
         "appleMusic": "277260203"
+      },
+      "features": {
+        "bpm": 116.1,
+        "gain": -14,
+        "source": "deezer"
       }
     },
     {
@@ -249,6 +372,7 @@
       "artist": "The Presidents of the United States of America",
       "album": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
       "durationMs": 134200,
+      "isrc": "US35G0400023",
       "ids": {
         "appleMusic": "1861769246"
       }
@@ -258,8 +382,14 @@
       "artist": "Blur",
       "album": "90's Party",
       "durationMs": 121880,
+      "isrc": "GBAYE9600015",
       "ids": {
         "appleMusic": "1665574103"
+      },
+      "features": {
+        "bpm": 129.6,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -267,8 +397,14 @@
       "artist": "\"Weird Al\" Yankovic",
       "album": "Straight Outta Lynwood",
       "durationMs": 170652,
+      "isrc": "USVR10600081",
       "ids": {
         "appleMusic": "309732001"
+      },
+      "features": {
+        "bpm": 143.06,
+        "gain": -15.3,
+        "source": "deezer"
       }
     },
     {
@@ -276,8 +412,14 @@
       "artist": "\"Weird Al\" Yankovic",
       "album": "The Essential \"Weird Al\" Yankovic",
       "durationMs": 200666,
+      "isrc": "USVR10200028",
       "ids": {
         "appleMusic": "336038034"
+      },
+      "features": {
+        "bpm": 147.1,
+        "gain": -13.3,
+        "source": "deezer"
       }
     },
     {
@@ -294,8 +436,14 @@
       "artist": "The Clash",
       "album": "Stranger Things (Soundtrack from the Netflix Original Series)",
       "durationMs": 186093,
+      "isrc": "GBARL1200670",
       "ids": {
         "appleMusic": "1297035218"
+      },
+      "features": {
+        "bpm": 113.3,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -303,8 +451,14 @@
       "artist": "The Clash",
       "album": "Hits Back",
       "durationMs": 163240,
+      "isrc": "GBARL1201017",
       "ids": {
         "appleMusic": "993870406"
+      },
+      "features": {
+        "bpm": 151.4,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -312,8 +466,14 @@
       "artist": "Ramones",
       "album": "Rock Rebels",
       "durationMs": 149467,
+      "isrc": "USRH11802019",
       "ids": {
         "appleMusic": "1359615966"
+      },
+      "features": {
+        "bpm": 162.13,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -321,8 +481,14 @@
       "artist": "Ramones",
       "album": "Hey Ho Let's Go - Single",
       "durationMs": 133400,
+      "isrc": "USWB10103394",
       "ids": {
         "appleMusic": "1550261075"
+      },
+      "features": {
+        "bpm": 92.3,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -330,8 +496,14 @@
       "artist": "Ramones",
       "album": "Canciones de películas. Vol.1",
       "durationMs": 137400,
+      "isrc": "USWB10201729",
       "ids": {
         "appleMusic": "1764909562"
+      },
+      "features": {
+        "bpm": 94.2,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -348,6 +520,7 @@
       "artist": "Boris Midney",
       "album": "Hits Anthology",
       "durationMs": 361507,
+      "isrc": "USGZ20602566",
       "ids": {
         "appleMusic": "252158620"
       }
@@ -357,8 +530,14 @@
       "artist": "Dire Straits",
       "album": "Sultans of Swing - The Very Best of Dire Straits",
       "durationMs": 249333,
+      "isrc": "GBF088500675",
       "ids": {
         "appleMusic": "1440912605"
+      },
+      "features": {
+        "bpm": 172.3,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -366,6 +545,7 @@
       "artist": "White Town",
       "album": "Women in Technology",
       "durationMs": 259893,
+      "isrc": "GBAYE9600116",
       "ids": {
         "appleMusic": "1675516478"
       }
@@ -375,8 +555,14 @@
       "artist": "Salt-N-Pepa",
       "album": "Hip Hop Workout",
       "durationMs": 272133,
+      "isrc": "USIR20180482",
       "ids": {
         "appleMusic": "1375814318"
+      },
+      "features": {
+        "bpm": 127.21,
+        "gain": -16.6,
+        "source": "deezer"
       }
     },
     {
@@ -384,8 +570,14 @@
       "artist": "Digital Underground",
       "album": "The Humpty Dance - Single",
       "durationMs": 391693,
+      "isrc": "USTB10300377",
       "ids": {
         "appleMusic": "1634644372"
+      },
+      "features": {
+        "bpm": 103.62,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -393,6 +585,7 @@
       "artist": "Corinne Bailey Rae",
       "album": "Comfy Music",
       "durationMs": 215414,
+      "isrc": "GBAYE0501671",
       "ids": {
         "appleMusic": "1716610744"
       }
@@ -401,15 +594,22 @@
       "title": "The Hardest Button to Button",
       "artist": "The White Stripes",
       "album": "Elephant",
-      "durationMs": 212320
+      "durationMs": 212320,
+      "isrc": "USVT10300009"
     },
     {
       "title": "The Way You Make Me Feel (2012 Remaster)",
       "artist": "Michael Jackson",
       "album": "Bad 25th Anniversary",
       "durationMs": 298122,
+      "isrc": "USSM11204981",
       "ids": {
         "appleMusic": "551515751"
+      },
+      "features": {
+        "bpm": 114.5,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -417,8 +617,14 @@
       "artist": "Michael Jackson",
       "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
       "durationMs": 247369,
+      "isrc": "USSM11204980",
       "ids": {
         "appleMusic": "310505611"
+      },
+      "features": {
+        "bpm": 114.2,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -426,6 +632,7 @@
       "artist": "Michael Jackson",
       "album": "Michael Jackson's This Is It (The Music That Inspired the Movie)",
       "durationMs": 245413,
+      "isrc": "USSM19902992",
       "ids": {
         "appleMusic": "336644174"
       }
@@ -435,6 +642,7 @@
       "artist": "Michael Jackson",
       "album": "Michael Jackson's This Is It (The Music That Inspired the Movie)",
       "durationMs": 362387,
+      "isrc": "USSM19902986",
       "ids": {
         "appleMusic": "336644163"
       }
@@ -444,8 +652,14 @@
       "artist": "Michael Jackson",
       "album": "Thriller 40",
       "durationMs": 238724,
+      "isrc": "USSM19902993",
       "ids": {
         "appleMusic": "1641781426"
+      },
+      "features": {
+        "bpm": 127.2,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -453,35 +667,65 @@
       "artist": "The Strokes",
       "album": "Rock Clássico",
       "durationMs": 193373,
+      "isrc": "USRC10100765",
       "ids": {
         "appleMusic": "1778714100"
+      },
+      "features": {
+        "bpm": 103.9,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
       "title": "Someday",
       "artist": "The Strokes",
       "album": "Is This It",
-      "durationMs": 183573
+      "durationMs": 183573,
+      "isrc": "USRC10100769",
+      "features": {
+        "bpm": 106,
+        "gain": -10.5,
+        "source": "deezer"
+      }
     },
     {
       "title": "Is This It",
       "artist": "The Strokes",
       "album": "Is This It",
-      "durationMs": 151333
+      "durationMs": 151333,
+      "isrc": "USRC10100762",
+      "features": {
+        "bpm": 95.9,
+        "gain": -11.8,
+        "source": "deezer"
+      }
     },
     {
       "title": "The Modern Age",
       "artist": "The Strokes",
       "album": "Is This It",
-      "durationMs": 208307
+      "durationMs": 208307,
+      "isrc": "USRC10100763",
+      "features": {
+        "bpm": 146.1,
+        "gain": -9.4,
+        "source": "deezer"
+      }
     },
     {
       "title": "Heads Will Roll (A-Trak Remix)",
       "artist": "Yeah Yeah Yeahs",
       "album": "Para Empezar el 2024 con Toda",
       "durationMs": 383893,
+      "isrc": "USUM70906794",
       "ids": {
         "appleMusic": "1718152655"
+      },
+      "features": {
+        "bpm": 132.09,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -489,6 +733,7 @@
       "artist": "Metric",
       "album": "Old World Underground, Where Are You Now?",
       "durationMs": 185307,
+      "isrc": "USER80300603",
       "ids": {
         "appleMusic": "906877415"
       }
@@ -498,6 +743,7 @@
       "artist": "Sister Nancy",
       "album": "One Two",
       "durationMs": 196507,
+      "isrc": "USVPR0006906",
       "ids": {
         "appleMusic": "1799638137"
       }
@@ -507,6 +753,7 @@
       "artist": "Ellie Goulding",
       "album": "Hot Tracks 2015",
       "durationMs": 213445,
+      "isrc": "GBUM71506944",
       "ids": {
         "appleMusic": "1567979937"
       }
@@ -516,8 +763,14 @@
       "artist": "Daryl Hall \u0026 John Oates",
       "album": "The Very Best of Daryl Hall \u0026 John Oates",
       "durationMs": 309267,
+      "isrc": "USRC10301819",
       "ids": {
         "appleMusic": "273750247"
+      },
+      "features": {
+        "bpm": 110.5,
+        "gain": -12.6,
+        "source": "deezer"
       }
     },
     {
@@ -525,8 +778,14 @@
       "artist": "Maroon 5",
       "album": "V (Deluxe)",
       "durationMs": 231079,
+      "isrc": "USUM71409576",
       "ids": {
         "appleMusic": "1422651844"
+      },
+      "features": {
+        "bpm": 95.04,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -534,8 +793,14 @@
       "artist": "Michael Jackson",
       "album": "A Classic Motown Christmas",
       "durationMs": 9760,
+      "isrc": "USUM70990378",
       "ids": {
         "appleMusic": "1484426629"
+      },
+      "features": {
+        "bpm": 85.42,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
@@ -543,8 +808,14 @@
       "artist": "Deep Purple",
       "album": "Rock Morning Mixtape 2022",
       "durationMs": 340742,
+      "isrc": "GBDXG1200006",
       "ids": {
         "appleMusic": "1602386015"
+      },
+      "features": {
+        "bpm": 113.9,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -552,6 +823,7 @@
       "artist": "Black Sabbath",
       "album": "Greatest Hits",
       "durationMs": 353667,
+      "isrc": "GBAJE7000085",
       "ids": {
         "appleMusic": "1447244208"
       }
@@ -561,8 +833,14 @@
       "artist": "AC/DC",
       "album": "High Voltage",
       "durationMs": 302431,
+      "isrc": "USEW17500002",
       "ids": {
         "appleMusic": "574124819"
+      },
+      "features": {
+        "bpm": 136.9,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -570,6 +848,7 @@
       "artist": "AC/DC",
       "album": "Highway to Hell",
       "durationMs": 208111,
+      "isrc": "UKDNQ1559817",
       "ids": {
         "appleMusic": "574044008"
       }
@@ -578,7 +857,13 @@
       "title": "Back In Black",
       "artist": "AC/DC",
       "album": "Back In Black",
-      "durationMs": 256000
+      "durationMs": 256000,
+      "isrc": "AUAP08000046",
+      "features": {
+        "bpm": 190.5,
+        "gain": -9,
+        "source": "deezer"
+      }
     },
     {
       "title": "Watch Me (Whip / Nae Nae)",
@@ -594,8 +879,14 @@
       "artist": "One Direction",
       "album": "Drag Me Down - Single",
       "durationMs": 192112,
+      "isrc": "GBHMU1500070",
       "ids": {
         "appleMusic": "1024077721"
+      },
+      "features": {
+        "bpm": 137.8,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -603,6 +894,7 @@
       "artist": "Barney",
       "album": "Barney's Run, Jump, Skip, and Sing",
       "durationMs": 52065,
+      "isrc": "USA371649818",
       "ids": {
         "appleMusic": "508332969"
       }
@@ -612,8 +904,14 @@
       "artist": "One Direction",
       "album": "Midnight Memories (Deluxe)",
       "durationMs": 200111,
+      "isrc": "GBHMU1300102",
       "ids": {
         "appleMusic": "1524682775"
+      },
+      "features": {
+        "bpm": 118.5,
+        "gain": -6.1,
+        "source": "deezer"
       }
     },
     {
@@ -621,6 +919,7 @@
       "artist": "Battles",
       "album": "Mirrored",
       "durationMs": 427200,
+      "isrc": "GBBPW0700009",
       "ids": {
         "appleMusic": "251186729"
       }
@@ -630,8 +929,14 @@
       "artist": "Kiss",
       "album": "Greatest Kiss",
       "durationMs": 271278,
+      "isrc": "USIR20000512",
       "ids": {
         "appleMusic": "1440854031"
+      },
+      "features": {
+        "bpm": 129.6,
+        "gain": -7.06,
+        "source": "deezer"
       }
     },
     {
@@ -639,8 +944,14 @@
       "artist": "The Beatles",
       "album": "Yellow Submarine",
       "durationMs": 158720,
+      "isrc": "GBAYE0601677",
       "ids": {
         "appleMusic": "1441164526"
+      },
+      "features": {
+        "bpm": 110.25,
+        "gain": -12.5,
+        "source": "deezer"
       }
     },
     {
@@ -657,8 +968,14 @@
       "artist": "Dwayne Johnson",
       "album": "Vaiana (Original Motion Picture Soundtrack)",
       "durationMs": 163894,
+      "isrc": "USWD11677860",
       "ids": {
         "appleMusic": "1440638155"
+      },
+      "features": {
+        "bpm": 135.11,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -666,8 +983,14 @@
       "artist": "Justin Timberlake",
       "album": "Fin de Año Éxitos",
       "durationMs": 236307,
+      "isrc": "USRC11600876",
       "ids": {
         "appleMusic": "1653395371"
+      },
+      "features": {
+        "bpm": 112.96,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -693,8 +1016,14 @@
       "artist": "Alessia Cara",
       "album": "Vaiana (Originele Nederlandstalige Soundtrack) [Deluxe Edition]",
       "durationMs": 175517,
+      "isrc": "USWD11677601",
       "ids": {
         "appleMusic": "1440852940"
+      },
+      "features": {
+        "bpm": 182.13,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -711,8 +1040,14 @@
       "artist": "Jemaine Clement",
       "album": "Disney Summer Songs",
       "durationMs": 185467,
+      "isrc": "USWD11677861",
       "ids": {
         "appleMusic": "1570496978"
+      },
+      "features": {
+        "bpm": 146.09,
+        "gain": -10.4,
+        "source": "deezer"
       }
     },
     {
@@ -729,6 +1064,7 @@
       "artist": "The 5.6.7.8's",
       "album": "Tarantino Sounds: The Finest Selection of Quentin Tarantino's Soundtracks",
       "durationMs": 118222,
+      "isrc": "US2860437105",
       "ids": {
         "appleMusic": "1744361002"
       }

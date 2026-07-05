@@ -6,6 +6,7 @@
       "artist": "Hozier",
       "album": "Unheard - EP",
       "durationMs": 251424,
+      "isrc": "IEACJ2300335",
       "ids": {
         "appleMusic": "1733904814"
       }
@@ -15,6 +16,7 @@
       "artist": "sombr",
       "album": "Homewrecker - Single",
       "durationMs": 209066,
+      "isrc": "USWB12600102",
       "ids": {
         "appleMusic": "1871595253"
       }
@@ -24,6 +26,7 @@
       "artist": "Balu Brigada",
       "album": "So Cold - Single",
       "durationMs": 201133,
+      "isrc": "AUWA02400338",
       "ids": {
         "appleMusic": "1750274397"
       }
@@ -33,6 +36,7 @@
       "artist": "Tame Impala",
       "album": "Dracula - Single",
       "durationMs": 205309,
+      "isrc": "USQX92504223",
       "ids": {
         "appleMusic": "1842444457"
       }
@@ -42,6 +46,7 @@
       "artist": "Olivia Dean",
       "album": "The Art of Loving",
       "durationMs": 184000,
+      "isrc": "GBUM72503089",
       "ids": {
         "appleMusic": "1817609509"
       }
@@ -50,13 +55,20 @@
       "title": "Cherry Wine (Live)",
       "artist": "Hozier",
       "album": "Hozier",
-      "durationMs": 240147
+      "durationMs": 240147,
+      "isrc": "IEACJ1300034",
+      "features": {
+        "bpm": 128.8,
+        "gain": -13.7,
+        "source": "deezer"
+      }
     },
     {
       "title": "End of Beginning",
       "artist": "Djo",
       "album": "End of Beginning - Single",
       "durationMs": 159246,
+      "isrc": "GBKPL2205058",
       "ids": {
         "appleMusic": "1740299854"
       }
@@ -66,8 +78,14 @@
       "artist": "Dominic Fike",
       "album": "Don't Forget About Me, Demos - EP",
       "durationMs": 97960,
+      "isrc": "USQX91802457",
       "ids": {
         "appleMusic": "1438243880"
+      },
+      "features": {
+        "bpm": 168.06,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -75,8 +93,14 @@
       "artist": "Gorillaz",
       "album": "Rock music for the road",
       "durationMs": 222640,
+      "isrc": "GBAYE0500172",
       "ids": {
         "appleMusic": "6784168006"
+      },
+      "features": {
+        "bpm": 138.3,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -84,6 +108,7 @@
       "artist": "Temper City",
       "album": "Self Aware - Single",
       "durationMs": 180741,
+      "isrc": "QZHN52696246",
       "ids": {
         "appleMusic": "1877803360"
       }
@@ -93,8 +118,14 @@
       "artist": "Hozier",
       "album": "Wasteland, Baby!",
       "durationMs": 217480,
+      "isrc": "IEACJ1800127",
       "ids": {
         "appleMusic": "1448701594"
+      },
+      "features": {
+        "bpm": 179.76,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -102,6 +133,7 @@
       "artist": "Harry Styles",
       "album": "Harry's House",
       "durationMs": 167303,
+      "isrc": "USSM12200612",
       "ids": {
         "appleMusic": "1615585008"
       }
@@ -111,6 +143,7 @@
       "artist": "sombr",
       "album": "12 to 12 - Single",
       "durationMs": 242903,
+      "isrc": "USWB12502453",
       "ids": {
         "appleMusic": "1828036635"
       }
@@ -129,21 +162,34 @@
       "artist": "Paramore",
       "album": "After Laughter",
       "durationMs": 182695,
+      "isrc": "USAT21700948",
       "ids": {
         "appleMusic": "1227049868"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
       "title": "Jackie and Wilson",
       "artist": "Hozier",
       "album": "Hozier",
-      "durationMs": 223120
+      "durationMs": 223120,
+      "isrc": "IEACJ1400141",
+      "features": {
+        "bpm": 164.1,
+        "gain": -6.9,
+        "source": "deezer"
+      }
     },
     {
       "title": "So Easy (To Fall In Love)",
       "artist": "Olivia Dean",
       "album": "The Art of Loving",
       "durationMs": 169000,
+      "isrc": "GBUM72503087",
       "ids": {
         "appleMusic": "1817609507"
       }
@@ -162,6 +208,7 @@
       "artist": "Father John Misty",
       "album": "Real Love Baby - Single",
       "durationMs": 189293,
+      "isrc": "USSUB1618101",
       "ids": {
         "appleMusic": "1133711685"
       }
@@ -171,8 +218,14 @@
       "artist": "Gorillaz",
       "album": "Plastic Beach",
       "durationMs": 233867,
+      "isrc": "GBAYE1000010",
       "ids": {
         "appleMusic": "850569480"
+      },
+      "features": {
+        "bpm": 120.5,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -180,6 +233,7 @@
       "artist": "Hozier",
       "album": "Eat Your Young - Single",
       "durationMs": 242293,
+      "isrc": "IEACJ2300020",
       "ids": {
         "appleMusic": "1675416253"
       }
@@ -189,6 +243,7 @@
       "artist": "RAYE",
       "album": "WHERE IS MY HUSBAND! - Single",
       "durationMs": 197143,
+      "isrc": "QMFME2535037",
       "ids": {
         "appleMusic": "1838737598"
       }
@@ -198,8 +253,14 @@
       "artist": "Harry Styles",
       "album": "Fine Line",
       "durationMs": 173991,
+      "isrc": "USSM11912587",
       "ids": {
         "appleMusic": "1485802967"
+      },
+      "features": {
+        "bpm": 95.48,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -207,6 +268,7 @@
       "artist": "sombr",
       "album": "undressed - Single",
       "durationMs": 182089,
+      "isrc": "USWB12500737",
       "ids": {
         "appleMusic": "1802084938"
       }
@@ -216,23 +278,41 @@
       "artist": "The Goo Goo Dolls",
       "album": "Dizzy Up the Girl",
       "durationMs": 289559,
+      "isrc": "USWB19800160",
       "ids": {
         "appleMusic": "1109658204"
+      },
+      "features": {
+        "bpm": 154.3,
+        "gain": -11.3,
+        "source": "deezer"
       }
     },
     {
       "title": "Someone New",
       "artist": "Hozier",
       "album": "Hozier",
-      "durationMs": 222814
+      "durationMs": 222814,
+      "isrc": "IEACJ1400143",
+      "features": {
+        "bpm": 92.1,
+        "gain": -7.7,
+        "source": "deezer"
+      }
     },
     {
       "title": "Feel It Still",
       "artist": "Portugal. The Man",
       "album": "Rockowy roadtrip",
       "durationMs": 162093,
+      "isrc": "USAT21700437",
       "ids": {
         "appleMusic": "6784171985"
+      },
+      "features": {
+        "bpm": 158.41,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -240,6 +320,7 @@
       "artist": "Olivia Dean",
       "album": "Messy",
       "durationMs": 200759,
+      "isrc": "GBUM72301484",
       "ids": {
         "appleMusic": "1676252825"
       }
@@ -249,6 +330,7 @@
       "artist": "Chappell Roan",
       "album": "Good Luck, Babe! - Single",
       "durationMs": 218424,
+      "isrc": "USUG12401967",
       "ids": {
         "appleMusic": "1737497080"
       }
@@ -258,6 +340,7 @@
       "artist": "Glass Animals",
       "album": "Dreamland",
       "durationMs": 238805,
+      "isrc": "GBUM72000433",
       "ids": {
         "appleMusic": "1508562516"
       }
@@ -267,6 +350,7 @@
       "artist": "Hozier",
       "album": "Unaired - Single",
       "durationMs": 237200,
+      "isrc": "IEACJ2400052",
       "ids": {
         "appleMusic": "1758117541"
       }
@@ -276,8 +360,14 @@
       "artist": "Gorillaz",
       "album": "Il Ragazzo Invisibile (Colonna Sonora Originale)",
       "durationMs": 343480,
+      "isrc": "GBAYE0001408",
       "ids": {
         "appleMusic": "939589925"
+      },
+      "features": {
+        "bpm": 168.1,
+        "gain": -11.6,
+        "source": "deezer"
       }
     },
     {
@@ -285,8 +375,14 @@
       "artist": "Harry Styles",
       "album": "Fine Line",
       "durationMs": 207140,
+      "isrc": "USSM11912588",
       "ids": {
         "appleMusic": "1485802970"
+      },
+      "features": {
+        "bpm": 98.91,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -294,6 +390,7 @@
       "artist": "sombr",
       "album": "back to friends - Single",
       "durationMs": 199032,
+      "isrc": "USWB12405502",
       "ids": {
         "appleMusic": "1786481197"
       }
@@ -302,13 +399,20 @@
       "title": "Angel of Small Death \u0026 the Codeine Scene",
       "artist": "Hozier",
       "album": "Hozier",
-      "durationMs": 219214
+      "durationMs": 219214,
+      "isrc": "IEACJ1400140",
+      "features": {
+        "bpm": 94.8,
+        "gain": -8.1,
+        "source": "deezer"
+      }
     },
     {
       "title": "Kiss Me More (feat. SZA)",
       "artist": "Doja Cat",
       "album": "Planet Her (Deluxe)",
       "durationMs": 208667,
+      "isrc": "USRC12100543",
       "ids": {
         "appleMusic": "1577637152"
       }
@@ -318,8 +422,14 @@
       "artist": "Saint Motel",
       "album": "My Type - Single",
       "durationMs": 206394,
+      "isrc": "GBAYE1400856",
       "ids": {
         "appleMusic": "886810934"
+      },
+      "features": {
+        "bpm": 118.1,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
@@ -327,8 +437,14 @@
       "artist": "Arctic Monkeys",
       "album": "AM",
       "durationMs": 192889,
+      "isrc": "GBCEL1300371",
       "ids": {
         "appleMusic": "663098063"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -345,6 +461,7 @@
       "artist": "Hozier",
       "album": "Unreal Unearth",
       "durationMs": 227827,
+      "isrc": "IEACJ2300007",
       "ids": {
         "appleMusic": "1687653710"
       }
@@ -354,8 +471,14 @@
       "artist": "Masego",
       "album": "Lady Lady",
       "durationMs": 301893,
+      "isrc": "QZD5H1800032",
       "ids": {
         "appleMusic": "1794866252"
+      },
+      "features": {
+        "bpm": 121.96,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -363,6 +486,7 @@
       "artist": "John Mayer",
       "album": "Sob Rock",
       "durationMs": 217430,
+      "isrc": "USSM11806100",
       "ids": {
         "appleMusic": "1568819309"
       }
@@ -372,8 +496,14 @@
       "artist": "Tame Impala",
       "album": "Frühlingserwachen",
       "durationMs": 237800,
+      "isrc": "AUUM71900956",
       "ids": {
         "appleMusic": "1609332488"
+      },
+      "features": {
+        "bpm": 97.97,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -381,21 +511,34 @@
       "artist": "George Ezra",
       "album": "Did You Hear the Rain? - EP",
       "durationMs": 202120,
+      "isrc": "GBARL1301120",
       "ids": {
         "appleMusic": "705812855"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -19.7,
+        "source": "deezer"
       }
     },
     {
       "title": "From Eden",
       "artist": "Hozier",
       "album": "Hozier",
-      "durationMs": 283467
+      "durationMs": 283467,
+      "isrc": "IEACJ1400142",
+      "features": {
+        "bpm": 143.1,
+        "gain": -7.1,
+        "source": "deezer"
+      }
     },
     {
       "title": "Training Season",
       "artist": "Dua Lipa",
       "album": "Training Season - Single",
       "durationMs": 209488,
+      "isrc": "GBAHT2301078",
       "ids": {
         "appleMusic": "1727565528"
       }
@@ -405,6 +548,7 @@
       "artist": "Glass Animals",
       "album": "I Love You So F***ing Much",
       "durationMs": 221671,
+      "isrc": "GBUM72310164",
       "ids": {
         "appleMusic": "1738436209"
       }
@@ -414,8 +558,14 @@
       "artist": "The Cardigans",
       "album": "First Band on the Moon (2019 Remaster)",
       "durationMs": 193953,
+      "isrc": "SEBKB9629387",
       "ids": {
         "appleMusic": "1450141548"
+      },
+      "features": {
+        "bpm": 104.9,
+        "gain": -17.9,
+        "source": "deezer"
       }
     },
     {
@@ -423,8 +573,14 @@
       "artist": "Arctic Monkeys",
       "album": "AM",
       "durationMs": 207357,
+      "isrc": "GBCEL1300365",
       "ids": {
         "appleMusic": "663097968"
+      },
+      "features": {
+        "bpm": 89.88,
+        "gain": -9.3,
+        "source": "deezer"
       }
     }
   ]

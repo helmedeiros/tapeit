@@ -6,8 +6,14 @@
       "artist": "B.E.R. \u0026 Teen Titans Go!",
       "album": "Teen Titans Go! (Songs From The Night Begins To Shine Special) - EP",
       "durationMs": 253987,
+      "isrc": "USNLR1700604",
       "ids": {
         "appleMusic": "1456164458"
+      },
+      "features": {
+        "bpm": 124.16,
+        "gain": -10.7,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "B.E.R. \u0026 Teen Titans Go!",
       "album": "Teen Titans Go! (Songs From The Night Begins To Shine Special) - EP",
       "durationMs": 224480,
+      "isrc": "USNLR1700602",
       "ids": {
         "appleMusic": "1456164377"
+      },
+      "features": {
+        "bpm": 126.82,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +36,14 @@
       "artist": "B.E.R. \u0026 Teen Titans Go!",
       "album": "Teen Titans Go! (Songs From The Night Begins To Shine Special) - EP",
       "durationMs": 250960,
+      "isrc": "USNLR1700603",
       "ids": {
         "appleMusic": "1456164452"
+      },
+      "features": {
+        "bpm": 135.11,
+        "gain": -11.1,
+        "source": "deezer"
       }
     },
     {
@@ -33,8 +51,14 @@
       "artist": "B.E.R.",
       "album": "The Night Begins to Shine - Single",
       "durationMs": 210510,
+      "isrc": "USXFD1500002",
       "ids": {
         "appleMusic": "1054197751"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -9.3,
+        "source": "deezer"
       }
     }
   ]

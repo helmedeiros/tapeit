@@ -6,8 +6,14 @@
       "artist": "One Direction",
       "album": "Up All Night (The Souvenir Edition)",
       "durationMs": 199987,
+      "isrc": "GBHMU1100018",
       "ids": {
         "appleMusic": "505055781"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "One Direction",
       "album": "FOUR (The Ultimate Edition)",
       "durationMs": 228138,
+      "isrc": "GBHMU1400159",
       "ids": {
         "appleMusic": "914556572"
+      },
+      "features": {
+        "bpm": 154.3,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +36,14 @@
       "artist": "One Direction",
       "album": "Midnight Memories (Deluxe Edition)",
       "durationMs": 200107,
+      "isrc": "GBHMU1300102",
       "ids": {
         "appleMusic": "695318301"
+      },
+      "features": {
+        "bpm": 118.5,
+        "gain": -6.1,
+        "source": "deezer"
       }
     },
     {
@@ -33,8 +51,14 @@
       "artist": "One Direction",
       "album": "FOUR (Deluxe)",
       "durationMs": 226598,
+      "isrc": "GBHMU1400165",
       "ids": {
         "appleMusic": "1524680849"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +66,14 @@
       "artist": "One Direction",
       "album": "Made In The A.M. (Deluxe Edition)",
       "durationMs": 230342,
+      "isrc": "GBHMU1500104",
       "ids": {
         "appleMusic": "1040171617"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -51,8 +81,14 @@
       "artist": "One Direction",
       "album": "Take Me Home (Yearbook Edition)",
       "durationMs": 200187,
+      "isrc": "GBHMU1200210",
       "ids": {
         "appleMusic": "574406657"
+      },
+      "features": {
+        "bpm": 126,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +96,14 @@
       "artist": "One Direction",
       "album": "Made In The A.M. (Deluxe Edition)",
       "durationMs": 192112,
+      "isrc": "GBHMU1500070",
       "ids": {
         "appleMusic": "1040171616"
+      },
+      "features": {
+        "bpm": 137.8,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +111,14 @@
       "artist": "One Direction",
       "album": "Take Me Home (Yearbook Edition)",
       "durationMs": 182960,
+      "isrc": "GBHMU1200214",
       "ids": {
         "appleMusic": "574406658"
+      },
+      "features": {
+        "bpm": 179.8,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -78,8 +126,14 @@
       "artist": "One Direction",
       "album": "Midnight Memories",
       "durationMs": 245493,
+      "isrc": "GBHMU1300210",
       "ids": {
         "appleMusic": "695312371"
+      },
+      "features": {
+        "bpm": 120.9,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +141,14 @@
       "artist": "One Direction",
       "album": "Up All Night",
       "durationMs": 244507,
+      "isrc": "GBHMU1100336",
       "ids": {
         "appleMusic": "522061840"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -96,8 +156,14 @@
       "artist": "One Direction",
       "album": "Made In The A.M. (Deluxe Edition)",
       "durationMs": 187421,
+      "isrc": "GBHMU1500114",
       "ids": {
         "appleMusic": "1040171627"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -105,21 +171,39 @@
       "artist": "One Direction",
       "album": "Take Me Home (Yearbook Edition)",
       "durationMs": 219640,
+      "isrc": "GBHMU1200361",
       "ids": {
         "appleMusic": "574406659"
+      },
+      "features": {
+        "bpm": 110,
+        "gain": -13.4,
+        "source": "deezer"
       }
     },
     {
       "title": "One Thing",
-      "artist": "One Direction"
+      "artist": "One Direction",
+      "isrc": "GBHMU1100171",
+      "features": {
+        "bpm": 126.8,
+        "gain": -7.6,
+        "source": "deezer"
+      }
     },
     {
       "title": "Midnight Memories",
       "artist": "One Direction",
       "album": "Midnight Memories (Deluxe Edition)",
       "durationMs": 176320,
+      "isrc": "GBHMU1300212",
       "ids": {
         "appleMusic": "695318304"
+      },
+      "features": {
+        "bpm": 157.2,
+        "gain": -5.4,
+        "source": "deezer"
       }
     },
     {
@@ -127,8 +211,14 @@
       "artist": "One Direction",
       "album": "Take Me Home",
       "durationMs": 201693,
+      "isrc": "GBHMU1200368",
       "ids": {
         "appleMusic": "572141838"
+      },
+      "features": {
+        "bpm": 148.2,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -136,8 +226,14 @@
       "artist": "One Direction",
       "album": "FOUR (The Ultimate Edition)",
       "durationMs": 248357,
+      "isrc": "GBHMU1400162",
       "ids": {
         "appleMusic": "914556576"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -145,8 +241,14 @@
       "artist": "One Direction",
       "album": "Midnight Memories",
       "durationMs": 237933,
+      "isrc": "GBHMU1300213",
       "ids": {
         "appleMusic": "695312374"
+      },
+      "features": {
+        "bpm": 130.8,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -154,8 +256,14 @@
       "artist": "One Direction",
       "album": "One Way or Another (Teenage Kicks) - Single",
       "durationMs": 157293,
+      "isrc": "GBHMU1300001",
       "ids": {
         "appleMusic": "593903090"
+      },
+      "features": {
+        "bpm": 162.1,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
@@ -163,8 +271,14 @@
       "artist": "One Direction",
       "album": "Midnight Memories (Deluxe Edition)",
       "durationMs": 184373,
+      "isrc": "GBHMU1300215",
       "ids": {
         "appleMusic": "695318308"
+      },
+      "features": {
+        "bpm": 114.8,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -172,8 +286,14 @@
       "artist": "One Direction",
       "album": "FOUR (The Ultimate Edition)",
       "durationMs": 229038,
+      "isrc": "GBHMU1400161",
       "ids": {
         "appleMusic": "914556575"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -181,8 +301,14 @@
       "artist": "One Direction",
       "album": "FOUR (The Ultimate Edition)",
       "durationMs": 199724,
+      "isrc": "GBHMU1400166",
       "ids": {
         "appleMusic": "914556580"
+      },
+      "features": {
+        "bpm": 143.1,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -190,8 +316,14 @@
       "artist": "One Direction",
       "album": "FOUR (The Ultimate Edition)",
       "durationMs": 214725,
+      "isrc": "GBHMU1400169",
       "ids": {
         "appleMusic": "914556583"
+      },
+      "features": {
+        "bpm": 180.5,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -199,8 +331,14 @@
       "artist": "One Direction",
       "album": "Midnight Memories (Deluxe Edition)",
       "durationMs": 241000,
+      "isrc": "GBHMU1300214",
       "ids": {
         "appleMusic": "695318307"
+      },
+      "features": {
+        "bpm": 92.1,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -208,8 +346,14 @@
       "artist": "One Direction",
       "album": "Take Me Home (Yearbook Edition)",
       "durationMs": 203347,
+      "isrc": "GBHMU1200376",
       "ids": {
         "appleMusic": "574406662"
+      },
+      "features": {
+        "bpm": 164.1,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -217,8 +361,14 @@
       "artist": "One Direction",
       "album": "Made In The A.M. (Deluxe Edition)",
       "durationMs": 177972,
+      "isrc": "GBHMU1500110",
       "ids": {
         "appleMusic": "1040171623"
+      },
+      "features": {
+        "bpm": 118.1,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -226,8 +376,14 @@
       "artist": "One Direction",
       "album": "Up All Night",
       "durationMs": 229107,
+      "isrc": "GBHMU1100163",
       "ids": {
         "appleMusic": "522061842"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -235,8 +391,14 @@
       "artist": "One Direction",
       "album": "FOUR (The Ultimate Edition)",
       "durationMs": 174073,
+      "isrc": "GBHMU1400167",
       "ids": {
         "appleMusic": "914556581"
+      },
+      "features": {
+        "bpm": 132.9,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -244,8 +406,14 @@
       "artist": "One Direction",
       "album": "Made In The A.M. (Deluxe Edition)",
       "durationMs": 209040,
+      "isrc": "GBHMU1500118",
       "ids": {
         "appleMusic": "1040171631"
+      },
+      "features": {
+        "bpm": 142.1,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -253,8 +421,14 @@
       "artist": "One Direction",
       "album": "Midnight Memories (Deluxe Edition)",
       "durationMs": 200400,
+      "isrc": "GBHMU1300217",
       "ids": {
         "appleMusic": "695319732"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -262,8 +436,14 @@
       "artist": "One Direction",
       "album": "Up All Night",
       "durationMs": 194693,
+      "isrc": "GBHMU1100165",
       "ids": {
         "appleMusic": "522061843"
+      },
+      "features": {
+        "bpm": 139.2,
+        "gain": -6.4,
+        "source": "deezer"
       }
     },
     {
@@ -271,8 +451,14 @@
       "artist": "One Direction",
       "album": "FOUR (The Ultimate Edition)",
       "durationMs": 196059,
+      "isrc": "GBHMU1400160",
       "ids": {
         "appleMusic": "914556574"
+      },
+      "features": {
+        "bpm": 114.8,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -280,8 +466,14 @@
       "artist": "One Direction",
       "album": "Made In The A.M. (Deluxe Edition)",
       "durationMs": 249503,
+      "isrc": "GBHMU1500105",
       "ids": {
         "appleMusic": "1040171618"
+      },
+      "features": {
+        "bpm": 132.1,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -289,8 +481,14 @@
       "artist": "One Direction",
       "album": "Take Me Home (Yearbook Edition)",
       "durationMs": 182200,
+      "isrc": "GBHMU1200370",
       "ids": {
         "appleMusic": "574406668"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -298,8 +496,14 @@
       "artist": "One Direction",
       "album": "Midnight Memories (Deluxe Edition)",
       "durationMs": 184667,
+      "isrc": "GBHMU1300211",
       "ids": {
         "appleMusic": "695318303"
+      },
+      "features": {
+        "bpm": 172.3,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -307,8 +511,14 @@
       "artist": "One Direction",
       "album": "FOUR (The Ultimate Edition)",
       "durationMs": 201857,
+      "isrc": "GBHMU1400163",
       "ids": {
         "appleMusic": "914556577"
+      },
+      "features": {
+        "bpm": 168.8,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -316,8 +526,14 @@
       "artist": "One Direction",
       "album": "Made In The A.M. (Deluxe Edition)",
       "durationMs": 196939,
+      "isrc": "GBHMU1500112",
       "ids": {
         "appleMusic": "1040171625"
+      },
+      "features": {
+        "bpm": 133.4,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -325,8 +541,14 @@
       "artist": "One Direction",
       "album": "FOUR (The Ultimate Edition)",
       "durationMs": 210893,
+      "isrc": "GBHMU1400164",
       "ids": {
         "appleMusic": "914556578"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -334,8 +556,14 @@
       "artist": "One Direction",
       "album": "Up All Night (The Souvenir Edition)",
       "durationMs": 262640,
+      "isrc": "GBHMU1100174",
       "ids": {
         "appleMusic": "505055857"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -343,8 +571,14 @@
       "artist": "One Direction",
       "album": "Midnight Memories (Deluxe Edition)",
       "durationMs": 188547,
+      "isrc": "GBHMU1300226",
       "ids": {
         "appleMusic": "695319744"
+      },
+      "features": {
+        "bpm": 156,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -352,8 +586,14 @@
       "artist": "One Direction",
       "album": "Up All Night (Fan Edition)",
       "durationMs": 216947,
+      "isrc": "GBHMU1100169",
       "ids": {
         "appleMusic": "526581808"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -361,8 +601,14 @@
       "artist": "One Direction",
       "album": "Made In The A.M. (Deluxe Edition)",
       "durationMs": 213430,
+      "isrc": "GBHMU1500109",
       "ids": {
         "appleMusic": "1040171622"
+      },
+      "features": {
+        "bpm": 164.1,
+        "gain": -5.1,
+        "source": "deezer"
       }
     },
     {
@@ -370,8 +616,14 @@
       "artist": "One Direction",
       "album": "Up All Night",
       "durationMs": 237707,
+      "isrc": "GBHMU1100167",
       "ids": {
         "appleMusic": "522061846"
+      },
+      "features": {
+        "bpm": 95,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -379,8 +631,14 @@
       "artist": "One Direction",
       "album": "Up All Night",
       "durationMs": 185653,
+      "isrc": "GBHMU1100019",
       "ids": {
         "appleMusic": "522062130"
+      },
+      "features": {
+        "bpm": 145.1,
+        "gain": -5.2,
+        "source": "deezer"
       }
     },
     {
@@ -388,8 +646,14 @@
       "artist": "One Direction",
       "album": "Up All Night (The Souvenir Edition)",
       "durationMs": 175093,
+      "isrc": "GBHMU1100173",
       "ids": {
         "appleMusic": "505055856"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -397,8 +661,14 @@
       "artist": "One Direction",
       "album": "Made In The A.M. (Deluxe Edition)",
       "durationMs": 241537,
+      "isrc": "GBHMU1500117",
       "ids": {
         "appleMusic": "1040171630"
+      },
+      "features": {
+        "bpm": 123.4,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -406,8 +676,14 @@
       "artist": "One Direction",
       "album": "Perfect - EP",
       "durationMs": 194907,
+      "isrc": "GBHMU1500171",
       "ids": {
         "appleMusic": "1050977453"
+      },
+      "features": {
+        "bpm": 162.1,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -415,8 +691,14 @@
       "artist": "One Direction",
       "album": "Up All Night (The Souvenir Edition)",
       "durationMs": 215933,
+      "isrc": "GBHMU1100382",
       "ids": {
         "appleMusic": "505055861"
+      },
+      "features": {
+        "bpm": 140.2,
+        "gain": -5.4,
+        "source": "deezer"
       }
     },
     {
@@ -424,8 +706,14 @@
       "artist": "One Direction",
       "album": "Made In The A.M. (Deluxe Edition)",
       "durationMs": 240009,
+      "isrc": "GBHMU1500103",
       "ids": {
         "appleMusic": "1040171615"
+      },
+      "features": {
+        "bpm": 184.6,
+        "gain": -6.3,
+        "source": "deezer"
       }
     },
     {
@@ -433,8 +721,14 @@
       "artist": "One Direction",
       "album": "Take Me Home (Yearbook Edition)",
       "durationMs": 200040,
+      "isrc": "GBHMU1200363",
       "ids": {
         "appleMusic": "574406665"
+      },
+      "features": {
+        "bpm": 168.1,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -442,6 +736,7 @@
       "artist": "One Direction",
       "album": "Acoustic - EP",
       "durationMs": 182005,
+      "isrc": "GBHMU1100383",
       "ids": {
         "appleMusic": "1524000271"
       }

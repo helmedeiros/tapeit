@@ -96,6 +96,7 @@
       "artist": "Vincenzo Zoppi",
       "album": "Stephen Heller: 25 Etudes Melodiques, Op. 45",
       "durationMs": 105338,
+      "isrc": "CH6542077888",
       "ids": {
         "appleMusic": "1523483815"
       }
@@ -105,8 +106,14 @@
       "artist": "William McVicker",
       "album": "Great Organ Classics",
       "durationMs": 567467,
+      "isrc": "GBARU9700211",
       "ids": {
         "appleMusic": "459525792"
+      },
+      "features": {
+        "bpm": 154.8,
+        "gain": -22.6,
+        "source": "deezer"
       }
     },
     {
@@ -132,8 +139,14 @@
       "artist": "Barry Wordsworth \u0026 London Symphony Orchestra",
       "album": "Drive Time - Autobahn",
       "durationMs": 197000,
+      "isrc": "USSM10502771",
       "ids": {
         "appleMusic": "160761910"
+      },
+      "features": {
+        "bpm": 159,
+        "gain": -15.4,
+        "source": "deezer"
       }
     },
     {
@@ -177,8 +190,14 @@
       "artist": "Raymond Dessaints, Ensemble Amati",
       "album": "Brahms: Hungarian Dances for String Orchestra",
       "durationMs": 201760,
+      "isrc": "USA560637508",
       "ids": {
         "appleMusic": "250966796"
+      },
+      "features": {
+        "bpm": 144.1,
+        "gain": -17.8,
+        "source": "deezer"
       }
     },
     {
@@ -213,6 +232,7 @@
       "artist": "Zequinha de Abreu \u0026 Braclassic",
       "album": "Clássicos De Zequinha De Abreu",
       "durationMs": 170429,
+      "isrc": "BXSPK2100021",
       "ids": {
         "appleMusic": "1578324628"
       }
@@ -231,8 +251,14 @@
       "artist": "György Cziffra",
       "album": "György Cziffra; the Early Columbia Records",
       "durationMs": 203827,
+      "isrc": "USA560605759",
       "ids": {
         "appleMusic": "903181612"
+      },
+      "features": {
+        "bpm": 92.3,
+        "gain": -20.6,
+        "source": "deezer"
       }
     },
     {
@@ -285,8 +311,14 @@
       "artist": "Henrik Måwe",
       "album": "Top Classical",
       "durationMs": 316604,
+      "isrc": "SEWDL6018042",
       "ids": {
         "appleMusic": "1606693188"
+      },
+      "features": {
+        "bpm": 139.2,
+        "gain": -17,
+        "source": "deezer"
       }
     },
     {
@@ -294,8 +326,14 @@
       "artist": "Keith Clark \u0026 Slovak Radio Symphony Orchestra",
       "album": "A Guided Tour of the Romantic Era, Vol. 11",
       "durationMs": 432133,
+      "isrc": "HKI199608102",
       "ids": {
         "appleMusic": "592958505"
+      },
+      "features": {
+        "bpm": 197.82,
+        "gain": -22.9,
+        "source": "deezer"
       }
     },
     {
@@ -303,6 +341,7 @@
       "artist": "Russian National Orchestra \u0026 Mikhail Pletnev",
       "album": "Tchaikovsky: Famous Pieces",
       "durationMs": 555494,
+      "isrc": "NLE421102005",
       "ids": {
         "appleMusic": "1741186709"
       }
@@ -384,6 +423,7 @@
       "artist": "Pavel Lyubomudrov \u0026 Metamorphose String Orchestra",
       "album": "Classical Music Is Not Boring",
       "durationMs": 153088,
+      "isrc": "ITD542001656",
       "ids": {
         "appleMusic": "1652402488"
       }
@@ -393,6 +433,7 @@
       "artist": "Metamorphose String Orchestra \u0026 Pavel Lyubomudrov",
       "album": "Classical Music for When You're on a Deadline",
       "durationMs": 105344,
+      "isrc": "ITD542100087",
       "ids": {
         "appleMusic": "1709321541"
       }
@@ -420,6 +461,7 @@
       "artist": "Russian State Symphony Orchestra \u0026 Dmitry Yablonsky",
       "album": "Stor musik för små öron",
       "durationMs": 193600,
+      "isrc": "HKI190201414",
       "ids": {
         "appleMusic": "1789152625"
       }
@@ -429,8 +471,14 @@
       "artist": "Salvatore Accardo \u0026 Orchestra da Camera Italiana",
       "album": "The Best of Violin",
       "durationMs": 551173,
+      "isrc": "ITV701016702",
       "ids": {
         "appleMusic": "560910629"
+      },
+      "features": {
+        "bpm": 106.28,
+        "gain": -23.1,
+        "source": "deezer"
       }
     },
     {
@@ -438,6 +486,7 @@
       "artist": "Franz Liszt",
       "album": "Vivy -Fluorite Eye's Song- Original Soundtrack",
       "durationMs": 287227,
+      "isrc": "AUXN22047032",
       "ids": {
         "appleMusic": "1571468858"
       }
@@ -465,6 +514,7 @@
       "artist": "Russian State Symphony Orchestra",
       "album": "Jack-in-the-Box: A Collection of Amusing and Entertaining Works by Classical Composers",
       "durationMs": 148853,
+      "isrc": "HKI190201417",
       "ids": {
         "appleMusic": "274613125"
       }
@@ -501,6 +551,7 @@
       "artist": "Valentina Lisitsa",
       "album": "Beethoven: Rage Over a Lost Penny, Op. 129 - Single",
       "durationMs": 373667,
+      "isrc": "GBF071403580",
       "ids": {
         "appleMusic": "1452278897"
       }

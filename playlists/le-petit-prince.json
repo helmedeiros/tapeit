@@ -6,8 +6,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 129373,
+      "isrc": "USNLR1500195",
       "ids": {
         "appleMusic": "1330575102"
+      },
+      "features": {
+        "bpm": 95.93,
+        "gain": -19.9,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "Camille \u0026 Hans Zimmer",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 206507,
+      "isrc": "USNLR1500220",
       "ids": {
         "appleMusic": "1330575111"
+      },
+      "features": {
+        "bpm": 156.01,
+        "gain": -17.7,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +36,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 72480,
+      "isrc": "USNLR1500197",
       "ids": {
         "appleMusic": "1330575114"
+      },
+      "features": {
+        "bpm": 90.07,
+        "gain": -18.5,
+        "source": "deezer"
       }
     },
     {
@@ -33,8 +51,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 100853,
+      "isrc": "USNLR1500198",
       "ids": {
         "appleMusic": "1750950480"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -19.8,
+        "source": "deezer"
       }
     },
     {
@@ -42,6 +66,7 @@
       "artist": "Hans Zimmer \u0026 Camille",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 123747,
+      "isrc": "USNLR1500199",
       "ids": {
         "appleMusic": "1750950496"
       }
@@ -51,8 +76,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 135800,
+      "isrc": "USNLR1500200",
       "ids": {
         "appleMusic": "1330575530"
+      },
+      "features": {
+        "bpm": 106.01,
+        "gain": -21.5,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +91,14 @@
       "artist": "Hans Zimmer \u0026 Camille",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 76440,
+      "isrc": "USNLR1500201",
       "ids": {
         "appleMusic": "1750951017"
+      },
+      "features": {
+        "bpm": 124.53,
+        "gain": -15.9,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +106,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 36333,
+      "isrc": "USNLR1500202",
       "ids": {
         "appleMusic": "1750951200"
+      },
+      "features": {
+        "bpm": 93.96,
+        "gain": -22,
+        "source": "deezer"
       }
     },
     {
@@ -78,8 +121,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 103493,
+      "isrc": "USNLR1500203",
       "ids": {
         "appleMusic": "1330575545"
+      },
+      "features": {
+        "bpm": 130.83,
+        "gain": -20.3,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +136,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 156000,
+      "isrc": "USNLR1500204",
       "ids": {
         "appleMusic": "1330575549"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -20.7,
+        "source": "deezer"
       }
     },
     {
@@ -96,8 +151,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 57240,
+      "isrc": "USNLR1500205",
       "ids": {
         "appleMusic": "1750951710"
+      },
+      "features": {
+        "bpm": 117.79,
+        "gain": -21.6,
+        "source": "deezer"
       }
     },
     {
@@ -105,8 +166,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 194520,
+      "isrc": "USNLR1500206",
       "ids": {
         "appleMusic": "1330575795"
+      },
+      "features": {
+        "bpm": 114.84,
+        "gain": -18.4,
+        "source": "deezer"
       }
     },
     {
@@ -114,8 +181,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 228267,
+      "isrc": "USNLR1500207",
       "ids": {
         "appleMusic": "1750952153"
+      },
+      "features": {
+        "bpm": 148.19,
+        "gain": -19.3,
+        "source": "deezer"
       }
     },
     {
@@ -123,8 +196,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 219907,
+      "isrc": "USNLR1500208",
       "ids": {
         "appleMusic": "1750952173"
+      },
+      "features": {
+        "bpm": 127.6,
+        "gain": -20.7,
+        "source": "deezer"
       }
     },
     {
@@ -132,8 +211,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 25973,
+      "isrc": "USNLR1500209",
       "ids": {
         "appleMusic": "1330575806"
+      },
+      "features": {
+        "bpm": 160.25,
+        "gain": -19.9,
+        "source": "deezer"
       }
     },
     {
@@ -141,8 +226,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 54693,
+      "isrc": "USNLR1500210",
       "ids": {
         "appleMusic": "1330575818"
+      },
+      "features": {
+        "bpm": 133.8,
+        "gain": -24.8,
+        "source": "deezer"
       }
     },
     {
@@ -150,8 +241,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 155880,
+      "isrc": "USNLR1500211",
       "ids": {
         "appleMusic": "1330576166"
+      },
+      "features": {
+        "bpm": 154.27,
+        "gain": -15.6,
+        "source": "deezer"
       }
     },
     {
@@ -159,8 +256,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 247373,
+      "isrc": "USNLR1500212",
       "ids": {
         "appleMusic": "1750953298"
+      },
+      "features": {
+        "bpm": 106.28,
+        "gain": -16.1,
+        "source": "deezer"
       }
     },
     {
@@ -168,8 +271,14 @@
       "artist": "Camille \u0026 Hans Zimmer",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 189213,
+      "isrc": "USNLR1500222",
       "ids": {
         "appleMusic": "1330576217"
+      },
+      "features": {
+        "bpm": 156.01,
+        "gain": -18.4,
+        "source": "deezer"
       }
     },
     {
@@ -177,8 +286,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 107253,
+      "isrc": "USNLR1500214",
       "ids": {
         "appleMusic": "1750953643"
+      },
+      "features": {
+        "bpm": 90.47,
+        "gain": -17.7,
+        "source": "deezer"
       }
     },
     {
@@ -186,8 +301,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 240267,
+      "isrc": "USNLR1500215",
       "ids": {
         "appleMusic": "1750953986"
+      },
+      "features": {
+        "bpm": 147.66,
+        "gain": -22.4,
+        "source": "deezer"
       }
     },
     {
@@ -195,8 +316,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 118827,
+      "isrc": "USNLR1500216",
       "ids": {
         "appleMusic": "1330576224"
+      },
+      "features": {
+        "bpm": 145.58,
+        "gain": -21.7,
+        "source": "deezer"
       }
     },
     {
@@ -204,8 +331,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 193773,
+      "isrc": "USNLR1500217",
       "ids": {
         "appleMusic": "1330576227"
+      },
+      "features": {
+        "bpm": 144.05,
+        "gain": -17.1,
+        "source": "deezer"
       }
     },
     {
@@ -213,8 +346,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 262400,
+      "isrc": "USNLR1500218",
       "ids": {
         "appleMusic": "1750954823"
+      },
+      "features": {
+        "bpm": 140.15,
+        "gain": -21.7,
+        "source": "deezer"
       }
     },
     {
@@ -222,8 +361,14 @@
       "artist": "Hans Zimmer \u0026 Richard Harvey",
       "album": "Le Petit Prince (Bande originale du film)",
       "durationMs": 257453,
+      "isrc": "USNLR1500219",
       "ids": {
         "appleMusic": "1330576232"
+      },
+      "features": {
+        "bpm": 157.2,
+        "gain": -18.3,
+        "source": "deezer"
       }
     }
   ]

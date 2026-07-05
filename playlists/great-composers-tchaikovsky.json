@@ -24,8 +24,14 @@
       "artist": "Ondrej Lenárd \u0026 Slovak Radio Symphony Orchestra",
       "album": "Tchaikovsky - 50 of the Best",
       "durationMs": 1309000,
+      "isrc": "HKI199316604",
       "ids": {
         "appleMusic": "658450924"
+      },
+      "features": {
+        "bpm": 133.4,
+        "gain": -23.2,
+        "source": "deezer"
       }
     },
     {
@@ -78,6 +84,7 @@
       "artist": "Ondrej Lenárd \u0026 Slovak Radio Symphony Orchestra",
       "album": "Tchaikovsky - 50 of the Best",
       "durationMs": 241467,
+      "isrc": "HKI199317001",
       "ids": {
         "appleMusic": "658451096"
       }
@@ -114,6 +121,7 @@
       "artist": "Oxana Yablonskaya",
       "album": "Tchaikovsky - 50 of the Best",
       "durationMs": 368720,
+      "isrc": "HKI199713102",
       "ids": {
         "appleMusic": "658451108"
       }
@@ -159,6 +167,7 @@
       "artist": "Ilona Prunyi",
       "album": "Tchaikovsky: The Seasons - Chanson Triste - Song Without Words - Nocturne",
       "durationMs": 199000,
+      "isrc": "HKI199318113",
       "ids": {
         "appleMusic": "1220533444"
       }
@@ -231,6 +240,7 @@
       "artist": "Polish National Radio Symphony Orchestra \u0026 Adrian Leaper",
       "album": "50 Of the Best Classical Music: Tchaikovsky",
       "durationMs": 489960,
+      "isrc": "HKI199317503",
       "ids": {
         "appleMusic": "863356925"
       }
@@ -249,8 +259,14 @@
       "artist": "Slovak Philharmonic Orchestra \u0026 Michael Halász",
       "album": "Tchaikovsky: Swan Lake (Highlights)",
       "durationMs": 402040,
+      "isrc": "HKI199316312",
       "ids": {
         "appleMusic": "1146892358"
+      },
+      "features": {
+        "bpm": 118.46,
+        "gain": -35.1,
+        "source": "deezer"
       }
     },
     {
@@ -294,8 +310,14 @@
       "artist": "Slovak Radio Symphony Orchestra \u0026 Ondrej Lenárd",
       "album": "20 Most Famous Opera Pieces of All Times",
       "durationMs": 278027,
+      "isrc": "HKI199317005",
       "ids": {
         "appleMusic": "1337795080"
+      },
+      "features": {
+        "bpm": 107.39,
+        "gain": -26.2,
+        "source": "deezer"
       }
     },
     {
@@ -375,6 +397,7 @@
       "artist": "Slovak Radio Symphony Orchestra, Keith Clark \u0026 Mariko Honda",
       "album": "Tchaikovsky: Violin Concerto in D Major - Serenade Melancolique - Souvenir D'Un Lieu Cher",
       "durationMs": 599000,
+      "isrc": "HKI199318304",
       "ids": {
         "appleMusic": "1216816046"
       }
@@ -411,6 +434,7 @@
       "artist": "Adrian Leaper \u0026 Polish National Radio Symphony Orchestra",
       "album": "Tchaikovsky: Complete Symphonies and Piano Concertos",
       "durationMs": 635733,
+      "isrc": "HKI199317401",
       "ids": {
         "appleMusic": "452724784"
       }
@@ -447,6 +471,7 @@
       "artist": "Ilona Prunyi",
       "album": "Tchaikovsky - 50 of the Best",
       "durationMs": 199333,
+      "isrc": "HKI199318116",
       "ids": {
         "appleMusic": "658451420"
       }

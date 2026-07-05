@@ -6,8 +6,14 @@
       "artist": "Earth, Wind \u0026 Fire",
       "album": "That's the Way of the World",
       "durationMs": 345220,
+      "isrc": "USSM17400502",
       "ids": {
         "appleMusic": "532975791"
+      },
+      "features": {
+        "bpm": 164.06,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -15,6 +21,7 @@
       "artist": "Q-Tip",
       "album": "The Renaissance",
       "durationMs": 197680,
+      "isrc": "USUM70842592",
       "ids": {
         "appleMusic": "1443756133"
       }
@@ -24,8 +31,14 @@
       "artist": "Logic",
       "album": "Rap That Slaps 2023",
       "durationMs": 167320,
+      "isrc": "USUM71414216",
       "ids": {
         "appleMusic": "1893187147"
+      },
+      "features": {
+        "bpm": 132.1,
+        "gain": -10.7,
+        "source": "deezer"
       }
     },
     {
@@ -33,8 +46,14 @@
       "artist": "OutKast",
       "album": "ATLiens",
       "durationMs": 265200,
+      "isrc": "USLF29600155",
       "ids": {
         "appleMusic": "263570571"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -42,6 +61,7 @@
       "artist": "UGK",
       "album": "Ridin' Dirty",
       "durationMs": 324173,
+      "isrc": "USJI10300107",
       "ids": {
         "appleMusic": "268523040"
       }
@@ -60,6 +80,7 @@
       "artist": "Geto Boys \u0026 Scarface",
       "album": "Best of Geto Boys \u0026 Scarface",
       "durationMs": 291560,
+      "isrc": "USZXT1041149",
       "ids": {
         "appleMusic": "1812902622"
       }
@@ -78,8 +99,14 @@
       "artist": "Ice Cube",
       "album": "1994 Best of by uDiscover",
       "durationMs": 232787,
+      "isrc": "USPO19350005",
       "ids": {
         "appleMusic": "1706929534"
+      },
+      "features": {
+        "bpm": 92.9,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +114,14 @@
       "artist": "Nas",
       "album": "Illmatic XX",
       "durationMs": 202107,
+      "isrc": "USSM10022813",
       "ids": {
         "appleMusic": "806427727"
+      },
+      "features": {
+        "bpm": 91.3,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -114,8 +147,14 @@
       "artist": "The Notorious B.I.G.",
       "album": "Music Inspired By Biggie: I Got A Story To Tell",
       "durationMs": 283053,
+      "isrc": "USAT21402734",
       "ids": {
         "appleMusic": "1555621601"
+      },
+      "features": {
+        "bpm": 187.9,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -132,8 +171,14 @@
       "artist": "A Tribe Called Quest",
       "album": "The Love Movement (Deluxe Edition)",
       "durationMs": 166773,
+      "isrc": "USJI19810230",
       "ids": {
         "appleMusic": "254661177"
+      },
+      "features": {
+        "bpm": 95,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -141,6 +186,7 @@
       "artist": "OutKast",
       "album": "Big Boi \u0026 Dre Present... OutKast",
       "durationMs": 263187,
+      "isrc": "USLF22000030",
       "ids": {
         "appleMusic": "256462063"
       }
@@ -159,6 +205,7 @@
       "artist": "Chance the Rapper",
       "album": "Angels (feat. Saba) - Single",
       "durationMs": 205385,
+      "isrc": "TCACO1667437",
       "ids": {
         "appleMusic": "1052517270"
       }
@@ -168,8 +215,14 @@
       "artist": "Kid Cudi",
       "album": "Stoner Anthems",
       "durationMs": 221267,
+      "isrc": "USUM70957500",
       "ids": {
         "appleMusic": "1385675828"
+      },
+      "features": {
+        "bpm": 137.8,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -177,8 +230,14 @@
       "artist": "Mobb Deep",
       "album": "Amerikaz Nightmare",
       "durationMs": 193347,
+      "isrc": "USJI10400713",
       "ids": {
         "appleMusic": "253145565"
+      },
+      "features": {
+        "bpm": 91.5,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -186,8 +245,14 @@
       "artist": "Busta Rhymes",
       "album": "East Coast Originals",
       "durationMs": 195133,
+      "isrc": "USEE19792108",
       "ids": {
         "appleMusic": "1274912751"
+      },
+      "features": {
+        "bpm": 99.4,
+        "gain": -13.2,
+        "source": "deezer"
       }
     },
     {
@@ -195,8 +260,14 @@
       "artist": "Brand Nubian",
       "album": "The Very Best of Brand Nubian",
       "durationMs": 303107,
+      "isrc": "USEE10609039",
       "ids": {
         "appleMusic": "1604624889"
+      },
+      "features": {
+        "bpm": 95.7,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -213,8 +284,14 @@
       "artist": "A Tribe Called Quest",
       "album": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
       "durationMs": 282009,
+      "isrc": "USJI19000006",
       "ids": {
         "appleMusic": "1806751232"
+      },
+      "features": {
+        "bpm": 104.7,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -222,8 +299,14 @@
       "artist": "Beastie Boys",
       "album": "Ill Communication (Deluxe Edition) [Remastered]",
       "durationMs": 114653,
+      "isrc": "USCA29400085",
       "ids": {
         "appleMusic": "716576120"
+      },
+      "features": {
+        "bpm": 104.4,
+        "gain": -13.1,
+        "source": "deezer"
       }
     },
     {
@@ -231,8 +314,14 @@
       "artist": "Pete Rock \u0026 C.L. Smooth",
       "album": "Hip Hop Classics Party",
       "durationMs": 286693,
+      "isrc": "USEE10000148",
       "ids": {
         "appleMusic": "1587658503"
+      },
+      "features": {
+        "bpm": 101.8,
+        "gain": -14.1,
+        "source": "deezer"
       }
     },
     {
@@ -258,8 +347,14 @@
       "artist": "The Notorious B.I.G.",
       "album": "Ready To Die: For The Money - EP",
       "durationMs": 255893,
+      "isrc": "USBB40610767",
       "ids": {
         "appleMusic": "1765108451"
+      },
+      "features": {
+        "bpm": 93.8,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -276,8 +371,14 @@
       "artist": "Nas",
       "album": "God's Son",
       "durationMs": 253720,
+      "isrc": "USSM10212678",
       "ids": {
         "appleMusic": "162508312"
+      },
+      "features": {
+        "bpm": 95.3,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -285,8 +386,14 @@
       "artist": "Mobb Deep",
       "album": "The Infamous (25th Anniversary Expanded Edition)",
       "durationMs": 325507,
+      "isrc": "USRC19401295",
       "ids": {
         "appleMusic": "1508622545"
+      },
+      "features": {
+        "bpm": 93.8,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -294,8 +401,14 @@
       "artist": "A Tribe Called Quest",
       "album": "Pure... 90S",
       "durationMs": 251653,
+      "isrc": "USJI10300400",
       "ids": {
         "appleMusic": "541518991"
+      },
+      "features": {
+        "bpm": 96.6,
+        "gain": -11.3,
+        "source": "deezer"
       }
     },
     {
@@ -303,8 +416,14 @@
       "artist": "Fugees",
       "album": "Greatest Hits",
       "durationMs": 240186,
+      "isrc": "USSM10012674",
       "ids": {
         "appleMusic": "267384404"
+      },
+      "features": {
+        "bpm": 171.6,
+        "gain": -11.5,
+        "source": "deezer"
       }
     },
     {
@@ -312,8 +431,14 @@
       "artist": "The Pharcyde",
       "album": "Runnin' / 4 Better Or 4 Worse (Remixes) - EP",
       "durationMs": 332587,
+      "isrc": "USDE10801063",
       "ids": {
         "appleMusic": "1443744168"
+      },
+      "features": {
+        "bpm": 186.23,
+        "gain": -15.2,
+        "source": "deezer"
       }
     },
     {
@@ -321,8 +446,14 @@
       "artist": "Souls of Mischief",
       "album": "93 'til Infinity",
       "durationMs": 286440,
+      "isrc": "USJI10400408",
       "ids": {
         "appleMusic": "369570892"
+      },
+      "features": {
+        "bpm": 103.1,
+        "gain": -13.3,
+        "source": "deezer"
       }
     },
     {
@@ -330,8 +461,14 @@
       "artist": "Dilated Peoples",
       "album": "Neighborhood Watch",
       "durationMs": 245827,
+      "isrc": "USCA20300889",
       "ids": {
         "appleMusic": "724476057"
+      },
+      "features": {
+        "bpm": 189.7,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -339,8 +476,14 @@
       "artist": "Danny Brown",
       "album": "Grown Up - Single",
       "durationMs": 139931,
+      "isrc": "FR0Z50037073",
       "ids": {
         "appleMusic": "1810313271"
+      },
+      "features": {
+        "bpm": 93.54,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -357,8 +500,14 @@
       "artist": "Ice Cube",
       "album": "Greatest Hits",
       "durationMs": 260080,
+      "isrc": "USPO19250006",
       "ids": {
         "appleMusic": "724363751"
+      },
+      "features": {
+        "bpm": 164.7,
+        "gain": -11.4,
+        "source": "deezer"
       }
     },
     {
@@ -366,8 +515,14 @@
       "artist": "OutKast",
       "album": "Aquemini",
       "durationMs": 426859,
+      "isrc": "USLF29800327",
       "ids": {
         "appleMusic": "266365523"
+      },
+      "features": {
+        "bpm": 124.91,
+        "gain": -10.7,
+        "source": "deezer"
       }
     },
     {
@@ -375,8 +530,14 @@
       "artist": "Logic",
       "album": "Under Pressure",
       "durationMs": 262562,
+      "isrc": "USUM71414224",
       "ids": {
         "appleMusic": "1440815749"
+      },
+      "features": {
+        "bpm": 136.9,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -384,6 +545,7 @@
       "artist": "A Tribe Called Quest",
       "album": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
       "durationMs": 229847,
+      "isrc": "USJI10300399",
       "ids": {
         "appleMusic": "1806751240"
       }
@@ -393,8 +555,14 @@
       "artist": "The Pharcyde",
       "album": "Waxing Off: Delicious Vinyl's Greatest Hits",
       "durationMs": 303467,
+      "isrc": "US3DF1209539",
       "ids": {
         "appleMusic": "1442263701"
+      },
+      "features": {
+        "bpm": 87.04,
+        "gain": -10.5,
+        "source": "deezer"
       }
     },
     {
@@ -429,6 +597,7 @@
       "artist": "LL COOL J",
       "album": "All World",
       "durationMs": 226227,
+      "isrc": "USDJ29600008",
       "ids": {
         "appleMusic": "1440911387"
       }
@@ -438,6 +607,7 @@
       "artist": "Childish Gambino",
       "album": "Because the Internet",
       "durationMs": 234215,
+      "isrc": "USYAH1300243",
       "ids": {
         "appleMusic": "1440859177"
       }
@@ -465,6 +635,7 @@
       "artist": "Total",
       "album": "Twice as Nice",
       "durationMs": 253427,
+      "isrc": "FR8GV2573100",
       "ids": {
         "appleMusic": "1244743901"
       }
@@ -474,8 +645,14 @@
       "artist": "A Tribe Called Quest",
       "album": "Hits, Rarities \u0026 Remixes",
       "durationMs": 224920,
+      "isrc": "USJI10300110",
       "ids": {
         "appleMusic": "253696791"
+      },
+      "features": {
+        "bpm": 98.2,
+        "gain": -13.1,
+        "source": "deezer"
       }
     },
     {
@@ -492,6 +669,7 @@
       "artist": "OutKast",
       "album": "Speakerboxxx/The Love Below",
       "durationMs": 234000,
+      "isrc": "USAR10300967",
       "ids": {
         "appleMusic": "1774796505"
       }
@@ -537,6 +715,7 @@
       "artist": "Snoop Dogg",
       "album": "Ego Trippin'",
       "durationMs": 240307,
+      "isrc": "USUM70805713",
       "ids": {
         "appleMusic": "1443237989"
       }
@@ -573,8 +752,14 @@
       "artist": "Busta Rhymes",
       "album": "The Mod Squad (Music from the MGM Motion Picture)",
       "durationMs": 153293,
+      "isrc": "USEE10900630",
       "ids": {
         "appleMusic": "797534308"
+      },
+      "features": {
+        "bpm": 101.1,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -600,8 +785,14 @@
       "artist": "Crucial Conflict",
       "album": "Midwest Mix",
       "durationMs": 260240,
+      "isrc": "USUM70609807",
       "ids": {
         "appleMusic": "1579980045"
+      },
+      "features": {
+        "bpm": 140.1,
+        "gain": -13,
+        "source": "deezer"
       }
     },
     {
@@ -609,8 +800,14 @@
       "artist": "OutKast",
       "album": "Big Boi \u0026 Dre Present... OutKast",
       "durationMs": 295347,
+      "isrc": "USAR10100762",
       "ids": {
         "appleMusic": "256461806"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
@@ -636,8 +833,14 @@
       "artist": "The Notorious B.I.G.",
       "album": "Music Inspired By Biggie: I Got A Story To Tell",
       "durationMs": 366880,
+      "isrc": "USAT21402735",
       "ids": {
         "appleMusic": "1555621727"
+      },
+      "features": {
+        "bpm": 154.8,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -645,6 +848,7 @@
       "artist": "Snoop Dogg",
       "album": "Doggystyle",
       "durationMs": 280613,
+      "isrc": "USKO10403592",
       "ids": {
         "appleMusic": "1676306186"
       }
@@ -654,8 +858,14 @@
       "artist": "Dr. Dre",
       "album": "Dr. Dre Presents... The Aftermath",
       "durationMs": 310440,
+      "isrc": "USIR19601096",
       "ids": {
         "appleMusic": "1444001602"
+      },
+      "features": {
+        "bpm": 87.8,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -672,8 +882,14 @@
       "artist": "Ice Cube",
       "album": "Greatest Hits",
       "durationMs": 255533,
+      "isrc": "USPO19450014",
       "ids": {
         "appleMusic": "724363427"
+      },
+      "features": {
+        "bpm": 101.3,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -681,8 +897,14 @@
       "artist": "Digital Underground",
       "album": "The Humpty Dance - Single",
       "durationMs": 391693,
+      "isrc": "USTB10300377",
       "ids": {
         "appleMusic": "1634644372"
+      },
+      "features": {
+        "bpm": 103.62,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -699,6 +921,7 @@
       "artist": "N.W.A",
       "album": "The Best of N.W.A: The Strength of Street Knowledge",
       "durationMs": 262933,
+      "isrc": "USPO10000891",
       "ids": {
         "appleMusic": "1489662958"
       }
@@ -708,8 +931,14 @@
       "artist": "Cypress Hill",
       "album": "Greatest Hits From The Bong",
       "durationMs": 242333,
+      "isrc": "USSM11704637",
       "ids": {
         "appleMusic": "155715858"
+      },
+      "features": {
+        "bpm": 97.97,
+        "gain": -15.8,
+        "source": "deezer"
       }
     },
     {
@@ -717,8 +946,14 @@
       "artist": "The D.O.C.",
       "album": "No One Can Do It Better",
       "durationMs": 269973,
+      "isrc": "USAT20302430",
       "ids": {
         "appleMusic": "79023418"
+      },
+      "features": {
+        "bpm": 180.5,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -744,8 +979,14 @@
       "artist": "N.W.A",
       "album": "Hip Hop Workout",
       "durationMs": 258688,
+      "isrc": "USPO10000872",
       "ids": {
         "appleMusic": "1375814040"
+      },
+      "features": {
+        "bpm": 102.85,
+        "gain": -14.1,
+        "source": "deezer"
       }
     },
     {
@@ -771,6 +1012,7 @@
       "artist": "Method Man \u0026 Redman",
       "album": "Poker Night",
       "durationMs": 136453,
+      "isrc": "USDJ29905111",
       "ids": {
         "appleMusic": "1824351248"
       }
@@ -780,8 +1022,14 @@
       "artist": "Cam’ron",
       "album": "Cam'ron... Harlem's Greatest",
       "durationMs": 279467,
+      "isrc": "USSM10009744",
       "ids": {
         "appleMusic": "298171061"
+      },
+      "features": {
+        "bpm": 144.1,
+        "gain": -11.5,
+        "source": "deezer"
       }
     },
     {
@@ -789,8 +1037,14 @@
       "artist": "Big Punisher",
       "album": "Capital Punishment",
       "durationMs": 208217,
+      "isrc": "USLR59900107",
       "ids": {
         "appleMusic": "253531339"
+      },
+      "features": {
+        "bpm": 90.5,
+        "gain": -10.5,
+        "source": "deezer"
       }
     },
     {
@@ -807,8 +1061,14 @@
       "artist": "KRS-One",
       "album": "KRS-One",
       "durationMs": 295933,
+      "isrc": "USJI18800016",
       "ids": {
         "appleMusic": "254977164"
+      },
+      "features": {
+        "bpm": 90.5,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -816,8 +1076,14 @@
       "artist": "Nas",
       "album": "God's Son",
       "durationMs": 203000,
+      "isrc": "USSM10211988",
       "ids": {
         "appleMusic": "162508258"
+      },
+      "features": {
+        "bpm": 95.3,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -834,8 +1100,14 @@
       "artist": "The LOX",
       "album": "Money, Power \u0026 Respect",
       "durationMs": 270493,
+      "isrc": "USBB40581228",
       "ids": {
         "appleMusic": "80978968"
+      },
+      "features": {
+        "bpm": 191.4,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
@@ -861,8 +1133,14 @@
       "artist": "Royce Da 5'9\"",
       "album": "Boom / Soldier's Story",
       "durationMs": 235760,
+      "isrc": "USF430810001",
       "ids": {
         "appleMusic": "276255691"
+      },
+      "features": {
+        "bpm": 94,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -888,6 +1166,7 @@
       "artist": "Drake",
       "album": "If You're Reading This It's Too Late",
       "durationMs": 181928,
+      "isrc": "USCM51500012",
       "ids": {
         "appleMusic": "1440839943"
       }
@@ -897,8 +1176,14 @@
       "artist": "The Diplomats",
       "album": "Diplomatic Immunity",
       "durationMs": 249040,
+      "isrc": "USDJ20300186",
       "ids": {
         "appleMusic": "1440661371"
+      },
+      "features": {
+        "bpm": 83.5,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -906,8 +1191,14 @@
       "artist": "KRS-One",
       "album": "I Got Next",
       "durationMs": 289843,
+      "isrc": "USJI19710033",
       "ids": {
         "appleMusic": "286588617"
+      },
+      "features": {
+        "bpm": 189.7,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -915,8 +1206,14 @@
       "artist": "Nas",
       "album": "Illmatic",
       "durationMs": 290579,
+      "isrc": "USSM10022814",
       "ids": {
         "appleMusic": "662324541"
+      },
+      "features": {
+        "bpm": 87.4,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -924,6 +1221,7 @@
       "artist": "Swizz Beatz",
       "album": "One Man Band Man",
       "durationMs": 188933,
+      "isrc": "USUM70734068",
       "ids": {
         "appleMusic": "1449916598"
       }

@@ -3,19 +3,32 @@
   "tracks": [
     {
       "title": "Anna Júlia",
-      "artist": "Los Hermanos"
+      "artist": "Los Hermanos",
+      "isrc": "BRBMG9901028",
+      "features": {
+        "bpm": 148.2,
+        "gain": -7.8,
+        "source": "deezer"
+      }
     },
     {
       "title": "Melhor Que Ontem",
-      "artist": "Djonga"
+      "artist": "Djonga",
+      "isrc": "BCQAL2500012"
     },
     {
       "title": "Último Romance",
       "artist": "Los Hermanos",
       "album": "Ventura",
       "durationMs": 263440,
+      "isrc": "BRBMG0300252",
       "ids": {
         "appleMusic": "311097658"
+      },
+      "features": {
+        "bpm": 160.2,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -23,8 +36,14 @@
       "artist": "Los Hermanos",
       "album": "4",
       "durationMs": 213867,
+      "isrc": "BRBMG0500149",
       "ids": {
         "appleMusic": "401849501"
+      },
+      "features": {
+        "bpm": 138.3,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -32,8 +51,14 @@
       "artist": "Los Hermanos",
       "album": "Bloco do Eu Sozinho",
       "durationMs": 310093,
+      "isrc": "BRAMD0100584",
       "ids": {
         "appleMusic": "375340406"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -12.3,
+        "source": "deezer"
       }
     },
     {
@@ -41,8 +66,14 @@
       "artist": "Los Hermanos",
       "album": "Los Hermanos",
       "durationMs": 261973,
+      "isrc": "BRBMG9901033",
       "ids": {
         "appleMusic": "321827512"
+      },
+      "features": {
+        "bpm": 100.3,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -50,8 +81,14 @@
       "artist": "Los Hermanos",
       "album": "Ventura",
       "durationMs": 200027,
+      "isrc": "BRBMG0300250",
       "ids": {
         "appleMusic": "311097656"
+      },
+      "features": {
+        "bpm": 110,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -59,8 +96,14 @@
       "artist": "Los Hermanos",
       "album": "4",
       "durationMs": 178947,
+      "isrc": "BRBMG0500146",
       "ids": {
         "appleMusic": "401849495"
+      },
+      "features": {
+        "bpm": 104.1,
+        "gain": -13.3,
+        "source": "deezer"
       }
     },
     {
@@ -68,8 +111,14 @@
       "artist": "Los Hermanos",
       "album": "Bloco do Eu Sozinho",
       "durationMs": 207467,
+      "isrc": "BRAMD0100579",
       "ids": {
         "appleMusic": "375340343"
+      },
+      "features": {
+        "bpm": 134.7,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -77,8 +126,14 @@
       "artist": "Los Hermanos",
       "album": "Los Hermanos",
       "durationMs": 152586,
+      "isrc": "BRBMG9901029",
       "ids": {
         "appleMusic": "321827508"
+      },
+      "features": {
+        "bpm": 97.7,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -86,8 +141,14 @@
       "artist": "Los Hermanos",
       "album": "Ventura",
       "durationMs": 243000,
+      "isrc": "BRBMG0300256",
       "ids": {
         "appleMusic": "311097665"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -95,8 +156,14 @@
       "artist": "Los Hermanos",
       "album": "4",
       "durationMs": 208187,
+      "isrc": "BRBMG0500142",
       "ids": {
         "appleMusic": "401849511"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -104,6 +171,7 @@
       "artist": "Los Hermanos",
       "album": "Bloco do Eu Sozinho",
       "durationMs": 238013,
+      "isrc": "BRKPP2000003",
       "ids": {
         "appleMusic": "375340358"
       }
@@ -113,6 +181,7 @@
       "artist": "Los Hermanos",
       "album": "Corre Corre - Single",
       "durationMs": 193243,
+      "isrc": "BRKPP1900001",
       "ids": {
         "appleMusic": "1458107344"
       }
@@ -122,8 +191,14 @@
       "artist": "Los Hermanos",
       "album": "Ventura",
       "durationMs": 240800,
+      "isrc": "BRBMG0300259",
       "ids": {
         "appleMusic": "311097669"
+      },
+      "features": {
+        "bpm": 132.9,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -131,8 +206,14 @@
       "artist": "Los Hermanos",
       "album": "Los Hermanos",
       "durationMs": 207185,
+      "isrc": "BRBMG9901025",
       "ids": {
         "appleMusic": "321827504"
+      },
+      "features": {
+        "bpm": 127.2,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -140,8 +221,14 @@
       "artist": "Los Hermanos",
       "album": "Bloco do Eu Sozinho",
       "durationMs": 264773,
+      "isrc": "BRAMD0100577",
       "ids": {
         "appleMusic": "375340333"
+      },
+      "features": {
+        "bpm": 105.7,
+        "gain": -10.4,
+        "source": "deezer"
       }
     },
     {
@@ -149,8 +236,14 @@
       "artist": "Los Hermanos",
       "album": "4",
       "durationMs": 258093,
+      "isrc": "BRBMG0500153",
       "ids": {
         "appleMusic": "401849476"
+      },
+      "features": {
+        "bpm": 104.9,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -158,8 +251,14 @@
       "artist": "Los Hermanos",
       "album": "Ventura",
       "durationMs": 226947,
+      "isrc": "BRBMG0300253",
       "ids": {
         "appleMusic": "311097660"
+      },
+      "features": {
+        "bpm": 141.1,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -167,8 +266,14 @@
       "artist": "Los Hermanos",
       "album": "Box - Los Hermanos",
       "durationMs": 107560,
+      "isrc": "BRBMG9901032",
       "ids": {
         "appleMusic": "516392851"
+      },
+      "features": {
+        "bpm": 98,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -176,8 +281,14 @@
       "artist": "Los Hermanos",
       "album": "Bloco do Eu Sozinho",
       "durationMs": 176213,
+      "isrc": "BRAMD0100582",
       "ids": {
         "appleMusic": "375340374"
+      },
+      "features": {
+        "bpm": 158.4,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -185,8 +296,14 @@
       "artist": "Los Hermanos",
       "album": "4",
       "durationMs": 204027,
+      "isrc": "BRBMG0500152",
       "ids": {
         "appleMusic": "401849517"
+      },
+      "features": {
+        "bpm": 116.1,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -194,8 +311,14 @@
       "artist": "Los Hermanos",
       "album": "Ventura",
       "durationMs": 197907,
+      "isrc": "BRBMG0300249",
       "ids": {
         "appleMusic": "311097655"
+      },
+      "features": {
+        "bpm": 134.7,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -203,8 +326,14 @@
       "artist": "Los Hermanos",
       "album": "Los Hermanos",
       "durationMs": 167431,
+      "isrc": "BRBMG9901030",
       "ids": {
         "appleMusic": "321827509"
+      },
+      "features": {
+        "bpm": 186.2,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -212,8 +341,14 @@
       "artist": "Los Hermanos",
       "album": "Bloco do Eu Sozinho",
       "durationMs": 281040,
+      "isrc": "BRAMD0100589",
       "ids": {
         "appleMusic": "375340470"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -14.2,
+        "source": "deezer"
       }
     },
     {
@@ -221,8 +356,14 @@
       "artist": "Los Hermanos",
       "album": "4",
       "durationMs": 178533,
+      "isrc": "BRBMG0500151",
       "ids": {
         "appleMusic": "401849485"
+      },
+      "features": {
+        "bpm": 135.1,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -230,6 +371,7 @@
       "artist": "Los Hermanos",
       "album": "Los Hermanos 2019 (Ao Vivo)",
       "durationMs": 214867,
+      "isrc": "BRKPP2000018",
       "ids": {
         "appleMusic": "1511625870"
       }
@@ -239,8 +381,14 @@
       "artist": "Los Hermanos",
       "album": "Box - Los Hermanos",
       "durationMs": 225893,
+      "isrc": "BRSME0800493",
       "ids": {
         "appleMusic": "516393775"
+      },
+      "features": {
+        "bpm": 133.8,
+        "gain": -11.4,
+        "source": "deezer"
       }
     }
   ]

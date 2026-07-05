@@ -6,8 +6,14 @@
       "artist": "Djavan",
       "album": "Coisa de Acender",
       "durationMs": 291533,
+      "isrc": "BRSME9200122",
       "ids": {
         "appleMusic": "808278968"
+      },
+      "features": {
+        "bpm": 90.1,
+        "gain": -12.6,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "Djavan",
       "album": "Bicho Solto - O XIII",
       "durationMs": 298360,
+      "isrc": "BRSME9800621",
       "ids": {
         "appleMusic": "808283546"
+      },
+      "features": {
+        "bpm": 172.3,
+        "gain": -11.7,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +36,14 @@
       "artist": "Djavan",
       "album": "Djavan",
       "durationMs": 296107,
+      "isrc": "BRSME8900064",
       "ids": {
         "appleMusic": "808275395"
+      },
+      "features": {
+        "bpm": 92.9,
+        "gain": -12.4,
+        "source": "deezer"
       }
     },
     {
@@ -33,8 +51,14 @@
       "artist": "Djavan",
       "album": "Djavan as Melhores",
       "durationMs": 327000,
+      "isrc": "BRSME9900421",
       "ids": {
         "appleMusic": "1516003941"
+      },
+      "features": {
+        "bpm": 117.1,
+        "gain": -13.2,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +66,14 @@
       "artist": "Djavan",
       "album": "Coisa de Acender",
       "durationMs": 273307,
+      "isrc": "BRSME9200123",
       "ids": {
         "appleMusic": "808278969"
+      },
+      "features": {
+        "bpm": 162.1,
+        "gain": -11.4,
+        "source": "deezer"
       }
     },
     {
@@ -51,8 +81,14 @@
       "artist": "Os Paralamas do Sucesso \u0026 Djavan",
       "album": "Vamo Batê Lata: Paralamas - EP",
       "durationMs": 219488,
+      "isrc": "BREMI1300112",
       "ids": {
         "appleMusic": "1442511030"
+      },
+      "features": {
+        "bpm": 92.91,
+        "gain": -14.3,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +96,14 @@
       "artist": "Djavan \u0026 Stevie Wonder",
       "album": "Luz",
       "durationMs": 288427,
+      "isrc": "BRSME8200001",
       "ids": {
         "appleMusic": "808269837"
+      },
+      "features": {
+        "bpm": 85.2,
+        "gain": -10.4,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +111,14 @@
       "artist": "Djavan",
       "album": "A Voz e o Violão",
       "durationMs": 225267,
+      "isrc": "BRSGL7600021",
       "ids": {
         "appleMusic": "379515281"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -17.1,
+        "source": "deezer"
       }
     },
     {
@@ -78,8 +126,14 @@
       "artist": "Djavan",
       "album": "Malásia",
       "durationMs": 346267,
+      "isrc": "BRSME9600386",
       "ids": {
         "appleMusic": "808282026"
+      },
+      "features": {
+        "bpm": 156.6,
+        "gain": -14.4,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +141,14 @@
       "artist": "Djavan",
       "album": "Djavan - Ao Vivo (Duplo)",
       "durationMs": 259067,
+      "isrc": "BRSME9900361",
       "ids": {
         "appleMusic": "808755031"
+      },
+      "features": {
+        "bpm": 119.2,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -96,8 +156,14 @@
       "artist": "Djavan",
       "album": "Luz",
       "durationMs": 332133,
+      "isrc": "BRSME8200048",
       "ids": {
         "appleMusic": "808269842"
+      },
+      "features": {
+        "bpm": 104.4,
+        "gain": -21.1,
+        "source": "deezer"
       }
     },
     {
@@ -105,8 +171,14 @@
       "artist": "Djavan",
       "album": "Lilás",
       "durationMs": 283133,
+      "isrc": "BRSME8400053",
       "ids": {
         "appleMusic": "808272914"
+      },
+      "features": {
+        "bpm": 128.4,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -114,8 +186,14 @@
       "artist": "Jorge Vercillo",
       "album": "Final Feliz - Single",
       "durationMs": 228093,
+      "isrc": "BREMI0000493",
       "ids": {
         "appleMusic": "726129239"
+      },
+      "features": {
+        "bpm": 88.9,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -123,8 +201,14 @@
       "artist": "Djavan",
       "album": "Djavan - Ao Vivo (Duplo)",
       "durationMs": 254800,
+      "isrc": "BRSME9900366",
       "ids": {
         "appleMusic": "808755032"
+      },
+      "features": {
+        "bpm": 163.4,
+        "gain": -11.5,
+        "source": "deezer"
       }
     },
     {
@@ -132,6 +216,7 @@
       "artist": "Melim \u0026 Djavan",
       "album": "Deixa Vir Do Coração",
       "durationMs": 204007,
+      "isrc": "BRUM72100856",
       "ids": {
         "appleMusic": "1570542949"
       }
@@ -141,8 +226,14 @@
       "artist": "Djavan",
       "album": "Luz",
       "durationMs": 283240,
+      "isrc": "BRSME8200027",
       "ids": {
         "appleMusic": "808269843"
+      },
+      "features": {
+        "bpm": 137.4,
+        "gain": -20.6,
+        "source": "deezer"
       }
     },
     {
@@ -150,8 +241,14 @@
       "artist": "Djavan",
       "album": "Rua dos Amores",
       "durationMs": 322267,
+      "isrc": "BRLRO1200008",
       "ids": {
         "appleMusic": "1772425604"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -12.9,
+        "source": "deezer"
       }
     },
     {
@@ -159,8 +256,14 @@
       "artist": "Djavan",
       "album": "Djavan",
       "durationMs": 224107,
+      "isrc": "BRSME8900068",
       "ids": {
         "appleMusic": "808275405"
+      },
+      "features": {
+        "bpm": 178.2,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -168,8 +271,14 @@
       "artist": "Djavan",
       "album": "Coisa de Acender",
       "durationMs": 347893,
+      "isrc": "BRSME9200121",
       "ids": {
         "appleMusic": "808278967"
+      },
+      "features": {
+        "bpm": 94.6,
+        "gain": -13.1,
+        "source": "deezer"
       }
     },
     {
@@ -177,8 +286,14 @@
       "artist": "Djavan",
       "album": "A Voz e o Violão",
       "durationMs": 152760,
+      "isrc": "BRSGL7500028",
       "ids": {
         "appleMusic": "379515396"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -18,
+        "source": "deezer"
       }
     },
     {
@@ -186,8 +301,14 @@
       "artist": "Djavan",
       "album": "Luz",
       "durationMs": 278333,
+      "isrc": "BRSME9900357",
       "ids": {
         "appleMusic": "808269845"
+      },
+      "features": {
+        "bpm": 118.1,
+        "gain": -13.5,
+        "source": "deezer"
       }
     },
     {
@@ -195,8 +316,14 @@
       "artist": "Djavan",
       "album": "Djavan",
       "durationMs": 284933,
+      "isrc": "BRSME8900067",
       "ids": {
         "appleMusic": "808275404"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -13.1,
+        "source": "deezer"
       }
     },
     {
@@ -204,8 +331,14 @@
       "artist": "Djavan",
       "album": "Na Pista, Etc.",
       "durationMs": 302280,
+      "isrc": "BRLRO0500008",
       "ids": {
         "appleMusic": "1772425389"
+      },
+      "features": {
+        "bpm": 98,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -213,8 +346,14 @@
       "artist": "Djavan",
       "album": "Lilás",
       "durationMs": 233533,
+      "isrc": "BRSME8400057",
       "ids": {
         "appleMusic": "808272919"
+      },
+      "features": {
+        "bpm": 120.9,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -231,8 +370,14 @@
       "artist": "Djavan",
       "album": "Djavan",
       "durationMs": 197973,
+      "isrc": "BRSME8900070",
       "ids": {
         "appleMusic": "808275407"
+      },
+      "features": {
+        "bpm": 153.7,
+        "gain": -11.8,
+        "source": "deezer"
       }
     },
     {
@@ -240,8 +385,14 @@
       "artist": "Djavan",
       "album": "Vaidade",
       "durationMs": 275693,
+      "isrc": "BRLRO0400002",
       "ids": {
         "appleMusic": "1772425289"
+      },
+      "features": {
+        "bpm": 88,
+        "gain": -11,
+        "source": "deezer"
       }
     },
     {
@@ -249,6 +400,7 @@
       "artist": "BK",
       "album": "Diamantes, Lágrimas e Rostos para Esquecer",
       "durationMs": 220219,
+      "isrc": "BXA5K2500002",
       "ids": {
         "appleMusic": "1792341557"
       }
@@ -258,8 +410,14 @@
       "artist": "Djavan",
       "album": "Djavan",
       "durationMs": 192627,
+      "isrc": "BRSME8900069",
       "ids": {
         "appleMusic": "808275406"
+      },
+      "features": {
+        "bpm": 103.9,
+        "gain": -12.6,
+        "source": "deezer"
       }
     },
     {
@@ -267,6 +425,7 @@
       "artist": "Djavan",
       "album": "Improviso",
       "durationMs": 336726,
+      "isrc": "BRLRO2500012",
       "ids": {
         "appleMusic": "1852104428"
       }
@@ -276,8 +435,14 @@
       "artist": "Djavan",
       "album": "Djavan - Ao Vivo (Duplo)",
       "durationMs": 267760,
+      "isrc": "BRSME9900370",
       "ids": {
         "appleMusic": "808755043"
+      },
+      "features": {
+        "bpm": 133.4,
+        "gain": -13.9,
+        "source": "deezer"
       }
     },
     {
@@ -285,8 +450,14 @@
       "artist": "Djavan",
       "album": "Malásia",
       "durationMs": 284640,
+      "isrc": "BRSME9600395",
       "ids": {
         "appleMusic": "808282042"
+      },
+      "features": {
+        "bpm": 148.2,
+        "gain": -14.6,
+        "source": "deezer"
       }
     },
     {
@@ -294,6 +465,7 @@
       "artist": "Djavan",
       "album": "Improviso",
       "durationMs": 277017,
+      "isrc": "BRLRO2500007",
       "ids": {
         "appleMusic": "1852104408"
       }
@@ -312,8 +484,14 @@
       "artist": "Djavan",
       "album": "Djavan - Ao Vivo (Duplo)",
       "durationMs": 212667,
+      "isrc": "BRSME9900360",
       "ids": {
         "appleMusic": "808755042"
+      },
+      "features": {
+        "bpm": 120.9,
+        "gain": -13.3,
+        "source": "deezer"
       }
     },
     {
@@ -321,6 +499,7 @@
       "artist": "Djavan",
       "album": "Vesúvio",
       "durationMs": 218760,
+      "isrc": "BRLRO1800003",
       "ids": {
         "appleMusic": "1777951904"
       }
@@ -330,6 +509,7 @@
       "artist": "Djavan",
       "album": "Improviso",
       "durationMs": 286593,
+      "isrc": "BRLRO2500003",
       "ids": {
         "appleMusic": "1852104403"
       }
@@ -339,8 +519,14 @@
       "artist": "Djavan",
       "album": "Djavan",
       "durationMs": 212760,
+      "isrc": "BREMI7800005",
       "ids": {
         "appleMusic": "1728139391"
+      },
+      "features": {
+        "bpm": 103.4,
+        "gain": -14.9,
+        "source": "deezer"
       }
     },
     {
@@ -348,8 +534,14 @@
       "artist": "Djavan",
       "album": "Luz",
       "durationMs": 257160,
+      "isrc": "BRSME8200051",
       "ids": {
         "appleMusic": "808269841"
+      },
+      "features": {
+        "bpm": 172.3,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -357,8 +549,14 @@
       "artist": "Djavan",
       "album": "Vidas Pra Contar",
       "durationMs": 261642,
+      "isrc": "BRLRO1500024",
       "ids": {
         "appleMusic": "1772425735"
+      },
+      "features": {
+        "bpm": 139.7,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -366,6 +564,7 @@
       "artist": "Djavan",
       "album": "Improviso",
       "durationMs": 296774,
+      "isrc": "BRLRO2500002",
       "ids": {
         "appleMusic": "1852104399"
       }
@@ -375,8 +574,14 @@
       "artist": "Djavan \u0026 Cássia Eller",
       "album": "Milagreiro",
       "durationMs": 344453,
+      "isrc": "BRSME0100641",
       "ids": {
         "appleMusic": "808749256"
+      },
+      "features": {
+        "bpm": 112.3,
+        "gain": -11.4,
+        "source": "deezer"
       }
     },
     {
@@ -384,6 +589,7 @@
       "artist": "Djavan",
       "album": "Vesúvio",
       "durationMs": 191442,
+      "isrc": "BRLRO1800001",
       "ids": {
         "appleMusic": "1777951906"
       }
@@ -393,8 +599,14 @@
       "artist": "Djavan",
       "album": "Alumbramento / Djavan",
       "durationMs": 175973,
+      "isrc": "BREMI7900028",
       "ids": {
         "appleMusic": "725791169"
+      },
+      "features": {
+        "bpm": 102.59,
+        "gain": -15.1,
+        "source": "deezer"
       }
     },
     {
@@ -402,8 +614,14 @@
       "artist": "Djavan",
       "album": "Seduzir",
       "durationMs": 215227,
+      "isrc": "BREMI8100019",
       "ids": {
         "appleMusic": "713990954"
+      },
+      "features": {
+        "bpm": 150.9,
+        "gain": -13.9,
+        "source": "deezer"
       }
     },
     {
@@ -411,8 +629,14 @@
       "artist": "Djavan",
       "album": "Malásia",
       "durationMs": 199093,
+      "isrc": "BRSME9600394",
       "ids": {
         "appleMusic": "808282041"
+      },
+      "features": {
+        "bpm": 143.6,
+        "gain": -18.2,
+        "source": "deezer"
       }
     },
     {
@@ -420,8 +644,14 @@
       "artist": "Djavan \u0026 Marizinha",
       "album": "Djavan",
       "durationMs": 199800,
+      "isrc": "BREMI7800029",
       "ids": {
         "appleMusic": "1728139764"
+      },
+      "features": {
+        "bpm": 100.3,
+        "gain": -17,
+        "source": "deezer"
       }
     },
     {
@@ -429,6 +659,7 @@
       "artist": "Djavan",
       "album": "D",
       "durationMs": 342672,
+      "isrc": "BRLRO2200002",
       "ids": {
         "appleMusic": "1637538636"
       }

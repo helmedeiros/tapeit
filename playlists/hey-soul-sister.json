@@ -6,8 +6,14 @@
       "artist": "Train",
       "album": "Chill",
       "durationMs": 216667,
+      "isrc": "USSM10904113",
       "ids": {
         "appleMusic": "1023317156"
+      },
+      "features": {
+        "bpm": 97.05,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -15,6 +21,7 @@
       "artist": "Olivia King",
       "album": "Over You - Single",
       "durationMs": 211766,
+      "isrc": "GBKPL1817246",
       "ids": {
         "appleMusic": "1418664978"
       }
@@ -24,6 +31,7 @@
       "artist": "Bruno Mars",
       "album": "Autunno Vibes 2023",
       "durationMs": 220733,
+      "isrc": "USAT21001269",
       "ids": {
         "appleMusic": "1707860567"
       }
@@ -33,8 +41,14 @@
       "artist": "Travie McCoy",
       "album": "Fragole Pop",
       "durationMs": 211160,
+      "isrc": "USAT21000257",
       "ids": {
         "appleMusic": "1805863549"
+      },
+      "features": {
+        "bpm": 173.7,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -42,6 +56,7 @@
       "artist": "Bruno Mars",
       "album": "Carnaval Zen",
       "durationMs": 190213,
+      "isrc": "USAT21001886",
       "ids": {
         "appleMusic": "1876240159"
       }
@@ -51,8 +66,14 @@
       "artist": "Maroon 5",
       "album": "Hands All Over (Deluxe Version)",
       "durationMs": 216200,
+      "isrc": "USUM71015280",
       "ids": {
         "appleMusic": "1440777051"
+      },
+      "features": {
+        "bpm": 102.8,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +81,14 @@
       "artist": "Fun.",
       "album": "Remember These Oldschool Hits - Pop \u0026 Rock",
       "durationMs": 250627,
+      "isrc": "USAT21101399",
       "ids": {
         "appleMusic": "1827033871"
+      },
+      "features": {
+        "bpm": 92.1,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +96,14 @@
       "artist": "Carly Rae Jepsen",
       "album": "Back 2 School 2024",
       "durationMs": 193147,
+      "isrc": "CAB391100615",
       "ids": {
         "appleMusic": "1716440039"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -78,8 +111,14 @@
       "artist": "The Wanted",
       "album": "Chic Pop",
       "durationMs": 197936,
+      "isrc": "GBUM71104495",
       "ids": {
         "appleMusic": "1870709214"
+      },
+      "features": {
+        "bpm": 126.8,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +126,14 @@
       "artist": "The Wanted",
       "album": "Battleground",
       "durationMs": 203619,
+      "isrc": "GBUM71107563",
       "ids": {
         "appleMusic": "1443392469"
+      },
+      "features": {
+        "bpm": 135.1,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -96,8 +141,14 @@
       "artist": "Gym Class Heroes",
       "album": "Canzoni da dedicare",
       "durationMs": 210960,
+      "isrc": "USAT21101071",
       "ids": {
         "appleMusic": "1728454383"
+      },
+      "features": {
+        "bpm": 89.9,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -105,8 +156,14 @@
       "artist": "Lorde",
       "album": "Pure Heroine",
       "durationMs": 190185,
+      "isrc": "NZUM71200031",
       "ids": {
         "appleMusic": "1440818664"
+      },
+      "features": {
+        "bpm": 84.9,
+        "gain": -10.5,
+        "source": "deezer"
       }
     },
     {
@@ -114,8 +171,14 @@
       "artist": "OneRepublic",
       "album": "Native",
       "durationMs": 257286,
+      "isrc": "USUM71301306",
       "ids": {
         "appleMusic": "1440862803"
+      },
+      "features": {
+        "bpm": 122,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -123,8 +186,14 @@
       "artist": "James Blunt",
       "album": "Classic Hits Acoustic",
       "durationMs": 209493,
+      "isrc": "USAT20401588",
       "ids": {
         "appleMusic": "1847387439"
+      },
+      "features": {
+        "bpm": 164.1,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -132,8 +201,14 @@
       "artist": "Imagine Dragons",
       "album": "Night Visions",
       "durationMs": 186813,
+      "isrc": "USUM71201074",
       "ids": {
         "appleMusic": "1440830119"
+      },
+      "features": {
+        "bpm": 136.45,
+        "gain": -5.7,
+        "source": "deezer"
       }
     },
     {
@@ -141,8 +216,14 @@
       "artist": "Imagine Dragons",
       "album": "Seven In The Morning",
       "durationMs": 240307,
+      "isrc": "USUM71200987",
       "ids": {
         "appleMusic": "1634646946"
+      },
+      "features": {
+        "bpm": 104.9,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -150,6 +231,7 @@
       "artist": "MIKA",
       "album": "Life In Cartoon Motion",
       "durationMs": 187733,
+      "isrc": "USC7R0600006",
       "ids": {
         "appleMusic": "1440803014"
       }
@@ -159,8 +241,14 @@
       "artist": "Bon Jovi",
       "album": "Greatest Hits: The Ultimate Collection (Deluxe Edition)",
       "durationMs": 353107,
+      "isrc": "USPR39412221",
       "ids": {
         "appleMusic": "1440677806"
+      },
+      "features": {
+        "bpm": 143.06,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -168,8 +256,14 @@
       "artist": "Los Abuelos de la Nada",
       "album": "Música Para El Mejor Padre",
       "durationMs": 170547,
+      "isrc": "ARF098300013",
       "ids": {
         "appleMusic": "1891797092"
+      },
+      "features": {
+        "bpm": 100.1,
+        "gain": -18.2,
+        "source": "deezer"
       }
     },
     {
@@ -186,6 +280,7 @@
       "artist": "Nirvana",
       "album": "Bleach (Deluxe Edition)",
       "durationMs": 168429,
+      "isrc": "USUM71310623",
       "ids": {
         "appleMusic": "669728225"
       }
@@ -195,8 +290,14 @@
       "artist": "Fito Páez",
       "album": "Mariposa Tecknicolor - Top Rock Latino",
       "durationMs": 222347,
+      "isrc": "ARF119400002",
       "ids": {
         "appleMusic": "1687118590"
+      },
+      "features": {
+        "bpm": 145.1,
+        "gain": -11.2,
+        "source": "deezer"
       }
     },
     {
@@ -204,8 +305,14 @@
       "artist": "Rixton",
       "album": "Safe For Work",
       "durationMs": 193733,
+      "isrc": "USUM71401800",
       "ids": {
         "appleMusic": "1603146256"
+      },
+      "features": {
+        "bpm": 173.7,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -213,8 +320,14 @@
       "artist": "The Cranberries",
       "album": "The Treasure Box for Boys and Girls",
       "durationMs": 306440,
+      "isrc": "USIR29400443",
       "ids": {
         "appleMusic": "1440953254"
+      },
+      "features": {
+        "bpm": 166,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -222,8 +335,14 @@
       "artist": "Maroon 5",
       "album": "Lieblings... Kinder Hits",
       "durationMs": 235253,
+      "isrc": "USUM71410340",
       "ids": {
         "appleMusic": "1528951657"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -231,8 +350,14 @@
       "artist": "MAGIC!",
       "album": "Summer Party Bangers",
       "durationMs": 224850,
+      "isrc": "CAV161300016",
       "ids": {
         "appleMusic": "1687426715"
+      },
+      "features": {
+        "bpm": 144.05,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -240,6 +365,7 @@
       "artist": "Imagine Dragons",
       "album": "Halloween Hits 2021",
       "durationMs": 177507,
+      "isrc": "USUM72117724",
       "ids": {
         "appleMusic": "1586866975"
       }
@@ -249,8 +375,14 @@
       "artist": "Arctic Monkeys",
       "album": "Do I Wanna Know? - Single",
       "durationMs": 273424,
+      "isrc": "GBCEL1300362",
       "ids": {
         "appleMusic": "675833167"
+      },
+      "features": {
+        "bpm": 84.89,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -258,8 +390,14 @@
       "artist": "Bon Jovi",
       "album": "USA Roadtrip",
       "durationMs": 250627,
+      "isrc": "USPR38619998",
       "ids": {
         "appleMusic": "1890525769"
+      },
+      "features": {
+        "bpm": 122.32,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -267,8 +405,14 @@
       "artist": "La Oreja de Van Gogh",
       "album": "El Viaje De Copperpot",
       "durationMs": 247693,
+      "isrc": "ES5110002864",
       "ids": {
         "appleMusic": "1776907569"
+      },
+      "features": {
+        "bpm": 88.5,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -285,8 +429,14 @@
       "artist": "Black Eyed Peas",
       "album": "Musiquita para tiendas",
       "durationMs": 307640,
+      "isrc": "USUM71026190",
       "ids": {
         "appleMusic": "1824341466"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -11,
+        "source": "deezer"
       }
     },
     {
@@ -294,8 +444,14 @@
       "artist": "Passion Pit",
       "album": "Gossamer (Expanded Edition)",
       "durationMs": 264547,
+      "isrc": "USSM11202617",
       "ids": {
         "appleMusic": "1680812015"
+      },
+      "features": {
+        "bpm": 101.1,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -303,6 +459,7 @@
       "artist": "Vampire Weekend",
       "album": "Modern Vampires of the City",
       "durationMs": 160067,
+      "isrc": "GBBKS1300008",
       "ids": {
         "appleMusic": "613185021"
       }
@@ -312,8 +469,14 @@
       "artist": "Avicii",
       "album": "Hity EDM",
       "durationMs": 178058,
+      "isrc": "CH3131340464",
       "ids": {
         "appleMusic": "1551214087"
+      },
+      "features": {
+        "bpm": 126.05,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -321,8 +484,14 @@
       "artist": "Avicii",
       "album": "Sommerhits 2026",
       "durationMs": 278480,
+      "isrc": "CH3131340471",
       "ids": {
         "appleMusic": "6767309002"
+      },
+      "features": {
+        "bpm": 126.82,
+        "gain": -6.4,
+        "source": "deezer"
       }
     },
     {
@@ -330,8 +499,14 @@
       "artist": "Madeon",
       "album": "Adventure (Deluxe)",
       "durationMs": 192718,
+      "isrc": "GBARL1401609",
       "ids": {
         "appleMusic": "955824968"
+      },
+      "features": {
+        "bpm": 100.1,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -339,8 +514,14 @@
       "artist": "Run-DMC",
       "album": "The Essential Run DMC",
       "durationMs": 183200,
+      "isrc": "USAR18600005",
       "ids": {
         "appleMusic": "1498287911"
+      },
+      "features": {
+        "bpm": 127.6,
+        "gain": -12.6,
+        "source": "deezer"
       }
     },
     {
@@ -357,8 +538,14 @@
       "artist": "The Verve",
       "album": "Cruel Intentions (Music from the Original Motion Picture Soundtrack)",
       "durationMs": 358333,
+      "isrc": "GBAAA9700049",
       "ids": {
         "appleMusic": "712767309"
+      },
+      "features": {
+        "bpm": 170.84,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -366,6 +553,7 @@
       "artist": "Hoobastank",
       "album": "40 Rock Power Ballads",
       "durationMs": 233027,
+      "isrc": "USUM71908679",
       "ids": {
         "appleMusic": "1440665697"
       }
@@ -375,8 +563,14 @@
       "artist": "Airbag",
       "album": "The Pop Sound: Nostalgia 2000",
       "durationMs": 197386,
+      "isrc": "ARF110400278",
       "ids": {
         "appleMusic": "1839933472"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -384,8 +578,14 @@
       "artist": "Pedro Suárez Vértiz",
       "album": "Degeneración Actual",
       "durationMs": 316027,
+      "isrc": "PEB029900001",
       "ids": {
         "appleMusic": "536237989"
+      },
+      "features": {
+        "bpm": 142.1,
+        "gain": -10.4,
+        "source": "deezer"
       }
     },
     {
@@ -393,8 +593,14 @@
       "artist": "David Eisley \u0026 Bob Kulick",
       "album": "Spongebob Squarepants - The Yellow Album",
       "durationMs": 126653,
+      "isrc": "USN1R0503002",
       "ids": {
         "appleMusic": "283379767"
+      },
+      "features": {
+        "bpm": 122,
+        "gain": -11.9,
+        "source": "deezer"
       }
     },
     {
@@ -402,8 +608,14 @@
       "artist": "Bacilos",
       "album": "Tardes de Mate",
       "durationMs": 237387,
+      "isrc": "USWL10200081",
       "ids": {
         "appleMusic": "6770842140"
+      },
+      "features": {
+        "bpm": 103.1,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -411,8 +623,14 @@
       "artist": "Soda Stereo",
       "album": "Me Verás Volver (Hits \u0026 Más)",
       "durationMs": 212974,
+      "isrc": "ARFSB0700930",
       "ids": {
         "appleMusic": "262638322"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -429,8 +647,14 @@
       "artist": "Sia",
       "album": "1000 Forms of Fear (Deluxe Version)",
       "durationMs": 257200,
+      "isrc": "USRC11400976",
       "ids": {
         "appleMusic": "989874555"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -438,6 +662,7 @@
       "artist": "Adele",
       "album": "Hello - Single",
       "durationMs": 295502,
+      "isrc": "GBBKS1500214",
       "ids": {
         "appleMusic": "1050994384"
       }

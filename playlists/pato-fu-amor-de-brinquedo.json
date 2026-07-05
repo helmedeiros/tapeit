@@ -6,6 +6,7 @@
       "artist": "Pato Fu",
       "album": "Música de Brinquedo 2",
       "durationMs": 247809,
+      "isrc": "BRREE1700008",
       "ids": {
         "appleMusic": "1675564411"
       }
@@ -14,31 +15,36 @@
       "title": "My Girl",
       "artist": "Pato Fu",
       "album": "Música de Brinquedo",
-      "durationMs": 170067
+      "durationMs": 170067,
+      "isrc": "BRREE1000025"
     },
     {
       "title": "Primavera (Vai Chuva)",
       "artist": "Pato Fu",
       "album": "Música de Brinquedo",
-      "durationMs": 134613
+      "durationMs": 134613,
+      "isrc": "BRREE1000016"
     },
     {
       "title": "Rock and Roll Lullaby",
       "artist": "Pato Fu",
       "album": "Música de Brinquedo",
-      "durationMs": 259920
+      "durationMs": 259920,
+      "isrc": "BRREE1000018"
     },
     {
       "title": "Love Me Tender",
       "artist": "Pato Fu",
       "album": "Música de Brinquedo",
-      "durationMs": 197173
+      "durationMs": 197173,
+      "isrc": "BRREE1000027"
     },
     {
       "title": "Não Se Vá",
       "artist": "Pato Fu",
       "album": "Música de Brinquedo 2",
       "durationMs": 274251,
+      "isrc": "BRREE1700011",
       "ids": {
         "appleMusic": "1675564416"
       }

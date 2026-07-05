@@ -6,8 +6,14 @@
       "artist": "Aretha Franklin",
       "album": "The Atlantic Albums Collection",
       "durationMs": 212360,
+      "isrc": "USAT29902236",
       "ids": {
         "appleMusic": "1055456837"
+      },
+      "features": {
+        "bpm": 133.4,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "The Beatles",
       "album": "1",
       "durationMs": 425653,
+      "isrc": "GBUM71505902",
       "ids": {
         "appleMusic": "1440834224"
+      },
+      "features": {
+        "bpm": 147.66,
+        "gain": -11.2,
+        "source": "deezer"
       }
     },
     {
@@ -24,6 +36,7 @@
       "artist": "John Lennon",
       "album": "Signature Box (Remastered)",
       "durationMs": 187867,
+      "isrc": "BRTRB2071690",
       "ids": {
         "appleMusic": "721275427"
       }
@@ -33,8 +46,14 @@
       "artist": "Frank Sinatra",
       "album": "Ultimate Sinatra: The Centennial Collection",
       "durationMs": 274933,
+      "isrc": "USRH10723041",
       "ids": {
         "appleMusic": "1440848291"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -12.3,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +61,14 @@
       "artist": "The Cranberries",
       "album": "The Treasure Box for Boys and Girls",
       "durationMs": 271533,
+      "isrc": "USIR29400440",
       "ids": {
         "appleMusic": "1440953232"
+      },
+      "features": {
+        "bpm": 191.4,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -51,8 +76,14 @@
       "artist": "Louis Armstrong",
       "album": "圣诞围炉歌单",
       "durationMs": 137987,
+      "isrc": "USMC16758823",
       "ids": {
         "appleMusic": "1719476440"
+      },
+      "features": {
+        "bpm": 106.8,
+        "gain": -21.5,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +91,14 @@
       "artist": "Paul McCartney",
       "album": "Unplugged: The Official Bootleg (Live)",
       "durationMs": 256933,
+      "isrc": "GBCCS0700016",
       "ids": {
         "appleMusic": "1440940603"
+      },
+      "features": {
+        "bpm": 159.01,
+        "gain": -26,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +106,14 @@
       "artist": "Elvis Presley",
       "album": "Blue Hawaii (Original Soundtrack)",
       "durationMs": 185878,
+      "isrc": "USA820700028",
       "ids": {
         "appleMusic": "949550091"
+      },
+      "features": {
+        "bpm": 100.8,
+        "gain": -13,
+        "source": "deezer"
       }
     },
     {
@@ -78,6 +121,7 @@
       "artist": "Al Green",
       "album": "Let's Stay Together - Single",
       "durationMs": 199396,
+      "isrc": "US2HK0913701",
       "ids": {
         "appleMusic": "1606271339"
       }
@@ -86,13 +130,20 @@
       "title": "Who You Love (feat. Katy Perry)",
       "artist": "John Mayer",
       "album": "Paradise Valley",
-      "durationMs": 252707
+      "durationMs": 252707,
+      "isrc": "USSM11303945",
+      "features": {
+        "bpm": 146.1,
+        "gain": -11.6,
+        "source": "deezer"
+      }
     },
     {
       "title": "Yesterday",
       "artist": "The Beatles",
       "album": "Help!",
       "durationMs": 125667,
+      "isrc": "GBUM72306557",
       "ids": {
         "appleMusic": "1441164805"
       }
@@ -102,8 +153,14 @@
       "artist": "Loggins \u0026 Messina",
       "album": "Sittin' In",
       "durationMs": 255773,
+      "isrc": "USSM17100303",
       "ids": {
         "appleMusic": "186228865"
+      },
+      "features": {
+        "bpm": 137.8,
+        "gain": -14.8,
+        "source": "deezer"
       }
     },
     {
@@ -111,8 +168,14 @@
       "artist": "Dire Straits",
       "album": "Dire Straits (Remastered)",
       "durationMs": 348400,
+      "isrc": "GBF089601041",
       "ids": {
         "appleMusic": "1440801919"
+      },
+      "features": {
+        "bpm": 148.19,
+        "gain": -14.2,
+        "source": "deezer"
       }
     },
     {
@@ -120,8 +183,14 @@
       "artist": "Bob Marley \u0026 The Wailers",
       "album": "Legend: The Best of Bob Marley and the Wailers (Deluxe Edition)",
       "durationMs": 236947,
+      "isrc": "USIR28000016",
       "ids": {
         "appleMusic": "1496696605"
+      },
+      "features": {
+        "bpm": 206.72,
+        "gain": -11,
+        "source": "deezer"
       }
     },
     {
@@ -138,8 +207,14 @@
       "artist": "Bob Dylan",
       "album": "Highway 61 Revisited",
       "durationMs": 371714,
+      "isrc": "USSM19922509",
       "ids": {
         "appleMusic": "201281527"
+      },
+      "features": {
+        "bpm": 190.5,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -147,23 +222,41 @@
       "artist": "Van Morrison",
       "album": "Blowin' Your Mind!",
       "durationMs": 186559,
+      "isrc": "GBQRF1000885",
       "ids": {
         "appleMusic": "1828716610"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -15.7,
+        "source": "deezer"
       }
     },
     {
       "title": "Back to Black",
       "artist": "Amy Winehouse",
       "album": "Back to Black",
-      "durationMs": 240440
+      "durationMs": 240440,
+      "isrc": "GBUM70604698",
+      "features": {
+        "bpm": 123.4,
+        "gain": -7.8,
+        "source": "deezer"
+      }
     },
     {
       "title": "All You Need Is Love (Remastered 2009)",
       "artist": "The Beatles",
       "album": "All You Need Is Love",
       "durationMs": 231213,
+      "isrc": "GBAYE0601682",
       "ids": {
         "appleMusic": "6781822528"
+      },
+      "features": {
+        "bpm": 104.14,
+        "gain": -11.6,
+        "source": "deezer"
       }
     },
     {
@@ -180,8 +273,14 @@
       "artist": "Simon \u0026 Garfunkel",
       "album": "Bookends",
       "durationMs": 247420,
+      "isrc": "USSM16800249",
       "ids": {
         "appleMusic": "203304387"
+      },
+      "features": {
+        "bpm": 183.8,
+        "gain": -13.5,
+        "source": "deezer"
       }
     },
     {
@@ -189,8 +288,14 @@
       "artist": "The Platters",
       "album": "Golden Hits",
       "durationMs": 156560,
+      "isrc": "GBVUT1000784",
       "ids": {
         "appleMusic": "1783391461"
+      },
+      "features": {
+        "bpm": 83,
+        "gain": -3.65,
+        "source": "deezer"
       }
     },
     {
@@ -198,8 +303,14 @@
       "artist": "Édith Piaf",
       "album": "The Best of Édith Piaf",
       "durationMs": 142280,
+      "isrc": "FRZ116000530",
       "ids": {
         "appleMusic": "726380514"
+      },
+      "features": {
+        "bpm": 86.5,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -207,8 +318,14 @@
       "artist": "The Beatles",
       "album": "Discover More Classic Rock",
       "durationMs": 259947,
+      "isrc": "GBAYE0601690",
       "ids": {
         "appleMusic": "1527145177"
+      },
+      "features": {
+        "bpm": 164.06,
+        "gain": -12.9,
+        "source": "deezer"
       }
     },
     {
@@ -216,8 +333,14 @@
       "artist": "The Clash",
       "album": "Sound System",
       "durationMs": 222438,
+      "isrc": "GBARL1200671",
       "ids": {
         "appleMusic": "688797060"
+      },
+      "features": {
+        "bpm": 129.6,
+        "gain": -11,
+        "source": "deezer"
       }
     },
     {
@@ -225,8 +348,14 @@
       "artist": "The Rolling Stones",
       "album": "Rock: The Classics",
       "durationMs": 222987,
+      "isrc": "USA176510160",
       "ids": {
         "appleMusic": "6763242400"
+      },
+      "features": {
+        "bpm": 136.4,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -234,8 +363,14 @@
       "artist": "James Brown",
       "album": "Black History Month: Classroom Edition",
       "durationMs": 167040,
+      "isrc": "USUR10001144",
       "ids": {
         "appleMusic": "1876363268"
+      },
+      "features": {
+        "bpm": 160.87,
+        "gain": -16.2,
+        "source": "deezer"
       }
     },
     {
@@ -243,6 +378,7 @@
       "artist": "The Temptations",
       "album": "The Temptations Sing Smokey",
       "durationMs": 164728,
+      "isrc": "ITDD81808123",
       "ids": {
         "appleMusic": "1423301921"
       }
@@ -252,8 +388,14 @@
       "artist": "Fleetwood Mac",
       "album": "Rumours",
       "durationMs": 134400,
+      "isrc": "USWB10400047",
       "ids": {
         "appleMusic": "594061857"
+      },
+      "features": {
+        "bpm": 175.9,
+        "gain": -16,
+        "source": "deezer"
       }
     },
     {
@@ -261,23 +403,41 @@
       "artist": "Astrud Gilberto",
       "album": "The Astrud Gilberto Album",
       "durationMs": 139276,
+      "isrc": "USPR36500060",
       "ids": {
         "appleMusic": "1469584221"
+      },
+      "features": {
+        "bpm": 147.13,
+        "gain": -17.7,
+        "source": "deezer"
       }
     },
     {
       "title": "Let It Be",
       "artist": "The Beatles",
       "album": "1",
-      "durationMs": 230773
+      "durationMs": 230773,
+      "isrc": "GBUM71505906",
+      "features": {
+        "bpm": 138.27,
+        "gain": -12.1,
+        "source": "deezer"
+      }
     },
     {
       "title": "Stand by Me",
       "artist": "Ben E. King",
       "album": "Me inventé una vida entera con el que me cruzó la mirada en el bus.",
       "durationMs": 174800,
+      "isrc": "USAT21205862",
       "ids": {
         "appleMusic": "1879483438"
+      },
+      "features": {
+        "bpm": 119.15,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -285,8 +445,14 @@
       "artist": "Nancy Sinatra",
       "album": "Start Walkin' 1965-1976",
       "durationMs": 166133,
+      "isrc": "USASE0710284",
       "ids": {
         "appleMusic": "1536004916"
+      },
+      "features": {
+        "bpm": 165.4,
+        "gain": -11.6,
+        "source": "deezer"
       }
     },
     {
@@ -294,6 +460,7 @@
       "artist": "Cat Stevens",
       "album": "Kuhanje : Let's Rock!",
       "durationMs": 200573,
+      "isrc": "QMDA72406328",
       "ids": {
         "appleMusic": "1892461409"
       }
@@ -303,6 +470,7 @@
       "artist": "Black Sabbath",
       "album": "Greatest Hits",
       "durationMs": 281333,
+      "isrc": "GBAJE7200130",
       "ids": {
         "appleMusic": "1447244209"
       }
@@ -311,13 +479,20 @@
       "title": "Hello, Goodbye",
       "artist": "The Beatles",
       "album": "1",
-      "durationMs": 207987
+      "durationMs": 207987,
+      "isrc": "GBAYE0601639",
+      "features": {
+        "bpm": 195.94,
+        "gain": -12.3,
+        "source": "deezer"
+      }
     },
     {
       "title": "My Sweet Lord (Remastered)",
       "artist": "George Harrison",
       "album": "1971: The Year That Music Changed Everything",
       "durationMs": 281227,
+      "isrc": "GB77R1400026",
       "ids": {
         "appleMusic": "1567623704"
       }
@@ -327,8 +502,14 @@
       "artist": "Elton John",
       "album": "Honky Château (Bonus Track Version)",
       "durationMs": 281613,
+      "isrc": "GBAMB7200006",
       "ids": {
         "appleMusic": "1440910931"
+      },
+      "features": {
+        "bpm": 136.4,
+        "gain": -12.5,
+        "source": "deezer"
       }
     },
     {
@@ -336,8 +517,14 @@
       "artist": "The Police",
       "album": "Good Times",
       "durationMs": 253920,
+      "isrc": "GBAAM0201110",
       "ids": {
         "appleMusic": "1554153519"
+      },
+      "features": {
+        "bpm": 117.5,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -345,8 +532,14 @@
       "artist": "The Beatles",
       "album": "Yellow Submarine",
       "durationMs": 158720,
+      "isrc": "GBAYE0601677",
       "ids": {
         "appleMusic": "1441164526"
+      },
+      "features": {
+        "bpm": 110.25,
+        "gain": -12.5,
+        "source": "deezer"
       }
     },
     {
@@ -354,21 +547,34 @@
       "artist": "Paul McCartney \u0026 Stevie Wonder",
       "album": "All The Best (UK Version)",
       "durationMs": 221400,
+      "isrc": "GBCCS8200460",
       "ids": {
         "appleMusic": "1440942063"
+      },
+      "features": {
+        "bpm": 161.5,
+        "gain": -16.6,
+        "source": "deezer"
       }
     },
     {
       "title": "With a Little Help From My Friends",
       "artist": "The Beatles",
       "album": "Sgt. Pepper's Lonely Hearts Club Band",
-      "durationMs": 164107
+      "durationMs": 164107,
+      "isrc": "GBAYE0601508",
+      "features": {
+        "bpm": 112.35,
+        "gain": -13.2,
+        "source": "deezer"
+      }
     },
     {
       "title": "Everybody's Changing",
       "artist": "Keane",
       "album": "Hopes and Fears (Deluxe Edition)",
       "durationMs": 216520,
+      "isrc": "GBUM70810015",
       "ids": {
         "appleMusic": "1473425007"
       }
@@ -378,8 +584,14 @@
       "artist": "U2",
       "album": "Achtung Baby (20th Anniversary Deluxe Edition)",
       "durationMs": 276198,
+      "isrc": "GBUM71106457",
       "ids": {
         "appleMusic": "1440809274"
+      },
+      "features": {
+        "bpm": 181.3,
+        "gain": -11.9,
+        "source": "deezer"
       }
     },
     {
@@ -387,8 +599,14 @@
       "artist": "Queen",
       "album": "Queen Forever (Deluxe Edition)",
       "durationMs": 213339,
+      "isrc": "GBUM71100536",
       "ids": {
         "appleMusic": "1440825145"
+      },
+      "features": {
+        "bpm": 147.7,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -396,8 +614,14 @@
       "artist": "The Beatles",
       "album": "Help!",
       "durationMs": 189680,
+      "isrc": "GBUM71505914",
       "ids": {
         "appleMusic": "1441164669"
+      },
+      "features": {
+        "bpm": 124.16,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -405,6 +629,7 @@
       "artist": "The Beatles",
       "album": "The Beatles 1962-1966 (The Red Album)",
       "durationMs": 154627,
+      "isrc": "GBUM72306552",
       "ids": {
         "appleMusic": "1441133482"
       }
@@ -414,8 +639,14 @@
       "artist": "David Bowie",
       "album": "Best of Bowie",
       "durationMs": 223413,
+      "isrc": "USJT19900030",
       "ids": {
         "appleMusic": "1675148907"
+      },
+      "features": {
+        "bpm": 125.3,
+        "gain": -11.3,
+        "source": "deezer"
       }
     },
     {
@@ -423,8 +654,14 @@
       "artist": "Aretha Franklin",
       "album": "Aretha Franklin Sings the Great Diva Classics",
       "durationMs": 233786,
+      "isrc": "USRC11402320",
       "ids": {
         "appleMusic": "923074874"
+      },
+      "features": {
+        "bpm": 95,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -432,8 +669,14 @@
       "artist": "Aretha Franklin",
       "album": "Aretha Franklin Sings the Great Diva Classics",
       "durationMs": 240305,
+      "isrc": "USRC11402128",
       "ids": {
         "appleMusic": "923074875"
+      },
+      "features": {
+        "bpm": 108,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -441,8 +684,14 @@
       "artist": "Aretha Franklin",
       "album": "Aretha Franklin Sings the Great Diva Classics",
       "durationMs": 261318,
+      "isrc": "USRC11402321",
       "ids": {
         "appleMusic": "923074876"
+      },
+      "features": {
+        "bpm": 95.9,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -450,8 +699,14 @@
       "artist": "Aretha Franklin",
       "album": "Aretha Franklin Sings the Great Diva Classics",
       "durationMs": 271505,
+      "isrc": "USRC11402322",
       "ids": {
         "appleMusic": "923074877"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -459,8 +714,14 @@
       "artist": "Aretha Franklin",
       "album": "Aretha Franklin Sings the Great Diva Classics",
       "durationMs": 244512,
+      "isrc": "USRC11402323",
       "ids": {
         "appleMusic": "923074878"
+      },
+      "features": {
+        "bpm": 144.1,
+        "gain": -11.7,
+        "source": "deezer"
       }
     },
     {
@@ -468,8 +729,14 @@
       "artist": "Aretha Franklin",
       "album": "Aretha Franklin Sings the Great Diva Classics",
       "durationMs": 241666,
+      "isrc": "USRC11402325",
       "ids": {
         "appleMusic": "923074879"
+      },
+      "features": {
+        "bpm": 179.8,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -477,8 +744,14 @@
       "artist": "Aretha Franklin",
       "album": "Aretha Franklin Sings the Great Diva Classics",
       "durationMs": 296034,
+      "isrc": "USRC11402324",
       "ids": {
         "appleMusic": "923074880"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -486,8 +759,14 @@
       "artist": "Aretha Franklin",
       "album": "Aretha Franklin Sings the Great Diva Classics",
       "durationMs": 161731,
+      "isrc": "USRC11402327",
       "ids": {
         "appleMusic": "923074881"
+      },
+      "features": {
+        "bpm": 117.1,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -495,8 +774,14 @@
       "artist": "Aretha Franklin",
       "album": "Aretha Franklin Sings the Great Diva Classics",
       "durationMs": 281404,
+      "isrc": "USRC11402328",
       "ids": {
         "appleMusic": "923074882"
+      },
+      "features": {
+        "bpm": 122,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -504,8 +789,14 @@
       "artist": "The Who",
       "album": "The Who Hits 50! (Deluxe Edition)",
       "durationMs": 221104,
+      "isrc": "GBAKW7100099",
       "ids": {
         "appleMusic": "1461217480"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -513,8 +804,14 @@
       "artist": "Aretha Franklin",
       "album": "Original Album Series",
       "durationMs": 247733,
+      "isrc": "USAT20801173",
       "ids": {
         "appleMusic": "492334118"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -12.6,
+        "source": "deezer"
       }
     },
     {
@@ -522,8 +819,14 @@
       "artist": "Whitney Houston",
       "album": "R\u0026B - 100 Hits - The Greatest R n B album - 100 R \u0026 B Classics featuring Usher, Pitbull and Justin Timberlake",
       "durationMs": 261573,
+      "isrc": "USAR19800140",
       "ids": {
         "appleMusic": "1108210107"
+      },
+      "features": {
+        "bpm": 164.7,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
@@ -531,6 +834,7 @@
       "artist": "Eric Clapton",
       "album": "Unplugged (Live)",
       "durationMs": 280000,
+      "isrc": "USRE11300314",
       "ids": {
         "appleMusic": "1647253716"
       }

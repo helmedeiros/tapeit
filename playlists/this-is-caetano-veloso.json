@@ -6,8 +6,14 @@
       "artist": "Caetano Veloso",
       "album": "Naturalmente: Caetano Veloso",
       "durationMs": 186627,
+      "isrc": "BRLUM9800084",
       "ids": {
         "appleMusic": "1442250226"
+      },
+      "features": {
+        "bpm": 118.8,
+        "gain": -15.7,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "Caetano Veloso",
       "album": "Caetano e Bethânia Ao Vivo",
       "durationMs": 189720,
+      "isrc": "BRPGD9800678",
       "ids": {
         "appleMusic": "1814723442"
+      },
+      "features": {
+        "bpm": 120.2,
+        "gain": -17.7,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +36,14 @@
       "artist": "João Gilberto",
       "album": "Grandes Intérpretes da Música Brasileira",
       "durationMs": 395760,
+      "isrc": "BRMCA0500584",
       "ids": {
         "appleMusic": "1491728257"
+      },
+      "features": {
+        "bpm": 101.6,
+        "gain": -18.8,
+        "source": "deezer"
       }
     },
     {
@@ -33,6 +51,7 @@
       "artist": "Sambabook \u0026 Maria Bethânia",
       "album": "Sambabook Dona Ivone Lara, Vol. 1",
       "durationMs": 193853,
+      "isrc": "BRUKM1500001",
       "ids": {
         "appleMusic": "1530528336"
       }
@@ -42,8 +61,14 @@
       "artist": "Caetano Veloso",
       "album": "Caetanear",
       "durationMs": 264333,
+      "isrc": "BRMCA8200164",
       "ids": {
         "appleMusic": "1444051480"
+      },
+      "features": {
+        "bpm": 207.8,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -51,6 +76,7 @@
       "artist": "Caetano Veloso",
       "album": "Livro",
       "durationMs": 210400,
+      "isrc": "BRUM72101630",
       "ids": {
         "appleMusic": "1583987794"
       }
@@ -60,8 +86,14 @@
       "artist": "Caetano Veloso",
       "album": "Caetanear",
       "durationMs": 196333,
+      "isrc": "BRPGD7800012",
       "ids": {
         "appleMusic": "1444051469"
+      },
+      "features": {
+        "bpm": 115.2,
+        "gain": -14.9,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +101,14 @@
       "artist": "Caetano Veloso",
       "album": "The Best of Caetano Veloso - Sem Lenço Sem Documento",
       "durationMs": 146000,
+      "isrc": "BRMCA8200166",
       "ids": {
         "appleMusic": "1437587461"
+      },
+      "features": {
+        "bpm": 161.5,
+        "gain": -13.4,
+        "source": "deezer"
       }
     },
     {
@@ -78,6 +116,7 @@
       "artist": "Caetano Veloso",
       "album": "Caetano Velosó 2000's",
       "durationMs": 278360,
+      "isrc": "BRNPD0300002",
       "ids": {
         "appleMusic": "1445158303"
       }
@@ -87,8 +126,14 @@
       "artist": "Caetano Veloso",
       "album": "Cinema Transcendental (Remixed Original Album)",
       "durationMs": 206907,
+      "isrc": "BRUM70601171",
       "ids": {
         "appleMusic": "1443594146"
+      },
+      "features": {
+        "bpm": 152.6,
+        "gain": -14.1,
+        "source": "deezer"
       }
     },
     {
@@ -114,6 +159,7 @@
       "artist": "Gal Costa \u0026 Caetano Veloso",
       "album": "A Arte De Gal Costa",
       "durationMs": 213333,
+      "isrc": "BRMCA6900079",
       "ids": {
         "appleMusic": "1444033851"
       }
@@ -123,8 +169,14 @@
       "artist": "Caetano Veloso",
       "album": "Cinema Transcendental (Remixed Original Album)",
       "durationMs": 139933,
+      "isrc": "BRUM70601178",
       "ids": {
         "appleMusic": "1443594159"
+      },
+      "features": {
+        "bpm": 116.1,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -132,8 +184,14 @@
       "artist": "Caetano Veloso",
       "album": "Cores, Nomes",
       "durationMs": 180453,
+      "isrc": "BRMCA8200173",
       "ids": {
         "appleMusic": "1442669524"
+      },
+      "features": {
+        "bpm": 121.6,
+        "gain": -20.1,
+        "source": "deezer"
       }
     },
     {
@@ -150,8 +208,14 @@
       "artist": "Gal Costa \u0026 Roupa Nova",
       "album": "Baby Gal",
       "durationMs": 231960,
+      "isrc": "BRPGD8300006",
       "ids": {
         "appleMusic": "1444029678"
+      },
+      "features": {
+        "bpm": 178.2,
+        "gain": -14.8,
+        "source": "deezer"
       }
     },
     {
@@ -177,8 +241,14 @@
       "artist": "Caetano Veloso",
       "album": "Caetano Velosó 70's",
       "durationMs": 437734,
+      "isrc": "BRUM70601081",
       "ids": {
         "appleMusic": "1445160444"
+      },
+      "features": {
+        "bpm": 120.2,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -186,6 +256,7 @@
       "artist": "Emicida",
       "album": "Amarelo Ao Vivo (Live)",
       "durationMs": 249467,
+      "isrc": "BRX6F2100048",
       "ids": {
         "appleMusic": "1575366442"
       }
@@ -195,8 +266,14 @@
       "artist": "Caetano Veloso",
       "album": "Ofertório (feat. Tom Veloso) [Ao Vivo]",
       "durationMs": 200046,
+      "isrc": "BR3UN1800045",
       "ids": {
         "appleMusic": "1384653319"
+      },
+      "features": {
+        "bpm": 178.98,
+        "gain": -14.8,
+        "source": "deezer"
       }
     },
     {
@@ -204,8 +281,14 @@
       "artist": "Caetano Veloso",
       "album": "Caetano Velosó 80's",
       "durationMs": 224000,
+      "isrc": "BRMCA8900124",
       "ids": {
         "appleMusic": "1445157108"
+      },
+      "features": {
+        "bpm": 207.8,
+        "gain": -13.5,
+        "source": "deezer"
       }
     },
     {
@@ -222,8 +305,14 @@
       "artist": "Jorge Ben Jor",
       "album": "Salve Simpatia",
       "durationMs": 282387,
+      "isrc": "BRSGL7900008",
       "ids": {
         "appleMusic": "768280486"
+      },
+      "features": {
+        "bpm": 178.21,
+        "gain": -15.1,
+        "source": "deezer"
       }
     },
     {
@@ -231,8 +320,14 @@
       "artist": "Caetano Veloso \u0026 Moreno Veloso",
       "album": "Claros Musicales",
       "durationMs": 176563,
+      "isrc": "BR3UN1800047",
       "ids": {
         "appleMusic": "1603328893"
+      },
+      "features": {
+        "bpm": 117.45,
+        "gain": -17.1,
+        "source": "deezer"
       }
     },
     {
@@ -240,8 +335,14 @@
       "artist": "Caetano Veloso",
       "album": "Qualquer Coisa",
       "durationMs": 194800,
+      "isrc": "BRMCA7500197",
       "ids": {
         "appleMusic": "1443518348"
+      },
+      "features": {
+        "bpm": 111.4,
+        "gain": -18.3,
+        "source": "deezer"
       }
     },
     {
@@ -249,8 +350,14 @@
       "artist": "Caetano Veloso",
       "album": "Circulado",
       "durationMs": 247507,
+      "isrc": "BRMCA9100003",
       "ids": {
         "appleMusic": "1443723082"
+      },
+      "features": {
+        "bpm": 82.2,
+        "gain": -17,
+        "source": "deezer"
       }
     },
     {
@@ -258,8 +365,14 @@
       "artist": "Caetano Veloso",
       "album": "Transa",
       "durationMs": 228853,
+      "isrc": "BRMCA7200152",
       "ids": {
         "appleMusic": "1445160455"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -13.4,
+        "source": "deezer"
       }
     },
     {
@@ -267,8 +380,14 @@
       "artist": "Caetano Veloso",
       "album": "Caetano Velosó 80's",
       "durationMs": 213029,
+      "isrc": "BRPGD8100010",
       "ids": {
         "appleMusic": "1445156323"
+      },
+      "features": {
+        "bpm": 171.6,
+        "gain": -21.4,
+        "source": "deezer"
       }
     },
     {
@@ -276,6 +395,7 @@
       "artist": "Caetano Veloso",
       "album": "Velô",
       "durationMs": 264293,
+      "isrc": "BRUM70700058",
       "ids": {
         "appleMusic": "1504694623"
       }
@@ -285,6 +405,7 @@
       "artist": "Maria Gadú \u0026 Caetano Veloso",
       "album": "Nós",
       "durationMs": 147533,
+      "isrc": "BRUM71100243",
       "ids": {
         "appleMusic": "676863964"
       }
@@ -294,8 +415,14 @@
       "artist": "Caetano Veloso",
       "album": "Ofertório (feat. Tom Veloso) [Ao Vivo]",
       "durationMs": 211565,
+      "isrc": "BR3UN1800048",
       "ids": {
         "appleMusic": "1384653386"
+      },
+      "features": {
+        "bpm": 131.67,
+        "gain": -16.5,
+        "source": "deezer"
       }
     },
     {
@@ -312,8 +439,14 @@
       "artist": "Caetano Veloso \u0026 Moreno Veloso",
       "album": "Ofertório (feat. Tom Veloso) [Ao Vivo]",
       "durationMs": 294299,
+      "isrc": "BR3UN1800056",
       "ids": {
         "appleMusic": "1384653707"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -16.4,
+        "source": "deezer"
       }
     },
     {
@@ -321,8 +454,14 @@
       "artist": "Caetano Veloso",
       "album": "Amor Em Bossa - EP",
       "durationMs": 193600,
+      "isrc": "BRPGD8300007",
       "ids": {
         "appleMusic": "1445176633"
+      },
+      "features": {
+        "bpm": 118.46,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -330,8 +469,14 @@
       "artist": "Gal Costa \u0026 Caetano Veloso",
       "album": "Domingo",
       "durationMs": 143893,
+      "isrc": "BRPGD6700006",
       "ids": {
         "appleMusic": "1444089572"
+      },
+      "features": {
+        "bpm": 160.9,
+        "gain": -21.8,
+        "source": "deezer"
       }
     },
     {
@@ -339,8 +484,14 @@
       "artist": "Caetano Veloso",
       "album": "Multishow Ao Vivo - Caetano e Maria Gadú",
       "durationMs": 172947,
+      "isrc": "BRUM71100253",
       "ids": {
         "appleMusic": "1444111896"
+      },
+      "features": {
+        "bpm": 150.3,
+        "gain": -14.3,
+        "source": "deezer"
       }
     },
     {
@@ -348,8 +499,14 @@
       "artist": "Caetano Veloso \u0026 Djavan",
       "album": "Cores, Nomes",
       "durationMs": 259693,
+      "isrc": "BRMCA8200170",
       "ids": {
         "appleMusic": "1442669366"
+      },
+      "features": {
+        "bpm": 109.4,
+        "gain": -11.8,
+        "source": "deezer"
       }
     },
     {
@@ -366,6 +523,7 @@
       "artist": "Caetano Veloso \u0026 Kleber Lucas",
       "album": "Deus Cuida de Mim - Single",
       "durationMs": 224486,
+      "isrc": "BR3UN2200003",
       "ids": {
         "appleMusic": "1655763214"
       }
@@ -375,8 +533,14 @@
       "artist": "Gal Costa",
       "album": "Bem-Bom",
       "durationMs": 251507,
+      "isrc": "BRBMG8500059",
       "ids": {
         "appleMusic": "1841930935"
+      },
+      "features": {
+        "bpm": 108.8,
+        "gain": -16.7,
+        "source": "deezer"
       }
     },
     {
@@ -384,8 +548,14 @@
       "artist": "Caetano Veloso",
       "album": "Cinema Transcendental (Remixed Original Album)",
       "durationMs": 237040,
+      "isrc": "BRUM70601170",
       "ids": {
         "appleMusic": "1443594145"
+      },
+      "features": {
+        "bpm": 108.5,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {

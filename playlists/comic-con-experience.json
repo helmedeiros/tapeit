@@ -15,8 +15,14 @@
       "artist": "John Williams \u0026 London Symphony Orchestra",
       "album": "Star Wars: Das Imperium schlägt zurück (Original Film-Soundtrack)",
       "durationMs": 179560,
+      "isrc": "USWD11785366",
       "ids": {
         "appleMusic": "1376702360"
+      },
+      "features": {
+        "bpm": 102.85,
+        "gain": -15.7,
+        "source": "deezer"
       }
     },
     {
@@ -24,6 +30,7 @@
       "artist": "The City of Prague Philharmonic Orchestra",
       "album": "Pearl \u0026 Dean - The Nation's Favourite Movie Themes",
       "durationMs": 206787,
+      "isrc": "GBAJC9902267",
       "ids": {
         "appleMusic": "1657261261"
       }
@@ -33,8 +40,14 @@
       "artist": "Retrospectre",
       "album": "Halloween: The Album",
       "durationMs": 39967,
+      "isrc": "TCACA1455786",
       "ids": {
         "appleMusic": "1169123171"
+      },
+      "features": {
+        "bpm": 183.8,
+        "gain": -15.2,
+        "source": "deezer"
       }
     },
     {
@@ -51,8 +64,14 @@
       "artist": "London Symphony Orchestra",
       "album": "007 Classics (The Songs From James Bond)",
       "durationMs": 106200,
+      "isrc": "ES7930221045",
       "ids": {
         "appleMusic": "310742319"
+      },
+      "features": {
+        "bpm": 117.5,
+        "gain": -14,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +79,14 @@
       "artist": "John Williams",
       "album": "Jurassic Park (Original Motion Picture Soundtrack)",
       "durationMs": 207427,
+      "isrc": "USMC19340943",
       "ids": {
         "appleMusic": "1440800213"
+      },
+      "features": {
+        "bpm": 103.4,
+        "gain": -18,
+        "source": "deezer"
       }
     },
     {
@@ -78,6 +103,7 @@
       "artist": "John Paesano \u0026 Braden Kimball",
       "album": "Greatest Movie Soundtracks Of All Time",
       "durationMs": 64947,
+      "isrc": "USJ681510006",
       "ids": {
         "appleMusic": "1798285567"
       }
@@ -87,6 +113,7 @@
       "artist": "Ramin Djawadi",
       "album": "Pacific Rim (Original Motion Picture Soundtrack)",
       "durationMs": 295427,
+      "isrc": "USNLR1300401",
       "ids": {
         "appleMusic": "1455255965"
       }
@@ -96,8 +123,14 @@
       "artist": "David Buckley",
       "album": "Batman: Arkham Knight, Vol. 1 (Original Video Game Score)",
       "durationMs": 142413,
+      "isrc": "USNLR1500150",
       "ids": {
         "appleMusic": "1455254794"
+      },
+      "features": {
+        "bpm": 110.84,
+        "gain": -17.1,
+        "source": "deezer"
       }
     },
     {
@@ -123,6 +156,7 @@
       "artist": "Ramin Djawadi",
       "album": "Game of Thrones: Season 4 (Music from the HBO Series)",
       "durationMs": 103587,
+      "isrc": "USNLR1400153",
       "ids": {
         "appleMusic": "1454397569"
       }
@@ -141,8 +175,14 @@
       "artist": "Ill Factor",
       "album": "Champion Sound (From \"Assassin's Creed Syndicate\") - Single",
       "durationMs": 184000,
+      "isrc": "CA2BN1501590",
       "ids": {
         "appleMusic": "1594576257"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
@@ -150,6 +190,7 @@
       "artist": "Cover Guru",
       "album": "Super Mario Bros. (Theme) - Single",
       "durationMs": 85684,
+      "isrc": "USA2P1106045",
       "ids": {
         "appleMusic": "1513731655"
       }
@@ -159,8 +200,14 @@
       "artist": "John Williams",
       "album": "Jurassic Park (Original Motion Picture Soundtrack)",
       "durationMs": 205840,
+      "isrc": "USMC10000986",
       "ids": {
         "appleMusic": "1440800586"
+      },
+      "features": {
+        "bpm": 164.1,
+        "gain": -17.8,
+        "source": "deezer"
       }
     },
     {
@@ -186,8 +233,14 @@
       "artist": "Hans Zimmer",
       "album": "Pirates of the Caribbean: At World's End (Soundtrack from the Motion Picture)",
       "durationMs": 271867,
+      "isrc": "USWD10731845",
       "ids": {
         "appleMusic": "1440743977"
+      },
+      "features": {
+        "bpm": 134.7,
+        "gain": -13.4,
+        "source": "deezer"
       }
     },
     {
@@ -195,6 +248,7 @@
       "artist": "Howard Shore",
       "album": "The Hobbit: An Unexpected Journey (Original Motion Picture Soundtrack)",
       "durationMs": 484074,
+      "isrc": "USNLR1200499",
       "ids": {
         "appleMusic": "1454373316"
       }
@@ -204,6 +258,7 @@
       "artist": "Alan Silvestri",
       "album": "Bandas Sonoras Selectas Para Ti",
       "durationMs": 123360,
+      "isrc": "USHR11233664",
       "ids": {
         "appleMusic": "1765791325"
       }
@@ -213,6 +268,7 @@
       "artist": "Danny Elfman",
       "album": "Bandas Sonoras Selectas Para Ti",
       "durationMs": 62827,
+      "isrc": "NLA509611402",
       "ids": {
         "appleMusic": "1765791343"
       }
@@ -222,8 +278,14 @@
       "artist": "8-Bit Universe",
       "album": "8-Bit Universe, Vol. 10",
       "durationMs": 90213,
+      "isrc": "FR6V82606506",
       "ids": {
         "appleMusic": "894910328"
+      },
+      "features": {
+        "bpm": 148.7,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -231,6 +293,7 @@
       "artist": "Pokémon",
       "album": "Pokémon 2.B.A. Master (Music from the TV Series)",
       "durationMs": 198187,
+      "isrc": "USKO10406205",
       "ids": {
         "appleMusic": "1834060954"
       }
@@ -249,8 +312,14 @@
       "artist": "The Video Game Music Orchestra",
       "album": "The Best of Retro Video Games",
       "durationMs": 195987,
+      "isrc": "NLG620503303",
       "ids": {
         "appleMusic": "563734455"
+      },
+      "features": {
+        "bpm": 148.2,
+        "gain": -6.4,
+        "source": "deezer"
       }
     },
     {
@@ -258,8 +327,14 @@
       "artist": "Arcadia",
       "album": "The Best of Retro Video Games",
       "durationMs": 199413,
+      "isrc": "NLG620503298",
       "ids": {
         "appleMusic": "563734342"
+      },
+      "features": {
+        "bpm": 110,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -276,8 +351,14 @@
       "artist": "Barenaked Ladies",
       "album": "Hits from Yesterday \u0026 the Day Before",
       "durationMs": 105267,
+      "isrc": "USRH11102320",
       "ids": {
         "appleMusic": "464675958"
+      },
+      "features": {
+        "bpm": 160.9,
+        "gain": -6.4,
+        "source": "deezer"
       }
     },
     {
@@ -285,8 +366,14 @@
       "artist": "Danny Elfman",
       "album": "Batman: The Animated Series, Vol. 1 (Original Soundtrack from the Warner Bros. Television Series)",
       "durationMs": 61787,
+      "isrc": "USNLR1400355",
       "ids": {
         "appleMusic": "1456163229"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -14.8,
+        "source": "deezer"
       }
     },
     {
@@ -294,8 +381,14 @@
       "artist": "Jeff Beal",
       "album": "House of Cards: Season 2 (Music From the Netflix Original Series)",
       "durationMs": 198573,
+      "isrc": "US3M51427102",
       "ids": {
         "appleMusic": "1443493496"
+      },
+      "features": {
+        "bpm": 99.1,
+        "gain": -13.6,
+        "source": "deezer"
       }
     }
   ]

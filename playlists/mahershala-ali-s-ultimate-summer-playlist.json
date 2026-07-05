@@ -6,8 +6,14 @@
       "artist": "Knxwledge",
       "album": "Hud Dreems",
       "durationMs": 46829,
+      "isrc": "US2S71554002",
       "ids": {
         "appleMusic": "980151819"
+      },
+      "features": {
+        "bpm": 164.06,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "Unknown Mortal Orchestra",
       "album": "Multi-Love",
       "durationMs": 250800,
+      "isrc": "US38Y1526201",
       "ids": {
         "appleMusic": "962057746"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +36,14 @@
       "artist": "Bahamadia",
       "album": "Kollage",
       "durationMs": 248040,
+      "isrc": "USCA20701949",
       "ids": {
         "appleMusic": "724462453"
+      },
+      "features": {
+        "bpm": 89.9,
+        "gain": -13.5,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +60,14 @@
       "artist": "Kool \u0026 The Gang",
       "album": "Light of Worlds",
       "durationMs": 257867,
+      "isrc": "USPR37404007",
       "ids": {
         "appleMusic": "1442668947"
+      },
+      "features": {
+        "bpm": 88,
+        "gain": -17.5,
+        "source": "deezer"
       }
     },
     {
@@ -51,8 +75,14 @@
       "artist": "Black Star",
       "album": "Fix Up - Single",
       "durationMs": 247775,
+      "isrc": "US6YF1100374",
       "ids": {
         "appleMusic": "483271722"
+      },
+      "features": {
+        "bpm": 92.9,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +90,14 @@
       "artist": "Karriem Riggins",
       "album": "Headnod Suite",
       "durationMs": 130636,
+      "isrc": "US2S71777024",
       "ids": {
         "appleMusic": "1174518951"
+      },
+      "features": {
+        "bpm": 167.38,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +105,14 @@
       "artist": "Stevie Wonder",
       "album": "At The Close Of A Century",
       "durationMs": 163040,
+      "isrc": "USMO16682655",
       "ids": {
         "appleMusic": "1745598233"
+      },
+      "features": {
+        "bpm": 89.49,
+        "gain": -10.7,
+        "source": "deezer"
       }
     },
     {
@@ -78,8 +120,14 @@
       "artist": "Fela Kuti",
       "album": "Na Poi",
       "durationMs": 453627,
+      "isrc": "USME30902249",
       "ids": {
         "appleMusic": "738914703"
+      },
+      "features": {
+        "bpm": 105.5,
+        "gain": -14.5,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +135,14 @@
       "artist": "Fink",
       "album": "Fink’s Sunday Night Blues Club, Vol. 1",
       "durationMs": 310514,
+      "isrc": "GBCFB1606407",
       "ids": {
         "appleMusic": "1194266239"
+      },
+      "features": {
+        "bpm": 148.72,
+        "gain": -11.8,
+        "source": "deezer"
       }
     },
     {
@@ -105,8 +159,14 @@
       "artist": "Erykah Badu",
       "album": "New Amerykah, Pt. 1 (4th World War)",
       "durationMs": 204960,
+      "isrc": "USUM70803782",
       "ids": {
         "appleMusic": "1440794063"
+      },
+      "features": {
+        "bpm": 89.68,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -123,8 +183,14 @@
       "artist": "Slum Village",
       "album": "Fantastic, Vol. 2.10",
       "durationMs": 235213,
+      "isrc": "USBCE1010011",
       "ids": {
         "appleMusic": "1159912326"
+      },
+      "features": {
+        "bpm": 91.27,
+        "gain": -13.5,
+        "source": "deezer"
       }
     },
     {
@@ -132,6 +198,7 @@
       "artist": "Childish Gambino",
       "album": "Best of 2017",
       "durationMs": 326933,
+      "isrc": "USYAH1600107",
       "ids": {
         "appleMusic": "1442975518"
       }

@@ -6,6 +6,7 @@
       "artist": "Sabrina Carpenter",
       "album": "Man’s Best Friend",
       "durationMs": 213646,
+      "isrc": "USUM72504354",
       "ids": {
         "appleMusic": "1836002447"
       }
@@ -15,6 +16,7 @@
       "artist": "Ariana Grande",
       "album": "petal",
       "durationMs": 197950,
+      "isrc": "USUM72601821",
       "ids": {
         "appleMusic": "6763656876"
       }
@@ -24,6 +26,7 @@
       "artist": "Olivia Rodrigo",
       "album": "you seem pretty sad for a girl so in love",
       "durationMs": 180721,
+      "isrc": "USUG12601727",
       "ids": {
         "appleMusic": "6779097541"
       }
@@ -33,6 +36,7 @@
       "artist": "sombr",
       "album": "Homewrecker - Single",
       "durationMs": 209066,
+      "isrc": "USWB12600102",
       "ids": {
         "appleMusic": "1871595253"
       }
@@ -42,6 +46,7 @@
       "artist": "Harry Styles",
       "album": "Kiss All The Time. Disco, Occasionally.",
       "durationMs": 194880,
+      "isrc": "USSM12600105",
       "ids": {
         "appleMusic": "1870984050"
       }
@@ -51,6 +56,7 @@
       "artist": "Sabrina Carpenter",
       "album": "Short n' Sweet (Deluxe)",
       "durationMs": 157280,
+      "isrc": "USUM72404100",
       "ids": {
         "appleMusic": "1795512308"
       }
@@ -60,6 +66,7 @@
       "artist": "Tame Impala",
       "album": "Dracula - Single",
       "durationMs": 205309,
+      "isrc": "USQX92504223",
       "ids": {
         "appleMusic": "1842444457"
       }
@@ -69,6 +76,7 @@
       "artist": "Olivia Dean",
       "album": "The Art of Loving",
       "durationMs": 184000,
+      "isrc": "GBUM72503089",
       "ids": {
         "appleMusic": "1817609509"
       }
@@ -78,6 +86,7 @@
       "artist": "Djo",
       "album": "End of Beginning - Single",
       "durationMs": 159246,
+      "isrc": "GBKPL2205058",
       "ids": {
         "appleMusic": "1740299854"
       }
@@ -87,8 +96,14 @@
       "artist": "Dominic Fike",
       "album": "Don't Forget About Me, Demos - EP",
       "durationMs": 97960,
+      "isrc": "USQX91802457",
       "ids": {
         "appleMusic": "1438243880"
+      },
+      "features": {
+        "bpm": 168.06,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -96,6 +111,7 @@
       "artist": "Sabrina Carpenter",
       "album": "Man’s Best Friend",
       "durationMs": 169215,
+      "isrc": "USUM72504449",
       "ids": {
         "appleMusic": "1819861170"
       }
@@ -105,8 +121,14 @@
       "artist": "Paramore",
       "album": "After Laughter",
       "durationMs": 182695,
+      "isrc": "USAT21700948",
       "ids": {
         "appleMusic": "1227049868"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -114,6 +136,7 @@
       "artist": "Olivia Rodrigo",
       "album": "you seem pretty sad for a girl so in love",
       "durationMs": 221958,
+      "isrc": "USUG12601733",
       "ids": {
         "appleMusic": "1889992129"
       }
@@ -123,6 +146,7 @@
       "artist": "sombr",
       "album": "12 to 12 - Single",
       "durationMs": 242903,
+      "isrc": "USWB12502453",
       "ids": {
         "appleMusic": "1828036635"
       }
@@ -132,6 +156,7 @@
       "artist": "Harry Styles",
       "album": "Kiss All The Time. Disco, Occasionally.",
       "durationMs": 160400,
+      "isrc": "USSM12600098",
       "ids": {
         "appleMusic": "1870984038"
       }
@@ -141,6 +166,7 @@
       "artist": "Sabrina Carpenter",
       "album": "Please Please Please - Single",
       "durationMs": 186170,
+      "isrc": "USUM72404101",
       "ids": {
         "appleMusic": "1752767330"
       }
@@ -150,6 +176,7 @@
       "artist": "RAYE",
       "album": "WHERE IS MY HUSBAND! - Single",
       "durationMs": 197143,
+      "isrc": "QMFME2535037",
       "ids": {
         "appleMusic": "1838737598"
       }
@@ -159,6 +186,7 @@
       "artist": "Olivia Dean",
       "album": "Messy",
       "durationMs": 200759,
+      "isrc": "GBUM72301484",
       "ids": {
         "appleMusic": "1676252825"
       }
@@ -168,6 +196,7 @@
       "artist": "Djo",
       "album": "The Crux",
       "durationMs": 203350,
+      "isrc": "QM4TW2525818",
       "ids": {
         "appleMusic": "1791184871"
       }
@@ -177,6 +206,7 @@
       "artist": "Dua Lipa",
       "album": "Training Season - Single",
       "durationMs": 209488,
+      "isrc": "GBAHT2301078",
       "ids": {
         "appleMusic": "1727565528"
       }
@@ -186,6 +216,7 @@
       "artist": "Sabrina Carpenter",
       "album": "Man’s Best Friend",
       "durationMs": 182577,
+      "isrc": "USUM72504443",
       "ids": {
         "appleMusic": "1836002472"
       }
@@ -195,8 +226,14 @@
       "artist": "Lizzo",
       "album": "Cuz I Love You (Deluxe)",
       "durationMs": 194935,
+      "isrc": "USAT21813044",
       "ids": {
         "appleMusic": "1481229910"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -204,8 +241,14 @@
       "artist": "Paramore",
       "album": "Paramore",
       "durationMs": 216019,
+      "isrc": "USAT21300012",
       "ids": {
         "appleMusic": "593148441"
+      },
+      "features": {
+        "bpm": 136,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -213,6 +256,7 @@
       "artist": "Olivia Rodrigo",
       "album": "you seem pretty sad for a girl so in love",
       "durationMs": 209680,
+      "isrc": "USUG12601723",
       "ids": {
         "appleMusic": "6779097534"
       }
@@ -222,6 +266,7 @@
       "artist": "sombr",
       "album": "back to friends - Single",
       "durationMs": 199032,
+      "isrc": "USWB12405502",
       "ids": {
         "appleMusic": "1786481197"
       }
@@ -231,6 +276,7 @@
       "artist": "Harry Styles",
       "album": "Kiss All The Time. Disco, Occasionally.",
       "durationMs": 192400,
+      "isrc": "USSM12600099",
       "ids": {
         "appleMusic": "1870984039"
       }
@@ -240,6 +286,7 @@
       "artist": "Sabrina Carpenter",
       "album": "Espresso - Single",
       "durationMs": 175459,
+      "isrc": "USUM72403305",
       "ids": {
         "appleMusic": "1744253558"
       }
@@ -249,6 +296,7 @@
       "artist": "Chappell Roan",
       "album": "Good Luck, Babe! - Single",
       "durationMs": 218424,
+      "isrc": "USUG12401967",
       "ids": {
         "appleMusic": "1737497080"
       }
@@ -258,6 +306,7 @@
       "artist": "Olivia Dean",
       "album": "The Art of Loving",
       "durationMs": 169000,
+      "isrc": "GBUM72503087",
       "ids": {
         "appleMusic": "1817609507"
       }
@@ -267,6 +316,7 @@
       "artist": "Djo",
       "album": "The Crux",
       "durationMs": 167823,
+      "isrc": "QM4TW2525817",
       "ids": {
         "appleMusic": "1791184870"
       }
@@ -276,6 +326,7 @@
       "artist": "Dua Lipa",
       "album": "Future Nostalgia (Bonus Edition)",
       "durationMs": 203808,
+      "isrc": "GBAHT1901299",
       "ids": {
         "appleMusic": "1541803862"
       }
@@ -285,6 +336,7 @@
       "artist": "Sabrina Carpenter",
       "album": "Man’s Best Friend",
       "durationMs": 160184,
+      "isrc": "USUM72504355",
       "ids": {
         "appleMusic": "1819861157"
       }
@@ -294,6 +346,7 @@
       "artist": "RAYE",
       "album": "My 21st Century Blues",
       "durationMs": 246813,
+      "isrc": "QMDA62229986",
       "ids": {
         "appleMusic": "1647624667"
       }
@@ -303,8 +356,14 @@
       "artist": "Paramore",
       "album": "Brand New Eyes",
       "durationMs": 267586,
+      "isrc": "USAT20902323",
       "ids": {
         "appleMusic": "604800419"
+      },
+      "features": {
+        "bpm": 137.8,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -312,6 +371,7 @@
       "artist": "Olivia Rodrigo",
       "album": "you seem pretty sad for a girl so in love",
       "durationMs": 247687,
+      "isrc": "USUG12601726",
       "ids": {
         "appleMusic": "6779097540"
       }
@@ -321,6 +381,7 @@
       "artist": "sombr",
       "album": "undressed - Single",
       "durationMs": 182089,
+      "isrc": "USWB12500737",
       "ids": {
         "appleMusic": "1802084938"
       }
@@ -330,6 +391,7 @@
       "artist": "Harry Styles",
       "album": "Kiss All The Time. Disco, Occasionally.",
       "durationMs": 213440,
+      "isrc": "USSM12600097",
       "ids": {
         "appleMusic": "1870984036"
       }
@@ -339,6 +401,7 @@
       "artist": "Sabrina Carpenter",
       "album": "Short n' Sweet",
       "durationMs": 223192,
+      "isrc": "USUM72404107",
       "ids": {
         "appleMusic": "1752215160"
       }
@@ -348,6 +411,7 @@
       "artist": "Lizzo",
       "album": "About Damn Time - Single",
       "durationMs": 191822,
+      "isrc": "USAT22203704",
       "ids": {
         "appleMusic": "1619135106"
       }
@@ -357,6 +421,7 @@
       "artist": "Olivia Dean",
       "album": "Ok Love You Bye - EP",
       "durationMs": 198813,
+      "isrc": "TCADX1868029",
       "ids": {
         "appleMusic": "1486982854"
       }
@@ -366,6 +431,7 @@
       "artist": "Djo",
       "album": "The Crux",
       "durationMs": 205047,
+      "isrc": "QM4TW2525821",
       "ids": {
         "appleMusic": "1791184876"
       }
@@ -375,6 +441,7 @@
       "artist": "Dua Lipa",
       "album": "Houdini - Single",
       "durationMs": 185918,
+      "isrc": "GBAHT2400001",
       "ids": {
         "appleMusic": "1715337251"
       }
@@ -384,6 +451,7 @@
       "artist": "Sabrina Carpenter",
       "album": "emails i can't send",
       "durationMs": 207850,
+      "isrc": "USUM72210694",
       "ids": {
         "appleMusic": "1631578515"
       }
@@ -393,8 +461,14 @@
       "artist": "The Cardigans",
       "album": "First Band on the Moon (2019 Remaster)",
       "durationMs": 193953,
+      "isrc": "SEBKB9629387",
       "ids": {
         "appleMusic": "1450141548"
+      },
+      "features": {
+        "bpm": 104.9,
+        "gain": -17.9,
+        "source": "deezer"
       }
     },
     {
@@ -402,6 +476,7 @@
       "artist": "Benson Boone",
       "album": "American Heart",
       "durationMs": 165747,
+      "isrc": "USWB12500844",
       "ids": {
         "appleMusic": "1807490820"
       }
@@ -411,6 +486,7 @@
       "artist": "Olivia Rodrigo",
       "album": "you seem pretty sad for a girl so in love",
       "durationMs": 240101,
+      "isrc": "USUG12601725",
       "ids": {
         "appleMusic": "6779097538"
       }
@@ -420,6 +496,7 @@
       "artist": "sombr",
       "album": "I Barely Know Her",
       "durationMs": 232376,
+      "isrc": "USWB12503043",
       "ids": {
         "appleMusic": "1832087995"
       }
@@ -429,6 +506,7 @@
       "artist": "Sabrina Carpenter",
       "album": "Man’s Best Friend",
       "durationMs": 145399,
+      "isrc": "USUM72504446",
       "ids": {
         "appleMusic": "1836002475"
       }
@@ -438,8 +516,14 @@
       "artist": "Harry Styles",
       "album": "Fine Line",
       "durationMs": 207140,
+      "isrc": "USSM11912588",
       "ids": {
         "appleMusic": "1485802970"
+      },
+      "features": {
+        "bpm": 98.91,
+        "gain": -7.2,
+        "source": "deezer"
       }
     }
   ]

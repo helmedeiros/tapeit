@@ -1,90 +1,600 @@
 {
   "name": "Billboard Jazz 2022-2025",
   "tracks": [
-    {"title": "From the Start", "artist": "Laufey"},
-    {"title": "Second Best", "artist": "Laufey"},
-    {"title": "Promise", "artist": "Laufey"},
-    {"title": "Misty", "artist": "Laufey"},
-    {"title": "While You Were Sleeping", "artist": "Laufey"},
-    {"title": "Falling Behind", "artist": "Laufey"},
-    {"title": "Valentine", "artist": "Laufey"},
-    {"title": "Like the Movies", "artist": "Laufey"},
-
-    {"title": "Fly Me to the Moon", "artist": "Frank Sinatra"},
-    {"title": "The Way You Look Tonight", "artist": "Frank Sinatra"},
-    {"title": "My Way", "artist": "Frank Sinatra"},
-    {"title": "Strangers in the Night", "artist": "Frank Sinatra"},
-    {"title": "That's Life", "artist": "Frank Sinatra"},
-    {"title": "Theme from New York, New York", "artist": "Frank Sinatra"},
-    {"title": "I've Got You Under My Skin", "artist": "Frank Sinatra"},
-    {"title": "Summer Wind", "artist": "Frank Sinatra"},
-
-    {"title": "Haven't Met You Yet", "artist": "Michael Bublé"},
-    {"title": "Everything", "artist": "Michael Bublé"},
-    {"title": "Feeling Good", "artist": "Michael Bublé"},
-    {"title": "Home", "artist": "Michael Bublé"},
-    {"title": "Sway", "artist": "Michael Bublé"},
-    {"title": "It's a Beautiful Day", "artist": "Michael Bublé"},
-    {"title": "Cry Me a River", "artist": "Michael Bublé"},
-    {"title": "Hold On", "artist": "Michael Bublé"},
-
-    {"title": "Don't Know Why", "artist": "Norah Jones"},
-    {"title": "Come Away with Me", "artist": "Norah Jones"},
-    {"title": "Sunrise", "artist": "Norah Jones"},
-    {"title": "Turn Me On", "artist": "Norah Jones"},
-    {"title": "Feelin' the Same Way", "artist": "Norah Jones"},
-
-    {"title": "So What", "artist": "Miles Davis"},
-    {"title": "Freddie Freeloader", "artist": "Miles Davis"},
-    {"title": "Blue in Green", "artist": "Miles Davis"},
-    {"title": "All Blues", "artist": "Miles Davis"},
-
-    {"title": "Smooth Operator", "artist": "Sade"},
-    {"title": "No Ordinary Love", "artist": "Sade"},
-    {"title": "By Your Side", "artist": "Sade"},
-    {"title": "The Sweetest Taboo", "artist": "Sade"},
-    {"title": "Your Love Is King", "artist": "Sade"},
-
-    {"title": "What a Wonderful World", "artist": "Louis Armstrong"},
-    {"title": "La Vie en Rose", "artist": "Louis Armstrong"},
-    {"title": "Dream a Little Dream of Me", "artist": "Louis Armstrong"},
-    {"title": "Hello, Dolly!", "artist": "Louis Armstrong"},
-
-    {"title": "Unforgettable", "artist": "Nat King Cole"},
-    {"title": "L-O-V-E", "artist": "Nat King Cole"},
-    {"title": "Mona Lisa", "artist": "Nat King Cole"},
-    {"title": "The Christmas Song", "artist": "Nat King Cole"},
-
-    {"title": "Linus and Lucy", "artist": "Vince Guaraldi Trio"},
-    {"title": "Christmas Time Is Here", "artist": "Vince Guaraldi Trio"},
-    {"title": "Skating", "artist": "Vince Guaraldi Trio"},
-
-    {"title": "The Girl from Ipanema", "artist": "Stan Getz"},
-    {"title": "Corcovado", "artist": "Stan Getz"},
-    {"title": "Desafinado", "artist": "Stan Getz"},
-
-    {"title": "Take Five", "artist": "The Dave Brubeck Quartet"},
-    {"title": "Blue Rondo à la Turk", "artist": "The Dave Brubeck Quartet"},
-    {"title": "Three to Get Ready", "artist": "The Dave Brubeck Quartet"},
-
-    {"title": "Can't Get Out of This Mood", "artist": "Samara Joy"},
-    {"title": "Guess Who I Saw Today", "artist": "Samara Joy"},
-    {"title": "Stardust", "artist": "Samara Joy"},
-
-    {"title": "I Put a Spell on You", "artist": "Nina Simone"},
-    {"title": "Feeling Good", "artist": "Nina Simone"},
-    {"title": "Ne Me Quitte Pas", "artist": "Nina Simone"},
-
-    {"title": "Strange Fruit", "artist": "Billie Holiday"},
-    {"title": "God Bless the Child", "artist": "Billie Holiday"},
-    {"title": "Summertime", "artist": "Billie Holiday"},
-
-    {"title": "Songbird", "artist": "Kenny G"},
-    {"title": "Forever in Love", "artist": "Kenny G"},
-    {"title": "The Moment", "artist": "Kenny G"},
-
-    {"title": "I Get a Kick Out of You", "artist": "Tony Bennett & Lady Gaga"},
-    {"title": "Love for Sale", "artist": "Tony Bennett & Lady Gaga"},
-    {"title": "Anything Goes", "artist": "Tony Bennett & Lady Gaga"}
+    {
+      "title": "From the Start",
+      "artist": "Laufey",
+      "isrc": "QM6N22309399"
+    },
+    {
+      "title": "Second Best",
+      "artist": "Laufey",
+      "isrc": "QM6P42387647"
+    },
+    {
+      "title": "Promise",
+      "artist": "Laufey",
+      "isrc": "QM6P42387620"
+    },
+    {
+      "title": "Misty",
+      "artist": "Laufey",
+      "isrc": "QM6P42387621"
+    },
+    {
+      "title": "While You Were Sleeping",
+      "artist": "Laufey",
+      "isrc": "QM6P42387615"
+    },
+    {
+      "title": "Falling Behind",
+      "artist": "Laufey",
+      "isrc": "GBKPL2298396"
+    },
+    {
+      "title": "Valentine",
+      "artist": "Laufey",
+      "isrc": "GBKPL2280365"
+    },
+    {
+      "title": "Like the Movies",
+      "artist": "Laufey",
+      "isrc": "TCAFJ2195573"
+    },
+    {
+      "title": "Fly Me to the Moon",
+      "artist": "Frank Sinatra",
+      "isrc": "USRH10723029",
+      "features": {
+        "bpm": 119.2,
+        "gain": -13.5,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "The Way You Look Tonight",
+      "artist": "Frank Sinatra",
+      "isrc": "USRH10723024",
+      "features": {
+        "bpm": 132.9,
+        "gain": -13.4,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "My Way",
+      "artist": "Frank Sinatra",
+      "isrc": "USRH10902101",
+      "features": {
+        "bpm": 152,
+        "gain": -11.4,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Strangers in the Night",
+      "artist": "Frank Sinatra",
+      "isrc": "USRH10723031",
+      "features": {
+        "bpm": 180.5,
+        "gain": -10.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "That's Life",
+      "artist": "Frank Sinatra",
+      "isrc": "USRH10723036",
+      "features": {
+        "bpm": 112,
+        "gain": -10.8,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Theme from New York, New York",
+      "artist": "Frank Sinatra",
+      "isrc": "USRH10723042",
+      "features": {
+        "bpm": 107.1,
+        "gain": -10.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "I've Got You Under My Skin",
+      "artist": "Frank Sinatra",
+      "isrc": "USCA29800426",
+      "features": {
+        "bpm": 127.2,
+        "gain": -16.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Summer Wind",
+      "artist": "Frank Sinatra",
+      "isrc": "USRH10723030",
+      "features": {
+        "bpm": 87.4,
+        "gain": -13.1,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Haven't Met You Yet",
+      "artist": "Michael Bublé",
+      "isrc": "USRE10901437",
+      "features": {
+        "bpm": 122.3,
+        "gain": -8.8,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Everything",
+      "artist": "Michael Bublé",
+      "isrc": "USRE10700317",
+      "features": {
+        "bpm": 123,
+        "gain": -8.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Feeling Good",
+      "artist": "Michael Bublé",
+      "isrc": "USRE10401889",
+      "features": {
+        "bpm": 115.5,
+        "gain": -9.8,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Home",
+      "artist": "Michael Bublé",
+      "isrc": "USRE10401888",
+      "features": {
+        "bpm": 128,
+        "gain": -10.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Sway",
+      "artist": "Michael Bublé",
+      "isrc": "USRE10201551",
+      "features": {
+        "bpm": 126,
+        "gain": -9.8,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "It's a Beautiful Day",
+      "artist": "Michael Bublé",
+      "isrc": "USRE11300016",
+      "features": {
+        "bpm": 144.1,
+        "gain": -7.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Cry Me a River",
+      "artist": "Michael Bublé",
+      "isrc": "USRE10901470",
+      "features": {
+        "bpm": 104.9,
+        "gain": -11,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Hold On",
+      "artist": "Michael Bublé",
+      "isrc": "USRE12400456"
+    },
+    {
+      "title": "Don't Know Why",
+      "artist": "Norah Jones",
+      "isrc": "USBN20100529",
+      "features": {
+        "bpm": 176.7,
+        "gain": -16.5,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Come Away with Me",
+      "artist": "Norah Jones",
+      "isrc": "USBN20100889"
+    },
+    {
+      "title": "Sunrise",
+      "artist": "Norah Jones",
+      "isrc": "USBN20300893",
+      "features": {
+        "bpm": 156.6,
+        "gain": -11.4,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Turn Me On",
+      "artist": "Norah Jones",
+      "isrc": "USBN20100532"
+    },
+    {
+      "title": "Feelin' the Same Way",
+      "artist": "Norah Jones",
+      "isrc": "USBN20100879"
+    },
+    {
+      "title": "So What",
+      "artist": "Miles Davis",
+      "isrc": "USSM15900113",
+      "features": {
+        "bpm": 136,
+        "gain": -18.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Freddie Freeloader",
+      "artist": "Miles Davis",
+      "isrc": "USSM15900114",
+      "features": {
+        "bpm": 128.4,
+        "gain": -18.5,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Blue in Green",
+      "artist": "Miles Davis",
+      "isrc": "USSM15900115",
+      "features": {
+        "bpm": 111.4,
+        "gain": -25.5,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "All Blues",
+      "artist": "Miles Davis",
+      "isrc": "USSM15900116",
+      "features": {
+        "bpm": 138.7,
+        "gain": -20.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Smooth Operator",
+      "artist": "Sade",
+      "isrc": "GBARL1100319",
+      "features": {
+        "bpm": 119.2,
+        "gain": -9.4,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "No Ordinary Love",
+      "artist": "Sade",
+      "isrc": "GBBBM9200029",
+      "features": {
+        "bpm": 166,
+        "gain": -13.1,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "By Your Side",
+      "artist": "Sade",
+      "isrc": "GBARL1100341",
+      "features": {
+        "bpm": 146.1,
+        "gain": -11.8,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "The Sweetest Taboo",
+      "artist": "Sade",
+      "isrc": "GBBBM8500011",
+      "features": {
+        "bpm": 182.9,
+        "gain": -12.4,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Your Love Is King",
+      "artist": "Sade",
+      "isrc": "GBBBM8302006",
+      "features": {
+        "bpm": 134.7,
+        "gain": -11.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "What a Wonderful World",
+      "artist": "Louis Armstrong",
+      "isrc": "USMC16758823",
+      "features": {
+        "bpm": 106.8,
+        "gain": -21.5,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "La Vie en Rose",
+      "artist": "Louis Armstrong",
+      "isrc": "USMC15076528",
+      "features": {
+        "bpm": 140.6,
+        "gain": -15.1,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Dream a Little Dream of Me",
+      "artist": "Louis Armstrong",
+      "isrc": "GBZTD1100044",
+      "features": {
+        "bpm": 74.1,
+        "gain": -13,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Hello, Dolly!",
+      "artist": "Louis Armstrong",
+      "isrc": "USMC16356894",
+      "features": {
+        "bpm": 153.7,
+        "gain": -12,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Unforgettable",
+      "artist": "Nat King Cole",
+      "isrc": "USCA25100005"
+    },
+    {
+      "title": "L-O-V-E",
+      "artist": "Nat King Cole",
+      "isrc": "USCA29000091",
+      "features": {
+        "bpm": 153.1,
+        "gain": -11.6,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Mona Lisa",
+      "artist": "Nat King Cole",
+      "isrc": "USCA20300533",
+      "features": {
+        "bpm": 119.1,
+        "gain": -14.6,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "The Christmas Song",
+      "artist": "Nat King Cole",
+      "isrc": "USUM72107386"
+    },
+    {
+      "title": "Linus and Lucy",
+      "artist": "Vince Guaraldi Trio",
+      "isrc": "USC4R1201096",
+      "features": {
+        "bpm": 164.06,
+        "gain": -15.8,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Christmas Time Is Here",
+      "artist": "Vince Guaraldi Trio",
+      "isrc": "USC4R1201098",
+      "features": {
+        "bpm": 75.44,
+        "gain": -17.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Skating",
+      "artist": "Vince Guaraldi Trio",
+      "isrc": "USFI80600054",
+      "features": {
+        "bpm": 129.2,
+        "gain": -12.2,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "The Girl from Ipanema",
+      "artist": "Stan Getz",
+      "isrc": "USPR36305146",
+      "features": {
+        "bpm": 129.6,
+        "gain": -16,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Corcovado",
+      "artist": "Stan Getz",
+      "isrc": "USPR36312116",
+      "features": {
+        "bpm": 128.4,
+        "gain": -15.3,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Desafinado",
+      "artist": "Stan Getz",
+      "isrc": "USMG16490004",
+      "features": {
+        "bpm": 144.56,
+        "gain": -16.3,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Take Five",
+      "artist": "The Dave Brubeck Quartet",
+      "isrc": "USSM15900108",
+      "features": {
+        "bpm": 172.3,
+        "gain": -15.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Blue Rondo à la Turk",
+      "artist": "The Dave Brubeck Quartet",
+      "isrc": "USSM15900106"
+    },
+    {
+      "title": "Three to Get Ready",
+      "artist": "The Dave Brubeck Quartet",
+      "isrc": "USSM10014311"
+    },
+    {
+      "title": "Can't Get Out of This Mood",
+      "artist": "Samara Joy",
+      "isrc": "USUM72213004"
+    },
+    {
+      "title": "Guess Who I Saw Today",
+      "artist": "Samara Joy",
+      "isrc": "USUM72213005"
+    },
+    {
+      "title": "Stardust",
+      "artist": "Samara Joy",
+      "isrc": "GB4DA2100044"
+    },
+    {
+      "title": "I Put a Spell on You",
+      "artist": "Nina Simone",
+      "isrc": "USPR36600001",
+      "features": {
+        "bpm": 116.79,
+        "gain": -13.4,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Feeling Good",
+      "artist": "Nina Simone",
+      "isrc": "USPR36500094",
+      "features": {
+        "bpm": 113.89,
+        "gain": -15.2,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Ne Me Quitte Pas",
+      "artist": "Nina Simone",
+      "isrc": "USPR36500081",
+      "features": {
+        "bpm": 175.19,
+        "gain": -18.2,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Strange Fruit",
+      "artist": "Billie Holiday",
+      "isrc": "USPR35602457",
+      "features": {
+        "bpm": 117.12,
+        "gain": -14.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "God Bless the Child",
+      "artist": "Billie Holiday",
+      "isrc": "FR6V81129325",
+      "features": {
+        "bpm": 99.1,
+        "gain": -12.1,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Summertime",
+      "artist": "Billie Holiday",
+      "isrc": "USSM10104017",
+      "features": {
+        "bpm": 99.6,
+        "gain": -17.6,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Songbird",
+      "artist": "Kenny G",
+      "isrc": "USAR19700056",
+      "features": {
+        "bpm": 135.6,
+        "gain": -18.3,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Forever in Love",
+      "artist": "Kenny G",
+      "isrc": "USAR19700058",
+      "features": {
+        "bpm": 164.1,
+        "gain": -18.5,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "The Moment",
+      "artist": "Kenny G",
+      "isrc": "USAR19700061",
+      "features": {
+        "bpm": 91.1,
+        "gain": -18.1,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "I Get a Kick Out of You",
+      "artist": "Tony Bennett \u0026 Lady Gaga",
+      "isrc": "USUM72104521"
+    },
+    {
+      "title": "Love for Sale",
+      "artist": "Tony Bennett \u0026 Lady Gaga",
+      "isrc": "USUM72104515"
+    },
+    {
+      "title": "Anything Goes",
+      "artist": "Tony Bennett \u0026 Lady Gaga",
+      "isrc": "USUM71410776",
+      "features": {
+        "bpm": 156.6,
+        "gain": -10,
+        "source": "deezer"
+      }
+    }
   ]
 }

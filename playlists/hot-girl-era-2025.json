@@ -6,6 +6,7 @@
       "artist": "Latto",
       "album": "Sugar Honey Iced Tea",
       "durationMs": 146893,
+      "isrc": "USRC12402310",
       "ids": {
         "appleMusic": "1762529106"
       }
@@ -15,6 +16,7 @@
       "artist": "Halsey",
       "album": "Lucky - Single",
       "durationMs": 198547,
+      "isrc": "USSM12405162",
       "ids": {
         "appleMusic": "1757952826"
       }
@@ -24,6 +26,7 @@
       "artist": "Normani",
       "album": "All Yours - Single",
       "durationMs": 210338,
+      "isrc": "USRC12401016",
       "ids": {
         "appleMusic": "1751532315"
       }
@@ -33,6 +36,7 @@
       "artist": "LISA",
       "album": "Músicas Para Treinar Perna",
       "durationMs": 138213,
+      "isrc": "USRC12401857",
       "ids": {
         "appleMusic": "1793441770"
       }
@@ -42,6 +46,7 @@
       "artist": "METTE",
       "album": "MUSCLE - Single",
       "durationMs": 149053,
+      "isrc": "USRC12401801",
       "ids": {
         "appleMusic": "1750932127"
       }
@@ -51,6 +56,7 @@
       "artist": "JADE",
       "album": "Angel Of My Dreams: The Dreamixes - EP",
       "durationMs": 197639,
+      "isrc": "GBARL2400873",
       "ids": {
         "appleMusic": "1766511689"
       }
@@ -60,6 +66,7 @@
       "artist": "Jorja Smith",
       "album": "High - Single",
       "durationMs": 196975,
+      "isrc": "QM6P42472390",
       "ids": {
         "appleMusic": "1754596431"
       }
@@ -69,6 +76,7 @@
       "artist": "Era Istrefi",
       "album": "Heat - Single",
       "durationMs": 130485,
+      "isrc": "USUS12400362",
       "ids": {
         "appleMusic": "1754632426"
       }
@@ -78,6 +86,7 @@
       "artist": "Madison Beer",
       "album": "15 MINUTES - Single",
       "durationMs": 189192,
+      "isrc": "USSM12402821",
       "ids": {
         "appleMusic": "1757690343"
       }
@@ -87,6 +96,7 @@
       "artist": "DOE \u0026 Lecrae",
       "album": "Heart of a Human",
       "durationMs": 149567,
+      "isrc": "USA5W2400257",
       "ids": {
         "appleMusic": "1747331531"
       }
@@ -96,6 +106,7 @@
       "artist": "NICKI NICOLE \u0026 SAIKO",
       "album": "PERROS\u0026GATA$ - Single",
       "durationMs": 179612,
+      "isrc": "UYB282495440",
       "ids": {
         "appleMusic": "1753428587"
       }
@@ -105,6 +116,7 @@
       "artist": "Normani",
       "album": "Candy Paint - Single",
       "durationMs": 170067,
+      "isrc": "USRC12400413",
       "ids": {
         "appleMusic": "1747815176"
       }
@@ -114,6 +126,7 @@
       "artist": "DOMELIPA",
       "album": "LA FOTO - Single",
       "durationMs": 146032,
+      "isrc": "MXA3F2400004",
       "ids": {
         "appleMusic": "1751531959"
       }
@@ -123,6 +136,7 @@
       "artist": "Tate McRae",
       "album": "all the things i never said - EP",
       "durationMs": 175023,
+      "isrc": "USRC11903528",
       "ids": {
         "appleMusic": "1495400443"
       }
@@ -132,6 +146,7 @@
       "artist": "Fana Hues",
       "album": "Moth",
       "durationMs": 219861,
+      "isrc": "USN2F2400029",
       "ids": {
         "appleMusic": "1747336250"
       }
@@ -141,8 +156,14 @@
       "artist": "Beyoncé",
       "album": "If I Were a Boy - Single",
       "durationMs": 249147,
+      "isrc": "USSM10803202",
       "ids": {
         "appleMusic": "294909899"
+      },
+      "features": {
+        "bpm": 89.9,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -150,6 +171,7 @@
       "artist": "Meghan Trainor",
       "album": "Timeless (Deluxe)",
       "durationMs": 148898,
+      "isrc": "USSM12401996",
       "ids": {
         "appleMusic": "1761437352"
       }
@@ -159,6 +181,7 @@
       "artist": "Emilia",
       "album": "La_Playlist.mpeg - Single",
       "durationMs": 149571,
+      "isrc": "USSD12400386",
       "ids": {
         "appleMusic": "1751354187"
       }
@@ -168,6 +191,7 @@
       "artist": "TOMGIRL504EVER",
       "album": "Hyperbopper - Single",
       "durationMs": 138801,
+      "isrc": "QZWDE2424437",
       "ids": {
         "appleMusic": "1757881779"
       }
@@ -177,6 +201,7 @@
       "artist": "Tems",
       "album": "Born in the Wild",
       "durationMs": 175238,
+      "isrc": "USRC12401314",
       "ids": {
         "appleMusic": "1750361980"
       }
@@ -186,6 +211,7 @@
       "artist": "NATTI NATASHA",
       "album": "Quiéreme Menos - Single",
       "durationMs": 213283,
+      "isrc": "USB272300004",
       "ids": {
         "appleMusic": "1747583865"
       }
@@ -195,6 +221,7 @@
       "artist": "BIA \u0026 JID",
       "album": "LIGHTS OUT - Single",
       "durationMs": 198353,
+      "isrc": "USSM12403092",
       "ids": {
         "appleMusic": "1749158973"
       }
@@ -204,6 +231,7 @@
       "artist": "RAYE",
       "album": "Genesis. - EP",
       "durationMs": 420000,
+      "isrc": "QM6N22437181",
       "ids": {
         "appleMusic": "1765602814"
       }
@@ -213,6 +241,7 @@
       "artist": "H3rizon",
       "album": "Soul Ties (Don't Give It Up) - Single",
       "durationMs": 168456,
+      "isrc": "USSM12404011",
       "ids": {
         "appleMusic": "1749375939"
       }
@@ -222,8 +251,14 @@
       "artist": "Beyoncé",
       "album": "BEYONCÉ (Platinum Edition)",
       "durationMs": 369040,
+      "isrc": "USSM11307799",
       "ids": {
         "appleMusic": "939777984"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -231,6 +266,7 @@
       "artist": "Tems",
       "album": "Love Me JeJe - Single",
       "durationMs": 178042,
+      "isrc": "USRC12400907",
       "ids": {
         "appleMusic": "1742653722"
       }
@@ -240,6 +276,7 @@
       "artist": "Dina Ayada",
       "album": "The Script",
       "durationMs": 132792,
+      "isrc": "USLD91759630",
       "ids": {
         "appleMusic": "1748840802"
       }
@@ -249,6 +286,7 @@
       "artist": "Mello Buckzz",
       "album": "Bad Guy - Single",
       "durationMs": 143103,
+      "isrc": "USLD91759274",
       "ids": {
         "appleMusic": "1746428183"
       }
@@ -258,6 +296,7 @@
       "artist": "Normani",
       "album": "1:59 (feat. Gunna) - Single",
       "durationMs": 192089,
+      "isrc": "USRC12400412",
       "ids": {
         "appleMusic": "1741823084"
       }
@@ -267,6 +306,7 @@
       "artist": "Dina Ayada",
       "album": "There's a Way (feat. KayCyy) - Single",
       "durationMs": 210667,
+      "isrc": "USLD91759422",
       "ids": {
         "appleMusic": "1747570065"
       }
@@ -276,6 +316,7 @@
       "artist": "Doja Cat",
       "album": "Scarlet 2 CLAUDE",
       "durationMs": 270200,
+      "isrc": "USRC12401542",
       "ids": {
         "appleMusic": "1746189346"
       }
@@ -285,6 +326,7 @@
       "artist": "Chrissy Chlapecka",
       "album": "10 Boyfriends (Single Pack) - EP",
       "durationMs": 200172,
+      "isrc": "QM6N22416562",
       "ids": {
         "appleMusic": "1761812343"
       }
@@ -294,6 +336,7 @@
       "artist": "LU KALA",
       "album": "Who's Gonna - Single",
       "durationMs": 178027,
+      "isrc": "QM6MZ2430693",
       "ids": {
         "appleMusic": "1739764735"
       }
@@ -303,6 +346,7 @@
       "artist": "DARUMAS",
       "album": "DARUMAS",
       "durationMs": 186909,
+      "isrc": "USSD12400073",
       "ids": {
         "appleMusic": "1745020538"
       }
@@ -321,6 +365,7 @@
       "artist": "Dina Ayada",
       "album": "Hummer - Single",
       "durationMs": 155384,
+      "isrc": "USLD91759017",
       "ids": {
         "appleMusic": "1745737848"
       }
@@ -330,6 +375,7 @@
       "artist": "Mello Buckzz",
       "album": "Move - Single",
       "durationMs": 171000,
+      "isrc": "USLD91759024",
       "ids": {
         "appleMusic": "1745170931"
       }
@@ -339,6 +385,7 @@
       "artist": "Dina Ayada",
       "album": "The Script",
       "durationMs": 127184,
+      "isrc": "USLD91758169",
       "ids": {
         "appleMusic": "1748840325"
       }
@@ -348,6 +395,7 @@
       "artist": "Maiya The Don",
       "album": "Expensive (feat. Flo Milli) - Single",
       "durationMs": 181875,
+      "isrc": "USRC12400947",
       "ids": {
         "appleMusic": "1743498755"
       }
@@ -357,6 +405,7 @@
       "artist": "Nella",
       "album": "En Otra Vida",
       "durationMs": 164000,
+      "isrc": "USSD12300720",
       "ids": {
         "appleMusic": "1743011650"
       }
@@ -366,6 +415,7 @@
       "artist": "NICKI NICOLE",
       "album": "Ojos Verdes - Single",
       "durationMs": 142411,
+      "isrc": "UYB282400001",
       "ids": {
         "appleMusic": "1740784859"
       }
@@ -384,6 +434,7 @@
       "artist": "Cat Burns",
       "album": "early twenties (Deluxe)",
       "durationMs": 146413,
+      "isrc": "GBARL2400303",
       "ids": {
         "appleMusic": "1735983042"
       }
@@ -393,6 +444,7 @@
       "artist": "Jessie Murph",
       "album": "That Ain't No Man That's The Devil",
       "durationMs": 170029,
+      "isrc": "USQX92401685",
       "ids": {
         "appleMusic": "1763129290"
       }
@@ -402,6 +454,7 @@
       "artist": "Lola Brooke",
       "album": "Dennis Daughter (Deluxe Version)",
       "durationMs": 176760,
+      "isrc": "USAR12400063",
       "ids": {
         "appleMusic": "1734290169"
       }
@@ -411,6 +464,7 @@
       "artist": "Chlöe",
       "album": "Boy Bye - Single",
       "durationMs": 205500,
+      "isrc": "USSM12402211",
       "ids": {
         "appleMusic": "1740197607"
       }
@@ -420,6 +474,7 @@
       "artist": "Becky G \u0026 Oscar Maydon",
       "album": "MERCEDES - Single",
       "durationMs": 168360,
+      "isrc": "USRC12400417",
       "ids": {
         "appleMusic": "1737828708"
       }
@@ -429,6 +484,7 @@
       "artist": "Beyoncé",
       "album": "COWBOY CARTER",
       "durationMs": 233457,
+      "isrc": "USSM12401302",
       "ids": {
         "appleMusic": "1738363782"
       }
@@ -438,6 +494,7 @@
       "artist": "DARUMAS",
       "album": "DARUMAS",
       "durationMs": 178988,
+      "isrc": "USSD12400072",
       "ids": {
         "appleMusic": "1745020533"
       }
@@ -447,6 +504,7 @@
       "artist": "Tyla",
       "album": "TYLA",
       "durationMs": 148378,
+      "isrc": "USSM12308662",
       "ids": {
         "appleMusic": "1717680443"
       }
@@ -456,6 +514,7 @@
       "artist": "AUDREY NUNA",
       "album": "Jokes On Me - Single",
       "durationMs": 157466,
+      "isrc": "USAR12300330",
       "ids": {
         "appleMusic": "1741369386"
       }
@@ -465,6 +524,7 @@
       "artist": "Rubina",
       "album": "Something To Listen To - Single",
       "durationMs": 133333,
+      "isrc": "QM4TX2495201",
       "ids": {
         "appleMusic": "1737467184"
       }
@@ -474,6 +534,7 @@
       "artist": "VALÉ",
       "album": "chill like that - Single",
       "durationMs": 154737,
+      "isrc": "QM4TX2489321",
       "ids": {
         "appleMusic": "1828508349"
       }
@@ -483,6 +544,7 @@
       "artist": "Doja Cat",
       "album": "Scarlet 2 CLAUDE",
       "durationMs": 169067,
+      "isrc": "USRC12400591",
       "ids": {
         "appleMusic": "1746187561"
       }
@@ -492,6 +554,7 @@
       "artist": "Flo Milli",
       "album": "Fine Ho, Stay",
       "durationMs": 165754,
+      "isrc": "USRC12400579",
       "ids": {
         "appleMusic": "1735574610"
       }
@@ -510,6 +573,7 @@
       "artist": "Beyoncé \u0026 Miley Cyrus",
       "album": "COWBOY CARTER",
       "durationMs": 208521,
+      "isrc": "USSM12402717",
       "ids": {
         "appleMusic": "1738363902"
       }
@@ -519,6 +583,7 @@
       "artist": "Maiya The Don",
       "album": "Mean It - Single",
       "durationMs": 127067,
+      "isrc": "USRC12400769",
       "ids": {
         "appleMusic": "1739162865"
       }
@@ -528,6 +593,7 @@
       "artist": "Madison Beer",
       "album": "locket deluxe",
       "durationMs": 221709,
+      "isrc": "USSM12400758",
       "ids": {
         "appleMusic": "6766366576"
       }
@@ -537,6 +603,7 @@
       "artist": "TOMGIRL504EVER",
       "album": "(still ur) SCREENSAVER - Single",
       "durationMs": 127343,
+      "isrc": "QZ5FN2428727",
       "ids": {
         "appleMusic": "1728337712"
       }
@@ -546,6 +613,7 @@
       "artist": "Shakira \u0026 Cardi B",
       "album": "Las Mujeres Ya No Lloran",
       "durationMs": 181667,
+      "isrc": "USQX92400523",
       "ids": {
         "appleMusic": "1731059948"
       }
@@ -555,6 +623,7 @@
       "artist": "Barbara Doza",
       "album": "Malandra - EP",
       "durationMs": 169173,
+      "isrc": "USRC12302883",
       "ids": {
         "appleMusic": "1737285978"
       }
@@ -564,6 +633,7 @@
       "artist": "Bu Cuaron",
       "album": "Drop By When You Drop Dead - EP",
       "durationMs": 165193,
+      "isrc": "QM4TX2492774",
       "ids": {
         "appleMusic": "1737002733"
       }
@@ -573,6 +643,7 @@
       "artist": "Tyla",
       "album": "TYLA",
       "durationMs": 147047,
+      "isrc": "USSM12308659",
       "ids": {
         "appleMusic": "1717680255"
       }
@@ -582,6 +653,7 @@
       "artist": "Isabel LaRosa",
       "album": "Favorite - EP",
       "durationMs": 133608,
+      "isrc": "USRC12400507",
       "ids": {
         "appleMusic": "1736608352"
       }
@@ -591,6 +663,7 @@
       "artist": "Shakira",
       "album": "Las Mujeres Ya No Lloran",
       "durationMs": 196233,
+      "isrc": "USQX92307262",
       "ids": {
         "appleMusic": "1731059950"
       }
@@ -600,6 +673,7 @@
       "artist": "Beyoncé",
       "album": "COWBOY CARTER",
       "durationMs": 189639,
+      "isrc": "USSM12402711",
       "ids": {
         "appleMusic": "1738363893"
       }
@@ -609,6 +683,7 @@
       "artist": "Meghan Trainor \u0026 T-Pain",
       "album": "Timeless (Deluxe)",
       "durationMs": 145766,
+      "isrc": "USSM12401540",
       "ids": {
         "appleMusic": "1761437355"
       }
@@ -618,6 +693,7 @@
       "artist": "Tyla",
       "album": "TYLA",
       "durationMs": 159174,
+      "isrc": "USSM12308658",
       "ids": {
         "appleMusic": "1717680246"
       }
@@ -627,6 +703,7 @@
       "artist": "Chlöe",
       "album": "FYS - Single",
       "durationMs": 209202,
+      "isrc": "USSM12401670",
       "ids": {
         "appleMusic": "1733127395"
       }
@@ -636,6 +713,7 @@
       "artist": "Shakira",
       "album": "Las Mujeres Ya No Lloran",
       "durationMs": 178667,
+      "isrc": "USQX92307269",
       "ids": {
         "appleMusic": "1731060231"
       }
@@ -645,6 +723,7 @@
       "artist": "Beyoncé",
       "album": "COWBOY CARTER",
       "durationMs": 240254,
+      "isrc": "USSM12402709",
       "ids": {
         "appleMusic": "1738363784"
       }
@@ -654,6 +733,7 @@
       "artist": "Tyla",
       "album": "TYLA",
       "durationMs": 201111,
+      "isrc": "USSM12308660",
       "ids": {
         "appleMusic": "1717680256"
       }
@@ -663,6 +743,7 @@
       "artist": "Pharrell Williams \u0026 Miley Cyrus",
       "album": "Doctor (Work It Out) - Single",
       "durationMs": 182222,
+      "isrc": "USSM12400672",
       "ids": {
         "appleMusic": "1732342310"
       }
@@ -672,6 +753,7 @@
       "artist": "Lola Brooke",
       "album": "Dennis Daughter (Deluxe Version)",
       "durationMs": 198707,
+      "isrc": "USAR12300314",
       "ids": {
         "appleMusic": "1734289078"
       }
@@ -681,6 +763,7 @@
       "artist": "Cat Burns",
       "album": "alone - Single",
       "durationMs": 172966,
+      "isrc": "GBARL2400016",
       "ids": {
         "appleMusic": "1725493032"
       }
@@ -690,6 +773,7 @@
       "artist": "Blessing Jolie",
       "album": "Hebrews - Single",
       "durationMs": 182824,
+      "isrc": "USRC12400148",
       "ids": {
         "appleMusic": "1733283007"
       }
@@ -699,6 +783,7 @@
       "artist": "Latto",
       "album": "Sunday Service - EP",
       "durationMs": 166581,
+      "isrc": "USRC12400151",
       "ids": {
         "appleMusic": "1731017000"
       }
@@ -708,6 +793,7 @@
       "artist": "Lola Brooke",
       "album": "Dennis Daughter (Deluxe Version)",
       "durationMs": 206667,
+      "isrc": "USAR12400038",
       "ids": {
         "appleMusic": "1734289670"
       }
@@ -717,6 +803,7 @@
       "artist": "Aliyah's Interlude",
       "album": "Fashion Icon - Single",
       "durationMs": 129327,
+      "isrc": "USRC12400222",
       "ids": {
         "appleMusic": "1730804508"
       }
@@ -726,6 +813,7 @@
       "artist": "Tyla",
       "album": "TYLA",
       "durationMs": 190393,
+      "isrc": "USSM12308650",
       "ids": {
         "appleMusic": "1717680252"
       }
@@ -735,6 +823,7 @@
       "artist": "Ari Abdul",
       "album": "DFHMPU - Single",
       "durationMs": 147187,
+      "isrc": "USRC12300241",
       "ids": {
         "appleMusic": "1729902519"
       }
@@ -744,6 +833,7 @@
       "artist": "Jessie Murph",
       "album": "That Ain't No Man That's The Devil",
       "durationMs": 155984,
+      "isrc": "USQX92400414",
       "ids": {
         "appleMusic": "1763129143"
       }
@@ -753,6 +843,7 @@
       "artist": "Little Simz",
       "album": "Drop 7",
       "durationMs": 140733,
+      "isrc": "QM4TW2427305",
       "ids": {
         "appleMusic": "1726317579"
       }
@@ -762,6 +853,7 @@
       "artist": "Samaria",
       "album": "Doubt - Single",
       "durationMs": 182000,
+      "isrc": "USRC12400247",
       "ids": {
         "appleMusic": "1730615132"
       }
@@ -780,6 +872,7 @@
       "artist": "Elle Darlington",
       "album": "hiatus - Single",
       "durationMs": 142225,
+      "isrc": "USSM12400904",
       "ids": {
         "appleMusic": "1729912228"
       }
@@ -789,6 +882,7 @@
       "artist": "Shy Smith",
       "album": "Soaked - Single",
       "durationMs": 179450,
+      "isrc": "QZPLR2123812",
       "ids": {
         "appleMusic": "1729391335"
       }
@@ -798,6 +892,7 @@
       "artist": "Tokischa",
       "album": "Daddy (feat. Sexyy Red) - Single",
       "durationMs": 193042,
+      "isrc": "USRC12303177",
       "ids": {
         "appleMusic": "1718598599"
       }
@@ -807,6 +902,7 @@
       "artist": "NATTI NATASHA",
       "album": "NASTY SINGLES",
       "durationMs": 190698,
+      "isrc": "USB272300120",
       "ids": {
         "appleMusic": "1717534975"
       }
@@ -816,6 +912,7 @@
       "artist": "Samaria",
       "album": "serial recluse - Single",
       "durationMs": 167166,
+      "isrc": "USRC12301997",
       "ids": {
         "appleMusic": "1717498094"
       }
@@ -825,6 +922,7 @@
       "artist": "Tori Kelly",
       "album": "TORI. (+ a lil more)",
       "durationMs": 168975,
+      "isrc": "USSM12400110",
       "ids": {
         "appleMusic": "1771683393"
       }
@@ -834,6 +932,7 @@
       "artist": "Soaky Siren",
       "album": "Fresh Face - Single",
       "durationMs": 190476,
+      "isrc": "QMFME2395343",
       "ids": {
         "appleMusic": "1719820275"
       }
@@ -852,6 +951,7 @@
       "artist": "Iniko",
       "album": "Armor - Single",
       "durationMs": 162133,
+      "isrc": "USQX92400024",
       "ids": {
         "appleMusic": "1726681899"
       }
@@ -861,6 +961,7 @@
       "artist": "J. Rey Soul",
       "album": "HOLLA - Single",
       "durationMs": 181565,
+      "isrc": "USSM12309218",
       "ids": {
         "appleMusic": "1727789341"
       }
@@ -870,6 +971,7 @@
       "artist": "Liza",
       "album": "The Alternate Ending - EP",
       "durationMs": 190588,
+      "isrc": "QMFMG2331273",
       "ids": {
         "appleMusic": "1743452716"
       }
@@ -879,6 +981,7 @@
       "artist": "Tyla",
       "album": "On and On - A COLORS SHOW - Single",
       "durationMs": 167468,
+      "isrc": "USSM12308291",
       "ids": {
         "appleMusic": "1717666193"
       }
@@ -888,6 +991,7 @@
       "artist": "Barbara Doza \u0026 Rawayana",
       "album": "Malandra - EP",
       "durationMs": 158360,
+      "isrc": "USRC12302881",
       "ids": {
         "appleMusic": "1737285791"
       }
@@ -897,6 +1001,7 @@
       "artist": "Dove Cameron",
       "album": "Alchemical: Volume 1",
       "durationMs": 150413,
+      "isrc": "USQX92305874",
       "ids": {
         "appleMusic": "1712367827"
       }
@@ -906,6 +1011,7 @@
       "artist": "Flo Milli",
       "album": "Never Lose Me (feat. Lil Yachty) - Single",
       "durationMs": 165246,
+      "isrc": "USRC12303382",
       "ids": {
         "appleMusic": "1719185585"
       }
@@ -915,6 +1021,7 @@
       "artist": "Beyoncé",
       "album": "MY HOUSE - Single",
       "durationMs": 262941,
+      "isrc": "USSM12308805",
       "ids": {
         "appleMusic": "1719203133"
       }
@@ -924,6 +1031,7 @@
       "artist": "Tyla",
       "album": "Músicas Para Treinar Perna",
       "durationMs": 200256,
+      "isrc": "USSM12305126",
       "ids": {
         "appleMusic": "1793441767"
       }
@@ -933,6 +1041,7 @@
       "artist": "Tokyo Vanity",
       "album": "That's My Best Friend - Single",
       "durationMs": 210837,
+      "isrc": "USUYG1074224",
       "ids": {
         "appleMusic": "1724514929"
       }
@@ -942,6 +1051,7 @@
       "artist": "IVE \u0026 Saweetie",
       "album": "All Night - Single",
       "durationMs": 197764,
+      "isrc": "USQX92307375",
       "ids": {
         "appleMusic": "1724240372"
       }
@@ -951,6 +1061,7 @@
       "artist": "Lola Brooke",
       "album": "Dennis Daughter",
       "durationMs": 167067,
+      "isrc": "USAR12300356",
       "ids": {
         "appleMusic": "1711865795"
       }
@@ -960,6 +1071,7 @@
       "artist": "Kenzie Cait",
       "album": "don't break my... - Single",
       "durationMs": 130643,
+      "isrc": "USSM12308892",
       "ids": {
         "appleMusic": "1719881862"
       }
@@ -969,6 +1081,7 @@
       "artist": "Samaria",
       "album": "Even Paradise Rains",
       "durationMs": 146763,
+      "isrc": "USRC12302054",
       "ids": {
         "appleMusic": "1720824620"
       }
@@ -978,6 +1091,7 @@
       "artist": "Zara Larsson",
       "album": "Memory Lane - Single",
       "durationMs": 192133,
+      "isrc": "USSM12308229",
       "ids": {
         "appleMusic": "1768815480"
       }
@@ -987,6 +1101,7 @@
       "artist": "Allie X",
       "album": "Girl With No Face (Deluxe)",
       "durationMs": 196648,
+      "isrc": "QMFME2367307",
       "ids": {
         "appleMusic": "1771674535"
       }
@@ -996,6 +1111,7 @@
       "artist": "Amerie",
       "album": "Single and Loving It",
       "durationMs": 238760,
+      "isrc": "USSM10501285",
       "ids": {
         "appleMusic": "1196431101"
       }
@@ -1005,6 +1121,7 @@
       "artist": "Destiny Rogers",
       "album": "Still Your Girl",
       "durationMs": 213861,
+      "isrc": "QMFMG2324318",
       "ids": {
         "appleMusic": "1738511458"
       }
@@ -1014,6 +1131,7 @@
       "artist": "Alaina Castillo",
       "album": "running water - Single",
       "durationMs": 184633,
+      "isrc": "QMFME2399629",
       "ids": {
         "appleMusic": "1713807713"
       }
@@ -1023,6 +1141,7 @@
       "artist": "H3rizon",
       "album": "Naughty + Wanna Love You - Single",
       "durationMs": 159979,
+      "isrc": "USSM12307572",
       "ids": {
         "appleMusic": "1724844159"
       }
@@ -1032,6 +1151,7 @@
       "artist": "NICKI NICOLE \u0026 Bad Gyal",
       "album": "Enamórate - Single",
       "durationMs": 147786,
+      "isrc": "UYB282300054",
       "ids": {
         "appleMusic": "1714884582"
       }
@@ -1041,6 +1161,7 @@
       "artist": "ScarLip",
       "album": "Blick - Single",
       "durationMs": 134345,
+      "isrc": "USSM12308269",
       "ids": {
         "appleMusic": "1716439291"
       }
@@ -1050,6 +1171,7 @@
       "artist": "Dove Cameron",
       "album": "Alchemical: Volume 1",
       "durationMs": 219587,
+      "isrc": "USQX92305873",
       "ids": {
         "appleMusic": "1712367585"
       }
@@ -1059,6 +1181,7 @@
       "artist": "Dina Ayada",
       "album": "SUPERSTAR!",
       "durationMs": 151847,
+      "isrc": "USLD91751761",
       "ids": {
         "appleMusic": "1711283600"
       }
@@ -1068,6 +1191,7 @@
       "artist": "Mariah the Scientist",
       "album": "To Be Eaten Alive",
       "durationMs": 175983,
+      "isrc": "USSM12307087",
       "ids": {
         "appleMusic": "1711291496"
       }
@@ -1077,6 +1201,7 @@
       "artist": "Absolutely",
       "album": "CEREBRUM",
       "durationMs": 185638,
+      "isrc": "USSM12303926",
       "ids": {
         "appleMusic": "1716468609"
       }
@@ -1086,6 +1211,7 @@
       "artist": "Tokischa",
       "album": "CANDY - Single",
       "durationMs": 113998,
+      "isrc": "RDRAY2200009",
       "ids": {
         "appleMusic": "1710432170"
       }
@@ -1104,6 +1230,7 @@
       "artist": "Nnena",
       "album": "A WOMAN'S MIND",
       "durationMs": 227093,
+      "isrc": "USRC12300006",
       "ids": {
         "appleMusic": "1713976545"
       }
@@ -1113,6 +1240,7 @@
       "artist": "Maiya The Don",
       "album": "Hot Commodity",
       "durationMs": 141297,
+      "isrc": "USRC12302197",
       "ids": {
         "appleMusic": "1707932610"
       }
@@ -1122,6 +1250,7 @@
       "artist": "BIA",
       "album": "REALLY HER (Intl Deluxe)",
       "durationMs": 144000,
+      "isrc": "USSM12307062",
       "ids": {
         "appleMusic": "1709172950"
       }
@@ -1131,6 +1260,7 @@
       "artist": "Barbara Doza",
       "album": "Japon - Single",
       "durationMs": 170921,
+      "isrc": "USRC12300770",
       "ids": {
         "appleMusic": "1709010297"
       }
@@ -1140,6 +1270,7 @@
       "artist": "RAYE \u0026 Hans Zimmer",
       "album": "Mother Nature - Single",
       "durationMs": 235645,
+      "isrc": "QMFME2381177",
       "ids": {
         "appleMusic": "1712737847"
       }
@@ -1149,6 +1280,7 @@
       "artist": "Dove Cameron",
       "album": "Alchemical: Volume 1",
       "durationMs": 126267,
+      "isrc": "USQX92304345",
       "ids": {
         "appleMusic": "1712367578"
       }
@@ -1158,6 +1290,7 @@
       "artist": "Doja Cat",
       "album": "Scarlet 2 CLAUDE",
       "durationMs": 265360,
+      "isrc": "USRC12301954",
       "ids": {
         "appleMusic": "1746188547"
       }
@@ -1167,6 +1300,7 @@
       "artist": "Flo Milli",
       "album": "BGC - Single",
       "durationMs": 156877,
+      "isrc": "USRC12301089",
       "ids": {
         "appleMusic": "1711872137"
       }
@@ -1176,6 +1310,7 @@
       "artist": "Tay Money",
       "album": "White Girl Wasted - Single",
       "durationMs": 158143,
+      "isrc": "QMFME2360053",
       "ids": {
         "appleMusic": "1711240644"
       }
@@ -1185,6 +1320,7 @@
       "artist": "Anabel Englund",
       "album": "a lesson in chemistry - Single",
       "durationMs": 127454,
+      "isrc": "USUS12300477",
       "ids": {
         "appleMusic": "1708465421"
       }
@@ -1194,6 +1330,7 @@
       "artist": "IVE",
       "album": "Off The Record - Single",
       "durationMs": 188733,
+      "isrc": "QMDA72364151",
       "ids": {
         "appleMusic": "1709570215"
       }
@@ -1203,6 +1340,7 @@
       "artist": "Cece Coakley",
       "album": "Happy Adjacent (Deluxe)",
       "durationMs": 196778,
+      "isrc": "QM6P42377454",
       "ids": {
         "appleMusic": "1735681470"
       }
@@ -1212,6 +1350,7 @@
       "artist": "Doja Cat",
       "album": "Scarlet",
       "durationMs": 207506,
+      "isrc": "USRC12302189",
       "ids": {
         "appleMusic": "1704922383"
       }
@@ -1221,6 +1360,7 @@
       "artist": "Cloudy June",
       "album": "Red Flag - Single",
       "durationMs": 148074,
+      "isrc": "DEE862301619",
       "ids": {
         "appleMusic": "1709533161"
       }
@@ -1230,6 +1370,7 @@
       "artist": "Marzz",
       "album": "Switching Sides (feat. Dee Gatti) - Single",
       "durationMs": 139795,
+      "isrc": "USRC12302021",
       "ids": {
         "appleMusic": "1707418259"
       }
@@ -1239,6 +1380,7 @@
       "artist": "Absolutely",
       "album": "MIA - Single",
       "durationMs": 160810,
+      "isrc": "USSM12303880",
       "ids": {
         "appleMusic": "1709185456"
       }
@@ -1248,6 +1390,7 @@
       "artist": "Mariah the Scientist",
       "album": "To Be Eaten Alive",
       "durationMs": 182073,
+      "isrc": "USSM12307085",
       "ids": {
         "appleMusic": "1711291492"
       }
@@ -1257,6 +1400,7 @@
       "artist": "HoneyLuv \u0026 NEZ",
       "album": "Let's Get Sexy - Single",
       "durationMs": 215062,
+      "isrc": "USQX92305576",
       "ids": {
         "appleMusic": "1708653168"
       }
@@ -1266,6 +1410,7 @@
       "artist": "Jorja Smith",
       "album": "falling or flying (Deluxe)",
       "durationMs": 132213,
+      "isrc": "QM4TX2344817",
       "ids": {
         "appleMusic": "1773360939"
       }
@@ -1293,6 +1438,7 @@
       "artist": "Kah-Lo",
       "album": "Pain/Pleasure",
       "durationMs": 199461,
+      "isrc": "USSM12301773",
       "ids": {
         "appleMusic": "1704373538"
       }
@@ -1302,6 +1448,7 @@
       "artist": "Victoria Monét",
       "album": "JAGUAR II : Deluxe",
       "durationMs": 173913,
+      "isrc": "USRC12204022",
       "ids": {
         "appleMusic": "1767519789"
       }
@@ -1320,6 +1467,7 @@
       "artist": "Miley Cyrus",
       "album": "Used To Be Young - Single",
       "durationMs": 191186,
+      "isrc": "USSM12306461",
       "ids": {
         "appleMusic": "1702776420"
       }
@@ -1329,6 +1477,7 @@
       "artist": "Maiya The Don",
       "album": "Hot Commodity",
       "durationMs": 167475,
+      "isrc": "USRC12300892",
       "ids": {
         "appleMusic": "1707932614"
       }
@@ -1338,6 +1487,7 @@
       "artist": "Victoria Monét",
       "album": "On My Mama - Single",
       "durationMs": 186678,
+      "isrc": "USRC12204025",
       "ids": {
         "appleMusic": "1690626806"
       }

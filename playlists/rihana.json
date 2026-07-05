@@ -15,8 +15,14 @@
       "artist": "Rihanna",
       "album": "Unapologetic",
       "durationMs": 225147,
+      "isrc": "USUM71211793",
       "ids": {
         "appleMusic": "1443232440"
+      },
+      "features": {
+        "bpm": 92.08,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +30,14 @@
       "artist": "Rihanna",
       "album": "Talk That Talk (Deluxe)",
       "durationMs": 242680,
+      "isrc": "USUM71118074",
       "ids": {
         "appleMusic": "1443179145"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -42,6 +54,7 @@
       "artist": "Rihanna",
       "album": "Rated R",
       "durationMs": 222920,
+      "isrc": "USUM70912307",
       "ids": {
         "appleMusic": "1440885739"
       }
@@ -51,8 +64,14 @@
       "artist": "Rihanna",
       "album": "Loud",
       "durationMs": 243533,
+      "isrc": "USUM71026591",
       "ids": {
         "appleMusic": "1440804853"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +79,14 @@
       "artist": "Summer Walker \u0026 Bryson Tiller",
       "album": "Women in Hip Hop/RnB",
       "durationMs": 143227,
+      "isrc": "USUM71919639",
       "ids": {
         "appleMusic": "1553019517"
+      },
+      "features": {
+        "bpm": 116.13,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -87,6 +112,7 @@
       "artist": "Teyana Taylor \u0026 Kehlani",
       "album": "Hot Bedroom Music",
       "durationMs": 253947,
+      "isrc": "USUM71921543",
       "ids": {
         "appleMusic": "1791842381"
       }
@@ -96,8 +122,14 @@
       "artist": "Rihanna",
       "album": "Talk That Talk",
       "durationMs": 215227,
+      "isrc": "USA371439694",
       "ids": {
         "appleMusic": "1443102668"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -105,8 +137,14 @@
       "artist": "Rihanna",
       "album": "Loud (Deluxe)",
       "durationMs": 235493,
+      "isrc": "USUM71023200",
       "ids": {
         "appleMusic": "1440896009"
+      },
+      "features": {
+        "bpm": 126,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -123,6 +161,7 @@
       "artist": "Rihanna",
       "album": "A Girl Like Me",
       "durationMs": 226973,
+      "isrc": "USUM70601995",
       "ids": {
         "appleMusic": "1440655171"
       }
@@ -132,6 +171,7 @@
       "artist": "Rihanna",
       "album": "Good Girl Gone Bad: Reloaded",
       "durationMs": 238627,
+      "isrc": "USUM70814476",
       "ids": {
         "appleMusic": "1441154571"
       }
@@ -141,6 +181,7 @@
       "artist": "Mae Muller",
       "album": "International Women's day - 2023",
       "durationMs": 181765,
+      "isrc": "GBUM71904135",
       "ids": {
         "appleMusic": "1713399410"
       }
@@ -150,8 +191,14 @@
       "artist": "Rihanna",
       "album": "Sledgehammer (From \"Star Trek Beyond\") - Single",
       "durationMs": 211400,
+      "isrc": "QM5FT1600216",
       "ids": {
         "appleMusic": "1445279997"
+      },
+      "features": {
+        "bpm": 130.83,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
@@ -159,8 +206,14 @@
       "artist": "Rihanna",
       "album": "ANTI (Deluxe)",
       "durationMs": 253077,
+      "isrc": "QM5FT1600115",
       "ids": {
         "appleMusic": "1440934015"
+      },
+      "features": {
+        "bpm": 95.04,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -168,6 +221,7 @@
       "artist": "Sharna Bass",
       "album": "Beautiful Chaos",
       "durationMs": 186311,
+      "isrc": "GB2DY1900459",
       "ids": {
         "appleMusic": "1500932209"
       }
@@ -186,6 +240,7 @@
       "artist": "EVAN GIIA",
       "album": "Sidelines - Single",
       "durationMs": 154981,
+      "isrc": "USUG11903519",
       "ids": {
         "appleMusic": "1483149817"
       }
@@ -204,6 +259,7 @@
       "artist": "Rihanna",
       "album": "Good Girl Gone Bad: Reloaded",
       "durationMs": 229413,
+      "isrc": "USUM70809004",
       "ids": {
         "appleMusic": "1441154580"
       }
@@ -213,6 +269,7 @@
       "artist": "Grace Carter",
       "album": "Fired Up - Single",
       "durationMs": 201087,
+      "isrc": "GBUM71905409",
       "ids": {
         "appleMusic": "1482625130"
       }
@@ -222,8 +279,14 @@
       "artist": "Rihanna",
       "album": "Good Girl Gone Bad: Reloaded",
       "durationMs": 267080,
+      "isrc": "USUM70734700",
       "ids": {
         "appleMusic": "1441154439"
+      },
+      "features": {
+        "bpm": 122.68,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -231,8 +294,14 @@
       "artist": "Rihanna",
       "album": "Best of 2017",
       "durationMs": 224000,
+      "isrc": "QM5FT1600120",
       "ids": {
         "appleMusic": "1442975762"
+      },
+      "features": {
+        "bpm": 172.27,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -240,6 +309,7 @@
       "artist": "Lola Young",
       "album": "Intro",
       "durationMs": 201763,
+      "isrc": "GBUM71905247",
       "ids": {
         "appleMusic": "1486320216"
       }
@@ -249,8 +319,14 @@
       "artist": "Rihanna",
       "album": "Loud",
       "durationMs": 266987,
+      "isrc": "USUM71026642",
       "ids": {
         "appleMusic": "1440804866"
+      },
+      "features": {
+        "bpm": 156,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -258,8 +334,14 @@
       "artist": "Rihanna",
       "album": "ANTI (Deluxe)",
       "durationMs": 191605,
+      "isrc": "QM5FT1600118",
       "ids": {
         "appleMusic": "1440934096"
+      },
+      "features": {
+        "bpm": 110.84,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -267,8 +349,14 @@
       "artist": "Selena Gomez",
       "album": "Best Clean Pop Hits",
       "durationMs": 162596,
+      "isrc": "USUM71921647",
       "ids": {
         "appleMusic": "1591472847"
+      },
+      "features": {
+        "bpm": 116.13,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -276,6 +364,7 @@
       "artist": "Rihanna",
       "album": "Rated R",
       "durationMs": 208427,
+      "isrc": "USUM70912379",
       "ids": {
         "appleMusic": "1440885959"
       }
@@ -285,6 +374,7 @@
       "artist": "Leyla Blue",
       "album": "songs to scream in cars",
       "durationMs": 177200,
+      "isrc": "USUM71921062",
       "ids": {
         "appleMusic": "1606071399"
       }
@@ -303,8 +393,14 @@
       "artist": "KAROL G \u0026 Nicki Minaj",
       "album": "Tusa - Single",
       "durationMs": 200550,
+      "isrc": "USUM71921183",
       "ids": {
         "appleMusic": "1485476561"
+      },
+      "features": {
+        "bpm": 101.08,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -312,8 +408,14 @@
       "artist": "Rihanna",
       "album": "Unapologetic",
       "durationMs": 211893,
+      "isrc": "USUM71214763",
       "ids": {
         "appleMusic": "1443232536"
+      },
+      "features": {
+        "bpm": 160.2,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -321,8 +423,14 @@
       "artist": "Calvin Harris \u0026 Rihanna",
       "album": "96 Months",
       "durationMs": 221901,
+      "isrc": "GBARL1600460",
       "ids": {
         "appleMusic": "1761396653"
+      },
+      "features": {
+        "bpm": 124.16,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -330,8 +438,14 @@
       "artist": "Ariana Grande",
       "album": "thank u, next",
       "durationMs": 178631,
+      "isrc": "USUM71900110",
       "ids": {
         "appleMusic": "1450330685"
+      },
+      "features": {
+        "bpm": 140.15,
+        "gain": -11.6,
+        "source": "deezer"
       }
     },
     {
@@ -339,8 +453,14 @@
       "artist": "Rihanna",
       "album": "ANTI",
       "durationMs": 120632,
+      "isrc": "QM5FT1600121",
       "ids": {
         "appleMusic": "1440933725"
+      },
+      "features": {
+        "bpm": 156.01,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -366,8 +486,14 @@
       "artist": "Summer Walker",
       "album": "Over It (Complete Set)",
       "durationMs": 143667,
+      "isrc": "USUM71919639",
       "ids": {
         "appleMusic": "1540833710"
+      },
+      "features": {
+        "bpm": 116.13,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -375,8 +501,14 @@
       "artist": "Rihanna",
       "album": "ANTI",
       "durationMs": 186451,
+      "isrc": "QM5FT1600104",
       "ids": {
         "appleMusic": "1443231180"
+      },
+      "features": {
+        "bpm": 94.39,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -393,8 +525,14 @@
       "artist": "Rihanna",
       "album": "Talk That Talk",
       "durationMs": 78200,
+      "isrc": "USUM71118092",
       "ids": {
         "appleMusic": "1443103017"
+      },
+      "features": {
+        "bpm": 160.2,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -402,6 +540,7 @@
       "artist": "Mae Muller",
       "album": "Chapter 1",
       "durationMs": 175484,
+      "isrc": "GBKPL1791599",
       "ids": {
         "appleMusic": "1457831779"
       }
@@ -411,8 +550,14 @@
       "artist": "DJ Khaled",
       "album": "Grateful",
       "durationMs": 204173,
+      "isrc": "USSM11705088",
       "ids": {
         "appleMusic": "1249168253"
+      },
+      "features": {
+        "bpm": 97.97,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -429,6 +574,7 @@
       "artist": "Angie Rose",
       "album": "Lie To Me (Story of Eve) - Single",
       "durationMs": 167966,
+      "isrc": "USUM71918764",
       "ids": {
         "appleMusic": "1481617963"
       }
@@ -438,8 +584,14 @@
       "artist": "Rihanna",
       "album": "Rainy Day R\u0026B",
       "durationMs": 133157,
+      "isrc": "QM5FT1600119",
       "ids": {
         "appleMusic": "1368218730"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -456,8 +608,14 @@
       "artist": "Zedd \u0026 Kehlani",
       "album": "POP LOVE HITS VOL 18",
       "durationMs": 210901,
+      "isrc": "USUM71919172",
       "ids": {
         "appleMusic": "1676358368"
+      },
+      "features": {
+        "bpm": 92.91,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -465,8 +623,14 @@
       "artist": "Rihanna",
       "album": "ANTI (Deluxe)",
       "durationMs": 72074,
+      "isrc": "QM5FT1600114",
       "ids": {
         "appleMusic": "1440934010"
+      },
+      "features": {
+        "bpm": 135.11,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -483,8 +647,14 @@
       "artist": "N.E.R.D \u0026 Rihanna",
       "album": "Lemon (Edit) - Single",
       "durationMs": 146907,
+      "isrc": "USSM11710534",
       "ids": {
         "appleMusic": "1320224243"
+      },
+      "features": {
+        "bpm": 189.65,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -492,6 +662,7 @@
       "artist": "Kensington Moore",
       "album": "Addict - Single",
       "durationMs": 171410,
+      "isrc": "QMEZE1949525",
       "ids": {
         "appleMusic": "1476642868"
       }
@@ -510,8 +681,14 @@
       "artist": "Tiësto \u0026 Mabel",
       "album": "EDM Bangers",
       "durationMs": 168125,
+      "isrc": "CYA111900298",
       "ids": {
         "appleMusic": "1568030543"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -519,8 +696,14 @@
       "artist": "Rihanna",
       "album": "Unapologetic",
       "durationMs": 161200,
+      "isrc": "USUM71214737",
       "ids": {
         "appleMusic": "1443232449"
+      },
+      "features": {
+        "bpm": 133.8,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -528,8 +711,14 @@
       "artist": "Alessia Cara",
       "album": "Body By Jake: New Year's Revolution 2023",
       "durationMs": 176080,
+      "isrc": "USUM71914355",
       "ids": {
         "appleMusic": "1667713631"
+      },
+      "features": {
+        "bpm": 156.01,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -555,6 +744,7 @@
       "artist": "Rihanna",
       "album": "Bitch Better Have My Money - Single",
       "durationMs": 219306,
+      "isrc": "QM5FT1500006",
       "ids": {
         "appleMusic": "1445136075"
       }
@@ -573,8 +763,14 @@
       "artist": "Rihanna",
       "album": "Talk That Talk",
       "durationMs": 200013,
+      "isrc": "USUM71118072",
       "ids": {
         "appleMusic": "1443102651"
+      },
+      "features": {
+        "bpm": 126.8,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -582,6 +778,7 @@
       "artist": "Leyla Blue",
       "album": "Silence - Single",
       "durationMs": 207380,
+      "isrc": "USUM71915164",
       "ids": {
         "appleMusic": "1547706284"
       }
@@ -591,6 +788,7 @@
       "artist": "Moko",
       "album": "48",
       "durationMs": 152885,
+      "isrc": "GB45A2202890",
       "ids": {
         "appleMusic": "1691760951"
       }

@@ -6,8 +6,14 @@
       "artist": "The Macarons Project",
       "album": "Fly Me to the Moon - Single",
       "durationMs": 155402,
+      "isrc": "QZ22B1898064",
       "ids": {
         "appleMusic": "1348122486"
+      },
+      "features": {
+        "bpm": 108.8,
+        "gain": -13.2,
+        "source": "deezer"
       }
     },
     {
@@ -15,6 +21,7 @@
       "artist": "The Macarons Project",
       "album": "Bunga Maaf - Single",
       "durationMs": 287986,
+      "isrc": "QT3F22628436",
       "ids": {
         "appleMusic": "6776963724"
       }
@@ -24,6 +31,7 @@
       "artist": "The Macarons Project",
       "album": "Too Sweet - Single",
       "durationMs": 198297,
+      "isrc": "QZPJ32380055",
       "ids": {
         "appleMusic": "1756400074"
       }
@@ -33,6 +41,7 @@
       "artist": "The Macarons Project \u0026 figuers",
       "album": "Bloom - Single",
       "durationMs": 198519,
+      "isrc": "QZNWZ2515286",
       "ids": {
         "appleMusic": "1814125779"
       }
@@ -42,6 +51,7 @@
       "artist": "The Macarons Project",
       "album": "Leaving on a Jet Plane (Acoustic) - Single",
       "durationMs": 251587,
+      "isrc": "QZ22B2065411",
       "ids": {
         "appleMusic": "1451936616"
       }
@@ -60,6 +70,7 @@
       "artist": "The Macarons Project \u0026 figuers",
       "album": "Duets - EP",
       "durationMs": 194127,
+      "isrc": "QZTB42520054",
       "ids": {
         "appleMusic": "1820500576"
       }
@@ -78,6 +89,7 @@
       "artist": "The Macarons Project \u0026 figuers",
       "album": "Happy Together - Single",
       "durationMs": 185378,
+      "isrc": "QZMEP2589634",
       "ids": {
         "appleMusic": "1808825624"
       }
@@ -87,6 +99,7 @@
       "artist": "The Macarons Project \u0026 figuers",
       "album": "Happy Together - Single",
       "durationMs": 202834,
+      "isrc": "QZK6M2500828",
       "ids": {
         "appleMusic": "1808825625"
       }
@@ -96,6 +109,7 @@
       "artist": "The Macarons Project",
       "album": "I Love You So - Single",
       "durationMs": 175472,
+      "isrc": "QZPJ32419093",
       "ids": {
         "appleMusic": "1778289931"
       }
@@ -105,6 +119,7 @@
       "artist": "The Macarons Project",
       "album": "La Vie En Rose (Live at Monarch Studios) - Single",
       "durationMs": 183342,
+      "isrc": "QZPJ32391098",
       "ids": {
         "appleMusic": "1763126680"
       }
@@ -114,6 +129,7 @@
       "artist": "The Macarons Project",
       "album": "Big Jet Plane (Live at Haus of Owl) - Single",
       "durationMs": 237375,
+      "isrc": "QZPJ32284211",
       "ids": {
         "appleMusic": "1699644419"
       }
@@ -123,6 +139,7 @@
       "artist": "The Macarons Project",
       "album": "Can't Help Falling in Love (Piano \u0026 Strings) - Single",
       "durationMs": 233278,
+      "isrc": "QZPJ32242775",
       "ids": {
         "appleMusic": "1673834065"
       }
@@ -132,6 +149,7 @@
       "artist": "The Macarons Project",
       "album": "Lonesome Town (Live at Haus of Owl) - Single",
       "durationMs": 116903,
+      "isrc": "QZPJ32284210",
       "ids": {
         "appleMusic": "1699642813"
       }
@@ -141,6 +159,7 @@
       "artist": "The Macarons Project",
       "album": "The Moon Song (Acoustic) - Single",
       "durationMs": 187375,
+      "isrc": "QZPJ32265924",
       "ids": {
         "appleMusic": "1688436838"
       }
@@ -150,6 +169,7 @@
       "artist": "The Macarons Project",
       "album": "A Thousand Years - Single",
       "durationMs": 291556,
+      "isrc": "QZPJ32181884",
       "ids": {
         "appleMusic": "1632664287"
       }
@@ -159,6 +179,7 @@
       "artist": "The Macarons Project",
       "album": "Can't Help Falling in Love - Single",
       "durationMs": 193667,
+      "isrc": "QZPJ32242764",
       "ids": {
         "appleMusic": "1673833787"
       }
@@ -168,6 +189,7 @@
       "artist": "The Macarons Project",
       "album": "You Are My Sunshine - Single",
       "durationMs": 168707,
+      "isrc": "QZPJ32137211",
       "ids": {
         "appleMusic": "1603888883"
       }
@@ -177,6 +199,7 @@
       "artist": "Trinix \u0026 The Macarons Project",
       "album": "Too Sweet - Single",
       "durationMs": 164196,
+      "isrc": "FXQ892500456",
       "ids": {
         "appleMusic": "1853896831"
       }
@@ -186,6 +209,7 @@
       "artist": "The Macarons Project",
       "album": "New Light (Tsutro Remix) - Single",
       "durationMs": 183679,
+      "isrc": "QZPJ32188406",
       "ids": {
         "appleMusic": "1637707274"
       }
@@ -195,6 +219,7 @@
       "artist": "The Macarons Project",
       "album": "Put Your Head on My Shoulder - Single",
       "durationMs": 174094,
+      "isrc": "QZGWX2102833",
       "ids": {
         "appleMusic": "1549296118"
       }
@@ -204,6 +229,7 @@
       "artist": "The Macarons Project",
       "album": "Over the Rainbow - Single",
       "durationMs": 140762,
+      "isrc": "QZGWX2122030",
       "ids": {
         "appleMusic": "1553517772"
       }
@@ -213,6 +239,7 @@
       "artist": "The Macarons Project",
       "album": "The End of the World - Single",
       "durationMs": 211793,
+      "isrc": "QZPJ32168971",
       "ids": {
         "appleMusic": "1623296175"
       }
@@ -222,6 +249,7 @@
       "artist": "The Macarons Project",
       "album": "Just the Two of Us - Single",
       "durationMs": 186750,
+      "isrc": "QZGWX2175937",
       "ids": {
         "appleMusic": "1563483705"
       }
@@ -231,6 +259,7 @@
       "artist": "The Macarons Project",
       "album": "Oh, It Is Love (Acoustic Cover) - Single",
       "durationMs": 264259,
+      "isrc": "QZGWX2250362",
       "ids": {
         "appleMusic": "1582168747"
       }
@@ -240,6 +269,7 @@
       "artist": "The Macarons Project",
       "album": "Linger (Acoustic) - Single",
       "durationMs": 245836,
+      "isrc": "QZGWX2102834",
       "ids": {
         "appleMusic": "1549296308"
       }
@@ -249,6 +279,7 @@
       "artist": "The Macarons Project",
       "album": "Symmetry (Acoustic Cover) - Single",
       "durationMs": 305938,
+      "isrc": "QZGWX2164386",
       "ids": {
         "appleMusic": "1561017701"
       }
@@ -258,6 +289,7 @@
       "artist": "The Macarons Project",
       "album": "Unchained Melody - Single",
       "durationMs": 230741,
+      "isrc": "QZGWW2107094",
       "ids": {
         "appleMusic": "1514464657"
       }
@@ -267,6 +299,7 @@
       "artist": "Kaiak \u0026 The Macarons Project",
       "album": "True Colors (Acoustic) - Single",
       "durationMs": 218267,
+      "isrc": "QZGWX2067027",
       "ids": {
         "appleMusic": "1542701764"
       }
@@ -276,6 +309,7 @@
       "artist": "The Macarons Project",
       "album": "Bizarre Love Triangle (Acoustic) - Single",
       "durationMs": 131644,
+      "isrc": "QZGWW1903231",
       "ids": {
         "appleMusic": "1462827199"
       }
@@ -285,6 +319,7 @@
       "artist": "The Macarons Project",
       "album": "Edelweiss - Single",
       "durationMs": 145323,
+      "isrc": "QZGWW2111982",
       "ids": {
         "appleMusic": "1515831130"
       }
@@ -294,6 +329,7 @@
       "artist": "The Macarons Project",
       "album": "Remember Me (Acoustic Cover) - Single",
       "durationMs": 87004,
+      "isrc": "QZGWX2036686",
       "ids": {
         "appleMusic": "1535229055"
       }
@@ -312,6 +348,7 @@
       "artist": "The Macarons Project",
       "album": "Kiss Me (Live Acoustic) - Single",
       "durationMs": 206000,
+      "isrc": "QZ22B2076554",
       "ids": {
         "appleMusic": "1455898261"
       }
@@ -321,6 +358,7 @@
       "artist": "The Macarons Project",
       "album": "(They Long to Be) Close to You - Single",
       "durationMs": 149631,
+      "isrc": "QZ22B1961584",
       "ids": {
         "appleMusic": "1400286204"
       }
@@ -330,6 +368,7 @@
       "artist": "The Macarons Project",
       "album": "What a Wonderful World (Live Acoustic) - Single",
       "durationMs": 131120,
+      "isrc": "QZGWW1933573",
       "ids": {
         "appleMusic": "1472326336"
       }
@@ -339,6 +378,7 @@
       "artist": "The Macarons Project",
       "album": "Somewhere Only We Know (Acoustic) - Single",
       "durationMs": 204925,
+      "isrc": "QZ22B2098640",
       "ids": {
         "appleMusic": "1461542998"
       }
@@ -348,8 +388,14 @@
       "artist": "The Macarons Project",
       "album": "Hazy (Acoustic) - Single",
       "durationMs": 233674,
+      "isrc": "QZ22B2017405",
       "ids": {
         "appleMusic": "1440188870"
+      },
+      "features": {
+        "bpm": 174.45,
+        "gain": -14.1,
+        "source": "deezer"
       }
     },
     {
@@ -357,6 +403,7 @@
       "artist": "The Macarons Project",
       "album": "Giving Up (Acoustic) - Single",
       "durationMs": 202000,
+      "isrc": "QZGWW2049634",
       "ids": {
         "appleMusic": "1500646167"
       }
@@ -366,6 +413,7 @@
       "artist": "The Macarons Project",
       "album": "Crave You (Acoustic Cover) - Single",
       "durationMs": 266132,
+      "isrc": "QZGWW1987053",
       "ids": {
         "appleMusic": "1485487327"
       }
@@ -375,6 +423,7 @@
       "artist": "The Macarons Project",
       "album": "I'm With You (Acoustic Version) - Single",
       "durationMs": 216500,
+      "isrc": "QZGWW1955686",
       "ids": {
         "appleMusic": "1477516400"
       }
@@ -384,6 +433,7 @@
       "artist": "The Macarons Project",
       "album": "I Won't Give Up (Acoustic Version) - Single",
       "durationMs": 212000,
+      "isrc": "QZGWW1989021",
       "ids": {
         "appleMusic": "1486222114"
       }
@@ -393,8 +443,14 @@
       "artist": "The Macarons Project",
       "album": "The Only Exception (Acoustic Cover) - Single",
       "durationMs": 263434,
+      "isrc": "QZGWW1926882",
       "ids": {
         "appleMusic": "1470289742"
+      },
+      "features": {
+        "bpm": 139.2,
+        "gain": -15,
+        "source": "deezer"
       }
     },
     {
@@ -402,6 +458,7 @@
       "artist": "The Macarons Project",
       "album": "The Quarantine Covers - Single",
       "durationMs": 252104,
+      "isrc": "QZGWW2105531",
       "ids": {
         "appleMusic": "1514233597"
       }
@@ -411,8 +468,14 @@
       "artist": "The Macarons Project",
       "album": "You \u0026 Me Song (Acoustic) - Single",
       "durationMs": 170007,
+      "isrc": "QZ22B2045090",
       "ids": {
         "appleMusic": "1448757809"
+      },
+      "features": {
+        "bpm": 109.38,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -420,6 +483,7 @@
       "artist": "The Macarons Project",
       "album": "Moon River (Acoustic) - Single",
       "durationMs": 154563,
+      "isrc": "QZ22B2025381",
       "ids": {
         "appleMusic": "1442123236"
       }
@@ -429,6 +493,7 @@
       "artist": "The Macarons Project",
       "album": "Love Me Tender (Acoustic Cover) - Single",
       "durationMs": 179000,
+      "isrc": "QZGWW1931494",
       "ids": {
         "appleMusic": "1471192663"
       }
@@ -438,6 +503,7 @@
       "artist": "The Macarons Project",
       "album": "The Quarantine Covers - Single",
       "durationMs": 199350,
+      "isrc": "QZGWW2105530",
       "ids": {
         "appleMusic": "1514233596"
       }
@@ -447,8 +513,14 @@
       "artist": "The Macarons Project",
       "album": "L-O-V-E (Acoustic) - Single",
       "durationMs": 133750,
+      "isrc": "QZ22B2054496",
       "ids": {
         "appleMusic": "1449498335"
+      },
+      "features": {
+        "bpm": 146.61,
+        "gain": -13.5,
+        "source": "deezer"
       }
     },
     {
@@ -456,8 +528,14 @@
       "artist": "The Macarons Project",
       "album": "Creep (Acoustic) - Single",
       "durationMs": 269859,
+      "isrc": "QZ22B1977131",
       "ids": {
         "appleMusic": "1416316617"
+      },
+      "features": {
+        "bpm": 149.26,
+        "gain": -11.4,
+        "source": "deezer"
       }
     },
     {
@@ -465,6 +543,7 @@
       "artist": "The Macarons Project",
       "album": "Tonight You Belong to Me - Single",
       "durationMs": 146318,
+      "isrc": "QZ22B1886135",
       "ids": {
         "appleMusic": "1337998283"
       }
@@ -474,6 +553,7 @@
       "artist": "The Macarons Project",
       "album": "Over the Rainbow - Single",
       "durationMs": 136349,
+      "isrc": "QZGWX2102661",
       "ids": {
         "appleMusic": "1553517771"
       }
@@ -483,6 +563,7 @@
       "artist": "The Macarons Project",
       "album": "Dream - Single",
       "durationMs": 214376,
+      "isrc": "QZ22B1886134",
       "ids": {
         "appleMusic": "1340585041"
       }
@@ -492,6 +573,7 @@
       "artist": "The Macarons Project",
       "album": "Get Lucky - Single",
       "durationMs": 306132,
+      "isrc": "QZ22B1826100",
       "ids": {
         "appleMusic": "1341994465"
       }
@@ -501,6 +583,7 @@
       "artist": "The Macarons Project",
       "album": "White Christmas (Acoustic) - Single",
       "durationMs": 140063,
+      "isrc": "QZ22B2013765",
       "ids": {
         "appleMusic": "1439514903"
       }
@@ -510,6 +593,7 @@
       "artist": "The Macarons Project",
       "album": "Christmas Time Is Here - Single",
       "durationMs": 172775,
+      "isrc": "QZ22B1849992",
       "ids": {
         "appleMusic": "1301729068"
       }

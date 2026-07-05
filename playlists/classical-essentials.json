@@ -33,6 +33,7 @@
       "artist": "Franz Liszt \u0026 Ilyun Bürkev",
       "album": "Classical Piano",
       "durationMs": 275592,
+      "isrc": "USHM22141607",
       "ids": {
         "appleMusic": "1800187563"
       }
@@ -69,6 +70,7 @@
       "artist": "Classical Slowed + Reverb \u0026 Samuel Barber",
       "album": "Barber: Adagio for Strings - slowed + reverb - Single",
       "durationMs": 462467,
+      "isrc": "USSM12400944",
       "ids": {
         "appleMusic": "1734603810"
       }
@@ -105,6 +107,7 @@
       "artist": "Wolfgang Amadeus Mozart \u0026 Pio Palumbo",
       "album": "Piano Sonata No. 11 in a Major, K. 331: III. Rondo alla turca: Allegretto (Turkish March) - Single",
       "durationMs": 206500,
+      "isrc": "ITJD72400023",
       "ids": {
         "appleMusic": "1754243744"
       }
@@ -132,8 +135,14 @@
       "artist": "André Previn \u0026 London Symphony Orchestra",
       "album": "Ich mag keine Klassik, aber das gefällt mir!",
       "durationMs": 84198,
+      "isrc": "USBC16800319",
       "ids": {
         "appleMusic": "339077273"
+      },
+      "features": {
+        "bpm": 166.7,
+        "gain": -13.6,
+        "source": "deezer"
       }
     },
     {
@@ -159,8 +168,14 @@
       "artist": "Eric Coates",
       "album": "British Light Music- Coates : By the Sleepy Lagoon (1926-1940)",
       "durationMs": 209959,
+      "isrc": "HKI190108501",
       "ids": {
         "appleMusic": "191887783"
+      },
+      "features": {
+        "bpm": 77,
+        "gain": -17.7,
+        "source": "deezer"
       }
     },
     {
@@ -168,8 +183,14 @@
       "artist": "Yann Tiersen",
       "album": "Le Fabuleux destin d'Amélie Poulain (Bande originale du film)",
       "durationMs": 140733,
+      "isrc": "FR91U0100002",
       "ids": {
         "appleMusic": "1575400467"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -15.3,
+        "source": "deezer"
       }
     },
     {
@@ -177,6 +198,7 @@
       "artist": "Austin Wintory",
       "album": "Journey (Original Video Game Soundtrack)",
       "durationMs": 106960,
+      "isrc": "USGSS1200060",
       "ids": {
         "appleMusic": "1553230093"
       }
@@ -222,6 +244,7 @@
       "artist": "Solveig Funseth \u0026 Clara Schumann",
       "album": "Women Composers",
       "durationMs": 207000,
+      "isrc": "QMFMF2116956",
       "ids": {
         "appleMusic": "1788086932"
       }
@@ -231,8 +254,14 @@
       "artist": "George Gershwin",
       "album": "Gershwin Plays Gershwin: The Piano Rolls",
       "durationMs": 865000,
+      "isrc": "USNO19328705",
       "ids": {
         "appleMusic": "79576564"
+      },
+      "features": {
+        "bpm": 132.5,
+        "gain": -17.9,
+        "source": "deezer"
       }
     },
     {
@@ -276,8 +305,14 @@
       "artist": "Michael Nyman",
       "album": "The Piano",
       "durationMs": 256493,
+      "isrc": "GBDVE9300001",
       "ids": {
         "appleMusic": "724561810"
+      },
+      "features": {
+        "bpm": 159.6,
+        "gain": -16.5,
+        "source": "deezer"
       }
     }
   ]

@@ -6,6 +6,7 @@
       "artist": "FINNEAS",
       "album": "New Girl - Single",
       "durationMs": 181437,
+      "isrc": "US23A1500206",
       "ids": {
         "appleMusic": "1722114325"
       }
@@ -15,6 +16,7 @@
       "artist": "FINNEAS",
       "album": "I'm In Love Without You - Single",
       "durationMs": 201469,
+      "isrc": "TCADF1766305",
       "ids": {
         "appleMusic": "1721675499"
       }
@@ -24,6 +26,7 @@
       "artist": "FINNEAS",
       "album": "Blood Harmony (Deluxe)",
       "durationMs": 237979,
+      "isrc": "GBKPL1898999",
       "ids": {
         "appleMusic": "1720958799"
       }
@@ -33,6 +36,7 @@
       "artist": "FINNEAS",
       "album": "Life Moves On - Single",
       "durationMs": 251766,
+      "isrc": "GBKPL1804304",
       "ids": {
         "appleMusic": "1720936073"
       }
@@ -42,6 +46,7 @@
       "artist": "FINNEAS",
       "album": "Hollywood Forever - Single",
       "durationMs": 251728,
+      "isrc": "GBKPL1814843",
       "ids": {
         "appleMusic": "1720936719"
       }
@@ -51,6 +56,7 @@
       "artist": "FINNEAS",
       "album": "Luck Pusher - Single",
       "durationMs": 163410,
+      "isrc": "GBKPL1825155",
       "ids": {
         "appleMusic": "1720936672"
       }
@@ -60,6 +66,7 @@
       "artist": "FINNEAS",
       "album": "Let's Fall In Love For The Night - Single",
       "durationMs": 190348,
+      "isrc": "GBKPL1825156",
       "ids": {
         "appleMusic": "1721676438"
       }
@@ -69,6 +76,7 @@
       "artist": "FINNEAS",
       "album": "Claudia - Single",
       "durationMs": 161876,
+      "isrc": "GBKPL1939455",
       "ids": {
         "appleMusic": "1720937456"
       }
@@ -78,6 +86,7 @@
       "artist": "FINNEAS",
       "album": "Blood Harmony",
       "durationMs": 237020,
+      "isrc": "GBKPL1947486",
       "ids": {
         "appleMusic": "1720941624"
       }
@@ -87,6 +96,7 @@
       "artist": "FINNEAS",
       "album": "Angel - Single",
       "durationMs": 311152,
+      "isrc": "GBKPL1952409",
       "ids": {
         "appleMusic": "1720937161"
       }
@@ -96,6 +106,7 @@
       "artist": "FINNEAS",
       "album": "Blood Harmony",
       "durationMs": 187270,
+      "isrc": "GBKPL1963393",
       "ids": {
         "appleMusic": "1720941638"
       }
@@ -105,6 +116,7 @@
       "artist": "FINNEAS",
       "album": "Blood Harmony",
       "durationMs": 128916,
+      "isrc": "GBKPL1965909",
       "ids": {
         "appleMusic": "1720941863"
       }
@@ -114,6 +126,7 @@
       "artist": "FINNEAS",
       "album": "Blood Harmony",
       "durationMs": 169766,
+      "isrc": "GBKPL1967676",
       "ids": {
         "appleMusic": "1720941643"
       }
@@ -123,6 +136,7 @@
       "artist": "FINNEAS",
       "album": "Blood Harmony",
       "durationMs": 223283,
+      "isrc": "GBKPL1967674",
       "ids": {
         "appleMusic": "1720941866"
       }
@@ -132,6 +146,7 @@
       "artist": "FINNEAS",
       "album": "Blood Harmony (Deluxe)",
       "durationMs": 261471,
+      "isrc": "GBKPL1967675",
       "ids": {
         "appleMusic": "1720958796"
       }

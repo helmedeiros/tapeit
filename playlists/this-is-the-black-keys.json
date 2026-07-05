@@ -6,8 +6,14 @@
       "artist": "The Black Keys",
       "album": "El Camino",
       "durationMs": 193173,
+      "isrc": "USNO11100273",
       "ids": {
         "appleMusic": "1052966684"
+      },
+      "features": {
+        "bpm": 168.1,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -15,6 +21,7 @@
       "artist": "The Black Keys",
       "album": "Brothers (Deluxe Remastered Anniversary Edition)",
       "durationMs": 191956,
+      "isrc": "USNO12000174",
       "ids": {
         "appleMusic": "1542588734"
       }
@@ -24,6 +31,7 @@
       "artist": "The Black Keys",
       "album": "Dropout Boogie",
       "durationMs": 164867,
+      "isrc": "USNO12200033",
       "ids": {
         "appleMusic": "1611850616"
       }
@@ -32,15 +40,27 @@
       "title": "Fever",
       "artist": "The Black Keys",
       "album": "Turn Blue",
-      "durationMs": 246314
+      "durationMs": 246314,
+      "isrc": "USNO11400180",
+      "features": {
+        "bpm": 127.6,
+        "gain": -9.3,
+        "source": "deezer"
+      }
     },
     {
       "title": "Gold on the Ceiling",
       "artist": "The Black Keys",
       "album": "El Camino",
       "durationMs": 224333,
+      "isrc": "USNO11100275",
       "ids": {
         "appleMusic": "1052966702"
+      },
+      "features": {
+        "bpm": 130.4,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -48,6 +68,7 @@
       "artist": "The Black Keys",
       "album": "Let's Rock",
       "durationMs": 177768,
+      "isrc": "USNO11900029",
       "ids": {
         "appleMusic": "1459700593"
       }
@@ -57,6 +78,7 @@
       "artist": "The Black Keys",
       "album": "Brothers (Deluxe Remastered Anniversary Edition)",
       "durationMs": 211336,
+      "isrc": "USNO12000172",
       "ids": {
         "appleMusic": "1542588732"
       }
@@ -65,15 +87,27 @@
       "title": "Weight of Love",
       "artist": "The Black Keys",
       "album": "Turn Blue",
-      "durationMs": 410196
+      "durationMs": 410196,
+      "isrc": "USNO11400177",
+      "features": {
+        "bpm": 154.8,
+        "gain": -10.1,
+        "source": "deezer"
+      }
     },
     {
       "title": "Little Black Submarines",
       "artist": "The Black Keys",
       "album": "El Camino",
       "durationMs": 251267,
+      "isrc": "USNO11100276",
       "ids": {
         "appleMusic": "1052966705"
+      },
+      "features": {
+        "bpm": 150.3,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -81,8 +115,14 @@
       "artist": "The Black Keys",
       "album": "Let's Rock",
       "durationMs": 196777,
+      "isrc": "USNO11900064",
       "ids": {
         "appleMusic": "1459700589"
+      },
+      "features": {
+        "bpm": 111.14,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -90,6 +130,7 @@
       "artist": "The Black Keys",
       "album": "Brothers (Deluxe Remastered Anniversary Edition)",
       "durationMs": 205396,
+      "isrc": "USNO12000170",
       "ids": {
         "appleMusic": "1542588730"
       }
@@ -99,6 +140,7 @@
       "artist": "The Black Keys",
       "album": "Peaches!",
       "durationMs": 300624,
+      "isrc": "USWB12504967",
       "ids": {
         "appleMusic": "1873477949"
       }
@@ -107,15 +149,27 @@
       "title": "10 Lovers",
       "artist": "The Black Keys",
       "album": "Turn Blue",
-      "durationMs": 213223
+      "durationMs": 213223,
+      "isrc": "USNO11400185",
+      "features": {
+        "bpm": 97.97,
+        "gain": -9.1,
+        "source": "deezer"
+      }
     },
     {
       "title": "I Got Mine",
       "artist": "The Black Keys",
       "album": "Attack \u0026 Release",
       "durationMs": 239144,
+      "isrc": "USNO10750895",
       "ids": {
         "appleMusic": "1052967340"
+      },
+      "features": {
+        "bpm": 156,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -123,8 +177,14 @@
       "artist": "The Black Keys",
       "album": "Let's Rock",
       "durationMs": 219891,
+      "isrc": "USNO11900067",
       "ids": {
         "appleMusic": "1459700595"
+      },
+      "features": {
+        "bpm": 189.65,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -132,6 +192,7 @@
       "artist": "The Black Keys",
       "album": "Peaches!",
       "durationMs": 223325,
+      "isrc": "USWB12504974",
       "ids": {
         "appleMusic": "1873477957"
       }
@@ -141,6 +202,7 @@
       "artist": "The Black Keys",
       "album": "No Rain, No Flowers",
       "durationMs": 211721,
+      "isrc": "USWB12501245",
       "ids": {
         "appleMusic": "1811897310"
       }
@@ -150,8 +212,14 @@
       "artist": "The Black Keys",
       "album": "Your Touch - The EP",
       "durationMs": 162587,
+      "isrc": "USNO10696702",
       "ids": {
         "appleMusic": "178894746"
+      },
+      "features": {
+        "bpm": 115.5,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -159,8 +227,14 @@
       "artist": "The Black Keys",
       "album": "El Camino",
       "durationMs": 197000,
+      "isrc": "USNO11100278",
       "ids": {
         "appleMusic": "1052966709"
+      },
+      "features": {
+        "bpm": 160.2,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -168,6 +242,7 @@
       "artist": "The Black Keys",
       "album": "Peaches!",
       "durationMs": 242115,
+      "isrc": "USWB12504968",
       "ids": {
         "appleMusic": "1873477951"
       }
@@ -177,6 +252,7 @@
       "artist": "The Black Keys",
       "album": "Dropout Boogie",
       "durationMs": 217640,
+      "isrc": "USNO12200037",
       "ids": {
         "appleMusic": "1611850657"
       }
@@ -186,8 +262,14 @@
       "artist": "The Black Keys",
       "album": "The Moan - EP",
       "durationMs": 156413,
+      "isrc": "US27U0404702",
       "ids": {
         "appleMusic": "281829705"
+      },
+      "features": {
+        "bpm": 90.3,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -195,8 +277,14 @@
       "artist": "The Black Keys",
       "album": "El Camino",
       "durationMs": 221027,
+      "isrc": "USNO11100274",
       "ids": {
         "appleMusic": "1052966685"
+      },
+      "features": {
+        "bpm": 144.1,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -204,6 +292,7 @@
       "artist": "The Black Keys",
       "album": "Peaches!",
       "durationMs": 197647,
+      "isrc": "USWB12504972",
       "ids": {
         "appleMusic": "1873477955"
       }
@@ -213,6 +302,7 @@
       "artist": "The Black Keys",
       "album": "Let's Rock",
       "durationMs": 146597,
+      "isrc": "USNO11900071",
       "ids": {
         "appleMusic": "1459700599"
       }
@@ -221,15 +311,27 @@
       "title": "Turn Blue",
       "artist": "The Black Keys",
       "album": "Turn Blue",
-      "durationMs": 222954
+      "durationMs": 222954,
+      "isrc": "USNO11400179",
+      "features": {
+        "bpm": 94,
+        "gain": -11,
+        "source": "deezer"
+      }
     },
     {
       "title": "Sister",
       "artist": "The Black Keys",
       "album": "El Camino",
       "durationMs": 205187,
+      "isrc": "USNO11100279",
       "ids": {
         "appleMusic": "1052966710"
+      },
+      "features": {
+        "bpm": 111.4,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -237,6 +339,7 @@
       "artist": "The Black Keys",
       "album": "Peaches!",
       "durationMs": 223562,
+      "isrc": "USWB12504969",
       "ids": {
         "appleMusic": "1873477952"
       }
@@ -246,6 +349,7 @@
       "artist": "The Black Keys",
       "album": "Let's Rock",
       "durationMs": 178229,
+      "isrc": "USNO11900074",
       "ids": {
         "appleMusic": "1459700602"
       }
@@ -255,21 +359,34 @@
       "artist": "The Black Keys",
       "album": "Attack \u0026 Release",
       "durationMs": 250141,
+      "isrc": "USNO10750897",
       "ids": {
         "appleMusic": "1052967762"
+      },
+      "features": {
+        "bpm": 162.1,
+        "gain": -11.3,
+        "source": "deezer"
       }
     },
     {
       "title": "In Time",
       "artist": "The Black Keys",
       "album": "Turn Blue",
-      "durationMs": 268116
+      "durationMs": 268116,
+      "isrc": "USNO11400178",
+      "features": {
+        "bpm": 97.97,
+        "gain": -9.3,
+        "source": "deezer"
+      }
     },
     {
       "title": "Tomorrow Night",
       "artist": "The Black Keys",
       "album": "Peaches!",
       "durationMs": 235696,
+      "isrc": "USWB12504971",
       "ids": {
         "appleMusic": "1873477954"
       }
@@ -279,6 +396,7 @@
       "artist": "The Black Keys",
       "album": "The Big Come Up",
       "durationMs": 140933,
+      "isrc": "US27U0404403",
       "ids": {
         "appleMusic": "279535854"
       }
@@ -288,6 +406,7 @@
       "artist": "The Black Keys",
       "album": "Ohio Players",
       "durationMs": 167312,
+      "isrc": "USNO12300381",
       "ids": {
         "appleMusic": "1722540381"
       }
@@ -296,15 +415,27 @@
       "title": "Gotta Get Away",
       "artist": "The Black Keys",
       "album": "Turn Blue",
-      "durationMs": 182166
+      "durationMs": 182166,
+      "isrc": "USNO11400187",
+      "features": {
+        "bpm": 122,
+        "gain": -8.8,
+        "source": "deezer"
+      }
     },
     {
       "title": "Meet Me in the City",
       "artist": "The Black Keys",
       "album": "Chulahoma: The Songs of Junior Kimbrough - EP",
       "durationMs": 218467,
+      "isrc": "USFP70632204",
       "ids": {
         "appleMusic": "1080412682"
+      },
+      "features": {
+        "bpm": 123.05,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -312,6 +443,7 @@
       "artist": "The Black Keys",
       "album": "Delta Kream (Bonus Track Version)",
       "durationMs": 228054,
+      "isrc": "USNO12000397",
       "ids": {
         "appleMusic": "1562742524"
       }
@@ -321,6 +453,7 @@
       "artist": "The Black Keys",
       "album": "Boyhood (Music from the Motion Picture)",
       "durationMs": 186253,
+      "isrc": "USNO12000173",
       "ids": {
         "appleMusic": "910339157"
       }
@@ -330,6 +463,7 @@
       "artist": "The Black Keys",
       "album": "No Rain, No Flowers",
       "durationMs": 196775,
+      "isrc": "USWB12501241",
       "ids": {
         "appleMusic": "1811897148"
       }
@@ -339,6 +473,7 @@
       "artist": "The Black Keys",
       "album": "Let's Rock",
       "durationMs": 160543,
+      "isrc": "USNO11900065",
       "ids": {
         "appleMusic": "1459700592"
       }
@@ -348,6 +483,7 @@
       "artist": "The Black Keys",
       "album": "Ohio Players (Trophy Edition)",
       "durationMs": 154512,
+      "isrc": "USNO12300380",
       "ids": {
         "appleMusic": "1768164544"
       }
@@ -357,6 +493,7 @@
       "artist": "The Black Keys",
       "album": "Brothers (Deluxe Remastered Anniversary Edition)",
       "durationMs": 224382,
+      "isrc": "USNO12000179",
       "ids": {
         "appleMusic": "1542588741"
       }
@@ -366,8 +503,14 @@
       "artist": "The Black Keys",
       "album": "Rubber Factory",
       "durationMs": 172093,
+      "isrc": "USFP60401112",
       "ids": {
         "appleMusic": "1208771073"
+      },
+      "features": {
+        "bpm": 177.44,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -375,6 +518,7 @@
       "artist": "The Black Keys",
       "album": "The Night Before - Single",
       "durationMs": 154612,
+      "isrc": "USWB12500016",
       "ids": {
         "appleMusic": "1792402675"
       }
@@ -384,6 +528,7 @@
       "artist": "The Black Keys",
       "album": "Ohio Players (Trophy Edition)",
       "durationMs": 147986,
+      "isrc": "USNO12300385",
       "ids": {
         "appleMusic": "1768164550"
       }
@@ -393,6 +538,7 @@
       "artist": "The Black Keys",
       "album": "Tour Rehearsal Tapes - EP",
       "durationMs": 182314,
+      "isrc": "USNO11200298",
       "ids": {
         "appleMusic": "566802885"
       }
@@ -402,6 +548,7 @@
       "artist": "The Black Keys",
       "album": "Delta Kream (Bonus Track Version)",
       "durationMs": 228973,
+      "isrc": "USNO12000396",
       "ids": {
         "appleMusic": "1562742520"
       }
@@ -411,6 +558,7 @@
       "artist": "The Black Keys",
       "album": "No Rain, No Flowers",
       "durationMs": 173301,
+      "isrc": "USWB12501247",
       "ids": {
         "appleMusic": "1811897313"
       }
@@ -420,8 +568,14 @@
       "artist": "The Black Keys",
       "album": "Thickfreakness",
       "durationMs": 228373,
+      "isrc": "USFP70400154",
       "ids": {
         "appleMusic": "1208782857"
+      },
+      "features": {
+        "bpm": 141.59,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -429,6 +583,7 @@
       "artist": "The Black Keys",
       "album": "Brothers (Deluxe Remastered Anniversary Edition)",
       "durationMs": 269829,
+      "isrc": "USNO12000178",
       "ids": {
         "appleMusic": "1542588740"
       }

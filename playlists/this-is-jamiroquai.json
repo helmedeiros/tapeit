@@ -6,6 +6,7 @@
       "artist": "Jamiroquai",
       "album": "Travelling Without Moving (20th Anniversary Edition) [2016 Remaster]",
       "durationMs": 340907,
+      "isrc": "GBARL1201220",
       "ids": {
         "appleMusic": "1479062292"
       }
@@ -15,6 +16,7 @@
       "artist": "Jamiroquai",
       "album": "Travelling Without Moving (20th Anniversary Edition) [2016 Remaster]",
       "durationMs": 244147,
+      "isrc": "GBARL1201221",
       "ids": {
         "appleMusic": "1479062293"
       }
@@ -24,6 +26,7 @@
       "artist": "Jamiroquai",
       "album": "Dynamite",
       "durationMs": 237867,
+      "isrc": "GBBBN0500206",
       "ids": {
         "appleMusic": "659352133"
       }
@@ -33,8 +36,14 @@
       "artist": "Jamiroquai",
       "album": "Synkronized",
       "durationMs": 331760,
+      "isrc": "GBBBL9902068",
       "ids": {
         "appleMusic": "1583958646"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -42,6 +51,7 @@
       "artist": "Jamiroquai",
       "album": "A Funk Odyssey",
       "durationMs": 295400,
+      "isrc": "GBBBN0102227",
       "ids": {
         "appleMusic": "203132999"
       }
@@ -51,8 +61,14 @@
       "artist": "Jamiroquai",
       "album": "The Return of the Space Cowboy (Remastered)",
       "durationMs": 386973,
+      "isrc": "GBARL1201216",
       "ids": {
         "appleMusic": "600897223"
+      },
+      "features": {
+        "bpm": 111.4,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +76,14 @@
       "artist": "Jamiroquai",
       "album": "Travelling Without Moving (20th Anniversary Edition) [2016 Remaster]",
       "durationMs": 263920,
+      "isrc": "GBARL1201224",
       "ids": {
         "appleMusic": "1479062305"
+      },
+      "features": {
+        "bpm": 105.74,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -69,21 +91,34 @@
       "artist": "Jamiroquai",
       "album": "Automaton",
       "durationMs": 236947,
+      "isrc": "GBUM71606644",
       "ids": {
         "appleMusic": "1440896132"
+      },
+      "features": {
+        "bpm": 114.84,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
       "title": "Love Foolosophy",
-      "artist": "Jamiroquai"
+      "artist": "Jamiroquai",
+      "isrc": "GBBBN0102282"
     },
     {
       "title": "Talullah",
       "artist": "Jamiroquai",
       "album": "Dynamite",
       "durationMs": 362067,
+      "isrc": "GBBBN0500207",
       "ids": {
         "appleMusic": "659352138"
+      },
+      "features": {
+        "bpm": 154.3,
+        "gain": -10.5,
+        "source": "deezer"
       }
     },
     {
@@ -91,8 +126,14 @@
       "artist": "Jamiroquai",
       "album": "White Knuckle Ride - EP",
       "durationMs": 215187,
+      "isrc": "GBUM71024485",
       "ids": {
         "appleMusic": "1446743578"
+      },
+      "features": {
+        "bpm": 125.7,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -100,6 +141,7 @@
       "artist": "Jamiroquai",
       "album": "Synkronized",
       "durationMs": 225173,
+      "isrc": "GBBBL9902048",
       "ids": {
         "appleMusic": "1583958659"
       }
@@ -109,6 +151,7 @@
       "artist": "Jamiroquai",
       "album": "A Funk Odyssey",
       "durationMs": 199600,
+      "isrc": "GBBBN0102187",
       "ids": {
         "appleMusic": "203133079"
       }
@@ -118,6 +161,7 @@
       "artist": "Jamiroquai",
       "album": "Travelling Without Moving (20th Anniversary Edition) [2016 Remaster]",
       "durationMs": 268467,
+      "isrc": "GBARL1201223",
       "ids": {
         "appleMusic": "1479062304"
       }
@@ -127,8 +171,14 @@
       "artist": "Jamiroquai",
       "album": "Automaton",
       "durationMs": 331800,
+      "isrc": "GBUM71606648",
       "ids": {
         "appleMusic": "1440896358"
+      },
+      "features": {
+        "bpm": 113.89,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -136,8 +186,14 @@
       "artist": "Jamiroquai",
       "album": "Emergency On Planet Earth (Remastered)",
       "durationMs": 365733,
+      "isrc": "GBARL1201195",
       "ids": {
         "appleMusic": "600870484"
+      },
+      "features": {
+        "bpm": 101.8,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -145,8 +201,14 @@
       "artist": "Jamiroquai",
       "album": "Dynamite",
       "durationMs": 300227,
+      "isrc": "GBBBN0500203",
       "ids": {
         "appleMusic": "659352161"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -154,6 +216,7 @@
       "artist": "Jamiroquai",
       "album": "Travelling Without Moving (20th Anniversary Edition) [2016 Remaster]",
       "durationMs": 220080,
+      "isrc": "GBARL1201229",
       "ids": {
         "appleMusic": "1479062430"
       }
@@ -163,8 +226,14 @@
       "artist": "Jamiroquai",
       "album": "Rock Dust Light Star (Bonus Track Version)",
       "durationMs": 218973,
+      "isrc": "GBUM71024711",
       "ids": {
         "appleMusic": "1440713471"
+      },
+      "features": {
+        "bpm": 116.1,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -172,8 +241,14 @@
       "artist": "Jamiroquai",
       "album": "Emergency On Planet Earth (Remastered)",
       "durationMs": 230053,
+      "isrc": "GBARL1201171",
       "ids": {
         "appleMusic": "600870482"
+      },
+      "features": {
+        "bpm": 106.3,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -181,8 +256,14 @@
       "artist": "Jamiroquai",
       "album": "Dynamite",
       "durationMs": 301733,
+      "isrc": "GBBBN0500503",
       "ids": {
         "appleMusic": "659352165"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -190,21 +271,34 @@
       "artist": "Jamiroquai",
       "album": "Automaton",
       "durationMs": 314493,
+      "isrc": "GBUM71606643",
       "ids": {
         "appleMusic": "1440896125"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
       "title": "Runaway",
-      "artist": "Jamiroquai"
+      "artist": "Jamiroquai",
+      "isrc": "GBARL0601487"
     },
     {
       "title": "Blow Your Mind",
       "artist": "Jamiroquai",
       "album": "Emergency On Planet Earth (Remastered)",
       "durationMs": 512280,
+      "isrc": "GBARL1201201",
       "ids": {
         "appleMusic": "600870512"
+      },
+      "features": {
+        "bpm": 105.5,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -212,8 +306,14 @@
       "artist": "Jamiroquai",
       "album": "The Return of the Space Cowboy (Remastered)",
       "durationMs": 289680,
+      "isrc": "GBARL1201208",
       "ids": {
         "appleMusic": "600897215"
+      },
+      "features": {
+        "bpm": 165.4,
+        "gain": -11.7,
+        "source": "deezer"
       }
     },
     {
@@ -221,8 +321,14 @@
       "artist": "Jamiroquai",
       "album": "Automaton",
       "durationMs": 238533,
+      "isrc": "GBUM71606647",
       "ids": {
         "appleMusic": "1440896355"
+      },
+      "features": {
+        "bpm": 113.89,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -230,6 +336,7 @@
       "artist": "Jamiroquai",
       "album": "Synkronized",
       "durationMs": 268800,
+      "isrc": "GBBBL9902065",
       "ids": {
         "appleMusic": "1583958971"
       }
@@ -239,8 +346,14 @@
       "artist": "Jamiroquai",
       "album": "Emergency On Planet Earth (Remastered)",
       "durationMs": 245173,
+      "isrc": "GBARL1201199",
       "ids": {
         "appleMusic": "600870510"
+      },
+      "features": {
+        "bpm": 117.8,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -248,8 +361,14 @@
       "artist": "Jamiroquai",
       "album": "Dynamite",
       "durationMs": 295400,
+      "isrc": "GBBBN0500204",
       "ids": {
         "appleMusic": "659352129"
+      },
+      "features": {
+        "bpm": 114.5,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -257,8 +376,14 @@
       "artist": "Jamiroquai",
       "album": "Chillout Songs",
       "durationMs": 256640,
+      "isrc": "GBARL1201207",
       "ids": {
         "appleMusic": "1675541672"
+      },
+      "features": {
+        "bpm": 110,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -266,6 +391,7 @@
       "artist": "Jamiroquai",
       "album": "A Funk Odyssey",
       "durationMs": 338960,
+      "isrc": "GBBBN0102188",
       "ids": {
         "appleMusic": "203133094"
       }
@@ -275,8 +401,14 @@
       "artist": "Jamiroquai",
       "album": "Emergency On Planet Earth (Remastered)",
       "durationMs": 292667,
+      "isrc": "GBARL1201197",
       "ids": {
         "appleMusic": "600870487"
+      },
+      "features": {
+        "bpm": 110,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -293,8 +425,14 @@
       "artist": "Jamiroquai",
       "album": "Rock Dust Light Star (Bonus Track Version)",
       "durationMs": 249200,
+      "isrc": "GBUM71028415",
       "ids": {
         "appleMusic": "1440713498"
+      },
+      "features": {
+        "bpm": 164.1,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -302,21 +440,34 @@
       "artist": "Jamiroquai",
       "album": "A Funk Odyssey",
       "durationMs": 224187,
+      "isrc": "GBBBN0102224",
       "ids": {
         "appleMusic": "203133215"
       }
     },
     {
       "title": "Deeper Underground",
-      "artist": "Jamiroquai"
+      "artist": "Jamiroquai",
+      "isrc": "GBBBL9802020",
+      "features": {
+        "bpm": 104.1,
+        "gain": -12.3,
+        "source": "deezer"
+      }
     },
     {
       "title": "High Times",
       "artist": "Jamiroquai",
       "album": "Travelling Without Moving (20th Anniversary Edition) [2016 Remaster]",
       "durationMs": 360013,
+      "isrc": "GBARL1201225",
       "ids": {
         "appleMusic": "1479062426"
+      },
+      "features": {
+        "bpm": 114.84,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -324,8 +475,14 @@
       "artist": "Jamiroquai",
       "album": "Dynamite",
       "durationMs": 278240,
+      "isrc": "GBBBN0500210",
       "ids": {
         "appleMusic": "659352164"
+      },
+      "features": {
+        "bpm": 101.3,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -333,8 +490,14 @@
       "artist": "Jamiroquai",
       "album": "Rock Dust Light Star (Bonus Track Version)",
       "durationMs": 273133,
+      "isrc": "GBUM71026696",
       "ids": {
         "appleMusic": "1440713314"
+      },
+      "features": {
+        "bpm": 116.1,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -342,8 +505,14 @@
       "artist": "Jamiroquai",
       "album": "Automaton",
       "durationMs": 287960,
+      "isrc": "GBUM71606471",
       "ids": {
         "appleMusic": "1440896130"
+      },
+      "features": {
+        "bpm": 107.95,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -351,8 +520,14 @@
       "artist": "Jamiroquai",
       "album": "The Return of the Space Cowboy (Remastered)",
       "durationMs": 382000,
+      "isrc": "GBARL1201210",
       "ids": {
         "appleMusic": "600897217"
+      },
+      "features": {
+        "bpm": 182.9,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -360,6 +535,7 @@
       "artist": "Jamiroquai",
       "album": "Synkronized",
       "durationMs": 341560,
+      "isrc": "GBBBL9902050",
       "ids": {
         "appleMusic": "1583958657"
       }
@@ -369,8 +545,14 @@
       "artist": "Jamiroquai",
       "album": "Blue Skies - EP",
       "durationMs": 234613,
+      "isrc": "GBUM71024488",
       "ids": {
         "appleMusic": "1444433234"
+      },
+      "features": {
+        "bpm": 168.1,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -378,8 +560,14 @@
       "artist": "Jamiroquai",
       "album": "Emergency On Planet Earth (Remastered)",
       "durationMs": 617147,
+      "isrc": "GBARL1201202",
       "ids": {
         "appleMusic": "600870513"
+      },
+      "features": {
+        "bpm": 130.4,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -387,8 +575,14 @@
       "artist": "Jamiroquai",
       "album": "The Return of the Space Cowboy (Remastered)",
       "durationMs": 329387,
+      "isrc": "GBARL1201212",
       "ids": {
         "appleMusic": "600897219"
+      },
+      "features": {
+        "bpm": 118.1,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -396,6 +590,7 @@
       "artist": "Jamiroquai",
       "album": "Synkronized",
       "durationMs": 255400,
+      "isrc": "GBBBL9902042",
       "ids": {
         "appleMusic": "1583958658"
       }
@@ -405,8 +600,14 @@
       "artist": "Jamiroquai",
       "album": "Automaton",
       "durationMs": 271987,
+      "isrc": "GBUM71606646",
       "ids": {
         "appleMusic": "1440896352"
+      },
+      "features": {
+        "bpm": 123.05,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -414,6 +615,7 @@
       "artist": "Jamiroquai",
       "album": "A Funk Odyssey",
       "durationMs": 321427,
+      "isrc": "GBBBN0102307",
       "ids": {
         "appleMusic": "203132994"
       }
@@ -423,13 +625,20 @@
       "artist": "Jamiroquai",
       "album": "The Return of the Space Cowboy (Remastered)",
       "durationMs": 383973,
+      "isrc": "GBARL1201918",
       "ids": {
         "appleMusic": "600897222"
+      },
+      "features": {
+        "bpm": 149.3,
+        "gain": -13.7,
+        "source": "deezer"
       }
     },
     {
       "title": "Break My Heart / Cosmic Girl",
-      "artist": "Dua Lipa"
+      "artist": "Dua Lipa",
+      "isrc": "GBAHT2000696"
     },
     {
       "title": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",

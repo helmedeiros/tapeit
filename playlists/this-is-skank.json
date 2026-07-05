@@ -6,8 +6,14 @@
       "artist": "Skank",
       "album": "Skank - #1 Hits",
       "durationMs": 243933,
+      "isrc": "BRSME9800265",
       "ids": {
         "appleMusic": "588335683"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -10.7,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "Skank",
       "album": "Skank - #1 Hits",
       "durationMs": 242507,
+      "isrc": "BRSME0800577",
       "ids": {
         "appleMusic": "588335601"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -10.4,
+        "source": "deezer"
       }
     },
     {
@@ -24,23 +36,36 @@
       "artist": "Skank",
       "album": "Radiola",
       "durationMs": 240133,
+      "isrc": "BRSME0400169",
       "ids": {
         "appleMusic": "479067651"
+      },
+      "features": {
+        "bpm": 136,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
       "title": "Acima do Sol (Ao Vivo)",
       "artist": "Skank",
       "album": "Multishow Ao Vivo - Skank No Mineirão",
-      "durationMs": 312573
+      "durationMs": 312573,
+      "isrc": "BRSME1000493"
     },
     {
       "title": "Vou Deixar",
       "artist": "Skank",
       "album": "Skank - #1 Hits",
       "durationMs": 273533,
+      "isrc": "BRSME0300185",
       "ids": {
         "appleMusic": "588335606"
+      },
+      "features": {
+        "bpm": 136,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -48,8 +73,14 @@
       "artist": "Skank",
       "album": "Skank - #1 Hits",
       "durationMs": 313107,
+      "isrc": "BRSME0800571",
       "ids": {
         "appleMusic": "588335671"
+      },
+      "features": {
+        "bpm": 122,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -57,8 +88,14 @@
       "artist": "Skank",
       "album": "Algo Parecido - Single",
       "durationMs": 225019,
+      "isrc": "BRSME1801263",
       "ids": {
         "appleMusic": "1422074086"
+      },
+      "features": {
+        "bpm": 168.06,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -66,8 +103,14 @@
       "artist": "Skank",
       "album": "Calango",
       "durationMs": 250222,
+      "isrc": "BRSME9400432",
       "ids": {
         "appleMusic": "291828899"
+      },
+      "features": {
+        "bpm": 148.2,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -75,8 +118,14 @@
       "artist": "Skank",
       "album": "Skank - #1 Hits",
       "durationMs": 282067,
+      "isrc": "BRSME0300176",
       "ids": {
         "appleMusic": "588335690"
+      },
+      "features": {
+        "bpm": 154.3,
+        "gain": -10.7,
+        "source": "deezer"
       }
     },
     {
@@ -84,8 +133,14 @@
       "artist": "Skank",
       "album": "O Samba Poconé",
       "durationMs": 317400,
+      "isrc": "BRSME9600283",
       "ids": {
         "appleMusic": "471113487"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -93,8 +148,14 @@
       "artist": "Skank",
       "album": "Maquinarama",
       "durationMs": 240508,
+      "isrc": "BRSME0000227",
       "ids": {
         "appleMusic": "321760176"
+      },
+      "features": {
+        "bpm": 156,
+        "gain": -11.2,
+        "source": "deezer"
       }
     },
     {
@@ -102,8 +163,14 @@
       "artist": "Skank",
       "album": "Calango - 15 Anos",
       "durationMs": 276187,
+      "isrc": "BRSME9400437",
       "ids": {
         "appleMusic": "378307332"
+      },
+      "features": {
+        "bpm": 90.1,
+        "gain": -15.4,
+        "source": "deezer"
       }
     },
     {
@@ -117,6 +184,7 @@
       "artist": "Skank \u0026 Roberta Campos",
       "album": "Simplesmente - Single",
       "durationMs": 222987,
+      "isrc": "BRSME2001251",
       "ids": {
         "appleMusic": "1505679286"
       }
@@ -126,8 +194,14 @@
       "artist": "Skank",
       "album": "Skank - #1 Hits",
       "durationMs": 243667,
+      "isrc": "BRSME9600285",
       "ids": {
         "appleMusic": "588335757"
+      },
+      "features": {
+        "bpm": 153.7,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -135,23 +209,41 @@
       "artist": "Skank",
       "album": "Mega Hits - Skank",
       "durationMs": 252333,
+      "isrc": "BRSME0300182",
       "ids": {
         "appleMusic": "1659055684"
+      },
+      "features": {
+        "bpm": 132.1,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
       "title": "Esquecimento",
       "artist": "Skank",
       "album": "Velocia",
-      "durationMs": 277133
+      "durationMs": 277133,
+      "isrc": "BRSME1400277",
+      "features": {
+        "bpm": 186.2,
+        "gain": -10.2,
+        "source": "deezer"
+      }
     },
     {
       "title": "Três Lados",
       "artist": "Skank",
       "album": "Maquinarama",
       "durationMs": 233554,
+      "isrc": "BRSME0000173",
       "ids": {
         "appleMusic": "321760169"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -10.4,
+        "source": "deezer"
       }
     },
     {
@@ -159,8 +251,14 @@
       "artist": "Skank",
       "album": "Siderado",
       "durationMs": 227600,
+      "isrc": "BRSME9800318",
       "ids": {
         "appleMusic": "401652147"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -168,8 +266,14 @@
       "artist": "Skank",
       "album": "O Samba Poconé",
       "durationMs": 236360,
+      "isrc": "BRSME9600281",
       "ids": {
         "appleMusic": "471113477"
+      },
+      "features": {
+        "bpm": 102.6,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -177,8 +281,14 @@
       "artist": "Skank",
       "album": "Skank - #1 Hits",
       "durationMs": 299000,
+      "isrc": "BRSME9400434",
       "ids": {
         "appleMusic": "588335845"
+      },
+      "features": {
+        "bpm": 143.6,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -186,8 +296,14 @@
       "artist": "Skank",
       "album": "Skank - #1 Hits",
       "durationMs": 238533,
+      "isrc": "BRSME0100418",
       "ids": {
         "appleMusic": "588335792"
+      },
+      "features": {
+        "bpm": 140.62,
+        "gain": -11.9,
+        "source": "deezer"
       }
     },
     {
@@ -195,8 +311,14 @@
       "artist": "Skank",
       "album": "Skank - #1 Hits",
       "durationMs": 190453,
+      "isrc": "BRSME0600302",
       "ids": {
         "appleMusic": "588335927"
+      },
+      "features": {
+        "bpm": 137.8,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -204,8 +326,14 @@
       "artist": "Skank",
       "album": "Rock in Rio 2011 (Ao Vivo)",
       "durationMs": 311693,
+      "isrc": "BRMZA1200166",
       "ids": {
         "appleMusic": "538155222"
+      },
+      "features": {
+        "bpm": 140.2,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -213,8 +341,14 @@
       "artist": "Skank",
       "album": "Calango - 15 Anos",
       "durationMs": 242733,
+      "isrc": "BRSME9400442",
       "ids": {
         "appleMusic": "378307463"
+      },
+      "features": {
+        "bpm": 198.8,
+        "gain": -15,
+        "source": "deezer"
       }
     },
     {
@@ -222,8 +356,14 @@
       "artist": "Skank",
       "album": "Siderado",
       "durationMs": 242333,
+      "isrc": "BRSME9800311",
       "ids": {
         "appleMusic": "401652116"
+      },
+      "features": {
+        "bpm": 101.8,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -231,8 +371,14 @@
       "artist": "Skank",
       "album": "O Samba Poconé",
       "durationMs": 254107,
+      "isrc": "BRSME9600282",
       "ids": {
         "appleMusic": "471113478"
+      },
+      "features": {
+        "bpm": 105.5,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -240,8 +386,14 @@
       "artist": "Skank",
       "album": "O Samba Poconé: Edição Especial 20 Anos",
       "durationMs": 247893,
+      "isrc": "BRSME9600284",
       "ids": {
         "appleMusic": "1167170392"
+      },
+      "features": {
+        "bpm": 182.94,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -249,6 +401,7 @@
       "artist": "Skank",
       "album": "Calango",
       "durationMs": 158960,
+      "isrc": "BRSME9400433",
       "ids": {
         "appleMusic": "291828900"
       }
@@ -264,23 +417,41 @@
       "artist": "Skank",
       "album": "Siderado",
       "durationMs": 242067,
+      "isrc": "BRSME9800312",
       "ids": {
         "appleMusic": "401652120"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
       "title": "Ela Me Deixou",
       "artist": "Skank",
       "album": "Velocia",
-      "durationMs": 242653
+      "durationMs": 242653,
+      "isrc": "BRSME1400276",
+      "features": {
+        "bpm": 122,
+        "gain": -9.2,
+        "source": "deezer"
+      }
     },
     {
       "title": "Amolação",
       "artist": "Skank",
       "album": "Calango - 15 Anos",
       "durationMs": 155507,
+      "isrc": "BRSME9400431",
       "ids": {
         "appleMusic": "378307218"
+      },
+      "features": {
+        "bpm": 198.8,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -288,8 +459,14 @@
       "artist": "Skank",
       "album": "Skank",
       "durationMs": 234412,
+      "isrc": "BRSME9300292",
       "ids": {
         "appleMusic": "337600013"
+      },
+      "features": {
+        "bpm": 175.9,
+        "gain": -16.9,
+        "source": "deezer"
       }
     },
     {
@@ -297,8 +474,14 @@
       "artist": "Skank",
       "album": "O Samba Poconé",
       "durationMs": 245440,
+      "isrc": "BRSME9600287",
       "ids": {
         "appleMusic": "471113535"
+      },
+      "features": {
+        "bpm": 94.4,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -312,8 +495,14 @@
       "artist": "Skank",
       "album": "Skank - #1 Hits",
       "durationMs": 217000,
+      "isrc": "BRSME0800575",
       "ids": {
         "appleMusic": "588335781"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -321,8 +510,14 @@
       "artist": "Skank",
       "album": "Mega Hits - Skank",
       "durationMs": 243293,
+      "isrc": "BRSME9300317",
       "ids": {
         "appleMusic": "1659055673"
+      },
+      "features": {
+        "bpm": 181.3,
+        "gain": -18,
+        "source": "deezer"
       }
     },
     {
@@ -330,23 +525,41 @@
       "artist": "Skank",
       "album": "O Samba Poconé",
       "durationMs": 254827,
+      "isrc": "BRSME1600596",
       "ids": {
         "appleMusic": "471113581"
+      },
+      "features": {
+        "bpm": 141.1,
+        "gain": -10.4,
+        "source": "deezer"
       }
     },
     {
       "title": "Pacato Cidadão (Ao Vivo)",
       "artist": "Skank",
       "album": "Multishow Ao Vivo - Skank No Mineirão",
-      "durationMs": 239493
+      "durationMs": 239493,
+      "isrc": "BRSME1702120",
+      "features": {
+        "bpm": 99.86,
+        "gain": -9.8,
+        "source": "deezer"
+      }
     },
     {
       "title": "Uma Canção É Pra Isso",
       "artist": "Skank",
       "album": "Skank - #1 Hits",
       "durationMs": 233507,
+      "isrc": "BRSME0600273",
       "ids": {
         "appleMusic": "588336011"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -354,8 +567,14 @@
       "artist": "Skank",
       "album": "Skank",
       "durationMs": 290915,
+      "isrc": "BRSME1702114",
       "ids": {
         "appleMusic": "337600022"
+      },
+      "features": {
+        "bpm": 144.05,
+        "gain": -11.5,
+        "source": "deezer"
       }
     },
     {
@@ -363,8 +582,14 @@
       "artist": "Skank",
       "album": "O Samba Poconé",
       "durationMs": 292360,
+      "isrc": "BRSME9600288",
       "ids": {
         "appleMusic": "471113540"
+      },
+      "features": {
+        "bpm": 187.1,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -378,8 +603,14 @@
       "artist": "Skank",
       "album": "Skank",
       "durationMs": 242116,
+      "isrc": "BRSME9300324",
       "ids": {
         "appleMusic": "337600066"
+      },
+      "features": {
+        "bpm": 180.5,
+        "gain": -17,
+        "source": "deezer"
       }
     },
     {
@@ -387,8 +618,14 @@
       "artist": "Skank",
       "album": "O Samba Poconé: Edição Especial 20 Anos",
       "durationMs": 279267,
+      "isrc": "BRSME9600286",
       "ids": {
         "appleMusic": "1167170589"
+      },
+      "features": {
+        "bpm": 180.5,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -401,7 +638,13 @@
       "title": "É Proibido Fumar (Ao Vivo)",
       "artist": "Skank",
       "album": "Multishow Ao Vivo - Skank No Mineirão",
-      "durationMs": 229240
+      "durationMs": 229240,
+      "isrc": "BRMZA1200158",
+      "features": {
+        "bpm": 132.9,
+        "gain": -7.5,
+        "source": "deezer"
+      }
     }
   ]
 }

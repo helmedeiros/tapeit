@@ -6,8 +6,14 @@
       "artist": "The Black Keys",
       "album": "El Camino",
       "durationMs": 193173,
+      "isrc": "USNO11100273",
       "ids": {
         "appleMusic": "1052966684"
+      },
+      "features": {
+        "bpm": 168.1,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "Harry Styles",
       "album": "Fine Line",
       "durationMs": 173991,
+      "isrc": "USSM11912587",
       "ids": {
         "appleMusic": "1485802967"
+      },
+      "features": {
+        "bpm": 95.48,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -24,6 +36,7 @@
       "artist": "The Black Keys",
       "album": "Brothers (Deluxe Remastered Anniversary Edition)",
       "durationMs": 191956,
+      "isrc": "USNO12000174",
       "ids": {
         "appleMusic": "1542588734"
       }
@@ -33,6 +46,7 @@
       "artist": "The Black Keys",
       "album": "Dropout Boogie",
       "durationMs": 164867,
+      "isrc": "USNO12200033",
       "ids": {
         "appleMusic": "1611850616"
       }
@@ -42,8 +56,14 @@
       "artist": "The Hives",
       "album": "Veni Vidi Vicious",
       "durationMs": 200693,
+      "isrc": "SEVHC0007060",
       "ids": {
         "appleMusic": "1485028050"
+      },
+      "features": {
+        "bpm": 135.11,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -51,6 +71,7 @@
       "artist": "Jonas Brothers",
       "album": "Happiness Begins",
       "durationMs": 181033,
+      "isrc": "USUG11900515",
       "ids": {
         "appleMusic": "1461478389"
       }
@@ -60,8 +81,14 @@
       "artist": "Post Malone \u0026 Swae Lee",
       "album": "Hollywood's Bleeding",
       "durationMs": 157559,
+      "isrc": "USUM71814888",
       "ids": {
         "appleMusic": "1477880764"
+      },
+      "features": {
+        "bpm": 179.76,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -69,23 +96,41 @@
       "artist": "Maroon 5",
       "album": "Best Valentine's Day 2022",
       "durationMs": 234827,
+      "isrc": "USUM71410340",
       "ids": {
         "appleMusic": "1609326678"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
       "title": "Last Nite",
       "artist": "The Strokes",
       "album": "Is This It",
-      "durationMs": 193507
+      "durationMs": 193507,
+      "isrc": "USRC10100765",
+      "features": {
+        "bpm": 103.9,
+        "gain": -9.3,
+        "source": "deezer"
+      }
     },
     {
       "title": "Humility (feat. George Benson)",
       "artist": "Gorillaz",
       "album": "The Now Now",
       "durationMs": 197933,
+      "isrc": "GBAYE1800407",
       "ids": {
         "appleMusic": "1387814980"
+      },
+      "features": {
+        "bpm": 160.25,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -93,8 +138,14 @@
       "artist": "AC/DC",
       "album": "The Razors Edge",
       "durationMs": 292334,
+      "isrc": "AUAP09000014",
       "ids": {
         "appleMusic": "574051407"
+      },
+      "features": {
+        "bpm": 133.4,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -102,8 +153,14 @@
       "artist": "Red Hot Chili Peppers",
       "album": "Rock music for the road",
       "durationMs": 269000,
+      "isrc": "USWB10201694",
       "ids": {
         "appleMusic": "6784168287"
+      },
+      "features": {
+        "bpm": 182.9,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -111,8 +168,14 @@
       "artist": "James Corden",
       "album": "Smallfoot (Original Motion Picture Soundtrack) [Deluxe Edition]",
       "durationMs": 135893,
+      "isrc": "USNLR1800592",
       "ids": {
         "appleMusic": "1455571043"
+      },
+      "features": {
+        "bpm": 113.89,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -120,8 +183,14 @@
       "artist": "Katy Perry",
       "album": "Teenage Dream (Deluxe)",
       "durationMs": 227893,
+      "isrc": "USCA21001262",
       "ids": {
         "appleMusic": "1013032034"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -129,8 +198,14 @@
       "artist": "Justin Timberlake",
       "album": "Feel Good Friday",
       "durationMs": 237227,
+      "isrc": "USRC11600876",
       "ids": {
         "appleMusic": "1441343697"
+      },
+      "features": {
+        "bpm": 112.96,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -138,6 +213,7 @@
       "artist": "John Mayer",
       "album": "Sob Rock",
       "durationMs": 217430,
+      "isrc": "USSM11806100",
       "ids": {
         "appleMusic": "1568819309"
       }
@@ -147,8 +223,14 @@
       "artist": "Franz Ferdinand",
       "album": "Franz Ferdinand",
       "durationMs": 237027,
+      "isrc": "GBCEL0300192",
       "ids": {
         "appleMusic": "315844084"
+      },
+      "features": {
+        "bpm": 104.4,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -156,8 +238,14 @@
       "artist": "Arctic Monkeys",
       "album": "AM",
       "durationMs": 272394,
+      "isrc": "GBCEL1300362",
       "ids": {
         "appleMusic": "663097965"
+      },
+      "features": {
+        "bpm": 84.89,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -165,6 +253,7 @@
       "artist": "The Black Keys",
       "album": "Let's Rock",
       "durationMs": 177768,
+      "isrc": "USNO11900029",
       "ids": {
         "appleMusic": "1459700593"
       }
@@ -174,8 +263,14 @@
       "artist": "Weezer",
       "album": "Weezer (Green Album)",
       "durationMs": 200307,
+      "isrc": "USIR10110358",
       "ids": {
         "appleMusic": "1440868258"
+      },
+      "features": {
+        "bpm": 114.5,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -183,23 +278,41 @@
       "artist": "Gorillaz",
       "album": "Rock music for the road",
       "durationMs": 222640,
+      "isrc": "GBAYE0500172",
       "ids": {
         "appleMusic": "6784168006"
+      },
+      "features": {
+        "bpm": 138.3,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
       "title": "Song 2 (2012 Remaster)",
       "artist": "Blur",
       "album": "Blur",
-      "durationMs": 121160
+      "durationMs": 121160,
+      "isrc": "GBAYE1200348",
+      "features": {
+        "bpm": 130,
+        "gain": -8.7,
+        "source": "deezer"
+      }
     },
     {
       "title": "Supermassive Black Hole",
       "artist": "Muse",
       "album": "Supermassive Black Hole - Single",
       "durationMs": 212440,
+      "isrc": "GBAHT0500593",
       "ids": {
         "appleMusic": "317961309"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -216,6 +329,7 @@
       "artist": "Cage the Elephant",
       "album": "Cage The Elephant",
       "durationMs": 175493,
+      "isrc": "GBGLM0700133",
       "ids": {
         "appleMusic": "1558444362"
       }
@@ -225,6 +339,7 @@
       "artist": "Wet Leg",
       "album": "Wet Leg",
       "durationMs": 140080,
+      "isrc": "GBCEL2100487",
       "ids": {
         "appleMusic": "1594742877"
       }
@@ -234,8 +349,14 @@
       "artist": "Jet",
       "album": "Get Born (Deluxe Edition)",
       "durationMs": 213800,
+      "isrc": "USEE11200795",
       "ids": {
         "appleMusic": "1778048261"
+      },
+      "features": {
+        "bpm": 104.93,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
@@ -243,6 +364,7 @@
       "artist": "The White Stripes",
       "album": "Seven Nation Army - Single",
       "durationMs": 232627,
+      "isrc": "USVT10300001",
       "ids": {
         "appleMusic": "1543262843"
       }
@@ -252,8 +374,14 @@
       "artist": "The Beatles",
       "album": "The Beatles 1967-1970 (The Blue Album)",
       "durationMs": 187373,
+      "isrc": "DEU240803731",
       "ids": {
         "appleMusic": "1441133289"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -15.3,
+        "source": "deezer"
       }
     },
     {
@@ -261,8 +389,14 @@
       "artist": "The Black Keys",
       "album": "El Camino",
       "durationMs": 224333,
+      "isrc": "USNO11100275",
       "ids": {
         "appleMusic": "1052966702"
+      },
+      "features": {
+        "bpm": 130.4,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -270,23 +404,41 @@
       "artist": "Channing Tatum",
       "album": "Smallfoot (Original Motion Picture Soundtrack) [Deluxe Edition]",
       "durationMs": 153427,
+      "isrc": "USNLR1800590",
       "ids": {
         "appleMusic": "1455571040"
+      },
+      "features": {
+        "bpm": 99.86,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
       "title": "Someday",
       "artist": "The Strokes",
       "album": "Is This It",
-      "durationMs": 183573
+      "durationMs": 183573,
+      "isrc": "USRC10100769",
+      "features": {
+        "bpm": 106,
+        "gain": -10.5,
+        "source": "deezer"
+      }
     },
     {
       "title": "3 Nights",
       "artist": "Dominic Fike",
       "album": "Don't Forget About Me, Demos",
       "durationMs": 177667,
+      "isrc": "USQX91802455",
       "ids": {
         "appleMusic": "1494065957"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -294,8 +446,14 @@
       "artist": "One Direction",
       "album": "Made In The A.M. (Deluxe Edition)",
       "durationMs": 192112,
+      "isrc": "GBHMU1500070",
       "ids": {
         "appleMusic": "1040171616"
+      },
+      "features": {
+        "bpm": 137.8,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -303,6 +461,7 @@
       "artist": "Harry Styles",
       "album": "Fine Line",
       "durationMs": 208917,
+      "isrc": "USSM11912586",
       "ids": {
         "appleMusic": "1485802966"
       }
@@ -312,8 +471,14 @@
       "artist": "Zendaya",
       "album": "Smallfoot (Original Motion Picture Soundtrack) [Deluxe Edition]",
       "durationMs": 190507,
+      "isrc": "USNLR1800591",
       "ids": {
         "appleMusic": "1455571042"
+      },
+      "features": {
+        "bpm": 102.85,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -321,8 +486,14 @@
       "artist": "Caravan Palace",
       "album": "\u003cI°_°I\u003e",
       "durationMs": 229805,
+      "isrc": "FR89R1500001",
       "ids": {
         "appleMusic": "1005692215"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -330,8 +501,14 @@
       "artist": "Maroon 5",
       "album": "V (Deluxe)",
       "durationMs": 190108,
+      "isrc": "USUM71407116",
       "ids": {
         "appleMusic": "1422651836"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -339,8 +516,14 @@
       "artist": "The Killers",
       "album": "Hot Fuss",
       "durationMs": 222973,
+      "isrc": "USIR20400274",
       "ids": {
         "appleMusic": "1526194192"
+      },
+      "features": {
+        "bpm": 148.2,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -348,21 +531,34 @@
       "artist": "Niall Horan",
       "album": "Smallfoot (Original Motion Picture Soundtrack) [Deluxe Edition]",
       "durationMs": 204320,
+      "isrc": "USUG11801366",
       "ids": {
         "appleMusic": "1455571889"
+      },
+      "features": {
+        "bpm": 123.41,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
       "title": "Queen of California",
       "artist": "John Mayer",
       "album": "Born and Raised",
-      "durationMs": 249308
+      "durationMs": 249308,
+      "isrc": "USSM11201476",
+      "features": {
+        "bpm": 166,
+        "gain": -10.9,
+        "source": "deezer"
+      }
     },
     {
       "title": "Virtual Insanity (Remastered 2006)",
       "artist": "Jamiroquai",
       "album": "Driving Songs",
       "durationMs": 229360,
+      "isrc": "GBARL0601475",
       "ids": {
         "appleMusic": "1675554596"
       }
@@ -372,8 +568,14 @@
       "artist": "Gorillaz",
       "album": "Plastic Beach",
       "durationMs": 233867,
+      "isrc": "GBAYE1000010",
       "ids": {
         "appleMusic": "850569480"
+      },
+      "features": {
+        "bpm": 120.5,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -381,8 +583,14 @@
       "artist": "One Direction",
       "album": "Up All Night (The Souvenir Edition)",
       "durationMs": 199987,
+      "isrc": "GBHMU1100018",
       "ids": {
         "appleMusic": "505055781"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -390,8 +598,14 @@
       "artist": "Sublime",
       "album": "Sublime",
       "durationMs": 182747,
+      "isrc": "USGA19649253",
       "ids": {
         "appleMusic": "1440839501"
+      },
+      "features": {
+        "bpm": 181.33,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -399,8 +613,14 @@
       "artist": "John Mayer",
       "album": "XO - Single",
       "durationMs": 213627,
+      "isrc": "USSM11403983",
       "ids": {
         "appleMusic": "881555976"
+      },
+      "features": {
+        "bpm": 173.7,
+        "gain": -12.3,
+        "source": "deezer"
       }
     },
     {
@@ -408,8 +628,14 @@
       "artist": "Harry Styles",
       "album": "Fine Line",
       "durationMs": 207140,
+      "isrc": "USSM11912588",
       "ids": {
         "appleMusic": "1485802970"
+      },
+      "features": {
+        "bpm": 98.91,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -417,8 +643,14 @@
       "artist": "My Chemical Romance",
       "album": "The Black Parade",
       "durationMs": 161920,
+      "isrc": "USRE10602912",
       "ids": {
         "appleMusic": "1156310784"
+      },
+      "features": {
+        "bpm": 113.58,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -426,8 +658,14 @@
       "artist": "Blur",
       "album": "The Magic Whip",
       "durationMs": 299134,
+      "isrc": "GBAYE1500264",
       "ids": {
         "appleMusic": "966943230"
+      },
+      "features": {
+        "bpm": 140.1,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -435,8 +673,14 @@
       "artist": "John Mayer",
       "album": "Continuum",
       "durationMs": 241947,
+      "isrc": "USSM10603632",
       "ids": {
         "appleMusic": "184335793"
+      },
+      "features": {
+        "bpm": 134.2,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
@@ -444,8 +688,14 @@
       "artist": "Jonas Brothers",
       "album": "What a Man Gotta Do - Single",
       "durationMs": 180645,
+      "isrc": "USUG11904422",
       "ids": {
         "appleMusic": "1494739484"
+      },
+      "features": {
+        "bpm": 112.96,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -453,6 +703,7 @@
       "artist": "Caravan Palace",
       "album": "Miracle - Single",
       "durationMs": 216224,
+      "isrc": "FR9W11827929",
       "ids": {
         "appleMusic": "1450509307"
       }
@@ -462,8 +713,14 @@
       "artist": "Cyn",
       "album": "Smallfoot (Original Motion Picture Soundtrack) [Deluxe Edition]",
       "durationMs": 230360,
+      "isrc": "USNLR1800595",
       "ids": {
         "appleMusic": "1455571887"
+      },
+      "features": {
+        "bpm": 104.93,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -471,8 +728,14 @@
       "artist": "Niall Horan",
       "album": "Nice to Meet Ya - Single",
       "durationMs": 158805,
+      "isrc": "USUG11902961",
       "ids": {
         "appleMusic": "1481119175"
+      },
+      "features": {
+        "bpm": 109.09,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -480,8 +743,14 @@
       "artist": "Channing Tatum \u0026 Zendaya",
       "album": "Smallfoot (Original Motion Picture Soundtrack) [Deluxe Edition]",
       "durationMs": 132173,
+      "isrc": "USNLR1800593",
       "ids": {
         "appleMusic": "1455571044"
+      },
+      "features": {
+        "bpm": 109.96,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -489,8 +758,14 @@
       "artist": "Justin Bieber",
       "album": "Purpose (Deluxe)",
       "durationMs": 200790,
+      "isrc": "USUM71516760",
       "ids": {
         "appleMusic": "1440829610"
+      },
+      "features": {
+        "bpm": 99.86,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -498,8 +773,14 @@
       "artist": "Ed Sheeran",
       "album": "÷ (Deluxe)",
       "durationMs": 233713,
+      "isrc": "GBAHS1600463",
       "ids": {
         "appleMusic": "1193700923"
+      },
+      "features": {
+        "bpm": 95.93,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -507,8 +788,14 @@
       "artist": "Common",
       "album": "Smallfoot (Original Motion Picture Soundtrack) [Deluxe Edition]",
       "durationMs": 312987,
+      "isrc": "USNLR1800594",
       "ids": {
         "appleMusic": "1455571045"
+      },
+      "features": {
+        "bpm": 153.69,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -516,8 +803,14 @@
       "artist": "Justin Bieber",
       "album": "Purpose (Deluxe)",
       "durationMs": 205676,
+      "isrc": "USUM71511919",
       "ids": {
         "appleMusic": "1440829606"
+      },
+      "features": {
+        "bpm": 124.91,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -525,6 +818,7 @@
       "artist": "Hozier",
       "album": "Unheard - EP",
       "durationMs": 251424,
+      "isrc": "IEACJ2300335",
       "ids": {
         "appleMusic": "1733904814"
       }
@@ -534,8 +828,14 @@
       "artist": "John Mayer",
       "album": "The Search for Everything",
       "durationMs": 212320,
+      "isrc": "USSM11609513",
       "ids": {
         "appleMusic": "1224353031"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -10.4,
+        "source": "deezer"
       }
     },
     {
@@ -543,8 +843,14 @@
       "artist": "Blaze n Vill",
       "album": "The Lego Ninjago Movie (Original Motion Picture Soundtrack)",
       "durationMs": 206347,
+      "isrc": "USNLR1700877",
       "ids": {
         "appleMusic": "1455520198"
+      },
+      "features": {
+        "bpm": 126.05,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -552,6 +858,7 @@
       "artist": "The Raconteurs",
       "album": "Broken Boy Soldiers",
       "durationMs": 215267,
+      "isrc": "USVT10600052",
       "ids": {
         "appleMusic": "1552875311"
       }
@@ -561,6 +868,7 @@
       "artist": "The Black Keys",
       "album": "Dropout Boogie",
       "durationMs": 228533,
+      "isrc": "USNO12200034",
       "ids": {
         "appleMusic": "1611850620"
       }
@@ -570,6 +878,7 @@
       "artist": "John Mayer",
       "album": "Sob Rock",
       "durationMs": 159134,
+      "isrc": "USSM11905957",
       "ids": {
         "appleMusic": "1568819888"
       }
@@ -579,6 +888,7 @@
       "artist": "John Mayer",
       "album": "Sob Rock",
       "durationMs": 286387,
+      "isrc": "USSM11900959",
       "ids": {
         "appleMusic": "1568819314"
       }
@@ -588,8 +898,14 @@
       "artist": "Tame Impala",
       "album": "Lonerism",
       "durationMs": 211027,
+      "isrc": "AUUM71200495",
       "ids": {
         "appleMusic": "1440826312"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -597,6 +913,7 @@
       "artist": "Jamiroquai",
       "album": "A Funk Odyssey",
       "durationMs": 295400,
+      "isrc": "GBBBN0102227",
       "ids": {
         "appleMusic": "203132999"
       }
@@ -606,23 +923,41 @@
       "artist": "Post Malone",
       "album": "Hollywood's Bleeding",
       "durationMs": 215280,
+      "isrc": "USUM71915699",
       "ids": {
         "appleMusic": "1477887285"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
       "title": "Fever",
       "artist": "The Black Keys",
       "album": "Turn Blue",
-      "durationMs": 246314
+      "durationMs": 246314,
+      "isrc": "USNO11400180",
+      "features": {
+        "bpm": 127.6,
+        "gain": -9.3,
+        "source": "deezer"
+      }
     },
     {
       "title": "There's Nothing Holdin' Me Back",
       "artist": "Shawn Mendes",
       "album": "Illuminate (Deluxe)",
       "durationMs": 199432,
+      "isrc": "USUM71705516",
       "ids": {
         "appleMusic": "1440892573"
+      },
+      "features": {
+        "bpm": 121.96,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -630,8 +965,14 @@
       "artist": "DNCE",
       "album": "SWAAY - EP",
       "durationMs": 218451,
+      "isrc": "USUM71514637",
       "ids": {
         "appleMusic": "1442966499"
+      },
+      "features": {
+        "bpm": 119.15,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -639,8 +980,14 @@
       "artist": "Queens of the Stone Age",
       "album": "Songs For The Deaf",
       "durationMs": 278747,
+      "isrc": "USIR10211291",
       "ids": {
         "appleMusic": "1440910536"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -648,6 +995,7 @@
       "artist": "Us The Duo",
       "album": "No Matter Where You Are",
       "durationMs": 178829,
+      "isrc": "USUM71405855",
       "ids": {
         "appleMusic": "1440853266"
       }
@@ -657,8 +1005,14 @@
       "artist": "Daryl Hall \u0026 John Oates",
       "album": "Voices",
       "durationMs": 190627,
+      "isrc": "USRC10301828",
       "ids": {
         "appleMusic": "217764773"
+      },
+      "features": {
+        "bpm": 167.38,
+        "gain": -17.4,
+        "source": "deezer"
       }
     },
     {
@@ -666,8 +1020,14 @@
       "artist": "The Vines",
       "album": "Get Free - EP",
       "durationMs": 127987,
+      "isrc": "USCA20200462",
       "ids": {
         "appleMusic": "724219595"
+      },
+      "features": {
+        "bpm": 138.7,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
@@ -675,6 +1035,7 @@
       "artist": "Wet Leg",
       "album": "Wet Leg",
       "durationMs": 196905,
+      "isrc": "GBCEL2100271",
       "ids": {
         "appleMusic": "1594742873"
       }
@@ -693,8 +1054,14 @@
       "artist": "John Mayer",
       "album": "Room for Squares",
       "durationMs": 249627,
+      "isrc": "USSM10412048",
       "ids": {
         "appleMusic": "283699774"
+      },
+      "features": {
+        "bpm": 95.04,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -702,23 +1069,41 @@
       "artist": "Jack Johnson",
       "album": "In Between Dreams (Bonus Track Version)",
       "durationMs": 207679,
+      "isrc": "USMC60400027",
       "ids": {
         "appleMusic": "1440857786"
+      },
+      "features": {
+        "bpm": 109.96,
+        "gain": -11.6,
+        "source": "deezer"
       }
     },
     {
       "title": "Reptilia",
       "artist": "The Strokes",
       "album": "Room On Fire",
-      "durationMs": 219827
+      "durationMs": 219827,
+      "isrc": "USRC10301519",
+      "features": {
+        "bpm": 157.8,
+        "gain": -8.2,
+        "source": "deezer"
+      }
     },
     {
       "title": "Uptown Funk (feat. Bruno Mars)",
       "artist": "Mark Ronson",
       "album": "Wedding Reception Party-Pleasers",
       "durationMs": 270627,
+      "isrc": "GBARL1401524",
       "ids": {
         "appleMusic": "1090310821"
+      },
+      "features": {
+        "bpm": 114.8,
+        "gain": -11.9,
+        "source": "deezer"
       }
     },
     {
@@ -726,8 +1111,14 @@
       "artist": "Blur",
       "album": "13 (Special Edition)",
       "durationMs": 358773,
+      "isrc": "GBAYE9900133",
       "ids": {
         "appleMusic": "731972327"
+      },
+      "features": {
+        "bpm": 121.6,
+        "gain": -11.1,
+        "source": "deezer"
       }
     },
     {
@@ -735,6 +1126,7 @@
       "artist": "Surfaces",
       "album": "Sunday Best (Japan Exclusive)",
       "durationMs": 158639,
+      "isrc": "TCAEA1802695",
       "ids": {
         "appleMusic": "1711446267"
       }
@@ -744,8 +1136,14 @@
       "artist": "B.E.R.",
       "album": "The Night Begins to Shine - Single",
       "durationMs": 210510,
+      "isrc": "USXFD1500002",
       "ids": {
         "appleMusic": "1054197751"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -753,8 +1151,14 @@
       "artist": "Red Hot Chili Peppers",
       "album": "Flashback 10s",
       "durationMs": 282400,
+      "isrc": "USWB11101940",
       "ids": {
         "appleMusic": "1625690617"
+      },
+      "features": {
+        "bpm": 107.4,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -762,8 +1166,14 @@
       "artist": "Justin Bieber",
       "album": "Purpose",
       "durationMs": 233719,
+      "isrc": "USUM71516761",
       "ids": {
         "appleMusic": "1440826328"
+      },
+      "features": {
+        "bpm": 99.86,
+        "gain": -11.6,
+        "source": "deezer"
       }
     },
     {
@@ -771,8 +1181,14 @@
       "artist": "The Fratellis",
       "album": "Costello Music",
       "durationMs": 215307,
+      "isrc": "GBUM70601571",
       "ids": {
         "appleMusic": "1440783311"
+      },
+      "features": {
+        "bpm": 77.3,
+        "gain": -6.3,
+        "source": "deezer"
       }
     },
     {
@@ -780,8 +1196,14 @@
       "artist": "Foo Fighters",
       "album": "Greatest Hits",
       "durationMs": 249987,
+      "isrc": "USRW29600011",
       "ids": {
         "appleMusic": "334812013"
+      },
+      "features": {
+        "bpm": 157.8,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -789,8 +1211,14 @@
       "artist": "OneRepublic",
       "album": "The Collection",
       "durationMs": 256947,
+      "isrc": "USUM71301306",
       "ids": {
         "appleMusic": "1822898484"
+      },
+      "features": {
+        "bpm": 122,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -798,6 +1226,7 @@
       "artist": "Benson Boone",
       "album": "Beautiful Things - Single",
       "durationMs": 180304,
+      "isrc": "USWB12307016",
       "ids": {
         "appleMusic": "1724488124"
       }
@@ -807,8 +1236,14 @@
       "artist": "WALK THE MOON",
       "album": "Happiness Forever",
       "durationMs": 197720,
+      "isrc": "USRC11401949",
       "ids": {
         "appleMusic": "1030799478"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -825,6 +1260,7 @@
       "artist": "Sabrina Carpenter",
       "album": "Man’s Best Friend",
       "durationMs": 213646,
+      "isrc": "USUM72504354",
       "ids": {
         "appleMusic": "1836002447"
       }
@@ -834,6 +1270,7 @@
       "artist": "311",
       "album": "Greatest Hits '93-'03",
       "durationMs": 211080,
+      "isrc": "QM6XS2001556",
       "ids": {
         "appleMusic": "258517612"
       }
@@ -843,8 +1280,14 @@
       "artist": "Survivor",
       "album": "80s 100 Hits",
       "durationMs": 227364,
+      "isrc": "USVR10400292",
       "ids": {
         "appleMusic": "355893427"
+      },
+      "features": {
+        "bpm": 108.8,
+        "gain": -15.6,
+        "source": "deezer"
       }
     },
     {
@@ -852,8 +1295,14 @@
       "artist": "a-ha",
       "album": "Hunting High and Low (Deluxe Edition)",
       "durationMs": 228520,
+      "isrc": "USWB11001110",
       "ids": {
         "appleMusic": "380907765"
+      },
+      "features": {
+        "bpm": 169.4,
+        "gain": -12.5,
+        "source": "deezer"
       }
     },
     {
@@ -861,8 +1310,14 @@
       "artist": "Beck",
       "album": "Mellow Gold",
       "durationMs": 235000,
+      "isrc": "USGF19463401",
       "ids": {
         "appleMusic": "1440636710"
+      },
+      "features": {
+        "bpm": 170.84,
+        "gain": -14.5,
+        "source": "deezer"
       }
     },
     {
@@ -870,6 +1325,7 @@
       "artist": "The Black Keys",
       "album": "Brothers (Deluxe Remastered Anniversary Edition)",
       "durationMs": 211336,
+      "isrc": "USNO12000172",
       "ids": {
         "appleMusic": "1542588732"
       }
@@ -879,21 +1335,34 @@
       "artist": "The Strokes",
       "album": "You Only Live Once - Single",
       "durationMs": 188693,
+      "isrc": "USRC10503559",
       "ids": {
         "appleMusic": "456860972"
+      },
+      "features": {
+        "bpm": 120.5,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
       "title": "Fluorescent Adolescent",
       "artist": "Arctic Monkeys",
       "album": "Favourite Worst Nightmare",
-      "durationMs": 177534
+      "durationMs": 177534,
+      "isrc": "GBCEL0700067",
+      "features": {
+        "bpm": 112.04,
+        "gain": -9,
+        "source": "deezer"
+      }
     },
     {
       "title": "I Ain't Worried",
       "artist": "OneRepublic",
       "album": "Artificial Paradise (Deluxe)",
       "durationMs": 148486,
+      "isrc": "USUM72206227",
       "ids": {
         "appleMusic": "1754637010"
       }
@@ -903,6 +1372,7 @@
       "artist": "Chappell Roan",
       "album": "Good Luck, Babe! - Single",
       "durationMs": 218424,
+      "isrc": "USUG12401967",
       "ids": {
         "appleMusic": "1737497080"
       }
@@ -912,6 +1382,7 @@
       "artist": "Jamiroquai",
       "album": "Simping Songs",
       "durationMs": 244147,
+      "isrc": "GBARL1201221",
       "ids": {
         "appleMusic": "1615647199"
       }
@@ -921,8 +1392,14 @@
       "artist": "Caravan Palace",
       "album": "\u003cI°_°I\u003e",
       "durationMs": 190554,
+      "isrc": "FR89R1500005",
       "ids": {
         "appleMusic": "1005692953"
+      },
+      "features": {
+        "bpm": 103.9,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -930,8 +1407,14 @@
       "artist": "One Direction",
       "album": "Midnight Memories (Deluxe Edition)",
       "durationMs": 200107,
+      "isrc": "GBHMU1300102",
       "ids": {
         "appleMusic": "695318301"
+      },
+      "features": {
+        "bpm": 118.5,
+        "gain": -6.1,
+        "source": "deezer"
       }
     },
     {
@@ -939,8 +1422,14 @@
       "artist": "Gorillaz",
       "album": "Il Ragazzo Invisibile (Colonna Sonora Originale)",
       "durationMs": 343480,
+      "isrc": "GBAYE0001408",
       "ids": {
         "appleMusic": "939589925"
+      },
+      "features": {
+        "bpm": 168.1,
+        "gain": -11.6,
+        "source": "deezer"
       }
     },
     {
@@ -948,8 +1437,14 @@
       "artist": "One Direction",
       "album": "FOUR (The Ultimate Edition)",
       "durationMs": 228138,
+      "isrc": "GBHMU1400159",
       "ids": {
         "appleMusic": "914556572"
+      },
+      "features": {
+        "bpm": 154.3,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -957,6 +1452,7 @@
       "artist": "Queens of the Stone Age",
       "album": "Villains",
       "durationMs": 274282,
+      "isrc": "USMTD1709778",
       "ids": {
         "appleMusic": "1586489509"
       }
@@ -966,8 +1462,14 @@
       "artist": "One Direction",
       "album": "Midnight Memories",
       "durationMs": 245493,
+      "isrc": "GBHMU1300210",
       "ids": {
         "appleMusic": "695312371"
+      },
+      "features": {
+        "bpm": 120.9,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -975,8 +1477,14 @@
       "artist": "blink-182",
       "album": "Enema of the State",
       "durationMs": 148366,
+      "isrc": "USMC19959007",
       "ids": {
         "appleMusic": "1444118643"
+      },
+      "features": {
+        "bpm": 157.2,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -984,8 +1492,14 @@
       "artist": "Donavon Frankenreiter",
       "album": "Donavon Frankenreiter",
       "durationMs": 148600,
+      "isrc": "USUR10400016",
       "ids": {
         "appleMusic": "1440779845"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -993,6 +1507,7 @@
       "artist": "Radiohead",
       "album": "Creep - EP",
       "durationMs": 258640,
+      "isrc": "GBAYE9300465",
       "ids": {
         "appleMusic": "1679849823"
       }
@@ -1002,8 +1517,14 @@
       "artist": "American Authors",
       "album": "Oh, What a Life",
       "durationMs": 194239,
+      "isrc": "USUM71302187",
       "ids": {
         "appleMusic": "1443219769"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -6.4,
+        "source": "deezer"
       }
     },
     {
@@ -1011,6 +1532,7 @@
       "artist": "Vampire Weekend",
       "album": "Vampire Weekend",
       "durationMs": 137760,
+      "isrc": "GBBKS0700527",
       "ids": {
         "appleMusic": "271489744"
       }
@@ -1029,8 +1551,14 @@
       "artist": "The Strokes",
       "album": "Under Cover of Darkness - Single",
       "durationMs": 235613,
+      "isrc": "USRC11100031",
       "ids": {
         "appleMusic": "418886318"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -1038,6 +1566,7 @@
       "artist": "Dua Lipa",
       "album": "Don't Start Now - Single",
       "durationMs": 183290,
+      "isrc": "GBAHT1901121",
       "ids": {
         "appleMusic": "1484322135"
       }
@@ -1047,6 +1576,7 @@
       "artist": "The Black Keys",
       "album": "Dropout Boogie",
       "durationMs": 211200,
+      "isrc": "USNO12200035",
       "ids": {
         "appleMusic": "1611850621"
       }
@@ -1056,6 +1586,7 @@
       "artist": "Marshmello \u0026 Jonas Brothers",
       "album": "Leave Before You Love Me - Single",
       "durationMs": 154983,
+      "isrc": "USUG12102313",
       "ids": {
         "appleMusic": "1568213204"
       }

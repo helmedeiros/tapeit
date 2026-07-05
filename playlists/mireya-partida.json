@@ -15,6 +15,7 @@
       "artist": "Meghan Trainor",
       "album": "Mother's Day Songs",
       "durationMs": 187893,
+      "isrc": "USSM12410059",
       "ids": {
         "appleMusic": "1351343202"
       }
@@ -24,8 +25,14 @@
       "artist": "Maroon 5",
       "album": "V (Deluxe)",
       "durationMs": 231079,
+      "isrc": "USUM71409576",
       "ids": {
         "appleMusic": "1422651844"
+      },
+      "features": {
+        "bpm": 95.04,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +49,14 @@
       "artist": "Clean Bandit",
       "album": "Rather Be (feat. Jess Glynne)",
       "durationMs": 227833,
+      "isrc": "GBAHS1300498",
       "ids": {
         "appleMusic": "742117652"
+      },
+      "features": {
+        "bpm": 120.9,
+        "gain": -11,
+        "source": "deezer"
       }
     },
     {
@@ -51,8 +64,14 @@
       "artist": "Maroon 5",
       "album": "V (Deluxe)",
       "durationMs": 190108,
+      "isrc": "USUM71407116",
       "ids": {
         "appleMusic": "1422651836"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +79,14 @@
       "artist": "Ed Sheeran",
       "album": "x (Wembley Edition)",
       "durationMs": 219840,
+      "isrc": "GBAHS1400090",
       "ids": {
         "appleMusic": "1049521432"
+      },
+      "features": {
+        "bpm": 95.04,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +112,14 @@
       "artist": "Ed Sheeran",
       "album": "x (Deluxe Edition)",
       "durationMs": 235382,
+      "isrc": "GBAHS1400082",
       "ids": {
         "appleMusic": "858512620"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -96,8 +127,14 @@
       "artist": "Kesha",
       "album": "Warrior (Expanded Edition)",
       "durationMs": 211920,
+      "isrc": "USRC11201008",
       "ids": {
         "appleMusic": "592364996"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -105,6 +142,7 @@
       "artist": "Kesha",
       "album": "Animal (Expanded Edition)",
       "durationMs": 199693,
+      "isrc": "USRC10900433",
       "ids": {
         "appleMusic": "381237322"
       }
@@ -123,6 +161,7 @@
       "artist": "Kesha",
       "album": "Warrior (Expanded Edition)",
       "durationMs": 214307,
+      "isrc": "USRC11201135",
       "ids": {
         "appleMusic": "592364997"
       }
@@ -132,8 +171,14 @@
       "artist": "Cher Lloyd",
       "album": "R\u0026B Party",
       "durationMs": 213013,
+      "isrc": "GBHMU1100387",
       "ids": {
         "appleMusic": "1308679662"
+      },
+      "features": {
+        "bpm": 98,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -141,8 +186,14 @@
       "artist": "Fun.",
       "album": "We Are Young (feat. Janelle Monáe) - Single",
       "durationMs": 250627,
+      "isrc": "USAT21101399",
       "ids": {
         "appleMusic": "463207147"
+      },
+      "features": {
+        "bpm": 92.1,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -150,8 +201,14 @@
       "artist": "Florida Georgia Line",
       "album": "Here's To the Good Times...This Is How We Roll (Deluxe Version)",
       "durationMs": 210584,
+      "isrc": "USUM71207991",
       "ids": {
         "appleMusic": "1452858619"
+      },
+      "features": {
+        "bpm": 148.2,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -159,8 +216,14 @@
       "artist": "Fall Out Boy",
       "album": "Rock Workout",
       "durationMs": 186827,
+      "isrc": "USUM71300299",
       "ids": {
         "appleMusic": "1641580539"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -168,6 +231,7 @@
       "artist": "Fall Out Boy",
       "album": "From Under the Cork Tree",
       "durationMs": 229093,
+      "isrc": "GBCAD2500632",
       "ids": {
         "appleMusic": "1440749374"
       }
@@ -177,8 +241,14 @@
       "artist": "Hot Chelle Rae",
       "album": "Tonight Tonight - Single",
       "durationMs": 200467,
+      "isrc": "USJI11100019",
       "ids": {
         "appleMusic": "524984938"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -186,23 +256,36 @@
       "artist": "Hot Chelle Rae",
       "album": "Don't Say Goodnight - Single",
       "durationMs": 211813,
+      "isrc": "USRC11400015",
       "ids": {
         "appleMusic": "811324461"
+      },
+      "features": {
+        "bpm": 92.9,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
       "title": "Gone, Gone, Gone",
       "artist": "Phillip Phillips",
       "album": "The World from the Side of the Moon",
-      "durationMs": 209693
+      "durationMs": 209693,
+      "isrc": "QM24S2406098"
     },
     {
       "title": "Apologize",
       "artist": "OneRepublic",
       "album": "Dreaming Out Loud",
       "durationMs": 205578,
+      "isrc": "USUM70757102",
       "ids": {
         "appleMusic": "1440889785"
+      },
+      "features": {
+        "bpm": 118.1,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -210,8 +293,14 @@
       "artist": "Bruno Mars",
       "album": "Unorthodox Jukebox",
       "durationMs": 213827,
+      "isrc": "USAT21206701",
       "ids": {
         "appleMusic": "572179987"
+      },
+      "features": {
+        "bpm": 146.1,
+        "gain": -10.7,
+        "source": "deezer"
       }
     },
     {
@@ -219,8 +308,14 @@
       "artist": "Kid Rock",
       "album": "Country Boat Day",
       "durationMs": 297587,
+      "isrc": "USKWU1000391",
       "ids": {
         "appleMusic": "6784161375"
+      },
+      "features": {
+        "bpm": 102.8,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -228,6 +323,7 @@
       "artist": "Andy Grammer",
       "album": "Andy Grammer",
       "durationMs": 190480,
+      "isrc": "USKFE1000058",
       "ids": {
         "appleMusic": "1836434440"
       }
@@ -237,8 +333,14 @@
       "artist": "Rixton",
       "album": "Let the Road",
       "durationMs": 193733,
+      "isrc": "USUM71401800",
       "ids": {
         "appleMusic": "1443257264"
+      },
+      "features": {
+        "bpm": 173.7,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -246,8 +348,14 @@
       "artist": "MKTO",
       "album": "MKTO",
       "durationMs": 175427,
+      "isrc": "USSM11301446",
       "ids": {
         "appleMusic": "853842868"
+      },
+      "features": {
+        "bpm": 102.1,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -255,8 +363,14 @@
       "artist": "*NSYNC",
       "album": "*NSYNC: Greatest Hits",
       "durationMs": 199640,
+      "isrc": "USJI10000001",
       "ids": {
         "appleMusic": "254906599"
+      },
+      "features": {
+        "bpm": 172.3,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -264,8 +378,14 @@
       "artist": "P!nk",
       "album": "The Truth About Love (Fan Edition)",
       "durationMs": 242721,
+      "isrc": "USRC11200786",
       "ids": {
         "appleMusic": "576949282"
+      },
+      "features": {
+        "bpm": 95,
+        "gain": -11.1,
+        "source": "deezer"
       }
     },
     {
@@ -282,6 +402,7 @@
       "artist": "Maroon 5",
       "album": "Sing Along Bangers",
       "durationMs": 222707,
+      "isrc": "USUM71203844",
       "ids": {
         "appleMusic": "1570612189"
       }
@@ -291,6 +412,7 @@
       "artist": "Neon Trees",
       "album": "versions of you (EP)",
       "durationMs": 189146,
+      "isrc": "USUG12106016",
       "ids": {
         "appleMusic": "1597386444"
       }
@@ -300,8 +422,14 @@
       "artist": "Daughtry",
       "album": "It's Not Over.... The Hits So Far",
       "durationMs": 225815,
+      "isrc": "GBCTA1100563",
       "ids": {
         "appleMusic": "1077069444"
+      },
+      "features": {
+        "bpm": 150.9,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -309,8 +437,14 @@
       "artist": "The Script \u0026 will.i.am",
       "album": "#3",
       "durationMs": 202531,
+      "isrc": "GBARL1201055",
       "ids": {
         "appleMusic": "550298008"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -318,6 +452,7 @@
       "artist": "Ingrid Michaelson",
       "album": "Lights Out",
       "durationMs": 221533,
+      "isrc": "USVT31400002",
       "ids": {
         "appleMusic": "1511026759"
       }
@@ -327,6 +462,7 @@
       "artist": "Justin Timberlake",
       "album": "Justified",
       "durationMs": 288333,
+      "isrc": "USJI10200366",
       "ids": {
         "appleMusic": "252606592"
       }
@@ -345,8 +481,14 @@
       "artist": "Bruno Mars",
       "album": "Unorthodox Jukebox",
       "durationMs": 229625,
+      "isrc": "USAT21206100",
       "ids": {
         "appleMusic": "572179968"
+      },
+      "features": {
+        "bpm": 126,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -363,8 +505,14 @@
       "artist": "Lily Allen",
       "album": "RIP, Love",
       "durationMs": 219634,
+      "isrc": "GBAYE0802265",
       "ids": {
         "appleMusic": "1622810249"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -372,8 +520,14 @@
       "artist": "Theory of a Deadman",
       "album": "Not Meant to Be - EP",
       "durationMs": 215400,
+      "isrc": "NLA320786467",
       "ids": {
         "appleMusic": "322033916"
+      },
+      "features": {
+        "bpm": 143.1,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -381,8 +535,14 @@
       "artist": "Eamon",
       "album": "Fuck It (I Don't Want You Back) - Single",
       "durationMs": 225667,
+      "isrc": "USJI10300480",
       "ids": {
         "appleMusic": "325074060"
+      },
+      "features": {
+        "bpm": 136.9,
+        "gain": -11.6,
+        "source": "deezer"
       }
     },
     {
@@ -390,8 +550,14 @@
       "artist": "OneRepublic",
       "album": "Grateful",
       "durationMs": 253080,
+      "isrc": "USUM70999110",
       "ids": {
         "appleMusic": "1621190644"
+      },
+      "features": {
+        "bpm": 95,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -399,8 +565,14 @@
       "artist": "Jason Derulo",
       "album": "Jason Derulo",
       "durationMs": 215747,
+      "isrc": "USWB10905329",
       "ids": {
         "appleMusic": "353554373"
+      },
+      "features": {
+        "bpm": 179.8,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -408,8 +580,14 @@
       "artist": "Ashley Tisdale",
       "album": "It's Alright, It's OK - Single",
       "durationMs": 179000,
+      "isrc": "USWB10900799",
       "ids": {
         "appleMusic": "311578693"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -4.5,
+        "source": "deezer"
       }
     },
     {
@@ -417,8 +595,14 @@
       "artist": "Kristinia DeBarge",
       "album": "Exposed",
       "durationMs": 208133,
+      "isrc": "USUM70959699",
       "ids": {
         "appleMusic": "1443459643"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -426,8 +610,14 @@
       "artist": "The All-American Rejects",
       "album": "When the World Comes Down (Deluxe)",
       "durationMs": 213107,
+      "isrc": "USUM70837368",
       "ids": {
         "appleMusic": "1443815056"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -435,8 +625,14 @@
       "artist": "Gavin DeGraw",
       "album": "Finest Hour: The Best of Gavin DeGraw",
       "durationMs": 218452,
+      "isrc": "USJAY0300148",
       "ids": {
         "appleMusic": "920110151"
+      },
+      "features": {
+        "bpm": 154.8,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -444,8 +640,14 @@
       "artist": "Kelly Clarkson",
       "album": "Breakaway",
       "durationMs": 188960,
+      "isrc": "GBCTA0400231",
       "ids": {
         "appleMusic": "275765380"
+      },
+      "features": {
+        "bpm": 130.8,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -453,8 +655,14 @@
       "artist": "Glee Cast",
       "album": "Glee: The Music, The Complete Season Two",
       "durationMs": 219693,
+      "isrc": "USQX91001145",
       "ids": {
         "appleMusic": "555824424"
+      },
+      "features": {
+        "bpm": 132.1,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -462,8 +670,14 @@
       "artist": "Glee Cast",
       "album": "Glee: The Music, The Complete Season Two",
       "durationMs": 277560,
+      "isrc": "USQX91001311",
       "ids": {
         "appleMusic": "555824566"
+      },
+      "features": {
+        "bpm": 110.8,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -471,8 +685,14 @@
       "artist": "3OH!3",
       "album": "Streets of Gold (Deluxe Version)",
       "durationMs": 193267,
+      "isrc": "USAT21000648",
       "ids": {
         "appleMusic": "377809926"
+      },
+      "features": {
+        "bpm": 137.8,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -480,8 +700,14 @@
       "artist": "Madonna",
       "album": "Celebration (Deluxe Video Edition)",
       "durationMs": 189693,
+      "isrc": "USWB10903601",
       "ids": {
         "appleMusic": "329064704"
+      },
+      "features": {
+        "bpm": 113,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -498,8 +724,14 @@
       "artist": "Maroon 5",
       "album": "Hands All Over",
       "durationMs": 196707,
+      "isrc": "USUM71019656",
       "ids": {
         "appleMusic": "1440855985"
+      },
+      "features": {
+        "bpm": 117.5,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -507,8 +739,14 @@
       "artist": "Gavin DeGraw",
       "album": "Sweeter",
       "durationMs": 223787,
+      "isrc": "USRC11100298",
       "ids": {
         "appleMusic": "446901294"
+      },
+      "features": {
+        "bpm": 91.9,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -516,8 +754,14 @@
       "artist": "The Wanted",
       "album": "Word of Mouth (Deluxe Version)",
       "durationMs": 202151,
+      "isrc": "GBUM71302670",
       "ids": {
         "appleMusic": "1442613697"
+      },
+      "features": {
+        "bpm": 126,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -525,8 +769,14 @@
       "artist": "Christina Aguilera",
       "album": "Lotus (Deluxe Version)",
       "durationMs": 240164,
+      "isrc": "USRC11200994",
       "ids": {
         "appleMusic": "574633485"
+      },
+      "features": {
+        "bpm": 103.1,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -534,23 +784,41 @@
       "artist": "Christina Aguilera",
       "album": "Stripped",
       "durationMs": 245960,
+      "isrc": "USRC10201072",
       "ids": {
         "appleMusic": "279647282"
+      },
+      "features": {
+        "bpm": 94.4,
+        "gain": -6.1,
+        "source": "deezer"
       }
     },
     {
       "title": "Marry You",
       "artist": "Glee Cast",
       "album": "Glee: The Music, Volume 4",
-      "durationMs": 225133
+      "durationMs": 225133,
+      "isrc": "USQX91001293",
+      "features": {
+        "bpm": 145.1,
+        "gain": -9.8,
+        "source": "deezer"
+      }
     },
     {
       "title": "Done.",
       "artist": "The Band Perry",
       "album": "Pioneer (Deluxe)",
       "durationMs": 205265,
+      "isrc": "USUM71301697",
       "ids": {
         "appleMusic": "1442979423"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -558,8 +826,14 @@
       "artist": "Aly \u0026 AJ",
       "album": "Insomniatic",
       "durationMs": 219773,
+      "isrc": "USHR10723111",
       "ids": {
         "appleMusic": "1444199217"
+      },
+      "features": {
+        "bpm": 157.8,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -567,8 +841,14 @@
       "artist": "Glee Cast",
       "album": "Glee: The Music, The Complete Season Three",
       "durationMs": 213027,
+      "isrc": "USQX91200104",
       "ids": {
         "appleMusic": "555899726"
+      },
+      "features": {
+        "bpm": 122,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -576,6 +856,7 @@
       "artist": "Glee Cast",
       "album": "Glee: The Music, The Complete Season Three",
       "durationMs": 211800,
+      "isrc": "USQX91200050",
       "ids": {
         "appleMusic": "555899715"
       }
@@ -585,8 +866,14 @@
       "artist": "P!nk",
       "album": "M!ssundaztood (Expanded Edition)",
       "durationMs": 192533,
+      "isrc": "USAR10100717",
       "ids": {
         "appleMusic": "1459185350"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -594,8 +881,14 @@
       "artist": "P!nk",
       "album": "F**kin' Perfect (Perfect) - Single",
       "durationMs": 213720,
+      "isrc": "USLF21000091",
       "ids": {
         "appleMusic": "407367055"
+      },
+      "features": {
+        "bpm": 91.9,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -603,8 +896,14 @@
       "artist": "Glee Cast",
       "album": "Glee: The Music, Season 4 Volume 1",
       "durationMs": 263280,
+      "isrc": "USQX91202077",
       "ids": {
         "appleMusic": "578055001"
+      },
+      "features": {
+        "bpm": 108,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -630,8 +929,14 @@
       "artist": "G.R.L.",
       "album": "Ugly Heart - Single",
       "durationMs": 199580,
+      "isrc": "USRC11400627",
       "ids": {
         "appleMusic": "884162106"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -639,8 +944,14 @@
       "artist": "The Pussycat Dolls \u0026 Busta Rhymes",
       "album": "PCD (Bonus Track Version)",
       "durationMs": 272080,
+      "isrc": "USUM70503191",
       "ids": {
         "appleMusic": "1440799655"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -648,8 +959,14 @@
       "artist": "The Pussycat Dolls",
       "album": "PCD (Bonus Track Version)",
       "durationMs": 225560,
+      "isrc": "USUM70500444",
       "ids": {
         "appleMusic": "1440799984"
+      },
+      "features": {
+        "bpm": 105.2,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -657,8 +974,14 @@
       "artist": "The Pussycat Dolls",
       "album": "Doll Domination",
       "durationMs": 228333,
+      "isrc": "USUM70832594",
       "ids": {
         "appleMusic": "1450065790"
+      },
+      "features": {
+        "bpm": 130.83,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -675,8 +998,14 @@
       "artist": "The Pussycat Dolls",
       "album": "PCD Forever (Deluxe Edition)",
       "durationMs": 205520,
+      "isrc": "USUM70503119",
       "ids": {
         "appleMusic": "1894116289"
+      },
+      "features": {
+        "bpm": 153.7,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -684,8 +1013,14 @@
       "artist": "Carrie Underwood",
       "album": "Blown Away",
       "durationMs": 205233,
+      "isrc": "GBCTA1200022",
       "ids": {
         "appleMusic": "510168330"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -693,8 +1028,14 @@
       "artist": "Carrie Underwood",
       "album": "Some Hearts",
       "durationMs": 199940,
+      "isrc": "GBCTA1400025",
       "ids": {
         "appleMusic": "214696369"
+      },
+      "features": {
+        "bpm": 148.2,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -711,8 +1052,14 @@
       "artist": "Kris Allen",
       "album": "Kris Allen",
       "durationMs": 212504,
+      "isrc": "GBCTA0900188",
       "ids": {
         "appleMusic": "338323242"
+      },
+      "features": {
+        "bpm": 183.8,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -720,8 +1067,14 @@
       "artist": "Adam Lambert",
       "album": "Better Than I Know Myself - Single",
       "durationMs": 216267,
+      "isrc": "USRC11101102",
       "ids": {
         "appleMusic": "488250103"
+      },
+      "features": {
+        "bpm": 164.7,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -729,8 +1082,14 @@
       "artist": "Adam Lambert",
       "album": "Whataya Want from Me - Single",
       "durationMs": 227270,
+      "isrc": "GBCTA0900344",
       "ids": {
         "appleMusic": "362408838"
+      },
+      "features": {
+        "bpm": 186.2,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -738,8 +1097,14 @@
       "artist": "OneRepublic",
       "album": "Native (Gold Edition)",
       "durationMs": 224560,
+      "isrc": "USUM71404631",
       "ids": {
         "appleMusic": "1440854367"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -756,8 +1121,14 @@
       "artist": "LMFAO",
       "album": "Sorry for Party Rocking",
       "durationMs": 199480,
+      "isrc": "USUM71108090",
       "ids": {
         "appleMusic": "1440757093"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -5.9,
+        "source": "deezer"
       }
     },
     {
@@ -783,6 +1154,7 @@
       "artist": "Plain White T's",
       "album": "All That We Needed",
       "durationMs": 232533,
+      "isrc": "US5260507213",
       "ids": {
         "appleMusic": "1443175247"
       }
@@ -792,8 +1164,14 @@
       "artist": "Hot Chelle Rae",
       "album": "Whatever",
       "durationMs": 188200,
+      "isrc": "USRC11100786",
       "ids": {
         "appleMusic": "507907893"
+      },
+      "features": {
+        "bpm": 101.1,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -801,8 +1179,14 @@
       "artist": "Maroon 5",
       "album": "It Won't Be Soon Before Long (Deluxe Edition)",
       "durationMs": 231173,
+      "isrc": "USUM70731562",
       "ids": {
         "appleMusic": "1440752140"
+      },
+      "features": {
+        "bpm": 110,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -810,8 +1194,14 @@
       "artist": "Timbaland \u0026 Justin Timberlake",
       "album": "Pure... Pop",
       "durationMs": 241573,
+      "isrc": "USJI10600283",
       "ids": {
         "appleMusic": "555164928"
+      },
+      "features": {
+        "bpm": 117.1,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -828,8 +1218,14 @@
       "artist": "Ellie Goulding",
       "album": "Halcyon Days (Deluxe)",
       "durationMs": 286082,
+      "isrc": "GBUM71205026",
       "ids": {
         "appleMusic": "1445846012"
+      },
+      "features": {
+        "bpm": 102.8,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -846,6 +1242,7 @@
       "artist": "Tyler Ward",
       "album": "Boyfriend - Single",
       "durationMs": 188196,
+      "isrc": "GBDMT1200148",
       "ids": {
         "appleMusic": "1727564575"
       }
@@ -855,6 +1252,7 @@
       "artist": "Anthem Lights",
       "album": "Anthem Lights Covers Part II",
       "durationMs": 252557,
+      "isrc": "TCACE1547712",
       "ids": {
         "appleMusic": "731142820"
       }
@@ -864,6 +1262,7 @@
       "artist": "Anthem Lights",
       "album": "Anthem Lights Covers",
       "durationMs": 210492,
+      "isrc": "TCACE1547573",
       "ids": {
         "appleMusic": "976255468"
       }
@@ -882,8 +1281,14 @@
       "artist": "Anthem Lights",
       "album": "Covers, Pt. III",
       "durationMs": 157974,
+      "isrc": "TCABW1432260",
       "ids": {
         "appleMusic": "853848022"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -891,8 +1296,14 @@
       "artist": "Jason Derulo",
       "album": "Tattoos",
       "durationMs": 225038,
+      "isrc": "USWB11303186",
       "ids": {
         "appleMusic": "684559677"
+      },
+      "features": {
+        "bpm": 104.9,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -900,8 +1311,14 @@
       "artist": "Jason Derulo",
       "album": "Tattoos",
       "durationMs": 217303,
+      "isrc": "USWB11303249",
       "ids": {
         "appleMusic": "684559679"
+      },
+      "features": {
+        "bpm": 164.06,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -909,8 +1326,14 @@
       "artist": "5 Seconds of Summer",
       "album": "Amnesia - EP",
       "durationMs": 237631,
+      "isrc": "GBUM71401926",
       "ids": {
         "appleMusic": "1445037709"
+      },
+      "features": {
+        "bpm": 102.1,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -918,8 +1341,14 @@
       "artist": "Victorious Cast",
       "album": "Beggin' On Your Knees (feat. Victoria Justice) - Single",
       "durationMs": 194080,
+      "isrc": "USSM11101305",
       "ids": {
         "appleMusic": "427687485"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -927,8 +1356,14 @@
       "artist": "Victorious Cast",
       "album": "Freak the Freak Out (feat. Victoria Justice) - Single",
       "durationMs": 233920,
+      "isrc": "USSM11004546",
       "ids": {
         "appleMusic": "402314215"
+      },
+      "features": {
+        "bpm": 140.2,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
@@ -936,8 +1371,14 @@
       "artist": "One Direction",
       "album": "FOUR (The Ultimate Edition)",
       "durationMs": 228138,
+      "isrc": "GBHMU1400159",
       "ids": {
         "appleMusic": "914556572"
+      },
+      "features": {
+        "bpm": 154.3,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -945,8 +1386,14 @@
       "artist": "Christina Milian",
       "album": "Dip It Low - EP (int'l maxi)",
       "durationMs": 197187,
+      "isrc": "USIR20300789",
       "ids": {
         "appleMusic": "1452791016"
+      },
+      "features": {
+        "bpm": 168.8,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -954,6 +1401,7 @@
       "artist": "Amerie",
       "album": "Touch",
       "durationMs": 238726,
+      "isrc": "USSM10501285",
       "ids": {
         "appleMusic": "153437689"
       }
@@ -963,8 +1411,14 @@
       "artist": "Cherish",
       "album": "Unappreciated",
       "durationMs": 226293,
+      "isrc": "USCA20501622",
       "ids": {
         "appleMusic": "716172547"
+      },
+      "features": {
+        "bpm": 148.19,
+        "gain": -4.37,
+        "source": "deezer"
       }
     },
     {
@@ -972,8 +1426,14 @@
       "artist": "Cherish",
       "album": "Unappreciated",
       "durationMs": 235333,
+      "isrc": "USCA20600599",
       "ids": {
         "appleMusic": "716172622"
+      },
+      "features": {
+        "bpm": 153.7,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -981,8 +1441,14 @@
       "artist": "Danity Kane",
       "album": "Danity Kane",
       "durationMs": 229240,
+      "isrc": "USBB40610275",
       "ids": {
         "appleMusic": "178530615"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -10.5,
+        "source": "deezer"
       }
     },
     {
@@ -990,8 +1456,14 @@
       "artist": "Danity Kane",
       "album": "Welcome to the Dollhouse",
       "durationMs": 239147,
+      "isrc": "USAT20800937",
       "ids": {
         "appleMusic": "275502260"
+      },
+      "features": {
+        "bpm": 122,
+        "gain": -10.5,
+        "source": "deezer"
       }
     },
     {
@@ -999,8 +1471,14 @@
       "artist": "Anna Nalick",
       "album": "Wreck of the Day",
       "durationMs": 279827,
+      "isrc": "USSM10412997",
       "ids": {
         "appleMusic": "153438355"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -1008,8 +1486,14 @@
       "artist": "Natasha Bedingfield",
       "album": "Strip Me Away",
       "durationMs": 226667,
+      "isrc": "GBARL1000450",
       "ids": {
         "appleMusic": "434569800"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -1017,8 +1501,14 @@
       "artist": "Karmin",
       "album": "Hello",
       "durationMs": 227147,
+      "isrc": "USSM11200212",
       "ids": {
         "appleMusic": "517705639"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -1026,8 +1516,14 @@
       "artist": "Hilary Duff",
       "album": "All About You - Single",
       "durationMs": 162053,
+      "isrc": "USRC11401864",
       "ids": {
         "appleMusic": "907534665"
+      },
+      "features": {
+        "bpm": 157.8,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -1035,8 +1531,14 @@
       "artist": "Hilary Duff",
       "album": "Chasing the Sun",
       "durationMs": 162800,
+      "isrc": "USRC11401472",
       "ids": {
         "appleMusic": "902021157"
+      },
+      "features": {
+        "bpm": 106,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -1044,8 +1546,14 @@
       "artist": "Yael Naim",
       "album": "Yael Naim",
       "durationMs": 225106,
+      "isrc": "FR79W0700370",
       "ids": {
         "appleMusic": "1447101794"
+      },
+      "features": {
+        "bpm": 99.86,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -1053,8 +1561,14 @@
       "artist": "Natasha Bedingfield",
       "album": "Unwritten",
       "durationMs": 216360,
+      "isrc": "GBARL0400683",
       "ids": {
         "appleMusic": "1553122226"
+      },
+      "features": {
+        "bpm": 97.1,
+        "gain": -10.5,
+        "source": "deezer"
       }
     },
     {
@@ -1062,8 +1576,14 @@
       "artist": "Nelly Furtado",
       "album": "00's Mixtape",
       "durationMs": 276067,
+      "isrc": "USDW10021999",
       "ids": {
         "appleMusic": "1601504872"
+      },
+      "features": {
+        "bpm": 90.1,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -1071,8 +1591,14 @@
       "artist": "Nelly Furtado",
       "album": "Loose",
       "durationMs": 258893,
+      "isrc": "USUM70601449",
       "ids": {
         "appleMusic": "1442463828"
+      },
+      "features": {
+        "bpm": 132.9,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -1080,27 +1606,46 @@
       "artist": "Lily Allen",
       "album": "Alright, Still",
       "durationMs": 166307,
+      "isrc": "GBAYE0600642",
       "ids": {
         "appleMusic": "726141828"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
       "title": "Back to Black",
       "artist": "Amy Winehouse",
       "album": "Back to Black",
-      "durationMs": 240440
+      "durationMs": 240440,
+      "isrc": "GBUM70604698",
+      "features": {
+        "bpm": 123.4,
+        "gain": -7.8,
+        "source": "deezer"
+      }
     },
     {
       "title": "Rehab",
       "artist": "Amy Winehouse",
       "album": "Back to Black",
-      "durationMs": 213760
+      "durationMs": 213760,
+      "isrc": "GBUM70703877",
+      "features": {
+        "bpm": 145.58,
+        "gain": -8.8,
+        "source": "deezer"
+      }
     },
     {
       "title": "About Us",
       "artist": "Brooke Hogan",
       "album": "Undiscovered (Bonus Track Version)",
       "durationMs": 203347,
+      "isrc": "USDLE0600012",
       "ids": {
         "appleMusic": "715335703"
       }
@@ -1110,8 +1655,14 @@
       "artist": "Jessica Simpson",
       "album": "In This Skin (Bonus Track Version)",
       "durationMs": 191827,
+      "isrc": "USSM10308249",
       "ids": {
         "appleMusic": "271793446"
+      },
+      "features": {
+        "bpm": 190.5,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -1119,8 +1670,14 @@
       "artist": "Jessica Simpson",
       "album": "The Dukes of Hazzard (Music from the Motion Picture)",
       "durationMs": 238853,
+      "isrc": "USSM10503863",
       "ids": {
         "appleMusic": "160054956"
+      },
+      "features": {
+        "bpm": 183.8,
+        "gain": -12.6,
+        "source": "deezer"
       }
     },
     {
@@ -1128,8 +1685,14 @@
       "artist": "Ashlee Simpson",
       "album": "Autobiography",
       "durationMs": 216560,
+      "isrc": "USMC10400225",
       "ids": {
         "appleMusic": "1762087882"
+      },
+      "features": {
+        "bpm": 87,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -1137,8 +1700,14 @@
       "artist": "Ashlee Simpson",
       "album": "I Am Me",
       "durationMs": 153053,
+      "isrc": "USUM70504197",
       "ids": {
         "appleMusic": "1443807431"
+      },
+      "features": {
+        "bpm": 95.9,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -1146,8 +1715,14 @@
       "artist": "Crystal Bowersox",
       "album": "Farmer's Daughter",
       "durationMs": 249293,
+      "isrc": "GBCTA1000321",
       "ids": {
         "appleMusic": "408838244"
+      },
+      "features": {
+        "bpm": 102.8,
+        "gain": -10.4,
+        "source": "deezer"
       }
     },
     {
@@ -1164,8 +1739,14 @@
       "artist": "Emeli Sandé",
       "album": "Our Version of Events (Special Edition)",
       "durationMs": 196747,
+      "isrc": "GBAAA1200003",
       "ids": {
         "appleMusic": "1021570289"
+      },
+      "features": {
+        "bpm": 95.04,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -1173,8 +1754,14 @@
       "artist": "One Direction",
       "album": "Up All Night",
       "durationMs": 197600,
+      "isrc": "GBHMU1100171",
       "ids": {
         "appleMusic": "522061841"
+      },
+      "features": {
+        "bpm": 126.8,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -1182,8 +1769,14 @@
       "artist": "One Direction",
       "album": "Take Me Home (Yearbook Edition)",
       "durationMs": 182960,
+      "isrc": "GBHMU1200214",
       "ids": {
         "appleMusic": "574406658"
+      },
+      "features": {
+        "bpm": 179.8,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -1191,8 +1784,14 @@
       "artist": "Bridgit Mendler",
       "album": "Hello My Name Is... (Deluxe Version)",
       "durationMs": 200947,
+      "isrc": "USHR11233750",
       "ids": {
         "appleMusic": "1440623330"
+      },
+      "features": {
+        "bpm": 92.9,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -1200,8 +1799,14 @@
       "artist": "Bridgit Mendler",
       "album": "Hello My Name Is...",
       "durationMs": 243987,
+      "isrc": "USHR11233903",
       "ids": {
         "appleMusic": "1443753456"
+      },
+      "features": {
+        "bpm": 95,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -1209,8 +1814,14 @@
       "artist": "Miranda Cosgrove",
       "album": "Sparks Fly",
       "durationMs": 198449,
+      "isrc": "USSM11000571",
       "ids": {
         "appleMusic": "378304486"
+      },
+      "features": {
+        "bpm": 109.96,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -1218,8 +1829,14 @@
       "artist": "Miranda Cosgrove",
       "album": "Icarly (Music from and Inspired By the Hit TV Show)",
       "durationMs": 190560,
+      "isrc": "USSM10801545",
       "ids": {
         "appleMusic": "534188916"
+      },
+      "features": {
+        "bpm": 164.7,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -1227,6 +1844,7 @@
       "artist": "Jordan Pruitt",
       "album": "Jump In! (Original Soundrack)",
       "durationMs": 226400,
+      "isrc": "USHR10622794",
       "ids": {
         "appleMusic": "714618807"
       }
@@ -1236,8 +1854,14 @@
       "artist": "OneRepublic",
       "album": "The Collection",
       "durationMs": 234867,
+      "isrc": "USUM71301307",
       "ids": {
         "appleMusic": "1822898485"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -1245,8 +1869,14 @@
       "artist": "Muse",
       "album": "The 2nd Law",
       "durationMs": 279703,
+      "isrc": "GBAHT1200390",
       "ids": {
         "appleMusic": "550281684"
+      },
+      "features": {
+        "bpm": 179.8,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -1254,8 +1884,14 @@
       "artist": "Muse",
       "album": "The Resistance",
       "durationMs": 302827,
+      "isrc": "GBAHT0900320",
       "ids": {
         "appleMusic": "991509754"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -1263,8 +1899,14 @@
       "artist": "LINKIN PARK",
       "album": "Burn It Down - EP",
       "durationMs": 230259,
+      "isrc": "USWB11200587",
       "ids": {
         "appleMusic": "518181170"
+      },
+      "features": {
+        "bpm": 110,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -1272,8 +1914,14 @@
       "artist": "LINKIN PARK",
       "album": "A Thousand Suns (Deluxe Edition)",
       "durationMs": 231685,
+      "isrc": "USWB11001851",
       "ids": {
         "appleMusic": "590434074"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -1281,8 +1929,14 @@
       "artist": "Train",
       "album": "Bulletproof Picasso",
       "durationMs": 205980,
+      "isrc": "USSM11404307",
       "ids": {
         "appleMusic": "895604147"
+      },
+      "features": {
+        "bpm": 114.84,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -1290,8 +1944,14 @@
       "artist": "Miley Cyrus",
       "album": "Bangerz (Deluxe Version)",
       "durationMs": 278758,
+      "isrc": "USRC11301264",
       "ids": {
         "appleMusic": "1460315064"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -1299,8 +1959,14 @@
       "artist": "Colbie Caillat",
       "album": "Gypsy Heart (Side A) - EP",
       "durationMs": 224563,
+      "isrc": "USUM71407113",
       "ids": {
         "appleMusic": "1444060447"
+      },
+      "features": {
+        "bpm": 140.15,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -1308,8 +1974,14 @@
       "artist": "Meghan Trainor",
       "album": "Lips Are Movin - Single",
       "durationMs": 181391,
+      "isrc": "USSM11408349",
       "ids": {
         "appleMusic": "932865702"
+      },
+      "features": {
+        "bpm": 139.2,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -1317,8 +1989,14 @@
       "artist": "Selena Gomez",
       "album": "For You",
       "durationMs": 227360,
+      "isrc": "USHR11435979",
       "ids": {
         "appleMusic": "1440502294"
+      },
+      "features": {
+        "bpm": 166,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -1335,8 +2013,14 @@
       "artist": "The Vamps",
       "album": "Meet The Vamps (Christmas Edition)",
       "durationMs": 185093,
+      "isrc": "GBUM71401330",
       "ids": {
         "appleMusic": "1604811843"
+      },
+      "features": {
+        "bpm": 172.3,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -1344,8 +2028,14 @@
       "artist": "Sam Smith",
       "album": "In The Lonely Hour (10th Anniversary Edition / Deluxe)",
       "durationMs": 239307,
+      "isrc": "GBUM71308836",
       "ids": {
         "appleMusic": "1763638898"
+      },
+      "features": {
+        "bpm": 82.03,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -1353,8 +2043,14 @@
       "artist": "Hunter Hayes",
       "album": "Hunter Hayes (Encore)",
       "durationMs": 228840,
+      "isrc": "USAT21101196",
       "ids": {
         "appleMusic": "909497642"
+      },
+      "features": {
+        "bpm": 84.9,
+        "gain": -11.2,
+        "source": "deezer"
       }
     },
     {
@@ -1362,8 +2058,14 @@
       "artist": "Carrie Underwood",
       "album": "Blown Away",
       "durationMs": 240141,
+      "isrc": "GBCTA1200038",
       "ids": {
         "appleMusic": "510168338"
+      },
+      "features": {
+        "bpm": 136.9,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -1371,8 +2073,14 @@
       "artist": "Selena Gomez",
       "album": "Stars Dance (Bonus Track Version)",
       "durationMs": 210360,
+      "isrc": "USHR11334537",
       "ids": {
         "appleMusic": "1440625026"
+      },
+      "features": {
+        "bpm": 110,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -1380,8 +2088,14 @@
       "artist": "Selena Gomez",
       "album": "Stars Dance (Bonus Track Version)",
       "durationMs": 210293,
+      "isrc": "USHR11334529",
       "ids": {
         "appleMusic": "1440625017"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -1389,8 +2103,14 @@
       "artist": "Selena Gomez",
       "album": "For You - EP",
       "durationMs": 160307,
+      "isrc": "USHR11435983",
       "ids": {
         "appleMusic": "1442861676"
+      },
+      "features": {
+        "bpm": 186.2,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -1398,8 +2118,14 @@
       "artist": "Miley Cyrus",
       "album": "The Time of Our Lives (Deluxe Edition)",
       "durationMs": 202067,
+      "isrc": "USHR10924519",
       "ids": {
         "appleMusic": "1446859735"
+      },
+      "features": {
+        "bpm": 95.9,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -1407,8 +2133,14 @@
       "artist": "Meghan Trainor",
       "album": "Title (Special Edition)",
       "durationMs": 184227,
+      "isrc": "USSM11406291",
       "ids": {
         "appleMusic": "1057999234"
+      },
+      "features": {
+        "bpm": 159,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -1416,6 +2148,7 @@
       "artist": "Rita Ora",
       "album": "I Will Never Let You Down - Single",
       "durationMs": 203467,
+      "isrc": "USQX91400359",
       "ids": {
         "appleMusic": "1731012183"
       }
@@ -1425,6 +2158,7 @@
       "artist": "Nick Jonas",
       "album": "Nick Jonas",
       "durationMs": 203113,
+      "isrc": "USUM71411120",
       "ids": {
         "appleMusic": "1440813443"
       }
@@ -1434,8 +2168,14 @@
       "artist": "Nick Jonas",
       "album": "Nick Jonas",
       "durationMs": 223105,
+      "isrc": "USUM71412696",
       "ids": {
         "appleMusic": "1440813456"
+      },
+      "features": {
+        "bpm": 186.2,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -1452,8 +2192,14 @@
       "artist": "Cher Lloyd",
       "album": "With Ur Love (feat. Juicy J) - Single",
       "durationMs": 225533,
+      "isrc": "GBHMU1300006",
       "ids": {
         "appleMusic": "635349479"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
@@ -1461,6 +2207,7 @@
       "artist": "Jessie J",
       "album": "10's (Tens) Collected",
       "durationMs": 188120,
+      "isrc": "USUM72310875",
       "ids": {
         "appleMusic": "1645180799"
       }
@@ -1470,6 +2217,7 @@
       "artist": "Ariana Grande \u0026 The Weeknd",
       "album": "The Highlights (Deluxe Video Album)",
       "durationMs": 236041,
+      "isrc": "USUM71409728",
       "ids": {
         "appleMusic": "1552374072"
       }
@@ -1488,8 +2236,14 @@
       "artist": "Ed Sheeran",
       "album": "x (10th Anniversary Edition)",
       "durationMs": 281560,
+      "isrc": "GBAHS1400099",
       "ids": {
         "appleMusic": "1747957555"
+      },
+      "features": {
+        "bpm": 157.8,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -1497,8 +2251,14 @@
       "artist": "Enrique Iglesias",
       "album": "Not in Love (feat. Kelis) - EP",
       "durationMs": 224387,
+      "isrc": "USIR10400024",
       "ids": {
         "appleMusic": "1451976046"
+      },
+      "features": {
+        "bpm": 117.1,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -1506,8 +2266,14 @@
       "artist": "Enrique Iglesias",
       "album": "SEX AND LOVE (Deluxe Edition)",
       "durationMs": 170147,
+      "isrc": "GBUM71306780",
       "ids": {
         "appleMusic": "1440852314"
+      },
+      "features": {
+        "bpm": 153.7,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -1515,8 +2281,14 @@
       "artist": "Ricky Martin",
       "album": "Come With Me (Spanglish Version) - Single",
       "durationMs": 217925,
+      "isrc": "USSD11300210",
       "ids": {
         "appleMusic": "674889280"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -5.6,
+        "source": "deezer"
       }
     },
     {
@@ -1524,8 +2296,14 @@
       "artist": "Ricky Martin",
       "album": "Life",
       "durationMs": 211227,
+      "isrc": "USSM10505348",
       "ids": {
         "appleMusic": "159492389"
+      },
+      "features": {
+        "bpm": 103.6,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -1533,8 +2311,14 @@
       "artist": "Pitbull",
       "album": "Globalization",
       "durationMs": 203045,
+      "isrc": "USRC11400456",
       "ids": {
         "appleMusic": "933984343"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -1542,8 +2326,14 @@
       "artist": "Marc Anthony",
       "album": "I've Got You - Single",
       "durationMs": 228516,
+      "isrc": "USSM10204699",
       "ids": {
         "appleMusic": "335970692"
+      },
+      "features": {
+        "bpm": 102.1,
+        "gain": -10.5,
+        "source": "deezer"
       }
     },
     {
@@ -1551,8 +2341,14 @@
       "artist": "Marc Anthony",
       "album": "Marc Anthony",
       "durationMs": 227707,
+      "isrc": "USSM19905733",
       "ids": {
         "appleMusic": "191009391"
+      },
+      "features": {
+        "bpm": 115.2,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -1560,8 +2356,14 @@
       "artist": "Marc Anthony",
       "album": "Marc Anthony",
       "durationMs": 347107,
+      "isrc": "USSM19904020",
       "ids": {
         "appleMusic": "191009470"
+      },
+      "features": {
+        "bpm": 166,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -1578,8 +2380,14 @@
       "artist": "Enrique Iglesias \u0026 Akon",
       "album": "Euphoria (Collector's Edition)",
       "durationMs": 244973,
+      "isrc": "GBUM71010009",
       "ids": {
         "appleMusic": "1443751216"
+      },
+      "features": {
+        "bpm": 178.2,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -1596,8 +2404,14 @@
       "artist": "Enrique Iglesias",
       "album": "Enrique",
       "durationMs": 212693,
+      "isrc": "USIR19915208",
       "ids": {
         "appleMusic": "1443479200"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -1605,8 +2419,14 @@
       "artist": "Enrique Iglesias",
       "album": "Enrique",
       "durationMs": 220160,
+      "isrc": "USIR19915199",
       "ids": {
         "appleMusic": "1440915287"
+      },
+      "features": {
+        "bpm": 122,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -1614,8 +2434,14 @@
       "artist": "Enrique Iglesias",
       "album": "Greatest Hits",
       "durationMs": 209200,
+      "isrc": "USIR19915052",
       "ids": {
         "appleMusic": "1440775595"
+      },
+      "features": {
+        "bpm": 102.1,
+        "gain": -5.7,
+        "source": "deezer"
       }
     },
     {
@@ -1623,8 +2449,14 @@
       "artist": "Enrique Iglesias",
       "album": "Greatest Hits",
       "durationMs": 207720,
+      "isrc": "USIR10120228",
       "ids": {
         "appleMusic": "1440775600"
+      },
+      "features": {
+        "bpm": 126,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -1632,8 +2464,14 @@
       "artist": "Enrique Iglesias",
       "album": "Do You Know? (The Ping Pong Song) - EP",
       "durationMs": 219533,
+      "isrc": "USUM70731257",
       "ids": {
         "appleMusic": "1444588818"
+      },
+      "features": {
+        "bpm": 114.8,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -1641,8 +2479,14 @@
       "artist": "Hozier",
       "album": "Hozier (Special Edition)",
       "durationMs": 241688,
+      "isrc": "IEACJ1300031",
       "ids": {
         "appleMusic": "1440827162"
+      },
+      "features": {
+        "bpm": 128.8,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -1650,8 +2494,14 @@
       "artist": "Enrique Iglesias",
       "album": "Push (No Rap Version) - Single",
       "durationMs": 208413,
+      "isrc": "USUM70767570",
       "ids": {
         "appleMusic": "1444395005"
+      },
+      "features": {
+        "bpm": 98.4,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -1659,8 +2509,14 @@
       "artist": "Mark Ronson",
       "album": "Wedding Reception Party-Pleasers",
       "durationMs": 270627,
+      "isrc": "GBARL1401524",
       "ids": {
         "appleMusic": "1090310821"
+      },
+      "features": {
+        "bpm": 114.8,
+        "gain": -11.9,
+        "source": "deezer"
       }
     },
     {
@@ -1677,6 +2533,7 @@
       "artist": "Ariana Grande",
       "album": "Put Your Hearts Up - Single",
       "durationMs": 210200,
+      "isrc": "USUM71118895",
       "ids": {
         "appleMusic": "1445150835"
       }
@@ -1695,8 +2552,14 @@
       "artist": "Prince Royce",
       "album": "Double Vision (Deluxe Edition)",
       "durationMs": 210803,
+      "isrc": "USSD11400306",
       "ids": {
         "appleMusic": "1012472803"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -1704,8 +2567,14 @@
       "artist": "One Direction",
       "album": "FOUR (Deluxe)",
       "durationMs": 226598,
+      "isrc": "GBHMU1400165",
       "ids": {
         "appleMusic": "1524680849"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -1713,8 +2582,14 @@
       "artist": "Meghan Trainor",
       "album": "Title (Special Edition)",
       "durationMs": 175107,
+      "isrc": "USSM11508311",
       "ids": {
         "appleMusic": "1058093913"
+      },
+      "features": {
+        "bpm": 89.9,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -1722,8 +2597,14 @@
       "artist": "Kelly Clarkson",
       "album": "Piece by Piece (Deluxe Version)",
       "durationMs": 198741,
+      "isrc": "GBCTA1400065",
       "ids": {
         "appleMusic": "1090088442"
+      },
+      "features": {
+        "bpm": 148.7,
+        "gain": -6.3,
+        "source": "deezer"
       }
     },
     {
@@ -1731,6 +2612,7 @@
       "artist": "Ellie Goulding",
       "album": "Love - Say It With Music",
       "durationMs": 253279,
+      "isrc": "GBUM71406823",
       "ids": {
         "appleMusic": "1609142595"
       }
@@ -1740,8 +2622,14 @@
       "artist": "Ella Henderson",
       "album": "Chapter One (Deluxe Version)",
       "durationMs": 213218,
+      "isrc": "GBHMU1400029",
       "ids": {
         "appleMusic": "886715218"
+      },
+      "features": {
+        "bpm": 104.9,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -1749,8 +2637,14 @@
       "artist": "Maroon 5",
       "album": "Best Valentine's Day 2022",
       "durationMs": 234827,
+      "isrc": "USUM71410340",
       "ids": {
         "appleMusic": "1609326678"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -1758,8 +2652,14 @@
       "artist": "Pitbull \u0026 Ne-Yo",
       "album": "Greatest Hits",
       "durationMs": 229093,
+      "isrc": "USRC11402647",
       "ids": {
         "appleMusic": "1307028261"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -1767,8 +2667,14 @@
       "artist": "Meghan Trainor",
       "album": "Title (Deluxe Edition)",
       "durationMs": 216755,
+      "isrc": "USSM11408378",
       "ids": {
         "appleMusic": "929825625"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -1776,8 +2682,14 @@
       "artist": "David Guetta",
       "album": "Listen Again",
       "durationMs": 203641,
+      "isrc": "GB28K1400036",
       "ids": {
         "appleMusic": "1052323304"
+      },
+      "features": {
+        "bpm": 183.75,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -1785,8 +2697,14 @@
       "artist": "Jason Derulo",
       "album": "Want to Want Me - Single",
       "durationMs": 207719,
+      "isrc": "USWB11503046",
       "ids": {
         "appleMusic": "973769485"
+      },
+      "features": {
+        "bpm": 113.89,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -1821,6 +2739,7 @@
       "artist": "Ariana Grande",
       "album": "My Everything (Bonus Tracks Edition)",
       "durationMs": 197278,
+      "isrc": "USUM71409723",
       "ids": {
         "appleMusic": "1440852679"
       }
@@ -1839,8 +2758,14 @@
       "artist": "Wiz Khalifa",
       "album": "Furious 7 (Original Motion Picture Soundtrack)",
       "durationMs": 229526,
+      "isrc": "USAT21500313",
       "ids": {
         "appleMusic": "966411602"
+      },
+      "features": {
+        "bpm": 160.2,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -1848,8 +2773,14 @@
       "artist": "Carly Rae Jepsen",
       "album": "Emotion (10th Anniversary Edition)",
       "durationMs": 204764,
+      "isrc": "USUM71501431",
       "ids": {
         "appleMusic": "1833371784"
+      },
+      "features": {
+        "bpm": 121.96,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -1866,6 +2797,7 @@
       "artist": "Andy Grammer",
       "album": "Magazines Or Novels",
       "durationMs": 199263,
+      "isrc": "USHR12550325",
       "ids": {
         "appleMusic": "1780516397"
       }
@@ -1875,6 +2807,7 @@
       "artist": "The Weeknd",
       "album": "Beauty Behind the Madness",
       "durationMs": 213525,
+      "isrc": "USUG11500741",
       "ids": {
         "appleMusic": "1440826389"
       }
@@ -1884,8 +2817,14 @@
       "artist": "Hilary Duff",
       "album": "Breathe In. Breathe Out. (Deluxe Version)",
       "durationMs": 185921,
+      "isrc": "USRC11500512",
       "ids": {
         "appleMusic": "1003570043"
+      },
+      "features": {
+        "bpm": 122,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -1893,23 +2832,36 @@
       "artist": "Sara Bareilles",
       "album": "The Blessed Unrest",
       "durationMs": 220460,
+      "isrc": "USSM11301638",
       "ids": {
         "appleMusic": "1440504730"
+      },
+      "features": {
+        "bpm": 184.6,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
       "title": "Gravity",
       "artist": "Sara Bareilles",
       "album": "Little Voice",
-      "durationMs": 232760
+      "durationMs": 232760,
+      "isrc": "USSM10700068"
     },
     {
       "title": "King of Anything",
       "artist": "Sara Bareilles",
       "album": "Kaleidoscope Heart",
       "durationMs": 207429,
+      "isrc": "USSM11001130",
       "ids": {
         "appleMusic": "390601837"
+      },
+      "features": {
+        "bpm": 118.8,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -1917,8 +2869,14 @@
       "artist": "Sara Bareilles",
       "album": "Kaleidoscope Heart",
       "durationMs": 214893,
+      "isrc": "USSM11001692",
       "ids": {
         "appleMusic": "390601825"
+      },
+      "features": {
+        "bpm": 102.1,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -1926,8 +2884,14 @@
       "artist": "Sara Bareilles",
       "album": "Kaleidoscope Heart",
       "durationMs": 256401,
+      "isrc": "USSM11001693",
       "ids": {
         "appleMusic": "390601826"
+      },
+      "features": {
+        "bpm": 142.07,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -1935,6 +2899,7 @@
       "artist": "Sara Bareilles",
       "album": "Little Voice",
       "durationMs": 180627,
+      "isrc": "USSM10700067",
       "ids": {
         "appleMusic": "258604770"
       }
@@ -1944,8 +2909,14 @@
       "artist": "Lenka",
       "album": "Lenka (Expanded Edition)",
       "durationMs": 235693,
+      "isrc": "USSM10802201",
       "ids": {
         "appleMusic": "1460863384"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -1962,8 +2933,14 @@
       "artist": "Leona Lewis",
       "album": "Echo",
       "durationMs": 242049,
+      "isrc": "GBHMU0900046",
       "ids": {
         "appleMusic": "339509687"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -1971,8 +2948,14 @@
       "artist": "Leona Lewis",
       "album": "Spirit (The Deluxe Edition)",
       "durationMs": 238840,
+      "isrc": "GBHMU0700074",
       "ids": {
         "appleMusic": "295671630"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -1980,8 +2963,14 @@
       "artist": "Paris Hilton",
       "album": "Paris",
       "durationMs": 236600,
+      "isrc": "USWB10602450",
       "ids": {
         "appleMusic": "179422250"
+      },
+      "features": {
+        "bpm": 102.1,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -1989,8 +2978,14 @@
       "artist": "Jason Derulo",
       "album": "Everything Is 4",
       "durationMs": 215107,
+      "isrc": "USWB11504527",
       "ids": {
         "appleMusic": "982388024"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -1998,8 +2993,14 @@
       "artist": "Charlie Puth",
       "album": "Nine Track Mind",
       "durationMs": 190447,
+      "isrc": "USAT21500254",
       "ids": {
         "appleMusic": "1041127300"
+      },
+      "features": {
+        "bpm": 109.96,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -2007,6 +3008,7 @@
       "artist": "2NE1",
       "album": "WELCOME BACK",
       "durationMs": 230000,
+      "isrc": "JPB601402206",
       "ids": {
         "appleMusic": "1783031521"
       }
@@ -2016,8 +3018,14 @@
       "artist": "R. City",
       "album": "What Dreams Are Made Of",
       "durationMs": 227476,
+      "isrc": "USRC11501369",
       "ids": {
         "appleMusic": "1031371163"
+      },
+      "features": {
+        "bpm": 94,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -2034,8 +3042,14 @@
       "artist": "Elle King",
       "album": "Love Stuff",
       "durationMs": 202177,
+      "isrc": "USRC11401950",
       "ids": {
         "appleMusic": "941366737"
+      },
+      "features": {
+        "bpm": 140.2,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -2043,6 +3057,7 @@
       "artist": "Hailee Steinfeld",
       "album": "Haiz - EP",
       "durationMs": 218773,
+      "isrc": "USUM71510716",
       "ids": {
         "appleMusic": "1442287177"
       }
@@ -2052,6 +3067,7 @@
       "artist": "Leona Lewis",
       "album": "I Am (Deluxe)",
       "durationMs": 223269,
+      "isrc": "GBUM71501200",
       "ids": {
         "appleMusic": "1442455255"
       }
@@ -2061,6 +3077,7 @@
       "artist": "Alessia Cara",
       "album": "Know-It-All (Deluxe)",
       "durationMs": 199456,
+      "isrc": "USUM72011610",
       "ids": {
         "appleMusic": "1440845747"
       }
@@ -2070,8 +3087,14 @@
       "artist": "Nick Jonas",
       "album": "Nick Jonas X2",
       "durationMs": 167723,
+      "isrc": "USUM71512568",
       "ids": {
         "appleMusic": "1440845615"
+      },
+      "features": {
+        "bpm": 102.08,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -2079,6 +3102,7 @@
       "artist": "Little Mix",
       "album": "Get Weird (Deluxe Edition)",
       "durationMs": 197787,
+      "isrc": "GBHMU1500047",
       "ids": {
         "appleMusic": "1016217389"
       }
@@ -2088,8 +3112,14 @@
       "artist": "One Direction",
       "album": "Made In The A.M. (Deluxe Edition)",
       "durationMs": 192112,
+      "isrc": "GBHMU1500070",
       "ids": {
         "appleMusic": "1040171616"
+      },
+      "features": {
+        "bpm": 137.8,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -2106,6 +3136,7 @@
       "artist": "Shawn Mendes",
       "album": "Handwritten",
       "durationMs": 206880,
+      "isrc": "USUM71500658",
       "ids": {
         "appleMusic": "1440849718"
       }
@@ -2115,8 +3146,14 @@
       "artist": "Meghan Trainor",
       "album": "Title (Special Edition)",
       "durationMs": 225053,
+      "isrc": "USSM11408374",
       "ids": {
         "appleMusic": "1058093902"
+      },
+      "features": {
+        "bpm": 108,
+        "gain": -10.4,
+        "source": "deezer"
       }
     },
     {
@@ -2124,8 +3161,14 @@
       "artist": "Demi Lovato",
       "album": "Girls Rule!",
       "durationMs": 205746,
+      "isrc": "USHR11536743",
       "ids": {
         "appleMusic": "1556500994"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -2133,8 +3176,14 @@
       "artist": "Sam Hunt",
       "album": "Montevallo",
       "durationMs": 242903,
+      "isrc": "USUM71406922",
       "ids": {
         "appleMusic": "1440858328"
+      },
+      "features": {
+        "bpm": 157.8,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -2151,6 +3200,7 @@
       "artist": "Fall Out Boy",
       "album": "American Beauty / American Psycho",
       "durationMs": 206501,
+      "isrc": "USUM71417732",
       "ids": {
         "appleMusic": "1440826601"
       }
@@ -2160,8 +3210,14 @@
       "artist": "twenty one pilots",
       "album": "Blurryface",
       "durationMs": 202335,
+      "isrc": "USAT21500597",
       "ids": {
         "appleMusic": "974485474"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -2169,8 +3225,14 @@
       "artist": "Justin Bieber",
       "album": "Purpose (Deluxe)",
       "durationMs": 200790,
+      "isrc": "USUM71516760",
       "ids": {
         "appleMusic": "1440829610"
+      },
+      "features": {
+        "bpm": 99.86,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -2178,8 +3240,14 @@
       "artist": "Selena Gomez",
       "album": "Selena x Votes - EP",
       "durationMs": 229080,
+      "isrc": "USUM71510437",
       "ids": {
         "appleMusic": "1537481275"
+      },
+      "features": {
+        "bpm": 97.97,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -2187,6 +3255,7 @@
       "artist": "The Weeknd",
       "album": "Beauty Behind the Madness",
       "durationMs": 235605,
+      "isrc": "USUG11500951",
       "ids": {
         "appleMusic": "1440858507"
       }
@@ -2196,8 +3265,14 @@
       "artist": "One Direction",
       "album": "Made In The A.M. (Deluxe Edition)",
       "durationMs": 230342,
+      "isrc": "GBHMU1500104",
       "ids": {
         "appleMusic": "1040171617"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -2205,8 +3280,14 @@
       "artist": "Rachel Platten",
       "album": "Wildfire",
       "durationMs": 219000,
+      "isrc": "USSM11506529",
       "ids": {
         "appleMusic": "1061182677"
+      },
+      "features": {
+        "bpm": 94,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -2214,6 +3295,7 @@
       "artist": "Ariana Grande",
       "album": "Dangerous Woman",
       "durationMs": 235950,
+      "isrc": "USUM71601826",
       "ids": {
         "appleMusic": "1440843916"
       }
@@ -2223,8 +3305,14 @@
       "artist": "Ava Max",
       "album": "Sweet but Psycho - Single",
       "durationMs": 187436,
+      "isrc": "USAT21802011",
       "ids": {
         "appleMusic": "1386719031"
+      },
+      "features": {
+        "bpm": 132.94,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {

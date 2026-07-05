@@ -6,6 +6,7 @@
       "artist": "Oasis",
       "album": "Stop The Clocks",
       "durationMs": 258613,
+      "isrc": "GBAAW9500189",
       "ids": {
         "appleMusic": "1517520101"
       }
@@ -15,6 +16,7 @@
       "artist": "Oasis",
       "album": "Heathen Chemistry",
       "durationMs": 303120,
+      "isrc": "GBBQY0202057",
       "ids": {
         "appleMusic": "1517508236"
       }
@@ -23,13 +25,15 @@
       "title": "Stand by Me",
       "artist": "Oasis",
       "album": "Be Here Now",
-      "durationMs": 356600
+      "durationMs": 356600,
+      "isrc": "GBBQY9700008"
     },
     {
       "title": "Live Forever",
       "artist": "Oasis",
       "album": "Definitely Maybe",
       "durationMs": 276867,
+      "isrc": "GBQCP1400011",
       "ids": {
         "appleMusic": "1517506707"
       }
@@ -39,6 +43,7 @@
       "artist": "Oasis",
       "album": "Stop The Clocks",
       "durationMs": 293573,
+      "isrc": "GBQCP2100023",
       "ids": {
         "appleMusic": "1517520396"
       }
@@ -48,6 +53,7 @@
       "artist": "Oasis",
       "album": "Heathen Chemistry",
       "durationMs": 292853,
+      "isrc": "GBBQY0202064",
       "ids": {
         "appleMusic": "1517508240"
       }
@@ -56,13 +62,15 @@
       "title": "Don't Go Away",
       "artist": "Oasis",
       "album": "Be Here Now",
-      "durationMs": 288600
+      "durationMs": 288600,
+      "isrc": "GBBQY9700012"
     },
     {
       "title": "Supersonic",
       "artist": "Oasis",
       "album": "Supersonic - Single",
       "durationMs": 283744,
+      "isrc": "GBAAW9400021",
       "ids": {
         "appleMusic": "1517491513"
       }
@@ -72,6 +80,7 @@
       "artist": "Oasis",
       "album": "(What's the Story) Morning Glory?",
       "durationMs": 450507,
+      "isrc": "GBAAW9500197",
       "ids": {
         "appleMusic": "1517447869"
       }
@@ -81,6 +90,7 @@
       "artist": "Oasis",
       "album": "Heathen Chemistry",
       "durationMs": 127600,
+      "isrc": "GBBQY0202036",
       "ids": {
         "appleMusic": "1517508239"
       }
@@ -89,13 +99,15 @@
       "title": "Let There Be Love",
       "artist": "Oasis",
       "album": "Don't Believe the Truth",
-      "durationMs": 331653
+      "durationMs": 331653,
+      "isrc": "GBBQY0500101"
     },
     {
       "title": "Whatever",
       "artist": "Oasis",
       "album": "Whatever - EP",
       "durationMs": 381267,
+      "isrc": "GBAAW9400251",
       "ids": {
         "appleMusic": "1517670355"
       }
@@ -105,6 +117,7 @@
       "artist": "Oasis",
       "album": "(What's the Story) Morning Glory?",
       "durationMs": 220920,
+      "isrc": "GBQCP1400115",
       "ids": {
         "appleMusic": "1517447778"
       }
@@ -113,13 +126,15 @@
       "title": "The Masterplan",
       "artist": "Oasis",
       "album": "The Masterplan",
-      "durationMs": 322640
+      "durationMs": 322640,
+      "isrc": "GBAAW9500350"
     },
     {
       "title": "The Importance of Being Idle",
       "artist": "Oasis",
       "album": "The Importance Of Being Idle - Single",
       "durationMs": 219827,
+      "isrc": "GBBQY0500093",
       "ids": {
         "appleMusic": "1517499608"
       }
@@ -129,6 +144,7 @@
       "artist": "Oasis",
       "album": "Definitely Maybe",
       "durationMs": 392773,
+      "isrc": "GBQCP1400018",
       "ids": {
         "appleMusic": "1517507454"
       }
@@ -137,13 +153,15 @@
       "title": "Acquiesce",
       "artist": "Oasis",
       "album": "The Masterplan",
-      "durationMs": 264960
+      "durationMs": 264960,
+      "isrc": "GBAAW9500103"
     },
     {
       "title": "Sad Song",
       "artist": "Oasis",
       "album": "Definitely Maybe (Deluxe Edition Remastered)",
       "durationMs": 269213,
+      "isrc": "GBQCP1400022",
       "ids": {
         "appleMusic": "1525936431"
       }
@@ -153,6 +171,7 @@
       "artist": "Oasis",
       "album": "D'You Know What I Mean? - EP",
       "durationMs": 462493,
+      "isrc": "GBAAW9700268",
       "ids": {
         "appleMusic": "1517444929"
       }
@@ -162,6 +181,7 @@
       "artist": "Oasis",
       "album": "Whatever - EP",
       "durationMs": 265427,
+      "isrc": "GBAAW9400253",
       "ids": {
         "appleMusic": "1517670494"
       }
@@ -171,19 +191,22 @@
       "artist": "Oasis",
       "album": "(What's the Story) Morning Glory?",
       "durationMs": 239827,
+      "isrc": "GBAAW9500184",
       "ids": {
         "appleMusic": "1517447326"
       }
     },
     {
       "title": "Fuckin' in the Bushes",
-      "artist": "Oasis"
+      "artist": "Oasis",
+      "isrc": "GBBQY9902005"
     },
     {
       "title": "All Around the World",
       "artist": "Oasis",
       "album": "All Around The World - EP",
       "durationMs": 560040,
+      "isrc": "GBBQY9700014",
       "ids": {
         "appleMusic": "1517447630"
       }
@@ -193,6 +216,7 @@
       "artist": "Oasis",
       "album": "Born on a Different Cloud - EP",
       "durationMs": 161181,
+      "isrc": "TCAGO2244279",
       "ids": {
         "appleMusic": "1652207975"
       }
@@ -201,13 +225,15 @@
       "title": "Lyla",
       "artist": "Oasis",
       "album": "Don't Believe the Truth",
-      "durationMs": 310440
+      "durationMs": 310440,
+      "isrc": "GBBQY0500089"
     },
     {
       "title": "I'm Outta Time",
       "artist": "Oasis",
       "album": "Dig Out Your Soul",
       "durationMs": 250013,
+      "isrc": "GBQCP0800006",
       "ids": {
         "appleMusic": "1517495781"
       }
@@ -217,6 +243,7 @@
       "artist": "Oasis",
       "album": "Standing on the Shoulder of Giants",
       "durationMs": 278693,
+      "isrc": "GBBQY9902002",
       "ids": {
         "appleMusic": "1517445625"
       }
@@ -226,6 +253,7 @@
       "artist": "Oasis",
       "album": "Heathen Chemistry",
       "durationMs": 226400,
+      "isrc": "GBBQY0202055",
       "ids": {
         "appleMusic": "1517508216"
       }
@@ -234,19 +262,22 @@
       "title": "Keep The Dream Alive",
       "artist": "Oasis",
       "album": "Don't Believe the Truth",
-      "durationMs": 345707
+      "durationMs": 345707,
+      "isrc": "GBBQY0500096"
     },
     {
       "title": "The Girl in the Dirty Shirt",
       "artist": "Oasis",
       "album": "Be Here Now",
-      "durationMs": 347400
+      "durationMs": 347400,
+      "isrc": "GBBQY9700010"
     },
     {
       "title": "The Shock of the Lightning",
       "artist": "Oasis",
       "album": "Dig Out Your Soul",
       "durationMs": 299947,
+      "isrc": "GBQCP0800005",
       "ids": {
         "appleMusic": "1517495778"
       }
@@ -256,6 +287,7 @@
       "artist": "Oasis",
       "album": "Standing on the Shoulder of Giants",
       "durationMs": 266840,
+      "isrc": "GBBQY9902010",
       "ids": {
         "appleMusic": "1517446560"
       }
@@ -265,6 +297,7 @@
       "artist": "Oasis",
       "album": "Heathen Chemistry",
       "durationMs": 189373,
+      "isrc": "GBBQY0202067",
       "ids": {
         "appleMusic": "1517508399"
       }
@@ -273,13 +306,15 @@
       "title": "I Hope, I Think, I Know",
       "artist": "Oasis",
       "album": "Be Here Now",
-      "durationMs": 262427
+      "durationMs": 262427,
+      "isrc": "GBBQY9700009"
     },
     {
       "title": "Falling Down",
       "artist": "Oasis",
       "album": "Dig Out Your Soul",
       "durationMs": 260080,
+      "isrc": "GBQCP0800008",
       "ids": {
         "appleMusic": "1517496135"
       }
@@ -289,6 +324,7 @@
       "artist": "Oasis",
       "album": "Standing on the Shoulder of Giants",
       "durationMs": 312680,
+      "isrc": "GBBQY9902011",
       "ids": {
         "appleMusic": "1517446765"
       }
@@ -298,6 +334,7 @@
       "artist": "Oasis",
       "album": "Standing on the Shoulder of Giants",
       "durationMs": 368253,
+      "isrc": "GBBQY9902009",
       "ids": {
         "appleMusic": "1517446554"
       }

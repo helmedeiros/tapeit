@@ -6,8 +6,14 @@
       "artist": "Cage the Elephant",
       "album": "Melophobia",
       "durationMs": 248989,
+      "isrc": "USRC11301167",
       "ids": {
         "appleMusic": "1440823829"
+      },
+      "features": {
+        "bpm": 104.9,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "Wallows",
       "album": "Good Indie Vibes",
       "durationMs": 204667,
+      "isrc": "USAT21800731",
       "ids": {
         "appleMusic": "1848082986"
+      },
+      "features": {
+        "bpm": 154.85,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +36,14 @@
       "artist": "Foster the People",
       "album": "Melhores Músicas Internacionais 2022",
       "durationMs": 243147,
+      "isrc": "USSM11704909",
       "ids": {
         "appleMusic": "1634871080"
+      },
+      "features": {
+        "bpm": 97.05,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -33,8 +51,14 @@
       "artist": "GROUPLOVE",
       "album": "Psychedelic Vibin'",
       "durationMs": 196027,
+      "isrc": "USAT21301610",
       "ids": {
         "appleMusic": "1850465611"
+      },
+      "features": {
+        "bpm": 104.9,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +66,14 @@
       "artist": "Dr. Dog",
       "album": "Shame, Shame (Deluxe Edition)",
       "durationMs": 234800,
+      "isrc": "USEP40937005",
       "ids": {
         "appleMusic": "1485025432"
+      },
+      "features": {
+        "bpm": 166.04,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -51,8 +81,14 @@
       "artist": "Wallows",
       "album": "Rustige Avond",
       "durationMs": 202627,
+      "isrc": "USAT21800737",
       "ids": {
         "appleMusic": "1831947597"
+      },
+      "features": {
+        "bpm": 92.91,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -60,6 +96,7 @@
       "artist": "Dayglow",
       "album": "Fuzzybrain",
       "durationMs": 278769,
+      "isrc": "TCADL1825079",
       "ids": {
         "appleMusic": "1482950632"
       }
@@ -69,8 +106,14 @@
       "artist": "Declan McKenna",
       "album": "What Do You Think About the Car?",
       "durationMs": 252306,
+      "isrc": "GBARL1500856",
       "ids": {
         "appleMusic": "1208110313"
+      },
+      "features": {
+        "bpm": 120.89,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -78,8 +121,14 @@
       "artist": "San Cisco",
       "album": "Gracetown",
       "durationMs": 207620,
+      "isrc": "AUU221400010",
       "ids": {
         "appleMusic": "968334546"
+      },
+      "features": {
+        "bpm": 106.8,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -87,6 +136,7 @@
       "artist": "Wallows",
       "album": "San Francisco Summer",
       "durationMs": 178000,
+      "isrc": "USAT21812258",
       "ids": {
         "appleMusic": "6766811303"
       }
@@ -96,8 +146,14 @@
       "artist": "SWMRS",
       "album": "Drive North",
       "durationMs": 185085,
+      "isrc": "USAT21602617",
       "ids": {
         "appleMusic": "1162310107"
+      },
+      "features": {
+        "bpm": 93.54,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -105,23 +161,41 @@
       "artist": "Cage the Elephant",
       "album": "Melophobia",
       "durationMs": 208766,
+      "isrc": "USRC11301169",
       "ids": {
         "appleMusic": "1440823888"
+      },
+      "features": {
+        "bpm": 113.9,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
       "title": "Call It Fate, Call It Karma",
       "artist": "The Strokes",
       "album": "Comedown Machine",
-      "durationMs": 204773
+      "durationMs": 204773,
+      "isrc": "USRC11300085",
+      "features": {
+        "bpm": 109.4,
+        "gain": -10.9,
+        "source": "deezer"
+      }
     },
     {
       "title": "Malibu 1992",
       "artist": "COIN",
       "album": "How Will You Know If You Never Try",
       "durationMs": 341200,
+      "isrc": "USSM11701133",
       "ids": {
         "appleMusic": "1219455221"
+      },
+      "features": {
+        "bpm": 147.13,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -129,6 +203,7 @@
       "artist": "The Shed",
       "album": "S. Santa Fe",
       "durationMs": 300186,
+      "isrc": "QZB4J1837720",
       "ids": {
         "appleMusic": "1386179029"
       }
@@ -138,6 +213,7 @@
       "artist": "FIDLAR",
       "album": "By Myself - Single",
       "durationMs": 214641,
+      "isrc": "USQE91500680",
       "ids": {
         "appleMusic": "1881419937"
       }
@@ -147,8 +223,14 @@
       "artist": "FIDLAR",
       "album": "FIDLAR",
       "durationMs": 133947,
+      "isrc": "USQE91200263",
       "ids": {
         "appleMusic": "678172988"
+      },
+      "features": {
+        "bpm": 196.9,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -156,6 +238,7 @@
       "artist": "FIDLAR",
       "album": "Can’t You See - Single",
       "durationMs": 178438,
+      "isrc": "USQE91500679",
       "ids": {
         "appleMusic": "1881418809"
       }
@@ -165,8 +248,14 @@
       "artist": "FIDLAR",
       "album": "Too",
       "durationMs": 332640,
+      "isrc": "USQE91500071",
       "ids": {
         "appleMusic": "1001105771"
+      },
+      "features": {
+        "bpm": 102.8,
+        "gain": -5.1,
+        "source": "deezer"
       }
     },
     {
@@ -174,6 +263,7 @@
       "artist": "Pixies",
       "album": "Surfer Rosa (2007 Remaster)",
       "durationMs": 234973,
+      "isrc": "GBAFL0700145",
       "ids": {
         "appleMusic": "1027465608"
       }
@@ -183,8 +273,14 @@
       "artist": "Wallows",
       "album": "Love Songs, Vol. 2",
       "durationMs": 187896,
+      "isrc": "USAT21801170",
       "ids": {
         "appleMusic": "1793096796"
+      },
+      "features": {
+        "bpm": 148.72,
+        "gain": -5.3,
+        "source": "deezer"
       }
     },
     {
@@ -192,6 +288,7 @@
       "artist": "Wallows",
       "album": "Indie Summer Hot Alternatives",
       "durationMs": 166520,
+      "isrc": "USAT21812259",
       "ids": {
         "appleMusic": "1820152152"
       }
@@ -201,6 +298,7 @@
       "artist": "Cage the Elephant",
       "album": "Thank You Happy Birthday (Deluxe)",
       "durationMs": 463520,
+      "isrc": "USJI11000274",
       "ids": {
         "appleMusic": "721212367"
       }
@@ -210,6 +308,7 @@
       "artist": "Skegss",
       "album": "Spring Has Sprung - Single",
       "durationMs": 178584,
+      "isrc": "TCACZ1756871",
       "ids": {
         "appleMusic": "1482692333"
       }
@@ -219,6 +318,7 @@
       "artist": "Roar",
       "album": "I Can't Handle Change - EP",
       "durationMs": 198213,
+      "isrc": "USHM81020595",
       "ids": {
         "appleMusic": "1736275328"
       }
@@ -228,6 +328,7 @@
       "artist": "Dayglow",
       "album": "Fuzzybrain",
       "durationMs": 204014,
+      "isrc": "TCADU1861897",
       "ids": {
         "appleMusic": "1482950906"
       }
@@ -237,6 +338,7 @@
       "artist": "Hockey Dad",
       "album": "Dreamin' - EP",
       "durationMs": 175627,
+      "isrc": "TCABY1421450",
       "ids": {
         "appleMusic": "1490644775"
       }
@@ -246,6 +348,7 @@
       "artist": "Marlin's Dreaming",
       "album": "Lizard Tears",
       "durationMs": 192401,
+      "isrc": "QZ9JZ1755557",
       "ids": {
         "appleMusic": "1294753334"
       }
@@ -255,6 +358,7 @@
       "artist": "Ocean Alley",
       "album": "Chiaroscuro",
       "durationMs": 253077,
+      "isrc": "AUZN31700127",
       "ids": {
         "appleMusic": "1762577467"
       }
@@ -264,6 +368,7 @@
       "artist": "Lime Cordiale",
       "album": "14 Steps To a Better You",
       "durationMs": 223234,
+      "isrc": "AUCZC1900004",
       "ids": {
         "appleMusic": "1504624814"
       }
@@ -273,6 +378,7 @@
       "artist": "Tash Sultana",
       "album": "Notion",
       "durationMs": 315603,
+      "isrc": "AUBEC1601210",
       "ids": {
         "appleMusic": "1641660684"
       }
@@ -282,8 +388,14 @@
       "artist": "Mazzy Star",
       "album": "soft songs to listen to while studying",
       "durationMs": 297160,
+      "isrc": "USCA29300105",
       "ids": {
         "appleMusic": "6766954369"
+      },
+      "features": {
+        "bpm": 157.2,
+        "gain": -14.8,
+        "source": "deezer"
       }
     },
     {
@@ -291,6 +403,7 @@
       "artist": "The Frights",
       "album": "You Are Going To Hate This",
       "durationMs": 174405,
+      "isrc": "US3R21612402",
       "ids": {
         "appleMusic": "1862930667"
       }
@@ -300,6 +413,7 @@
       "artist": "Flipturn",
       "album": "Citrona",
       "durationMs": 261734,
+      "isrc": "TCADO1891040",
       "ids": {
         "appleMusic": "1370581403"
       }
@@ -309,6 +423,7 @@
       "artist": "Matty",
       "album": "Déjàvu",
       "durationMs": 131453,
+      "isrc": "GBKPL1804567",
       "ids": {
         "appleMusic": "1368443802"
       }
@@ -318,8 +433,14 @@
       "artist": "Beach House",
       "album": "7",
       "durationMs": 204373,
+      "isrc": "USSUB1824001",
       "ids": {
         "appleMusic": "1345782776"
+      },
+      "features": {
+        "bpm": 126.05,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -327,6 +448,7 @@
       "artist": "Chicano Batman",
       "album": "Freedom Is Free",
       "durationMs": 207732,
+      "isrc": "USATO1600670",
       "ids": {
         "appleMusic": "1182337601"
       }
@@ -336,8 +458,14 @@
       "artist": "The Frights",
       "album": "The Frights",
       "durationMs": 211644,
+      "isrc": "USDHM1327764",
       "ids": {
         "appleMusic": "788762540"
+      },
+      "features": {
+        "bpm": 169.4,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {

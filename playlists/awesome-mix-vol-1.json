@@ -6,8 +6,14 @@
       "artist": "Juliana Hatfield",
       "album": "Juliana Hatfield Sings Olivia Newton-John (feat. Juliana Hatfield)",
       "durationMs": 224496,
+      "isrc": "USF461800006",
       "ids": {
         "appleMusic": "1323708321"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -11.4,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "Michael Jackson",
       "album": "The Indispensable Collection",
       "durationMs": 258152,
+      "isrc": "USSM19902990",
       "ids": {
         "appleMusic": "655262183"
+      },
+      "features": {
+        "bpm": 138.7,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +36,14 @@
       "artist": "a-ha",
       "album": "100 Greatest Summer Songs",
       "durationMs": 225280,
+      "isrc": "USWB19901214",
       "ids": {
         "appleMusic": "1458996323"
+      },
+      "features": {
+        "bpm": 168.8,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -33,8 +51,14 @@
       "artist": "Survivor",
       "album": "Golden 80'S",
       "durationMs": 246133,
+      "isrc": "USVR19600010",
       "ids": {
         "appleMusic": "471655054"
+      },
+      "features": {
+        "bpm": 108.8,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +66,14 @@
       "artist": "The Outfield",
       "album": "Super Hits",
       "durationMs": 221840,
+      "isrc": "USSM18500264",
       "ids": {
         "appleMusic": "157430756"
+      },
+      "features": {
+        "bpm": 129.6,
+        "gain": -10.5,
+        "source": "deezer"
       }
     },
     {
@@ -51,6 +81,7 @@
       "artist": "DJ BoBo \u0026 Irene Cara",
       "album": "What a Feeling - EP",
       "durationMs": 199600,
+      "isrc": "DEMI61400320",
       "ids": {
         "appleMusic": "1505853211"
       }
@@ -60,8 +91,14 @@
       "artist": "Roxette",
       "album": "The Pop Hits",
       "durationMs": 251680,
+      "isrc": "SEAME8878022",
       "ids": {
         "appleMusic": "726418644"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -69,6 +106,7 @@
       "artist": "Missing Persons",
       "album": "Valentine's Day",
       "durationMs": 228522,
+      "isrc": "USA560801491",
       "ids": {
         "appleMusic": "821318141"
       }
@@ -78,8 +116,14 @@
       "artist": "Madonna",
       "album": "Los mejores trends 2024",
       "durationMs": 342680,
+      "isrc": "USWB10903606",
       "ids": {
         "appleMusic": "1782900001"
+      },
+      "features": {
+        "bpm": 111.1,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +131,14 @@
       "artist": "Eurythmics",
       "album": "Boxed (2005 Remastered Editions)",
       "durationMs": 216933,
+      "isrc": "GBARL8300004",
       "ids": {
         "appleMusic": "257483868"
+      },
+      "features": {
+        "bpm": 125.7,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -96,6 +146,7 @@
       "artist": "Bon Jovi",
       "album": "Cross Road",
       "durationMs": 224307,
+      "isrc": "GXFHP2537859",
       "ids": {
         "appleMusic": "1423285211"
       }
@@ -114,8 +165,14 @@
       "artist": "Kenny Loggins",
       "album": "The Essential Kenny Loggins",
       "durationMs": 226293,
+      "isrc": "USSM19803320",
       "ids": {
         "appleMusic": "201425720"
+      },
+      "features": {
+        "bpm": 174.45,
+        "gain": -14.3,
+        "source": "deezer"
       }
     },
     {
@@ -123,8 +180,14 @@
       "artist": "Michael Sembello",
       "album": "Flashdance (Original Soundtrack from the Motion Picture)",
       "durationMs": 244707,
+      "isrc": "USPR38302462",
       "ids": {
         "appleMusic": "1425259944"
+      },
+      "features": {
+        "bpm": 159.01,
+        "gain": -15.4,
+        "source": "deezer"
       }
     },
     {
@@ -132,6 +195,7 @@
       "artist": "Miami Sound Machine",
       "album": "Party Hits: Summer Edition",
       "durationMs": 252933,
+      "isrc": "USSM10026825",
       "ids": {
         "appleMusic": "1308724978"
       }
@@ -141,8 +205,14 @@
       "artist": "Kenny Loggins",
       "album": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
       "durationMs": 215133,
+      "isrc": "USSM18600108",
       "ids": {
         "appleMusic": "405600306"
+      },
+      "features": {
+        "bpm": 156.61,
+        "gain": -11.5,
+        "source": "deezer"
       }
     },
     {
@@ -150,8 +220,14 @@
       "artist": "The B-52's",
       "album": "Cool Pop",
       "durationMs": 320680,
+      "isrc": "USRE18900030",
       "ids": {
         "appleMusic": "1795466955"
+      },
+      "features": {
+        "bpm": 133.4,
+        "gain": -12.2,
+        "source": "deezer"
       }
     },
     {
@@ -159,8 +235,14 @@
       "artist": "New Order",
       "album": "Essential 80s",
       "durationMs": 449173,
+      "isrc": "GBR8R1700275",
       "ids": {
         "appleMusic": "1540113743"
+      },
+      "features": {
+        "bpm": 130.42,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -168,6 +250,7 @@
       "artist": "Erasure",
       "album": "The Euros - Summer Football Anthems",
       "durationMs": 208200,
+      "isrc": "GBAJH9900159",
       "ids": {
         "appleMusic": "1748149571"
       }
@@ -177,8 +260,14 @@
       "artist": "Cyndi Lauper",
       "album": "Twelve Deadly Cyns...And Then Some",
       "durationMs": 234600,
+      "isrc": "USSM18300548",
       "ids": {
         "appleMusic": "201575078"
+      },
+      "features": {
+        "bpm": 120.5,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -186,8 +275,14 @@
       "artist": "Bruce Springsteen",
       "album": "Greatest Hits",
       "durationMs": 242267,
+      "isrc": "USSM18400416",
       "ids": {
         "appleMusic": "1435854369"
+      },
+      "features": {
+        "bpm": 148.7,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -195,8 +290,14 @@
       "artist": "Pet Shop Boys",
       "album": "12 Inch Dance: 80s Synthpop",
       "durationMs": 460800,
+      "isrc": "GBAYE0100047",
       "ids": {
         "appleMusic": "1516376603"
+      },
+      "features": {
+        "bpm": 110,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -204,6 +305,7 @@
       "artist": "Billy Idol \u0026 Generation X",
       "album": "Anthology",
       "durationMs": 227400,
+      "isrc": "GBAYK0100065",
       "ids": {
         "appleMusic": "1631046721"
       }
@@ -213,8 +315,14 @@
       "artist": "The Clash",
       "album": "Stranger Things (Soundtrack from the Netflix Original Series)",
       "durationMs": 186093,
+      "isrc": "GBARL1200670",
       "ids": {
         "appleMusic": "1297035218"
+      },
+      "features": {
+        "bpm": 113.3,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -222,8 +330,14 @@
       "artist": "Van Halen",
       "album": "1984",
       "durationMs": 241643,
+      "isrc": "USWB11403680",
       "ids": {
         "appleMusic": "976832495"
+      },
+      "features": {
+        "bpm": 129.6,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -231,8 +345,14 @@
       "artist": "The Knack",
       "album": "Get the Knack",
       "durationMs": 295400,
+      "isrc": "USCA28900153",
       "ids": {
         "appleMusic": "716268684"
+      },
+      "features": {
+        "bpm": 147.7,
+        "gain": -13.1,
+        "source": "deezer"
       }
     },
     {
@@ -249,6 +369,7 @@
       "artist": "Madonna",
       "album": "100 Greatest Summer Songs",
       "durationMs": 218627,
+      "isrc": "NLHR52154435",
       "ids": {
         "appleMusic": "1458996869"
       }
@@ -267,8 +388,14 @@
       "artist": "Queen",
       "album": "The Game",
       "durationMs": 214653,
+      "isrc": "GBUM71029605",
       "ids": {
         "appleMusic": "1440830736"
+      },
+      "features": {
+        "bpm": 110,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -276,8 +403,14 @@
       "artist": "George Michael",
       "album": "Listen Without Prejudice / MTV Unplugged (Deluxe Edition)",
       "durationMs": 390862,
+      "isrc": "GBARL1000907",
       "ids": {
         "appleMusic": "1276741231"
+      },
+      "features": {
+        "bpm": 183.8,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -285,8 +418,14 @@
       "artist": "George Michael",
       "album": "Faith (2010 Remastered)",
       "durationMs": 193200,
+      "isrc": "GBARL1000855",
       "ids": {
         "appleMusic": "395918958"
+      },
+      "features": {
+        "bpm": 191.4,
+        "gain": -16,
+        "source": "deezer"
       }
     },
     {
@@ -294,8 +433,14 @@
       "artist": "The Human League",
       "album": "Canciones De Hace Un Tiempo - 80's",
       "durationMs": 236920,
+      "isrc": "GBAAA8100001",
       "ids": {
         "appleMusic": "1701064669"
+      },
+      "features": {
+        "bpm": 117.5,
+        "gain": -12.1,
+        "source": "deezer"
       }
     },
     {
@@ -303,8 +448,14 @@
       "artist": "Michael Jackson",
       "album": "Bad 25th Anniversary",
       "durationMs": 247369,
+      "isrc": "USSM11204980",
       "ids": {
         "appleMusic": "551515708"
+      },
+      "features": {
+        "bpm": 114.2,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -312,8 +463,14 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 238627,
+      "isrc": "USAT21802455",
       "ids": {
         "appleMusic": "1450271000"
+      },
+      "features": {
+        "bpm": 92.08,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
@@ -321,8 +478,14 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 244800,
+      "isrc": "USAT21900607",
       "ids": {
         "appleMusic": "1450271005"
+      },
+      "features": {
+        "bpm": 112.04,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -330,6 +493,7 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 214760,
+      "isrc": "USAT21900608",
       "ids": {
         "appleMusic": "1450271316"
       }
@@ -339,8 +503,14 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 223560,
+      "isrc": "USAT21900609",
       "ids": {
         "appleMusic": "1450271321"
+      },
+      "features": {
+        "bpm": 168.06,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -348,6 +518,7 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 145640,
+      "isrc": "USAT21900610",
       "ids": {
         "appleMusic": "1450271327"
       }
@@ -357,6 +528,7 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 164853,
+      "isrc": "USAT21900611",
       "ids": {
         "appleMusic": "1450271329"
       }
@@ -366,8 +538,14 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 286347,
+      "isrc": "USAT21900612",
       "ids": {
         "appleMusic": "1450271331"
+      },
+      "features": {
+        "bpm": 89.1,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -375,6 +553,7 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 190280,
+      "isrc": "USAT21900613",
       "ids": {
         "appleMusic": "1450271333"
       }
@@ -384,8 +563,14 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 294120,
+      "isrc": "USAT21900614",
       "ids": {
         "appleMusic": "1450271427"
+      },
+      "features": {
+        "bpm": 117.12,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
@@ -393,6 +578,7 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 180920,
+      "isrc": "USAT21900615",
       "ids": {
         "appleMusic": "1450271429"
       }

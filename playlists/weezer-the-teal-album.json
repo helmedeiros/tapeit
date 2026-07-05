@@ -6,8 +6,14 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 238627,
+      "isrc": "USAT21802455",
       "ids": {
         "appleMusic": "1450271000"
+      },
+      "features": {
+        "bpm": 92.08,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 244800,
+      "isrc": "USAT21900607",
       "ids": {
         "appleMusic": "1450271005"
+      },
+      "features": {
+        "bpm": 112.04,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -24,6 +36,7 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 214760,
+      "isrc": "USAT21900608",
       "ids": {
         "appleMusic": "1450271316"
       }
@@ -33,8 +46,14 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 223560,
+      "isrc": "USAT21900609",
       "ids": {
         "appleMusic": "1450271321"
+      },
+      "features": {
+        "bpm": 168.06,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -42,6 +61,7 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 145640,
+      "isrc": "USAT21900610",
       "ids": {
         "appleMusic": "1450271327"
       }
@@ -51,6 +71,7 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 164853,
+      "isrc": "USAT21900611",
       "ids": {
         "appleMusic": "1450271329"
       }
@@ -60,8 +81,14 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 286347,
+      "isrc": "USAT21900612",
       "ids": {
         "appleMusic": "1450271331"
+      },
+      "features": {
+        "bpm": 89.1,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -69,6 +96,7 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 190280,
+      "isrc": "USAT21900613",
       "ids": {
         "appleMusic": "1450271333"
       }
@@ -78,8 +106,14 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 294120,
+      "isrc": "USAT21900614",
       "ids": {
         "appleMusic": "1450271427"
+      },
+      "features": {
+        "bpm": 117.12,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
@@ -87,6 +121,7 @@
       "artist": "Weezer",
       "album": "Weezer (Teal Album)",
       "durationMs": 180920,
+      "isrc": "USAT21900615",
       "ids": {
         "appleMusic": "1450271429"
       }
@@ -96,8 +131,14 @@
       "artist": "Weezer",
       "album": "Weezer (Black Album)",
       "durationMs": 251000,
+      "isrc": "USAT21812266",
       "ids": {
         "appleMusic": "1442329824"
+      },
+      "features": {
+        "bpm": 89.88,
+        "gain": -5.8,
+        "source": "deezer"
       }
     },
     {
@@ -105,6 +146,7 @@
       "artist": "Weezer",
       "album": "Weezer (Black Album)",
       "durationMs": 221187,
+      "isrc": "USAT21811462",
       "ids": {
         "appleMusic": "1442329823"
       }

@@ -6,8 +6,14 @@
       "artist": "DEVO",
       "album": "Social Fools: The Virgin Singles 1978-1982",
       "durationMs": 160106,
+      "isrc": "GBAAA8000030",
       "ids": {
         "appleMusic": "1442312594"
+      },
+      "features": {
+        "bpm": 157.8,
+        "gain": -16.5,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "Oingo Boingo",
       "album": "Dead Man's Party",
       "durationMs": 312467,
+      "isrc": "USMC18518728",
       "ids": {
         "appleMusic": "1440740150"
+      },
+      "features": {
+        "bpm": 134.2,
+        "gain": -13.9,
+        "source": "deezer"
       }
     },
     {
@@ -24,6 +36,7 @@
       "artist": "The Romantics",
       "album": "In Heat (2023 Remaster)",
       "durationMs": 236625,
+      "isrc": "USSM18300249",
       "ids": {
         "appleMusic": "784423236"
       }
@@ -33,6 +46,7 @@
       "artist": "Scorpions",
       "album": "Best",
       "durationMs": 252440,
+      "isrc": "DELV41501024",
       "ids": {
         "appleMusic": "1440784495"
       }
@@ -42,8 +56,14 @@
       "artist": "Gary Paxton",
       "album": "Anthems for Witches 2022",
       "durationMs": 142107,
+      "isrc": "USCA26300422",
       "ids": {
         "appleMusic": "1647479690"
+      },
+      "features": {
+        "bpm": 130.83,
+        "gain": -9.02,
+        "source": "deezer"
       }
     },
     {
@@ -51,8 +71,14 @@
       "artist": "Ray Parker Jr.",
       "album": "Arista Heritage Series: Ray Parker Jr.",
       "durationMs": 240800,
+      "isrc": "USAR18400117",
       "ids": {
         "appleMusic": "298553998"
+      },
+      "features": {
+        "bpm": 115.5,
+        "gain": -13.7,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +86,14 @@
       "artist": "Ted Nugent",
       "album": "Great Gonzos! The Best of Ted Nugent",
       "durationMs": 289307,
+      "isrc": "USSM18000159",
       "ids": {
         "appleMusic": "171107706"
+      },
+      "features": {
+        "bpm": 171.6,
+        "gain": -13.1,
+        "source": "deezer"
       }
     },
     {
@@ -69,6 +101,7 @@
       "artist": "Mötley Crüe",
       "album": "Greatest Hits (Deluxe Edition)",
       "durationMs": 195853,
+      "isrc": "USBY29900159",
       "ids": {
         "appleMusic": "1606701120"
       }
@@ -78,8 +111,14 @@
       "artist": "Dolly Parton \u0026 Kenny Rogers",
       "album": "Vintage Summer Songs",
       "durationMs": 249747,
+      "isrc": "USRN19400390",
       "ids": {
         "appleMusic": "1739854496"
+      },
+      "features": {
+        "bpm": 101.83,
+        "gain": -14,
+        "source": "deezer"
       }
     },
     {
@@ -87,8 +126,14 @@
       "artist": "Bobby \"Boris\" Pickett \u0026 The Crypt-Kickers",
       "album": "Horrifying Hits",
       "durationMs": 192040,
+      "isrc": "USA370509585",
       "ids": {
         "appleMusic": "1590261076"
+      },
+      "features": {
+        "bpm": 140.6,
+        "gain": -16.7,
+        "source": "deezer"
       }
     },
     {
@@ -96,8 +141,14 @@
       "artist": "Duran Duran",
       "album": "New Year's Eve",
       "durationMs": 207787,
+      "isrc": "GBAYE8100039",
       "ids": {
         "appleMusic": "1181210766"
+      },
+      "features": {
+        "bpm": 131.7,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -105,8 +156,14 @@
       "artist": "The Mercy Brothers",
       "album": "Backseat Memories of the 1960's - Vol. 10",
       "durationMs": 141675,
+      "isrc": "QMWN31502717",
       "ids": {
         "appleMusic": "1107445486"
+      },
+      "features": {
+        "bpm": 106.56,
+        "gain": -13.3,
+        "source": "deezer"
       }
     },
     {
@@ -114,6 +171,7 @@
       "artist": "Jim Croce",
       "album": "Photographs \u0026 Memories: His Greatest Hits",
       "durationMs": 182009,
+      "isrc": "USRHD0804156",
       "ids": {
         "appleMusic": "1509297889"
       }
@@ -123,8 +181,14 @@
       "artist": "The Psychedelic Furs",
       "album": "Mirror Moves",
       "durationMs": 257686,
+      "isrc": "GBBBN8400013",
       "ids": {
         "appleMusic": "185821165"
+      },
+      "features": {
+        "bpm": 123.41,
+        "gain": -12.9,
+        "source": "deezer"
       }
     },
     {
@@ -132,8 +196,14 @@
       "artist": "The Clash",
       "album": "Hits Back",
       "durationMs": 250474,
+      "isrc": "GBARL1201020",
       "ids": {
         "appleMusic": "993870576"
+      },
+      "features": {
+        "bpm": 122,
+        "gain": -11.9,
+        "source": "deezer"
       }
     },
     {
@@ -150,8 +220,14 @@
       "artist": "Carroll Lloyd",
       "album": "Play The Game - The XL and Sounds of Memphis Story, Vol. 2",
       "durationMs": 154440,
+      "isrc": "USXUZ1110017",
       "ids": {
         "appleMusic": "456051025"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -13.9,
+        "source": "deezer"
       }
     },
     {
@@ -159,8 +235,14 @@
       "artist": "Bobby Bare",
       "album": "Streets of Baltimore",
       "durationMs": 163476,
+      "isrc": "USRN11500105",
       "ids": {
         "appleMusic": "979440389"
+      },
+      "features": {
+        "bpm": 102.6,
+        "gain": -16.3,
+        "source": "deezer"
       }
     },
     {
@@ -168,8 +250,14 @@
       "artist": "Billie Holiday",
       "album": "Lover Man",
       "durationMs": 175427,
+      "isrc": "USMC14472497",
       "ids": {
         "appleMusic": "1444488923"
+      },
+      "features": {
+        "bpm": 138.7,
+        "gain": -16.3,
+        "source": "deezer"
       }
     },
     {
@@ -177,8 +265,14 @@
       "artist": "Queen",
       "album": "Riffs",
       "durationMs": 265440,
+      "isrc": "GBUM71106180",
       "ids": {
         "appleMusic": "1823323670"
+      },
+      "features": {
+        "bpm": 130.4,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -195,8 +289,14 @@
       "artist": "Roy Orbison",
       "album": "In Dreams",
       "durationMs": 151395,
+      "isrc": "USBT21602617",
       "ids": {
         "appleMusic": "997480293"
+      },
+      "features": {
+        "bpm": 111.14,
+        "gain": -13,
+        "source": "deezer"
       }
     },
     {
@@ -204,8 +304,14 @@
       "artist": "Billie Holiday",
       "album": "Billie Holiday's Greatest Hits",
       "durationMs": 154867,
+      "isrc": "USMC14573008",
       "ids": {
         "appleMusic": "1434875024"
+      },
+      "features": {
+        "bpm": 113.27,
+        "gain": -18.1,
+        "source": "deezer"
       }
     },
     {
@@ -213,6 +319,7 @@
       "artist": "Ratt",
       "album": "Rock City",
       "durationMs": 265893,
+      "isrc": "USAT29900560",
       "ids": {
         "appleMusic": "1457976248"
       }
@@ -222,6 +329,7 @@
       "artist": "Bon Jovi",
       "album": "Bon Jovi",
       "durationMs": 230713,
+      "isrc": "USPR39402231",
       "ids": {
         "appleMusic": "1440814439"
       }
@@ -231,8 +339,14 @@
       "artist": "Fad Gadget",
       "album": "The Fad Gadget Singles",
       "durationMs": 344307,
+      "isrc": "GBAJH0502301",
       "ids": {
         "appleMusic": "767382080"
+      },
+      "features": {
+        "bpm": 100.1,
+        "gain": -16.6,
+        "source": "deezer"
       }
     },
     {
@@ -240,6 +354,7 @@
       "artist": "John Carpenter \u0026 Alan Howarth",
       "album": "Escape from New York (Original Motion Picture Soundtrack)",
       "durationMs": 210347,
+      "isrc": "GBAJC0002930",
       "ids": {
         "appleMusic": "1833047784"
       }
@@ -249,6 +364,7 @@
       "artist": "The Runaways",
       "album": "Female Rage",
       "durationMs": 420173,
+      "isrc": "USIR20400628",
       "ids": {
         "appleMusic": "1824263989"
       }
@@ -258,8 +374,14 @@
       "artist": "Metallica",
       "album": "Kill 'Em All (Remastered)",
       "durationMs": 432547,
+      "isrc": "QMKHM1600027",
       "ids": {
         "appleMusic": "1440843817"
+      },
+      "features": {
+        "bpm": 103.36,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -267,8 +389,14 @@
       "artist": "The Clash",
       "album": "Stranger Things (Soundtrack from the Netflix Original Series)",
       "durationMs": 186093,
+      "isrc": "GBARL1200670",
       "ids": {
         "appleMusic": "1297035218"
+      },
+      "features": {
+        "bpm": 113.3,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -276,8 +404,14 @@
       "artist": "Barbra Streisand",
       "album": "The Essential Barbra Streisand",
       "durationMs": 210027,
+      "isrc": "USSM10024187",
       "ids": {
         "appleMusic": "201291855"
+      },
+      "features": {
+        "bpm": 139.7,
+        "gain": -13.6,
+        "source": "deezer"
       }
     },
     {
@@ -285,8 +419,14 @@
       "artist": "Donna Summer",
       "album": "She Works Hard For The Money (Deluxe Edition)",
       "durationMs": 277093,
+      "isrc": "USPR38305267",
       "ids": {
         "appleMusic": "1672459723"
+      },
+      "features": {
+        "bpm": 118.1,
+        "gain": -19.7,
+        "source": "deezer"
       }
     },
     {
@@ -294,6 +434,7 @@
       "artist": "Tangerine Dream",
       "album": "The Blue Years Anthology 1980-1987: Ride On the Ray",
       "durationMs": 236307,
+      "isrc": "GBBLY1100787",
       "ids": {
         "appleMusic": "1563803263"
       }
@@ -303,8 +444,14 @@
       "artist": "Pat Benatar",
       "album": "Best Shots",
       "durationMs": 323493,
+      "isrc": "USCH38400020",
       "ids": {
         "appleMusic": "724687091"
+      },
+      "features": {
+        "bpm": 181.3,
+        "gain": -12.9,
+        "source": "deezer"
       }
     },
     {
@@ -321,6 +468,7 @@
       "artist": "Endless Taverns",
       "album": "Twist of Fate - Single",
       "durationMs": 219636,
+      "isrc": "QZHNC2576923",
       "ids": {
         "appleMusic": "1802026331"
       }
@@ -339,8 +487,14 @@
       "artist": "The Police",
       "album": "The Very Best of Sting \u0026 The Police",
       "durationMs": 251333,
+      "isrc": "GBAAM8300001",
       "ids": {
         "appleMusic": "1440882897"
+      },
+      "features": {
+        "bpm": 117.5,
+        "gain": -13.5,
+        "source": "deezer"
       }
     }
   ]

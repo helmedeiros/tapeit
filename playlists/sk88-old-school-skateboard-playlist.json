@@ -1,39 +1,265 @@
 {
   "name": "SK88: Old School Skateboard Playlist",
   "tracks": [
-    {"title": "Weakness", "artist": "McRad"},
-    {"title": "Four Thirty One", "artist": "Odd Man Out"},
-    {"title": "Coolidge", "artist": "Descendents"},
-    {"title": "Holidays in the Sun", "artist": "Sex Pistols"},
-    {"title": "That's Good", "artist": "Devo"},
-    {"title": "Paranoid", "artist": "Black Sabbath"},
-    {"title": "Killed by Death", "artist": "Motörhead"},
-    {"title": "We Care a Lot", "artist": "Faith No More"},
-    {"title": "Astro Zombies", "artist": "Misfits"},
-    {"title": "Don't Wanna See You Cry", "artist": "Hard-Ons"},
-    {"title": "Skid Row", "artist": "The Stupids"},
-    {"title": "She's On It", "artist": "Beastie Boys"},
-    {"title": "Wild in the Streets", "artist": "Circle Jerks"},
-    {"title": "Something to Prove", "artist": "Spermbirds"},
-    {"title": "California Über Alles", "artist": "Dead Kennedys"},
-    {"title": "Possessed to Skate", "artist": "Suicidal Tendencies"},
-    {"title": "One Hundred Punks", "artist": "Generation X"},
-    {"title": "Wildflower", "artist": "The Cult"},
-    {"title": "Love Song", "artist": "The Damned"},
-    {"title": "Higher Ground", "artist": "Red Hot Chili Peppers"},
-    {"title": "Freddie's Dead", "artist": "Fishbone"},
-    {"title": "Cold Metal", "artist": "Iggy Pop"},
-    {"title": "Too Much", "artist": "GBH"},
-    {"title": "Sweet Young Thing Ain't Sweet No More", "artist": "Mudhoney"},
-    {"title": "I Just Wanna Have Something To Do", "artist": "Ramones"},
-    {"title": "Peaches", "artist": "The Stranglers"},
-    {"title": "Soul Craft", "artist": "Bad Brains"},
-    {"title": "Church of Fun", "artist": "Gang Green"},
-    {"title": "The Thing That Should Not Be", "artist": "Metallica"},
-    {"title": "Purple Haze", "artist": "Jimi Hendrix"},
-    {"title": "(I Can't Get No) Satisfaction", "artist": "The Rolling Stones"},
-    {"title": "Never Enough", "artist": "Jesus Jones"},
-    {"title": "Into the Valley", "artist": "The Skids"},
-    {"title": "Blueprint", "artist": "Fugazi"}
+    {
+      "title": "Weakness",
+      "artist": "McRad",
+      "isrc": "USCG40510173",
+      "features": {
+        "bpm": 156,
+        "gain": -5.2,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Four Thirty One",
+      "artist": "Odd Man Out"
+    },
+    {
+      "title": "Coolidge",
+      "artist": "Descendents",
+      "isrc": "USYZV8711202",
+      "features": {
+        "bpm": 96.6,
+        "gain": -14.8,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Holidays in the Sun",
+      "artist": "Sex Pistols",
+      "isrc": "GBUM71200584",
+      "features": {
+        "bpm": 147.1,
+        "gain": -10.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "That's Good",
+      "artist": "Devo",
+      "isrc": "GBAAA8200348",
+      "features": {
+        "bpm": 152,
+        "gain": -17.4,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Paranoid",
+      "artist": "Black Sabbath",
+      "isrc": "GBAJE7000057"
+    },
+    {
+      "title": "Killed by Death",
+      "artist": "Motörhead",
+      "isrc": "GBAJE8400023"
+    },
+    {
+      "title": "We Care a Lot",
+      "artist": "Faith No More",
+      "isrc": "GBPVV1601297",
+      "features": {
+        "bpm": 106.56,
+        "gain": -9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Astro Zombies",
+      "artist": "Misfits",
+      "isrc": "GBAAP0600041",
+      "features": {
+        "bpm": 107.1,
+        "gain": -14.3,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Don't Wanna See You Cry",
+      "artist": "Hard-Ons",
+      "isrc": "USX5G9303501",
+      "features": {
+        "bpm": 104.7,
+        "gain": -16,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Skid Row",
+      "artist": "The Stupids",
+      "isrc": "GBEGS0800042",
+      "features": {
+        "bpm": 118.5,
+        "gain": -10,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "She's On It",
+      "artist": "Beastie Boys",
+      "isrc": "USDJ20110361",
+      "features": {
+        "bpm": 140.62,
+        "gain": -9.5,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Wild in the Streets",
+      "artist": "Circle Jerks",
+      "isrc": "US3X59500301"
+    },
+    {
+      "title": "Something to Prove",
+      "artist": "Spermbirds",
+      "isrc": "DEZ650607062"
+    },
+    {
+      "title": "California Über Alles",
+      "artist": "Dead Kennedys",
+      "isrc": "USA560458386"
+    },
+    {
+      "title": "Possessed to Skate",
+      "artist": "Suicidal Tendencies",
+      "isrc": "USCN38700021",
+      "features": {
+        "bpm": 184.6,
+        "gain": -13.6,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "One Hundred Punks",
+      "artist": "Generation X",
+      "isrc": "GBAYK0200098"
+    },
+    {
+      "title": "Wildflower",
+      "artist": "The Cult"
+    },
+    {
+      "title": "Love Song",
+      "artist": "The Damned",
+      "isrc": "GBBHN8600013"
+    },
+    {
+      "title": "Higher Ground",
+      "artist": "Red Hot Chili Peppers",
+      "isrc": "USEM38900123",
+      "features": {
+        "bpm": 141.1,
+        "gain": -8.4,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Freddie's Dead",
+      "artist": "Fishbone",
+      "isrc": "USSM10017749",
+      "features": {
+        "bpm": 99.62,
+        "gain": -9.8,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Cold Metal",
+      "artist": "Iggy Pop",
+      "isrc": "USNPD0500276",
+      "features": {
+        "bpm": 132.9,
+        "gain": -6.4,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Too Much",
+      "artist": "GBH",
+      "isrc": "GBBLY1900096"
+    },
+    {
+      "title": "Sweet Young Thing Ain't Sweet No More",
+      "artist": "Mudhoney",
+      "isrc": "USSUB0877302"
+    },
+    {
+      "title": "I Just Wanna Have Something To Do",
+      "artist": "Ramones"
+    },
+    {
+      "title": "Peaches",
+      "artist": "The Stranglers",
+      "isrc": "GBAYE7700033",
+      "features": {
+        "bpm": 142.6,
+        "gain": -13.1,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Soul Craft",
+      "artist": "Bad Brains"
+    },
+    {
+      "title": "Church of Fun",
+      "artist": "Gang Green",
+      "isrc": "NLA320320367",
+      "features": {
+        "bpm": 147.7,
+        "gain": -7.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "The Thing That Should Not Be",
+      "artist": "Metallica",
+      "isrc": "QMKHM1600220",
+      "features": {
+        "bpm": 111.44,
+        "gain": -11.7,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Purple Haze",
+      "artist": "Jimi Hendrix",
+      "isrc": "USQX90900765",
+      "features": {
+        "bpm": 109.7,
+        "gain": -9.9,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "(I Can't Get No) Satisfaction",
+      "artist": "The Rolling Stones",
+      "isrc": "USA176510160",
+      "features": {
+        "bpm": 136.4,
+        "gain": -12.1,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Never Enough",
+      "artist": "Jesus Jones",
+      "isrc": "GBAYE8900206",
+      "features": {
+        "bpm": 130.4,
+        "gain": -13.2,
+        "source": "deezer"
+      }
+    },
+    {
+      "title": "Into the Valley",
+      "artist": "The Skids"
+    },
+    {
+      "title": "Blueprint",
+      "artist": "Fugazi",
+      "isrc": "US35U0404505"
+    }
   ]
 }

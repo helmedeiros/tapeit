@@ -6,8 +6,14 @@
       "artist": "Vanessa da Mata",
       "album": "Sim (Prime Selection)",
       "durationMs": 235600,
+      "isrc": "BRSME0700196",
       "ids": {
         "appleMusic": "479066275"
+      },
+      "features": {
+        "bpm": 110.8,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +30,14 @@
       "artist": "Marvin Gaye \u0026 Studio Rio",
       "album": "21 Hits of Brazil",
       "durationMs": 249333,
+      "isrc": "USSM11401531",
       "ids": {
         "appleMusic": "1137185130"
+      },
+      "features": {
+        "bpm": 188.8,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -33,6 +45,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 201500,
+      "isrc": "SEBGA2000056",
       "ids": {
         "appleMusic": "1648263866"
       }
@@ -51,8 +64,14 @@
       "artist": "Astrud Gilberto",
       "album": "The Astrud Gilberto Album",
       "durationMs": 139276,
+      "isrc": "USPR36500060",
       "ids": {
         "appleMusic": "1469584221"
+      },
+      "features": {
+        "bpm": 147.13,
+        "gain": -17.7,
+        "source": "deezer"
       }
     },
     {
@@ -60,6 +79,7 @@
       "artist": "NARA \u0026 Bossa Bros",
       "album": "Bossa Covers",
       "durationMs": 250576,
+      "isrc": "SEBGE1900112",
       "ids": {
         "appleMusic": "1648264405"
       }
@@ -69,6 +89,7 @@
       "artist": "Douglas Lemos",
       "album": "Na Feira da Glória - Single",
       "durationMs": 198058,
+      "isrc": "BXD072000001",
       "ids": {
         "appleMusic": "1518866890"
       }
@@ -78,6 +99,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 209000,
+      "isrc": "SEBGA2001499",
       "ids": {
         "appleMusic": "1648263666"
       }
@@ -87,6 +109,7 @@
       "artist": "Luísa Sonza \u0026 Roberto Menescal",
       "album": "Bossa Sempre Nova",
       "durationMs": 234951,
+      "isrc": "BRSME2501876",
       "ids": {
         "appleMusic": "1880803987"
       }
@@ -96,8 +119,14 @@
       "artist": "Pauline Croze",
       "album": "Bossa Nova",
       "durationMs": 197880,
+      "isrc": "FR9W11602520",
       "ids": {
         "appleMusic": "1456098198"
+      },
+      "features": {
+        "bpm": 172.27,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -105,6 +134,7 @@
       "artist": "Rio Branco",
       "album": "Bossa Nova Covers (Vol. 4)",
       "durationMs": 301500,
+      "isrc": "SEBGA2304228",
       "ids": {
         "appleMusic": "1709078219"
       }
@@ -114,8 +144,14 @@
       "artist": "Mario Biondi",
       "album": "Brasil",
       "durationMs": 262582,
+      "isrc": "ITB001800034",
       "ids": {
         "appleMusic": "1343813580"
+      },
+      "features": {
+        "bpm": 126.05,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -123,6 +159,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 204155,
+      "isrc": "SEBGA2100021",
       "ids": {
         "appleMusic": "1648263672"
       }
@@ -132,8 +169,14 @@
       "artist": "Natiruts",
       "album": "Box Natiruts",
       "durationMs": 332653,
+      "isrc": "BRXCR0900005",
       "ids": {
         "appleMusic": "545758005"
+      },
+      "features": {
+        "bpm": 101.08,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -141,8 +184,14 @@
       "artist": "Paula Sergio",
       "album": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
       "durationMs": 191147,
+      "isrc": "ARG991001428",
       "ids": {
         "appleMusic": "380947202"
+      },
+      "features": {
+        "bpm": 175.2,
+        "gain": -15.4,
+        "source": "deezer"
       }
     },
     {
@@ -150,6 +199,7 @@
       "artist": "NARA \u0026 Bossa Bros",
       "album": "Bossa Covers",
       "durationMs": 214404,
+      "isrc": "SEBGE1900113",
       "ids": {
         "appleMusic": "1648264551"
       }
@@ -168,6 +218,7 @@
       "artist": "Bossa Bros \u0026 NARA",
       "album": "Bossa Covers",
       "durationMs": 240100,
+      "isrc": "SEBGA2200040",
       "ids": {
         "appleMusic": "1648263876"
       }
@@ -177,6 +228,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Nova Lounge Covers",
       "durationMs": 223889,
+      "isrc": "SEBGA2100889",
       "ids": {
         "appleMusic": "1648536061"
       }
@@ -186,6 +238,7 @@
       "artist": "Luísa Sonza \u0026 Toquinho",
       "album": "Bossa Sempre Nova",
       "durationMs": 171491,
+      "isrc": "BRSME2501601",
       "ids": {
         "appleMusic": "1880803882"
       }
@@ -195,6 +248,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Flowers - Single",
       "durationMs": 216723,
+      "isrc": "SEBGA2303689",
       "ids": {
         "appleMusic": "1694897045"
       }
@@ -204,8 +258,14 @@
       "artist": "Paul Desmond",
       "album": "Bossa Antigua",
       "durationMs": 282560,
+      "isrc": "USBB16401013",
       "ids": {
         "appleMusic": "270573242"
+      },
+      "features": {
+        "bpm": 98,
+        "gain": -15.8,
+        "source": "deezer"
       }
     },
     {
@@ -213,6 +273,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 223106,
+      "isrc": "SEBGA2001556",
       "ids": {
         "appleMusic": "1648263867"
       }
@@ -222,8 +283,14 @@
       "artist": "Charlie Byrd",
       "album": "The Sound of Brazil",
       "durationMs": 168173,
+      "isrc": "USSM10103779",
       "ids": {
         "appleMusic": "888205235"
+      },
+      "features": {
+        "bpm": 149.3,
+        "gain": -12.3,
+        "source": "deezer"
       }
     },
     {
@@ -231,6 +298,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Die With A Smile - Single",
       "durationMs": 258354,
+      "isrc": "SEBGA2500973",
       "ids": {
         "appleMusic": "1823687309"
       }
@@ -240,8 +308,14 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 205747,
+      "isrc": "SEBGA1900579",
       "ids": {
         "appleMusic": "1648264567"
+      },
+      "features": {
+        "bpm": 164.06,
+        "gain": -15.2,
+        "source": "deezer"
       }
     },
     {
@@ -249,6 +323,7 @@
       "artist": "Luísa Sonza \u0026 Kayblack",
       "album": "Sagrado Profano - Single",
       "durationMs": 196602,
+      "isrc": "BRSME2301251",
       "ids": {
         "appleMusic": "1748238203"
       }
@@ -258,6 +333,7 @@
       "artist": "Rio Branco",
       "album": "Bossa Nova Covers, Vol. 3",
       "durationMs": 266000,
+      "isrc": "SEBGA2302829",
       "ids": {
         "appleMusic": "1689392340"
       }
@@ -267,6 +343,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 248813,
+      "isrc": "SEBGA2000332",
       "ids": {
         "appleMusic": "1648263872"
       }
@@ -276,8 +353,14 @@
       "artist": "Paula Sergio",
       "album": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
       "durationMs": 150613,
+      "isrc": "ARG991001419",
       "ids": {
         "appleMusic": "380947188"
+      },
+      "features": {
+        "bpm": 162.8,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -285,6 +368,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Brunch Music, Soft Morning Mix",
       "durationMs": 193616,
+      "isrc": "SEBGA2100174",
       "ids": {
         "appleMusic": "1879568521"
       }
@@ -294,6 +378,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Nova Covers - Best Of",
       "durationMs": 171667,
+      "isrc": "SEBGA2100370",
       "ids": {
         "appleMusic": "1812881784"
       }
@@ -303,6 +388,7 @@
       "artist": "Luísa Sonza",
       "album": "Festa da Virada - Ano Novo 2024/2025",
       "durationMs": 182112,
+      "isrc": "BRSME2301248",
       "ids": {
         "appleMusic": "1782989414"
       }
@@ -312,6 +398,7 @@
       "artist": "Laza Bossa",
       "album": "A Breeze of Bossa",
       "durationMs": 200000,
+      "isrc": "SEBGA2401571",
       "ids": {
         "appleMusic": "1777999269"
       }
@@ -321,8 +408,14 @@
       "artist": "Vanessa da Mata",
       "album": "Sim (Prime Selection)",
       "durationMs": 249973,
+      "isrc": "BRSME0700197",
       "ids": {
         "appleMusic": "479066276"
+      },
+      "features": {
+        "bpm": 148.2,
+        "gain": -11.2,
+        "source": "deezer"
       }
     },
     {
@@ -330,6 +423,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 238732,
+      "isrc": "SEBGA1902919",
       "ids": {
         "appleMusic": "1648264147"
       }
@@ -348,6 +442,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Isn't She Lovely - Single",
       "durationMs": 215773,
+      "isrc": "SEBGA2501226",
       "ids": {
         "appleMusic": "1840877915"
       }
@@ -357,8 +452,14 @@
       "artist": "Bill Withers \u0026 Studio Rio",
       "album": "Studio Rio Presents: The Brazil Connection",
       "durationMs": 237933,
+      "isrc": "USSM11401532",
       "ids": {
         "appleMusic": "865593016"
+      },
+      "features": {
+        "bpm": 195,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -366,6 +467,7 @@
       "artist": "Laza Bossa",
       "album": "Do you speak Bossa Nova?",
       "durationMs": 191061,
+      "isrc": "SEBGA2400532",
       "ids": {
         "appleMusic": "1742774565"
       }
@@ -375,6 +477,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 159401,
+      "isrc": "SEBGA1902696",
       "ids": {
         "appleMusic": "1648264420"
       }
@@ -384,6 +487,7 @@
       "artist": "Bossa Bros",
       "album": "Bossa Covers",
       "durationMs": 201000,
+      "isrc": "SEBGA2000420",
       "ids": {
         "appleMusic": "1648263674"
       }
@@ -411,8 +515,14 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Nova Lounge Covers",
       "durationMs": 223484,
+      "isrc": "SEBGE1900001",
       "ids": {
         "appleMusic": "1648539036"
+      },
+      "features": {
+        "bpm": 112.04,
+        "gain": -19.7,
+        "source": "deezer"
       }
     },
     {
@@ -420,6 +530,7 @@
       "artist": "Pablo Cepeda",
       "album": "Bossa Covers",
       "durationMs": 279011,
+      "isrc": "SEBGA2001552",
       "ids": {
         "appleMusic": "1648264151"
       }
@@ -429,8 +540,14 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 212689,
+      "isrc": "SEBGE1900006",
       "ids": {
         "appleMusic": "1648263670"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -13.2,
+        "source": "deezer"
       }
     },
     {
@@ -438,8 +555,14 @@
       "artist": "João Gilberto",
       "album": "World Class Classics: João Gilbert",
       "durationMs": 123333,
+      "isrc": "USA561445918",
       "ids": {
         "appleMusic": "821890866"
+      },
+      "features": {
+        "bpm": 174.45,
+        "gain": -17.9,
+        "source": "deezer"
       }
     },
     {
@@ -447,6 +570,7 @@
       "artist": "Rio Branco",
       "album": "Bossa Nova Covers (Vol. 4)",
       "durationMs": 206250,
+      "isrc": "SEBGA2304229",
       "ids": {
         "appleMusic": "1709078220"
       }
@@ -456,6 +580,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Tiny Dancer - Single",
       "durationMs": 222282,
+      "isrc": "SEBGA2400630",
       "ids": {
         "appleMusic": "1746925477"
       }
@@ -465,8 +590,14 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 245013,
+      "isrc": "SEBGE1900005",
       "ids": {
         "appleMusic": "1648263874"
+      },
+      "features": {
+        "bpm": 118.12,
+        "gain": -15.9,
+        "source": "deezer"
       }
     },
     {
@@ -474,8 +605,14 @@
       "artist": "Paula Sergio",
       "album": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
       "durationMs": 182973,
+      "isrc": "ARG991001417",
       "ids": {
         "appleMusic": "380947186"
+      },
+      "features": {
+        "bpm": 145.6,
+        "gain": -13.7,
+        "source": "deezer"
       }
     },
     {
@@ -483,6 +620,7 @@
       "artist": "Rio Branco \u0026 Bossanova Covers",
       "album": "Bossa Nova Covers (Vol. 2) - Single",
       "durationMs": 214224,
+      "isrc": "SEBGA2100621",
       "ids": {
         "appleMusic": "1586814001"
       }
@@ -492,8 +630,14 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 223960,
+      "isrc": "SEBGA1900578",
       "ids": {
         "appleMusic": "1648264911"
+      },
+      "features": {
+        "bpm": 142.07,
+        "gain": -17.9,
+        "source": "deezer"
       }
     },
     {
@@ -501,6 +645,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 210000,
+      "isrc": "SEBGA2100741",
       "ids": {
         "appleMusic": "1648263858"
       }
@@ -510,6 +655,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Nova - Covers Of Popular Songs",
       "durationMs": 278610,
+      "isrc": "SEBGA2100316",
       "ids": {
         "appleMusic": "1750221869"
       }
@@ -519,6 +665,7 @@
       "artist": "Rio Branco",
       "album": "Bossa Nova Covers, Vol. 3",
       "durationMs": 271500,
+      "isrc": "SEBGA2302831",
       "ids": {
         "appleMusic": "1689392342"
       }
@@ -528,8 +675,14 @@
       "artist": "Mario Biondi",
       "album": "Brasil",
       "durationMs": 237014,
+      "isrc": "ITB001800026",
       "ids": {
         "appleMusic": "1343813566"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -537,6 +690,7 @@
       "artist": "Pablo Cepeda",
       "album": "Bossa Covers",
       "durationMs": 201526,
+      "isrc": "SEBGA2001554",
       "ids": {
         "appleMusic": "1648264425"
       }
@@ -546,6 +700,7 @@
       "artist": "Rio Branco \u0026 Bossanova Covers",
       "album": "Bossanova Versions",
       "durationMs": 247309,
+      "isrc": "SEBGA2000188",
       "ids": {
         "appleMusic": "1648490960"
       }
@@ -564,6 +719,7 @@
       "artist": "Rio Branco",
       "album": "Bossa Nova Covers (Vol. 4)",
       "durationMs": 226375,
+      "isrc": "SEBGA2304227",
       "ids": {
         "appleMusic": "1709078214"
       }
@@ -573,6 +729,7 @@
       "artist": "Bossa Bros \u0026 NARA",
       "album": "Yesterday - Single",
       "durationMs": 188386,
+      "isrc": "SEBGA2100372",
       "ids": {
         "appleMusic": "1574514691"
       }
@@ -582,6 +739,7 @@
       "artist": "Douglas Lemos",
       "album": "Jogo de Cintura",
       "durationMs": 173589,
+      "isrc": "BXD072100004",
       "ids": {
         "appleMusic": "1558023851"
       }
@@ -591,6 +749,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Careless Whisper - Single",
       "durationMs": 255023,
+      "isrc": "SEBGA2304819",
       "ids": {
         "appleMusic": "1722626724"
       }
@@ -600,6 +759,7 @@
       "artist": "Pablo Cepeda",
       "album": "Bossa Nova Covers Vol. 2 - Single",
       "durationMs": 241276,
+      "isrc": "SEBGA2100170",
       "ids": {
         "appleMusic": "1562810554"
       }
@@ -609,8 +769,14 @@
       "artist": "João Gilberto",
       "album": "Chega de Saudade",
       "durationMs": 77293,
+      "isrc": "USA561445915",
       "ids": {
         "appleMusic": "1595577742"
+      },
+      "features": {
+        "bpm": 182.94,
+        "gain": -17.8,
+        "source": "deezer"
       }
     },
     {
@@ -618,6 +784,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Hooked On a Feeling - Single",
       "durationMs": 200542,
+      "isrc": "SEBGA1903123",
       "ids": {
         "appleMusic": "1485402970"
       }
@@ -627,8 +794,14 @@
       "artist": "Negroni's Trio",
       "album": "New Era",
       "durationMs": 239479,
+      "isrc": "USSD11700279",
       "ids": {
         "appleMusic": "1277899280"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -13.3,
+        "source": "deezer"
       }
     },
     {
@@ -636,6 +809,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 194000,
+      "isrc": "SEBGE1900002",
       "ids": {
         "appleMusic": "1648264923"
       }
@@ -645,8 +819,14 @@
       "artist": "Paul Desmond",
       "album": "Cool Imagination",
       "durationMs": 338067,
+      "isrc": "USBB16401007",
       "ids": {
         "appleMusic": "255377755"
+      },
+      "features": {
+        "bpm": 152.6,
+        "gain": -15.9,
+        "source": "deezer"
       }
     },
     {
@@ -654,6 +834,7 @@
       "artist": "Pablo Cepeda",
       "album": "Bossa Covers",
       "durationMs": 301006,
+      "isrc": "SEBGA2001553",
       "ids": {
         "appleMusic": "1648264546"
       }
@@ -663,8 +844,14 @@
       "artist": "Bo Kaspers Orkester",
       "album": "You and Me",
       "durationMs": 259467,
+      "isrc": "SEBGA9803043",
       "ids": {
         "appleMusic": "494934901"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -10.7,
+        "source": "deezer"
       }
     },
     {
@@ -681,6 +868,7 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Smells Like Teen Spirit - Single",
       "durationMs": 277470,
+      "isrc": "SEBGA2302800",
       "ids": {
         "appleMusic": "1689029752"
       }
@@ -690,6 +878,7 @@
       "artist": "Pablo Cepeda",
       "album": "Take You Dancing - Single",
       "durationMs": 268500,
+      "isrc": "SEBGA2100425",
       "ids": {
         "appleMusic": "1577379875"
       }
@@ -699,8 +888,14 @@
       "artist": "Paula Sergio",
       "album": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
       "durationMs": 251427,
+      "isrc": "ARG991001424",
       "ids": {
         "appleMusic": "380947193"
+      },
+      "features": {
+        "bpm": 187.1,
+        "gain": -17.1,
+        "source": "deezer"
       }
     },
     {
@@ -708,8 +903,14 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 198000,
+      "isrc": "SEBGE1900004",
       "ids": {
         "appleMusic": "1648265386"
+      },
+      "features": {
+        "bpm": 179.76,
+        "gain": -19.3,
+        "source": "deezer"
       }
     },
     {
@@ -717,6 +918,7 @@
       "artist": "Stacey Kent",
       "album": "I Know I Dream: The Orchestral Sessions (Deluxe Version)",
       "durationMs": 294253,
+      "isrc": "GBKRR1700709",
       "ids": {
         "appleMusic": "1641547240"
       }
@@ -726,6 +928,7 @@
       "artist": "Rio Branco",
       "album": "Bossa Covers",
       "durationMs": 231500,
+      "isrc": "SEBGA2100321",
       "ids": {
         "appleMusic": "1648264558"
       }
@@ -735,6 +938,7 @@
       "artist": "Elis Regina \u0026 Antônio Carlos Jobim",
       "album": "Antonio Carlos Jobim's Finest Hour",
       "durationMs": 214867,
+      "isrc": "BRPGD7400001",
       "ids": {
         "appleMusic": "1434876882"
       }
@@ -744,6 +948,7 @@
       "artist": "Bossa Bros",
       "album": "Bossa Covers",
       "durationMs": 201000,
+      "isrc": "SEBGA2000464",
       "ids": {
         "appleMusic": "1648263870"
       }
@@ -753,6 +958,7 @@
       "artist": "Pablo Cepeda",
       "album": "Bossa Nova Covers Vol. 2 - Single",
       "durationMs": 184250,
+      "isrc": "SEBGA2100168",
       "ids": {
         "appleMusic": "1562810552"
       }
@@ -762,8 +968,14 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 221227,
+      "isrc": "SEBGA1900577",
       "ids": {
         "appleMusic": "1648264554"
+      },
+      "features": {
+        "bpm": 109.96,
+        "gain": -15.7,
+        "source": "deezer"
       }
     },
     {
@@ -771,6 +983,7 @@
       "artist": "NARA \u0026 Bossa Bros",
       "album": "Bossa Covers",
       "durationMs": 137926,
+      "isrc": "SEBGA2100352",
       "ids": {
         "appleMusic": "1648264570"
       }
@@ -780,8 +993,14 @@
       "artist": "João Gilberto",
       "album": "Golden Memories Collection",
       "durationMs": 116307,
+      "isrc": "US6R21315274",
       "ids": {
         "appleMusic": "1778120839"
+      },
+      "features": {
+        "bpm": 166,
+        "gain": -11.2,
+        "source": "deezer"
       }
     },
     {
@@ -789,6 +1008,7 @@
       "artist": "Rio Branco",
       "album": "Bossa Nova Covers, Vol. 3",
       "durationMs": 275750,
+      "isrc": "SEBGA2302836",
       "ids": {
         "appleMusic": "1689392352"
       }
@@ -798,8 +1018,14 @@
       "artist": "Paula Sergio",
       "album": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
       "durationMs": 201680,
+      "isrc": "ARG991001421",
       "ids": {
         "appleMusic": "380947190"
+      },
+      "features": {
+        "bpm": 144.1,
+        "gain": -14.9,
+        "source": "deezer"
       }
     },
     {
@@ -807,6 +1033,7 @@
       "artist": "Bossa Bros",
       "album": "Can't Take My Eyes off You - Single",
       "durationMs": 214738,
+      "isrc": "SEBGA2000746",
       "ids": {
         "appleMusic": "1523038878"
       }
@@ -825,6 +1052,7 @@
       "artist": "Rio Branco",
       "album": "Bossa Covers",
       "durationMs": 229500,
+      "isrc": "SEBGA2100320",
       "ids": {
         "appleMusic": "1648264574"
       }
@@ -834,8 +1062,14 @@
       "artist": "Billie Holiday \u0026 Studio Rio",
       "album": "Studio Rio Presents: The Brazil Connection",
       "durationMs": 226907,
+      "isrc": "USSM11307689",
       "ids": {
         "appleMusic": "865593042"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -10.5,
+        "source": "deezer"
       }
     },
     {
@@ -843,8 +1077,14 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 223960,
+      "isrc": "SEBGA1900580",
       "ids": {
         "appleMusic": "1648264559"
+      },
+      "features": {
+        "bpm": 113.89,
+        "gain": -16.6,
+        "source": "deezer"
       }
     },
     {
@@ -852,8 +1092,14 @@
       "artist": "Sonny Rollins",
       "album": "The Essential Sonny Rollins: The RCA Years",
       "durationMs": 550333,
+      "isrc": "USBB16201048",
       "ids": {
         "appleMusic": "203516587"
+      },
+      "features": {
+        "bpm": 128.4,
+        "gain": -15.8,
+        "source": "deezer"
       }
     },
     {
@@ -879,8 +1125,14 @@
       "artist": "Maria Gadú",
       "album": "(Re)descubra - Músicas De Novelas",
       "durationMs": 198173,
+      "isrc": "QM6N21705443",
       "ids": {
         "appleMusic": "1684839724"
+      },
+      "features": {
+        "bpm": 102.08,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -888,6 +1140,7 @@
       "artist": "Rio Branco",
       "album": "Bossa Covers",
       "durationMs": 213250,
+      "isrc": "SEBGA2100318",
       "ids": {
         "appleMusic": "1648264412"
       }
@@ -897,8 +1150,14 @@
       "artist": "George Duke",
       "album": "The Essential George Duke",
       "durationMs": 290324,
+      "isrc": "USSM17900333",
       "ids": {
         "appleMusic": "303520291"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -15.2,
+        "source": "deezer"
       }
     },
     {
@@ -906,6 +1165,7 @@
       "artist": "Rio Branco",
       "album": "Bossa Nova Covers, Vol. 3",
       "durationMs": 216000,
+      "isrc": "SEBGA2302835",
       "ids": {
         "appleMusic": "1689392348"
       }
@@ -924,8 +1184,14 @@
       "artist": "Pauline Croze",
       "album": "Bossa Nova",
       "durationMs": 170187,
+      "isrc": "FR9W11602522",
       "ids": {
         "appleMusic": "1456098501"
+      },
+      "features": {
+        "bpm": 152,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -933,8 +1199,14 @@
       "artist": "Paul Desmond",
       "album": "Bossa Antigua",
       "durationMs": 276467,
+      "isrc": "USBB16401015",
       "ids": {
         "appleMusic": "270573244"
+      },
+      "features": {
+        "bpm": 175.2,
+        "gain": -16.7,
+        "source": "deezer"
       }
     },
     {
@@ -942,8 +1214,14 @@
       "artist": "Vanessa da Mata",
       "album": "Mulheres do Brasil",
       "durationMs": 189667,
+      "isrc": "BRSME0200361",
       "ids": {
         "appleMusic": "611161894"
+      },
+      "features": {
+        "bpm": 107.1,
+        "gain": -11.8,
+        "source": "deezer"
       }
     },
     {
@@ -951,6 +1229,7 @@
       "artist": "Rio Branco \u0026 Bossanova Covers",
       "album": "Bossa Nova Covers - Single",
       "durationMs": 196049,
+      "isrc": "SEBGA2000189",
       "ids": {
         "appleMusic": "1502966396"
       }
@@ -960,6 +1239,7 @@
       "artist": "Vanessa da Mata",
       "album": "Vanessa da Mata Canta Tom Jobim (Deluxe Edition)",
       "durationMs": 132695,
+      "isrc": "BRVSO1300014",
       "ids": {
         "appleMusic": "655942509"
       }
@@ -969,8 +1249,14 @@
       "artist": "Djavan",
       "album": "A Voz e o Violão",
       "durationMs": 225267,
+      "isrc": "BRSGL7600021",
       "ids": {
         "appleMusic": "379515281"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -17.1,
+        "source": "deezer"
       }
     },
     {
@@ -987,8 +1273,14 @@
       "artist": "Bossa Nova Covers \u0026 Mats \u0026 My",
       "album": "Bossa Covers",
       "durationMs": 191333,
+      "isrc": "SEBGA1900581",
       "ids": {
         "appleMusic": "1648264907"
+      },
+      "features": {
+        "bpm": 140.15,
+        "gain": -14.2,
+        "source": "deezer"
       }
     },
     {
@@ -1005,6 +1297,7 @@
       "artist": "Rio Branco",
       "album": "Bossa Nova Covers, Vol. 3",
       "durationMs": 221625,
+      "isrc": "SEBGA2302830",
       "ids": {
         "appleMusic": "1689392341"
       }
@@ -1014,8 +1307,14 @@
       "artist": "Martinho da Vila",
       "album": "Pure... Brazil",
       "durationMs": 177573,
+      "isrc": "BRBMG7500011",
       "ids": {
         "appleMusic": "611605250"
+      },
+      "features": {
+        "bpm": 106,
+        "gain": -12.5,
+        "source": "deezer"
       }
     },
     {
@@ -1023,8 +1322,14 @@
       "artist": "Toquinho \u0026 Vinicius de Moraes",
       "album": "O Poeta e o Violão",
       "durationMs": 160080,
+      "isrc": "BRRGE7500025",
       "ids": {
         "appleMusic": "1055689988"
+      },
+      "features": {
+        "bpm": 153.7,
+        "gain": -12.2,
+        "source": "deezer"
       }
     },
     {
@@ -1032,6 +1337,7 @@
       "artist": "Bossa Bros \u0026 NARA",
       "album": "I'm Not In Love - Single",
       "durationMs": 163962,
+      "isrc": "SEBGA2300100",
       "ids": {
         "appleMusic": "1667483563"
       }
@@ -1041,8 +1347,14 @@
       "artist": "Gal Costa",
       "album": "Gal Estratosférica",
       "durationMs": 267267,
+      "isrc": "BRSME1500170",
       "ids": {
         "appleMusic": "1075299078"
+      },
+      "features": {
+        "bpm": 157.8,
+        "gain": -13.2,
+        "source": "deezer"
       }
     },
     {
@@ -1050,6 +1362,7 @@
       "artist": "Gilberto Gil",
       "album": "Gilbertos Samba",
       "durationMs": 292640,
+      "isrc": "BRGPG1400010",
       "ids": {
         "appleMusic": "1516406599"
       }
@@ -1059,8 +1372,14 @@
       "artist": "João Bosco",
       "album": "O Bêbado e o Equilibrista",
       "durationMs": 187800,
+      "isrc": "BRBMG7500119",
       "ids": {
         "appleMusic": "402147769"
+      },
+      "features": {
+        "bpm": 110.54,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -1077,6 +1396,7 @@
       "artist": "Bossa Bros \u0026 NARA",
       "album": "Bossa Covers",
       "durationMs": 248464,
+      "isrc": "SEBGA2201891",
       "ids": {
         "appleMusic": "1648263881"
       }
@@ -1086,8 +1406,14 @@
       "artist": "Danni Carlos",
       "album": "Pure... Brazil",
       "durationMs": 231480,
+      "isrc": "BRSME0700546",
       "ids": {
         "appleMusic": "611605300"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -13.1,
+        "source": "deezer"
       }
     },
     {
@@ -1095,8 +1421,14 @@
       "artist": "Paula Sergio",
       "album": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
       "durationMs": 361893,
+      "isrc": "ARG991001429",
       "ids": {
         "appleMusic": "380947203"
+      },
+      "features": {
+        "bpm": 149.3,
+        "gain": -16.6,
+        "source": "deezer"
       }
     },
     {
@@ -1104,8 +1436,14 @@
       "artist": "João Bosco \u0026 Angela Maria",
       "album": "Brazil: 100 Hits",
       "durationMs": 200240,
+      "isrc": "BRBMG7900012",
       "ids": {
         "appleMusic": "1308629657"
+      },
+      "features": {
+        "bpm": 100.3,
+        "gain": -11.6,
+        "source": "deezer"
       }
     },
     {
@@ -1113,6 +1451,7 @@
       "artist": "Maysa",
       "album": "Pure... Brazil",
       "durationMs": 137293,
+      "isrc": "BRSME6300002",
       "ids": {
         "appleMusic": "611605253"
       }
@@ -1122,6 +1461,7 @@
       "artist": "Pablo Cepeda",
       "album": "Bossa Nova Covers Vol. 2 - Single",
       "durationMs": 217500,
+      "isrc": "SEBGA2100169",
       "ids": {
         "appleMusic": "1562810553"
       }
@@ -1131,8 +1471,14 @@
       "artist": "The Dave Brubeck Quartet",
       "album": "Time Out",
       "durationMs": 328832,
+      "isrc": "GBBMH1099803",
       "ids": {
         "appleMusic": "193085790"
+      },
+      "features": {
+        "bpm": 172.3,
+        "gain": -27.4,
+        "source": "deezer"
       }
     },
     {
@@ -1140,8 +1486,14 @@
       "artist": "Maria Bethânia",
       "album": "Amor Festa Devoção (Ao Vivo)",
       "durationMs": 300333,
+      "isrc": "BRPUI1000684",
       "ids": {
         "appleMusic": "410676526"
+      },
+      "features": {
+        "bpm": 182.9,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -1149,8 +1501,14 @@
       "artist": "Bebel Gilberto \u0026 Seu Jorge",
       "album": "Tudo",
       "durationMs": 204922,
+      "isrc": "USSM11403111",
       "ids": {
         "appleMusic": "889947587"
+      },
+      "features": {
+        "bpm": 187.9,
+        "gain": -11.7,
+        "source": "deezer"
       }
     },
     {
@@ -1158,8 +1516,14 @@
       "artist": "João Gilberto",
       "album": "O Amor O Sorriso E A Flor",
       "durationMs": 122867,
+      "isrc": "QMFMG1444790",
       "ids": {
         "appleMusic": "1595574013"
+      },
+      "features": {
+        "bpm": 175.2,
+        "gain": -20.1,
+        "source": "deezer"
       }
     },
     {
@@ -1167,8 +1531,14 @@
       "artist": "Elis Regina",
       "album": "O Bem do Amor",
       "durationMs": 127677,
+      "isrc": "BRSME6300015",
       "ids": {
         "appleMusic": "321873496"
+      },
+      "features": {
+        "bpm": 190.5,
+        "gain": -15.2,
+        "source": "deezer"
       }
     },
     {
@@ -1176,8 +1546,14 @@
       "artist": "Djavan",
       "album": "Djavan Top Hits",
       "durationMs": 291533,
+      "isrc": "BRSME9200122",
       "ids": {
         "appleMusic": "1516014596"
+      },
+      "features": {
+        "bpm": 90.1,
+        "gain": -12.6,
+        "source": "deezer"
       }
     },
     {
@@ -1185,8 +1561,14 @@
       "artist": "Beth Carvalho",
       "album": "Latin Grooves - Brasil, Vol. 2",
       "durationMs": 218212,
+      "isrc": "BRBMG1802369",
       "ids": {
         "appleMusic": "252847414"
+      },
+      "features": {
+        "bpm": 131.25,
+        "gain": -16,
+        "source": "deezer"
       }
     },
     {
@@ -1194,8 +1576,14 @@
       "artist": "João Donato",
       "album": "The New Sound of Brazil",
       "durationMs": 191122,
+      "isrc": "USRC11500978",
       "ids": {
         "appleMusic": "1040650945"
+      },
+      "features": {
+        "bpm": 116.5,
+        "gain": -21.3,
+        "source": "deezer"
       }
     },
     {
@@ -1203,6 +1591,7 @@
       "artist": "Gilberto Gil",
       "album": "Gilbertos Samba",
       "durationMs": 195200,
+      "isrc": "BRGPG1400001",
       "ids": {
         "appleMusic": "1516406310"
       }
@@ -1212,8 +1601,14 @@
       "artist": "Stan Getz",
       "album": "Ultimate Bossa Nova Collection",
       "durationMs": 241773,
+      "isrc": "USSM19916125",
       "ids": {
         "appleMusic": "876476574"
+      },
+      "features": {
+        "bpm": 139.7,
+        "gain": -19.3,
+        "source": "deezer"
       }
     },
     {
@@ -1230,8 +1625,14 @@
       "artist": "Os Originais do Samba",
       "album": "Os Originais Do Samba",
       "durationMs": 213242,
+      "isrc": "BRBMG6900207",
       "ids": {
         "appleMusic": "321826136"
+      },
+      "features": {
+        "bpm": 162.1,
+        "gain": -15,
+        "source": "deezer"
       }
     },
     {
@@ -1239,8 +1640,14 @@
       "artist": "Karen Souza",
       "album": "Destination Brazil - Bossa Nova Lounge",
       "durationMs": 167653,
+      "isrc": "ARF410701465",
       "ids": {
         "appleMusic": "981808279"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -11.7,
+        "source": "deezer"
       }
     },
     {
@@ -1257,8 +1664,14 @@
       "artist": "Paula Sergio",
       "album": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
       "durationMs": 208013,
+      "isrc": "ARG991001427",
       "ids": {
         "appleMusic": "380947201"
+      },
+      "features": {
+        "bpm": 172.3,
+        "gain": -17.8,
+        "source": "deezer"
       }
     },
     {
@@ -1266,8 +1679,14 @@
       "artist": "Beth Carvalho",
       "album": "Nos Botequins da Vida",
       "durationMs": 190107,
+      "isrc": "BRBMG7700028",
       "ids": {
         "appleMusic": "458347693"
+      },
+      "features": {
+        "bpm": 185.4,
+        "gain": -13.8,
+        "source": "deezer"
       }
     },
     {
@@ -1275,8 +1694,14 @@
       "artist": "Astrud Gilberto",
       "album": "Gilberto with Turrentine (Remastered)",
       "durationMs": 303800,
+      "isrc": "USSM17100484",
       "ids": {
         "appleMusic": "192667599"
+      },
+      "features": {
+        "bpm": 129.6,
+        "gain": -18.2,
+        "source": "deezer"
       }
     },
     {
@@ -1293,8 +1718,14 @@
       "artist": "Martinho da Vila",
       "album": "Série Acervo (Acervo Especial)",
       "durationMs": 152267,
+      "isrc": "BRBMG7400052",
       "ids": {
         "appleMusic": "480127190"
+      },
+      "features": {
+        "bpm": 94.6,
+        "gain": -14.2,
+        "source": "deezer"
       }
     },
     {
@@ -1302,6 +1733,7 @@
       "artist": "Jackson do Pandeiro",
       "album": "Aqui Tô Eu",
       "durationMs": 162147,
+      "isrc": "QZEQU1915001",
       "ids": {
         "appleMusic": "1442357043"
       }
@@ -1311,8 +1743,14 @@
       "artist": "Mario Biondi",
       "album": "Brasil",
       "durationMs": 197645,
+      "isrc": "ITB001800031",
       "ids": {
         "appleMusic": "1343813571"
+      },
+      "features": {
+        "bpm": 172.27,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -1320,8 +1758,14 @@
       "artist": "Zeca Pagodinho",
       "album": "A Vida Tem Sempre Razão",
       "durationMs": 234747,
+      "isrc": "BRSME1300921",
       "ids": {
         "appleMusic": "725058076"
+      },
+      "features": {
+        "bpm": 172.3,
+        "gain": -12.3,
+        "source": "deezer"
       }
     },
     {
@@ -1329,8 +1773,14 @@
       "artist": "Paulinho da Viola",
       "album": "Bebadosamba",
       "durationMs": 205136,
+      "isrc": "BRBMG9600852",
       "ids": {
         "appleMusic": "321805630"
+      },
+      "features": {
+        "bpm": 96.6,
+        "gain": -15.3,
+        "source": "deezer"
       }
     },
     {
@@ -1338,8 +1788,14 @@
       "artist": "Groove da Praia",
       "album": "Bossa N' Marley",
       "durationMs": 205148,
+      "isrc": "ARF410500189",
       "ids": {
         "appleMusic": "109850521"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -12.3,
+        "source": "deezer"
       }
     },
     {
@@ -1347,8 +1803,14 @@
       "artist": "João Gilberto",
       "album": "Bossa Nova \u0026 Brazilian Gold",
       "durationMs": 174933,
+      "isrc": "USA561445902",
       "ids": {
         "appleMusic": "901634633"
+      },
+      "features": {
+        "bpm": 126,
+        "gain": -17.5,
+        "source": "deezer"
       }
     },
     {
@@ -1365,8 +1827,14 @@
       "artist": "Toquinho",
       "album": "Brazilian Instrumental Bossa-Nova",
       "durationMs": 122760,
+      "isrc": "BRSGL6600103",
       "ids": {
         "appleMusic": "1064088454"
+      },
+      "features": {
+        "bpm": 97.1,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -1374,8 +1842,14 @@
       "artist": "Chico Buarque",
       "album": "Caravanas",
       "durationMs": 251480,
+      "isrc": "BRPUI1700118",
       "ids": {
         "appleMusic": "1268182871"
+      },
+      "features": {
+        "bpm": 164.06,
+        "gain": -10.5,
+        "source": "deezer"
       }
     },
     {
@@ -1392,8 +1866,14 @@
       "artist": "Stan Getz \u0026 João Gilberto",
       "album": "Jazz - La discothèque idéale en 25 albums originaux",
       "durationMs": 281973,
+      "isrc": "USSM19916122",
       "ids": {
         "appleMusic": "393989153"
+      },
+      "features": {
+        "bpm": 156,
+        "gain": -14.3,
+        "source": "deezer"
       }
     },
     {
@@ -1401,8 +1881,14 @@
       "artist": "Paula Sergio",
       "album": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
       "durationMs": 229013,
+      "isrc": "ARG991001426",
       "ids": {
         "appleMusic": "380947199"
+      },
+      "features": {
+        "bpm": 157.8,
+        "gain": -16.2,
+        "source": "deezer"
       }
     },
     {
@@ -1410,8 +1896,14 @@
       "artist": "Joyce Moreno \u0026 Roberta Sá",
       "album": "A Vida Tem Sempre Razão",
       "durationMs": 249547,
+      "isrc": "BRSME1300922",
       "ids": {
         "appleMusic": "725058077"
+      },
+      "features": {
+        "bpm": 126.8,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -1419,6 +1911,7 @@
       "artist": "Vanessa da Mata",
       "album": "Vanessa da Mata Canta Tom Jobim (Deluxe Edition)",
       "durationMs": 232192,
+      "isrc": "BRVSO1300015",
       "ids": {
         "appleMusic": "655942347"
       }
@@ -1428,8 +1921,14 @@
       "artist": "Aretha Franklin \u0026 Studio Rio",
       "album": "Studio Rio Presents: The Brazil Connection",
       "durationMs": 200493,
+      "isrc": "USSM11307692",
       "ids": {
         "appleMusic": "865593017"
+      },
+      "features": {
+        "bpm": 99.9,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -1446,8 +1945,14 @@
       "artist": "Mel Tormé \u0026 Studio Rio",
       "album": "Studio Rio Presents: The Brazil Connection",
       "durationMs": 190520,
+      "isrc": "USSM11307693",
       "ids": {
         "appleMusic": "865593080"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -1455,8 +1960,14 @@
       "artist": "João Bosco",
       "album": "Linha de Passe",
       "durationMs": 194255,
+      "isrc": "BRBMG7900036",
       "ids": {
         "appleMusic": "321823689"
+      },
+      "features": {
+        "bpm": 103.1,
+        "gain": -12.2,
+        "source": "deezer"
       }
     },
     {
@@ -1464,6 +1975,7 @@
       "artist": "Luiz Bonfá \u0026 Toots Thielemans",
       "album": "The Brasil Project Vol. II",
       "durationMs": 216360,
+      "isrc": "USPM19301024",
       "ids": {
         "appleMusic": "1719291878"
       }
@@ -1473,8 +1985,14 @@
       "artist": "Eliane Elias",
       "album": "Dreamer",
       "durationMs": 212453,
+      "isrc": "USV110300444",
       "ids": {
         "appleMusic": "274133701"
+      },
+      "features": {
+        "bpm": 124.5,
+        "gain": -15.4,
+        "source": "deezer"
       }
     },
     {
@@ -1482,6 +2000,7 @@
       "artist": "João Donato",
       "album": "Muito à Vontade",
       "durationMs": 193080,
+      "isrc": "UKDNQ1578644",
       "ids": {
         "appleMusic": "1442277196"
       }
@@ -1491,8 +2010,14 @@
       "artist": "Toquinho",
       "album": "Obrigado, Vinicius",
       "durationMs": 151400,
+      "isrc": "ITL851702260",
       "ids": {
         "appleMusic": "721648075"
+      },
+      "features": {
+        "bpm": 170.14,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -1500,8 +2025,14 @@
       "artist": "Nana Caymmi",
       "album": "Mulheres do Brasil",
       "durationMs": 223507,
+      "isrc": "BRSME9200004",
       "ids": {
         "appleMusic": "611161908"
+      },
+      "features": {
+        "bpm": 109.4,
+        "gain": -16,
+        "source": "deezer"
       }
     },
     {
@@ -1509,6 +2040,7 @@
       "artist": "Martinho da Vila",
       "album": "Série Acervo (Acervo Especial)",
       "durationMs": 145893,
+      "isrc": "BRBMG1903363",
       "ids": {
         "appleMusic": "480127207"
       }
@@ -1527,8 +2059,14 @@
       "artist": "Bo Kaspers Orkester",
       "album": "You and Me",
       "durationMs": 159960,
+      "isrc": "SEBGA9803071",
       "ids": {
         "appleMusic": "494934902"
+      },
+      "features": {
+        "bpm": 108.8,
+        "gain": -11.9,
+        "source": "deezer"
       }
     },
     {
@@ -1545,8 +2083,14 @@
       "artist": "Sarah Menescal",
       "album": "Keep Calm and Love Me",
       "durationMs": 253400,
+      "isrc": "ARF410600416",
       "ids": {
         "appleMusic": "617674071"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -1554,8 +2098,14 @@
       "artist": "Cauby Peixoto",
       "album": "A Bossa de Cauby Peixoto",
       "durationMs": 157333,
+      "isrc": "BRPUI1500105",
       "ids": {
         "appleMusic": "1050803629"
+      },
+      "features": {
+        "bpm": 88,
+        "gain": -11.5,
+        "source": "deezer"
       }
     },
     {
@@ -1563,8 +2113,14 @@
       "artist": "Karen Souza",
       "album": "The Cocktail Hour",
       "durationMs": 222320,
+      "isrc": "ARF410500095",
       "ids": {
         "appleMusic": "662648095"
+      },
+      "features": {
+        "bpm": 112,
+        "gain": -13.1,
+        "source": "deezer"
       }
     },
     {
@@ -1572,8 +2128,14 @@
       "artist": "Nana Caymmi",
       "album": "Brasil MPB",
       "durationMs": 281440,
+      "isrc": "BRSME9200006",
       "ids": {
         "appleMusic": "472132877"
+      },
+      "features": {
+        "bpm": 160.2,
+        "gain": -16.2,
+        "source": "deezer"
       }
     },
     {
@@ -1581,8 +2143,14 @@
       "artist": "Os Cariocas",
       "album": "Bossa Nova Sunset",
       "durationMs": 143360,
+      "isrc": "BRMCA6600102",
       "ids": {
         "appleMusic": "1697544730"
+      },
+      "features": {
+        "bpm": 175.9,
+        "gain": -11.2,
+        "source": "deezer"
       }
     },
     {
@@ -1590,8 +2158,14 @@
       "artist": "Astrud Gilberto",
       "album": "CTI: The Master Collection",
       "durationMs": 232080,
+      "isrc": "USSM17100488",
       "ids": {
         "appleMusic": "192706435"
+      },
+      "features": {
+        "bpm": 112.7,
+        "gain": -11,
+        "source": "deezer"
       }
     },
     {
@@ -1599,8 +2173,14 @@
       "artist": "Flora Purim",
       "album": "Flora e MPM",
       "durationMs": 125212,
+      "isrc": "BRBMG6400078",
       "ids": {
         "appleMusic": "321806159"
+      },
+      "features": {
+        "bpm": 126.4,
+        "gain": -13.3,
+        "source": "deezer"
       }
     },
     {
@@ -1608,8 +2188,14 @@
       "artist": "João Gilberto",
       "album": "World Class Classics: João Gilbert",
       "durationMs": 126520,
+      "isrc": "USA561445907",
       "ids": {
         "appleMusic": "821890858"
+      },
+      "features": {
+        "bpm": 166.7,
+        "gain": -17.4,
+        "source": "deezer"
       }
     },
     {
@@ -1617,8 +2203,14 @@
       "artist": "João Gilberto",
       "album": "Vocé e Eu",
       "durationMs": 98307,
+      "isrc": "QMDA61350258",
       "ids": {
         "appleMusic": "6777673230"
+      },
+      "features": {
+        "bpm": 162.1,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -1626,8 +2218,14 @@
       "artist": "Stan Getz",
       "album": "Bossa Nova - This Is Jazz #29",
       "durationMs": 212853,
+      "isrc": "USSM17500170",
       "ids": {
         "appleMusic": "323470183"
+      },
+      "features": {
+        "bpm": 183.8,
+        "gain": -16.3,
+        "source": "deezer"
       }
     },
     {
@@ -1644,8 +2242,14 @@
       "artist": "Maria Bethânia",
       "album": "Maria Bethânia",
       "durationMs": 132782,
+      "isrc": "BRBMG6500019",
       "ids": {
         "appleMusic": "379598453"
+      },
+      "features": {
+        "bpm": 116.5,
+        "gain": -16.1,
+        "source": "deezer"
       }
     },
     {
@@ -1653,8 +2257,14 @@
       "artist": "João Gilberto",
       "album": "Vocé e Eu",
       "durationMs": 141933,
+      "isrc": "FRX191200408",
       "ids": {
         "appleMusic": "6777673231"
+      },
+      "features": {
+        "bpm": 167.38,
+        "gain": -16.9,
+        "source": "deezer"
       }
     },
     {
@@ -1662,6 +2272,7 @@
       "artist": "Stan Getz \u0026 Luiz Bonfá",
       "album": "Todo Bossa Nova",
       "durationMs": 218078,
+      "isrc": "USF096300990",
       "ids": {
         "appleMusic": "1813946416"
       }
@@ -1671,8 +2282,14 @@
       "artist": "Stan Getz \u0026 João Gilberto",
       "album": "Getz/Gilberto",
       "durationMs": 168253,
+      "isrc": "USESK1329714",
       "ids": {
         "appleMusic": "1422656497"
+      },
+      "features": {
+        "bpm": 162.1,
+        "gain": -16.7,
+        "source": "deezer"
       }
     },
     {
@@ -1689,8 +2306,14 @@
       "artist": "João Gilberto",
       "album": "Chega de Saudade",
       "durationMs": 107493,
+      "isrc": "USA561445925",
       "ids": {
         "appleMusic": "1595577734"
+      },
+      "features": {
+        "bpm": 175.93,
+        "gain": -17.1,
+        "source": "deezer"
       }
     },
     {
@@ -1707,8 +2330,14 @@
       "artist": "João Gilberto",
       "album": "World Class Classics: João Gilbert",
       "durationMs": 126160,
+      "isrc": "USA561445921",
       "ids": {
         "appleMusic": "821890867"
+      },
+      "features": {
+        "bpm": 155.4,
+        "gain": -18.2,
+        "source": "deezer"
       }
     }
   ]
