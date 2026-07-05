@@ -61,6 +61,36 @@ func TestCurateUnknownSeed(t *testing.T) {
 	}
 }
 
+func TestEvaluateFocusBeatsPopularity(t *testing.T) {
+	// A library where co-occurrence is informative: two tight genre clusters that
+	// never mix. Held-out cluster-mates should be recoverable from the seed by
+	// co-occurrence, but not by raw popularity.
+	mk := func(title, artist string) Track { return Track{Title: title, Artist: artist} }
+	rock := []Track{
+		mk("a", "Arctic Monkeys"), mk("b", "The Strokes"), mk("c", "Franz Ferdinand"),
+		mk("d", "The Killers"), mk("e", "Interpol"), mk("f", "The Kooks"),
+		mk("g", "Kaiser Chiefs"), mk("h", "Editors"),
+	}
+	jazz := []Track{
+		mk("i", "Miles Davis"), mk("j", "John Coltrane"), mk("k", "Bill Evans"),
+		mk("l", "Charles Mingus"), mk("m", "Thelonious Monk"), mk("n", "Herbie Hancock"),
+		mk("o", "Wayne Shorter"), mk("p", "Chet Baker"),
+	}
+	lib := []Playlist{
+		{Name: "rock 1", Tracks: rock},
+		{Name: "rock 2", Tracks: rock},
+		{Name: "jazz 1", Tracks: jazz},
+		{Name: "jazz 2", Tracks: jazz},
+	}
+	r := Evaluate(lib, EvalOptions{MinArtists: 8, Holdout: 0.4, K: 3})
+	if r.Playlists == 0 {
+		t.Fatal("expected some playlists evaluated")
+	}
+	if r.Recall <= r.BaselineRecall {
+		t.Errorf("focus recall %.3f should beat popularity %.3f", r.Recall, r.BaselineRecall)
+	}
+}
+
 func TestCurateMultipleSeeds(t *testing.T) {
 	m := Build(lib())
 	// Seeding both clusters should surface tracks from both, and never place the

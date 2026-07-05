@@ -119,6 +119,21 @@
 - `--discover` fans out at most `maxDiscoverySeeds` (5) seeds online — a whole
   seed-playlist can carry hundreds of artists, one Deezer lookup each.
 
+### Curate self-evaluation (`--evaluate`)
+- `tapeit curate --evaluate` runs the leave-one-out APC test in the binary (no
+  Python, no playlist written): for each library playlist with ≥8 distinct
+  artists, hide 40% of its later artists, rebuild the model from every *other*
+  playlist, seed from the earlier artists, and measure Recall@20 / R-precision of
+  the focus-weighted ranking against a popularity baseline.
+- This is the honest confidence signal for curate *on your specific library* —
+  the same protocol as `lab/experiments/affinity_eval.py`, now shippable. On the
+  current library it reports focus 0.143 vs popularity 0.058 = **2.47× lift**,
+  matching the offline experiment (2–3×).
+- Implementation does true LOO by rebuilding the model without the test playlist
+  (library is small, so O(P) rebuilds is fine and obviously correct — no
+  drop-adjustment arithmetic). `Model.freq` (playlists per artist) added to back
+  the popularity baseline.
+
 ### Curate overwrite guard + online discovery
 - `curate` writes a *fresh* doc (unlike `import`/`enrich`, which read-merge), so
   it now refuses to overwrite an existing output file unless `--force` — a

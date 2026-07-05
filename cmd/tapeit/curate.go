@@ -23,6 +23,7 @@ func cmdCurate(ctx context.Context, args []string) error {
 	breadth := fs.Int("breadth", 12, "how many neighbouring artists to draw from (lower = tighter)")
 	minWeight := fs.Int("min-affinity", 1, "min playlists a neighbour must share with the seed")
 	discover := fs.Int("discover", 0, "also add up to N tracks by similar artists you don't own yet (online)")
+	evaluate := fs.Bool("evaluate", false, "leave-one-out APC test of the library's affinity signal (no playlist written)")
 	name := fs.String("name", "", "playlist name (default: \"Around <seed>\")")
 	dir := fs.String("dir", "playlists", "library directory to draw from")
 	out := fs.String("out", "playlists", "directory to write the new playlist into")
@@ -30,6 +31,10 @@ func cmdCurate(ctx context.Context, args []string) error {
 	if err := fs.Parse(args); err != nil {
 		return err
 	}
+	if *evaluate {
+		return runEvaluate(*dir)
+	}
+
 	explicit := splitSeeds(*seed)
 	seeds, sourceName, exclude, err := assembleSeeds(explicit, *seedPlaylist, *dir)
 	if err != nil {
@@ -62,14 +67,7 @@ func cmdCurate(ctx context.Context, args []string) error {
 		tracks = curator.Separate(tracks)
 	}
 
-	plName := *name
-	switch {
-	case plName != "":
-	case sourceName != "":
-		plName = "More Like " + sourceName
-	default:
-		plName = "Around " + strings.Join(explicit, " & ")
-	}
+	plName := curateName(*name, sourceName, explicit)
 	path := filepath.Join(*out, slugify(plName)+".json")
 	if !*force {
 		if _, err := os.Stat(path); err == nil {
@@ -88,6 +86,44 @@ func cmdCurate(ctx context.Context, args []string) error {
 	fmt.Printf(" → %s\n", path)
 	fmt.Println("  build it on Apple Music with:  tapeit create --from " + path)
 	return nil
+}
+
+// curateName picks the playlist name: an explicit --name wins, else "More Like
+// <source>" when continuing a playlist, else "Around <seeds>".
+func curateName(name, sourceName string, explicit []string) string {
+	switch {
+	case name != "":
+		return name
+	case sourceName != "":
+		return "More Like " + sourceName
+	default:
+		return "Around " + strings.Join(explicit, " & ")
+	}
+}
+
+func runEvaluate(dir string) error {
+	lib, err := loadLibrary(dir)
+	if err != nil {
+		return err
+	}
+	printEvaluation(curator.Evaluate(lib, curator.EvalOptions{}))
+	return nil
+}
+
+func printEvaluation(r curator.EvalResult) {
+	if r.Playlists == 0 {
+		fmt.Println("not enough multi-artist playlists to evaluate — need a few with 8+ distinct artists")
+		return
+	}
+	lift := 0.0
+	if r.BaselineRecall > 0 {
+		lift = r.Recall / r.BaselineRecall
+	}
+	fmt.Printf("Leave-one-out APC eval — %d playlists, %.0f%% of each held out\n\n", r.Playlists, r.Holdout*100)
+	fmt.Printf("  %-18s Recall@%d   R-precision\n", "strategy", r.K)
+	fmt.Printf("  %-18s %7.3f %11.3f\n", "focus (curate)", r.Recall, r.RPrecision)
+	fmt.Printf("  %-18s %7.3f %11s\n", "popularity (base)", r.BaselineRecall, "—")
+	fmt.Printf("\ncurate's signal recovers %.2f× the held-out artists a popularity baseline does.\n", lift)
 }
 
 // addDiscovery appends up to n tracks by artists similar to the seeds that the

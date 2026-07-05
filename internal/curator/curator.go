@@ -64,6 +64,7 @@ type Model struct {
 	pairs   map[string]map[string]int     // norm(artist) -> norm(neighbor) -> # shared playlists
 	wpairs  map[string]map[string]float64 // same, weighted by playlist focus (see countPairs)
 	tracks  map[string][]Track            // norm(artist) -> unique tracks (by norm title)
+	freq    map[string]int                // norm(artist) -> # playlists the artist appears in
 	display map[string]string             // norm(artist) -> a display name
 }
 
@@ -73,6 +74,7 @@ func Build(playlists []Playlist) *Model {
 		pairs:   map[string]map[string]int{},
 		wpairs:  map[string]map[string]float64{},
 		tracks:  map[string][]Track{},
+		freq:    map[string]int{},
 		display: map[string]string{},
 	}
 	for _, pl := range playlists {
@@ -95,6 +97,9 @@ func Build(playlists []Playlist) *Model {
 		}
 		if len(pl.Tracks) <= cooccurrenceMaxTracks {
 			m.countPairs(artists)
+			for a := range artists {
+				m.freq[a]++
+			}
 		}
 	}
 	return m
