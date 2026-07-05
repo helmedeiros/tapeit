@@ -15,7 +15,8 @@ It also maintains a portable, service-agnostic catalog of playlists as JSON unde
 and recreate it anywhere.
 
 > Status: **working end to end** (`pull` → `match` → `push`, plus `create` and
-> `import`). See [`docs/DESIGN.md`](docs/DESIGN.md) for architecture and
+> `import`), with a **playlist-intelligence** layer on top (`enrich`, `curate`,
+> `sequence`). See [`docs/DESIGN.md`](docs/DESIGN.md) for architecture and
 > [`docs/DECISIONS.md`](docs/DECISIONS.md) for the verified facts and trade-offs.
 
 ---
@@ -52,6 +53,72 @@ one file per playlist, matched across services by ISRC (else title):
 A list belongs to no single service — it only **accrues** metadata (album,
 duration, per-service ids) as it moves between them. Format and contribution
 guide: [`playlists/README.md`](playlists/README.md).
+
+---
+
+## Playlist intelligence
+
+Beyond migration, `tapeIt` can enrich, generate, and sequence playlists from the
+JSON catalog — offline and dependency-free (public Deezer API for metadata, no
+auth). The engine only recombines music the catalog already knows about.
+
+| Command    | What it does                                                          |
+| ---------- | -------------------------------------------------------------------- |
+| `enrich`   | Add tempo (BPM) + ISRC to a list's tracks from the public Deezer API. |
+| `curate`   | Build a new playlist from your own library by artist co-occurrence.   |
+| `sequence` | Reorder a playlist into a tempo curve (`smooth` ramp or `arc` peak).  |
+
+### Curate a playlist from your library
+
+`curate` expands from one or more seeds along **artist co-occurrence** — which
+artists you group together across your playlists — then picks each artist's
+*signature* songs (ranked by how often they appear in your playlists, not
+alphabetically) and orders the result so no two adjacent tracks share an artist.
+
+```bash
+# around one or more seed artists
+./bin/tapeit curate --seed "Arctic Monkeys, The Strokes" --size 30
+
+# continue an existing playlist: seed from all its artists, exclude its own
+# tracks — "more like this, but new" (Automatic Playlist Continuation)
+./bin/tapeit curate --seed-playlist indie-rock-club --size 25
+
+# also pull in similar artists you don't own yet (online, cached locally)
+./bin/tapeit curate --seed "Daft Punk" --discover 5
+```
+
+Useful flags: `--breadth` (how many neighbouring artists to draw from — lower is
+tighter), `--min-affinity`, `--name`, `--out`, `--force`.
+
+### Enrich, then sequence by tempo
+
+The realistic flow is **curate → enrich → sequence**: library reads carry no
+tempo, so BPM only exists after an `enrich` pass.
+
+```bash
+./bin/tapeit enrich   --from playlists/my-list.json                 # + bpm, + isrc
+./bin/tapeit sequence --from playlists/my-list.json --flow smooth   # steady tempo ramp
+./bin/tapeit sequence --from playlists/my-list.json --flow arc      # rise to a peak, then ease down
+```
+
+Tracks without a BPM are separated by artist and appended after the tempo run.
+
+### Is it any good? — `curate --evaluate`
+
+Curation is measured, not assumed. `--evaluate` runs a leave-one-out Automatic
+Playlist Continuation test over your library — hide part of each playlist,
+rebuild the model from the rest, and see how much it recovers versus a "just add
+popular songs" baseline:
+
+```bash
+./bin/tapeit curate --evaluate
+```
+
+On the bundled library it recovers **2.47×** the held-out artists and **8.48×**
+the held-out tracks that a popularity baseline does. The same command doubles as
+a **CI gate** — it exits non-zero if curation ever stops beating the baseline.
+Rationale and rejected approaches (PMI, structural cohesion) are documented in
+[`docs/DECISIONS.md`](docs/DECISIONS.md).
 
 ---
 
