@@ -6,6 +6,7 @@
       "artist": "Fontaines D.C.",
       "album": "Romance",
       "durationMs": 221451,
+      "isrc": "GBBKS2400079",
       "ids": {
         "appleMusic": "1737990264"
       }
@@ -15,6 +16,7 @@
       "artist": "IDLES",
       "album": "TANGK",
       "durationMs": 256573,
+      "isrc": "USBQU2300130",
       "ids": {
         "appleMusic": "1783175067"
       }
@@ -24,8 +26,14 @@
       "artist": "Muse",
       "album": "Supermassive Black Hole - Single",
       "durationMs": 212440,
+      "isrc": "GBAHT0500593",
       "ids": {
         "appleMusic": "317961309"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -33,8 +41,14 @@
       "artist": "The Hives",
       "album": "Veni Vidi Vicious",
       "durationMs": 200693,
+      "isrc": "SEVHC0007060",
       "ids": {
         "appleMusic": "1485028050"
+      },
+      "features": {
+        "bpm": 135.11,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -42,6 +56,7 @@
       "artist": "BONES UK",
       "album": "Soft",
       "durationMs": 246429,
+      "isrc": "QM99V2408206",
       "ids": {
         "appleMusic": "1817627794"
       }
@@ -51,6 +66,7 @@
       "artist": "Florence + the Machine",
       "album": "Dance Fever",
       "durationMs": 280131,
+      "isrc": "GBUM72108021",
       "ids": {
         "appleMusic": "1613321263"
       }
@@ -60,8 +76,14 @@
       "artist": "Tame Impala",
       "album": "Lonerism",
       "durationMs": 211027,
+      "isrc": "AUUM71200495",
       "ids": {
         "appleMusic": "1440826312"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +91,14 @@
       "artist": "Red Hot Chili Peppers",
       "album": "Boxen - Playlist - Boxing",
       "durationMs": 269000,
+      "isrc": "USWB10201694",
       "ids": {
         "appleMusic": "1735285813"
+      },
+      "features": {
+        "bpm": 182.9,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -78,8 +106,14 @@
       "artist": "Arctic Monkeys",
       "album": "Do I Wanna Know? - Single",
       "durationMs": 273424,
+      "isrc": "GBCEL1300362",
       "ids": {
         "appleMusic": "675833167"
+      },
+      "features": {
+        "bpm": 84.89,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -87,6 +121,7 @@
       "artist": "The Last Dinner Party",
       "album": "Sinner - Single",
       "durationMs": 176707,
+      "isrc": "GBUM72305555",
       "ids": {
         "appleMusic": "1691826608"
       }
@@ -96,6 +131,7 @@
       "artist": "Wunderhorse",
       "album": "Leader of the Pack - EP",
       "durationMs": 183467,
+      "isrc": "GB6TW2200013",
       "ids": {
         "appleMusic": "1626317033"
       }
@@ -105,8 +141,14 @@
       "artist": "My Chemical Romance",
       "album": "May Death Never Stop You (Deluxe Version)",
       "durationMs": 162200,
+      "isrc": "USRE10602912",
       "ids": {
         "appleMusic": "811747404"
+      },
+      "features": {
+        "bpm": 113.58,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -114,6 +156,7 @@
       "artist": "twenty one pilots",
       "album": "In the Game Zone",
       "durationMs": 234400,
+      "isrc": "USAT22401697",
       "ids": {
         "appleMusic": "1743829557"
       }
@@ -123,6 +166,7 @@
       "artist": "YUNGBLUD",
       "album": "Lowlife - Single",
       "durationMs": 233627,
+      "isrc": "USUG12303146",
       "ids": {
         "appleMusic": "1689702441"
       }
@@ -132,6 +176,7 @@
       "artist": "Turnstile",
       "album": "GLOW ON",
       "durationMs": 173280,
+      "isrc": "NLA322100050",
       "ids": {
         "appleMusic": "1576430194"
       }
@@ -141,6 +186,7 @@
       "artist": "Amyl and The Sniffers",
       "album": "U Should Not Be Doing That / Facts - Single",
       "durationMs": 206659,
+      "isrc": "AU2DY2400085",
       "ids": {
         "appleMusic": "1742014139"
       }
@@ -159,6 +205,7 @@
       "artist": "The White Stripes",
       "album": "The White Stripes Greatest Hits",
       "durationMs": 254533,
+      "isrc": "USWB10701395",
       "ids": {
         "appleMusic": "1534388606"
       }
@@ -168,6 +215,7 @@
       "artist": "Nothing But Thieves",
       "album": "Welcome to the DCC - Single",
       "durationMs": 198799,
+      "isrc": "GBARL2300061",
       "ids": {
         "appleMusic": "1673770390"
       }
@@ -177,6 +225,7 @@
       "artist": "Wolf Alice",
       "album": "Blue Weekend",
       "durationMs": 196804,
+      "isrc": "GBK3W2001631",
       "ids": {
         "appleMusic": "1551677860"
       }
@@ -186,6 +235,7 @@
       "artist": "Måneskin",
       "album": "Teatro d'Ira - Vol. I",
       "durationMs": 173347,
+      "isrc": "ITB002100115",
       "ids": {
         "appleMusic": "1556035502"
       }
@@ -195,8 +245,14 @@
       "artist": "twenty one pilots",
       "album": "Jumpsuit / Nico And The Niners - Single",
       "durationMs": 238568,
+      "isrc": "USAT21804142",
       "ids": {
         "appleMusic": "1409892036"
+      },
+      "features": {
+        "bpm": 126.82,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -204,8 +260,14 @@
       "artist": "Foals",
       "album": "What Went Down",
       "durationMs": 300720,
+      "isrc": "GBAHT1500379",
       "ids": {
         "appleMusic": "1552267617"
+      },
+      "features": {
+        "bpm": 147.1,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -213,6 +275,7 @@
       "artist": "Catfish and the Bottlemen",
       "album": "Longshot - Single",
       "durationMs": 232959,
+      "isrc": "GBUM71804352",
       "ids": {
         "appleMusic": "1447051168"
       }
@@ -222,6 +285,7 @@
       "artist": "YONAKA",
       "album": "Seize the Power - Single",
       "durationMs": 161617,
+      "isrc": "GB45A2002270",
       "ids": {
         "appleMusic": "1545543110"
       }
@@ -231,6 +295,7 @@
       "artist": "Kings of Leon",
       "album": "Can We Please Have Fun",
       "durationMs": 194732,
+      "isrc": "USUG12401154",
       "ids": {
         "appleMusic": "1730816796"
       }
@@ -240,6 +305,7 @@
       "artist": "Sam Fender",
       "album": "Seventeen Going Under (Deluxe)",
       "durationMs": 186773,
+      "isrc": "GBUM72103037",
       "ids": {
         "appleMusic": "1578778209"
       }
@@ -249,6 +315,7 @@
       "artist": "Queens of the Stone Age",
       "album": "Villains",
       "durationMs": 274282,
+      "isrc": "USMTD1709778",
       "ids": {
         "appleMusic": "1586489509"
       }
@@ -258,6 +325,7 @@
       "artist": "Fat Dog",
       "album": "WOOF.",
       "durationMs": 317467,
+      "isrc": "GBCEL2400093",
       "ids": {
         "appleMusic": "1738213335"
       }
@@ -267,6 +335,7 @@
       "artist": "Pierce the Veil",
       "album": "The Jaws Of Life (Deluxe)",
       "durationMs": 197374,
+      "isrc": "US5262224867",
       "ids": {
         "appleMusic": "1809283134"
       }
@@ -276,6 +345,7 @@
       "artist": "The Linda Lindas",
       "album": "Growing Up",
       "durationMs": 155336,
+      "isrc": "USEP42145002",
       "ids": {
         "appleMusic": "1603407101"
       }
@@ -285,6 +355,7 @@
       "artist": "Lucia \u0026 The Best Boys",
       "album": "Burning Castles",
       "durationMs": 142328,
+      "isrc": "GB6TW2300051",
       "ids": {
         "appleMusic": "1683832700"
       }
@@ -294,6 +365,7 @@
       "artist": "Paramore",
       "album": "This Is Why",
       "durationMs": 187697,
+      "isrc": "USAT22218167",
       "ids": {
         "appleMusic": "1739497267"
       }
@@ -303,6 +375,7 @@
       "artist": "Crawlers",
       "album": "Fuck Me (I Didn’t Know How To Say) - Single",
       "durationMs": 186787,
+      "isrc": "GBUM72202933",
       "ids": {
         "appleMusic": "1622722371"
       }
@@ -312,8 +385,14 @@
       "artist": "Giant Rooks",
       "album": "ROOKERY",
       "durationMs": 194480,
+      "isrc": "DEUM71806716",
       "ids": {
         "appleMusic": "1511711635"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6.4,
+        "source": "deezer"
       }
     },
     {
@@ -321,6 +400,7 @@
       "artist": "Alice Merton",
       "album": "S.I.D.E.S.",
       "durationMs": 186933,
+      "isrc": "DEVQ72100001",
       "ids": {
         "appleMusic": "1609381118"
       }
@@ -330,6 +410,7 @@
       "artist": "Fall Out Boy",
       "album": "100 from the 20's - Rock",
       "durationMs": 215601,
+      "isrc": "USAT22220571",
       "ids": {
         "appleMusic": "1746681606"
       }
@@ -339,6 +420,7 @@
       "artist": "Royal Blood",
       "album": "Typhoons",
       "durationMs": 209480,
+      "isrc": "GBAHT2100009",
       "ids": {
         "appleMusic": "1547968992"
       }
@@ -348,6 +430,7 @@
       "artist": "Limp Bizkit",
       "album": "Dad Vibes - Single",
       "durationMs": 132206,
+      "isrc": "ZZOPM2113006",
       "ids": {
         "appleMusic": "1588055876"
       }
@@ -357,6 +440,7 @@
       "artist": "Kasabian",
       "album": "Happenings",
       "durationMs": 155659,
+      "isrc": "GBARL2400124",
       "ids": {
         "appleMusic": "1731888322"
       }
@@ -366,6 +450,7 @@
       "artist": "Nothing But Thieves",
       "album": "Dead Club City (Extended Deluxe)",
       "durationMs": 271328,
+      "isrc": "GBARL2300070",
       "ids": {
         "appleMusic": "1756530685"
       }
@@ -375,6 +460,7 @@
       "artist": "Blur",
       "album": "St. Charles Square - Single",
       "durationMs": 235326,
+      "isrc": "GBAYE2300566",
       "ids": {
         "appleMusic": "1694297015"
       }
@@ -384,6 +470,7 @@
       "artist": "Jack White",
       "album": "Fear Of The Dawn",
       "durationMs": 214843,
+      "isrc": "US3JJ2100669",
       "ids": {
         "appleMusic": "1608206781"
       }
@@ -393,6 +480,7 @@
       "artist": "Bring Me The Horizon",
       "album": "POST HUMAN: SURVIVAL HORROR",
       "durationMs": 291813,
+      "isrc": "GBARL2000489",
       "ids": {
         "appleMusic": "1535067182"
       }
@@ -402,6 +490,7 @@
       "artist": "The Mysterines",
       "album": "Afraid of Tomorrows",
       "durationMs": 207652,
+      "isrc": "GBUM72310754",
       "ids": {
         "appleMusic": "1728659758"
       }
@@ -411,6 +500,7 @@
       "artist": "BIG SPECIAL",
       "album": "POSTINDUSTRIAL HOMETOWN BLUES",
       "durationMs": 177598,
+      "isrc": "GBAJC2400061",
       "ids": {
         "appleMusic": "1738486101"
       }
@@ -420,6 +510,7 @@
       "artist": "Kid Kapichi",
       "album": "There Goes the Neighbourhood",
       "durationMs": 219720,
+      "isrc": "GBPVV2305313",
       "ids": {
         "appleMusic": "1709202472"
       }
@@ -429,6 +520,7 @@
       "artist": "The Warning",
       "album": "Keep Me Fed",
       "durationMs": 204914,
+      "isrc": "USUM72402501",
       "ids": {
         "appleMusic": "1733742301"
       }
@@ -438,6 +530,7 @@
       "artist": "The Mysterines",
       "album": "Afraid of Tomorrows",
       "durationMs": 270149,
+      "isrc": "GBUM72310714",
       "ids": {
         "appleMusic": "1728659591"
       }
@@ -456,6 +549,7 @@
       "artist": "Kid Kapichi",
       "album": "Here's What You Could Have Won (Deluxe)",
       "durationMs": 163560,
+      "isrc": "GBCVK2200096",
       "ids": {
         "appleMusic": "1668235105"
       }
@@ -465,6 +559,7 @@
       "artist": "The Wombats",
       "album": "Fix Yourself, Not the World",
       "durationMs": 245320,
+      "isrc": "GBKPL2157625",
       "ids": {
         "appleMusic": "1575380823"
       }
@@ -474,6 +569,7 @@
       "artist": "The Amazons",
       "album": "How Will I Know If Heaven Will Find Me?",
       "durationMs": 237560,
+      "isrc": "GBUM72200857",
       "ids": {
         "appleMusic": "1614430013"
       }
@@ -483,6 +579,7 @@
       "artist": "Airways",
       "album": "Slow - Single",
       "durationMs": 187826,
+      "isrc": "QZHZ42129816",
       "ids": {
         "appleMusic": "1566405231"
       }
@@ -492,6 +589,7 @@
       "artist": "Des Rocs",
       "album": "This is Our Life - EP",
       "durationMs": 224307,
+      "isrc": "QMCE32000508",
       "ids": {
         "appleMusic": "1649640844"
       }
@@ -501,6 +599,7 @@
       "artist": "Black Honey",
       "album": "Written \u0026 Directed",
       "durationMs": 188027,
+      "isrc": "QMBZ92001356",
       "ids": {
         "appleMusic": "1531876397"
       }
@@ -519,6 +618,7 @@
       "artist": "Royal \u0026 the Serpent \u0026 GAYLE",
       "album": "kinda smacks - Single",
       "durationMs": 136601,
+      "isrc": "USAT22309821",
       "ids": {
         "appleMusic": "1728568623"
       }
@@ -528,6 +628,7 @@
       "artist": "Barns Courtney",
       "album": "Golden - Single",
       "durationMs": 170523,
+      "isrc": "USAT22303170",
       "ids": {
         "appleMusic": "1682884285"
       }
@@ -537,6 +638,7 @@
       "artist": "K.Flay",
       "album": "Outside Voices - EP",
       "durationMs": 225034,
+      "isrc": "QMRSZ2102238",
       "ids": {
         "appleMusic": "1710142752"
       }
@@ -546,6 +648,7 @@
       "artist": "YONAKA",
       "album": "PREDATOR - Single",
       "durationMs": 171507,
+      "isrc": "USUM72317460",
       "ids": {
         "appleMusic": "1720894144"
       }
@@ -555,6 +658,7 @@
       "artist": "George Barnett",
       "album": "City Streets - Single",
       "durationMs": 206557,
+      "isrc": "QZ8GX1701997",
       "ids": {
         "appleMusic": "1833957800"
       }
@@ -564,6 +668,7 @@
       "artist": "Cold War Kids",
       "album": "New Age Norms 2",
       "durationMs": 171227,
+      "isrc": "GBKPL2086533",
       "ids": {
         "appleMusic": "1515249067"
       }
@@ -573,6 +678,7 @@
       "artist": "Master Peace",
       "album": "Country Life - Single",
       "durationMs": 147536,
+      "isrc": "QMB622220201",
       "ids": {
         "appleMusic": "1646093477"
       }
@@ -582,6 +688,7 @@
       "artist": "LUNA AURA",
       "album": "THREE CHEERS FOR THE AMERICAN BEAUTY - EP",
       "durationMs": 155680,
+      "isrc": "QM4FK2000065",
       "ids": {
         "appleMusic": "1505936456"
       }
@@ -600,6 +707,7 @@
       "artist": "Jean Dawson",
       "album": "THREE HEADS* - Single",
       "durationMs": 171842,
+      "isrc": "QZ9H32200054",
       "ids": {
         "appleMusic": "1635390526"
       }
@@ -609,6 +717,7 @@
       "artist": "Coach Party",
       "album": "All I Wanna Do Is Hate - Single",
       "durationMs": 165053,
+      "isrc": "QM4TX2397194",
       "ids": {
         "appleMusic": "1681873910"
       }
@@ -618,6 +727,7 @@
       "artist": "Girl and Girl",
       "album": "Call A Doctor",
       "durationMs": 309184,
+      "isrc": "USSUB2360602",
       "ids": {
         "appleMusic": "1728330447"
       }
@@ -627,6 +737,7 @@
       "artist": "PVRIS",
       "album": "Use Me",
       "durationMs": 207000,
+      "isrc": "USWB12000241",
       "ids": {
         "appleMusic": "1499740206"
       }
@@ -636,6 +747,7 @@
       "artist": "Shelf Lives",
       "album": "All The Problems - Single",
       "durationMs": 176907,
+      "isrc": "UK4MC2300130",
       "ids": {
         "appleMusic": "1810721538"
       }
@@ -645,6 +757,7 @@
       "artist": "Highly Suspect",
       "album": "The Midnight Demon Club",
       "durationMs": 196136,
+      "isrc": "QMCE32200218",
       "ids": {
         "appleMusic": "1631008979"
       }
@@ -654,6 +767,7 @@
       "artist": "Thirty Seconds to Mars",
       "album": "Stuck (DJ John Michael Peloton Remix) - Single",
       "durationMs": 182747,
+      "isrc": "USC4R2228394",
       "ids": {
         "appleMusic": "1753197189"
       }
@@ -663,6 +777,7 @@
       "artist": "Corinne Bailey Rae",
       "album": "Black Rainbows",
       "durationMs": 109388,
+      "isrc": "QZXHJ2300006",
       "ids": {
         "appleMusic": "1690201642"
       }
@@ -672,6 +787,7 @@
       "artist": "Pearl Jam",
       "album": "Dark Matter",
       "durationMs": 139432,
+      "isrc": "USUG12309757",
       "ids": {
         "appleMusic": "1730088437"
       }

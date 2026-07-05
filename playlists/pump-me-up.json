@@ -6,6 +6,7 @@
       "artist": "Tedeschi Trucks Band",
       "album": "Made Up Mind",
       "durationMs": 248403,
+      "isrc": "USSM11302989",
       "ids": {
         "appleMusic": "656979408"
       }
@@ -15,6 +16,7 @@
       "artist": "Tedeschi Trucks Band",
       "album": "Revelator",
       "durationMs": 352667,
+      "isrc": "USSM11101896",
       "ids": {
         "appleMusic": "434753214"
       }
@@ -24,8 +26,14 @@
       "artist": "Tedeschi Trucks Band",
       "album": "Revelator",
       "durationMs": 328853,
+      "isrc": "USSM11101897",
       "ids": {
         "appleMusic": "434753215"
+      },
+      "features": {
+        "bpm": 90.1,
+        "gain": -11.7,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +50,14 @@
       "artist": "The Cranberries",
       "album": "The Treasure Box for Boys and Girls",
       "durationMs": 271533,
+      "isrc": "USIR29400440",
       "ids": {
         "appleMusic": "1440953232"
+      },
+      "features": {
+        "bpm": 191.4,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -51,8 +65,14 @@
       "artist": "CAKE",
       "album": "Prolonging the Magic",
       "durationMs": 164267,
+      "isrc": "USCA19886886",
       "ids": {
         "appleMusic": "254830969"
+      },
+      "features": {
+        "bpm": 125.7,
+        "gain": -11.6,
+        "source": "deezer"
       }
     },
     {
@@ -60,8 +80,14 @@
       "artist": "AnnenMayKantereit",
       "album": "Schlagschatten",
       "durationMs": 211678,
+      "isrc": "DEUM71806289",
       "ids": {
         "appleMusic": "1436487786"
+      },
+      "features": {
+        "bpm": 102.08,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -69,8 +95,14 @@
       "artist": "Snarky Puppy",
       "album": "We Like It Here",
       "durationMs": 645720,
+      "isrc": "US8JA1411008",
       "ids": {
         "appleMusic": "1322209832"
+      },
+      "features": {
+        "bpm": 152.56,
+        "gain": -12.9,
+        "source": "deezer"
       }
     },
     {
@@ -96,8 +128,14 @@
       "artist": "Olodum",
       "album": "Popularidade",
       "durationMs": 247947,
+      "isrc": "BRWMB9704558",
       "ids": {
         "appleMusic": "1350828807"
+      },
+      "features": {
+        "bpm": 166.71,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -105,8 +143,14 @@
       "artist": "Gilberto Gil",
       "album": "Kaya N'Gan Daya",
       "durationMs": 189933,
+      "isrc": "BRWMB0200274",
       "ids": {
         "appleMusic": "1815038293"
+      },
+      "features": {
+        "bpm": 148.2,
+        "gain": -13.8,
+        "source": "deezer"
       }
     },
     {
@@ -123,8 +167,14 @@
       "artist": "Amy Winehouse",
       "album": "Lioness: Hidden Treasures",
       "durationMs": 168773,
+      "isrc": "GBUM71110103",
       "ids": {
         "appleMusic": "1440810022"
+      },
+      "features": {
+        "bpm": 137.8,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -132,8 +182,14 @@
       "artist": "O Rappa",
       "album": "Isfriou",
       "durationMs": 263173,
+      "isrc": "BRWMB9600147",
       "ids": {
         "appleMusic": "1823933004"
+      },
+      "features": {
+        "bpm": 186.2,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -141,8 +197,14 @@
       "artist": "Pato Fu",
       "album": "Brazil: 100 Hits",
       "durationMs": 260800,
+      "isrc": "BRBMG9900344",
       "ids": {
         "appleMusic": "1308630777"
+      },
+      "features": {
+        "bpm": 169.4,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -150,8 +212,14 @@
       "artist": "Titãs",
       "album": "Rock Hits",
       "durationMs": 296773,
+      "isrc": "BRWMB1500436",
       "ids": {
         "appleMusic": "1695857691"
+      },
+      "features": {
+        "bpm": 178.21,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -159,15 +227,27 @@
       "artist": "Cidade Negra",
       "album": "Sobre Todas as Forças",
       "durationMs": 284533,
+      "isrc": "BRSME9400184",
       "ids": {
         "appleMusic": "401845050"
+      },
+      "features": {
+        "bpm": 108,
+        "gain": -16,
+        "source": "deezer"
       }
     },
     {
       "title": "La Bella Luna",
       "artist": "Os Paralamas do Sucesso",
       "album": "Nove Luas",
-      "durationMs": 192800
+      "durationMs": 192800,
+      "isrc": "BREMI9600319",
+      "features": {
+        "bpm": 134.67,
+        "gain": -13.4,
+        "source": "deezer"
+      }
     },
     {
       "title": "O Mundo Anda Tao Complicado",
@@ -183,8 +263,14 @@
       "artist": "Los Hermanos",
       "album": "Mega Hits: Los Hermanos",
       "durationMs": 213867,
+      "isrc": "BRBMG0500149",
       "ids": {
         "appleMusic": "860819074"
+      },
+      "features": {
+        "bpm": 138.3,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -192,8 +278,14 @@
       "artist": "Cidade Negra",
       "album": "Quanto Mais Curtido Melhor",
       "durationMs": 282160,
+      "isrc": "BRSME9800416",
       "ids": {
         "appleMusic": "476991335"
+      },
+      "features": {
+        "bpm": 96.1,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -201,8 +293,14 @@
       "artist": "Cidade Negra",
       "album": "O Erê",
       "durationMs": 225613,
+      "isrc": "BRSME9600401",
       "ids": {
         "appleMusic": "401532503"
+      },
+      "features": {
+        "bpm": 156.6,
+        "gain": -12.3,
+        "source": "deezer"
       }
     },
     {
@@ -210,8 +308,14 @@
       "artist": "Cidade Negra",
       "album": "Sobre Todas as Forças",
       "durationMs": 201267,
+      "isrc": "BRSME9400178",
       "ids": {
         "appleMusic": "401845038"
+      },
+      "features": {
+        "bpm": 191.4,
+        "gain": -15.3,
+        "source": "deezer"
       }
     },
     {
@@ -219,8 +323,14 @@
       "artist": "Los Hermanos",
       "album": "Mega Hits: Los Hermanos",
       "durationMs": 262040,
+      "isrc": "BRBMG9901033",
       "ids": {
         "appleMusic": "860819076"
+      },
+      "features": {
+        "bpm": 100.3,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -228,8 +338,14 @@
       "artist": "Alanis Morissette",
       "album": "Clássicos para dias de frio",
       "durationMs": 245160,
+      "isrc": "USMV29900182",
       "ids": {
         "appleMusic": "1823959818"
+      },
+      "features": {
+        "bpm": 106.3,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -246,8 +362,14 @@
       "artist": "Gilberto Gil",
       "album": "Quanta gente veio ver (Ao vivo)",
       "durationMs": 315520,
+      "isrc": "BRWMB9705994",
       "ids": {
         "appleMusic": "1600151329"
+      },
+      "features": {
+        "bpm": 125.66,
+        "gain": -14.1,
+        "source": "deezer"
       }
     },
     {
@@ -255,8 +377,14 @@
       "artist": "Counting Crows",
       "album": "Rock Anthems",
       "durationMs": 331400,
+      "isrc": "USIR10000284",
       "ids": {
         "appleMusic": "6763248357"
+      },
+      "features": {
+        "bpm": 94,
+        "gain": -11.1,
+        "source": "deezer"
       }
     },
     {
@@ -264,8 +392,14 @@
       "artist": "Post Malone \u0026 Swae Lee",
       "album": "Spider-Man: Into the Spider-Verse (Soundtrack From \u0026 Inspired by the Motion Picture)",
       "durationMs": 158040,
+      "isrc": "USUM71814888",
       "ids": {
         "appleMusic": "1445949267"
+      },
+      "features": {
+        "bpm": 179.76,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -273,6 +407,7 @@
       "artist": "Fernanda Abreu \u0026 Herbert Vianna",
       "album": "Raio X",
       "durationMs": 186840,
+      "isrc": "BREMI9700246",
       "ids": {
         "appleMusic": "1571780728"
       }
@@ -282,8 +417,14 @@
       "artist": "Skank",
       "album": "Skank - #1 Hits",
       "durationMs": 240533,
+      "isrc": "BRSME0000227",
       "ids": {
         "appleMusic": "588335695"
+      },
+      "features": {
+        "bpm": 156,
+        "gain": -11.2,
+        "source": "deezer"
       }
     },
     {
@@ -291,6 +432,7 @@
       "artist": "Cássia Eller",
       "album": "Dez de Dezembro",
       "durationMs": 223187,
+      "isrc": "BRMCA0200713",
       "ids": {
         "appleMusic": "1443271070"
       }
@@ -300,6 +442,7 @@
       "artist": "Pearl Jam",
       "album": "2000.10.30 - Sacramento, California (Live)",
       "durationMs": 205907,
+      "isrc": "USSM10310092",
       "ids": {
         "appleMusic": "1543042760"
       }
@@ -309,21 +452,34 @@
       "artist": "Pearl Jam",
       "album": "Rock Clássico",
       "durationMs": 303587,
+      "isrc": "USSM19200006",
       "ids": {
         "appleMusic": "1778714248"
+      },
+      "features": {
+        "bpm": 140.6,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
       "title": "Better Man",
       "artist": "Pearl Jam",
       "album": "Vitalogy",
-      "durationMs": 268590
+      "durationMs": 268590,
+      "isrc": "USSM11100237",
+      "features": {
+        "bpm": 125.7,
+        "gain": -9.8,
+        "source": "deezer"
+      }
     },
     {
       "title": "Sirens",
       "artist": "Pearl Jam",
       "album": "Lightning Bolt",
       "durationMs": 341276,
+      "isrc": "USUM71308244",
       "ids": {
         "appleMusic": "1440820465"
       }
@@ -332,13 +488,20 @@
       "title": "Daughter (Remastered)",
       "artist": "Pearl Jam",
       "album": "Vs.",
-      "durationMs": 235137
+      "durationMs": 235137,
+      "isrc": "USSM11100214",
+      "features": {
+        "bpm": 97,
+        "gain": -12,
+        "source": "deezer"
+      }
     },
     {
       "title": "Man in the Box",
       "artist": "Alice In Chains",
       "album": "Facelift",
       "durationMs": 285200,
+      "isrc": "USSM19000727",
       "ids": {
         "appleMusic": "274953022"
       }
@@ -348,6 +511,7 @@
       "artist": "Alice In Chains",
       "album": "Rock Clássico",
       "durationMs": 206773,
+      "isrc": "USSM19200805",
       "ids": {
         "appleMusic": "1778714264"
       }
@@ -357,8 +521,14 @@
       "artist": "Pato Fu",
       "album": "Isopor",
       "durationMs": 266114,
+      "isrc": "BRBMG9900340",
       "ids": {
         "appleMusic": "366795655"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -366,8 +536,14 @@
       "artist": "4 Non Blondes",
       "album": "Summer Party",
       "durationMs": 295627,
+      "isrc": "USIR19200553",
       "ids": {
         "appleMusic": "1442493543"
+      },
+      "features": {
+        "bpm": 134.2,
+        "gain": -14.2,
+        "source": "deezer"
       }
     },
     {
@@ -375,8 +551,14 @@
       "artist": "David Bowie",
       "album": "Stranger Things: Soundtrack from the Netflix Series, Season 5",
       "durationMs": 370480,
+      "isrc": "USJT11700005",
       "ids": {
         "appleMusic": "1862239887"
+      },
+      "features": {
+        "bpm": 112.04,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -384,8 +566,14 @@
       "artist": "David Bowie",
       "album": "ChangesTwoBowie (2018 Remaster)",
       "durationMs": 254293,
+      "isrc": "USJT11200004",
       "ids": {
         "appleMusic": "1350497718"
+      },
+      "features": {
+        "bpm": 100.59,
+        "gain": -12.4,
+        "source": "deezer"
       }
     },
     {
@@ -393,8 +581,14 @@
       "artist": "David Bowie",
       "album": "Let's Dance (2018 Remaster)",
       "durationMs": 457676,
+      "isrc": "USJT11700482",
       "ids": {
         "appleMusic": "1475002923"
+      },
+      "features": {
+        "bpm": 115.81,
+        "gain": -10.4,
+        "source": "deezer"
       }
     },
     {
@@ -402,8 +596,14 @@
       "artist": "David Bowie",
       "album": "Licorice Pizza (Original Motion Picture Soundtrack)",
       "durationMs": 232773,
+      "isrc": "USJT11300011",
       "ids": {
         "appleMusic": "1593686602"
+      },
+      "features": {
+        "bpm": 126,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -411,8 +611,14 @@
       "artist": "Faith No More",
       "album": "Rock Party Hits",
       "durationMs": 186960,
+      "isrc": "GBANC9200158",
       "ids": {
         "appleMusic": "1730538735"
+      },
+      "features": {
+        "bpm": 124.5,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -420,8 +626,14 @@
       "artist": "CAKE",
       "album": "Fashion Nugget (Deluxe Edition)",
       "durationMs": 309661,
+      "isrc": "USCA19686708",
       "ids": {
         "appleMusic": "1632540601"
+      },
+      "features": {
+        "bpm": 192.3,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -429,8 +641,14 @@
       "artist": "Legião Urbana",
       "album": "O Descobrimento do Brasil",
       "durationMs": 223933,
+      "isrc": "BREMI9300140",
       "ids": {
         "appleMusic": "713971707"
+      },
+      "features": {
+        "bpm": 194.1,
+        "gain": -15.1,
+        "source": "deezer"
       }
     },
     {
@@ -438,6 +656,7 @@
       "artist": "The Cranberries",
       "album": "Everybody Else Is Doing It, So Why Can't We? (Super Deluxe Edition)",
       "durationMs": 274720,
+      "isrc": "USIR29300085",
       "ids": {
         "appleMusic": "6765562560"
       }
@@ -447,15 +666,22 @@
       "artist": "Sheryl Crow",
       "album": "The Globe Sessions (Bonus Track Version)",
       "durationMs": 234133,
+      "isrc": "USAM10000310",
       "ids": {
         "appleMusic": "1367828033"
+      },
+      "features": {
+        "bpm": 124.16,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
       "title": "Given to Fly",
       "artist": "Pearl Jam",
       "album": "Yield",
-      "durationMs": 240907
+      "durationMs": 240907,
+      "isrc": "USSM19703249"
     },
     {
       "title": "Marvin (Ao Vivo) [Live]",
@@ -471,8 +697,14 @@
       "artist": "Secos \u0026 Molhados",
       "album": "Hot Pimientos",
       "durationMs": 128000,
+      "isrc": "BRWMB9802394",
       "ids": {
         "appleMusic": "1537768045"
+      },
+      "features": {
+        "bpm": 134.2,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -480,8 +712,14 @@
       "artist": "Ira!",
       "album": "Mtv Ao Vivo - Ira!",
       "durationMs": 267027,
+      "isrc": "BRWMB9600752",
       "ids": {
         "appleMusic": "980092945"
+      },
+      "features": {
+        "bpm": 119.15,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -489,15 +727,22 @@
       "artist": "Blind Melon",
       "album": "Blind Melon",
       "durationMs": 217107,
+      "isrc": "USCA29200194",
       "ids": {
         "appleMusic": "725821929"
+      },
+      "features": {
+        "bpm": 148.7,
+        "gain": -12.6,
+        "source": "deezer"
       }
     },
     {
       "title": "Wishlist",
       "artist": "Pearl Jam",
       "album": "Yield",
-      "durationMs": 206579
+      "durationMs": 206579,
+      "isrc": "USSM19703247"
     },
     {
       "title": "This Must Be the Place (Naïve Melody) [Live]",
@@ -513,8 +758,14 @@
       "artist": "Franz Ferdinand",
       "album": "Franz Ferdinand",
       "durationMs": 237027,
+      "isrc": "GBCEL0300192",
       "ids": {
         "appleMusic": "315844084"
+      },
+      "features": {
+        "bpm": 104.4,
+        "gain": -12,
+        "source": "deezer"
       }
     },
     {
@@ -522,8 +773,14 @@
       "artist": "Pearl Jam",
       "album": "Last Kiss - Single",
       "durationMs": 174173,
+      "isrc": "USSM19805514",
       "ids": {
         "appleMusic": "456761463"
+      },
+      "features": {
+        "bpm": 115.81,
+        "gain": -10.5,
+        "source": "deezer"
       }
     },
     {
@@ -531,23 +788,41 @@
       "artist": "10,000 Maniacs",
       "album": "MTV Unplugged: 10,000 Maniacs",
       "durationMs": 223373,
+      "isrc": "USEE10900535",
       "ids": {
         "appleMusic": "322123715"
+      },
+      "features": {
+        "bpm": 123.4,
+        "gain": -11.7,
+        "source": "deezer"
       }
     },
     {
       "title": "I Am Mine",
       "artist": "Pearl Jam",
       "album": "Riot Act",
-      "durationMs": 215680
+      "durationMs": 215680,
+      "isrc": "USSM10211351",
+      "features": {
+        "bpm": 161.5,
+        "gain": -7.4,
+        "source": "deezer"
+      }
     },
     {
       "title": "O Vencedor",
       "artist": "Los Hermanos",
       "album": "Cantar em Casa",
       "durationMs": 200027,
+      "isrc": "BRBMG0300250",
       "ids": {
         "appleMusic": "1518685208"
+      },
+      "features": {
+        "bpm": 110,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -555,8 +830,14 @@
       "artist": "Florence + the Machine",
       "album": "I Am Pop",
       "durationMs": 251060,
+      "isrc": "GBUM70900209",
       "ids": {
         "appleMusic": "1442506195"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -564,6 +845,7 @@
       "artist": "Bliss",
       "album": "I Hear You Call - Single",
       "durationMs": 237973,
+      "isrc": "GBBLY1003244",
       "ids": {
         "appleMusic": "1594852401"
       }
@@ -573,8 +855,14 @@
       "artist": "Guns N' Roses",
       "album": "Live Era '87-'93 (Live - Deluxe Edition)",
       "durationMs": 187333,
+      "isrc": "USIR19915123",
       "ids": {
         "appleMusic": "1850538151"
+      },
+      "features": {
+        "bpm": 135.1,
+        "gain": -11.2,
+        "source": "deezer"
       }
     },
     {
@@ -582,8 +870,14 @@
       "artist": "Foo Fighters",
       "album": "Foo Fighters",
       "durationMs": 132840,
+      "isrc": "USRW29500002",
       "ids": {
         "appleMusic": "258512160"
+      },
+      "features": {
+        "bpm": 130.83,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -591,8 +885,14 @@
       "artist": "Pearl Jam",
       "album": "Ten",
       "durationMs": 342653,
+      "isrc": "USSM19100412",
       "ids": {
         "appleMusic": "425465351"
+      },
+      "features": {
+        "bpm": 152.56,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -600,8 +900,14 @@
       "artist": "Stone Temple Pilots",
       "album": "Thank You",
       "durationMs": 230293,
+      "isrc": "USAT20302911",
       "ids": {
         "appleMusic": "3631630"
+      },
+      "features": {
+        "bpm": 132.5,
+        "gain": -14.5,
+        "source": "deezer"
       }
     },
     {
@@ -609,6 +915,7 @@
       "artist": "Aerosmith",
       "album": "The Very Best of Aerosmith",
       "durationMs": 235357,
+      "isrc": "USSM19604431",
       "ids": {
         "appleMusic": "1660110063"
       }
@@ -618,8 +925,14 @@
       "artist": "Counting Crows",
       "album": "August and Everything After",
       "durationMs": 272279,
+      "isrc": "USIR10000287",
       "ids": {
         "appleMusic": "1442449547"
+      },
+      "features": {
+        "bpm": 141.6,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -627,6 +940,7 @@
       "artist": "Stone Temple Pilots",
       "album": "Purple (2019 Remaster)",
       "durationMs": 194853,
+      "isrc": "USRH11901677",
       "ids": {
         "appleMusic": "1483793226"
       }
@@ -636,8 +950,14 @@
       "artist": "Red Hot Chili Peppers",
       "album": "Praia de Inverno",
       "durationMs": 204973,
+      "isrc": "USWB19900700",
       "ids": {
         "appleMusic": "6773621603"
+      },
+      "features": {
+        "bpm": 101.8,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -645,8 +965,14 @@
       "artist": "Guns N' Roses",
       "album": "Appetite For Destruction (Super Deluxe)",
       "durationMs": 354875,
+      "isrc": "USGF18819805",
       "ids": {
         "appleMusic": "1377827086"
+      },
+      "features": {
+        "bpm": 118.8,
+        "gain": -18.5,
+        "source": "deezer"
       }
     },
     {
@@ -654,6 +980,7 @@
       "artist": "David Bowie",
       "album": "A Reality Tour (Live)",
       "durationMs": 258293,
+      "isrc": "USRF30900015",
       "ids": {
         "appleMusic": "1676509854"
       }
@@ -663,8 +990,14 @@
       "artist": "Pearl Jam",
       "album": "Let's Play Two (Live) [Original Motion Picture Soundtrack]",
       "durationMs": 315573,
+      "isrc": "USUG11701057",
       "ids": {
         "appleMusic": "1440878562"
+      },
+      "features": {
+        "bpm": 143.06,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -672,6 +1005,7 @@
       "artist": "The Cranberries",
       "album": "Linger (Acoustic Version) - Single",
       "durationMs": 295867,
+      "isrc": "GB5KW1700207",
       "ids": {
         "appleMusic": "1446576810"
       }
@@ -681,8 +1015,14 @@
       "artist": "Foo Fighters",
       "album": "Coffeehouse Classics, Vol. 1",
       "durationMs": 276213,
+      "isrc": "USRW39900009",
       "ids": {
         "appleMusic": "1030789543"
+      },
+      "features": {
+        "bpm": 176.7,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -690,8 +1030,14 @@
       "artist": "Men At Work",
       "album": "Cargo",
       "durationMs": 229467,
+      "isrc": "USSM18200071",
       "ids": {
         "appleMusic": "402297422"
+      },
+      "features": {
+        "bpm": 139.2,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -699,8 +1045,14 @@
       "artist": "Ramones",
       "album": "The Chrysalis Years Anthology",
       "durationMs": 199667,
+      "isrc": "GBAYK8900067",
       "ids": {
         "appleMusic": "699662762"
+      },
+      "features": {
+        "bpm": 138.7,
+        "gain": -11.2,
+        "source": "deezer"
       }
     },
     {
@@ -708,6 +1060,7 @@
       "artist": "Temple of the Dog",
       "album": "Temple of the Dog",
       "durationMs": 246267,
+      "isrc": "USUM71607186",
       "ids": {
         "appleMusic": "1440657642"
       }
@@ -717,8 +1070,14 @@
       "artist": "Pearl Jam",
       "album": "Pearl Jam Twenty (Original Motion Picture Soundtrack)",
       "durationMs": 339960,
+      "isrc": "USA321100147",
       "ids": {
         "appleMusic": "460395355"
+      },
+      "features": {
+        "bpm": 142.6,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -726,8 +1085,14 @@
       "artist": "R.E.M.",
       "album": "Non-Stop Pop Vol 6",
       "durationMs": 268427,
+      "isrc": "USC4R1605373",
       "ids": {
         "appleMusic": "1672641503"
+      },
+      "features": {
+        "bpm": 125.66,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -735,8 +1100,14 @@
       "artist": "Legião Urbana",
       "album": "O Descobrimento do Brasil",
       "durationMs": 203867,
+      "isrc": "BREMI9300150",
       "ids": {
         "appleMusic": "713971841"
+      },
+      "features": {
+        "bpm": 95.3,
+        "gain": -13.8,
+        "source": "deezer"
       }
     },
     {
@@ -753,8 +1124,14 @@
       "artist": "Engenheiros do Hawaii",
       "album": "20+ Rock",
       "durationMs": 195067,
+      "isrc": "BRBMG8600000",
       "ids": {
         "appleMusic": "537589865"
+      },
+      "features": {
+        "bpm": 101.6,
+        "gain": -11.5,
+        "source": "deezer"
       }
     },
     {
@@ -762,8 +1139,14 @@
       "artist": "Raimundos",
       "album": "Hits nacionais atemporais - MPB, Pop e Rock",
       "durationMs": 233733,
+      "isrc": "BRWMB9900516",
       "ids": {
         "appleMusic": "1735967362"
+      },
+      "features": {
+        "bpm": 125.3,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -779,15 +1162,27 @@
       "title": "Elderly Woman Behind the Counter in a Small Town (Remastered)",
       "artist": "Pearl Jam",
       "album": "Vs.",
-      "durationMs": 196198
+      "durationMs": 196198,
+      "isrc": "USSM11100221",
+      "features": {
+        "bpm": 120.5,
+        "gain": -12.6,
+        "source": "deezer"
+      }
     },
     {
       "title": "Crazy Mary (Live)",
       "artist": "Pearl Jam",
       "album": "Let's Play Two (Live) [Original Motion Picture Soundtrack]",
       "durationMs": 382347,
+      "isrc": "USUG11701068",
       "ids": {
         "appleMusic": "1440879131"
+      },
+      "features": {
+        "bpm": 158.41,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
@@ -795,6 +1190,7 @@
       "artist": "Pearl Jam",
       "album": "Love, Reign O'er Me - Single",
       "durationMs": 332667,
+      "isrc": "TCAEN1980644",
       "ids": {
         "appleMusic": "1489481945"
       }
@@ -804,6 +1200,7 @@
       "artist": "Pearl Jam",
       "album": "rearviewmirror (greatest hits 1991-2003)",
       "durationMs": 223800,
+      "isrc": "USSM11914263",
       "ids": {
         "appleMusic": "1826659403"
       }
@@ -813,23 +1210,41 @@
       "artist": "Legião Urbana",
       "album": "Dois",
       "durationMs": 280467,
+      "isrc": "BREMI8600038",
       "ids": {
         "appleMusic": "713514802"
+      },
+      "features": {
+        "bpm": 182.1,
+        "gain": -16,
+        "source": "deezer"
       }
     },
     {
       "title": "Given To Fly (Live at The Forum, Inglewood, CA - July 1998)",
       "artist": "Pearl Jam",
       "album": "Live On Two Legs",
-      "durationMs": 233507
+      "durationMs": 233507,
+      "isrc": "USSM19804832",
+      "features": {
+        "bpm": 108.2,
+        "gain": -11.3,
+        "source": "deezer"
+      }
     },
     {
       "title": "O Calibre",
       "artist": "Os Paralamas do Sucesso",
       "album": "Longo Caminho",
       "durationMs": 202160,
+      "isrc": "BREMI0200139",
       "ids": {
         "appleMusic": "1442289083"
+      },
+      "features": {
+        "bpm": 179.76,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -845,7 +1260,13 @@
       "title": "Rearviewmirror (Remastered)",
       "artist": "Pearl Jam",
       "album": "Vs.",
-      "durationMs": 283467
+      "durationMs": 283467,
+      "isrc": "USSM11100219",
+      "features": {
+        "bpm": 159,
+        "gain": -8.3,
+        "source": "deezer"
+      }
     },
     {
       "title": "I Am the Highway (Live At Queen Elizabeth Theatre, Toronto, ON April 20, 2011)",
@@ -870,8 +1291,14 @@
       "artist": "Pearl Jam",
       "album": "Binaural",
       "durationMs": 306937,
+      "isrc": "USSM10008156",
       "ids": {
         "appleMusic": "688730683"
+      },
+      "features": {
+        "bpm": 206.7,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -879,6 +1306,7 @@
       "artist": "Legião Urbana",
       "album": "Legião Urbana",
       "durationMs": 290733,
+      "isrc": "BREMI8400043",
       "ids": {
         "appleMusic": "713555503"
       }
@@ -887,15 +1315,27 @@
       "title": "Better Man (Live at Rushmore Civic Center Arena, Rapid City, SD - June 1998)",
       "artist": "Pearl Jam",
       "album": "Live On Two Legs",
-      "durationMs": 246067
+      "durationMs": 246067,
+      "isrc": "USSM19804845",
+      "features": {
+        "bpm": 131.2,
+        "gain": -11,
+        "source": "deezer"
+      }
     },
     {
       "title": "Black Hole Sun (Live At Red Robinson Show Theatre, Vancouver, Canada April 30, 2011)",
       "artist": "Chris Cornell",
       "album": "Songbook (Live)",
       "durationMs": 277733,
+      "isrc": "USUG11101210",
       "ids": {
         "appleMusic": "1440770481"
+      },
+      "features": {
+        "bpm": 116.5,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -903,8 +1343,14 @@
       "artist": "Pearl Jam",
       "album": "Let's Play Two (Live) [Original Motion Picture Soundtrack]",
       "durationMs": 205027,
+      "isrc": "USUG11701064",
       "ids": {
         "appleMusic": "1440878986"
+      },
+      "features": {
+        "bpm": 124.16,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -912,23 +1358,41 @@
       "artist": "Plebe Rude",
       "album": "Rachando Concreto em Brasilia (Ao Vivo)",
       "durationMs": 390747,
+      "isrc": "BRE8T1100035",
       "ids": {
         "appleMusic": "1046065795"
+      },
+      "features": {
+        "bpm": 100.11,
+        "gain": -9.8,
+        "source": "deezer"
       }
     },
     {
       "title": "Corduroy",
       "artist": "Pearl Jam",
       "album": "Vitalogy",
-      "durationMs": 277598
+      "durationMs": 277598,
+      "isrc": "USSM11100234",
+      "features": {
+        "bpm": 131.2,
+        "gain": -9.3,
+        "source": "deezer"
+      }
     },
     {
       "title": "Corduroy (Live)",
       "artist": "Pearl Jam",
       "album": "Let's Play Two (Live) [Original Motion Picture Soundtrack]",
       "durationMs": 364000,
+      "isrc": "USUG11701063",
       "ids": {
         "appleMusic": "1440878981"
+      },
+      "features": {
+        "bpm": 149.26,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -936,8 +1400,14 @@
       "artist": "Pearl Jam",
       "album": "Let's Play Two (Live) [Original Motion Picture Soundtrack]",
       "durationMs": 206867,
+      "isrc": "USUG11701058",
       "ids": {
         "appleMusic": "1440878566"
+      },
+      "features": {
+        "bpm": 116.46,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -945,8 +1415,14 @@
       "artist": "Pearl Jam",
       "album": "Let's Play Two (Live) [Original Motion Picture Soundtrack]",
       "durationMs": 329867,
+      "isrc": "USUG11701069",
       "ids": {
         "appleMusic": "1440879142"
+      },
+      "features": {
+        "bpm": 134.23,
+        "gain": -10.8,
+        "source": "deezer"
       }
     },
     {
@@ -954,8 +1430,14 @@
       "artist": "Green Day",
       "album": "Ready To Play Vol 1",
       "durationMs": 134293,
+      "isrc": "USRE19900152",
       "ids": {
         "appleMusic": "1782546899"
+      },
+      "features": {
+        "bpm": 185.4,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -963,8 +1445,14 @@
       "artist": "Jam In the Van \u0026 Sublime With Rome",
       "album": "Jam in the Van - Sublime with Rome (Live Session, Los Angeles, CA, 2015) - Single",
       "durationMs": 195750,
+      "isrc": "GBLFP1602998",
       "ids": {
         "appleMusic": "1634506444"
+      },
+      "features": {
+        "bpm": 180.54,
+        "gain": -11,
+        "source": "deezer"
       }
     },
     {
@@ -981,8 +1469,14 @@
       "artist": "Los Hermanos",
       "album": "Los Hermanos - Na Fundiçao Progresso - 09 de Junho de 2007",
       "durationMs": 201987,
+      "isrc": "BRSME0800494",
       "ids": {
         "appleMusic": "514759479"
+      },
+      "features": {
+        "bpm": 114.8,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -990,6 +1484,7 @@
       "artist": "Neil Finn \u0026 Eddie Vedder",
       "album": "Crucible - The Songs of Hunters \u0026 Collectors (feat. Hunters \u0026 Collectors)",
       "durationMs": 238253,
+      "isrc": "AULI01387660",
       "ids": {
         "appleMusic": "1641077259"
       }
@@ -999,8 +1494,14 @@
       "artist": "Alanis Morissette",
       "album": "Live Music - Your Favorite Songs - Live on Stage",
       "durationMs": 261973,
+      "isrc": "USMV29900174",
       "ids": {
         "appleMusic": "1709317512"
+      },
+      "features": {
+        "bpm": 166,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -1008,8 +1509,14 @@
       "artist": "Foo Fighters",
       "album": "There Is Nothing Left to Lose",
       "durationMs": 235293,
+      "isrc": "USRW39900002",
       "ids": {
         "appleMusic": "278229654"
+      },
+      "features": {
+        "bpm": 136,
+        "gain": -6.1,
+        "source": "deezer"
       }
     },
     {
@@ -1026,8 +1533,14 @@
       "artist": "The Cranberries",
       "album": "Live at the Hammersmith Apollo, London 2012",
       "durationMs": 289578,
+      "isrc": "GB2DY1800858",
       "ids": {
         "appleMusic": "578014448"
+      },
+      "features": {
+        "bpm": 186.23,
+        "gain": -11.5,
+        "source": "deezer"
       }
     },
     {
@@ -1035,8 +1548,14 @@
       "artist": "CPM 22",
       "album": "Live music from Concerts",
       "durationMs": 176973,
+      "isrc": "BRXYZ1300022",
       "ids": {
         "appleMusic": "1696330801"
+      },
+      "features": {
+        "bpm": 124.5,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -1044,8 +1563,14 @@
       "artist": "Rilo Kiley",
       "album": "More Adventurous",
       "durationMs": 284640,
+      "isrc": "USWB10402217",
       "ids": {
         "appleMusic": "19046917"
+      },
+      "features": {
+        "bpm": 138.7,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -1053,8 +1578,14 @@
       "artist": "Rilo Kiley",
       "album": "Under the Blacklight",
       "durationMs": 217640,
+      "isrc": "USWB10703014",
       "ids": {
         "appleMusic": "261661231"
+      },
+      "features": {
+        "bpm": 117.1,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -1062,8 +1593,14 @@
       "artist": "Grizzly Bear",
       "album": "Veckatimest (Bonus Track Version)",
       "durationMs": 243160,
+      "isrc": "GBBPW0900065",
       "ids": {
         "appleMusic": "313355687"
+      },
+      "features": {
+        "bpm": 159.6,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -1071,6 +1608,7 @@
       "artist": "Phoenix",
       "album": "Wolfgang Amadeus Phoenix",
       "durationMs": 241640,
+      "isrc": "FR31Q0900001",
       "ids": {
         "appleMusic": "1771710017"
       }
@@ -1080,6 +1618,7 @@
       "artist": "Vampire Weekend",
       "album": "Vampire Weekend",
       "durationMs": 137760,
+      "isrc": "GBBKS0700527",
       "ids": {
         "appleMusic": "271489744"
       }
@@ -1089,23 +1628,36 @@
       "artist": "Foster the People",
       "album": "Canzoni estive",
       "durationMs": 239600,
+      "isrc": "USSM11002931",
       "ids": {
         "appleMusic": "1752198216"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
       "title": "Full Circle",
       "artist": "Aerosmith",
       "album": "Nine Lives",
-      "durationMs": 300673
+      "durationMs": 300673,
+      "isrc": "USSM19604434"
     },
     {
       "title": "Jeremy",
       "artist": "Pearl Jam",
       "album": "Ten",
       "durationMs": 318227,
+      "isrc": "USSM19100674",
       "ids": {
         "appleMusic": "425465353"
+      },
+      "features": {
+        "bpm": 104.67,
+        "gain": -9.6,
+        "source": "deezer"
       }
     },
     {
@@ -1113,8 +1665,14 @@
       "artist": "Pearl Jam",
       "album": "Vs.",
       "durationMs": 337301,
+      "isrc": "USSM11100226",
       "ids": {
         "appleMusic": "1440879131"
+      },
+      "features": {
+        "bpm": 137.8,
+        "gain": -11.5,
+        "source": "deezer"
       }
     },
     {
@@ -1122,8 +1680,14 @@
       "artist": "Barão Vermelho",
       "album": "Balada MTV",
       "durationMs": 264027,
+      "isrc": "BRWMB9901703",
       "ids": {
         "appleMusic": "690386016"
+      },
+      "features": {
+        "bpm": 130.4,
+        "gain": -11.9,
+        "source": "deezer"
       }
     },
     {
@@ -1131,8 +1695,14 @@
       "artist": "Pearl Jam",
       "album": "Binaural",
       "durationMs": 212691,
+      "isrc": "USSM10008157",
       "ids": {
         "appleMusic": "688730686"
+      },
+      "features": {
+        "bpm": 102.1,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -1140,8 +1710,14 @@
       "artist": "Legião Urbana",
       "album": "Dois",
       "durationMs": 240800,
+      "isrc": "BREMI8600037",
       "ids": {
         "appleMusic": "713514800"
+      },
+      "features": {
+        "bpm": 173.7,
+        "gain": -16.1,
+        "source": "deezer"
       }
     },
     {
@@ -1149,8 +1725,14 @@
       "artist": "Nirvana",
       "album": "MTV Unplugged In New York (Live Acoustic)",
       "durationMs": 218000,
+      "isrc": "USGF19972701",
       "ids": {
         "appleMusic": "1440892384"
+      },
+      "features": {
+        "bpm": 120.5,
+        "gain": -13,
+        "source": "deezer"
       }
     },
     {
@@ -1158,8 +1740,14 @@
       "artist": "Legião Urbana",
       "album": "O Descobrimento do Brasil",
       "durationMs": 261867,
+      "isrc": "BREMI9300146",
       "ids": {
         "appleMusic": "713971829"
+      },
+      "features": {
+        "bpm": 117.8,
+        "gain": -16.4,
+        "source": "deezer"
       }
     },
     {
@@ -1167,8 +1755,14 @@
       "artist": "Talking Heads",
       "album": "Goldfish Level Memory",
       "durationMs": 258053,
+      "isrc": "USWB10502512",
       "ids": {
         "appleMusic": "1768702503"
+      },
+      "features": {
+        "bpm": 123.4,
+        "gain": -11.9,
+        "source": "deezer"
       }
     },
     {
@@ -1176,8 +1770,14 @@
       "artist": "The Rolling Stones",
       "album": "Acoustic Rock",
       "durationMs": 347493,
+      "isrc": "GBUM71502356",
       "ids": {
         "appleMusic": "6772313369"
+      },
+      "features": {
+        "bpm": 147.7,
+        "gain": -10.9,
+        "source": "deezer"
       }
     },
     {
@@ -1185,21 +1785,34 @@
       "artist": "R.E.M.",
       "album": "Sucessos do Rock - Atualizadas",
       "durationMs": 225787,
+      "isrc": "USC4R1605377",
       "ids": {
         "appleMusic": "1887923835"
+      },
+      "features": {
+        "bpm": 124.91,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
       "title": "Off He Goes",
       "artist": "Pearl Jam",
       "album": "No Code",
-      "durationMs": 362107
+      "durationMs": 362107,
+      "isrc": "USSM19601757",
+      "features": {
+        "bpm": 101.33,
+        "gain": -13,
+        "source": "deezer"
+      }
     },
     {
       "title": "A Seta e o Alvo (Ao Vivo)",
       "artist": "Paulinho Moska",
       "album": "Contrasenso",
       "durationMs": 205333,
+      "isrc": "BREMI9700804",
       "ids": {
         "appleMusic": "1549122620"
       }
@@ -1209,8 +1822,14 @@
       "artist": "R.E.M.",
       "album": "Document (25th Anniversary Edition)",
       "durationMs": 197800,
+      "isrc": "USWB11301005",
       "ids": {
         "appleMusic": "721291953"
+      },
+      "features": {
+        "bpm": 134.67,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -1218,8 +1837,14 @@
       "artist": "Nando Reis",
       "album": "Latin Samba",
       "durationMs": 241907,
+      "isrc": "BRWMB9801619",
       "ids": {
         "appleMusic": "1742506703"
+      },
+      "features": {
+        "bpm": 183.8,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -1236,8 +1861,14 @@
       "artist": "Creedence Clearwater Revival",
       "album": "On The Road Rock Love Songs",
       "durationMs": 140773,
+      "isrc": "USC4R0919634",
       "ids": {
         "appleMusic": "1822896944"
+      },
+      "features": {
+        "bpm": 143.55,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -1245,6 +1876,7 @@
       "artist": "Future Islands",
       "album": "The Far Field",
       "durationMs": 249467,
+      "isrc": "GBAFL1600396",
       "ids": {
         "appleMusic": "1195221964"
       }
@@ -1254,8 +1886,14 @@
       "artist": "Courtney Barnett",
       "album": "Avant Gardener - Single",
       "durationMs": 312227,
+      "isrc": "GBXFC1300066",
       "ids": {
         "appleMusic": "1659880217"
+      },
+      "features": {
+        "bpm": 114.53,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -1263,6 +1901,7 @@
       "artist": "Future Islands",
       "album": "As Long As You Are",
       "durationMs": 220221,
+      "isrc": "GBAFL2000218",
       "ids": {
         "appleMusic": "1522693240"
       }
@@ -1272,8 +1911,14 @@
       "artist": "Barenaked Ladies",
       "album": "Grill -100 Hits",
       "durationMs": 169760,
+      "isrc": "USRE19800261",
       "ids": {
         "appleMusic": "1585693765"
+      },
+      "features": {
+        "bpm": 112.7,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -1281,8 +1926,14 @@
       "artist": "Smash Mouth",
       "album": "Horrifying Hits",
       "durationMs": 200373,
+      "isrc": "USIR19902220",
       "ids": {
         "appleMusic": "1590260911"
+      },
+      "features": {
+        "bpm": 103.9,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -1290,8 +1941,14 @@
       "artist": "Yeah Yeah Yeahs",
       "album": "Indie Classics",
       "durationMs": 219987,
+      "isrc": "USIR10300259",
       "ids": {
         "appleMusic": "1888552984"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -1299,8 +1956,14 @@
       "artist": "Songs: Ohia",
       "album": "Magnolia Electric Co. (Deluxe Edition)",
       "durationMs": 200560,
+      "isrc": "US38W1330002",
       "ids": {
         "appleMusic": "719570832"
+      },
+      "features": {
+        "bpm": 120.5,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -1308,6 +1971,7 @@
       "artist": "Yonder Mountain String Band",
       "album": "Love. Ain't Love",
       "durationMs": 174413,
+      "isrc": "USEPY1700008",
       "ids": {
         "appleMusic": "1226766355"
       }
@@ -1317,8 +1981,14 @@
       "artist": "The Beta Band",
       "album": "The Three E.P.'s",
       "durationMs": 395560,
+      "isrc": "GBAYE9701389",
       "ids": {
         "appleMusic": "1339273853"
+      },
+      "features": {
+        "bpm": 175.93,
+        "gain": -11.1,
+        "source": "deezer"
       }
     },
     {
@@ -1335,8 +2005,14 @@
       "artist": "Fleetwood Mac",
       "album": "Fleetwood Mac 1975 to 1987",
       "durationMs": 217573,
+      "isrc": "USRH11507787",
       "ids": {
         "appleMusic": "1792535700"
+      },
+      "features": {
+        "bpm": 180.54,
+        "gain": -13.4,
+        "source": "deezer"
       }
     },
     {
@@ -1344,8 +2020,14 @@
       "artist": "Pearl Jam",
       "album": "Ten",
       "durationMs": 340907,
+      "isrc": "USSM19100003",
       "ids": {
         "appleMusic": "425465319"
+      },
+      "features": {
+        "bpm": 149.26,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -1353,21 +2035,34 @@
       "artist": "Silverchair",
       "album": "Neon Ballroom",
       "durationMs": 222267,
+      "isrc": "AUSM09800225",
       "ids": {
         "appleMusic": "192818616"
+      },
+      "features": {
+        "bpm": 160.2,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
       "title": "Smile",
       "artist": "Pearl Jam",
       "album": "No Code",
-      "durationMs": 231670
+      "durationMs": 231670,
+      "isrc": "USSM19601756",
+      "features": {
+        "bpm": 156.61,
+        "gain": -9.6,
+        "source": "deezer"
+      }
     },
     {
       "title": "Knebel",
       "artist": "Lindemann",
       "album": "F \u0026 M (Deluxe)",
       "durationMs": 230200,
+      "isrc": "DEUM71904934",
       "ids": {
         "appleMusic": "1478750366"
       }
@@ -1377,6 +2072,7 @@
       "artist": "Spoon",
       "album": "Memory Dust EP",
       "durationMs": 345871,
+      "isrc": "USMTD2300231",
       "ids": {
         "appleMusic": "1684519251"
       }
@@ -1386,6 +2082,7 @@
       "artist": "Bikini Kill",
       "album": "The First Two Records",
       "durationMs": 89937,
+      "isrc": "QMP4J1400105",
       "ids": {
         "appleMusic": "846162470"
       }
@@ -1395,8 +2092,14 @@
       "artist": "Bikini Kill",
       "album": "P***y Whipped",
       "durationMs": 213640,
+      "isrc": "USKRS0321812",
       "ids": {
         "appleMusic": "540503950"
+      },
+      "features": {
+        "bpm": 111.44,
+        "gain": -10,
+        "source": "deezer"
       }
     },
     {
@@ -1404,6 +2107,7 @@
       "artist": "Bikini Kill",
       "album": "The First Two Records",
       "durationMs": 146001,
+      "isrc": "QMP4J1300407",
       "ids": {
         "appleMusic": "846162474"
       }
@@ -1413,8 +2117,14 @@
       "artist": "Tamikrest",
       "album": "Chatma",
       "durationMs": 313480,
+      "isrc": "DEE351311480",
       "ids": {
         "appleMusic": "679782316"
+      },
+      "features": {
+        "bpm": 166,
+        "gain": -9.7,
+        "source": "deezer"
       }
     },
     {
@@ -1422,6 +2132,7 @@
       "artist": "Neil Finn",
       "album": "The Hobbit: An Unexpected Journey (Original Motion Picture Soundtrack) [Special Edition]",
       "durationMs": 361056,
+      "isrc": "USNLR1200525",
       "ids": {
         "appleMusic": "1454398590"
       }
@@ -1431,6 +2142,7 @@
       "artist": "Bob Mould",
       "album": "Beauty \u0026 Ruin",
       "durationMs": 248120,
+      "isrc": "USMRG1452001",
       "ids": {
         "appleMusic": "1840153768"
       }
@@ -1440,6 +2152,7 @@
       "artist": "Bob Mould",
       "album": "Beauty \u0026 Ruin",
       "durationMs": 159547,
+      "isrc": "USMRG1452002",
       "ids": {
         "appleMusic": "1840153769"
       }
@@ -1449,6 +2162,7 @@
       "artist": "Bob Mould",
       "album": "Beauty \u0026 Ruin",
       "durationMs": 175880,
+      "isrc": "USMRG1452003",
       "ids": {
         "appleMusic": "1840153770"
       }
@@ -1458,6 +2172,7 @@
       "artist": "Bob Mould",
       "album": "Beauty \u0026 Ruin",
       "durationMs": 134320,
+      "isrc": "USMRG1452004",
       "ids": {
         "appleMusic": "1840153775"
       }
@@ -1467,6 +2182,7 @@
       "artist": "Bob Mould",
       "album": "Beauty \u0026 Ruin",
       "durationMs": 203893,
+      "isrc": "USMRG1452005",
       "ids": {
         "appleMusic": "1840153777"
       }
@@ -1476,6 +2192,7 @@
       "artist": "Bob Mould",
       "album": "Beauty \u0026 Ruin",
       "durationMs": 220787,
+      "isrc": "USMRG1452006",
       "ids": {
         "appleMusic": "1840153778"
       }
@@ -1485,6 +2202,7 @@
       "artist": "Bob Mould",
       "album": "Beauty \u0026 Ruin",
       "durationMs": 174227,
+      "isrc": "USMRG1452007",
       "ids": {
         "appleMusic": "1840153780"
       }
@@ -1494,6 +2212,7 @@
       "artist": "Bob Mould",
       "album": "Beauty \u0026 Ruin",
       "durationMs": 123627,
+      "isrc": "USMRG1452008",
       "ids": {
         "appleMusic": "1840153782"
       }
@@ -1503,6 +2222,7 @@
       "artist": "Bob Mould",
       "album": "Beauty \u0026 Ruin",
       "durationMs": 194533,
+      "isrc": "USMRG1452009",
       "ids": {
         "appleMusic": "1840153783"
       }
@@ -1512,6 +2232,7 @@
       "artist": "Bob Mould",
       "album": "Beauty \u0026 Ruin",
       "durationMs": 138827,
+      "isrc": "USMRG1452010",
       "ids": {
         "appleMusic": "1840153787"
       }
@@ -1521,6 +2242,7 @@
       "artist": "Bob Mould",
       "album": "Beauty \u0026 Ruin",
       "durationMs": 196653,
+      "isrc": "USMRG1452011",
       "ids": {
         "appleMusic": "1840153788"
       }
@@ -1530,6 +2252,7 @@
       "artist": "Bob Mould",
       "album": "Beauty \u0026 Ruin",
       "durationMs": 205253,
+      "isrc": "USMRG1452012",
       "ids": {
         "appleMusic": "1840153791"
       }
@@ -1539,8 +2262,14 @@
       "artist": "The Notorious B.I.G.",
       "album": "Gangsta Rap Hits",
       "durationMs": 301467,
+      "isrc": "USBB40580814",
       "ids": {
         "appleMusic": "1694672252"
+      },
+      "features": {
+        "bpm": 95.9,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -1548,8 +2277,14 @@
       "artist": "Pearl Jam",
       "album": "Last Kiss - Single",
       "durationMs": 195467,
+      "isrc": "USSM19805513",
       "ids": {
         "appleMusic": "456761460"
+      },
+      "features": {
+        "bpm": 112.3,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -1557,8 +2292,14 @@
       "artist": "Nirvana",
       "album": "MTV Unplugged In New York (Live Acoustic)",
       "durationMs": 263227,
+      "isrc": "USGF19972713",
       "ids": {
         "appleMusic": "1440893070"
+      },
+      "features": {
+        "bpm": 109.1,
+        "gain": -12.6,
+        "source": "deezer"
       }
     },
     {
@@ -1566,6 +2307,7 @@
       "artist": "Foo Fighters",
       "album": "00020225 (B-Sides from \"One By One\") - EP",
       "durationMs": 238587,
+      "isrc": "USRW30300008",
       "ids": {
         "appleMusic": "1482052515"
       }
@@ -1575,8 +2317,14 @@
       "artist": "Guns N' Roses",
       "album": "Appetite For Destruction (Super Deluxe)",
       "durationMs": 192667,
+      "isrc": "USGF18819806",
       "ids": {
         "appleMusic": "1377827087"
+      },
+      "features": {
+        "bpm": 134.23,
+        "gain": -12.8,
+        "source": "deezer"
       }
     },
     {
@@ -1584,8 +2332,14 @@
       "artist": "Pearl Jam",
       "album": "Ten",
       "durationMs": 161893,
+      "isrc": "USSM19100675",
       "ids": {
         "appleMusic": "425465354"
+      },
+      "features": {
+        "bpm": 168.06,
+        "gain": -11.8,
+        "source": "deezer"
       }
     },
     {
@@ -1593,8 +2347,14 @@
       "artist": "Red Hot Chili Peppers",
       "album": "Boulevard of Broken Dreams - Alternative Ballads",
       "durationMs": 231933,
+      "isrc": "USWB10201693",
       "ids": {
         "appleMusic": "1622806638"
+      },
+      "features": {
+        "bpm": 117.5,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -1602,8 +2362,14 @@
       "artist": "The Police",
       "album": "Full 80s",
       "durationMs": 299040,
+      "isrc": "GBAAM0201111",
       "ids": {
         "appleMusic": "1807107716"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -12.7,
+        "source": "deezer"
       }
     },
     {
@@ -1611,8 +2377,14 @@
       "artist": "Silverchair",
       "album": "Neon Ballroom",
       "durationMs": 240733,
+      "isrc": "AUSM09800227",
       "ids": {
         "appleMusic": "192818638"
+      },
+      "features": {
+        "bpm": 143.6,
+        "gain": -11.1,
+        "source": "deezer"
       }
     },
     {
@@ -1620,6 +2392,7 @@
       "artist": "Aerosmith",
       "album": "Just Push Play",
       "durationMs": 215824,
+      "isrc": "USSM10019474",
       "ids": {
         "appleMusic": "1658655245"
       }
@@ -1629,6 +2402,7 @@
       "artist": "Panic Shack",
       "album": "Baby Shack - EP",
       "durationMs": 144128,
+      "isrc": "UK4MC2100560",
       "ids": {
         "appleMusic": "1600157394"
       }
@@ -1638,6 +2412,7 @@
       "artist": "UFO",
       "album": "Phenomenon (Bonus Track Version)",
       "durationMs": 252453,
+      "isrc": "GBAYK0700203",
       "ids": {
         "appleMusic": "1629180396"
       }

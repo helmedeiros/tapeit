@@ -6,8 +6,14 @@
       "artist": "David Guetta",
       "album": "Les tubes des années 2010",
       "durationMs": 245040,
+      "isrc": "GB28K1100036",
       "ids": {
         "appleMusic": "1821649887"
+      },
+      "features": {
+        "bpm": 126.05,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -15,8 +21,14 @@
       "artist": "David Guetta",
       "album": "Spring Break 2025 Pool Party",
       "durationMs": 227107,
+      "isrc": "GB28K1200051",
       "ids": {
         "appleMusic": "1801919963"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -5.1,
+        "source": "deezer"
       }
     },
     {
@@ -24,8 +36,14 @@
       "artist": "Avicii",
       "album": "True",
       "durationMs": 249688,
+      "isrc": "SEUM71301326",
       "ids": {
         "appleMusic": "1440872929"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -42,8 +60,14 @@
       "artist": "Black Eyed Peas",
       "album": "Kids Birthday Party",
       "durationMs": 289493,
+      "isrc": "USUM70965169",
       "ids": {
         "appleMusic": "1691418490"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -51,6 +75,7 @@
       "artist": "Kesha",
       "album": "C'mon (Remixes) - EP",
       "durationMs": 214333,
+      "isrc": "USRC11201135",
       "ids": {
         "appleMusic": "609518215"
       }
@@ -105,8 +130,14 @@
       "artist": "Pitbull",
       "album": "Planet Pit (Deluxe Version)",
       "durationMs": 227280,
+      "isrc": "USJAY1100015",
       "ids": {
         "appleMusic": "440733046"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -114,8 +145,14 @@
       "artist": "Elvis Presley \u0026 JXL",
       "album": "Pure... Dancefloor",
       "durationMs": 211240,
+      "isrc": "USRC10200288",
       "ids": {
         "appleMusic": "852613931"
+      },
+      "features": {
+        "bpm": 114.8,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -123,8 +160,14 @@
       "artist": "LMFAO",
       "album": "Sorry for Party Rocking",
       "durationMs": 199480,
+      "isrc": "USUM71108090",
       "ids": {
         "appleMusic": "1440757093"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -5.9,
+        "source": "deezer"
       }
     },
     {
@@ -132,8 +175,14 @@
       "artist": "The Script",
       "album": "2010s Summer Hits",
       "durationMs": 202533,
+      "isrc": "GBARL1201055",
       "ids": {
         "appleMusic": "1744737571"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -141,8 +190,14 @@
       "artist": "Owl City \u0026 Carly Rae Jepsen",
       "album": "Summer Dance 2021",
       "durationMs": 205647,
+      "isrc": "USUM71206288",
       "ids": {
         "appleMusic": "1580808840"
+      },
+      "features": {
+        "bpm": 126.05,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -150,8 +205,14 @@
       "artist": "Gavin DeGraw",
       "album": "Make a Move",
       "durationMs": 226213,
+      "isrc": "USRC11300820",
       "ids": {
         "appleMusic": "696565538"
+      },
+      "features": {
+        "bpm": 135.1,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -177,8 +238,14 @@
       "artist": "Daddy Yankee",
       "album": "Limbo - Single",
       "durationMs": 224693,
+      "isrc": "USNPD1200128",
       "ids": {
         "appleMusic": "715624027"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -186,6 +253,7 @@
       "artist": "Pharrell Williams",
       "album": "Filtr #Peace",
       "durationMs": 232867,
+      "isrc": "USQ4E1300686",
       "ids": {
         "appleMusic": "1069413348"
       }
@@ -204,8 +272,14 @@
       "artist": "Pitbull \u0026 Kesha",
       "album": "Summer Party Bangers",
       "durationMs": 203933,
+      "isrc": "USRC11301695",
       "ids": {
         "appleMusic": "1687427046"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -213,8 +287,14 @@
       "artist": "Jason Derulo",
       "album": "i'm over him",
       "durationMs": 226987,
+      "isrc": "USWB11301002",
       "ids": {
         "appleMusic": "1879741601"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -222,8 +302,14 @@
       "artist": "One Direction",
       "album": "Take Me Home (Yearbook Edition)",
       "durationMs": 182960,
+      "isrc": "GBHMU1200214",
       "ids": {
         "appleMusic": "574406658"
+      },
+      "features": {
+        "bpm": 179.8,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -249,8 +335,14 @@
       "artist": "Calvin Harris",
       "album": "18 Months (Deluxe Edition)",
       "durationMs": 234507,
+      "isrc": "GBARL1201390",
       "ids": {
         "appleMusic": "563923514"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -258,8 +350,14 @@
       "artist": "Tiësto",
       "album": "Un poquito de todo",
       "durationMs": 262200,
+      "isrc": "CYA111300030",
       "ids": {
         "appleMusic": "1691653660"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -267,8 +365,14 @@
       "artist": "Flo Rida",
       "album": "Sunkissed Summer Pop",
       "durationMs": 248133,
+      "isrc": "USAT21101961",
       "ids": {
         "appleMusic": "6773622816"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -276,6 +380,7 @@
       "artist": "Calvin Harris",
       "album": "Viral Summer Hits",
       "durationMs": 222533,
+      "isrc": "GBARL1400296",
       "ids": {
         "appleMusic": "1626028779"
       }
@@ -285,8 +390,14 @@
       "artist": "Macklemore \u0026 Ryan Lewis",
       "album": "The Heist (Deluxe Edition)",
       "durationMs": 258432,
+      "isrc": "GMM881200002",
       "ids": {
         "appleMusic": "560097694"
+      },
+      "features": {
+        "bpm": 146.09,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -312,8 +423,14 @@
       "artist": "Avicii",
       "album": "True: Avicii By Avicii",
       "durationMs": 182805,
+      "isrc": "CH3131340326",
       "ids": {
         "appleMusic": "1440824528"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -321,6 +438,7 @@
       "artist": "Calvin Harris",
       "album": "Motion",
       "durationMs": 227267,
+      "isrc": "GBARL1401201",
       "ids": {
         "appleMusic": "922876187"
       }
@@ -330,8 +448,14 @@
       "artist": "Avicii",
       "album": "Hity EDM",
       "durationMs": 178058,
+      "isrc": "CH3131340464",
       "ids": {
         "appleMusic": "1551214087"
+      },
+      "features": {
+        "bpm": 126.05,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -339,8 +463,14 @@
       "artist": "MAGIC!",
       "album": "Rude - Single (Zedd Remix)",
       "durationMs": 273231,
+      "isrc": "CAV161400034",
       "ids": {
         "appleMusic": "913726957"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -6.3,
+        "source": "deezer"
       }
     },
     {
@@ -348,8 +478,14 @@
       "artist": "B.o.B",
       "album": "B.o.B Presents: The Adventures of Bobby Ray (Deluxe)",
       "durationMs": 196133,
+      "isrc": "USAT21000545",
       "ids": {
         "appleMusic": "368016758"
+      },
+      "features": {
+        "bpm": 164.7,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -357,6 +493,7 @@
       "artist": "Mr. Probz",
       "album": "Nothing Really Matters (Afrojack Remix) - Single",
       "durationMs": 199247,
+      "isrc": "NLB8R1400015",
       "ids": {
         "appleMusic": "1532431272"
       }
@@ -384,8 +521,14 @@
       "artist": "Flo Rida",
       "album": "Sunkissed Summer Pop",
       "durationMs": 232947,
+      "isrc": "USAT21104103",
       "ids": {
         "appleMusic": "6773623225"
+      },
+      "features": {
+        "bpm": 126.8,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -393,8 +536,14 @@
       "artist": "Zedd",
       "album": "Workout Mix 2023",
       "durationMs": 217347,
+      "isrc": "USUM71311478",
       "ids": {
         "appleMusic": "1702239428"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6.4,
+        "source": "deezer"
       }
     },
     {
@@ -420,8 +569,14 @@
       "artist": "Owl City",
       "album": "Wreck-It Ralph (Original Score)",
       "durationMs": 218093,
+      "isrc": "USWD11263937",
       "ids": {
         "appleMusic": "1440624920"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -429,8 +584,14 @@
       "artist": "Avicii",
       "album": "Stories",
       "durationMs": 230614,
+      "isrc": "CHB701400134",
       "ids": {
         "appleMusic": "1440834312"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -438,8 +599,14 @@
       "artist": "WALK THE MOON",
       "album": "TALKING IS HARD (Expanded Edition)",
       "durationMs": 199080,
+      "isrc": "USRC11401949",
       "ids": {
         "appleMusic": "961298418"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -456,6 +623,7 @@
       "artist": "Mike Posner",
       "album": "2026, 2016 part 2???",
       "durationMs": 202440,
+      "isrc": "USUM71509342",
       "ids": {
         "appleMusic": "1875087415"
       }
@@ -465,8 +633,14 @@
       "artist": "Shaggy",
       "album": "Only Love (feat. Pitbull \u0026 Gene Noble) - Single",
       "durationMs": 270000,
+      "isrc": "USQX91502101",
       "ids": {
         "appleMusic": "1024988241"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
@@ -474,6 +648,7 @@
       "artist": "Michael Franti \u0026 Spearhead",
       "album": "The Old Beach",
       "durationMs": 233787,
+      "isrc": "USUM71303115",
       "ids": {
         "appleMusic": "1768173653"
       }
@@ -483,8 +658,14 @@
       "artist": "Ellie Goulding",
       "album": "Delirium (Deluxe)",
       "durationMs": 227423,
+      "isrc": "GBUM71505461",
       "ids": {
         "appleMusic": "1440853136"
+      },
+      "features": {
+        "bpm": 109.1,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -492,8 +673,14 @@
       "artist": "Carly Rae Jepsen",
       "album": "E•MO•TION (Deluxe)",
       "durationMs": 204764,
+      "isrc": "USUM71501431",
       "ids": {
         "appleMusic": "1442605732"
+      },
+      "features": {
+        "bpm": 121.96,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -501,8 +688,14 @@
       "artist": "Coldplay",
       "album": "Sunshine Vibes",
       "durationMs": 286347,
+      "isrc": "GBAYE1101454",
       "ids": {
         "appleMusic": "1561963197"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -510,8 +703,14 @@
       "artist": "Coldplay",
       "album": "Tears in Ibiza - Just Dance",
       "durationMs": 313125,
+      "isrc": "GBAYE1400990",
       "ids": {
         "appleMusic": "1641876799"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -528,8 +727,14 @@
       "artist": "Calvin Harris \u0026 Rihanna",
       "album": "96 Months",
       "durationMs": 221901,
+      "isrc": "GBARL1600460",
       "ids": {
         "appleMusic": "1761396653"
+      },
+      "features": {
+        "bpm": 124.16,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -537,8 +742,14 @@
       "artist": "Justin Timberlake",
       "album": "Fin de Año Éxitos",
       "durationMs": 236307,
+      "isrc": "USRC11600876",
       "ids": {
         "appleMusic": "1653395371"
+      },
+      "features": {
+        "bpm": 112.96,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -546,8 +757,14 @@
       "artist": "USHER",
       "album": "Party Hits",
       "durationMs": 222160,
+      "isrc": "USLF21000041",
       "ids": {
         "appleMusic": "578034259"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -573,8 +790,14 @@
       "artist": "LMFAO",
       "album": "Sorry for Party Rocking",
       "durationMs": 203973,
+      "isrc": "USUM71108089",
       "ids": {
         "appleMusic": "1440756784"
+      },
+      "features": {
+        "bpm": 133.8,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -582,8 +805,14 @@
       "artist": "Train",
       "album": "California 37",
       "durationMs": 247947,
+      "isrc": "USSM11201533",
       "ids": {
         "appleMusic": "1438078580"
+      },
+      "features": {
+        "bpm": 140.2,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
@@ -600,8 +829,14 @@
       "artist": "John Newman",
       "album": "Tribute",
       "durationMs": 239894,
+      "isrc": "GBUM71301538",
       "ids": {
         "appleMusic": "1440818561"
+      },
+      "features": {
+        "bpm": 126,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -609,8 +844,14 @@
       "artist": "Calvin Harris",
       "album": "Motion",
       "durationMs": 212960,
+      "isrc": "GBARL1400567",
       "ids": {
         "appleMusic": "922876184"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -618,8 +859,14 @@
       "artist": "Cash Cash",
       "album": "Vatertag Sommerhits",
       "durationMs": 219240,
+      "isrc": "USAT21600889",
       "ids": {
         "appleMusic": "1811560548"
+      },
+      "features": {
+        "bpm": 118.8,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
@@ -627,8 +874,14 @@
       "artist": "Cash Cash",
       "album": "Blood, Sweat \u0026 3 Years",
       "durationMs": 213853,
+      "isrc": "USAT21400860",
       "ids": {
         "appleMusic": "1107248972"
+      },
+      "features": {
+        "bpm": 129.2,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -654,6 +907,7 @@
       "artist": "Calvin Harris",
       "album": "96 Months",
       "durationMs": 219160,
+      "isrc": "GBARL1601358",
       "ids": {
         "appleMusic": "1761396656"
       }
@@ -672,8 +926,14 @@
       "artist": "Cash Cash",
       "album": "10s - Vibes of the Decade",
       "durationMs": 197840,
+      "isrc": "USAT21601388",
       "ids": {
         "appleMusic": "1820970110"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -690,8 +950,14 @@
       "artist": "Flo Rida \u0026 99 Percent",
       "album": "Workout 2025 Time",
       "durationMs": 157165,
+      "isrc": "USAT21603703",
       "ids": {
         "appleMusic": "1804051218"
+      },
+      "features": {
+        "bpm": 104.93,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -735,8 +1001,14 @@
       "artist": "Halsey",
       "album": "Room 93: The Remixes - Single",
       "durationMs": 224520,
+      "isrc": "USUM71502002",
       "ids": {
         "appleMusic": "1445301398"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -744,8 +1016,14 @@
       "artist": "Ed Sheeran",
       "album": "10er Hits",
       "durationMs": 261154,
+      "isrc": "GBAHS1600462",
       "ids": {
         "appleMusic": "1630103876"
+      },
+      "features": {
+        "bpm": 135.11,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -753,8 +1031,14 @@
       "artist": "Smallpools",
       "album": "Dreaming Remix - EP",
       "durationMs": 297907,
+      "isrc": "USRC11301014",
       "ids": {
         "appleMusic": "781631049"
+      },
+      "features": {
+        "bpm": 126.8,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -762,8 +1046,14 @@
       "artist": "Pitbull",
       "album": "Climate Change",
       "durationMs": 245358,
+      "isrc": "USRC11601270",
       "ids": {
         "appleMusic": "1206131666"
+      },
+      "features": {
+        "bpm": 114.84,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -780,8 +1070,14 @@
       "artist": "Steve Aoki \u0026 Louis Tomlinson",
       "album": "Just Hold On - Single",
       "durationMs": 198774,
+      "isrc": "USUS11600503",
       "ids": {
         "appleMusic": "1183936529"
+      },
+      "features": {
+        "bpm": 114.84,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -789,6 +1085,7 @@
       "artist": "Hardwell \u0026 Austin Mahone",
       "album": "Creatures of the Night - Single",
       "durationMs": 180800,
+      "isrc": "NLQ8D1700084",
       "ids": {
         "appleMusic": "1445046620"
       }
@@ -798,8 +1095,14 @@
       "artist": "Fitz and The Tantrums",
       "album": "SONGS EVERYONE KNOWS",
       "durationMs": 193253,
+      "isrc": "USAT21600408",
       "ids": {
         "appleMusic": "1824076303"
+      },
+      "features": {
+        "bpm": 140.15,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -816,8 +1119,14 @@
       "artist": "Zedd \u0026 Liam Payne",
       "album": "Get Low - Single",
       "durationMs": 204583,
+      "isrc": "USUM71705522",
       "ids": {
         "appleMusic": "1444269050"
+      },
+      "features": {
+        "bpm": 107.95,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -825,8 +1134,14 @@
       "artist": "Avicii \u0026 Sandro Cavazza",
       "album": "Hity EDM",
       "durationMs": 181673,
+      "isrc": "SE5R71700101",
       "ids": {
         "appleMusic": "1551215004"
+      },
+      "features": {
+        "bpm": 133.8,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -843,8 +1158,14 @@
       "artist": "Flo Rida",
       "album": "Juntada del día del amigo",
       "durationMs": 225000,
+      "isrc": "USAT21201745",
       "ids": {
         "appleMusic": "1756471256"
+      },
+      "features": {
+        "bpm": 103.9,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -870,6 +1191,7 @@
       "artist": "Martin Garrix \u0026 Dua Lipa",
       "album": "Scared To Be Lonely - Single",
       "durationMs": 220883,
+      "isrc": "NLM5S1600025",
       "ids": {
         "appleMusic": "1196786344"
       }
@@ -879,6 +1201,7 @@
       "artist": "Tiësto",
       "album": "EDM Club Circuit",
       "durationMs": 194720,
+      "isrc": "CYA111700144",
       "ids": {
         "appleMusic": "1848871443"
       }
@@ -897,8 +1220,14 @@
       "artist": "Cheat Codes",
       "album": "No Promises (feat. Demi Lovato) - Single",
       "durationMs": 223504,
+      "isrc": "QMCE31700953",
       "ids": {
         "appleMusic": "1219424964"
+      },
+      "features": {
+        "bpm": 112.96,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -906,8 +1235,14 @@
       "artist": "David Guetta",
       "album": "Les tubes des années 2010",
       "durationMs": 245040,
+      "isrc": "GB28K1100036",
       "ids": {
         "appleMusic": "1821649887"
+      },
+      "features": {
+        "bpm": 126.05,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -915,8 +1250,14 @@
       "artist": "David Guetta",
       "album": "Spring Break 2025 Pool Party",
       "durationMs": 227107,
+      "isrc": "GB28K1200051",
       "ids": {
         "appleMusic": "1801919963"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -5.1,
+        "source": "deezer"
       }
     },
     {
@@ -924,8 +1265,14 @@
       "artist": "Avicii",
       "album": "True",
       "durationMs": 249688,
+      "isrc": "SEUM71301326",
       "ids": {
         "appleMusic": "1440872929"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -942,8 +1289,14 @@
       "artist": "Black Eyed Peas",
       "album": "Kids Birthday Party",
       "durationMs": 289493,
+      "isrc": "USUM70965169",
       "ids": {
         "appleMusic": "1691418490"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -951,6 +1304,7 @@
       "artist": "Kesha",
       "album": "C'mon (Remixes) - EP",
       "durationMs": 214333,
+      "isrc": "USRC11201135",
       "ids": {
         "appleMusic": "609518215"
       }
@@ -1005,8 +1359,14 @@
       "artist": "Pitbull",
       "album": "Planet Pit (Deluxe Version)",
       "durationMs": 227280,
+      "isrc": "USJAY1100015",
       "ids": {
         "appleMusic": "440733046"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -1014,8 +1374,14 @@
       "artist": "Elvis Presley \u0026 JXL",
       "album": "Pure... Dancefloor",
       "durationMs": 211240,
+      "isrc": "USRC10200288",
       "ids": {
         "appleMusic": "852613931"
+      },
+      "features": {
+        "bpm": 114.8,
+        "gain": -10.1,
+        "source": "deezer"
       }
     },
     {
@@ -1023,8 +1389,14 @@
       "artist": "LMFAO",
       "album": "Sorry for Party Rocking",
       "durationMs": 199480,
+      "isrc": "USUM71108090",
       "ids": {
         "appleMusic": "1440757093"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -5.9,
+        "source": "deezer"
       }
     },
     {
@@ -1032,8 +1404,14 @@
       "artist": "The Script",
       "album": "2010s Summer Hits",
       "durationMs": 202533,
+      "isrc": "GBARL1201055",
       "ids": {
         "appleMusic": "1744737571"
+      },
+      "features": {
+        "bpm": 170.1,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -1041,8 +1419,14 @@
       "artist": "Owl City \u0026 Carly Rae Jepsen",
       "album": "Summer Dance 2021",
       "durationMs": 205647,
+      "isrc": "USUM71206288",
       "ids": {
         "appleMusic": "1580808840"
+      },
+      "features": {
+        "bpm": 126.05,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -1050,8 +1434,14 @@
       "artist": "Gavin DeGraw",
       "album": "Make a Move",
       "durationMs": 226213,
+      "isrc": "USRC11300820",
       "ids": {
         "appleMusic": "696565538"
+      },
+      "features": {
+        "bpm": 135.1,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -1077,8 +1467,14 @@
       "artist": "Daddy Yankee",
       "album": "Limbo - Single",
       "durationMs": 224693,
+      "isrc": "USNPD1200128",
       "ids": {
         "appleMusic": "715624027"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -1086,6 +1482,7 @@
       "artist": "Pharrell Williams",
       "album": "Filtr #Peace",
       "durationMs": 232867,
+      "isrc": "USQ4E1300686",
       "ids": {
         "appleMusic": "1069413348"
       }
@@ -1104,8 +1501,14 @@
       "artist": "Pitbull \u0026 Kesha",
       "album": "Summer Party Bangers",
       "durationMs": 203933,
+      "isrc": "USRC11301695",
       "ids": {
         "appleMusic": "1687427046"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -1113,8 +1516,14 @@
       "artist": "Jason Derulo",
       "album": "i'm over him",
       "durationMs": 226987,
+      "isrc": "USWB11301002",
       "ids": {
         "appleMusic": "1879741601"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -1122,8 +1531,14 @@
       "artist": "One Direction",
       "album": "Take Me Home (Yearbook Edition)",
       "durationMs": 182960,
+      "isrc": "GBHMU1200214",
       "ids": {
         "appleMusic": "574406658"
+      },
+      "features": {
+        "bpm": 179.8,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -1149,8 +1564,14 @@
       "artist": "Calvin Harris",
       "album": "18 Months (Deluxe Edition)",
       "durationMs": 234507,
+      "isrc": "GBARL1201390",
       "ids": {
         "appleMusic": "563923514"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -1158,8 +1579,14 @@
       "artist": "Tiësto",
       "album": "Un poquito de todo",
       "durationMs": 262200,
+      "isrc": "CYA111300030",
       "ids": {
         "appleMusic": "1691653660"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -1167,8 +1594,14 @@
       "artist": "Flo Rida",
       "album": "Sunkissed Summer Pop",
       "durationMs": 248133,
+      "isrc": "USAT21101961",
       "ids": {
         "appleMusic": "6773622816"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -1176,6 +1609,7 @@
       "artist": "Calvin Harris",
       "album": "Viral Summer Hits",
       "durationMs": 222533,
+      "isrc": "GBARL1400296",
       "ids": {
         "appleMusic": "1626028779"
       }
@@ -1185,8 +1619,14 @@
       "artist": "Macklemore \u0026 Ryan Lewis",
       "album": "The Heist (Deluxe Edition)",
       "durationMs": 258432,
+      "isrc": "GMM881200002",
       "ids": {
         "appleMusic": "560097694"
+      },
+      "features": {
+        "bpm": 146.09,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -1212,8 +1652,14 @@
       "artist": "Avicii",
       "album": "True: Avicii By Avicii",
       "durationMs": 182805,
+      "isrc": "CH3131340326",
       "ids": {
         "appleMusic": "1440824528"
+      },
+      "features": {
+        "bpm": 124.9,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -1221,6 +1667,7 @@
       "artist": "Calvin Harris",
       "album": "Motion",
       "durationMs": 227267,
+      "isrc": "GBARL1401201",
       "ids": {
         "appleMusic": "922876187"
       }
@@ -1230,8 +1677,14 @@
       "artist": "Avicii",
       "album": "Hity EDM",
       "durationMs": 178058,
+      "isrc": "CH3131340464",
       "ids": {
         "appleMusic": "1551214087"
+      },
+      "features": {
+        "bpm": 126.05,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -1239,8 +1692,14 @@
       "artist": "MAGIC!",
       "album": "Rude - Single (Zedd Remix)",
       "durationMs": 273231,
+      "isrc": "CAV161400034",
       "ids": {
         "appleMusic": "913726957"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -6.3,
+        "source": "deezer"
       }
     },
     {
@@ -1248,8 +1707,14 @@
       "artist": "B.o.B",
       "album": "B.o.B Presents: The Adventures of Bobby Ray (Deluxe)",
       "durationMs": 196133,
+      "isrc": "USAT21000545",
       "ids": {
         "appleMusic": "368016758"
+      },
+      "features": {
+        "bpm": 164.7,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -1257,6 +1722,7 @@
       "artist": "Mr. Probz",
       "album": "Nothing Really Matters (Afrojack Remix) - Single",
       "durationMs": 199247,
+      "isrc": "NLB8R1400015",
       "ids": {
         "appleMusic": "1532431272"
       }
@@ -1284,8 +1750,14 @@
       "artist": "Flo Rida",
       "album": "Sunkissed Summer Pop",
       "durationMs": 232947,
+      "isrc": "USAT21104103",
       "ids": {
         "appleMusic": "6773623225"
+      },
+      "features": {
+        "bpm": 126.8,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -1293,8 +1765,14 @@
       "artist": "Zedd",
       "album": "Workout Mix 2023",
       "durationMs": 217347,
+      "isrc": "USUM71311478",
       "ids": {
         "appleMusic": "1702239428"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6.4,
+        "source": "deezer"
       }
     },
     {
@@ -1320,8 +1798,14 @@
       "artist": "Owl City",
       "album": "Wreck-It Ralph (Original Score)",
       "durationMs": 218093,
+      "isrc": "USWD11263937",
       "ids": {
         "appleMusic": "1440624920"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -1329,8 +1813,14 @@
       "artist": "Avicii",
       "album": "Stories",
       "durationMs": 230614,
+      "isrc": "CHB701400134",
       "ids": {
         "appleMusic": "1440834312"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -1338,8 +1828,14 @@
       "artist": "WALK THE MOON",
       "album": "TALKING IS HARD (Expanded Edition)",
       "durationMs": 199080,
+      "isrc": "USRC11401949",
       "ids": {
         "appleMusic": "961298418"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -1356,6 +1852,7 @@
       "artist": "Mike Posner",
       "album": "2026, 2016 part 2???",
       "durationMs": 202440,
+      "isrc": "USUM71509342",
       "ids": {
         "appleMusic": "1875087415"
       }
@@ -1365,8 +1862,14 @@
       "artist": "Shaggy",
       "album": "Only Love (feat. Pitbull \u0026 Gene Noble) - Single",
       "durationMs": 270000,
+      "isrc": "USQX91502101",
       "ids": {
         "appleMusic": "1024988241"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
@@ -1374,6 +1877,7 @@
       "artist": "Michael Franti \u0026 Spearhead",
       "album": "The Old Beach",
       "durationMs": 233787,
+      "isrc": "USUM71303115",
       "ids": {
         "appleMusic": "1768173653"
       }
@@ -1383,8 +1887,14 @@
       "artist": "Ellie Goulding",
       "album": "Delirium (Deluxe)",
       "durationMs": 227423,
+      "isrc": "GBUM71505461",
       "ids": {
         "appleMusic": "1440853136"
+      },
+      "features": {
+        "bpm": 109.1,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -1392,8 +1902,14 @@
       "artist": "Carly Rae Jepsen",
       "album": "E•MO•TION (Deluxe)",
       "durationMs": 204764,
+      "isrc": "USUM71501431",
       "ids": {
         "appleMusic": "1442605732"
+      },
+      "features": {
+        "bpm": 121.96,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -1401,8 +1917,14 @@
       "artist": "Coldplay",
       "album": "Sunshine Vibes",
       "durationMs": 286347,
+      "isrc": "GBAYE1101454",
       "ids": {
         "appleMusic": "1561963197"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -1410,8 +1932,14 @@
       "artist": "Coldplay",
       "album": "Tears in Ibiza - Just Dance",
       "durationMs": 313125,
+      "isrc": "GBAYE1400990",
       "ids": {
         "appleMusic": "1641876799"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -1428,8 +1956,14 @@
       "artist": "Calvin Harris \u0026 Rihanna",
       "album": "96 Months",
       "durationMs": 221901,
+      "isrc": "GBARL1600460",
       "ids": {
         "appleMusic": "1761396653"
+      },
+      "features": {
+        "bpm": 124.16,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -1437,8 +1971,14 @@
       "artist": "Justin Timberlake",
       "album": "Fin de Año Éxitos",
       "durationMs": 236307,
+      "isrc": "USRC11600876",
       "ids": {
         "appleMusic": "1653395371"
+      },
+      "features": {
+        "bpm": 112.96,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -1446,8 +1986,14 @@
       "artist": "USHER",
       "album": "Party Hits",
       "durationMs": 222160,
+      "isrc": "USLF21000041",
       "ids": {
         "appleMusic": "578034259"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -1473,8 +2019,14 @@
       "artist": "LMFAO",
       "album": "Sorry for Party Rocking",
       "durationMs": 203973,
+      "isrc": "USUM71108089",
       "ids": {
         "appleMusic": "1440756784"
+      },
+      "features": {
+        "bpm": 133.8,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -1482,8 +2034,14 @@
       "artist": "Train",
       "album": "California 37",
       "durationMs": 247947,
+      "isrc": "USSM11201533",
       "ids": {
         "appleMusic": "1438078580"
+      },
+      "features": {
+        "bpm": 140.2,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
@@ -1500,8 +2058,14 @@
       "artist": "John Newman",
       "album": "Tribute",
       "durationMs": 239894,
+      "isrc": "GBUM71301538",
       "ids": {
         "appleMusic": "1440818561"
+      },
+      "features": {
+        "bpm": 126,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -1509,8 +2073,14 @@
       "artist": "Calvin Harris",
       "album": "Motion",
       "durationMs": 212960,
+      "isrc": "GBARL1400567",
       "ids": {
         "appleMusic": "922876184"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -1518,8 +2088,14 @@
       "artist": "Cash Cash",
       "album": "Vatertag Sommerhits",
       "durationMs": 219240,
+      "isrc": "USAT21600889",
       "ids": {
         "appleMusic": "1811560548"
+      },
+      "features": {
+        "bpm": 118.8,
+        "gain": -6.5,
+        "source": "deezer"
       }
     },
     {
@@ -1527,8 +2103,14 @@
       "artist": "Cash Cash",
       "album": "Blood, Sweat \u0026 3 Years",
       "durationMs": 213853,
+      "isrc": "USAT21400860",
       "ids": {
         "appleMusic": "1107248972"
+      },
+      "features": {
+        "bpm": 129.2,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -1554,6 +2136,7 @@
       "artist": "Calvin Harris",
       "album": "96 Months",
       "durationMs": 219160,
+      "isrc": "GBARL1601358",
       "ids": {
         "appleMusic": "1761396656"
       }
@@ -1572,8 +2155,14 @@
       "artist": "Cash Cash",
       "album": "10s - Vibes of the Decade",
       "durationMs": 197840,
+      "isrc": "USAT21601388",
       "ids": {
         "appleMusic": "1820970110"
+      },
+      "features": {
+        "bpm": 149.8,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -1590,8 +2179,14 @@
       "artist": "Flo Rida \u0026 99 Percent",
       "album": "Workout 2025 Time",
       "durationMs": 157165,
+      "isrc": "USAT21603703",
       "ids": {
         "appleMusic": "1804051218"
+      },
+      "features": {
+        "bpm": 104.93,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -1635,8 +2230,14 @@
       "artist": "Halsey",
       "album": "Room 93: The Remixes - Single",
       "durationMs": 224520,
+      "isrc": "USUM71502002",
       "ids": {
         "appleMusic": "1445301398"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -1644,8 +2245,14 @@
       "artist": "Ed Sheeran",
       "album": "10er Hits",
       "durationMs": 261154,
+      "isrc": "GBAHS1600462",
       "ids": {
         "appleMusic": "1630103876"
+      },
+      "features": {
+        "bpm": 135.11,
+        "gain": -7.5,
+        "source": "deezer"
       }
     },
     {
@@ -1653,8 +2260,14 @@
       "artist": "Smallpools",
       "album": "Dreaming Remix - EP",
       "durationMs": 297907,
+      "isrc": "USRC11301014",
       "ids": {
         "appleMusic": "781631049"
+      },
+      "features": {
+        "bpm": 126.8,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -1662,8 +2275,14 @@
       "artist": "Pitbull",
       "album": "Climate Change",
       "durationMs": 245358,
+      "isrc": "USRC11601270",
       "ids": {
         "appleMusic": "1206131666"
+      },
+      "features": {
+        "bpm": 114.84,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -1680,8 +2299,14 @@
       "artist": "Steve Aoki \u0026 Louis Tomlinson",
       "album": "Just Hold On - Single",
       "durationMs": 198774,
+      "isrc": "USUS11600503",
       "ids": {
         "appleMusic": "1183936529"
+      },
+      "features": {
+        "bpm": 114.84,
+        "gain": -6.2,
+        "source": "deezer"
       }
     },
     {
@@ -1689,6 +2314,7 @@
       "artist": "Hardwell \u0026 Austin Mahone",
       "album": "Creatures of the Night - Single",
       "durationMs": 180800,
+      "isrc": "NLQ8D1700084",
       "ids": {
         "appleMusic": "1445046620"
       }
@@ -1698,8 +2324,14 @@
       "artist": "Fitz and The Tantrums",
       "album": "SONGS EVERYONE KNOWS",
       "durationMs": 193253,
+      "isrc": "USAT21600408",
       "ids": {
         "appleMusic": "1824076303"
+      },
+      "features": {
+        "bpm": 140.15,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -1716,8 +2348,14 @@
       "artist": "Zedd \u0026 Liam Payne",
       "album": "Get Low - Single",
       "durationMs": 204583,
+      "isrc": "USUM71705522",
       "ids": {
         "appleMusic": "1444269050"
+      },
+      "features": {
+        "bpm": 107.95,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -1725,8 +2363,14 @@
       "artist": "Avicii \u0026 Sandro Cavazza",
       "album": "Hity EDM",
       "durationMs": 181673,
+      "isrc": "SE5R71700101",
       "ids": {
         "appleMusic": "1551215004"
+      },
+      "features": {
+        "bpm": 133.8,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -1743,8 +2387,14 @@
       "artist": "Flo Rida",
       "album": "Juntada del día del amigo",
       "durationMs": 225000,
+      "isrc": "USAT21201745",
       "ids": {
         "appleMusic": "1756471256"
+      },
+      "features": {
+        "bpm": 103.9,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -1770,6 +2420,7 @@
       "artist": "Martin Garrix \u0026 Dua Lipa",
       "album": "Scared To Be Lonely - Single",
       "durationMs": 220883,
+      "isrc": "NLM5S1600025",
       "ids": {
         "appleMusic": "1196786344"
       }
@@ -1779,6 +2430,7 @@
       "artist": "Tiësto",
       "album": "EDM Club Circuit",
       "durationMs": 194720,
+      "isrc": "CYA111700144",
       "ids": {
         "appleMusic": "1848871443"
       }
@@ -1797,8 +2449,14 @@
       "artist": "Cheat Codes",
       "album": "No Promises (feat. Demi Lovato) - Single",
       "durationMs": 223504,
+      "isrc": "QMCE31700953",
       "ids": {
         "appleMusic": "1219424964"
+      },
+      "features": {
+        "bpm": 112.96,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -1806,8 +2464,14 @@
       "artist": "Starley",
       "album": "Workout Beats, Vol. 9 (Musik Zum Trainieren) [Winter-Edition]",
       "durationMs": 222041,
+      "isrc": "AUCN31209086",
       "ids": {
         "appleMusic": "1181519531"
+      },
+      "features": {
+        "bpm": 104.93,
+        "gain": -8.1,
+        "source": "deezer"
       }
     },
     {
@@ -1824,8 +2488,14 @@
       "artist": "Maggie Lindemann",
       "album": "Pretty Girl (Cheat Codes X Cade Remix) - Single",
       "durationMs": 193613,
+      "isrc": "QMCE31700923",
       "ids": {
         "appleMusic": "1209277964"
+      },
+      "features": {
+        "bpm": 120.89,
+        "gain": -9.1,
+        "source": "deezer"
       }
     },
     {
@@ -1833,6 +2503,7 @@
       "artist": "Austin Mahone \u0026 Pitbull",
       "album": "The Secret EP",
       "durationMs": 231625,
+      "isrc": "USCM51400015",
       "ids": {
         "appleMusic": "1763638625"
       }
@@ -1842,6 +2513,7 @@
       "artist": "Fall Out Boy",
       "album": "Infinity On High",
       "durationMs": 230507,
+      "isrc": "USUM70700330",
       "ids": {
         "appleMusic": "1440786812"
       }
@@ -1851,8 +2523,14 @@
       "artist": "Swanky Tunes \u0026 Going Deeper",
       "album": "Till the End - Single",
       "durationMs": 195653,
+      "isrc": "RUB421600893",
       "ids": {
         "appleMusic": "1142246832"
+      },
+      "features": {
+        "bpm": 107.95,
+        "gain": -5.9,
+        "source": "deezer"
       }
     },
     {
@@ -1887,8 +2565,14 @@
       "artist": "Noah Kahan \u0026 Julia Michaels",
       "album": "Beach Lounge",
       "durationMs": 210053,
+      "isrc": "USUM71802381",
       "ids": {
         "appleMusic": "1533115538"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -6.7,
+        "source": "deezer"
       }
     },
     {
@@ -1896,8 +2580,14 @@
       "artist": "Clean Bandit",
       "album": "Solo (feat. Demi Lovato) - Single",
       "durationMs": 222653,
+      "isrc": "GBAHS1800328",
       "ids": {
         "appleMusic": "1380753466"
+      },
+      "features": {
+        "bpm": 104.93,
+        "gain": -8.2,
+        "source": "deezer"
       }
     },
     {
@@ -1905,8 +2595,14 @@
       "artist": "Calvin Harris, Sam Smith",
       "album": "Promises - Single",
       "durationMs": 213309,
+      "isrc": "GBARL1801049",
       "ids": {
         "appleMusic": "1424362622"
+      },
+      "features": {
+        "bpm": 123.05,
+        "gain": -9.3,
+        "source": "deezer"
       }
     },
     {
@@ -1923,6 +2619,7 @@
       "artist": "Dillon Francis",
       "album": "The LEGO Movie 2: The Second Part (Original Motion Picture Soundtrack)",
       "durationMs": 168097,
+      "isrc": "USNLR1900025",
       "ids": {
         "appleMusic": "1456337696"
       }
@@ -1941,8 +2638,14 @@
       "artist": "Martin Garrix",
       "album": "No Sleep (feat. Bonn) - Single",
       "durationMs": 207095,
+      "isrc": "NLM5S1900471",
       "ids": {
         "appleMusic": "1453438470"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -1968,6 +2671,7 @@
       "artist": "BTS",
       "album": "MAP OF THE SOUL : PERSONA",
       "durationMs": 229773,
+      "isrc": "QM6MZ1917908",
       "ids": {
         "appleMusic": "1599172208"
       }
@@ -1977,6 +2681,7 @@
       "artist": "Martin Garrix",
       "album": "Summer Days (feat. Macklemore \u0026 Patrick Stump) - Single",
       "durationMs": 163805,
+      "isrc": "NLM5S1900528",
       "ids": {
         "appleMusic": "1460655320"
       }
@@ -1995,8 +2700,14 @@
       "artist": "Robin Schulz",
       "album": "Happiest Wake Up Songs",
       "durationMs": 219043,
+      "isrc": "DEA621501057",
       "ids": {
         "appleMusic": "6766814759"
+      },
+      "features": {
+        "bpm": 123,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -2004,6 +2715,7 @@
       "artist": "Shawn Mendes",
       "album": "Happy Valentine's Day 2023",
       "durationMs": 190800,
+      "isrc": "USUM71907349",
       "ids": {
         "appleMusic": "1662731112"
       }
@@ -2013,8 +2725,14 @@
       "artist": "Sam Smith \u0026 Normani",
       "album": "Queer Dance Party",
       "durationMs": 171030,
+      "isrc": "GBUM71807386",
       "ids": {
         "appleMusic": "1689646963"
+      },
+      "features": {
+        "bpm": 103.1,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -2022,8 +2740,14 @@
       "artist": "Mathieu Koss \u0026 Aloe Blacc",
       "album": "Never Growing Up - Single",
       "durationMs": 197632,
+      "isrc": "FR9W11903271",
       "ids": {
         "appleMusic": "1454297435"
+      },
+      "features": {
+        "bpm": 126.05,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -2040,8 +2764,14 @@
       "artist": "AFROJACK \u0026 Thirty Seconds to Mars",
       "album": "Hard Trance",
       "durationMs": 278174,
+      "isrc": "USUM71403966",
       "ids": {
         "appleMusic": "1656480051"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -6.4,
+        "source": "deezer"
       }
     },
     {
@@ -2067,6 +2797,7 @@
       "artist": "Hailee Steinfeld",
       "album": "Lieblings... Kinder Hits",
       "durationMs": 218613,
+      "isrc": "USUM71510716",
       "ids": {
         "appleMusic": "1528951679"
       }
@@ -2076,8 +2807,14 @@
       "artist": "Avicii",
       "album": "Majówka 2023",
       "durationMs": 277262,
+      "isrc": "SE5R71900203",
       "ids": {
         "appleMusic": "1683646209"
+      },
+      "features": {
+        "bpm": 121.96,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -2085,8 +2822,14 @@
       "artist": "Simple Plan",
       "album": "Pangmalakasang Workout Mix",
       "durationMs": 190320,
+      "isrc": "USAT21502593",
       "ids": {
         "appleMusic": "1795476427"
+      },
+      "features": {
+        "bpm": 160.2,
+        "gain": -6.3,
+        "source": "deezer"
       }
     },
     {
@@ -2094,8 +2837,14 @@
       "artist": "The All-American Rejects",
       "album": "Move Along (Deluxe Edition)",
       "durationMs": 193653,
+      "isrc": "USDW10500128",
       "ids": {
         "appleMusic": "1440717129"
+      },
+      "features": {
+        "bpm": 143.6,
+        "gain": -6.9,
+        "source": "deezer"
       }
     },
     {
@@ -2103,8 +2852,14 @@
       "artist": "David Guetta",
       "album": "Party Till Sunrise - EP",
       "durationMs": 185943,
+      "isrc": "GB28K1900029",
       "ids": {
         "appleMusic": "1688187929"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -2130,8 +2885,14 @@
       "artist": "End of the World",
       "album": "Chameleon (Deluxe)",
       "durationMs": 217493,
+      "isrc": "GBARL1900812",
       "ids": {
         "appleMusic": "1573471999"
+      },
+      "features": {
+        "bpm": 121.96,
+        "gain": -8.4,
+        "source": "deezer"
       }
     },
     {
@@ -2139,8 +2900,14 @@
       "artist": "Zedd \u0026 Kehlani",
       "album": "POP LOVE HITS VOL 18",
       "durationMs": 210901,
+      "isrc": "USUM71919172",
       "ids": {
         "appleMusic": "1676358368"
+      },
+      "features": {
+        "bpm": 92.91,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -2157,8 +2924,14 @@
       "artist": "DNCE",
       "album": "Good Day (End of the World Remix) - Single",
       "durationMs": 242533,
+      "isrc": "USUM71710353",
       "ids": {
         "appleMusic": "1444284338"
+      },
+      "features": {
+        "bpm": 112.96,
+        "gain": -8.6,
+        "source": "deezer"
       }
     },
     {
@@ -2166,8 +2939,14 @@
       "artist": "Armin van Buuren \u0026 Ne-Yo",
       "album": "Armada Music 2020",
       "durationMs": 150160,
+      "isrc": "NLF711909586",
       "ids": {
         "appleMusic": "1488131569"
+      },
+      "features": {
+        "bpm": 117.12,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -2175,8 +2954,14 @@
       "artist": "James TW",
       "album": "Afternoon Chillout",
       "durationMs": 231653,
+      "isrc": "USUM71820513",
       "ids": {
         "appleMusic": "1585889733"
+      },
+      "features": {
+        "bpm": 126.82,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -2184,8 +2969,14 @@
       "artist": "The Weeknd",
       "album": "After Hours (Deluxe)",
       "durationMs": 200046,
+      "isrc": "USUG11904206",
       "ids": {
         "appleMusic": "1505683988"
+      },
+      "features": {
+        "bpm": 170.84,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -2193,8 +2984,14 @@
       "artist": "Post Malone",
       "album": "Class Of 2020",
       "durationMs": 215280,
+      "isrc": "USUM71915699",
       "ids": {
         "appleMusic": "1713518357"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -6,
+        "source": "deezer"
       }
     },
     {
@@ -2202,8 +2999,14 @@
       "artist": "Foxes",
       "album": "Glorious (Deluxe Version)",
       "durationMs": 238413,
+      "isrc": "GBARL1301249",
       "ids": {
         "appleMusic": "723035308"
+      },
+      "features": {
+        "bpm": 140.2,
+        "gain": -9.4,
+        "source": "deezer"
       }
     },
     {
@@ -2211,8 +3014,14 @@
       "artist": "Kygo",
       "album": "Kids in Love (Re-Release)",
       "durationMs": 232907,
+      "isrc": "SEBGA1700443",
       "ids": {
         "appleMusic": "1356574310"
+      },
+      "features": {
+        "bpm": 123.05,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -2220,8 +3029,14 @@
       "artist": "Foxes",
       "album": "All I Need (Deluxe)",
       "durationMs": 209717,
+      "isrc": "GBARL1500596",
       "ids": {
         "appleMusic": "1019553231"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -7,
+        "source": "deezer"
       }
     },
     {
@@ -2229,8 +3044,14 @@
       "artist": "OneRepublic",
       "album": "Rescue Me - Single",
       "durationMs": 158900,
+      "isrc": "USUM71907507",
       "ids": {
         "appleMusic": "1463236498"
+      },
+      "features": {
+        "bpm": 120.89,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -2238,8 +3059,14 @@
       "artist": "Martin Garrix",
       "album": "Drown (feat. Clinton Kane) - Single",
       "durationMs": 174062,
+      "isrc": "NLM5S2000785",
       "ids": {
         "appleMusic": "1495990379"
+      },
+      "features": {
+        "bpm": 119.84,
+        "gain": -7.3,
+        "source": "deezer"
       }
     },
     {
@@ -2247,8 +3074,14 @@
       "artist": "Shawn Mendes \u0026 Zedd",
       "album": "Dance on the Beach",
       "durationMs": 201253,
+      "isrc": "USUM71813582",
       "ids": {
         "appleMusic": "1702588765"
+      },
+      "features": {
+        "bpm": 107.11,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -2265,8 +3098,14 @@
       "artist": "Meghan Trainor",
       "album": "The Peanuts Movie (Original Motion Picture Soundtrack)",
       "durationMs": 176252,
+      "isrc": "USSM11506387",
       "ids": {
         "appleMusic": "1047287550"
+      },
+      "features": {
+        "bpm": 128,
+        "gain": -10.6,
+        "source": "deezer"
       }
     },
     {
@@ -2274,8 +3113,14 @@
       "artist": "Flo Rida",
       "album": "Modern Hip Hop Bangers",
       "durationMs": 223800,
+      "isrc": "USAT21202584",
       "ids": {
         "appleMusic": "1674729170"
+      },
+      "features": {
+        "bpm": 126.05,
+        "gain": -8.3,
+        "source": "deezer"
       }
     },
     {
@@ -2283,8 +3128,14 @@
       "artist": "Sheppard",
       "album": "Hometown - Single",
       "durationMs": 187200,
+      "isrc": "AUIYA1700005",
       "ids": {
         "appleMusic": "1392479784"
+      },
+      "features": {
+        "bpm": 114.84,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -2292,6 +3143,7 @@
       "artist": "Cash Cash \u0026 Andy Grammer",
       "album": "I Found You - Single",
       "durationMs": 167308,
+      "isrc": "USAT22000093",
       "ids": {
         "appleMusic": "1497681019"
       }
@@ -2301,6 +3153,7 @@
       "artist": "Duck Sauce",
       "album": "Barbra Streisand - Single",
       "durationMs": 193053,
+      "isrc": "GBSXS1000131",
       "ids": {
         "appleMusic": "1786856061"
       }
@@ -2310,8 +3163,14 @@
       "artist": "DubVision \u0026 AFROJACK",
       "album": "Armada Music 2020",
       "durationMs": 201260,
+      "isrc": "NLF711907243",
       "ids": {
         "appleMusic": "1488131579"
+      },
+      "features": {
+        "bpm": 126.82,
+        "gain": -7.6,
+        "source": "deezer"
       }
     },
     {
@@ -2319,6 +3178,7 @@
       "artist": "We The Kings",
       "album": "So Far",
       "durationMs": 220147,
+      "isrc": "USKFE0700003",
       "ids": {
         "appleMusic": "1437562594"
       }
@@ -2328,8 +3188,14 @@
       "artist": "Steve James \u0026 Eric Nam",
       "album": "+ one - EP",
       "durationMs": 181947,
+      "isrc": "USUM71910412",
       "ids": {
         "appleMusic": "1498155772"
+      },
+      "features": {
+        "bpm": 124.16,
+        "gain": -10.4,
+        "source": "deezer"
       }
     },
     {
@@ -2337,8 +3203,14 @@
       "artist": "Kygo \u0026 Whitney Houston",
       "album": "R\u0026B Summer Mix",
       "durationMs": 228267,
+      "isrc": "USRC11901901",
       "ids": {
         "appleMusic": "1568636480"
+      },
+      "features": {
+        "bpm": 103.88,
+        "gain": -9.9,
+        "source": "deezer"
       }
     },
     {
@@ -2346,6 +3218,7 @@
       "artist": "BTS",
       "album": "Dynamite (DayTime Version) - EP",
       "durationMs": 199054,
+      "isrc": "QM7282022872",
       "ids": {
         "appleMusic": "1597024424"
       }
@@ -2355,6 +3228,7 @@
       "artist": "Kygo \u0026 Tina Turner",
       "album": "What's Love Got to Do with It - Single",
       "durationMs": 208156,
+      "isrc": "SEBGA2000676",
       "ids": {
         "appleMusic": "1523068039"
       }
@@ -2364,6 +3238,7 @@
       "artist": "Jason Derulo",
       "album": "Trending 2021",
       "durationMs": 190306,
+      "isrc": "USAT22004479",
       "ids": {
         "appleMusic": "1550344034"
       }
@@ -2373,6 +3248,7 @@
       "artist": "Lady Gaga \u0026 Ariana Grande",
       "album": "Chromatica",
       "durationMs": 182203,
+      "isrc": "USUM72004304",
       "ids": {
         "appleMusic": "1500952424"
       }
@@ -2382,6 +3258,7 @@
       "artist": "Kygo \u0026 Donna Summer",
       "album": "Hot Stuff - Single",
       "durationMs": 199008,
+      "isrc": "SEBGA2000777",
       "ids": {
         "appleMusic": "1531281489"
       }
@@ -2391,6 +3268,7 @@
       "artist": "BLACKPINK",
       "album": "THE ALBUM",
       "durationMs": 192765,
+      "isrc": "KRA402000136",
       "ids": {
         "appleMusic": "1533894681"
       }
@@ -2400,8 +3278,14 @@
       "artist": "Kylie Minogue",
       "album": "Light Years - German edition bonus track",
       "durationMs": 212973,
+      "isrc": "GBAYE0000642",
       "ids": {
         "appleMusic": "696558748"
+      },
+      "features": {
+        "bpm": 130,
+        "gain": -10.2,
+        "source": "deezer"
       }
     },
     {
@@ -2409,8 +3293,14 @@
       "artist": "CeeLo Green",
       "album": "SONGS EVERYONE KNOWS",
       "durationMs": 222733,
+      "isrc": "USAT21001778",
       "ids": {
         "appleMusic": "1824075896"
+      },
+      "features": {
+        "bpm": 127.6,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -2418,6 +3308,7 @@
       "artist": "HRVY \u0026 Matoma",
       "album": "Skiing vibes",
       "durationMs": 170280,
+      "isrc": "GBUM72003717",
       "ids": {
         "appleMusic": "1858690800"
       }
@@ -2427,6 +3318,7 @@
       "artist": "David Guetta \u0026 Sia",
       "album": "New Retro Pop",
       "durationMs": 200645,
+      "isrc": "UKWLH2000001",
       "ids": {
         "appleMusic": "1682235087"
       }
@@ -2436,6 +3328,7 @@
       "artist": "Julia Michaels",
       "album": "Musiquita para tiendas",
       "durationMs": 218383,
+      "isrc": "USUM72017969",
       "ids": {
         "appleMusic": "1824341469"
       }
@@ -2445,6 +3338,7 @@
       "artist": "Dua Lipa",
       "album": "Live From Mexico",
       "durationMs": 183290,
+      "isrc": "GBAHT1901121",
       "ids": {
         "appleMusic": "6774267371"
       }
@@ -2454,6 +3348,7 @@
       "artist": "Tiësto",
       "album": "Fußball Hits - Die größten Stadion Hymnen zum Mitsingen",
       "durationMs": 164000,
+      "isrc": "CYA112000624",
       "ids": {
         "appleMusic": "1729814727"
       }
@@ -2472,8 +3367,14 @@
       "artist": "Katy Perry",
       "album": "Pop Workout",
       "durationMs": 187675,
+      "isrc": "USUM71913746",
       "ids": {
         "appleMusic": "1609140662"
+      },
+      "features": {
+        "bpm": 112.04,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -2481,6 +3382,7 @@
       "artist": "Mike Perry",
       "album": "One Life - Single",
       "durationMs": 204591,
+      "isrc": "SE3AA1900014",
       "ids": {
         "appleMusic": "1480686679"
       }
@@ -2490,6 +3392,7 @@
       "artist": "CHVRCHES",
       "album": "In Search Of Darkness - EP",
       "durationMs": 316214,
+      "isrc": "GBZN81900001",
       "ids": {
         "appleMusic": "1557673057"
       }
@@ -2499,8 +3402,14 @@
       "artist": "Zara Larsson",
       "album": "So Good",
       "durationMs": 200647,
+      "isrc": "SEWEE1500509",
       "ids": {
         "appleMusic": "1201058113"
+      },
+      "features": {
+        "bpm": 98,
+        "gain": -6.8,
+        "source": "deezer"
       }
     },
     {
@@ -2508,8 +3417,14 @@
       "artist": "LunchMoney Lewis",
       "album": "Whip It! (feat. Chloe Angelides) - Single",
       "durationMs": 242973,
+      "isrc": "USSM11506385",
       "ids": {
         "appleMusic": "1027171573"
+      },
+      "features": {
+        "bpm": 130.8,
+        "gain": -7.7,
+        "source": "deezer"
       }
     },
     {
@@ -2517,8 +3432,14 @@
       "artist": "Pitbull \u0026 Ne-Yo",
       "album": "Summer Party Bangers",
       "durationMs": 229359,
+      "isrc": "USRC11402647",
       "ids": {
         "appleMusic": "1687425635"
+      },
+      "features": {
+        "bpm": 124.2,
+        "gain": -8.8,
+        "source": "deezer"
       }
     },
     {
@@ -2526,6 +3447,7 @@
       "artist": "Cash Cash",
       "album": "Blood, Sweat \u0026 3 Years",
       "durationMs": 205078,
+      "isrc": "USAT21301968",
       "ids": {
         "appleMusic": "1107248978"
       }
@@ -2535,6 +3457,7 @@
       "artist": "Cash Cash",
       "album": "Say It Like You Feel It",
       "durationMs": 193918,
+      "isrc": "USAT22007756",
       "ids": {
         "appleMusic": "1567690007"
       }
@@ -2544,6 +3467,7 @@
       "artist": "Rina Sawayama \u0026 End of the World",
       "album": "Bad Friend (End of the World Remix) - Single",
       "durationMs": 194659,
+      "isrc": "GBK3W2001597",
       "ids": {
         "appleMusic": "1540885995"
       }
@@ -2553,8 +3477,14 @@
       "artist": "Parachute",
       "album": "do you do weddings?",
       "durationMs": 228933,
+      "isrc": "USC4R1500963",
       "ids": {
         "appleMusic": "1793639604"
+      },
+      "features": {
+        "bpm": 95.93,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -2562,6 +3492,7 @@
       "artist": "The Kid LAROI \u0026 Justin Bieber",
       "album": "STAY - Single",
       "durationMs": 141806,
+      "isrc": "USSM12103949",
       "ids": {
         "appleMusic": "1574378625"
       }
@@ -2571,6 +3502,7 @@
       "artist": "Galantis",
       "album": "Best Night of Your Life - EP",
       "durationMs": 183726,
+      "isrc": "USAT22102165",
       "ids": {
         "appleMusic": "1688187957"
       }
@@ -2580,6 +3512,7 @@
       "artist": "Ed Sheeran",
       "album": "CHILLED POOLSIDE HITS 2025",
       "durationMs": 236907,
+      "isrc": "GBAHS2100673",
       "ids": {
         "appleMusic": "1819681588"
       }
@@ -2589,8 +3522,14 @@
       "artist": "Katy Perry",
       "album": "Dance Dance Dance",
       "durationMs": 230720,
+      "isrc": "USCA21001264",
       "ids": {
         "appleMusic": "1701120740"
+      },
+      "features": {
+        "bpm": 126,
+        "gain": -7.2,
+        "source": "deezer"
       }
     },
     {
@@ -2607,6 +3546,7 @@
       "artist": "Ed Sheeran",
       "album": "Autunno Vibes 2023",
       "durationMs": 207853,
+      "isrc": "GBAHS2100671",
       "ids": {
         "appleMusic": "1707862343"
       }
@@ -2616,6 +3556,7 @@
       "artist": "Elton John \u0026 Dua Lipa",
       "album": "Wedding Morning",
       "durationMs": 202735,
+      "isrc": "GBUM72104705",
       "ids": {
         "appleMusic": "6765759476"
       }
@@ -2625,8 +3566,14 @@
       "artist": "Guns N' Roses",
       "album": "Discover More Classic Rock",
       "durationMs": 355267,
+      "isrc": "USGF18714809",
       "ids": {
         "appleMusic": "1527145108"
+      },
+      "features": {
+        "bpm": 124.53,
+        "gain": -10.3,
+        "source": "deezer"
       }
     },
     {
@@ -2634,8 +3581,14 @@
       "artist": "Scouting for Girls",
       "album": "Scouting For Girls (Deluxe)",
       "durationMs": 223813,
+      "isrc": "GBARL0700806",
       "ids": {
         "appleMusic": "1225184382"
+      },
+      "features": {
+        "bpm": 166.71,
+        "gain": -9.5,
+        "source": "deezer"
       }
     },
     {
@@ -2652,6 +3605,7 @@
       "artist": "Starship",
       "album": "Pop We All Know",
       "durationMs": 296080,
+      "isrc": "USRC18503424",
       "ids": {
         "appleMusic": "1734596279"
       }
@@ -2679,6 +3633,7 @@
       "artist": "David Guetta \u0026 Bebe Rexha",
       "album": "Putzen - Gute Laune Hits",
       "durationMs": 175238,
+      "isrc": "UKWLG2200055",
       "ids": {
         "appleMusic": "1746405625"
       }
@@ -2688,6 +3643,7 @@
       "artist": "Elton John \u0026 Britney Spears",
       "album": "Hold Me Closer (Purple Disco Machine Remix) - Single",
       "durationMs": 218853,
+      "isrc": "GBUM72206622",
       "ids": {
         "appleMusic": "1650371145"
       }
@@ -2697,6 +3653,7 @@
       "artist": "AFROJACK \u0026 James Arthur",
       "album": "Lose You - Single",
       "durationMs": 155493,
+      "isrc": "CYA222200028",
       "ids": {
         "appleMusic": "1652471708"
       }
@@ -2706,8 +3663,14 @@
       "artist": "The All-American Rejects",
       "album": "When the World Comes Down",
       "durationMs": 208600,
+      "isrc": "USUM70843644",
       "ids": {
         "appleMusic": "1440771003"
+      },
+      "features": {
+        "bpm": 164.1,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -2715,8 +3678,14 @@
       "artist": "Train",
       "album": "Save Me, San Francisco (Golden Gate Edition)",
       "durationMs": 210387,
+      "isrc": "USSM10904109",
       "ids": {
         "appleMusic": "425320517"
+      },
+      "features": {
+        "bpm": 153.69,
+        "gain": -6.6,
+        "source": "deezer"
       }
     },
     {
@@ -2724,8 +3693,14 @@
       "artist": "My Chemical Romance",
       "album": "00s Rock Hits",
       "durationMs": 188507,
+      "isrc": "USRE10400660",
       "ids": {
         "appleMusic": "1630122780"
+      },
+      "features": {
+        "bpm": 179.76,
+        "gain": -6.3,
+        "source": "deezer"
       }
     },
     {
@@ -2733,8 +3708,14 @@
       "artist": "Counting Crows",
       "album": "Shrek 2 (Original Motion Picture Soundtrack)",
       "durationMs": 188893,
+      "isrc": "USIR10400291",
       "ids": {
         "appleMusic": "1440894560"
+      },
+      "features": {
+        "bpm": 137.81,
+        "gain": -7.4,
+        "source": "deezer"
       }
     },
     {
@@ -2742,8 +3723,14 @@
       "artist": "Yellowcard",
       "album": "Summer Road Trip, Vol. 2",
       "durationMs": 198267,
+      "isrc": "USCA20300233",
       "ids": {
         "appleMusic": "1388908398"
+      },
+      "features": {
+        "bpm": 173.7,
+        "gain": -7.1,
+        "source": "deezer"
       }
     },
     {
@@ -2751,6 +3738,7 @@
       "artist": "Fall Out Boy",
       "album": "So Much (For) Stardust",
       "durationMs": 235271,
+      "isrc": "USAT22220579",
       "ids": {
         "appleMusic": "1697585822"
       }
@@ -2760,6 +3748,7 @@
       "artist": "Fall Out Boy",
       "album": "So Much (For) Stardust",
       "durationMs": 209862,
+      "isrc": "USAT22220572",
       "ids": {
         "appleMusic": "1697585301"
       }
@@ -2769,8 +3758,14 @@
       "artist": "David Guetta",
       "album": "New Year's Eve Party",
       "durationMs": 191000,
+      "isrc": "FRZID0900200",
       "ids": {
         "appleMusic": "1720411489"
+      },
+      "features": {
+        "bpm": 130.01,
+        "gain": -8,
+        "source": "deezer"
       }
     },
     {
@@ -2778,8 +3773,14 @@
       "artist": "The Calling",
       "album": "Daredevil - The Album - EP",
       "durationMs": 221933,
+      "isrc": "USRC10202326",
       "ids": {
         "appleMusic": "1443734327"
+      },
+      "features": {
+        "bpm": 119.2,
+        "gain": -8.7,
+        "source": "deezer"
       }
     },
     {
@@ -2787,6 +3788,7 @@
       "artist": "The Vamps \u0026 Matoma",
       "album": "SPRING BREAK HITS 2021",
       "durationMs": 197640,
+      "isrc": "GBUM71605342",
       "ids": {
         "appleMusic": "1557804346"
       }
@@ -2796,6 +3798,7 @@
       "artist": "Bruno Mars",
       "album": "Las 75 mejores baladas románticas en inglés",
       "durationMs": 230120,
+      "isrc": "USAT21001887",
       "ids": {
         "appleMusic": "1798193785"
       }
@@ -2805,6 +3808,7 @@
       "artist": "David Guetta \u0026 Kim Petras",
       "album": "Tylko hity: dance",
       "durationMs": 147433,
+      "isrc": "UKWLG2300117",
       "ids": {
         "appleMusic": "1850466406"
       }
@@ -2814,8 +3818,14 @@
       "artist": "5 Seconds of Summer",
       "album": "Power Hits 2014",
       "durationMs": 202496,
+      "isrc": "GBUM71400377",
       "ids": {
         "appleMusic": "1442873391"
+      },
+      "features": {
+        "bpm": 160.2,
+        "gain": -7.8,
+        "source": "deezer"
       }
     },
     {
@@ -2823,6 +3833,7 @@
       "artist": "Dua Lipa",
       "album": "ménage de printemps",
       "durationMs": 176579,
+      "isrc": "USAT22305457",
       "ids": {
         "appleMusic": "1831695151"
       }
@@ -2841,6 +3852,7 @@
       "artist": "Jax Jones \u0026 MNEK",
       "album": "Party Playlist 2022",
       "durationMs": 177689,
+      "isrc": "GBUM72108841",
       "ids": {
         "appleMusic": "1636546881"
       }
@@ -2850,6 +3862,7 @@
       "artist": "Becky Hill \u0026 Galantis",
       "album": "Trainings Musik 2023",
       "durationMs": 188732,
+      "isrc": "GBUM72200712",
       "ids": {
         "appleMusic": "1702934063"
       }
@@ -2859,6 +3872,7 @@
       "artist": "Dillon Francis \u0026 WILL K",
       "album": "These Remixes Are Fire TOO",
       "durationMs": 158999,
+      "isrc": "USUG12308163",
       "ids": {
         "appleMusic": "1738134108"
       }
@@ -2886,6 +3900,7 @@
       "artist": "Kygo \u0026 Ava Max",
       "album": "Músicas Para Treinar Perna",
       "durationMs": 178273,
+      "isrc": "USRC12302637",
       "ids": {
         "appleMusic": "1793441938"
       }
@@ -2895,8 +3910,14 @@
       "artist": "Shawn Mendes",
       "album": "New Year's Resolutions 2024",
       "durationMs": 199440,
+      "isrc": "USUM71705516",
       "ids": {
         "appleMusic": "6762960514"
+      },
+      "features": {
+        "bpm": 121.96,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -2913,6 +3934,7 @@
       "artist": "NIIKO X SWAE \u0026 Train",
       "album": "Serious - Single",
       "durationMs": 164410,
+      "isrc": "NLF712400099",
       "ids": {
         "appleMusic": "1725807533"
       }
@@ -2940,6 +3962,7 @@
       "artist": "David Guetta \u0026 OneRepublic",
       "album": "Estate 2024: Summer Hits",
       "durationMs": 149668,
+      "isrc": "UKWLG2400013",
       "ids": {
         "appleMusic": "1766226646"
       }
@@ -2949,6 +3972,7 @@
       "artist": "OneRepublic",
       "album": "Artificial Paradise (Deluxe)",
       "durationMs": 153626,
+      "isrc": "USUM72403147",
       "ids": {
         "appleMusic": "1754637235"
       }
@@ -2958,8 +3982,14 @@
       "artist": "*NSYNC",
       "album": "*NSYNC: Greatest Hits",
       "durationMs": 199640,
+      "isrc": "USJI10000001",
       "ids": {
         "appleMusic": "254906599"
+      },
+      "features": {
+        "bpm": 172.3,
+        "gain": -9,
+        "source": "deezer"
       }
     },
     {
@@ -2967,6 +3997,7 @@
       "artist": "We The Kings \u0026 Disney",
       "album": "A Whole New Sound",
       "durationMs": 188827,
+      "isrc": "USWD12431803",
       "ids": {
         "appleMusic": "1761414904"
       }
@@ -2976,6 +4007,7 @@
       "artist": "LINKIN PARK",
       "album": "100 Greatest Pop Tracks",
       "durationMs": 190428,
+      "isrc": "USWB12403464",
       "ids": {
         "appleMusic": "1824252370"
       }
@@ -2985,6 +4017,7 @@
       "artist": "The Rose",
       "album": "DUAL",
       "durationMs": 224969,
+      "isrc": "US39N2308883",
       "ids": {
         "appleMusic": "1869442916"
       }
@@ -2994,6 +4027,7 @@
       "artist": "Rosé \u0026 Bruno Mars",
       "album": "Nuevo Pop",
       "durationMs": 169917,
+      "isrc": "USAT22409172",
       "ids": {
         "appleMusic": "1821648639"
       }
@@ -3003,6 +4037,7 @@
       "artist": "Marshmello",
       "album": "Here With Me (feat. CHVRCHES) - Single",
       "durationMs": 156313,
+      "isrc": "USUG11900610",
       "ids": {
         "appleMusic": "1776903154"
       }
@@ -3012,8 +4047,14 @@
       "artist": "The Calling",
       "album": "Two",
       "durationMs": 234787,
+      "isrc": "USRC10400011",
       "ids": {
         "appleMusic": "273089571"
+      },
+      "features": {
+        "bpm": 118.5,
+        "gain": -8.9,
+        "source": "deezer"
       }
     },
     {
@@ -3021,6 +4062,7 @@
       "artist": "Cheat Codes",
       "album": "Stand By Me - Single",
       "durationMs": 182079,
+      "isrc": "QZTGW2401412",
       "ids": {
         "appleMusic": "1784771054"
       }
@@ -3030,8 +4072,14 @@
       "artist": "The Struts",
       "album": "Estudiando con Rock",
       "durationMs": 187653,
+      "isrc": "GBUM71304611",
       "ids": {
         "appleMusic": "1709699081"
+      },
+      "features": {
+        "bpm": 160.25,
+        "gain": -7.9,
+        "source": "deezer"
       }
     },
     {
@@ -3039,6 +4087,7 @@
       "artist": "Fall Out Boy",
       "album": "Heartbreak Feels So Good (Dillon Francis Remix) - Single",
       "durationMs": 135012,
+      "isrc": "USAT22401775",
       "ids": {
         "appleMusic": "1734745791"
       }
@@ -3048,6 +4097,7 @@
       "artist": "Lewis Capaldi",
       "album": "Broken By Desire To Be Heavenly Sent (Extended Edition / Apple Music Edition)",
       "durationMs": 203667,
+      "isrc": "DEUM72204717",
       "ids": {
         "appleMusic": "1726924915"
       }
@@ -3066,6 +4116,7 @@
       "artist": "Matchbox Twenty",
       "album": "OH BABY TOP HITS",
       "durationMs": 210952,
+      "isrc": "USAT22301139",
       "ids": {
         "appleMusic": "1748220012"
       }
@@ -3084,6 +4135,7 @@
       "artist": "The Chainsmokers",
       "album": "So Far So Good",
       "durationMs": 175163,
+      "isrc": "USQX92105208",
       "ids": {
         "appleMusic": "1637994940"
       }
@@ -3093,6 +4145,7 @@
       "artist": "Bershy",
       "album": "Radio - Single",
       "durationMs": 201854,
+      "isrc": "GBWUL2270670",
       "ids": {
         "appleMusic": "1640300200"
       }
@@ -3111,8 +4164,14 @@
       "artist": "OneRepublic",
       "album": "Native",
       "durationMs": 234545,
+      "isrc": "USUM71301307",
       "ids": {
         "appleMusic": "1440863202"
+      },
+      "features": {
+        "bpm": 119.8,
+        "gain": -8.5,
+        "source": "deezer"
       }
     },
     {
@@ -3120,8 +4179,14 @@
       "artist": "Vertical Horizon",
       "album": "Everything You Want",
       "durationMs": 218760,
+      "isrc": "USRC19900047",
       "ids": {
         "appleMusic": "1719215424"
+      },
+      "features": {
+        "bpm": 193.2,
+        "gain": -9.2,
+        "source": "deezer"
       }
     },
     {
@@ -3129,6 +4194,7 @@
       "artist": "Mötley Crüe",
       "album": "Dr. Feelgood",
       "durationMs": 282653,
+      "isrc": "USBY29900215",
       "ids": {
         "appleMusic": "1764396024"
       }
