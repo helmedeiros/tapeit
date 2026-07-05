@@ -155,6 +155,20 @@
   party set: a clean 101→172 ascent with a handful of ±2 BPM repairs). Same-artist
   tracks usually share tempo, so the disturbance is minor.
 
+### Track-level evaluation + CI gate
+- `--evaluate` now measures **track** recall too, not just artists: hide a
+  playlist's later *tracks*, run curate's actual pipeline from the earlier ones,
+  and count how many held-out songs it recovers vs a "just add popular songs"
+  baseline. This is the metric that sees the favorite-ranking fix — on the real
+  library curate scores **8.48× the baseline on tracks** (0.084 vs 0.010), even
+  higher than its 2.47× on artists.
+- Wired as a **CI gate**: `go run ./cmd/tapeit curate --evaluate` exits non-zero
+  if focus recall ever stops beating popularity (artist *or* track level), so a
+  future change that quietly degrades candidate quality fails the build. Added to
+  `.github/workflows/ci.yml` after build.
+- Both levels reuse one leave-one-out model rebuild per test playlist; track eval
+  runs the real `Curate` so the number reflects shipped behaviour, not a proxy.
+
 ### Curate self-evaluation (`--evaluate`)
 - `tapeit curate --evaluate` runs the leave-one-out APC test in the binary (no
   Python, no playlist written): for each library playlist with ≥8 distinct

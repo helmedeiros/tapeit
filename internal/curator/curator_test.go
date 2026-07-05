@@ -89,6 +89,16 @@ func TestEvaluateFocusBeatsPopularity(t *testing.T) {
 	if r.Recall <= r.BaselineRecall {
 		t.Errorf("focus recall %.3f should beat popularity %.3f", r.Recall, r.BaselineRecall)
 	}
+
+	// Track level: at K=8 curate reaches the held cluster-mates' songs, while the
+	// popular-songs baseline (artists alphabetically) mostly misses them.
+	tr := Evaluate(lib, EvalOptions{MinArtists: 8, MinTracks: 6, Holdout: 0.4, K: 8})
+	if tr.TrackPlaylists == 0 {
+		t.Fatal("expected track-level playlists evaluated")
+	}
+	if tr.TrackRecall <= tr.TrackBaselineRecall {
+		t.Errorf("curate track recall %.3f should beat popular-songs %.3f", tr.TrackRecall, tr.TrackBaselineRecall)
+	}
 }
 
 func TestCurateMultipleSeeds(t *testing.T) {

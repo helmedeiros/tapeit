@@ -111,24 +111,45 @@ func runEvaluate(dir string) error {
 	if err != nil {
 		return err
 	}
-	printEvaluation(curator.Evaluate(lib, curator.EvalOptions{}))
-	return nil
+	r := curator.Evaluate(lib, curator.EvalOptions{})
+	printEvaluation(r)
+	return gateEvaluation(r)
 }
 
 func printEvaluation(r curator.EvalResult) {
-	if r.Playlists == 0 {
-		fmt.Println("not enough multi-artist playlists to evaluate — need a few with 8+ distinct artists")
+	if r.Playlists == 0 && r.TrackPlaylists == 0 {
+		fmt.Println("not enough playlists to evaluate — need a few with 8+ distinct artists / 12+ tracks")
 		return
 	}
-	lift := 0.0
-	if r.BaselineRecall > 0 {
-		lift = r.Recall / r.BaselineRecall
+	fmt.Printf("Leave-one-out APC eval — %.0f%% of each playlist held out\n\n", r.Holdout*100)
+	fmt.Printf("  %-20s Recall@%d   R-precision\n", "level / strategy", r.K)
+	fmt.Printf("  artists (%d playlists)\n", r.Playlists)
+	fmt.Printf("    %-18s %7.3f %11.3f\n", "focus (curate)", r.Recall, r.RPrecision)
+	fmt.Printf("    %-18s %7.3f %11s\n", "popularity", r.BaselineRecall, "—")
+	fmt.Printf("  tracks (%d playlists)\n", r.TrackPlaylists)
+	fmt.Printf("    %-18s %7.3f %11.3f\n", "curate", r.TrackRecall, r.TrackRPrecision)
+	fmt.Printf("    %-18s %7.3f %11s\n", "popular songs", r.TrackBaselineRecall, "—")
+	fmt.Printf("\ncurate beats the popularity baseline by %.2f× on artists, %.2f× on tracks.\n",
+		lift(r.Recall, r.BaselineRecall), lift(r.TrackRecall, r.TrackBaselineRecall))
+}
+
+func lift(focus, base float64) float64 {
+	if base <= 0 {
+		return 0
 	}
-	fmt.Printf("Leave-one-out APC eval — %d playlists, %.0f%% of each held out\n\n", r.Playlists, r.Holdout*100)
-	fmt.Printf("  %-18s Recall@%d   R-precision\n", "strategy", r.K)
-	fmt.Printf("  %-18s %7.3f %11.3f\n", "focus (curate)", r.Recall, r.RPrecision)
-	fmt.Printf("  %-18s %7.3f %11s\n", "popularity (base)", r.BaselineRecall, "—")
-	fmt.Printf("\ncurate's signal recovers %.2f× the held-out artists a popularity baseline does.\n", lift)
+	return focus / base
+}
+
+// gateEvaluation fails (non-zero exit) if curate's signal no longer beats a
+// popularity baseline — a CI regression guard on candidate quality.
+func gateEvaluation(r curator.EvalResult) error {
+	if r.Playlists > 0 && r.Recall <= r.BaselineRecall {
+		return fmt.Errorf("artist recall %.3f does not beat popularity %.3f", r.Recall, r.BaselineRecall)
+	}
+	if r.TrackPlaylists > 0 && r.TrackRecall <= r.TrackBaselineRecall {
+		return fmt.Errorf("track recall %.3f does not beat popularity %.3f", r.TrackRecall, r.TrackBaselineRecall)
+	}
+	return nil
 }
 
 // addDiscovery appends up to n tracks by artists similar to the seeds that the
