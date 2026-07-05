@@ -77,23 +77,18 @@ func Build(playlists []Playlist) *Model {
 		freq:    map[string]int{},
 		display: map[string]string{},
 	}
+	agg := map[string]map[string]*trackAgg{}
 	for _, pl := range playlists {
-		seenTrack := map[string]bool{}
 		artists := map[string]bool{}
-		for _, t := range pl.Tracks {
+		seen := map[string]bool{}
+		for pos, t := range pl.Tracks {
 			na := matching.Normalize(t.Artist)
 			if na == "" {
 				continue
 			}
 			m.display[na] = t.Artist
 			artists[na] = true
-			tk := na + "|" + matching.Normalize(t.Title)
-			if !seenTrack[tk] {
-				seenTrack[tk] = true
-				if !ownsTrack(m.tracks[na], t) {
-					m.tracks[na] = append(m.tracks[na], t)
-				}
-			}
+			absorb(agg, na, t, pos, seen)
 		}
 		if len(pl.Tracks) <= cooccurrenceMaxTracks {
 			m.countPairs(artists)
@@ -102,7 +97,71 @@ func Build(playlists []Playlist) *Model {
 			}
 		}
 	}
+	m.finalizePools(agg)
 	return m
+}
+
+// trackAgg accumulates the versions of one song for one artist: how many of the
+// user's playlists it appears in, its earliest source position, and the cleanest
+// title seen (the representative kept in the pool).
+type trackAgg struct {
+	rep   Track
+	freq  int
+	pos   int
+	clean bool
+}
+
+// absorb folds one track occurrence into the aggregate, collapsing re-releases
+// onto their base title and counting playlist frequency at most once per playlist.
+func absorb(agg map[string]map[string]*trackAgg, na string, t Track, pos int, seen map[string]bool) {
+	bk := matching.Normalize(baseTitle(t.Title))
+	key := na + "|" + bk
+	if agg[na] == nil {
+		agg[na] = map[string]*trackAgg{}
+	}
+	a := agg[na][bk]
+	if a == nil {
+		agg[na][bk] = &trackAgg{rep: t, freq: 1, pos: pos, clean: isClean(t.Title)}
+		seen[key] = true
+		return
+	}
+	if pos < a.pos {
+		a.pos = pos
+	}
+	if isClean(t.Title) && !a.clean {
+		a.rep, a.clean = t, true
+	}
+	if !seen[key] {
+		seen[key] = true
+		a.freq++
+	}
+}
+
+// finalizePools ranks each artist's tracks by the user's revealed preference —
+// playlist frequency first (songs saved across more playlists), then earliest
+// source position (streaming "This Is" lists are hit-ordered), then title — so
+// curation reaches for signatures, not alphabetical deep cuts.
+func (m *Model) finalizePools(agg map[string]map[string]*trackAgg) {
+	for na, byBase := range agg {
+		metas := make([]*trackAgg, 0, len(byBase))
+		for _, a := range byBase {
+			metas = append(metas, a)
+		}
+		sort.Slice(metas, func(i, j int) bool {
+			if metas[i].freq != metas[j].freq {
+				return metas[i].freq > metas[j].freq
+			}
+			if metas[i].pos != metas[j].pos {
+				return metas[i].pos < metas[j].pos
+			}
+			return metas[i].rep.Title < metas[j].rep.Title
+		})
+		pool := make([]Track, len(metas))
+		for i, a := range metas {
+			pool[i] = a.rep
+		}
+		m.tracks[na] = pool
+	}
 }
 
 // Knows reports whether the artist appears anywhere in the library.
@@ -114,16 +173,6 @@ func (m *Model) Knows(artist string) bool {
 // Separate reorders tracks so no two adjacent share an artist. Exported so a
 // caller can re-sequence a set it has combined (e.g. library + discovery).
 func Separate(tracks []Track) []Track { return separate(tracks) }
-
-func ownsTrack(pool []Track, t Track) bool {
-	title := matching.Normalize(t.Title)
-	for _, p := range pool {
-		if matching.Normalize(p.Title) == title {
-			return true
-		}
-	}
-	return false
-}
 
 // countPairs records artist co-occurrence for one playlist. It tracks both a raw
 // shared-playlist count and a weighted score: each playlist distributes a fixed
@@ -197,7 +246,7 @@ func (m *Model) gather(seeds []string, seedSet map[string]bool, opts Options) []
 			if len(out) >= opts.Size {
 				break
 			}
-			pool := m.artistTracksSorted(a)
+			pool := m.tracks[a]
 			for pos[a] < len(pool) && opts.Exclude[Key(pool[pos[a]])] {
 				pos[a]++
 			}
@@ -249,12 +298,6 @@ func (m *Model) neighbours(seeds []string, seedSet map[string]bool, minWeight in
 		out[i] = n.artist
 	}
 	return out
-}
-
-func (m *Model) artistTracksSorted(artist string) []Track {
-	pool := append([]Track(nil), m.tracks[artist]...)
-	sort.Slice(pool, func(i, j int) bool { return pool[i].Title < pool[j].Title })
-	return pool
 }
 
 // separate greedily reorders so no two adjacent tracks share an artist,

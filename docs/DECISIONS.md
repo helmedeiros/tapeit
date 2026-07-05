@@ -119,6 +119,25 @@
 - `--discover` fans out at most `maxDiscoverySeeds` (5) seeds online — a whole
   seed-playlist can carry hundreds of artists, one Deezer lookup each.
 
+### Track selection — favorite-ranked, not alphabetical (major quality fix)
+- Curate used to pick each artist's tracks **alphabetically by title**, which
+  surfaced deep cuts over signatures (Black Keys → "10 Lovers" not "Lonely Boy";
+  Strokes → "At The Door" not "Last Nite"; Interpol → "Anywhere" not "Evil").
+  Right artists, wrong songs — the most *visible* failure, and one `--evaluate`
+  can't see because it scores artists, not tracks.
+- Fixed by ranking each artist's pool by the user's revealed preference:
+  **(1) playlist frequency** (a song saved across more of your playlists is one
+  you love), **(2) earliest source position** (streaming "This Is" lists are
+  hit-ordered — Lonely Boy is track 1, and we were throwing that order away),
+  then **(3) title**. Zero new deps. Every Arctic-Monkeys-seed pick flipped from
+  a deep cut to a signature (Do I Wanna Know?, Seven Nation Army, Last Nite,
+  Lonely Boy, Evil, Maps).
+- Also collapses near-duplicate releases (`baseTitle` strips "- Remastered",
+  "(Live)", "(feat. …)", "- Radio Edit", etc.) so a generated playlist never
+  places two versions of the same song, preferring the clean studio title as the
+  representative. Conservative marker list + token-prefix matching so "olive"
+  isn't mistaken for "live" and "Beautiful People (Stay High)" survives.
+
 ### BPM-aware sequencing (`tapeit sequence`, `curate --flow`)
 - Orders a playlist by tempo while keeping the no-adjacent-same-artist invariant.
   `smooth` ramps BPM from slowest to fastest; `arc` climbs to a peak in the middle
