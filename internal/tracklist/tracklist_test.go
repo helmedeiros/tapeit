@@ -60,3 +60,20 @@ Naima
 		}
 	}
 }
+
+func TestParseJSON_ReadsAppleIDPin(t *testing.T) {
+	const doc = `{"name":"L","tracks":[
+	  {"title":"Pinned","artist":"A","apple_id":"1530812334"},
+	  {"title":"Plain","artist":"B"}
+	]}`
+	_, tracks, err := ParseJSON(strings.NewReader(doc))
+	if err != nil {
+		t.Fatal(err)
+	}
+	if tracks[0].AppleID != "1530812334" {
+		t.Errorf("apple_id not read: %+v", tracks[0])
+	}
+	if tracks[1].AppleID != "" {
+		t.Errorf("absent apple_id should stay empty: %+v", tracks[1])
+	}
+}

@@ -568,8 +568,10 @@ func resolvedIndex(matches []domain.Match) map[string]string {
 
 func summarize(matches []domain.Match) {
 	byConf := map[domain.Confidence]int{}
+	byMethod := map[domain.MatchMethod]int{}
 	for _, m := range matches {
 		byConf[m.Confidence]++
+		byMethod[m.Method]++
 	}
 	total := len(matches)
 	matched := byConf[domain.ConfExact] + byConf[domain.ConfHigh] + byConf[domain.ConfLow]
@@ -578,6 +580,9 @@ func summarize(matches []domain.Match) {
 	fmt.Printf("  high:         %d\n", byConf[domain.ConfHigh])
 	fmt.Printf("  low:          %d\n", byConf[domain.ConfLow])
 	fmt.Printf("  unmatched:    %d\n", byConf[domain.ConfNone])
+	if n := byMethod[domain.MethodManual]; n > 0 {
+		fmt.Printf("  (of which %d pinned by apple_id)\n", n)
+	}
 	if total > 0 {
 		fmt.Printf("  → %d matched (%.1f%%)\n", matched, 100*float64(matched)/float64(total))
 	}

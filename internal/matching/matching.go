@@ -81,18 +81,9 @@ func (s *Service) report(format string, args ...any) {
 // Match resolves the given unique tracks. Order of the result mirrors input.
 func (s *Service) Match(ctx context.Context, tracks []domain.Track) ([]domain.Match, error) {
 	out := make([]domain.Match, len(tracks))
-	pending := make([]int, 0, len(tracks)) // indexes needing text-search fallback
+	withISRC, pending := classify(tracks, out)
 
 	// Pass 1: batch ISRC lookups.
-	withISRC := make([]int, 0, len(tracks))
-	for i, t := range tracks {
-		if t.ISRC != "" {
-			withISRC = append(withISRC, i)
-		} else {
-			pending = append(pending, i)
-		}
-	}
-
 	for start := 0; start < len(withISRC); start += isrcBatch {
 		end := min(start+isrcBatch, len(withISRC))
 		batch := withISRC[start:end]
@@ -151,6 +142,26 @@ func (s *Service) Match(ctx context.Context, tracks []domain.Track) ([]domain.Ma
 	}
 
 	return out, nil
+}
+
+// classify sorts track indexes by how they will be resolved, writing the ones
+// that need no lookup (hand-pinned catalog ids) straight into out.
+func classify(tracks []domain.Track, out []domain.Match) (withISRC, pending []int) {
+	withISRC = make([]int, 0, len(tracks))
+	pending = make([]int, 0, len(tracks))
+	for i, t := range tracks {
+		switch {
+		case t.AppleID != "":
+			// Pinned by hand to an exact catalog song. Trusted over every
+			// lookup, and costs no request.
+			out[i] = domain.Match{Track: t, AppleID: t.AppleID, Confidence: domain.ConfExact, Method: domain.MethodManual}
+		case t.ISRC != "":
+			withISRC = append(withISRC, i)
+		default:
+			pending = append(pending, i)
+		}
+	}
+	return withISRC, pending
 }
 
 func sleepCtx(ctx context.Context, d time.Duration) error {

@@ -324,3 +324,50 @@ func TestChained_ISRCFallsBackToLaterCatalog(t *testing.T) {
 		t.Errorf("want ISRC match from secondary, got %+v", got[0])
 	}
 }
+
+func TestPinnedAppleIDSkipsEveryCatalog(t *testing.T) {
+	// The escape hatch: a hand-set catalog id must win outright and cost no
+	// lookup, so a track no search can resolve is fixed once and stays fixed.
+	primary := &spyCatalog{songs: []domain.CatalogSong{
+		{ID: "wrong", Title: "Pac-Man (Main Theme)", Artist: "8-Bit Arcade", DurationMS: 30000},
+	}}
+	track := gorillazTrack()
+	track.AppleID = "1530812334"
+
+	got, err := NewChained(nil, primary).Match(context.Background(), []domain.Track{track})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if got[0].AppleID != "1530812334" {
+		t.Errorf("pin should win, got %+v", got[0])
+	}
+	if got[0].Method != domain.MethodManual || got[0].Confidence != domain.ConfExact {
+		t.Errorf("pin should be exact/manual, got %+v", got[0])
+	}
+	if primary.searches != 0 || primary.isrcCalls != 0 {
+		t.Errorf("pinned track must cost no lookup, got %d searches / %d isrc", primary.searches, primary.isrcCalls)
+	}
+}
+
+func TestPinnedTrackKeepsItsPlaceAmongMatchedTracks(t *testing.T) {
+	// Order must mirror input, or a ranked playlist is silently reshuffled.
+	primary := &spyCatalog{songs: []domain.CatalogSong{
+		{ID: "found", Title: "Ordinary", Artist: "Band", DurationMS: 200000},
+	}}
+	tracks := []domain.Track{
+		{Title: "Ordinary", Artists: []string{"Band"}, DurationMS: 200000},
+		{Title: "Unfindable", Artists: []string{"Nobody"}, AppleID: "pinned-id"},
+		{Title: "Ordinary", Artists: []string{"Band"}, DurationMS: 200000},
+	}
+
+	got, err := NewChained(nil, primary).Match(context.Background(), tracks)
+	if err != nil {
+		t.Fatal(err)
+	}
+	want := []string{"found", "pinned-id", "found"}
+	for i, id := range want {
+		if got[i].AppleID != id {
+			t.Errorf("position %d = %q, want %q", i, got[i].AppleID, id)
+		}
+	}
+}

@@ -24,6 +24,8 @@ const (
 	MethodISRC MatchMethod = "isrc"
 	// MethodSearch matched via catalog text search.
 	MethodSearch MatchMethod = "search"
+	// MethodManual is a hand-pinned catalog id from the source list.
+	MethodManual MatchMethod = "manual"
 	// MethodNone means no match.
 	MethodNone MatchMethod = "none"
 )

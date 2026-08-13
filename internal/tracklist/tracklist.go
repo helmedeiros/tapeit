@@ -48,12 +48,17 @@ func Parse(r io.Reader) ([]domain.Track, error) {
 //
 // returning the playlist name and its tracks. A comma-separated artist string
 // becomes multiple artists (the first is treated as primary when matching).
+//
+// A track may also carry "apple_id": an Apple catalog song id that pins it
+// exactly, skipping the matcher. Use it for recordings catalog search cannot
+// resolve — it is how a list is improved incrementally, without code changes.
 func ParseJSON(r io.Reader) (name string, tracks []domain.Track, err error) {
 	var doc struct {
 		Name   string `json:"name"`
 		Tracks []struct {
-			Title  string `json:"title"`
-			Artist string `json:"artist"`
+			Title   string `json:"title"`
+			Artist  string `json:"artist"`
+			AppleID string `json:"apple_id"`
 		} `json:"tracks"`
 	}
 	if err := json.NewDecoder(r).Decode(&doc); err != nil {
@@ -63,7 +68,7 @@ func ParseJSON(r io.Reader) (name string, tracks []domain.Track, err error) {
 		if strings.TrimSpace(t.Title) == "" {
 			continue
 		}
-		tr := domain.Track{Title: strings.TrimSpace(t.Title)}
+		tr := domain.Track{Title: strings.TrimSpace(t.Title), AppleID: strings.TrimSpace(t.AppleID)}
 		for _, a := range strings.Split(t.Artist, ",") {
 			if a = strings.TrimSpace(a); a != "" {
 				tr.Artists = append(tr.Artists, a)
