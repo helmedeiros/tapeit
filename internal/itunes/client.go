@@ -50,6 +50,26 @@ type result struct {
 	ArtistName     string `json:"artistName"`
 	CollectionName string `json:"collectionName"`
 	TrackTimeMS    int    `json:"trackTimeMillis"`
+	// IsStreamable is a pointer so an absent field is treated as "unknown"
+	// (keep the candidate) rather than as false (silently drop everything).
+	IsStreamable *bool `json:"isStreamable"`
+}
+
+// toDomain maps a search hit, reporting ok=false for entries this storefront
+// cannot stream. Those are typically compilation rips: they match beautifully
+// on title and artist, and Apple then accepts an add request containing them
+// and silently drops the track from the playlist.
+func (r result) toDomain() (domain.CatalogSong, bool) {
+	if r.IsStreamable != nil && !*r.IsStreamable {
+		return domain.CatalogSong{}, false
+	}
+	return domain.CatalogSong{
+		ID:         strconv.FormatInt(r.TrackID, 10),
+		Title:      r.TrackName,
+		Artist:     r.ArtistName,
+		Album:      r.CollectionName,
+		DurationMS: r.TrackTimeMS,
+	}, true
 }
 
 // SearchSongs implements domain.CatalogPort via the iTunes Search API.
@@ -101,13 +121,11 @@ func (c *Client) SearchSongs(ctx context.Context, term string, limit int) ([]dom
 		}
 		songs := make([]domain.CatalogSong, 0, len(body.Results))
 		for _, r := range body.Results {
-			songs = append(songs, domain.CatalogSong{
-				ID:         strconv.FormatInt(r.TrackID, 10),
-				Title:      r.TrackName,
-				Artist:     r.ArtistName,
-				Album:      r.CollectionName,
-				DurationMS: r.TrackTimeMS,
-			})
+			song, ok := r.toDomain()
+			if !ok {
+				continue
+			}
+			songs = append(songs, song)
 		}
 		return songs, nil
 	}

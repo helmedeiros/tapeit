@@ -586,6 +586,28 @@ func summarize(matches []domain.Match) {
 	if total > 0 {
 		fmt.Printf("  → %d matched (%.1f%%)\n", matched, 100*float64(matched)/float64(total))
 	}
+	for _, line := range imperfect(matches) {
+		fmt.Println(line)
+	}
+}
+
+// imperfect names the tracks that did not resolve cleanly. Counts alone force
+// you to re-derive which of N tracks failed; naming them makes the next run a
+// targeted edit (fix the artist, or pin an apple_id) instead of a guess.
+func imperfect(matches []domain.Match) []string {
+	var lines []string
+	for _, m := range matches {
+		switch m.Confidence {
+		case domain.ConfNone:
+			lines = append(lines, fmt.Sprintf("  ✗ unmatched  %s — %s", m.Track.Title, joinArtists(m.Track.Artists)))
+		case domain.ConfLow:
+			lines = append(lines, fmt.Sprintf("  ~ low        %s — %s", m.Track.Title, joinArtists(m.Track.Artists)))
+		}
+	}
+	if len(lines) > 0 {
+		lines = append([]string{"\nNeeds review (fix the artist, or pin \"apple_id\" in the JSON):"}, lines...)
+	}
+	return lines
 }
 
 func joinArtists(a []string) string {

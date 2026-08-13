@@ -151,10 +151,21 @@ type songDTO struct {
 		AlbumName      string `json:"albumName"`
 		DurationMillis int    `json:"durationInMillis"`
 		ISRC           string `json:"isrc"`
+		// PlayParams is absent for songs this storefront cannot play. Apple
+		// still returns them from search, still accepts them in an add request,
+		// and then silently omits them from the playlist.
+		PlayParams *struct {
+			ID string `json:"id"`
+		} `json:"playParams"`
 	} `json:"attributes"`
 }
 
-func (d songDTO) toDomain() domain.CatalogSong {
+// toDomain maps a catalog song, reporting ok=false when it is not playable in
+// this storefront and would therefore vanish from a playlist after being added.
+func (d songDTO) toDomain() (domain.CatalogSong, bool) {
+	if d.Attributes.PlayParams == nil {
+		return domain.CatalogSong{}, false
+	}
 	return domain.CatalogSong{
 		ID:         d.ID,
 		Title:      d.Attributes.Name,
@@ -162,7 +173,7 @@ func (d songDTO) toDomain() domain.CatalogSong {
 		Album:      d.Attributes.AlbumName,
 		DurationMS: d.Attributes.DurationMillis,
 		ISRC:       d.Attributes.ISRC,
-	}
+	}, true
 }
 
 // Storefront resolves the user's storefront id (e.g. "de"). Requires the user
@@ -197,8 +208,12 @@ func (c *Client) SongsByISRC(ctx context.Context, isrcs []string) (map[string][]
 			return nil, err
 		}
 		for _, s := range resp.Data {
+			song, ok := s.toDomain()
+			if !ok {
+				continue
+			}
 			key := strings.ToUpper(s.Attributes.ISRC)
-			result[key] = append(result[key], s.toDomain())
+			result[key] = append(result[key], song)
 		}
 		next = absolute(resp.Next)
 	}
@@ -223,7 +238,9 @@ func (c *Client) SearchSongs(ctx context.Context, term string, limit int) ([]dom
 	}
 	songs := make([]domain.CatalogSong, 0, len(resp.Results.Songs.Data))
 	for _, s := range resp.Results.Songs.Data {
-		songs = append(songs, s.toDomain())
+		if song, ok := s.toDomain(); ok {
+			songs = append(songs, song)
+		}
 	}
 	return songs, nil
 }

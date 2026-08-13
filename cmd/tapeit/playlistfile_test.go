@@ -1,6 +1,11 @@
 package main
 
-import "testing"
+import (
+	"strings"
+	"testing"
+
+	"github.com/helmedeiros/tapeit/internal/domain"
+)
 
 func TestSlugify(t *testing.T) {
 	cases := map[string]string{
@@ -57,5 +62,30 @@ func TestMergeTracksAppendsUnknownAndKeepsIntended(t *testing.T) {
 	}
 	if doc.Tracks[0].Title != "Intended Only" {
 		t.Errorf("intended track dropped: %+v", doc.Tracks)
+	}
+}
+
+func TestImperfect_NamesOnlyTheTracksNeedingReview(t *testing.T) {
+	matches := []domain.Match{
+		{Track: domain.Track{Title: "Fine", Artists: []string{"A"}}, Confidence: domain.ConfHigh},
+		{Track: domain.Track{Title: "Weak", Artists: []string{"B"}}, Confidence: domain.ConfLow},
+		{Track: domain.Track{Title: "Gone", Artists: []string{"C"}}, Confidence: domain.ConfNone},
+		{Track: domain.Track{Title: "Pinned", Artists: []string{"D"}}, Confidence: domain.ConfExact},
+	}
+	lines := imperfect(matches)
+	joined := strings.Join(lines, "\n")
+
+	if strings.Contains(joined, "Fine") || strings.Contains(joined, "Pinned") {
+		t.Errorf("clean matches must not be listed:\n%s", joined)
+	}
+	if !strings.Contains(joined, "Weak — B") || !strings.Contains(joined, "Gone — C") {
+		t.Errorf("low and unmatched must be named:\n%s", joined)
+	}
+}
+
+func TestImperfect_SilentWhenEverythingMatched(t *testing.T) {
+	matches := []domain.Match{{Track: domain.Track{Title: "Fine"}, Confidence: domain.ConfHigh}}
+	if got := imperfect(matches); len(got) != 0 {
+		t.Errorf("want no output for a clean run, got %v", got)
 	}
 }
