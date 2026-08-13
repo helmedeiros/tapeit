@@ -2,6 +2,8 @@ package matching
 
 import (
 	"context"
+	"errors"
+	"strings"
 	"testing"
 
 	"github.com/helmedeiros/tapeit/internal/domain"
@@ -150,4 +152,175 @@ func TestService_Match(t *testing.T) {
 
 func matchAll(c domain.CatalogPort, tracks []domain.Track) ([]domain.Match, error) {
 	return New(c, nil).Match(context.Background(), tracks)
+}
+
+// spyCatalog is a CatalogPort that records how often it was consulted, so the
+// chaining tests can assert a later catalog is only asked when needed.
+type spyCatalog struct {
+	songs     []domain.CatalogSong
+	byISRC    map[string][]domain.CatalogSong
+	err       error
+	searches  int
+	isrcCalls int
+}
+
+func (s *spyCatalog) SearchSongs(_ context.Context, _ string, _ int) ([]domain.CatalogSong, error) {
+	s.searches++
+	if s.err != nil {
+		return nil, s.err
+	}
+	return s.songs, nil
+}
+
+func (s *spyCatalog) SongsByISRC(_ context.Context, isrcs []string) (map[string][]domain.CatalogSong, error) {
+	s.isrcCalls++
+	if s.err != nil {
+		return nil, s.err
+	}
+	out := map[string][]domain.CatalogSong{}
+	for _, code := range isrcs {
+		if v, ok := s.byISRC[strings.ToUpper(code)]; ok {
+			out[strings.ToUpper(code)] = v
+		}
+	}
+	return out, nil
+}
+
+// gorillazTrack is the real-world case that motivated catalog chaining: the
+// iTunes Search index has no Song Machine entry, so it answers with plausible
+// but wrong songs while the amp-api catalog has the real recording.
+func gorillazTrack() domain.Track {
+	return domain.Track{Title: "Pac-Man (feat. ScHoolboy Q)", Artists: []string{"Gorillaz"}, DurationMS: 192000}
+}
+
+func TestChained_FallsBackWhenPrimaryHasNothingAcceptable(t *testing.T) {
+	primary := &spyCatalog{songs: []domain.CatalogSong{
+		{ID: "wrong", Title: "Pac-Man (Main Theme)", Artist: "8-Bit Arcade", DurationMS: 30000},
+	}}
+	secondary := &spyCatalog{songs: []domain.CatalogSong{
+		{ID: "right", Title: "Pac-Man (feat. ScHoolboy Q)", Artist: "Gorillaz", DurationMS: 192500},
+	}}
+
+	got, err := NewChained(nil, primary, secondary).Match(context.Background(), []domain.Track{gorillazTrack()})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if got[0].AppleID != "right" || got[0].Confidence != domain.ConfHigh {
+		t.Errorf("want secondary high match, got %+v", got[0])
+	}
+	if secondary.searches != 1 {
+		t.Errorf("secondary searched %d times, want 1", secondary.searches)
+	}
+}
+
+func TestChained_StopsAtFirstHighConfidence(t *testing.T) {
+	primary := &spyCatalog{songs: []domain.CatalogSong{
+		{ID: "right", Title: "Pac-Man (feat. ScHoolboy Q)", Artist: "Gorillaz", DurationMS: 192500},
+	}}
+	secondary := &spyCatalog{songs: []domain.CatalogSong{{ID: "other", Title: "Irrelevant", Artist: "Nobody", DurationMS: 10000}}}
+
+	got, err := NewChained(nil, primary, secondary).Match(context.Background(), []domain.Track{gorillazTrack()})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if got[0].AppleID != "right" {
+		t.Errorf("want primary match, got %+v", got[0])
+	}
+	if secondary.searches != 0 {
+		t.Errorf("secondary should not be consulted after a high-confidence hit, got %d calls", secondary.searches)
+	}
+}
+
+func TestChained_UpgradesLowConfidenceFromLaterCatalog(t *testing.T) {
+	// Primary can only offer a prefix-title match (low); secondary has the exact
+	// recording, so the better answer must win rather than the first one.
+	primary := &spyCatalog{songs: []domain.CatalogSong{
+		{ID: "weak", Title: "Pac-Man", Artist: "Gorillaz", DurationMS: 250000},
+	}}
+	secondary := &spyCatalog{songs: []domain.CatalogSong{
+		{ID: "right", Title: "Pac-Man (feat. ScHoolboy Q)", Artist: "Gorillaz", DurationMS: 192500},
+	}}
+
+	got, err := NewChained(nil, primary, secondary).Match(context.Background(), []domain.Track{gorillazTrack()})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if got[0].AppleID != "right" || got[0].Confidence != domain.ConfHigh {
+		t.Errorf("want upgraded high match, got %+v", got[0])
+	}
+}
+
+func TestChained_KeepsBestLowWhenNoCatalogHasHigh(t *testing.T) {
+	primary := &spyCatalog{songs: []domain.CatalogSong{
+		{ID: "weak", Title: "Pac-Man", Artist: "Gorillaz", DurationMS: 250000},
+	}}
+	secondary := &spyCatalog{songs: []domain.CatalogSong{{ID: "junk", Title: "Nope", Artist: "Nobody", DurationMS: 10000}}}
+
+	got, err := NewChained(nil, primary, secondary).Match(context.Background(), []domain.Track{gorillazTrack()})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if got[0].AppleID != "weak" || got[0].Confidence != domain.ConfLow {
+		t.Errorf("want the primary's low match retained, got %+v", got[0])
+	}
+}
+
+func TestChained_UnmatchedWhenNoCatalogHasIt(t *testing.T) {
+	primary := &spyCatalog{songs: []domain.CatalogSong{{ID: "a", Title: "Nope", Artist: "Nobody", DurationMS: 10000}}}
+	secondary := &spyCatalog{songs: []domain.CatalogSong{{ID: "b", Title: "Also No", Artist: "Nobody", DurationMS: 11000}}}
+
+	got, err := NewChained(nil, primary, secondary).Match(context.Background(), []domain.Track{gorillazTrack()})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if got[0].Matched() {
+		t.Errorf("want unmatched, got %+v", got[0])
+	}
+}
+
+func TestChained_SurvivesPrimaryError(t *testing.T) {
+	// A rate-limited primary must not cost us a track the secondary can resolve.
+	primary := &spyCatalog{err: errors.New("429 rate limited")}
+	secondary := &spyCatalog{songs: []domain.CatalogSong{
+		{ID: "right", Title: "Pac-Man (feat. ScHoolboy Q)", Artist: "Gorillaz", DurationMS: 192500},
+	}}
+
+	got, err := NewChained(nil, primary, secondary).Match(context.Background(), []domain.Track{gorillazTrack()})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if got[0].AppleID != "right" {
+		t.Errorf("want secondary match despite primary error, got %+v", got[0])
+	}
+}
+
+func TestChained_ErrorsOnlyWhenEveryCatalogFails(t *testing.T) {
+	primary := &spyCatalog{err: errors.New("boom")}
+	secondary := &spyCatalog{err: errors.New("boom")}
+
+	got, err := NewChained(nil, primary, secondary).Match(context.Background(), []domain.Track{gorillazTrack()})
+	if err != nil {
+		t.Fatal(err)
+	}
+	// A failed search is recorded as unmatched (not fatal) so one bad lookup
+	// cannot discard the rest of the run.
+	if got[0].Matched() || got[0].Note == "" {
+		t.Errorf("want unmatched with a note, got %+v", got[0])
+	}
+}
+
+func TestChained_ISRCFallsBackToLaterCatalog(t *testing.T) {
+	primary := &spyCatalog{} // no ISRC index at all, like the iTunes Search API
+	secondary := &spyCatalog{byISRC: map[string][]domain.CatalogSong{
+		"USAAA0000001": {{ID: "apple-1", DurationMS: 180000}},
+	}}
+	track := domain.Track{Title: "Has ISRC", Artists: []string{"A"}, ISRC: "usaaa0000001", DurationMS: 180000}
+
+	got, err := NewChained(nil, primary, secondary).Match(context.Background(), []domain.Track{track})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if got[0].AppleID != "apple-1" || got[0].Method != domain.MethodISRC {
+		t.Errorf("want ISRC match from secondary, got %+v", got[0])
+	}
 }

@@ -405,10 +405,17 @@ func cmdCreate(ctx context.Context, args []string) error {
 		return err
 	}
 
-	fmt.Printf("matching %d tracks for %q via iTunes Search…\n", len(tracks), plName)
-	// A hand-supplied list has no ISRCs, so matching is search-only. Use the
-	// iTunes Search API (separate quota) rather than the rate-limited amp-api.
-	svc := matching.New(itunes.NewClient(creds.Storefront), func(s string) { fmt.Println(s) })
+	fmt.Printf("matching %d tracks for %q via iTunes Search (amp-api fallback)…\n", len(tracks), plName)
+	// A hand-supplied list has no ISRCs, so matching is search-only. Lead with
+	// the iTunes Search API (separate quota) rather than the rate-limited
+	// amp-api, but fall back to amp-api for the tracks it cannot resolve: its
+	// index is missing catalog entries amp-api has, and it answers for them with
+	// plausible-but-wrong songs rather than an empty result.
+	svc := matching.NewChained(
+		func(s string) { fmt.Println(s) },
+		itunes.NewClient(creds.Storefront),
+		apple.NewClient(creds),
+	)
 	matches, err := svc.Match(ctx, tracks)
 	if err != nil {
 		return err

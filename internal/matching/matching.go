@@ -31,15 +31,45 @@ const searchThrottle = 250 * time.Millisecond
 // result.
 const maxConsecutiveSearchErrors = 8
 
-// Service turns tracks into matches using a catalog.
+// Service turns tracks into matches using one or more catalogs.
 type Service struct {
-	catalog  domain.CatalogPort
+	catalogs []domain.CatalogPort
 	progress func(string)
 }
 
-// New builds a matching service. progress may be nil.
+// New builds a matching service over a single catalog. progress may be nil.
 func New(catalog domain.CatalogPort, progress func(string)) *Service {
-	return &Service{catalog: catalog, progress: progress}
+	return NewChained(progress, catalog)
+}
+
+// NewChained builds a matching service that consults catalogs in order,
+// keeping the best answer any of them gives and stopping as soon as one is
+// high-confidence.
+//
+// This exists because no single catalog index is complete. The iTunes Search
+// API is the preferred primary (it has its own rate-limit quota, separate from
+// the rest of the Apple Music API) but its index is missing recordings that
+// amp-api has — Gorillaz' Song Machine, for one. Worse, it does not fail
+// loudly: asked for a song it lacks, it returns 25 plausible-but-wrong results,
+// so an empty-result check would never trigger a fallback. Only the score can
+// tell the difference, which is why chaining lives here and not behind a
+// composite CatalogPort.
+func NewChained(progress func(string), catalogs ...domain.CatalogPort) *Service {
+	return &Service{catalogs: catalogs, progress: progress}
+}
+
+// confidenceRank orders Confidence so the better of two matches can be chosen.
+func confidenceRank(c domain.Confidence) int {
+	switch c {
+	case domain.ConfExact:
+		return 3
+	case domain.ConfHigh:
+		return 2
+	case domain.ConfLow:
+		return 1
+	default:
+		return 0
+	}
 }
 
 func (s *Service) report(format string, args ...any) {
@@ -70,7 +100,7 @@ func (s *Service) Match(ctx context.Context, tracks []domain.Track) ([]domain.Ma
 		for j, idx := range batch {
 			isrcs[j] = tracks[idx].ISRC
 		}
-		byISRC, err := s.catalog.SongsByISRC(ctx, isrcs)
+		byISRC, err := s.songsByISRC(ctx, isrcs)
 		if err != nil {
 			return nil, fmt.Errorf("isrc lookup: %w", err)
 		}
@@ -132,6 +162,49 @@ func sleepCtx(ctx context.Context, d time.Duration) error {
 	}
 }
 
+// songsByISRC asks each catalog in turn for the ISRCs still unresolved, so a
+// primary with no ISRC index (the iTunes Search API) costs nothing but does not
+// block a later catalog that has one.
+func (s *Service) songsByISRC(ctx context.Context, isrcs []string) (map[string][]domain.CatalogSong, error) {
+	out := make(map[string][]domain.CatalogSong, len(isrcs))
+	var firstErr error
+	answered := false
+
+	remaining := make([]string, len(isrcs))
+	copy(remaining, isrcs)
+
+	for _, c := range s.catalogs {
+		if len(remaining) == 0 {
+			break
+		}
+		got, err := c.SongsByISRC(ctx, remaining)
+		if err != nil {
+			if firstErr == nil {
+				firstErr = err
+			}
+			continue
+		}
+		answered = true
+		still := remaining[:0:0]
+		for _, code := range remaining {
+			key := strings.ToUpper(code)
+			if songs := got[key]; len(songs) > 0 {
+				out[key] = songs
+			} else {
+				still = append(still, code)
+			}
+		}
+		remaining = still
+	}
+
+	// Only fail when no catalog managed to answer at all; a single rate-limited
+	// adapter must not sink a lookup another one could serve.
+	if !answered && firstErr != nil {
+		return nil, firstErr
+	}
+	return out, nil
+}
+
 func (s *Service) searchMatch(ctx context.Context, t domain.Track) (domain.Match, error) {
 	// Search on the base title (without "- 2016 Remaster", "(Live)", etc.) so a
 	// version-suffixed Spotify title can still find the recording on Apple.
@@ -139,15 +212,37 @@ func (s *Service) searchMatch(ctx context.Context, t domain.Track) (domain.Match
 	if len(t.Artists) > 0 {
 		term += " " + t.Artists[0]
 	}
-	cands, err := s.catalog.SearchSongs(ctx, term, 25)
-	if err != nil {
-		return domain.Match{}, fmt.Errorf("search %q: %w", term, err)
+
+	var (
+		best     domain.CatalogSong
+		bestConf = domain.ConfNone
+		firstErr error
+		answered bool
+	)
+	for _, c := range s.catalogs {
+		cands, err := c.SearchSongs(ctx, term, 25)
+		if err != nil {
+			if firstErr == nil {
+				firstErr = err
+			}
+			continue
+		}
+		answered = true
+		if song, conf := pickScored(t, cands); confidenceRank(conf) > confidenceRank(bestConf) {
+			best, bestConf = song, conf
+		}
+		if bestConf == domain.ConfHigh {
+			break // good enough; do not spend a request on the next catalog
+		}
 	}
-	best, conf := pickScored(t, cands)
-	if conf == domain.ConfNone {
+
+	if !answered && firstErr != nil {
+		return domain.Match{}, fmt.Errorf("search %q: %w", term, firstErr)
+	}
+	if bestConf == domain.ConfNone {
 		return domain.Match{Track: t, Confidence: domain.ConfNone, Method: domain.MethodNone, Note: "no catalog match"}, nil
 	}
-	return domain.Match{Track: t, AppleID: best.ID, Confidence: conf, Method: domain.MethodSearch}, nil
+	return domain.Match{Track: t, AppleID: best.ID, Confidence: bestConf, Method: domain.MethodSearch}, nil
 }
 
 // pickBest chooses the ISRC candidate closest in duration to the source track.
