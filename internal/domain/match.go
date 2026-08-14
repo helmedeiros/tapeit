@@ -79,11 +79,15 @@ type TrackRef struct {
 
 // Album is catalog metadata about a record, independent of any listening.
 type Album struct {
-	ID            string
-	Name          string
-	Artist        string
+	ID     string
+	Name   string
+	Artist string
+	// UPC is the record's barcode: the one identifier services agree on, which
+	// makes album facts portable between them and shareable between people.
+	UPC           string
 	TrackCount    int
 	RuntimeMS     int
+	Genres        []string
 	IsCompilation bool
 }
 
@@ -95,6 +99,11 @@ var ErrAlbumNotFound = errors.New("album not found in catalog")
 
 // AlbumPort resolves album metadata from the target catalog.
 type AlbumPort interface {
+	// SongAlbums maps catalog song ids to the id of the album containing each.
+	// Exact: the album comes from the recording, not from matching its name.
+	SongAlbums(ctx context.Context, songIDs []string) (map[string]string, error)
+	// AlbumsByID returns metadata for catalog albums, by id.
+	AlbumsByID(ctx context.Context, albumIDs []string) (map[string]Album, error)
 	// Album returns the *standard* edition matching name and artist. Deluxe and
 	// anniversary editions pad the track count, which understates how much of a
 	// record a listener actually loves, so the smallest matching edition wins.

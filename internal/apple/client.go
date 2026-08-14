@@ -36,11 +36,15 @@ const (
 type Client struct {
 	http  *http.Client
 	creds Credentials
+	// apiBase is the API root. It is a field rather than a constant so tests can
+	// point the client at a stub and exercise batching, chunking and error
+	// handling without the network.
+	apiBase string
 }
 
 // NewClient builds an Apple Music client from extracted credentials.
 func NewClient(creds Credentials) *Client {
-	return &Client{http: &http.Client{Timeout: 30 * time.Second}, creds: creds}
+	return &Client{http: &http.Client{Timeout: 30 * time.Second}, creds: creds, apiBase: apiBase}
 }
 
 func (c *Client) setHeaders(req *http.Request, withUser bool) {
@@ -184,7 +188,7 @@ func (c *Client) Storefront(ctx context.Context) (string, error) {
 			ID string `json:"id"`
 		} `json:"data"`
 	}
-	if err := c.do(ctx, http.MethodGet, apiBase+"/me/storefront", nil, true, &out); err != nil {
+	if err := c.do(ctx, http.MethodGet, c.apiBase+"/me/storefront", nil, true, &out); err != nil {
 		return "", err
 	}
 	if len(out.Data) == 0 {
@@ -199,7 +203,7 @@ func (c *Client) SongsByISRC(ctx context.Context, isrcs []string) (map[string][]
 		return nil, fmt.Errorf("storefront not set")
 	}
 	result := make(map[string][]domain.CatalogSong)
-	next := fmt.Sprintf("%s/catalog/%s/songs?filter[isrc]=%s", apiBase, c.creds.Storefront, strings.Join(isrcs, ","))
+	next := fmt.Sprintf("%s/catalog/%s/songs?filter[isrc]=%s", c.apiBase, c.creds.Storefront, strings.Join(isrcs, ","))
 	for next != "" {
 		var resp songsResponse
 		// Send the user token: authenticated catalog reads get a much higher
@@ -215,7 +219,7 @@ func (c *Client) SongsByISRC(ctx context.Context, isrcs []string) (map[string][]
 			key := strings.ToUpper(s.Attributes.ISRC)
 			result[key] = append(result[key], song)
 		}
-		next = absolute(resp.Next)
+		next = c.absolute(resp.Next)
 	}
 	return result, nil
 }
@@ -230,7 +234,7 @@ func (c *Client) SearchSongs(ctx context.Context, term string, limit int) ([]dom
 		"term":  {term},
 		"limit": {strconv.Itoa(limit)},
 	}
-	u := fmt.Sprintf("%s/catalog/%s/search?%s", apiBase, c.creds.Storefront, q.Encode())
+	u := fmt.Sprintf("%s/catalog/%s/search?%s", c.apiBase, c.creds.Storefront, q.Encode())
 	var resp searchResponse
 	// Authenticated search avoids the tight anonymous developer-token rate limit.
 	if err := c.do(ctx, http.MethodGet, u, nil, true, &resp); err != nil {
@@ -248,7 +252,7 @@ func (c *Client) SearchSongs(ctx context.Context, term string, limit int) ([]dom
 // ExistingPlaylists implements domain.LibraryPort.
 func (c *Client) ExistingPlaylists(ctx context.Context) (map[string]string, error) {
 	out := make(map[string]string)
-	next := apiBase + "/me/library/playlists?limit=100"
+	next := c.apiBase + "/me/library/playlists?limit=100"
 	for next != "" {
 		var resp struct {
 			Data []struct {
@@ -265,7 +269,7 @@ func (c *Client) ExistingPlaylists(ctx context.Context) (map[string]string, erro
 		for _, p := range resp.Data {
 			out[p.Attributes.Name] = p.ID
 		}
-		next = absolute(resp.Next)
+		next = c.absolute(resp.Next)
 	}
 	return out, nil
 }
@@ -283,7 +287,7 @@ func (c *Client) CreatePlaylist(ctx context.Context, name, description string) (
 			ID string `json:"id"`
 		} `json:"data"`
 	}
-	if err := c.do(ctx, http.MethodPost, apiBase+"/me/library/playlists", body, true, &resp); err != nil {
+	if err := c.do(ctx, http.MethodPost, c.apiBase+"/me/library/playlists", body, true, &resp); err != nil {
 		return "", err
 	}
 	if len(resp.Data) == 0 {
@@ -297,7 +301,7 @@ func (c *Client) CreatePlaylist(ctx context.Context, name, description string) (
 // playlist; treat that as no tracks.
 func (c *Client) PlaylistTrackRefs(ctx context.Context, playlistID string) ([]domain.TrackRef, error) {
 	var refs []domain.TrackRef
-	next := fmt.Sprintf("%s/me/library/playlists/%s/tracks?limit=100", apiBase, playlistID)
+	next := fmt.Sprintf("%s/me/library/playlists/%s/tracks?limit=100", c.apiBase, playlistID)
 	for next != "" {
 		var resp struct {
 			Data []struct {
@@ -319,7 +323,7 @@ func (c *Client) PlaylistTrackRefs(ctx context.Context, playlistID string) ([]do
 			refs = append(refs, domain.TrackRef{
 				Title: t.Attributes.Name, Artist: t.Attributes.ArtistName, Album: t.Attributes.AlbumName})
 		}
-		next = absolute(resp.Next)
+		next = c.absolute(resp.Next)
 	}
 	return refs, nil
 }
@@ -336,7 +340,7 @@ type LibraryTrack struct {
 // PlaylistTracks returns the tracks of a library playlist.
 func (c *Client) PlaylistTracks(ctx context.Context, playlistID string) ([]LibraryTrack, error) {
 	var tracks []LibraryTrack
-	next := fmt.Sprintf("%s/me/library/playlists/%s/tracks?limit=100", apiBase, playlistID)
+	next := fmt.Sprintf("%s/me/library/playlists/%s/tracks?limit=100", c.apiBase, playlistID)
 	for next != "" {
 		var resp struct {
 			Data []struct {
@@ -367,14 +371,14 @@ func (c *Client) PlaylistTracks(ctx context.Context, playlistID string) ([]Libra
 				CatalogID:  t.Attributes.PlayParams.CatalogID,
 			})
 		}
-		next = absolute(resp.Next)
+		next = c.absolute(resp.Next)
 	}
 	return tracks, nil
 }
 
 // AddTracks implements domain.LibraryPort, chunking to stay within limits.
 func (c *Client) AddTracks(ctx context.Context, playlistID string, songIDs []string) error {
-	u := fmt.Sprintf("%s/me/library/playlists/%s/tracks", apiBase, playlistID)
+	u := fmt.Sprintf("%s/me/library/playlists/%s/tracks", c.apiBase, playlistID)
 	for start := 0; start < len(songIDs); start += addBatch {
 		end := min(start+addBatch, len(songIDs))
 		data := make([]map[string]string, 0, end-start)
@@ -393,7 +397,10 @@ func (c *Client) AddTracks(ctx context.Context, playlistID string, songIDs []str
 }
 
 // absolute turns a relative API "next" path into a full URL.
-func absolute(next string) string {
+// absolute resolves a paging cursor against this client's API root. It is a
+// method rather than a free function so a client pointed at a stub follows its
+// own pages rather than escaping to the live API mid-pagination.
+func (c *Client) absolute(next string) string {
 	if next == "" {
 		return ""
 	}
@@ -401,9 +408,9 @@ func absolute(next string) string {
 		return next
 	}
 	if strings.HasPrefix(next, "/v1/") {
-		return "https://amp-api.music.apple.com" + next
+		return c.apiBase + strings.TrimPrefix(next, "/v1")
 	}
-	return apiBase + "/" + strings.TrimPrefix(next, "/")
+	return c.apiBase + "/" + strings.TrimPrefix(next, "/")
 }
 
 var (
