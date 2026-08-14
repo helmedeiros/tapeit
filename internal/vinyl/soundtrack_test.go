@@ -111,3 +111,16 @@ func TestRank_StillReturnsOnlyTheRanked(t *testing.T) {
 		t.Errorf("Rank should return only ranked records, got %+v", got)
 	}
 }
+
+func TestScore_ReportsTheMostInformativeReason(t *testing.T) {
+	// A record can fail several tests at once. The reason given should be the one
+	// that tells the listener something: "soundtrack" is a judgement they can
+	// disagree with and override, while "no album metadata" only says the lookup
+	// came back empty — which for a soundtrack is a consequence, not the cause.
+	e := album("The Book of Life", "Diego Luna", 8, 0, 2021)
+	e.IsSoundtrack, e.TrackCount, e.RuntimeMin = true, 0, 0
+
+	if got := Score(e, 8, window()); got.Excluded != "soundtrack" {
+		t.Errorf("excluded as %q, want %q", got.Excluded, "soundtrack")
+	}
+}

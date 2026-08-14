@@ -162,7 +162,14 @@ func (o Options) span() float64 {
 
 // exclusion reports why an album cannot be a vinyl candidate, or "".
 func (o Options) exclusion(e Evidence) string {
+	// Ordered by how much the reason tells the listener. A record can fail
+	// several of these at once, and "soundtrack" is a judgement they can
+	// disagree with and override, while "no album metadata" only reports that a
+	// lookup came back empty — which for a soundtrack is a consequence of the
+	// first fact, not an explanation of anything.
 	switch {
+	case e.IsSoundtrack && !o.IncludeSoundtracks:
+		return "soundtrack"
 	case e.TrackCount <= 0:
 		// Without a track count there is no coverage, and coverage is the whole
 		// argument for a record. Scoring it anyway would let an unresolved album
@@ -173,8 +180,6 @@ func (o Options) exclusion(e Evidence) string {
 		return "single or EP"
 	case e.RuntimeMin > 0 && e.RuntimeMin < o.MinRuntimeMin:
 		return "too short for an LP"
-	case e.IsSoundtrack && !o.IncludeSoundtracks:
-		return "soundtrack"
 	case e.thinlyHeard(o):
 		// One track in years of listening is a single the listener liked, not a
 		// record they live with. Without this, persistence and recency can carry

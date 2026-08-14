@@ -80,7 +80,7 @@ func cmdVinyl(ctx context.Context, args []string) error {
 	ranked, excluded := vinyl.RankWithExclusions(vinyl.Aggregate(apps, meta, lib, o), o)
 	ranked = refineShortlist(ctx, client, ranked, meta, o)
 	printVinyl(ranked)
-	printExclusions(excluded)
+	printExclusions(excluded, lib)
 	return nil
 }
 
@@ -226,6 +226,15 @@ type albumRef struct {
 	lib           int
 }
 
+// worthResolving is the bar a record must clear before it is worth a catalog
+// lookup, and equally before it is worth reporting as excluded. Of five hundred
+// albums a listener has touched, most contributed one track in one year and
+// cannot place however generous the scoring; listing those as "left off" would
+// bury the handful of genuine failures in four hundred lines of noise.
+func worthResolving(depth, years, lib int) bool {
+	return depth >= 3 || (depth >= 2 && years >= 2) || lib >= 5
+}
+
 // moreEvidenceThan orders candidates so the records most likely to place are
 // resolved first. Order matters because a run can be cut short by a throttle or
 // an interrupt: resolving in evidence order means any prefix of the work is the
@@ -281,7 +290,7 @@ func candidatesToResolve(apps []vinyl.Appearance, cache map[string]vinyl.AlbumMe
 		// Worth resolving on breadth, on breadth sustained over time, or on
 		// independent support in the saved library — any one of which could carry
 		// the record onto a shortlist.
-		if r.depth >= 3 || (r.depth >= 2 && r.years >= 2) || r.lib >= 5 {
+		if worthResolving(r.depth, r.years, r.lib) {
 			need = append(need, r)
 			continue
 		}
@@ -353,13 +362,21 @@ func printVinyl(ranked []vinyl.Scored) {
 // is what lets a listener catch a wrong call, most plausibly a real album judged
 // a soundtrack, and answer it with --include-soundtracks rather than wondering
 // where a favourite went.
-func printExclusions(excluded []vinyl.Scored) {
-	if len(excluded) == 0 {
-		return
-	}
+func printExclusions(excluded []vinyl.Scored, lib map[string]int) {
 	byReason := map[string][]vinyl.Scored{}
+	shown := 0
 	for _, s := range excluded {
+		// Records that were never candidates are already accounted for in the
+		// "skipping N albums" line; repeating them here would bury the genuine
+		// failures among them.
+		if !worthResolving(s.LovedTracks, len(s.Years), lib[vinyl.AlbumKey(s.Album, s.Artist)]) {
+			continue
+		}
 		byReason[s.Excluded] = append(byReason[s.Excluded], s)
+		shown++
+	}
+	if shown == 0 {
+		return
 	}
 	reasons := make([]string, 0, len(byReason))
 	for r := range byReason {
@@ -367,7 +384,7 @@ func printExclusions(excluded []vinyl.Scored) {
 	}
 	sort.Strings(reasons)
 
-	fmt.Printf("\nleft off the list (%d records):\n", len(excluded))
+	fmt.Printf("\nleft off the list (%d records that were otherwise candidates):\n", shown)
 	for _, reason := range reasons {
 		recs := byReason[reason]
 		fmt.Printf("  %s (%d):\n", reason, len(recs))
