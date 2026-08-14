@@ -31,6 +31,9 @@ type AlbumMeta struct {
 	// UPC is the record's barcode — the identifier services agree on, and so the
 	// one that makes these facts portable between them.
 	UPC string
+	// Genres are the catalog's own account of what a record is, kept so a cached
+	// album is judged by the same evidence as a freshly resolved one.
+	Genres []string
 }
 
 // RankWeight converts a position in a ranked list to an assumed share of plays,

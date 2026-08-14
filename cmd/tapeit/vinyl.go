@@ -77,9 +77,10 @@ func cmdVinyl(ctx context.Context, args []string) error {
 		fmt.Println()
 	}
 
-	ranked := vinyl.Rank(vinyl.Aggregate(apps, meta, lib, o), o)
+	ranked, excluded := vinyl.RankWithExclusions(vinyl.Aggregate(apps, meta, lib, o), o)
 	ranked = refineShortlist(ctx, client, ranked, meta, o)
 	printVinyl(ranked)
+	printExclusions(excluded)
 	return nil
 }
 
@@ -345,3 +346,42 @@ func printVinyl(ranked []vinyl.Scored) {
 	fmt.Println("saved      = share of the record in your saved library — the reason a record with")
 	fmt.Println("             thin chart presence can still rank, since the lists stop at 100")
 }
+
+// printExclusions names the records that were kept off the list, and why.
+//
+// An excluded record does not rank lower — it does not appear at all. Saying so
+// is what lets a listener catch a wrong call, most plausibly a real album judged
+// a soundtrack, and answer it with --include-soundtracks rather than wondering
+// where a favourite went.
+func printExclusions(excluded []vinyl.Scored) {
+	if len(excluded) == 0 {
+		return
+	}
+	byReason := map[string][]vinyl.Scored{}
+	for _, s := range excluded {
+		byReason[s.Excluded] = append(byReason[s.Excluded], s)
+	}
+	reasons := make([]string, 0, len(byReason))
+	for r := range byReason {
+		reasons = append(reasons, r)
+	}
+	sort.Strings(reasons)
+
+	fmt.Printf("\nleft off the list (%d records):\n", len(excluded))
+	for _, reason := range reasons {
+		recs := byReason[reason]
+		fmt.Printf("  %s (%d):\n", reason, len(recs))
+		for i, s := range recs {
+			if i == exclusionsShownPerReason {
+				fmt.Printf("      … and %d more\n", len(recs)-i)
+				break
+			}
+			fmt.Printf("      %-36s %-20s %d loved\n",
+				truncate(s.Album, 36), truncate(s.Artist, 20), s.LovedTracks)
+		}
+	}
+}
+
+// exclusionsShownPerReason keeps the report readable while still admitting how
+// much it is not showing.
+const exclusionsShownPerReason = 5

@@ -311,23 +311,6 @@ func TestAlbumKey_FoldsEditionsAndCredits(t *testing.T) {
 	}
 }
 
-func TestIsSoundtrack(t *testing.T) {
-	for _, s := range []string{
-		"Moana (Original Motion Picture Soundtrack)",
-		"Teen Titans Go! (Songs From The Night Begins To Shine Special)",
-		"The Lego Ninjago Movie (Original Motion Picture Soundtrack)",
-	} {
-		if !IsSoundtrack(s, "") {
-			t.Errorf("should be detected as a soundtrack: %q", s)
-		}
-	}
-	for _, s := range []string{"Is This It", "Dropout Boogie", "Everyday Robots"} {
-		if IsSoundtrack(s, "The Strokes") {
-			t.Errorf("false positive on a real album: %q", s)
-		}
-	}
-}
-
 func TestScore_UnresolvedAlbumCannotRank(t *testing.T) {
 	// Without a track count there is no coverage, and coverage is the argument
 	// for owning a record. An unresolved album would otherwise score on

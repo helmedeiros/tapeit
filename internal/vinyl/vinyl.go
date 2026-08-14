@@ -13,7 +13,6 @@ package vinyl
 import (
 	"math"
 	"sort"
-	"strings"
 
 	"github.com/helmedeiros/tapeit/internal/domain"
 )
@@ -315,6 +314,18 @@ func recency(years []int, o Options) float64 {
 // Rank scores every album and returns the best, honouring the per-artist cap so
 // a shortlist stays a shortlist rather than one artist's discography.
 func Rank(ev []Evidence, o Options) []Scored {
+	ranked, _ := RankWithExclusions(ev, o)
+	return ranked
+}
+
+// RankWithExclusions ranks and also returns what was left out and why.
+//
+// An exclusion is consequential in a way a low score is not: the record does not
+// appear at all, so a wrong call is invisible unless it is reported. Handing the
+// exclusions back lets a caller show them, which is what allows a listener to
+// notice a misjudged record and override it rather than wonder where a
+// favourite went.
+func RankWithExclusions(ev []Evidence, o Options) (ranked, excluded []Scored) {
 	maxRW := 0.0
 	for _, e := range ev {
 		if e.RankWeight > maxRW {
@@ -323,10 +334,21 @@ func Rank(ev []Evidence, o Options) []Scored {
 	}
 	scored := make([]Scored, 0, len(ev))
 	for _, e := range ev {
-		if s := Score(e, maxRW, o); s.Excluded == "" && s.Score > 0 {
+		s := Score(e, maxRW, o)
+		if s.Excluded != "" {
+			excluded = append(excluded, s)
+			continue
+		}
+		if s.Score > 0 {
 			scored = append(scored, s)
 		}
 	}
+	sort.SliceStable(excluded, func(i, j int) bool {
+		if excluded[i].LovedTracks != excluded[j].LovedTracks {
+			return excluded[i].LovedTracks > excluded[j].LovedTracks
+		}
+		return excluded[i].Album < excluded[j].Album
+	})
 	sort.SliceStable(scored, func(i, j int) bool {
 		if scored[i].Score != scored[j].Score {
 			return scored[i].Score > scored[j].Score
@@ -349,30 +371,9 @@ func Rank(ev []Evidence, o Options) []Scored {
 			break
 		}
 	}
-	return out
+	return out, excluded
 }
 
 // AlbumKey is a stable identity for a record across sources. It delegates to the
 // domain so adapters and this service cannot disagree about what one album is.
 func AlbumKey(album, artist string) string { return domain.AlbumKey(album, artist) }
-
-// soundtrackMarkers name records made to accompany something else. They are
-// excluded by default not because they are bad, but because they are usually
-// shared or incidental listening — a household in a car — rather than the
-// deliberate solo listening a record is bought for.
-var soundtrackMarkers = []string{
-	"original motion picture", "motion picture soundtrack", "original soundtrack",
-	"songs from the", "original film", "music from the", "original cast",
-	"(original", "original series soundtrack", "soundtrack",
-}
-
-// IsSoundtrack reports whether an album looks like a film or show soundtrack.
-func IsSoundtrack(album, artist string) bool {
-	l := strings.ToLower(album + " " + artist)
-	for _, m := range soundtrackMarkers {
-		if strings.Contains(l, m) {
-			return true
-		}
-	}
-	return false
-}

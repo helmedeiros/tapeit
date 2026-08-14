@@ -59,7 +59,8 @@ func resolveAlbums(ctx context.Context, port domain.AlbumPort, apps []vinyl.Appe
 			CatalogID:     chosen.ID,
 			UPC:           chosen.UPC,
 			IsCompilation: chosen.IsCompilation,
-			IsSoundtrack:  vinyl.IsSoundtrack(chosen.Name, chosen.Artist),
+			Genres:        chosen.Genres,
+			IsSoundtrack:  vinyl.IsSoundtrack(chosen.Name, chosen.Artist, chosen.Genres),
 		}
 	}
 	return cache, nil
@@ -143,7 +144,7 @@ func searchEditions(ctx context.Context, port domain.AlbumPort, wanted map[strin
 		switch {
 		case errors.Is(err, domain.ErrAlbumNotFound):
 			// A durable answer: remember it rather than ask again every run.
-			cache[r.key] = vinyl.AlbumMeta{IsSoundtrack: vinyl.IsSoundtrack(r.album, r.artist)}
+			cache[r.key] = vinyl.AlbumMeta{IsSoundtrack: vinyl.IsSoundtrack(r.album, r.artist, nil)}
 		case err != nil:
 			// Could not ask. Recording this would turn a passing throttle into a
 			// permanent verdict, so leave it for the next run.
