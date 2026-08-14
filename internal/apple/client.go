@@ -309,6 +309,9 @@ func (c *Client) PlaylistTrackRefs(ctx context.Context, playlistID string) ([]do
 					Name       string `json:"name"`
 					ArtistName string `json:"artistName"`
 					AlbumName  string `json:"albumName"`
+					PlayParams struct {
+						CatalogID string `json:"catalogId"`
+					} `json:"playParams"`
 				} `json:"attributes"`
 			} `json:"data"`
 			Next string `json:"next"`
@@ -321,7 +324,11 @@ func (c *Client) PlaylistTrackRefs(ctx context.Context, playlistID string) ([]do
 		}
 		for _, t := range resp.Data {
 			refs = append(refs, domain.TrackRef{
-				Title: t.Attributes.Name, Artist: t.Attributes.ArtistName, Album: t.Attributes.AlbumName})
+				Title:     t.Attributes.Name,
+				Artist:    t.Attributes.ArtistName,
+				Album:     t.Attributes.AlbumName,
+				CatalogID: t.Attributes.PlayParams.CatalogID,
+			})
 		}
 		next = c.absolute(resp.Next)
 	}

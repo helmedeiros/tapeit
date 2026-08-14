@@ -3,11 +3,9 @@ package main
 import (
 	"context"
 	"encoding/json"
-	"errors"
 	"flag"
 	"fmt"
 	"os"
-	"path/filepath"
 	"regexp"
 	"sort"
 	"strconv"
@@ -113,9 +111,11 @@ func readRankedLists(ctx context.Context, lib domain.LibraryPort, match string) 
 			}
 			apps = append(apps, vinyl.Appearance{
 				Year: year, Rank: i + 1, Size: len(refs),
-				Track:    strings.ToLower(r.Title),
-				AlbumKey: vinyl.AlbumKey(r.Album, r.Artist),
-				Album:    r.Album, Artist: r.Artist,
+				Track:     strings.ToLower(r.Title),
+				AlbumKey:  vinyl.AlbumKey(r.Album, r.Artist),
+				Album:     r.Album,
+				Artist:    r.Artist,
+				CatalogID: r.CatalogID,
 			})
 		}
 		if first == 0 || year < first {
@@ -143,76 +143,27 @@ func albumMetadata(ctx context.Context, port domain.AlbumPort, apps []vinyl.Appe
 			_ = json.Unmarshal(b, &cache)
 		}
 	}
-
-	need, skipped := candidatesToResolve(apps, cache, lib)
 	if cachedOnly {
 		// Ranking from what is already known is always possible; a throttled
 		// catalog should degrade the shortlist, not block it.
-		if len(need) > 0 {
+		if need, _ := candidatesToResolve(apps, cache, lib); len(need) > 0 {
 			fmt.Printf("cached-only: %d candidate albums remain unresolved and cannot place\n", len(need))
 		}
 		return cache, nil
 	}
-	resolveAlbums(ctx, port, need, cache, path)
-	if skipped > 0 {
-		fmt.Printf("skipping %d albums with a single track in a single year and no library depth\n", skipped)
-	}
-	if len(need) > 0 {
-		fmt.Printf("resolving %d albums (cached at %s)…\n", len(need), filepath.Base(path))
-	}
 
-	if len(need) > 0 {
+	before := len(cache)
+	cache, err = resolveAlbums(ctx, port, apps, cache, lib, albumLookupPace)
+	if err != nil {
+		return nil, err
+	}
+	if len(cache) != before {
 		if err := saveAt(config.AlbumIndexPath, cache); err != nil {
 			return nil, err
 		}
 	}
 	return cache, nil
 }
-
-// resolveAlbums fills the cache, strongest candidate first, and never records a
-// transient failure as an answer.
-func resolveAlbums(ctx context.Context, port domain.AlbumPort, need []albumRef,
-	cache map[string]vinyl.AlbumMeta, path string) {
-	done, transient := 0, 0
-	for _, r := range need {
-		if ctx.Err() != nil {
-			break
-		}
-		time.Sleep(albumLookupPace)
-
-		alb, err := port.Album(ctx, r.album, r.artist)
-		switch {
-		case errors.Is(err, domain.ErrAlbumNotFound):
-			// A definitive answer: remember it so we never ask again.
-			cache[r.key] = vinyl.AlbumMeta{IsSoundtrack: vinyl.IsSoundtrack(r.album, r.artist)}
-		case err != nil:
-			// The question could not be asked. Caching this would turn a passing
-			// throttle into a permanent verdict.
-			transient++
-			continue
-		default:
-			cache[r.key] = vinyl.AlbumMeta{
-				TrackCount:    alb.TrackCount,
-				IsCompilation: alb.IsCompilation,
-				CatalogID:     alb.ID,
-				IsSoundtrack:  vinyl.IsSoundtrack(alb.Name, alb.Artist) || vinyl.IsSoundtrack(r.album, r.artist),
-			}
-		}
-		done++
-		if done%10 == 0 {
-			fmt.Printf("  resolved %d/%d\n", done, len(need))
-			_ = saveAt(config.AlbumIndexPath, cache)
-		}
-	}
-	if transient > 0 {
-		fmt.Printf("  %d lookups could not be completed (rate limit or network); re-run to finish them\n", transient)
-	}
-	_ = path
-}
-
-// albumLookupPace spaces catalog reads so amp-api does not throttle us into
-// its own retry backoff, which is far slower than simply going gently.
-const albumLookupPace = 250 * time.Millisecond
 
 // refineShortlist reads each shortlisted record's track listing and re-scores
 // on what that pressing actually holds.
@@ -272,6 +223,23 @@ type albumRef struct {
 	lib           int
 }
 
+// moreEvidenceThan orders candidates so the records most likely to place are
+// resolved first. Order matters because a run can be cut short by a throttle or
+// an interrupt: resolving in evidence order means any prefix of the work is the
+// useful prefix, rather than whatever a map happened to yield.
+func (r albumRef) moreEvidenceThan(o albumRef) bool {
+	if r.depth != o.depth {
+		return r.depth > o.depth
+	}
+	if r.years != o.years {
+		return r.years > o.years
+	}
+	if r.lib != o.lib {
+		return r.lib > o.lib
+	}
+	return r.key < o.key
+}
+
 // candidatesToResolve picks the albums worth a catalog lookup, strongest first,
 // and reports how many were skipped.
 //
@@ -316,19 +284,7 @@ func candidatesToResolve(apps []vinyl.Appearance, cache map[string]vinyl.AlbumMe
 		}
 		skipped++
 	}
-	sort.Slice(need, func(i, j int) bool {
-		a, b := need[i], need[j]
-		if a.depth != b.depth {
-			return a.depth > b.depth
-		}
-		if a.years != b.years {
-			return a.years > b.years
-		}
-		if a.lib != b.lib {
-			return a.lib > b.lib
-		}
-		return a.key < b.key
-	})
+	sort.Slice(need, func(i, j int) bool { return need[i].moreEvidenceThan(need[j]) })
 	return need, skipped
 }
 

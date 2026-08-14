@@ -75,6 +75,10 @@ type TrackRef struct {
 	// lists are track-shaped; recovering the album is what lets them be reasoned
 	// about as records.
 	Album string
+	// CatalogID identifies the recording in the catalog, when the library knows
+	// it. With it, the album can be read from the recording itself rather than
+	// matched by name — exactly, and in batches.
+	CatalogID string
 }
 
 // Album is catalog metadata about a record, independent of any listening.

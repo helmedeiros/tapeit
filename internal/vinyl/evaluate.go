@@ -16,6 +16,9 @@ type Appearance struct {
 	AlbumKey string // stable identity for the album (normalised name+artist)
 	Album    string // display name
 	Artist   string
+	// CatalogID identifies the recording, when known. It is what makes the album
+	// resolvable exactly rather than by matching its name.
+	CatalogID string
 }
 
 // AlbumMeta is what the catalog knows about an album, independent of listening.
@@ -25,6 +28,9 @@ type AlbumMeta struct {
 	IsCompilation bool
 	IsSoundtrack  bool
 	CatalogID     string
+	// UPC is the record's barcode — the identifier services agree on, and so the
+	// one that makes these facts portable between them.
+	UPC string
 }
 
 // RankWeight converts a position in a ranked list to an assumed share of plays,

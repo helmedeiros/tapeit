@@ -222,3 +222,30 @@ func TestAlbum_PrefersTheSmallestMatchingEdition(t *testing.T) {
 		t.Errorf("want the 11-track standard edition, got %+v", got)
 	}
 }
+
+func TestPlaylistTrackRefs_CarriesTheCatalogID(t *testing.T) {
+	// The catalog id is what makes exact album resolution possible: with it the
+	// album is read from the recording, without it we are back to matching names.
+	c := newTestClient(t, func(w http.ResponseWriter, _ *http.Request) {
+		writeJSON(t, w, `{"data":[
+			{"attributes":{"name":"Wild Child","artistName":"The Black Keys",
+				"albumName":"Dropout Boogie","playParams":{"catalogId":"1611850616"}}},
+			{"attributes":{"name":"Unmatched","artistName":"Nobody","albumName":"Somewhere"}}]}`)
+	})
+
+	refs, err := c.PlaylistTrackRefs(context.Background(), "p.1")
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(refs) != 2 {
+		t.Fatalf("got %d refs, want 2", len(refs))
+	}
+	if refs[0].CatalogID != "1611850616" {
+		t.Errorf("catalog id not carried: %+v", refs[0])
+	}
+	// A track without one is still a loved track; it just falls back to matching
+	// on names, so it must not be dropped.
+	if refs[1].CatalogID != "" || refs[1].Title != "Unmatched" {
+		t.Errorf("track without a catalog id mishandled: %+v", refs[1])
+	}
+}
