@@ -5,8 +5,6 @@ import (
 	"fmt"
 	"net/http"
 	"net/url"
-	"strings"
-	"unicode"
 
 	"github.com/helmedeiros/tapeit/internal/domain"
 )
@@ -54,11 +52,11 @@ func (c *Client) Album(ctx context.Context, name, artist string) (domain.Album, 
 		return domain.Album{}, err
 	}
 
-	want := baseAlbumName(name)
+	want := domain.BaseAlbumName(name)
 	var best *albumDTO
 	for i := range resp.Results.Albums.Data {
 		d := &resp.Results.Albums.Data[i]
-		if baseAlbumName(d.Attributes.Name) != want {
+		if domain.BaseAlbumName(d.Attributes.Name) != want {
 			continue
 		}
 		if best == nil || d.Attributes.TrackCount < best.Attributes.TrackCount {
@@ -94,37 +92,4 @@ func (c *Client) AlbumRuntime(ctx context.Context, albumID string) (int, error) 
 		total += t.Attributes.DurationMillis
 	}
 	return total, nil
-}
-
-// baseAlbumName strips edition qualifiers so "Future Nostalgia (Deluxe)" and
-// "Future Nostalgia" are recognised as the same record.
-func baseAlbumName(s string) string {
-	l := strings.ToLower(s)
-	for _, marker := range []string{" (", " [", " - "} {
-		if i := strings.Index(l, marker); i > 0 {
-			tail := l[i:]
-			for _, q := range []string{"deluxe", "remaster", "edition", "expanded", "anniversary",
-				"bonus", "special", "version", "ultimate", "souvenir", "yearbook", "reissue"} {
-				if strings.Contains(tail, q) {
-					l = l[:i]
-					break
-				}
-			}
-		}
-	}
-	var b strings.Builder
-	prevSpace := false
-	for _, r := range l {
-		switch {
-		case unicode.IsLetter(r) || unicode.IsNumber(r):
-			b.WriteRune(r)
-			prevSpace = false
-		case unicode.IsSpace(r):
-			if !prevSpace && b.Len() > 0 {
-				b.WriteRune(' ')
-			}
-			prevSpace = true
-		}
-	}
-	return strings.TrimSpace(b.String())
 }

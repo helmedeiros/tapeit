@@ -14,7 +14,8 @@ import (
 	"math"
 	"sort"
 	"strings"
-	"unicode"
+
+	"github.com/helmedeiros/tapeit/internal/domain"
 )
 
 // Evidence is what is known about one album, gathered from ranked listening
@@ -290,7 +291,7 @@ func Rank(ev []Evidence, o Options) []Scored {
 	out := make([]Scored, 0, len(scored))
 	for _, s := range scored {
 		if o.MaxPerArtist > 0 {
-			k := primaryArtist(s.Artist)
+			k := domain.PrimaryArtist(s.Artist)
 			if perArtist[k] >= o.MaxPerArtist {
 				continue
 			}
@@ -304,62 +305,9 @@ func Rank(ev []Evidence, o Options) []Scored {
 	return out
 }
 
-// primaryArtist reduces a credit to its lead act so the per-artist cap is not
-// defeated by differing featured-artist spellings.
-func primaryArtist(s string) string {
-	for _, sep := range []string{",", "&", " feat", " with "} {
-		if i := strings.Index(strings.ToLower(s), sep); i > 0 {
-			s = s[:i]
-		}
-	}
-	var b strings.Builder
-	for _, r := range strings.ToLower(s) {
-		if unicode.IsLetter(r) || unicode.IsNumber(r) {
-			b.WriteRune(r)
-		}
-	}
-	return b.String()
-}
-
-// AlbumKey is a stable identity for a record across sources, so the same album
-// spelled differently by two services folds into one candidate.
-func AlbumKey(album, artist string) string {
-	return normalizeAlbum(album) + "|" + primaryArtist(artist)
-}
-
-// normalizeAlbum lower-cases, drops edition qualifiers and strips punctuation.
-func normalizeAlbum(s string) string {
-	l := strings.ToLower(s)
-	for _, marker := range []string{" (", " [", " - "} {
-		if i := strings.Index(l, marker); i > 0 {
-			tail := l[i:]
-			for _, q := range editionMarkers {
-				if strings.Contains(tail, q) {
-					l = l[:i]
-					break
-				}
-			}
-		}
-	}
-	var b strings.Builder
-	prevSpace := false
-	for _, r := range l {
-		switch {
-		case unicode.IsLetter(r) || unicode.IsNumber(r):
-			b.WriteRune(r)
-			prevSpace = false
-		case unicode.IsSpace(r):
-			if !prevSpace && b.Len() > 0 {
-				b.WriteRune(' ')
-			}
-			prevSpace = true
-		}
-	}
-	return strings.TrimSpace(b.String())
-}
-
-var editionMarkers = []string{"deluxe", "remaster", "edition", "expanded", "anniversary",
-	"bonus", "special", "version", "ultimate", "souvenir", "yearbook", "reissue"}
+// AlbumKey is a stable identity for a record across sources. It delegates to the
+// domain so adapters and this service cannot disagree about what one album is.
+func AlbumKey(album, artist string) string { return domain.AlbumKey(album, artist) }
 
 // soundtrackMarkers name records made to accompany something else. They are
 // excluded by default not because they are bad, but because they are usually

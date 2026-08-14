@@ -3,6 +3,8 @@ package vinyl
 import (
 	"math"
 	"testing"
+
+	"github.com/helmedeiros/tapeit/internal/domain"
 )
 
 // window is the observation span used across these tests: nine yearly lists.
@@ -127,7 +129,7 @@ func TestRank_CapsOneArtistFromEatingTheList(t *testing.T) {
 	got := Rank(ev, o)
 	n := 0
 	for _, s := range got {
-		if primaryArtist(s.Artist) == "theblackkeys" {
+		if domain.PrimaryArtist(s.Artist) == "theblackkeys" {
 			n++
 		}
 	}
@@ -144,20 +146,6 @@ func TestRank_ExcludedAlbumsNeverAppear(t *testing.T) {
 	for _, s := range Rank(ev, window()) {
 		if s.IsSoundtrack {
 			t.Error("an excluded album leaked into the ranking")
-		}
-	}
-}
-
-func TestPrimaryArtist_NormalisesCredits(t *testing.T) {
-	cases := map[string]string{
-		"Gorillaz, George Benson":         "gorillaz",
-		"Gorillaz & George Benson":        "gorillaz",
-		"Post Malone feat. Morgan Wallen": "postmalone",
-		"The Black Keys":                  "theblackkeys",
-	}
-	for in, want := range cases {
-		if got := primaryArtist(in); got != want {
-			t.Errorf("primaryArtist(%q) = %q, want %q", in, got, want)
 		}
 	}
 }
