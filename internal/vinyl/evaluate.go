@@ -23,6 +23,12 @@ type Appearance struct {
 
 // AlbumMeta is what the catalog knows about an album, independent of listening.
 type AlbumMeta struct {
+	// Name and Artist as the catalog states them. They are kept rather than
+	// derived from the key: a normalised key cannot be read back into a name, so
+	// an entry holding only a key can be neither displayed, re-indexed when the
+	// key rule improves, nor matched to another service.
+	Name          string
+	Artist        string
 	TrackCount    int
 	RuntimeMin    int
 	IsCompilation bool

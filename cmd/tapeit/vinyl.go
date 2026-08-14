@@ -64,7 +64,7 @@ func cmdVinyl(ctx context.Context, args []string) error {
 		fmt.Printf("saved library agrees on %d of %d records (%.0f%%)\n",
 			matched, total, 100*float64(matched)/float64(total))
 	}
-	meta, err := albumMetadata(ctx, client, apps, lib0, *refresh, *cachedOnly)
+	meta, err := albumMetadata(ctx, client, apps, lib0, creds.Storefront, *refresh, *cachedOnly)
 	if err != nil {
 		return err
 	}
@@ -82,7 +82,7 @@ func cmdVinyl(ctx context.Context, args []string) error {
 	}
 
 	ranked, excluded := vinyl.RankWithExclusions(vinyl.Aggregate(apps, meta, lib, o), o)
-	ranked = refineShortlist(ctx, client, ranked, meta, o)
+	ranked = refineShortlist(ctx, client, ranked, meta, o, creds.Storefront)
 	printVinyl(ranked)
 	printExclusions(excluded, lib)
 	return nil
@@ -139,16 +139,14 @@ func readRankedLists(ctx context.Context, lib domain.LibraryPort, match string) 
 // albumMetadata resolves each candidate album once, caching to the config dir so
 // repeat runs cost no catalog lookups.
 func albumMetadata(ctx context.Context, port domain.AlbumPort, apps []vinyl.Appearance,
-	lib map[string]int, refresh, cachedOnly bool) (map[string]vinyl.AlbumMeta, error) {
+	lib map[string]int, storefront string, refresh, cachedOnly bool) (map[string]vinyl.AlbumMeta, error) {
 	path, err := config.AlbumIndexPath()
 	if err != nil {
 		return nil, err
 	}
 	cache := map[string]vinyl.AlbumMeta{}
 	if !refresh {
-		if b, err := os.ReadFile(path); err == nil {
-			_ = json.Unmarshal(b, &cache)
-		}
+		cache = loadAlbumCatalog(path)
 	}
 	if cachedOnly {
 		// Ranking from what is already known is always possible; a throttled
@@ -165,11 +163,33 @@ func albumMetadata(ctx context.Context, port domain.AlbumPort, apps []vinyl.Appe
 		return nil, err
 	}
 	if len(cache) != before {
-		if err := saveAt(config.AlbumIndexPath, cache); err != nil {
+		if err := saveAlbumCatalog(storefront, cache); err != nil {
 			return nil, err
 		}
 	}
 	return cache, nil
+}
+
+// loadAlbumCatalog reads the album facts, rebuilding the lookup index under the
+// current key rule. Because each entry states which record it describes, a key
+// rule that improves costs a re-index rather than orphaning the whole file.
+func loadAlbumCatalog(path string) map[string]vinyl.AlbumMeta {
+	b, err := os.ReadFile(path)
+	if err != nil {
+		return map[string]vinyl.AlbumMeta{}
+	}
+	var cat vinyl.Catalog
+	if err := json.Unmarshal(b, &cat); err == nil && len(cat.Albums) > 0 {
+		return cat.Index()
+	}
+	return map[string]vinyl.AlbumMeta{}
+}
+
+// saveAlbumCatalog writes the album facts in the shareable form: identity and
+// cross-service identifiers alongside the numbers, sorted so the file is stable
+// between runs and its diffs are readable.
+func saveAlbumCatalog(storefront string, meta map[string]vinyl.AlbumMeta) error {
+	return saveAt(config.AlbumIndexPath, vinyl.NewCatalog(storefront, meta))
 }
 
 // refineShortlist reads each shortlisted record's track listing and re-scores
@@ -179,7 +199,7 @@ func albumMetadata(ctx context.Context, port domain.AlbumPort, apps []vinyl.Appe
 // long it runs, and which of the listener's loved tracks are on this pressing
 // rather than on some other edition. Only the shortlist is worth that request.
 func refineShortlist(ctx context.Context, port domain.AlbumPort, ranked []vinyl.Scored,
-	meta map[string]vinyl.AlbumMeta, o vinyl.Options) []vinyl.Scored {
+	meta map[string]vinyl.AlbumMeta, o vinyl.Options, storefront string) []vinyl.Scored {
 	runtimes := map[string]int{}
 	refined := vinyl.Refine(ranked, func(s vinyl.Scored) ([]string, bool) {
 		if s.CatalogID == "" || ctx.Err() != nil {
@@ -216,7 +236,7 @@ func refineShortlist(ctx context.Context, port domain.AlbumPort, ranked []vinyl.
 		}
 	}
 	if changed {
-		_ = saveAt(config.AlbumIndexPath, meta)
+		_ = saveAlbumCatalog(storefront, meta)
 	}
 	return refined
 }
