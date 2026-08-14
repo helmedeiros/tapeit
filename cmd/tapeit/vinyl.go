@@ -28,6 +28,7 @@ func cmdVinyl(ctx context.Context, args []string) error {
 	perArtist := fs.Int("max-per-artist", 2, "cap on albums per artist (0 = unlimited)")
 	withST := fs.Bool("include-soundtracks", false, "admit film and show soundtracks")
 	minTracks := fs.Int("min-tracks", 7, "fewest tracks for a record to count as an album")
+	minLoved := fs.Int("min-loved", 2, "fewest of a record's tracks that must have reached your lists")
 	evaluate := fs.Bool("evaluate", false, "measure the ranking against a naive top-tracks baseline")
 	refresh := fs.Bool("refresh", false, "ignore the cached album metadata")
 	cachedOnly := fs.Bool("cached-only", false,
@@ -68,6 +69,7 @@ func cmdVinyl(ctx context.Context, args []string) error {
 	o := vinyl.DefaultOptions(first, last)
 	o.Size, o.MaxPerArtist, o.IncludeSoundtracks, o.MinTracks = *size, *perArtist, *withST, *minTracks
 	o.RankAlpha, o.CensoringCredit = *alpha, *censor
+	o.MinLovedTracks = *minLoved
 
 	if *evaluate {
 		fmt.Println()

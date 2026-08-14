@@ -73,7 +73,19 @@ func TestAlbumKey_IsCaseAndPunctuationInsensitive(t *testing.T) {
 	if AlbumKey("IS THIS IT", "the strokes") != AlbumKey("Is This It", "The Strokes") {
 		t.Error("case must not change identity")
 	}
-	if AlbumKey("÷", "Ed Sheeran") == "" {
-		t.Error("a title of only symbols should still yield a usable key")
+}
+
+func TestAlbumKey_KeepsSymbolOnlyTitlesDistinct(t *testing.T) {
+	// Titles made entirely of symbols — Ed Sheeran's ÷ and ×, Blur's 13 — reduce
+	// to nothing once punctuation is stripped, so every such record by one artist
+	// would collide into a single album and silently pool their evidence.
+	if got := BaseAlbumName("÷"); got == "" {
+		t.Error("a symbol-only title must still yield a name")
+	}
+	if AlbumKey("÷", "Ed Sheeran") == AlbumKey("×", "Ed Sheeran") {
+		t.Error("÷ and × are different records by the same artist")
+	}
+	if AlbumKey("÷ (Deluxe)", "Ed Sheeran") != AlbumKey("÷", "Ed Sheeran") {
+		t.Error("editions of a symbol-titled record should still fold together")
 	}
 }

@@ -37,7 +37,14 @@ func BaseAlbumName(s string) string {
 			l = l[:i]
 		}
 	}
-	return squashToAlphanumeric(l, true)
+	if name := squashToAlphanumeric(l, true); name != "" {
+		return name
+	}
+	// Some records are titled entirely in symbols — Ed Sheeran's ÷ and ×. Those
+	// reduce to nothing once punctuation is stripped, which would collapse every
+	// such record by one artist into a single album and pool their evidence.
+	// Keeping the symbols is less pretty and strictly more correct.
+	return strings.Join(strings.Fields(l), " ")
 }
 
 // PrimaryArtist reduces a credit to its lead act, so the same record credited

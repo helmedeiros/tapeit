@@ -107,6 +107,11 @@ type Options struct {
 	// purchase from an album.
 	MinTracks     int
 	MinRuntimeMin int
+	// MinLovedTracks is how many of a record's tracks must have reached the
+	// ranked lists before it counts as a record the listener lives with rather
+	// than a single they liked. A listener who saved most of the album
+	// separately satisfies this by that route instead.
+	MinLovedTracks int
 	// FirstYear and LastYear bound the observation window; LastYear also anchors
 	// recency, so "recent" means recent relative to the data, not to the clock.
 	FirstYear, LastYear int
@@ -124,7 +129,7 @@ type Options struct {
 func DefaultOptions(firstYear, lastYear int) Options {
 	return Options{
 		Size: 20, MaxPerArtist: 2,
-		MinTracks: 7, MinRuntimeMin: 25,
+		MinTracks: 7, MinRuntimeMin: 25, MinLovedTracks: 2,
 		FirstYear: firstYear, LastYear: lastYear,
 		RankAlpha: DefaultRankAlpha, CensoringCredit: DefaultCensoringCredit,
 		Weights: DefaultWeights(),
@@ -171,6 +176,12 @@ func (o Options) exclusion(e Evidence) string {
 		return "too short for an LP"
 	case e.IsSoundtrack && !o.IncludeSoundtracks:
 		return "soundtrack"
+	case e.thinlyHeard(o):
+		// One track in years of listening is a single the listener liked, not a
+		// record they live with. Without this, persistence and recency can carry
+		// such a record onto a shortlist on the strength of that one song — the
+		// hit-chasing this package exists to avoid, arriving by another route.
+		return "only one loved track"
 	default:
 		return ""
 	}
@@ -246,6 +257,17 @@ func effectiveCoverage(observed, meanRankWeight, credit float64) float64 {
 	}
 	inferred := (1 - observed) * observed * observed * meanRankWeight * credit
 	return math.Min(observed+inferred, 1)
+}
+
+// thinlyHeard reports whether too little of a record ever surfaced for it to be
+// judged as a record. The saved library is an escape hatch: the ranked lists
+// truncate at 100, so a record played steadily but never obsessively barely
+// appears in them, and owning most of it separately is the stronger witness.
+func (e Evidence) thinlyHeard(o Options) bool {
+	if o.MinLovedTracks <= 0 || e.LovedTracks >= o.MinLovedTracks {
+		return false
+	}
+	return e.TrackCount <= 0 || float64(e.LibraryTracks)/float64(e.TrackCount) < 0.5
 }
 
 // lovedOnPressing is how many loved tracks count toward this record's coverage:

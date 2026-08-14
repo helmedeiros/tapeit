@@ -343,3 +343,30 @@ func TestScore_UnresolvedAlbumCannotRank(t *testing.T) {
 		t.Errorf("unresolved album leaked into the ranking: %+v", s)
 	}
 }
+
+func TestScore_ASingleLovedTrackIsNotARecord(t *testing.T) {
+	// The premise of the package, applied to itself: a record represented by one
+	// track in years of listening is a single you liked, not an album you live
+	// with. Persistence and recency could otherwise carry it onto a shortlist on
+	// the strength of that one song — which is the hit-chasing this exists to
+	// avoid, arriving by a different route.
+	oneTrack := album("One By One", "Foo Fighters", 1, 17, 2019, 2023)
+
+	got := Score(oneTrack, 4, window())
+	if got.Excluded == "" || got.Score != 0 {
+		t.Errorf("one loved track cannot justify a record: %+v", got)
+	}
+}
+
+func TestScore_LibraryDepthRedeemsAThinListeningRecord(t *testing.T) {
+	// The exception that must survive: the ranked lists truncate at 100, so a
+	// record played steadily but never obsessively barely appears in them. When
+	// the listener has separately saved most of it, that is the stronger witness
+	// and the record belongs on the list.
+	quiet := album("There Is Nothing Left to Lose", "Foo Fighters", 1, 11, 2019, 2023)
+	quiet.LibraryTracks = 11
+
+	if got := Score(quiet, 4, window()); got.Excluded != "" || got.Score == 0 {
+		t.Errorf("a record saved in full should not be excluded for thin chart presence: %+v", got)
+	}
+}
