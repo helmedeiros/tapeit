@@ -212,3 +212,37 @@ func TestResolveAlbums_SkipsAlbumsThatCannotPlace(t *testing.T) {
 		t.Error("no lookups should be spent on an album that cannot place")
 	}
 }
+
+func TestLibraryMatchRate_MeasuresHowOftenTwoServicesAgree(t *testing.T) {
+	// Library corroboration carries real weight in the score, and it only works
+	// if a record's key derived from Apple equals the one derived from Spotify.
+	// A silent mismatch does not error — it reads as "you never saved this",
+	// which lowers a record's score for a reason that has nothing to do with the
+	// listener. So the agreement rate is measured rather than assumed.
+	apps := []vinyl.Appearance{
+		{AlbumKey: vinyl.AlbumKey("Is This It", "The Strokes"), Album: "Is This It", Artist: "The Strokes"},
+		{AlbumKey: vinyl.AlbumKey("Wet Leg", "Wet Leg"), Album: "Wet Leg", Artist: "Wet Leg"},
+		{AlbumKey: vinyl.AlbumKey("Unsaved", "Nobody"), Album: "Unsaved", Artist: "Nobody"},
+	}
+	lib := map[string]int{
+		vinyl.AlbumKey("Is This It", "The Strokes"): 5,
+		vinyl.AlbumKey("Wet Leg", "Wet Leg"):        12,
+		vinyl.AlbumKey("Never Charted", "Someone"):  8,
+	}
+
+	matched, total := libraryMatchRate(apps, lib)
+	if total != 3 {
+		t.Errorf("considered %d distinct records, want 3", total)
+	}
+	if matched != 2 {
+		t.Errorf("matched %d records to the saved library, want 2", matched)
+	}
+}
+
+func TestLibraryMatchRate_HandlesAnEmptyLibrary(t *testing.T) {
+	// A listener with no snapshot should get zero, not a division by zero.
+	apps := []vinyl.Appearance{{AlbumKey: "k", Album: "A", Artist: "B"}}
+	if matched, total := libraryMatchRate(apps, nil); matched != 0 || total != 1 {
+		t.Errorf("got %d/%d, want 0/1", matched, total)
+	}
+}

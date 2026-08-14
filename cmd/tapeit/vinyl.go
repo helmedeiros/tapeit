@@ -60,6 +60,10 @@ func cmdVinyl(ctx context.Context, args []string) error {
 	fmt.Printf("read %d appearances from %d–%d\n", len(apps), first, last)
 
 	lib0 := libraryDepth()
+	if matched, total := libraryMatchRate(apps, lib0); total > 0 {
+		fmt.Printf("saved library agrees on %d of %d records (%.0f%%)\n",
+			matched, total, 100*float64(matched)/float64(total))
+	}
 	meta, err := albumMetadata(ctx, client, apps, lib0, *refresh, *cachedOnly)
 	if err != nil {
 		return err

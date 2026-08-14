@@ -183,3 +183,33 @@ func lovedCounts(apps []vinyl.Appearance) map[string]int {
 	}
 	return out
 }
+
+// libraryMatchRate reports how many of the records a listener charted are also
+// found in their separately saved library, by key.
+//
+// The saved library carries real weight in the score, and it reaches the model
+// only through a key derived independently on each side: from Apple for the
+// charts, from Spotify for the library. A key that disagrees does not raise an
+// error — it reads as "you never saved this", which lowers a record's score for
+// a reason that has nothing to do with the listener.
+//
+// That makes it exactly the kind of assumption worth measuring rather than
+// trusting. A rate far below what a listener would recognise as true is a sign
+// the two sides have stopped agreeing about what one album is.
+func libraryMatchRate(apps []vinyl.Appearance, lib map[string]int) (matched, total int) {
+	seen := map[string]struct{}{}
+	for _, a := range apps {
+		if a.AlbumKey == "" {
+			continue
+		}
+		if _, dup := seen[a.AlbumKey]; dup {
+			continue
+		}
+		seen[a.AlbumKey] = struct{}{}
+		total++
+		if lib[a.AlbumKey] > 0 {
+			matched++
+		}
+	}
+	return matched, total
+}

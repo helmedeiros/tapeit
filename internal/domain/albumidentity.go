@@ -49,14 +49,32 @@ func BaseAlbumName(s string) string {
 
 // PrimaryArtist reduces a credit to its lead act, so the same record credited
 // "Dua Lipa" by one service and "Dua Lipa, DaBaby" by another is one artist.
+//
+// The conjunction is canonicalised before splitting, because services disagree
+// about whether a band writes "and" or "&" — "Edward Sharpe and the Magnetic
+// Zeros" against "Edward Sharpe & The Magnetic Zeros". That disagreement is
+// invisible where it matters: a key that differs raises no error, it reads as
+// "this listener never saved that record" and silently costs the album its
+// corroborating evidence.
+//
+// Splitting a band's own name at its ampersand is not a problem so long as both
+// services split it the same way. The key exists to be consistent, not to be a
+// correct rendering of the act.
 func PrimaryArtist(s string) string {
-	l := strings.ToLower(s)
+	l := canonicalConjunction(strings.ToLower(s))
 	for _, sep := range artistSeparators {
 		if i := strings.Index(l, sep); i > 0 {
 			l = l[:i]
 		}
 	}
 	return squashToAlphanumeric(l, false)
+}
+
+// canonicalConjunction rewrites a spelled-out "and" as "&" so both spellings
+// split identically. The spaces matter: without them this would cut "Andrew
+// Bird" and "Sandy Denny" into nonsense.
+func canonicalConjunction(s string) string {
+	return strings.ReplaceAll(s, " and ", " & ")
 }
 
 // AlbumKey is a stable identity for a record across services and editions. The

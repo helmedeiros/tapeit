@@ -89,3 +89,32 @@ func TestAlbumKey_KeepsSymbolOnlyTitlesDistinct(t *testing.T) {
 		t.Error("editions of a symbol-titled record should still fold together")
 	}
 }
+
+func TestPrimaryArtist_TreatsAndAndAmpersandAlike(t *testing.T) {
+	// Services disagree about whether a band writes "and" or "&", and the
+	// disagreement is invisible: a key that differs does not error, it reads as
+	// "this listener never saved that record" and quietly costs the album its
+	// corroboration. Canonicalising the conjunction before splitting makes both
+	// spellings land on the same key.
+	pairs := [][2]string{
+		{"Edward Sharpe and the Magnetic Zeros", "Edward Sharpe & The Magnetic Zeros"},
+		{"Florence and the Machine", "Florence & the Machine"},
+		{"Daryl Hall and John Oates", "Daryl Hall & John Oates"},
+		{"Nick Cave and the Bad Seeds", "Nick Cave & The Bad Seeds"},
+	}
+	for _, p := range pairs {
+		if got, want := PrimaryArtist(p[0]), PrimaryArtist(p[1]); got != want {
+			t.Errorf("PrimaryArtist(%q)=%q but PrimaryArtist(%q)=%q", p[0], got, p[1], want)
+		}
+	}
+}
+
+func TestPrimaryArtist_DoesNotSplitInsideAWord(t *testing.T) {
+	// "and" appears inside ordinary words; splitting on it there would truncate
+	// real artists into nonsense.
+	for _, in := range []string{"Andrew Bird", "Sandy Denny", "Bandalos Chinos"} {
+		if got := PrimaryArtist(in); got == "" || len(got) < 5 {
+			t.Errorf("PrimaryArtist(%q) = %q — split inside a word", in, got)
+		}
+	}
+}
