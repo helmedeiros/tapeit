@@ -1,6 +1,9 @@
 package domain
 
-import "context"
+import (
+	"context"
+	"errors"
+)
 
 // Confidence describes how sure we are that a Match is correct.
 type Confidence string
@@ -68,6 +71,39 @@ type CatalogPort interface {
 type TrackRef struct {
 	Title  string
 	Artist string
+	// Album is the record the library filed this track under. Ranked listening
+	// lists are track-shaped; recovering the album is what lets them be reasoned
+	// about as records.
+	Album string
+}
+
+// Album is catalog metadata about a record, independent of any listening.
+type Album struct {
+	ID            string
+	Name          string
+	Artist        string
+	TrackCount    int
+	RuntimeMS     int
+	IsCompilation bool
+}
+
+// ErrAlbumNotFound means the catalog answered and holds no such album — a
+// definitive result, safe to remember. Any other error means the question could
+// not be asked (rate limiting, network), which must never be cached as an
+// answer: a transient throttle would otherwise exclude the record for good.
+var ErrAlbumNotFound = errors.New("album not found in catalog")
+
+// AlbumPort resolves album metadata from the target catalog.
+type AlbumPort interface {
+	// Album returns the *standard* edition matching name and artist. Deluxe and
+	// anniversary editions pad the track count, which understates how much of a
+	// record a listener actually loves, so the smallest matching edition wins.
+	Album(ctx context.Context, name, artist string) (Album, error)
+	// AlbumRuntime totals an album's track durations. It is separate from Album
+	// because it costs an extra request per album, and runtime only decides
+	// single-versus-double LP — a question worth asking about a shortlist, not
+	// about every record the listener ever touched.
+	AlbumRuntime(ctx context.Context, albumID string) (int, error)
 }
 
 // LibraryPort reads and writes the user's target library.

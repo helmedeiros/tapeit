@@ -37,3 +37,29 @@ func TestSongDTOToDomain_KeepsPlayableSong(t *testing.T) {
 		t.Errorf("mapping lost data: %+v", got)
 	}
 }
+
+func TestBaseAlbumName_StripsEditionQualifiers(t *testing.T) {
+	// Coverage is measured against track count, so a deluxe edition matched to a
+	// standard album (or vice versa) silently distorts the score.
+	cases := map[string]string{
+		"Future Nostalgia (Deluxe)":                "future nostalgia",
+		"Everyday Robots (Special Edition)":        "everyday robots",
+		"FOUR (The Ultimate Edition)":              "four",
+		"Brothers (Deluxe Remastered Anniversary)": "brothers",
+		"El Camino":                             "el camino",
+		"Sgt. Pepper's Lonely Hearts Club Band": "sgt peppers lonely hearts club band",
+	}
+	for in, want := range cases {
+		if got := baseAlbumName(in); got != want {
+			t.Errorf("baseAlbumName(%q) = %q, want %q", in, got, want)
+		}
+	}
+}
+
+func TestBaseAlbumName_KeepsMeaningfulParentheses(t *testing.T) {
+	// Not every parenthetical is an edition marker; stripping them all would
+	// merge genuinely different records.
+	if got := baseAlbumName("This Must Be the Place (Naive Melody)"); got != "this must be the place naive melody" {
+		t.Errorf("meaningful parenthetical was stripped: %q", got)
+	}
+}

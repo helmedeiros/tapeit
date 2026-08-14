@@ -62,6 +62,8 @@ func run(ctx context.Context, args []string) error {
 		return cmdCurate(ctx, args[1:])
 	case "sequence":
 		return cmdSequence(args[1:])
+	case "vinyl":
+		return cmdVinyl(ctx, args[1:])
 	case "report":
 		return cmdReport(args[1:])
 	case "version", "--version":
@@ -91,6 +93,7 @@ Usage:
   tapeit enrich [--from FILE] [--dir DIR]  Add bpm/isrc to the JSON lists (Deezer)
   tapeit curate --seed A[,B,...] [--size N]  Build a playlist from your library
   tapeit sequence --from FILE [--flow smooth|arc]  Reorder a playlist by tempo
+  tapeit vinyl  [--size N] [--evaluate]    Rank albums worth owning on vinyl
   tapeit version
 
 Spotify redirect URI to register: ` + spotify.RedirectURI + `
