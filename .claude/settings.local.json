@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(make build *)",
+      "Bash(./bin/tapeit create *)",
+      "Bash(python3 -c \"import urllib.parse;print\\(urllib.parse.quote\\('The Vines Highly Evolved'\\)\\)\")",
+      "Bash(curl -s \"https://itunes.apple.com/search?term=$\\(python3 -c \"import urllib.parse;print\\(urllib.parse.quote\\('The Vines Highly Evolved'\\)\\)\"\\)&entity=song&limit=30&attribute=albumTerm\")",
+      "Bash(python3 -c \"import sys,json;d=json.load\\(sys.stdin\\);[print\\(r['trackName'],'|',r['artistName'],'|',r.get\\('collectionName'\\)\\) for r in d['results'] if r['artistName']=='The Vines']\")",
+      "Bash(python3 -c \"import urllib.parse;print\\(urllib.parse.quote\\('The Vines Vision Valley'\\)\\)\")",
+      "Bash(curl -s \"https://itunes.apple.com/search?term=$\\(python3 -c \"import urllib.parse;print\\(urllib.parse.quote\\('The Vines Vision Valley'\\)\\)\"\\)&entity=song&limit=30&attribute=albumTerm\")",
+      "Bash(python3 -c \"import urllib.parse;print\\(urllib.parse.quote\\('The Vines Winning Days'\\)\\)\")",
+      "Bash(curl -s \"https://itunes.apple.com/search?term=$\\(python3 -c \"import urllib.parse;print\\(urllib.parse.quote\\('The Vines Winning Days'\\)\\)\"\\)&entity=song&limit=30&attribute=albumTerm\")"
+    ]
+  }
+}

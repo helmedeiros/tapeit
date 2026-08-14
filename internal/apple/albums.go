@@ -179,20 +179,22 @@ func (c *Client) Album(ctx context.Context, name, artist string) (domain.Album, 
 	return best.toDomain(), nil
 }
 
-// AlbumRuntime implements domain.AlbumPort. The catalog exposes duration only
-// per track, so an album's runtime costs a request of its own.
-func (c *Client) AlbumRuntime(ctx context.Context, albumID string) (int, error) {
+// AlbumTracks implements domain.AlbumPort.
+func (c *Client) AlbumTracks(ctx context.Context, albumID string) ([]domain.AlbumTrack, error) {
 	if c.creds.Storefront == "" {
-		return 0, fmt.Errorf("storefront not set")
+		return nil, fmt.Errorf("storefront not set")
 	}
-	var tracks songsResponse
+	var resp songsResponse
 	u := fmt.Sprintf("%s/catalog/%s/albums/%s/tracks?limit=100", c.apiBase, c.creds.Storefront, albumID)
-	if err := c.do(ctx, http.MethodGet, u, nil, true, &tracks); err != nil {
-		return 0, err
+	if err := c.do(ctx, http.MethodGet, u, nil, true, &resp); err != nil {
+		return nil, err
 	}
-	total := 0
-	for _, t := range tracks.Data {
-		total += t.Attributes.DurationMillis
+	out := make([]domain.AlbumTrack, 0, len(resp.Data))
+	for _, t := range resp.Data {
+		out = append(out, domain.AlbumTrack{
+			Title:      t.Attributes.Name,
+			DurationMS: t.Attributes.DurationMillis,
+		})
 	}
-	return total, nil
+	return out, nil
 }

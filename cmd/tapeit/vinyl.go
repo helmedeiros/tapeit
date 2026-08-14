@@ -78,7 +78,7 @@ func cmdVinyl(ctx context.Context, args []string) error {
 	}
 
 	ranked := vinyl.Rank(vinyl.Aggregate(apps, meta, lib, o), o)
-	fillRuntimes(ctx, client, ranked, meta)
+	ranked = refineShortlist(ctx, client, ranked, meta, o)
 	printVinyl(ranked)
 	return nil
 }
@@ -214,34 +214,53 @@ func resolveAlbums(ctx context.Context, port domain.AlbumPort, need []albumRef,
 // its own retry backoff, which is far slower than simply going gently.
 const albumLookupPace = 250 * time.Millisecond
 
-// fillRuntimes fetches runtimes for the shortlist only. Runtime decides single
-// versus double LP, which is worth a request for twenty records and not worth
-// one for five hundred.
-func fillRuntimes(ctx context.Context, port domain.AlbumPort, ranked []vinyl.Scored, meta map[string]vinyl.AlbumMeta) {
-	changed := false
-	for i := range ranked {
-		id := ranked[i].CatalogID
-		if id == "" || ranked[i].RuntimeMin > 0 {
-			continue
+// refineShortlist reads each shortlisted record's track listing and re-scores
+// on what that pressing actually holds.
+//
+// One request per record answers both questions that decide a purchase: how
+// long it runs, and which of the listener's loved tracks are on this pressing
+// rather than on some other edition. Only the shortlist is worth that request.
+func refineShortlist(ctx context.Context, port domain.AlbumPort, ranked []vinyl.Scored,
+	meta map[string]vinyl.AlbumMeta, o vinyl.Options) []vinyl.Scored {
+	runtimes := map[string]int{}
+	refined := vinyl.Refine(ranked, func(s vinyl.Scored) ([]string, bool) {
+		if s.CatalogID == "" || ctx.Err() != nil {
+			return nil, false
 		}
 		time.Sleep(albumLookupPace)
-		ms, err := port.AlbumRuntime(ctx, id)
+		tracks, err := port.AlbumTracks(ctx, s.CatalogID)
 		if err != nil {
-			continue
+			// Unknown, not empty: leave the record as it was rather than zero it.
+			return nil, false
 		}
-		ranked[i].RuntimeMin = ms / 60000
-		ranked[i].DoubleLP = ranked[i].RuntimeMin > 70
-		for k, m := range meta {
-			if m.CatalogID == id {
-				m.RuntimeMin = ranked[i].RuntimeMin
-				meta[k] = m
-				changed = true
-			}
+		titles := make([]string, 0, len(tracks))
+		total := 0
+		for _, t := range tracks {
+			titles = append(titles, t.Title)
+			total += t.DurationMS
+		}
+		runtimes[s.CatalogID] = total / 60000
+		return titles, true
+	}, o)
+
+	changed := false
+	for i := range refined {
+		if mins, ok := runtimes[refined[i].CatalogID]; ok {
+			refined[i].RuntimeMin = mins
+			refined[i].DoubleLP = mins > vinyl.DoubleLPMinutes
+		}
+	}
+	for k, m := range meta {
+		if mins, ok := runtimes[m.CatalogID]; ok && m.RuntimeMin != mins {
+			m.RuntimeMin = mins
+			meta[k] = m
+			changed = true
 		}
 	}
 	if changed {
 		_ = saveAt(config.AlbumIndexPath, meta)
 	}
+	return refined
 }
 
 // albumRef names an album well enough to look it up, and carries the evidence

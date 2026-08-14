@@ -25,8 +25,19 @@ type Evidence struct {
 	Artist string
 
 	// LovedTracks is how many distinct tracks of this album appear anywhere in
-	// the ranked lists. Together with TrackCount this gives coverage.
+	// the ranked lists, across every edition. Together with TrackCount this
+	// gives coverage before the pressing has been checked.
 	LovedTracks int
+	// LovedTitles are those tracks by name, so a caller can ask which of them a
+	// particular pressing actually holds.
+	LovedTitles []string
+	// PressingTracks is how many loved tracks are on the pressing being judged,
+	// and PressingChecked says whether that was established. The two are
+	// separate because "none of them are on this edition" is a real answer and
+	// must not be mistaken for "not looked at yet" — a listener's loved tracks
+	// are gathered across editions, but they buy one record.
+	PressingTracks  int
+	PressingChecked bool
 	// Years are the distinct list years the album appeared in.
 	Years []int
 	// RankWeight sums each appearance's rank weight (top of a list counts more).
@@ -75,6 +86,10 @@ type Weights struct {
 func DefaultWeights() Weights {
 	return Weights{Coverage: 0.25, Persistence: 0.35, Recency: 0.15, Intensity: 0.10, Corroboration: 0.15}
 }
+
+// DoubleLPMinutes is where a record stops fitting on one disc, which changes
+// both what it costs and how often the listener gets up to turn it over.
+const DoubleLPMinutes = 70
 
 // compilationPenalty keeps hits collections in the running but far down: they
 // are real listening, and a poor thing to own as a record.
@@ -164,11 +179,11 @@ func (o Options) exclusion(e Evidence) string {
 // Score rates one album. maxRankWeight normalises intensity across the run; a
 // non-positive value disables the intensity term rather than dividing by zero.
 func Score(e Evidence, maxRankWeight float64, o Options) Scored {
-	s := Scored{Evidence: e, DoubleLP: e.RuntimeMin > 70}
+	s := Scored{Evidence: e, DoubleLP: e.RuntimeMin > DoubleLPMinutes}
 	s.Excluded = o.exclusion(e)
 
 	if e.TrackCount > 0 {
-		s.Observed = math.Min(float64(e.LovedTracks)/float64(e.TrackCount), 1)
+		s.Observed = math.Min(float64(e.lovedOnPressing())/float64(e.TrackCount), 1)
 		s.Coverage = effectiveCoverage(s.Observed, e.MeanRankWeight, o.CensoringCredit)
 		s.Corroboration = math.Min(float64(e.LibraryTracks)/float64(e.TrackCount), 1)
 	}
@@ -231,6 +246,16 @@ func effectiveCoverage(observed, meanRankWeight, credit float64) float64 {
 	}
 	inferred := (1 - observed) * observed * observed * meanRankWeight * credit
 	return math.Min(observed+inferred, 1)
+}
+
+// lovedOnPressing is how many loved tracks count toward this record's coverage:
+// what the pressing verifiably holds once checked, and the optimistic
+// across-editions count before that.
+func (e Evidence) lovedOnPressing() int {
+	if e.PressingChecked {
+		return e.PressingTracks
+	}
+	return e.LovedTracks
 }
 
 // persistence measures durability by *repeats*, not by presence: a record seen

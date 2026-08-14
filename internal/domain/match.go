@@ -97,6 +97,12 @@ type Album struct {
 // answer: a transient throttle would otherwise exclude the record for good.
 var ErrAlbumNotFound = errors.New("album not found in catalog")
 
+// AlbumTrack is one track as pressed on a release.
+type AlbumTrack struct {
+	Title      string
+	DurationMS int
+}
+
 // AlbumPort resolves album metadata from the target catalog.
 type AlbumPort interface {
 	// SongAlbums maps catalog song ids to the id of the album containing each.
@@ -108,11 +114,12 @@ type AlbumPort interface {
 	// anniversary editions pad the track count, which understates how much of a
 	// record a listener actually loves, so the smallest matching edition wins.
 	Album(ctx context.Context, name, artist string) (Album, error)
-	// AlbumRuntime totals an album's track durations. It is separate from Album
-	// because it costs an extra request per album, and runtime only decides
-	// single-versus-double LP — a question worth asking about a shortlist, not
-	// about every record the listener ever touched.
-	AlbumRuntime(ctx context.Context, albumID string) (int, error)
+	// AlbumTracks returns a release's track listing. It costs a request per
+	// album, so it is asked only about a shortlist — but it answers the two
+	// questions that decide a purchase: how long the record runs (one LP or
+	// two), and which of the listener's loved tracks are actually on this
+	// pressing rather than on some other edition.
+	AlbumTracks(ctx context.Context, albumID string) ([]AlbumTrack, error)
 }
 
 // LibraryPort reads and writes the user's target library.

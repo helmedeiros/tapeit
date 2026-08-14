@@ -74,6 +74,10 @@ func Aggregate(apps []Appearance, meta map[string]AlbumMeta, libraryDepth map[st
 	out := make([]Evidence, 0, len(byAlbum))
 	for key, e := range byAlbum {
 		e.ev.LovedTracks = len(e.tracks)
+		for tr := range e.tracks {
+			e.ev.LovedTitles = append(e.ev.LovedTitles, tr)
+		}
+		sort.Strings(e.ev.LovedTitles)
 		if e.n > 0 {
 			e.ev.MeanRankWeight = e.ev.RankWeight / float64(e.n)
 		}
