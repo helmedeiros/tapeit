@@ -327,18 +327,21 @@ func printVinyl(ranked []vinyl.Scored) {
 		fmt.Println("\nno albums qualified — try --include-soundtracks or a lower --min-tracks")
 		return
 	}
-	fmt.Printf("\n%-3s %-36s %-20s %5s %6s %5s %5s %5s %s\n",
-		"#", "album", "artist", "score", "loved", "years", "seen", "est", "format")
-	fmt.Println(strings.Repeat("-", 108))
+	fmt.Printf("\n%-3s %-34s %-19s %5s %6s %5s %5s %5s %5s %s\n",
+		"#", "album", "artist", "score", "loved", "years", "seen", "est", "saved", "format")
+	fmt.Println(strings.Repeat("-", 112))
 	for i, s := range ranked {
 		format := fmt.Sprintf("%dm", s.RuntimeMin)
 		if s.DoubleLP {
 			format += " 2LP"
 		}
-		fmt.Printf("%-3d %-36s %-20s %5.3f %3d/%-2d %5d %4.0f%% %4.0f%% %s\n",
-			i+1, truncate(s.Album, 36), truncate(s.Artist, 20), s.Score,
-			s.LovedTracks, s.TrackCount, len(s.Years), s.Observed*100, s.Coverage*100, format)
+		fmt.Printf("%-3d %-34s %-19s %5.3f %3d/%-2d %5d %4.0f%% %4.0f%% %4.0f%% %s\n",
+			i+1, truncate(s.Album, 34), truncate(s.Artist, 19), s.Score,
+			s.LovedTracks, s.TrackCount, len(s.Years),
+			s.Observed*100, s.Coverage*100, s.Corroboration*100, format)
 	}
 	fmt.Println("\nloved/seen = tracks of the record that reached your yearly lists")
-	fmt.Println("est        = share after crediting tracks that likely played just below the top-100 cutoff")
+	fmt.Println("est        = share after crediting tracks that likely played just below the cutoff")
+	fmt.Println("saved      = share of the record in your saved library — the reason a record with")
+	fmt.Println("             thin chart presence can still rank, since the lists stop at 100")
 }
