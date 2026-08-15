@@ -51,6 +51,12 @@ type Evidence struct {
 	// but it covers a short window and so evidences nothing about durability.
 	PlayedTracks int
 	Plays        int
+	// ReturnedTo says the listener came back to this record rather than hearing
+	// it once. Playing an album end to end a single time leaves every track at
+	// one play and looks, if you only count distinct tracks, exactly like
+	// devotion — so this is what separates a record someone lives with from one
+	// they gave a hearing.
+	ReturnedTo bool
 	// LibraryTracks is how many distinct tracks of this album are in the
 	// listener's separately saved library — an independent corroboration of
 	// devotion that ranked lists cannot provide, since they are truncated.
@@ -112,6 +118,10 @@ type Options struct {
 	// purchase from an album.
 	MinTracks     int
 	MinRuntimeMin int
+	// MinReplayedTracks is how many of a record's tracks must have been played
+	// more than once before its play history counts as evidence of devotion
+	// rather than of a single audition.
+	MinReplayedTracks int
 	// MinLovedTracks is how many of a record's tracks must have reached the
 	// ranked lists before it counts as a record the listener lives with rather
 	// than a single they liked. A listener who saved most of the album
@@ -134,7 +144,7 @@ type Options struct {
 func DefaultOptions(firstYear, lastYear int) Options {
 	return Options{
 		Size: 20, MaxPerArtist: 2,
-		MinTracks: 7, MinRuntimeMin: 25, MinLovedTracks: 2,
+		MinTracks: 7, MinRuntimeMin: 25, MinLovedTracks: 2, MinReplayedTracks: 1,
 		FirstYear: firstYear, LastYear: lastYear,
 		RankAlpha: DefaultRankAlpha, CensoringCredit: DefaultCensoringCredit,
 		Weights: DefaultWeights(),
@@ -312,7 +322,7 @@ func persistence(years int, o Options) float64 {
 // current of all — penalising it for being new, twice over.
 func recency(e Evidence, o Options) float64 {
 	if len(e.Years) == 0 {
-		if e.PlayedTracks > 0 {
+		if e.ReturnedTo {
 			return 1
 		}
 		return 0

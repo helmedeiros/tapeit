@@ -97,7 +97,7 @@ func TestScore_ARecordKnownOnlyFromPlaysIsCurrentByDefinition(t *testing.T) {
 	// backwards, and it is how a record released after the last charted year is
 	// penalised for being new twice over.
 	e := Evidence{Album: "moisturizer", Artist: "Wet Leg", LovedTracks: 10, PlayedTracks: 10,
-		Plays: 16, TrackCount: 12, RuntimeMin: 38}
+		Plays: 16, ReturnedTo: true, TrackCount: 12, RuntimeMin: 38}
 
 	got := Score(e, 16, DefaultOptions(2017, 2025))
 	if got.Recency != 1 {
@@ -120,5 +120,74 @@ func TestScore_ChartYearsStillDecideRecencyWhenPresent(t *testing.T) {
 	o := DefaultOptions(2017, 2025)
 	if Score(old, 4, o).Recency >= Score(recent, 4, o).Recency {
 		t.Error("a record last charted in 2017 is not as current as one charted in 2025")
+	}
+}
+
+func TestAggregate_AnAlbumPlayedOnceThroughIsAnAuditionNotARelationship(t *testing.T) {
+	// Playing a record end to end once says you gave it a hearing. It looks
+	// identical to devotion if you only count distinct tracks — every track
+	// present, perfect coverage — which is how records the listener does not
+	// listen to reached a shortlist meant for records they live with.
+	//
+	// Coming back to it is the difference, and the play counts record it: an
+	// audition leaves every track at one play.
+	audition := []Play{}
+	for _, tr := range []string{"a", "b", "c", "d", "e", "f", "g", "h", "i"} {
+		audition = append(audition, Play{Track: tr, AlbumKey: "wl", Album: "Wasting Light",
+			Artist: "Foo Fighters", Count: 1})
+	}
+	meta := map[string]AlbumMeta{"wl": {TrackCount: 11, RuntimeMin: 47}}
+
+	got := Aggregate(nil, audition, meta, map[string]int{}, DefaultOptions(2017, 2025))
+	if len(got) == 1 && got[0].LovedTracks > 0 {
+		t.Errorf("a single hearing must not read as loving nine tracks: %+v", got[0])
+	}
+}
+
+func TestAggregate_AdmitsPlaysOnceTheListenerCameBack(t *testing.T) {
+	// moisturizer: ten tracks played, six of them more than once.
+	plays := []Play{
+		{Track: "a", AlbumKey: "m", Album: "moisturizer", Artist: "Wet Leg", Count: 3},
+		{Track: "b", AlbumKey: "m", Album: "moisturizer", Artist: "Wet Leg", Count: 2},
+		{Track: "c", AlbumKey: "m", Album: "moisturizer", Artist: "Wet Leg", Count: 1},
+	}
+	got := Aggregate(nil, plays, map[string]AlbumMeta{"m": {TrackCount: 12}}, map[string]int{},
+		DefaultOptions(2017, 2025))
+	if len(got) != 1 || got[0].LovedTracks != 3 {
+		t.Fatalf("a record returned to should count all its played tracks: %+v", got)
+	}
+	if !got[0].ReturnedTo {
+		t.Error("the record was returned to and should say so")
+	}
+}
+
+func TestAggregate_AnAuditionDoesNotDilutePresentChartEvidence(t *testing.T) {
+	// El Camino charts across five years and was also played once through. The
+	// single hearing adds nothing, but must not take away what the charts said.
+	apps := []Appearance{
+		{Year: 2019, Rank: 11, Size: 100, Track: "lonely boy", AlbumKey: "ec", Album: "El Camino", Artist: "The Black Keys"},
+		{Year: 2021, Rank: 40, Size: 100, Track: "gold on the ceiling", AlbumKey: "ec", Album: "El Camino", Artist: "The Black Keys"},
+	}
+	plays := []Play{
+		{Track: "little black submarines", AlbumKey: "ec", Album: "El Camino", Artist: "The Black Keys", Count: 1},
+		{Track: "dead and gone", AlbumKey: "ec", Album: "El Camino", Artist: "The Black Keys", Count: 1},
+	}
+	got := Aggregate(apps, plays, map[string]AlbumMeta{"ec": {TrackCount: 11}}, map[string]int{},
+		DefaultOptions(2017, 2025))
+	if got[0].LovedTracks != 2 {
+		t.Errorf("loved tracks = %d, want the 2 charted ones and neither audition track", got[0].LovedTracks)
+	}
+	if len(got[0].Years) != 2 {
+		t.Errorf("chart years must survive: %v", got[0].Years)
+	}
+}
+
+func TestScore_AnAuditionIsNotEvidenceOfBeingCurrent(t *testing.T) {
+	// Recency is granted to play evidence because plays are recent. A single
+	// hearing is recent too, and means nothing, so it must not earn it.
+	e := Evidence{Album: "Heard Once", Artist: "X", LovedTracks: 4, TrackCount: 11,
+		RuntimeMin: 40, PlayedTracks: 9, Plays: 9, ReturnedTo: false}
+	if got := Score(e, 9, DefaultOptions(2017, 2025)); got.Recency != 0 {
+		t.Errorf("recency = %.2f, want 0 for a record heard once and not returned to", got.Recency)
 	}
 }

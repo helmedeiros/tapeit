@@ -78,82 +78,126 @@ func RankWeight(rank, size int, alpha float64) float64 {
 
 // Aggregate folds raw appearances into per-album evidence. libraryDepth counts
 // distinct tracks per album key in the listener's separately saved library.
-func Aggregate(apps []Appearance, plays []Play, meta map[string]AlbumMeta,
-	libraryDepth map[string]int, o Options) []Evidence {
-	type acc struct {
-		ev     Evidence
-		tracks map[string]struct{}
-		played map[string]struct{}
-		years  map[int]struct{}
-		n      int
-	}
-	byAlbum := map[string]*acc{}
-	get := func(key, album, artist string) *acc {
-		e, ok := byAlbum[key]
-		if !ok {
-			e = &acc{
-				ev:     Evidence{Album: album, Artist: artist},
-				tracks: map[string]struct{}{}, played: map[string]struct{}{}, years: map[int]struct{}{},
-			}
-			byAlbum[key] = e
+// albumEvidence accumulates one record's evidence while it is being gathered.
+type albumEvidence struct {
+	ev     Evidence
+	tracks map[string]struct{} // charted
+	played map[string]struct{} // played, once admitted
+	years  map[int]struct{}
+	ranked int // how many chart appearances, for the mean rank weight
+}
+
+// evidenceSet gathers records as each source names them.
+type evidenceSet map[string]*albumEvidence
+
+func (s evidenceSet) get(key, album, artist string) *albumEvidence {
+	e, ok := s[key]
+	if !ok {
+		e = &albumEvidence{
+			ev:     Evidence{Album: album, Artist: artist},
+			tracks: map[string]struct{}{}, played: map[string]struct{}{}, years: map[int]struct{}{},
 		}
-		return e
+		s[key] = e
 	}
+	return e
+}
+
+// addAppearances folds in what the ranked lists say.
+func (s evidenceSet) addAppearances(apps []Appearance, o Options) {
 	for _, a := range apps {
 		if a.AlbumKey == "" {
 			continue
 		}
-		e := get(a.AlbumKey, a.Album, a.Artist)
+		e := s.get(a.AlbumKey, a.Album, a.Artist)
 		e.tracks[a.Track] = struct{}{}
 		e.years[a.Year] = struct{}{}
 		e.ev.RankWeight += RankWeight(a.Rank, a.Size, o.RankAlpha)
-		e.n++
+		e.ranked++
 	}
-	// Plays name tracks the charts had no room for, and records the charts never
-	// saw at all — anything released after the last charted year. They add to
-	// what is known about a record's breadth, and deliberately nothing to its
-	// years: a fortnight's obsession must not read as a relationship.
+}
+
+// addPlays folds in what the play history says, keeping it only for records the
+// listener came back to.
+func (s evidenceSet) addPlays(plays []Play, o Options) {
+	replayed := map[string]int{}
 	for _, p := range plays {
 		if p.AlbumKey == "" || p.Count <= 0 {
 			continue
 		}
-		e := get(p.AlbumKey, p.Album, p.Artist)
+		e := s.get(p.AlbumKey, p.Album, p.Artist)
 		e.played[p.Track] = struct{}{}
 		e.ev.Plays += p.Count
+		if p.Count > 1 {
+			replayed[p.AlbumKey]++
+		}
 	}
+	for key, e := range s {
+		e.ev.ReturnedTo, e.played = admitPlays(e.played, replayed[key], o)
+	}
+}
 
-	out := make([]Evidence, 0, len(byAlbum))
-	for key, e := range byAlbum {
-		e.ev.PlayedTracks = len(e.played)
-		loved := make(map[string]struct{}, len(e.tracks)+len(e.played))
-		for tr := range e.tracks {
-			loved[tr] = struct{}{}
-		}
-		for tr := range e.played {
-			loved[tr] = struct{}{}
-		}
-		e.ev.LovedTracks = len(loved)
-		for tr := range loved {
-			e.ev.LovedTitles = append(e.ev.LovedTitles, tr)
-		}
-		sort.Strings(e.ev.LovedTitles)
-		if e.n > 0 {
-			e.ev.MeanRankWeight = e.ev.RankWeight / float64(e.n)
-		}
-		for y := range e.years {
-			e.ev.Years = append(e.ev.Years, y)
-		}
-		sort.Ints(e.ev.Years)
-		e.ev.LibraryTracks = libraryDepth[key]
-		if m, ok := meta[key]; ok {
-			e.ev.TrackCount, e.ev.RuntimeMin = m.TrackCount, m.RuntimeMin
-			e.ev.IsCompilation, e.ev.IsSoundtrack = m.IsCompilation, m.IsSoundtrack
-			e.ev.CatalogID = m.CatalogID
-		}
-		out = append(out, e.ev)
+// finish resolves one record's gathered evidence into the value the model scores.
+func (e *albumEvidence) finish(key string, meta map[string]AlbumMeta, libraryDepth map[string]int) Evidence {
+	e.ev.PlayedTracks = len(e.played)
+	loved := make(map[string]struct{}, len(e.tracks)+len(e.played))
+	for tr := range e.tracks {
+		loved[tr] = struct{}{}
+	}
+	for tr := range e.played {
+		loved[tr] = struct{}{}
+	}
+	e.ev.LovedTracks = len(loved)
+	for tr := range loved {
+		e.ev.LovedTitles = append(e.ev.LovedTitles, tr)
+	}
+	sort.Strings(e.ev.LovedTitles)
+	if e.ranked > 0 {
+		e.ev.MeanRankWeight = e.ev.RankWeight / float64(e.ranked)
+	}
+	for y := range e.years {
+		e.ev.Years = append(e.ev.Years, y)
+	}
+	sort.Ints(e.ev.Years)
+	e.ev.LibraryTracks = libraryDepth[key]
+	if m, ok := meta[key]; ok {
+		e.ev.TrackCount, e.ev.RuntimeMin = m.TrackCount, m.RuntimeMin
+		e.ev.IsCompilation, e.ev.IsSoundtrack = m.IsCompilation, m.IsSoundtrack
+		e.ev.CatalogID = m.CatalogID
+	}
+	return e.ev
+}
+
+// Aggregate folds every source of evidence into one record per album: what the
+// ranked lists charted, what the play history says was actually reached for,
+// and how much of it the listener separately saved.
+func Aggregate(apps []Appearance, plays []Play, meta map[string]AlbumMeta,
+	libraryDepth map[string]int, o Options) []Evidence {
+	set := evidenceSet{}
+	set.addAppearances(apps, o)
+	set.addPlays(plays, o)
+
+	out := make([]Evidence, 0, len(set))
+	for key, e := range set {
+		out = append(out, e.finish(key, meta, libraryDepth))
 	}
 	sort.Slice(out, func(i, j int) bool { return out[i].Album < out[j].Album })
 	return out
+}
+
+// admitPlays decides whether a record's play history counts as evidence of
+// devotion, and discards it when it does not.
+//
+// A record played end to end once leaves every one of its tracks at a single
+// play. Counted by distinct tracks that is indistinguishable from devotion —
+// every track present, perfect coverage — which is how records a listener
+// merely auditioned reached a shortlist meant for records they live with.
+// Coming back to it is the difference, and the counts record it.
+func admitPlays(played map[string]struct{}, replayed int, o Options) (bool, map[string]struct{}) {
+	returned := replayed >= o.MinReplayedTracks
+	if len(played) > 0 && !returned {
+		return false, map[string]struct{}{}
+	}
+	return returned, played
 }
 
 // YearResult is one held-out year's outcome.
