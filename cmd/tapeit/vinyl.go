@@ -406,8 +406,8 @@ func printVinyl(ranked []vinyl.Scored, meta map[string]vinyl.AlbumMeta) {
 		fmt.Println("\nno albums qualified — try --include-soundtracks or a lower --min-tracks")
 		return
 	}
-	fmt.Printf("\n%-3s %-34s %-19s %5s %6s %5s %5s %5s %5s %s\n",
-		"#", "album", "artist", "score", "loved", "years", "seen", "est", "saved", "format")
+	fmt.Printf("\n%-3s %-32s %-18s %5s %6s %4s %5s %5s %6s %s\n",
+		"#", "album", "artist", "score", "loved", "yrs", "cover", "saved", "plays", "format")
 	fmt.Println(strings.Repeat("-", 112))
 	for i, s := range ranked {
 		format := fmt.Sprintf("%dm", s.RuntimeMin)
@@ -418,15 +418,17 @@ func printVinyl(ranked []vinyl.Scored, meta map[string]vinyl.AlbumMeta) {
 		if m, ok := meta[vinyl.AlbumKey(s.Album, s.Artist)]; ok && m.Name != "" {
 			name = m.Name
 		}
-		fmt.Printf("%-3d %-34s %-19s %5.3f %3d/%-2d %5d %4.0f%% %4.0f%% %4.0f%% %s\n",
-			i+1, truncate(name, 34), truncate(s.Artist, 19), s.Score,
+		fmt.Printf("%-3d %-32s %-18s %5.3f %3d/%-2d %4d %4.0f%% %4.0f%% %6.0f %s\n",
+			i+1, truncate(name, 32), truncate(s.Artist, 18), s.Score,
 			s.LovedTracks, s.TrackCount, len(s.Years),
-			s.Observed*100, s.Coverage*100, s.Corroboration*100, format)
+			s.Coverage*100, s.Corroboration*100, s.EstimatedPlays, format)
 	}
-	fmt.Println("\nloved/seen = tracks of the record that reached your yearly lists")
-	fmt.Println("est        = share after crediting tracks that likely played just below the cutoff")
-	fmt.Println("saved      = share of the record in your saved library — the reason a record with")
-	fmt.Println("             thin chart presence can still rank, since the lists stop at 100")
+	fmt.Println("\nloved = tracks of the record you demonstrably like, from charts and plays")
+	fmt.Println("cover = share of the record that is, after crediting tracks just below the cutoff")
+	fmt.Println("saved = share of it in your saved library, which is why a record thin in the")
+	fmt.Println("        charts can still rank — the yearly lists stop at 100")
+	fmt.Printf("plays = estimated times listened, taking the top of a yearly chart as ~%d plays\n",
+		vinyl.TopPlaysPerYear)
 }
 
 // printExclusions names the records that were kept off the list, and why.

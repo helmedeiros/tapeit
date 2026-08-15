@@ -112,6 +112,7 @@ func (s evidenceSet) addAppearances(apps []Appearance, o Options) {
 		e.tracks[a.Track] = struct{}{}
 		e.years[a.Year] = struct{}{}
 		e.ev.RankWeight += RankWeight(a.Rank, a.Size, o.RankAlpha)
+		e.ev.EstimatedPlays += EstimatedPlaysAt(a.Rank, a.Size, o)
 		e.ranked++
 	}
 }
@@ -127,6 +128,7 @@ func (s evidenceSet) addPlays(plays []Play, o Options) {
 		e := s.get(p.AlbumKey, p.Album, p.Artist)
 		e.played[p.Track] = struct{}{}
 		e.ev.Plays += p.Count
+		e.ev.EstimatedPlays += float64(p.Count)
 		if p.Count > 1 {
 			replayed[p.AlbumKey]++
 		}

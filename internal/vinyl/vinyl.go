@@ -41,6 +41,11 @@ type Evidence struct {
 	Years []int
 	// RankWeight sums each appearance's rank weight (top of a list counts more).
 	RankWeight float64
+	// EstimatedPlays is roughly how many times this record's tracks have been
+	// listened to: what the chart ranks imply, plus what the play history counts
+	// outright. It is the quantity the shortlist exists to maximise — time spent
+	// enjoying a record — expressed in the only unit both sources can share.
+	EstimatedPlays float64
 	// MeanRankWeight is the average strength of this album's observed tracks. It
 	// says how high in the lists the record sits, which is what licenses any
 	// inference about the tracks that never surfaced.
@@ -85,17 +90,34 @@ type Weights struct {
 	Corroboration float64
 }
 
-// DefaultWeights favours persistence over coverage: a record is a permanent
-// object, so a listener's five-year relationship with it is stronger evidence
-// than one year of obsession. Recency then separates a live obsession from a
-// faded one — both span a single year, but only one is still true.
+// DefaultWeights encodes the listener's own ordering.
 //
-// Intensity is deliberately small. It measures how high the tracks ranked,
-// which an album with high coverage will score well on almost by construction —
-// weighting both heavily counts the same fact twice and lets a single year of
-// obsession outrank a decade-long relationship.
+// Persistence leads: a record is a permanent object, so a relationship spanning
+// years sits above everything, whatever a single year's enthusiasm says.
+//
+// Coverage and intensity then balance breadth against depth. A record with more
+// loved tracks should win — more of it is worth hearing — but not so decisively
+// that the handful of songs played relentlessly are left behind, which is what
+// happened when intensity was a tenth of the score. Intensity is now a real
+// quantity rather than a normalised abstraction, because the listener could say
+// what the top of a yearly chart is worth in plays.
+//
+// Recency lifts what is current enough to reach the list on its own merits, and
+// not so far that it displaces what has been loved for a decade.
 func DefaultWeights() Weights {
-	return Weights{Coverage: 0.25, Persistence: 0.35, Recency: 0.15, Intensity: 0.10, Corroboration: 0.15}
+	return Weights{Coverage: 0.24, Persistence: 0.32, Recency: 0.14, Intensity: 0.18, Corroboration: 0.12}
+}
+
+// TopPlaysPerYear is roughly how often the songs at the top of a yearly chart
+// were actually played that year. It is the listener's own estimate, and it is
+// what lets a rank — an ordering, not a measurement — be read as listening.
+const TopPlaysPerYear = 80
+
+// EstimatedPlaysAt converts a chart position into the listening it implies,
+// following the same power law as RankWeight and scaled so first place is worth
+// TopPlaysPerYear.
+func EstimatedPlaysAt(rank, size int, o Options) float64 {
+	return TopPlaysPerYear * RankWeight(rank, size, o.RankAlpha)
 }
 
 // DoubleLPMinutes is where a record stops fitting on one disc, which changes
@@ -207,9 +229,9 @@ func (o Options) exclusion(e Evidence) string {
 	}
 }
 
-// Score rates one album. maxRankWeight normalises intensity across the run; a
-// non-positive value disables the intensity term rather than dividing by zero.
-func Score(e Evidence, maxRankWeight float64, o Options) Scored {
+// Score rates one album. maxEstimatedPlays normalises intensity across the run;
+// a non-positive value disables that term rather than dividing by zero.
+func Score(e Evidence, maxEstimatedPlays float64, o Options) Scored {
 	s := Scored{Evidence: e, DoubleLP: e.RuntimeMin > DoubleLPMinutes}
 	s.Excluded = o.exclusion(e)
 
@@ -220,8 +242,11 @@ func Score(e Evidence, maxRankWeight float64, o Options) Scored {
 	}
 	s.Persistence = persistence(len(e.Years), o)
 	s.Recency = recency(e, o)
-	if maxRankWeight > 0 {
-		s.Intensity = math.Min(e.RankWeight/maxRankWeight, 1)
+	// Compressed with a square root: without it, one record played enormously
+	// more than the rest drives every other intensity to nearly zero, quietly
+	// turning a five-signal model into a four-signal one.
+	if maxEstimatedPlays > 0 {
+		s.Intensity = math.Sqrt(math.Min(e.EstimatedPlays/maxEstimatedPlays, 1))
 	}
 
 	w := o.Weights
@@ -357,8 +382,8 @@ func Rank(ev []Evidence, o Options) []Scored {
 func RankWithExclusions(ev []Evidence, o Options) (ranked, excluded []Scored) {
 	maxRW := 0.0
 	for _, e := range ev {
-		if e.RankWeight > maxRW {
-			maxRW = e.RankWeight
+		if e.EstimatedPlays > maxRW {
+			maxRW = e.EstimatedPlays
 		}
 	}
 	scored := make([]Scored, 0, len(ev))
