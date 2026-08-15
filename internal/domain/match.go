@@ -101,6 +101,24 @@ type Album struct {
 // answer: a transient throttle would otherwise exclude the record for good.
 var ErrAlbumNotFound = errors.New("album not found in catalog")
 
+// PlayedTrack is one recording and how often the listener has played it.
+type PlayedTrack struct {
+	Title  string
+	Artist string
+	Album  string
+	Count  int
+}
+
+// PlayCountPort reads how often the listener has played each track.
+//
+// It is a distinct port from the library because it answers a distinct
+// question. A library says what someone chose to keep; a play count says what
+// they actually reached for, including tracks no ranked list had room for and
+// records released after the last list was drawn.
+type PlayCountPort interface {
+	PlayCounts(ctx context.Context) ([]PlayedTrack, error)
+}
+
 // AlbumTrack is one track as pressed on a release.
 type AlbumTrack struct {
 	Title      string

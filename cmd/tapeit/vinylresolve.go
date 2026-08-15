@@ -30,8 +30,9 @@ const albumLookupPace = 250 * time.Millisecond
 // an id is still a track the listener loves, and dropping it would quietly
 // understate the record.
 func resolveAlbums(ctx context.Context, port domain.AlbumPort, apps []vinyl.Appearance,
-	cache map[string]vinyl.AlbumMeta, lib map[string]int, pace time.Duration) (map[string]vinyl.AlbumMeta, error) {
-	need, skipped := candidatesToResolve(apps, cache, lib)
+	plays []vinyl.Play, cache map[string]vinyl.AlbumMeta, lib map[string]int,
+	pace time.Duration) (map[string]vinyl.AlbumMeta, error) {
+	need, skipped := candidatesToResolve(apps, plays, cache, lib)
 	if skipped > 0 {
 		fmt.Printf("skipping %d albums with a single track in a single year and no library depth\n", skipped)
 	}
@@ -44,10 +45,10 @@ func resolveAlbums(ctx context.Context, port domain.AlbumPort, apps []vinyl.Appe
 	for _, r := range need {
 		wanted[r.key] = r
 	}
-	editions := exactEditions(ctx, port, apps, wanted)
+	editions := exactEditions(ctx, port, apps, plays, wanted)
 	searchEditions(ctx, port, wanted, editions, cache, pace)
 
-	loved := lovedCounts(apps)
+	loved := lovedCounts(apps, plays)
 	for key, eds := range editions {
 		chosen, ok := vinyl.ChooseEdition(eds, loved[key])
 		if !ok {
@@ -71,7 +72,7 @@ func resolveAlbums(ctx context.Context, port domain.AlbumPort, apps []vinyl.Appe
 // exactEditions reads albums straight from the recordings, which is both the
 // cheap path and the only one that cannot pick the wrong record.
 func exactEditions(ctx context.Context, port domain.AlbumPort, apps []vinyl.Appearance,
-	wanted map[string]albumRef) map[string][]vinyl.Edition {
+	_ []vinyl.Play, wanted map[string]albumRef) map[string][]vinyl.Edition {
 	songIDs := make([]string, 0, len(apps))
 	seen := map[string]struct{}{}
 	for _, a := range apps {
@@ -174,13 +175,22 @@ func toEdition(a domain.Album) vinyl.Edition {
 // lovedCounts is how many distinct tracks of each record the listener loves. It
 // is the lower bound that keeps ChooseEdition from picking an edition too small
 // to be the one they were listening to.
-func lovedCounts(apps []vinyl.Appearance) map[string]int {
+func lovedCounts(apps []vinyl.Appearance, plays []vinyl.Play) map[string]int {
 	tracks := map[string]map[string]struct{}{}
-	for _, a := range apps {
-		if tracks[a.AlbumKey] == nil {
-			tracks[a.AlbumKey] = map[string]struct{}{}
+	add := func(key, track string) {
+		if key == "" {
+			return
 		}
-		tracks[a.AlbumKey][a.Track] = struct{}{}
+		if tracks[key] == nil {
+			tracks[key] = map[string]struct{}{}
+		}
+		tracks[key][track] = struct{}{}
+	}
+	for _, a := range apps {
+		add(a.AlbumKey, a.Track)
+	}
+	for _, p := range plays {
+		add(p.AlbumKey, p.Track)
 	}
 	out := make(map[string]int, len(tracks))
 	for k, v := range tracks {

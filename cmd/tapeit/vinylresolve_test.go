@@ -86,7 +86,7 @@ func TestResolveAlbums_PrefersTheExactPathOverSearching(t *testing.T) {
 		f.songAlbums[a.CatalogID] = "alb-1"
 	}
 
-	got, err := resolveAlbums(context.Background(), f, apps, map[string]vinyl.AlbumMeta{}, map[string]int{}, 0)
+	got, err := resolveAlbums(context.Background(), f, apps, nil, map[string]vinyl.AlbumMeta{}, map[string]int{}, 0)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -108,7 +108,7 @@ func TestResolveAlbums_FallsBackToSearchForTracksWithoutCatalogIDs(t *testing.T)
 		"Wet Leg|Wet Leg": {ID: "alb-2", Name: "Wet Leg", Artist: "Wet Leg", TrackCount: 12},
 	}}
 
-	got, err := resolveAlbums(context.Background(), f, apps, map[string]vinyl.AlbumMeta{}, map[string]int{}, 0)
+	got, err := resolveAlbums(context.Background(), f, apps, nil, map[string]vinyl.AlbumMeta{}, map[string]int{}, 0)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -137,7 +137,7 @@ func TestResolveAlbums_ChoosesAnEditionBigEnoughForWhatWasHeard(t *testing.T) {
 		}
 	}
 
-	got, err := resolveAlbums(context.Background(), f, apps, map[string]vinyl.AlbumMeta{}, map[string]int{}, 0)
+	got, err := resolveAlbums(context.Background(), f, apps, nil, map[string]vinyl.AlbumMeta{}, map[string]int{}, 0)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -156,7 +156,7 @@ func TestResolveAlbums_DoesNotCacheTransientFailures(t *testing.T) {
 	f.byName = nil
 
 	cache := map[string]vinyl.AlbumMeta{}
-	got, err := resolveAlbums(context.Background(), f, apps, cache, map[string]int{}, 0)
+	got, err := resolveAlbums(context.Background(), f, apps, nil, cache, map[string]int{}, 0)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -178,7 +178,7 @@ func TestResolveAlbums_SurvivesAnUnavailableExactPath(t *testing.T) {
 		},
 	}
 
-	got, err := resolveAlbums(context.Background(), f, apps, map[string]vinyl.AlbumMeta{}, map[string]int{}, 0)
+	got, err := resolveAlbums(context.Background(), f, apps, nil, map[string]vinyl.AlbumMeta{}, map[string]int{}, 0)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -201,7 +201,7 @@ func TestResolveAlbums_SkipsAlbumsThatCannotPlace(t *testing.T) {
 		"alb": {ID: "alb", Name: "Passing Fancy", Artist: "Someone", TrackCount: 10},
 	}}
 
-	got, err := resolveAlbums(context.Background(), f, apps, map[string]vinyl.AlbumMeta{}, map[string]int{}, 0)
+	got, err := resolveAlbums(context.Background(), f, apps, nil, map[string]vinyl.AlbumMeta{}, map[string]int{}, 0)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -244,5 +244,32 @@ func TestLibraryMatchRate_HandlesAnEmptyLibrary(t *testing.T) {
 	apps := []vinyl.Appearance{{AlbumKey: "k", Album: "A", Artist: "B"}}
 	if matched, total := libraryMatchRate(apps, nil); matched != 0 || total != 1 {
 		t.Errorf("got %d/%d, want 0/1", matched, total)
+	}
+}
+
+func TestResolveAlbums_ConsidersARecordKnownOnlyFromPlays(t *testing.T) {
+	// A record released after the last charted year has no chart presence at
+	// all. Without play evidence it could never even become a candidate, however
+	// much its owner plays it — which is how a favourite album goes missing from
+	// a shortlist without appearing anywhere as excluded.
+	plays := []vinyl.Play{
+		{Track: "catch these fists", AlbumKey: vinyl.AlbumKey("moisturizer", "Wet Leg"),
+			Album: "moisturizer", Artist: "Wet Leg", Count: 4},
+		{Track: "mangetout", AlbumKey: vinyl.AlbumKey("moisturizer", "Wet Leg"),
+			Album: "moisturizer", Artist: "Wet Leg", Count: 3},
+		{Track: "davina mccall", AlbumKey: vinyl.AlbumKey("moisturizer", "Wet Leg"),
+			Album: "moisturizer", Artist: "Wet Leg", Count: 2},
+	}
+	f := &fakeAlbums{byName: map[string]domain.Album{
+		"moisturizer|Wet Leg": {ID: "m1", Name: "moisturizer", Artist: "Wet Leg", TrackCount: 12},
+	}}
+
+	got, err := resolveAlbums(context.Background(), f, nil, plays,
+		map[string]vinyl.AlbumMeta{}, map[string]int{}, 0)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if meta := got[vinyl.AlbumKey("moisturizer", "Wet Leg")]; meta.TrackCount != 12 {
+		t.Errorf("a played-but-never-charted record was not considered: %+v", meta)
 	}
 }

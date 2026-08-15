@@ -15,6 +15,7 @@ import (
 	"github.com/helmedeiros/tapeit/internal/apple"
 	"github.com/helmedeiros/tapeit/internal/config"
 	"github.com/helmedeiros/tapeit/internal/domain"
+	"github.com/helmedeiros/tapeit/internal/musicapp"
 	"github.com/helmedeiros/tapeit/internal/vinyl"
 )
 
@@ -59,12 +60,13 @@ func cmdVinyl(ctx context.Context, args []string) error {
 	}
 	fmt.Printf("read %d appearances from %d–%d\n", len(apps), first, last)
 
+	plays := playCounts(ctx, musicapp.NewReader())
 	lib0 := libraryDepth()
 	if matched, total := libraryMatchRate(apps, lib0); total > 0 {
 		fmt.Printf("saved library agrees on %d of %d records (%.0f%%)\n",
 			matched, total, 100*float64(matched)/float64(total))
 	}
-	meta, err := albumMetadata(ctx, client, apps, lib0, creds.Storefront, *refresh, *cachedOnly)
+	meta, err := albumMetadata(ctx, client, apps, plays, lib0, creds.Storefront, *refresh, *cachedOnly)
 	if err != nil {
 		return err
 	}
@@ -81,7 +83,7 @@ func cmdVinyl(ctx context.Context, args []string) error {
 		fmt.Println()
 	}
 
-	ranked, excluded := vinyl.RankWithExclusions(vinyl.Aggregate(apps, meta, lib, o), o)
+	ranked, excluded := vinyl.RankWithExclusions(vinyl.Aggregate(apps, plays, meta, lib, o), o)
 	ranked = refineShortlist(ctx, client, ranked, meta, o, creds.Storefront)
 	printVinyl(ranked)
 	printExclusions(excluded, lib)
@@ -139,7 +141,8 @@ func readRankedLists(ctx context.Context, lib domain.LibraryPort, match string) 
 // albumMetadata resolves each candidate album once, caching to the config dir so
 // repeat runs cost no catalog lookups.
 func albumMetadata(ctx context.Context, port domain.AlbumPort, apps []vinyl.Appearance,
-	lib map[string]int, storefront string, refresh, cachedOnly bool) (map[string]vinyl.AlbumMeta, error) {
+	plays []vinyl.Play, lib map[string]int, storefront string,
+	refresh, cachedOnly bool) (map[string]vinyl.AlbumMeta, error) {
 	path, err := config.AlbumIndexPath()
 	if err != nil {
 		return nil, err
@@ -151,14 +154,14 @@ func albumMetadata(ctx context.Context, port domain.AlbumPort, apps []vinyl.Appe
 	if cachedOnly {
 		// Ranking from what is already known is always possible; a throttled
 		// catalog should degrade the shortlist, not block it.
-		if need, _ := candidatesToResolve(apps, cache, lib); len(need) > 0 {
+		if need, _ := candidatesToResolve(apps, plays, cache, lib); len(need) > 0 {
 			fmt.Printf("cached-only: %d candidate albums remain unresolved and cannot place\n", len(need))
 		}
 		return cache, nil
 	}
 
 	before := len(cache)
-	cache, err = resolveAlbums(ctx, port, apps, cache, lib, albumLookupPace)
+	cache, err = resolveAlbums(ctx, port, apps, plays, cache, lib, albumLookupPace)
 	if err != nil {
 		return nil, err
 	}
@@ -289,19 +292,32 @@ func (r albumRef) moreEvidenceThan(o albumRef) bool {
 //
 // A silent cap reads as "considered everything" when it did not, so the skipped
 // count comes back for the caller to say out loud.
-func candidatesToResolve(apps []vinyl.Appearance, cache map[string]vinyl.AlbumMeta,
-	lib map[string]int) ([]albumRef, int) {
+func candidatesToResolve(apps []vinyl.Appearance, plays []vinyl.Play,
+	cache map[string]vinyl.AlbumMeta, lib map[string]int) ([]albumRef, int) {
 	tracks := map[string]map[string]struct{}{}
 	years := map[string]map[int]struct{}{}
 	names := map[string]albumRef{}
-	for _, a := range apps {
-		if tracks[a.AlbumKey] == nil {
-			tracks[a.AlbumKey] = map[string]struct{}{}
-			years[a.AlbumKey] = map[int]struct{}{}
-			names[a.AlbumKey] = albumRef{key: a.AlbumKey, album: a.Album, artist: a.Artist}
+	see := func(key, album, artist string) {
+		if tracks[key] == nil {
+			tracks[key] = map[string]struct{}{}
+			years[key] = map[int]struct{}{}
+			names[key] = albumRef{key: key, album: album, artist: artist}
 		}
+	}
+	for _, a := range apps {
+		see(a.AlbumKey, a.Album, a.Artist)
 		tracks[a.AlbumKey][a.Track] = struct{}{}
 		years[a.AlbumKey][a.Year] = struct{}{}
+	}
+	// A record released after the last charted year has no chart presence at
+	// all, so without this it could never become a candidate however much its
+	// owner plays it.
+	for _, p := range plays {
+		if p.AlbumKey == "" {
+			continue
+		}
+		see(p.AlbumKey, p.Album, p.Artist)
+		tracks[p.AlbumKey][p.Track] = struct{}{}
 	}
 
 	var need []albumRef
@@ -322,6 +338,35 @@ func candidatesToResolve(apps []vinyl.Appearance, cache map[string]vinyl.AlbumMe
 	}
 	sort.Slice(need, func(i, j int) bool { return need[i].moreEvidenceThan(need[j]) })
 	return need, skipped
+}
+
+// playCounts reads how often each track has been played, and folds each into
+// the album it belongs to. A listener on another platform, or with the Music
+// app absent, simply contributes no play evidence: the ranking is poorer for it
+// but must not fail for it.
+func playCounts(ctx context.Context, port domain.PlayCountPort) []vinyl.Play {
+	tracks, err := port.PlayCounts(ctx)
+	if err != nil {
+		fmt.Printf("play counts unavailable (%v); ranking on charts and saved library alone\n", err)
+		return nil
+	}
+	out := make([]vinyl.Play, 0, len(tracks))
+	total := 0
+	for _, t := range tracks {
+		if t.Album == "" {
+			continue
+		}
+		out = append(out, vinyl.Play{
+			Track:    strings.ToLower(t.Title),
+			AlbumKey: vinyl.AlbumKey(t.Album, t.Artist),
+			Album:    t.Album, Artist: t.Artist, Count: t.Count,
+		})
+		total += t.Count
+	}
+	if len(out) > 0 {
+		fmt.Printf("read %d played tracks (%d plays) from your Music library\n", len(out), total)
+	}
+	return out
 }
 
 // libraryDepth counts distinct tracks per album in the saved Spotify snapshot —
