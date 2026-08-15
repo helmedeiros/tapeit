@@ -21,6 +21,21 @@ type Appearance struct {
 	CatalogID string
 }
 
+// Play is one track's play count on the service the listener actually uses now.
+//
+// It is a different kind of witness from a ranked list. A yearly chart holds
+// only its top hundred, so a record played end to end still surfaces one or two
+// tracks; the play history is not truncated and names every track that gets
+// played. It covers a much shorter span, though, so it says a great deal about
+// breadth and nothing at all about durability.
+type Play struct {
+	Track    string
+	AlbumKey string
+	Album    string
+	Artist   string
+	Count    int
+}
+
 // AlbumMeta is what the catalog knows about an album, independent of listening.
 type AlbumMeta struct {
 	// Name and Artist as the catalog states them. They are kept rather than
@@ -63,33 +78,62 @@ func RankWeight(rank, size int, alpha float64) float64 {
 
 // Aggregate folds raw appearances into per-album evidence. libraryDepth counts
 // distinct tracks per album key in the listener's separately saved library.
-func Aggregate(apps []Appearance, meta map[string]AlbumMeta, libraryDepth map[string]int, o Options) []Evidence {
+func Aggregate(apps []Appearance, plays []Play, meta map[string]AlbumMeta,
+	libraryDepth map[string]int, o Options) []Evidence {
 	type acc struct {
 		ev     Evidence
 		tracks map[string]struct{}
+		played map[string]struct{}
 		years  map[int]struct{}
 		n      int
 	}
 	byAlbum := map[string]*acc{}
+	get := func(key, album, artist string) *acc {
+		e, ok := byAlbum[key]
+		if !ok {
+			e = &acc{
+				ev:     Evidence{Album: album, Artist: artist},
+				tracks: map[string]struct{}{}, played: map[string]struct{}{}, years: map[int]struct{}{},
+			}
+			byAlbum[key] = e
+		}
+		return e
+	}
 	for _, a := range apps {
 		if a.AlbumKey == "" {
 			continue
 		}
-		e, ok := byAlbum[a.AlbumKey]
-		if !ok {
-			e = &acc{ev: Evidence{Album: a.Album, Artist: a.Artist}, tracks: map[string]struct{}{}, years: map[int]struct{}{}}
-			byAlbum[a.AlbumKey] = e
-		}
+		e := get(a.AlbumKey, a.Album, a.Artist)
 		e.tracks[a.Track] = struct{}{}
 		e.years[a.Year] = struct{}{}
 		e.ev.RankWeight += RankWeight(a.Rank, a.Size, o.RankAlpha)
 		e.n++
 	}
+	// Plays name tracks the charts had no room for, and records the charts never
+	// saw at all — anything released after the last charted year. They add to
+	// what is known about a record's breadth, and deliberately nothing to its
+	// years: a fortnight's obsession must not read as a relationship.
+	for _, p := range plays {
+		if p.AlbumKey == "" || p.Count <= 0 {
+			continue
+		}
+		e := get(p.AlbumKey, p.Album, p.Artist)
+		e.played[p.Track] = struct{}{}
+		e.ev.Plays += p.Count
+	}
 
 	out := make([]Evidence, 0, len(byAlbum))
 	for key, e := range byAlbum {
-		e.ev.LovedTracks = len(e.tracks)
+		e.ev.PlayedTracks = len(e.played)
+		loved := make(map[string]struct{}, len(e.tracks)+len(e.played))
 		for tr := range e.tracks {
+			loved[tr] = struct{}{}
+		}
+		for tr := range e.played {
+			loved[tr] = struct{}{}
+		}
+		e.ev.LovedTracks = len(loved)
+		for tr := range loved {
 			e.ev.LovedTitles = append(e.ev.LovedTitles, tr)
 		}
 		sort.Strings(e.ev.LovedTitles)
@@ -176,7 +220,7 @@ func Evaluate(apps []Appearance, meta map[string]AlbumMeta, libraryDepth map[str
 		}
 
 		picked := map[string]struct{}{}
-		for _, s := range Rank(Aggregate(train, meta, libraryDepth, o), o) {
+		for _, s := range Rank(Aggregate(train, nil, meta, libraryDepth, o), o) {
 			picked[albumKeyOf(train, s.Album, s.Artist)] = struct{}{}
 		}
 		base := baselineAlbums(train, meta, o)

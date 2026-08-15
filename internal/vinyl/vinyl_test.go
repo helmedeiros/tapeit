@@ -233,7 +233,7 @@ func TestAggregate_FoldsAppearancesAcrossYears(t *testing.T) {
 		{Year: 2022, Rank: 10, Size: 100, Track: "a", AlbumKey: "k", Album: "Is This It", Artist: "The Strokes"},
 	}
 	meta := map[string]AlbumMeta{"k": {TrackCount: 11, RuntimeMin: 35}}
-	got := Aggregate(apps, meta, map[string]int{"k": 5}, window())
+	got := Aggregate(apps, nil, meta, map[string]int{"k": 5}, window())
 	if len(got) != 1 {
 		t.Fatalf("want 1 album, got %d", len(got))
 	}

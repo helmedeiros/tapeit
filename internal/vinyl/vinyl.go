@@ -45,6 +45,12 @@ type Evidence struct {
 	// says how high in the lists the record sits, which is what licenses any
 	// inference about the tracks that never surfaced.
 	MeanRankWeight float64
+	// PlayedTracks is how many distinct tracks of this album have been played on
+	// the service in use now, and Plays how often in total. Play history is not
+	// truncated the way a yearly chart is, so it sees breadth a chart cannot —
+	// but it covers a short window and so evidences nothing about durability.
+	PlayedTracks int
+	Plays        int
 	// LibraryTracks is how many distinct tracks of this album are in the
 	// listener's separately saved library — an independent corroboration of
 	// devotion that ranked lists cannot provide, since they are truncated.
