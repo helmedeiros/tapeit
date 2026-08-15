@@ -3,9 +3,19 @@
 BINARY := tapeit
 PKG := ./...
 
+# VERSION comes from the nearest tag, so a built binary can say what it is.
+# cmd/tapeit declares `version = "dev"` and nothing was injecting it, which meant
+# every build — including a released one — reported itself as "dev".
+VERSION ?= $(shell git describe --tags --always --dirty 2>/dev/null || echo dev)
+LDFLAGS := -X main.version=$(VERSION)
+
 .PHONY: build
 build:
-	go build -o bin/$(BINARY) ./cmd/tapeit
+	go build -ldflags "$(LDFLAGS)" -o bin/$(BINARY) ./cmd/tapeit
+
+.PHONY: version
+version:
+	@echo $(VERSION)
 
 .PHONY: test
 test:
