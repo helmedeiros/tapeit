@@ -62,6 +62,8 @@ func run(ctx context.Context, args []string) error {
 		return cmdCurate(ctx, args[1:])
 	case "sequence":
 		return cmdSequence(args[1:])
+	case "vinyl":
+		return cmdVinyl(ctx, args[1:])
 	case "report":
 		return cmdReport(args[1:])
 	case "version", "--version":
@@ -91,6 +93,7 @@ Usage:
   tapeit enrich [--from FILE] [--dir DIR]  Add bpm/isrc to the JSON lists (Deezer)
   tapeit curate --seed A[,B,...] [--size N]  Build a playlist from your library
   tapeit sequence --from FILE [--flow smooth|arc]  Reorder a playlist by tempo
+  tapeit vinyl  [--size N] [--evaluate]    Rank albums worth owning on vinyl
   tapeit version
 
 Spotify redirect URI to register: ` + spotify.RedirectURI + `
@@ -405,10 +408,17 @@ func cmdCreate(ctx context.Context, args []string) error {
 		return err
 	}
 
-	fmt.Printf("matching %d tracks for %q via iTunes Search…\n", len(tracks), plName)
-	// A hand-supplied list has no ISRCs, so matching is search-only. Use the
-	// iTunes Search API (separate quota) rather than the rate-limited amp-api.
-	svc := matching.New(itunes.NewClient(creds.Storefront), func(s string) { fmt.Println(s) })
+	fmt.Printf("matching %d tracks for %q via iTunes Search (amp-api fallback)…\n", len(tracks), plName)
+	// A hand-supplied list has no ISRCs, so matching is search-only. Lead with
+	// the iTunes Search API (separate quota) rather than the rate-limited
+	// amp-api, but fall back to amp-api for the tracks it cannot resolve: its
+	// index is missing catalog entries amp-api has, and it answers for them with
+	// plausible-but-wrong songs rather than an empty result.
+	svc := matching.NewChained(
+		func(s string) { fmt.Println(s) },
+		itunes.NewClient(creds.Storefront),
+		apple.NewClient(creds),
+	)
 	matches, err := svc.Match(ctx, tracks)
 	if err != nil {
 		return err
@@ -561,8 +571,10 @@ func resolvedIndex(matches []domain.Match) map[string]string {
 
 func summarize(matches []domain.Match) {
 	byConf := map[domain.Confidence]int{}
+	byMethod := map[domain.MatchMethod]int{}
 	for _, m := range matches {
 		byConf[m.Confidence]++
+		byMethod[m.Method]++
 	}
 	total := len(matches)
 	matched := byConf[domain.ConfExact] + byConf[domain.ConfHigh] + byConf[domain.ConfLow]
@@ -571,9 +583,34 @@ func summarize(matches []domain.Match) {
 	fmt.Printf("  high:         %d\n", byConf[domain.ConfHigh])
 	fmt.Printf("  low:          %d\n", byConf[domain.ConfLow])
 	fmt.Printf("  unmatched:    %d\n", byConf[domain.ConfNone])
+	if n := byMethod[domain.MethodManual]; n > 0 {
+		fmt.Printf("  (of which %d pinned by apple_id)\n", n)
+	}
 	if total > 0 {
 		fmt.Printf("  → %d matched (%.1f%%)\n", matched, 100*float64(matched)/float64(total))
 	}
+	for _, line := range imperfect(matches) {
+		fmt.Println(line)
+	}
+}
+
+// imperfect names the tracks that did not resolve cleanly. Counts alone force
+// you to re-derive which of N tracks failed; naming them makes the next run a
+// targeted edit (fix the artist, or pin an apple_id) instead of a guess.
+func imperfect(matches []domain.Match) []string {
+	var lines []string
+	for _, m := range matches {
+		switch m.Confidence {
+		case domain.ConfNone:
+			lines = append(lines, fmt.Sprintf("  ✗ unmatched  %s — %s", m.Track.Title, joinArtists(m.Track.Artists)))
+		case domain.ConfLow:
+			lines = append(lines, fmt.Sprintf("  ~ low        %s — %s", m.Track.Title, joinArtists(m.Track.Artists)))
+		}
+	}
+	if len(lines) > 0 {
+		lines = append([]string{"\nNeeds review (fix the artist, or pin \"apple_id\" in the JSON):"}, lines...)
+	}
+	return lines
 }
 
 func joinArtists(a []string) string {

@@ -43,6 +43,10 @@ func PushStatePath() (string, error) { return inDir("push_state.json") }
 // discovery (see `tapeit curate --discover`).
 func ArtistIndexPath() (string, error) { return inDir("artist_index.json") }
 
+// AlbumIndexPath is the local cache of album metadata (track counts, runtimes)
+// used by `vinyl`, so repeat runs cost no catalog lookups.
+func AlbumIndexPath() (string, error) { return inDir("album_index.json") }
+
 func inDir(name string) (string, error) {
 	dir, err := Dir()
 	if err != nil {

@@ -11,9 +11,20 @@
 # go
 *.test
 *.out
-coverage.*
+# Coverage *profiles*, anchored to the repo root. An unanchored "coverage.*"
+# matches any path segment, and silently swallowed internal/vinyl/coverage.go —
+# a source file that still built locally, because git ignoring a file does not
+# remove it from disk. The break only appeared in a clean clone.
+/coverage.out
+/coverage.html
 
 # editor / os
+.claude/settings.local.json
 .DS_Store
 .idea/
 .vscode/
+
+# Personal yearly listening charts. The playlists/ collection is meant to be
+# shared, but these are one person's play history rather than a playlist worth
+# passing on — kept locally so `vinyl` can read them without publishing them.
+playlists/your-top-songs-*.json

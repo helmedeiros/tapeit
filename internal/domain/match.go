@@ -1,6 +1,9 @@
 package domain
 
-import "context"
+import (
+	"context"
+	"errors"
+)
 
 // Confidence describes how sure we are that a Match is correct.
 type Confidence string
@@ -24,6 +27,8 @@ const (
 	MethodISRC MatchMethod = "isrc"
 	// MethodSearch matched via catalog text search.
 	MethodSearch MatchMethod = "search"
+	// MethodManual is a hand-pinned catalog id from the source list.
+	MethodManual MatchMethod = "manual"
 	// MethodNone means no match.
 	MethodNone MatchMethod = "none"
 )
@@ -66,6 +71,79 @@ type CatalogPort interface {
 type TrackRef struct {
 	Title  string
 	Artist string
+	// Album is the record the library filed this track under. Ranked listening
+	// lists are track-shaped; recovering the album is what lets them be reasoned
+	// about as records.
+	Album string
+	// CatalogID identifies the recording in the catalog, when the library knows
+	// it. With it, the album can be read from the recording itself rather than
+	// matched by name — exactly, and in batches.
+	CatalogID string
+}
+
+// Album is catalog metadata about a record, independent of any listening.
+type Album struct {
+	ID     string
+	Name   string
+	Artist string
+	// UPC is the record's barcode: the one identifier services agree on, which
+	// makes album facts portable between them and shareable between people.
+	UPC           string
+	TrackCount    int
+	RuntimeMS     int
+	Genres        []string
+	IsCompilation bool
+}
+
+// ErrAlbumNotFound means the catalog answered and holds no such album — a
+// definitive result, safe to remember. Any other error means the question could
+// not be asked (rate limiting, network), which must never be cached as an
+// answer: a transient throttle would otherwise exclude the record for good.
+var ErrAlbumNotFound = errors.New("album not found in catalog")
+
+// PlayedTrack is one recording and how often the listener has played it.
+type PlayedTrack struct {
+	Title  string
+	Artist string
+	Album  string
+	Count  int
+}
+
+// PlayCountPort reads how often the listener has played each track.
+//
+// It is a distinct port from the library because it answers a distinct
+// question. A library says what someone chose to keep; a play count says what
+// they actually reached for, including tracks no ranked list had room for and
+// records released after the last list was drawn.
+type PlayCountPort interface {
+	PlayCounts(ctx context.Context) ([]PlayedTrack, error)
+}
+
+// AlbumTrack is one track as pressed on a release.
+type AlbumTrack struct {
+	Title      string
+	DurationMS int
+}
+
+// AlbumPort resolves album metadata from the target catalog.
+type AlbumPort interface {
+	// SongAlbums maps catalog song ids to the id of the album containing each.
+	// Exact: the album comes from the recording, not from matching its name.
+	SongAlbums(ctx context.Context, songIDs []string) (map[string]string, error)
+	// AlbumsByID returns metadata for catalog albums, by id.
+	AlbumsByID(ctx context.Context, albumIDs []string) (map[string]Album, error)
+	// AlbumEditions finds every edition of a record by name and artist. It is the
+	// fallback for tracks the library recorded no catalog id for, and it returns
+	// all candidates rather than one: which edition a listener should be judged
+	// by depends on how many of its tracks they love, which is not known at the
+	// point of the lookup.
+	AlbumEditions(ctx context.Context, name, artist string) ([]Album, error)
+	// AlbumTracks returns a release's track listing. It costs a request per
+	// album, so it is asked only about a shortlist — but it answers the two
+	// questions that decide a purchase: how long the record runs (one LP or
+	// two), and which of the listener's loved tracks are actually on this
+	// pressing rather than on some other edition.
+	AlbumTracks(ctx context.Context, albumID string) ([]AlbumTrack, error)
 }
 
 // LibraryPort reads and writes the user's target library.

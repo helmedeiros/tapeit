@@ -1,0 +1,479 @@
+package main
+
+import (
+	"context"
+	"encoding/json"
+	"flag"
+	"fmt"
+	"os"
+	"regexp"
+	"sort"
+	"strconv"
+	"strings"
+	"time"
+
+	"github.com/helmedeiros/tapeit/internal/apple"
+	"github.com/helmedeiros/tapeit/internal/config"
+	"github.com/helmedeiros/tapeit/internal/domain"
+	"github.com/helmedeiros/tapeit/internal/musicapp"
+	"github.com/helmedeiros/tapeit/internal/vinyl"
+)
+
+// yearInName pulls the list's year out of a playlist name ("Your Top Songs 2019").
+var yearInName = regexp.MustCompile(`(19|20)\d{2}`)
+
+func cmdVinyl(ctx context.Context, args []string) error {
+	fs := flag.NewFlagSet("vinyl", flag.ContinueOnError)
+	match := fs.String("match", "Your Top Songs", "library playlists whose name contains this are the ranked lists")
+	size := fs.Int("size", 20, "how many albums to recommend")
+	perArtist := fs.Int("max-per-artist", 2, "cap on albums per artist (0 = unlimited)")
+	withST := fs.Bool("include-soundtracks", false, "admit film and show soundtracks")
+	minTracks := fs.Int("min-tracks", 7, "fewest tracks for a record to count as an album")
+	minLoved := fs.Int("min-loved", 2, "fewest of a record's tracks that must have reached your lists")
+	evaluate := fs.Bool("evaluate", false, "measure the ranking against a naive top-tracks baseline")
+	refresh := fs.Bool("refresh", false, "ignore the cached album metadata")
+	cachedOnly := fs.Bool("cached-only", false,
+		"rank from cached album metadata alone, resolving nothing (useful while the catalog is rate-limiting)")
+	alpha := fs.Float64("rank-alpha", vinyl.DefaultRankAlpha,
+		"steepness of the assumed play curve; 0.5 makes first place ~10x the hundredth")
+	censor := fs.Float64("censoring-credit", vinyl.DefaultCensoringCredit,
+		"how much of a record's unheard remainder to credit as played below the cutoff (0 disables)")
+	if err := fs.Parse(args); err != nil {
+		return err
+	}
+
+	creds, err := loadAppleCreds()
+	if err != nil {
+		return fmt.Errorf("%w (run `tapeit auth apple` first)", err)
+	}
+	if err := creds.Validate(); err != nil {
+		return err
+	}
+	client := apple.NewClient(creds)
+
+	apps, first, last, err := readRankedLists(ctx, client, *match)
+	if err != nil {
+		return err
+	}
+	if len(apps) == 0 {
+		return fmt.Errorf("no ranked lists found matching %q in your library", *match)
+	}
+	fmt.Printf("read %d appearances from %d–%d\n", len(apps), first, last)
+
+	plays := playCounts(ctx, musicapp.NewReader())
+	lib0 := libraryDepth()
+	if matched, total := libraryMatchRate(apps, lib0); total > 0 {
+		fmt.Printf("saved library agrees on %d of %d records (%.0f%%)\n",
+			matched, total, 100*float64(matched)/float64(total))
+	}
+	meta, err := albumMetadata(ctx, client, apps, plays, lib0, creds.Storefront, *refresh, *cachedOnly)
+	if err != nil {
+		return err
+	}
+	lib := lib0
+
+	o := vinyl.DefaultOptions(first, last)
+	o.Size, o.MaxPerArtist, o.IncludeSoundtracks, o.MinTracks = *size, *perArtist, *withST, *minTracks
+	o.RankAlpha, o.CensoringCredit = *alpha, *censor
+	o.MinLovedTracks = *minLoved
+
+	if *evaluate {
+		fmt.Println()
+		fmt.Print(vinyl.Evaluate(apps, meta, lib, o).String())
+		fmt.Println()
+	}
+
+	ranked, excluded := vinyl.RankWithExclusions(vinyl.Aggregate(apps, plays, meta, lib, o), o)
+	ranked = refineShortlist(ctx, client, ranked, meta, o, creds.Storefront)
+	printVinyl(ranked, meta)
+	printExclusions(excluded, lib)
+	return nil
+}
+
+// readRankedLists turns the year-named library playlists into appearances. The
+// library is used rather than the JSON files because Apple has already resolved
+// each track to a record, which is the fact the ranking needs.
+func readRankedLists(ctx context.Context, lib domain.LibraryPort, match string) ([]vinyl.Appearance, int, int, error) {
+	existing, err := lib.ExistingPlaylists(ctx)
+	if err != nil {
+		return nil, 0, 0, fmt.Errorf("list playlists: %w", err)
+	}
+	names := make([]string, 0, len(existing))
+	for name := range existing {
+		if strings.Contains(name, match) && yearInName.MatchString(name) {
+			names = append(names, name)
+		}
+	}
+	sort.Strings(names)
+
+	var apps []vinyl.Appearance
+	first, last := 0, 0
+	for _, name := range names {
+		year, _ := strconv.Atoi(yearInName.FindString(name))
+		refs, err := lib.PlaylistTrackRefs(ctx, existing[name])
+		if err != nil {
+			return nil, 0, 0, fmt.Errorf("read %q: %w", name, err)
+		}
+		for i, r := range refs {
+			if r.Album == "" {
+				continue
+			}
+			apps = append(apps, vinyl.Appearance{
+				Year: year, Rank: i + 1, Size: len(refs),
+				Track:     strings.ToLower(r.Title),
+				AlbumKey:  vinyl.AlbumKey(r.Album, r.Artist),
+				Album:     r.Album,
+				Artist:    r.Artist,
+				CatalogID: r.CatalogID,
+			})
+		}
+		if first == 0 || year < first {
+			first = year
+		}
+		if year > last {
+			last = year
+		}
+		fmt.Printf("  %-28s %3d tracks\n", name, len(refs))
+	}
+	return apps, first, last, nil
+}
+
+// albumMetadata resolves each candidate album once, caching to the config dir so
+// repeat runs cost no catalog lookups.
+func albumMetadata(ctx context.Context, port domain.AlbumPort, apps []vinyl.Appearance,
+	plays []vinyl.Play, lib map[string]int, storefront string,
+	refresh, cachedOnly bool) (map[string]vinyl.AlbumMeta, error) {
+	path, err := config.AlbumIndexPath()
+	if err != nil {
+		return nil, err
+	}
+	cache := map[string]vinyl.AlbumMeta{}
+	if !refresh {
+		cache = loadAlbumCatalog(path)
+	}
+	if cachedOnly {
+		// Ranking from what is already known is always possible; a throttled
+		// catalog should degrade the shortlist, not block it.
+		if need, _ := candidatesToResolve(apps, plays, cache, lib); len(need) > 0 {
+			fmt.Printf("cached-only: %d candidate albums remain unresolved and cannot place\n", len(need))
+		}
+		return cache, nil
+	}
+
+	before := len(cache)
+	cache, err = resolveAlbums(ctx, port, apps, plays, cache, lib, albumLookupPace)
+	if err != nil {
+		return nil, err
+	}
+	if len(cache) != before {
+		if err := saveAlbumCatalog(storefront, cache); err != nil {
+			return nil, err
+		}
+	}
+	return cache, nil
+}
+
+// loadAlbumCatalog reads the album facts, rebuilding the lookup index under the
+// current key rule. Because each entry states which record it describes, a key
+// rule that improves costs a re-index rather than orphaning the whole file.
+func loadAlbumCatalog(path string) map[string]vinyl.AlbumMeta {
+	b, err := os.ReadFile(path)
+	if err != nil {
+		return map[string]vinyl.AlbumMeta{}
+	}
+	var cat vinyl.Catalog
+	if err := json.Unmarshal(b, &cat); err == nil && len(cat.Albums) > 0 {
+		return cat.Index()
+	}
+	return map[string]vinyl.AlbumMeta{}
+}
+
+// saveAlbumCatalog writes the album facts in the shareable form: identity and
+// cross-service identifiers alongside the numbers, sorted so the file is stable
+// between runs and its diffs are readable.
+func saveAlbumCatalog(storefront string, meta map[string]vinyl.AlbumMeta) error {
+	return saveAt(config.AlbumIndexPath, vinyl.NewCatalog(storefront, meta))
+}
+
+// refineShortlist reads each shortlisted record's track listing and re-scores
+// on what that pressing actually holds.
+//
+// One request per record answers both questions that decide a purchase: how
+// long it runs, and which of the listener's loved tracks are on this pressing
+// rather than on some other edition. Only the shortlist is worth that request.
+func refineShortlist(ctx context.Context, port domain.AlbumPort, ranked []vinyl.Scored,
+	meta map[string]vinyl.AlbumMeta, o vinyl.Options, storefront string) []vinyl.Scored {
+	runtimes := map[string]int{}
+	refined := vinyl.Refine(ranked, func(s vinyl.Scored) ([]string, bool) {
+		if s.CatalogID == "" || ctx.Err() != nil {
+			return nil, false
+		}
+		time.Sleep(albumLookupPace)
+		tracks, err := port.AlbumTracks(ctx, s.CatalogID)
+		if err != nil {
+			// Unknown, not empty: leave the record as it was rather than zero it.
+			return nil, false
+		}
+		titles := make([]string, 0, len(tracks))
+		total := 0
+		for _, t := range tracks {
+			titles = append(titles, t.Title)
+			total += t.DurationMS
+		}
+		runtimes[s.CatalogID] = total / 60000
+		return titles, true
+	}, o)
+
+	changed := false
+	for i := range refined {
+		if mins, ok := runtimes[refined[i].CatalogID]; ok {
+			refined[i].RuntimeMin = mins
+			refined[i].DoubleLP = mins > vinyl.DoubleLPMinutes
+		}
+	}
+	for k, m := range meta {
+		if mins, ok := runtimes[m.CatalogID]; ok && m.RuntimeMin != mins {
+			m.RuntimeMin = mins
+			meta[k] = m
+			changed = true
+		}
+	}
+	if changed {
+		_ = saveAlbumCatalog(storefront, meta)
+	}
+	return refined
+}
+
+// albumRef names an album well enough to look it up, and carries the evidence
+// that decides whether it is worth looking up at all.
+type albumRef struct {
+	key           string
+	album, artist string
+	depth, years  int
+	lib           int
+}
+
+// worthResolving is the bar a record must clear before it is worth a catalog
+// lookup, and equally before it is worth reporting as excluded. Of five hundred
+// albums a listener has touched, most contributed one track in one year and
+// cannot place however generous the scoring; listing those as "left off" would
+// bury the handful of genuine failures in four hundred lines of noise.
+func worthResolving(depth, years, lib int) bool {
+	return depth >= 3 || (depth >= 2 && years >= 2) || lib >= 5
+}
+
+// moreEvidenceThan orders candidates so the records most likely to place are
+// resolved first. Order matters because a run can be cut short by a throttle or
+// an interrupt: resolving in evidence order means any prefix of the work is the
+// useful prefix, rather than whatever a map happened to yield.
+func (r albumRef) moreEvidenceThan(o albumRef) bool {
+	if r.depth != o.depth {
+		return r.depth > o.depth
+	}
+	if r.years != o.years {
+		return r.years > o.years
+	}
+	if r.lib != o.lib {
+		return r.lib > o.lib
+	}
+	return r.key < o.key
+}
+
+// candidatesToResolve picks the albums worth a catalog lookup, strongest first,
+// and reports how many were skipped.
+//
+// Two things matter here. Most albums ever touched contributed one track in one
+// year and cannot place however generous the scoring, so resolving them is pure
+// cost — of 517 albums only 80 can realistically reach a shortlist. And the
+// order is not cosmetic: iterating a Go map is randomised, so an interrupted or
+// throttled run spends its budget on the long tail and leaves the shortlist
+// unresolved. Sorting by evidence means any prefix of the work is the useful
+// prefix.
+//
+// A silent cap reads as "considered everything" when it did not, so the skipped
+// count comes back for the caller to say out loud.
+func candidatesToResolve(apps []vinyl.Appearance, plays []vinyl.Play,
+	cache map[string]vinyl.AlbumMeta, lib map[string]int) ([]albumRef, int) {
+	tracks := map[string]map[string]struct{}{}
+	years := map[string]map[int]struct{}{}
+	names := map[string]albumRef{}
+	see := func(key, album, artist string) {
+		if tracks[key] == nil {
+			tracks[key] = map[string]struct{}{}
+			years[key] = map[int]struct{}{}
+			names[key] = albumRef{key: key, album: album, artist: artist}
+		}
+	}
+	for _, a := range apps {
+		see(a.AlbumKey, a.Album, a.Artist)
+		tracks[a.AlbumKey][a.Track] = struct{}{}
+		years[a.AlbumKey][a.Year] = struct{}{}
+	}
+	// A record released after the last charted year has no chart presence at
+	// all, so without this it could never become a candidate however much its
+	// owner plays it.
+	for _, p := range plays {
+		if p.AlbumKey == "" {
+			continue
+		}
+		see(p.AlbumKey, p.Album, p.Artist)
+		tracks[p.AlbumKey][p.Track] = struct{}{}
+	}
+
+	var need []albumRef
+	skipped := 0
+	for key, r := range names {
+		r.depth, r.years, r.lib = len(tracks[key]), len(years[key]), lib[key]
+		if _, ok := cache[key]; ok {
+			continue
+		}
+		// Worth resolving on breadth, on breadth sustained over time, or on
+		// independent support in the saved library — any one of which could carry
+		// the record onto a shortlist.
+		if worthResolving(r.depth, r.years, r.lib) {
+			need = append(need, r)
+			continue
+		}
+		skipped++
+	}
+	sort.Slice(need, func(i, j int) bool { return need[i].moreEvidenceThan(need[j]) })
+	return need, skipped
+}
+
+// playCounts reads how often each track has been played, and folds each into
+// the album it belongs to. A listener on another platform, or with the Music
+// app absent, simply contributes no play evidence: the ranking is poorer for it
+// but must not fail for it.
+func playCounts(ctx context.Context, port domain.PlayCountPort) []vinyl.Play {
+	tracks, err := port.PlayCounts(ctx)
+	if err != nil {
+		fmt.Printf("play counts unavailable (%v); ranking on charts and saved library alone\n", err)
+		return nil
+	}
+	out := make([]vinyl.Play, 0, len(tracks))
+	total := 0
+	for _, t := range tracks {
+		if t.Album == "" {
+			continue
+		}
+		out = append(out, vinyl.Play{
+			Track:    strings.ToLower(t.Title),
+			AlbumKey: vinyl.AlbumKey(t.Album, t.Artist),
+			Album:    t.Album, Artist: t.Artist, Count: t.Count,
+		})
+		total += t.Count
+	}
+	if len(out) > 0 {
+		fmt.Printf("read %d played tracks (%d plays) from your Music library\n", len(out), total)
+	}
+	return out
+}
+
+// libraryDepth counts distinct tracks per album in the saved Spotify snapshot —
+// an independent witness to the ranked lists, which are truncated at 100 and so
+// under-report records played steadily rather than obsessively.
+func libraryDepth() map[string]int {
+	lib, err := loadSnapshot()
+	if err != nil {
+		return map[string]int{}
+	}
+	seen := map[string]map[string]struct{}{}
+	for _, p := range lib.Playlists {
+		for _, t := range p.Tracks {
+			if t.Album == "" {
+				continue
+			}
+			artist := ""
+			if len(t.Artists) > 0 {
+				artist = t.Artists[0]
+			}
+			k := vinyl.AlbumKey(t.Album, artist)
+			if seen[k] == nil {
+				seen[k] = map[string]struct{}{}
+			}
+			seen[k][strings.ToLower(t.Title)] = struct{}{}
+		}
+	}
+	out := make(map[string]int, len(seen))
+	for k, v := range seen {
+		out[k] = len(v)
+	}
+	return out
+}
+
+func printVinyl(ranked []vinyl.Scored, meta map[string]vinyl.AlbumMeta) {
+	if len(ranked) == 0 {
+		fmt.Println("\nno albums qualified — try --include-soundtracks or a lower --min-tracks")
+		return
+	}
+	fmt.Printf("\n%-3s %-32s %-18s %5s %6s %4s %5s %5s %6s %s\n",
+		"#", "album", "artist", "score", "loved", "yrs", "cover", "saved", "plays", "format")
+	fmt.Println(strings.Repeat("-", 112))
+	for i, s := range ranked {
+		format := fmt.Sprintf("%dm", s.RuntimeMin)
+		if s.DoubleLP {
+			format += " 2LP"
+		}
+		name := s.Album
+		if m, ok := meta[vinyl.AlbumKey(s.Album, s.Artist)]; ok && m.Name != "" {
+			name = m.Name
+		}
+		fmt.Printf("%-3d %-32s %-18s %5.3f %3d/%-2d %4d %4.0f%% %4.0f%% %6.0f %s\n",
+			i+1, truncate(name, 32), truncate(s.Artist, 18), s.Score,
+			s.LovedTracks, s.TrackCount, len(s.Years),
+			s.Coverage*100, s.Corroboration*100, s.EstimatedPlays, format)
+	}
+	fmt.Println("\nloved = tracks of the record you demonstrably like, from charts and plays")
+	fmt.Println("cover = share of the record that is, after crediting tracks just below the cutoff")
+	fmt.Println("saved = share of it in your saved library, which is why a record thin in the")
+	fmt.Println("        charts can still rank — the yearly lists stop at 100")
+	fmt.Printf("plays = estimated times listened, taking the top of a yearly chart as ~%d plays\n",
+		vinyl.TopPlaysPerYear)
+}
+
+// printExclusions names the records that were kept off the list, and why.
+//
+// An excluded record does not rank lower — it does not appear at all. Saying so
+// is what lets a listener catch a wrong call, most plausibly a real album judged
+// a soundtrack, and answer it with --include-soundtracks rather than wondering
+// where a favourite went.
+func printExclusions(excluded []vinyl.Scored, lib map[string]int) {
+	byReason := map[string][]vinyl.Scored{}
+	shown := 0
+	for _, s := range excluded {
+		// Records that were never candidates are already accounted for in the
+		// "skipping N albums" line; repeating them here would bury the genuine
+		// failures among them.
+		if !worthResolving(s.LovedTracks, len(s.Years), lib[vinyl.AlbumKey(s.Album, s.Artist)]) {
+			continue
+		}
+		byReason[s.Excluded] = append(byReason[s.Excluded], s)
+		shown++
+	}
+	if shown == 0 {
+		return
+	}
+	reasons := make([]string, 0, len(byReason))
+	for r := range byReason {
+		reasons = append(reasons, r)
+	}
+	sort.Strings(reasons)
+
+	fmt.Printf("\nleft off the list (%d records that were otherwise candidates):\n", shown)
+	for _, reason := range reasons {
+		recs := byReason[reason]
+		fmt.Printf("  %s (%d):\n", reason, len(recs))
+		for i, s := range recs {
+			if i == exclusionsShownPerReason {
+				fmt.Printf("      … and %d more\n", len(recs)-i)
+				break
+			}
+			fmt.Printf("      %-36s %-20s %d loved\n",
+				truncate(s.Album, 36), truncate(s.Artist, 20), s.LovedTracks)
+		}
+	}
+}
+
+// exclusionsShownPerReason keeps the report readable while still admitting how
+// much it is not showing.
+const exclusionsShownPerReason = 5

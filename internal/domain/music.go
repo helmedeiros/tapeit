@@ -22,6 +22,10 @@ type Track struct {
 	ISRC       string   `json:"isrc,omitempty"`
 	SpotifyID  string   `json:"spotify_id,omitempty"`
 	SpotifyURI string   `json:"spotify_uri,omitempty"`
+	// AppleID pins this track to an exact Apple catalog song, bypassing all
+	// matching. It is the escape hatch for recordings no catalog search can
+	// resolve — set it by hand in the playlist JSON and it is honored forever.
+	AppleID string `json:"apple_id,omitempty"`
 }
 
 // Playlist is a named, ordered collection of tracks.

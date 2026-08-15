@@ -140,8 +140,28 @@ func (s *Service) Push(ctx context.Context, playlists []domain.Playlist, resolve
 			verb = "adopt: kept"
 		}
 		s.report("✓ %-40s %s, +%d added (%d desired)", trunc(p.Name, 40), verb, len(toAdd), len(desired))
+		s.verify(ctx, p.Name, st, len(desired))
 	}
 	return nil
+}
+
+// verify reads the playlist back and reports when the library kept fewer
+// tracks than were sent. Apple answers an add request with 201 and then
+// silently omits songs it cannot play in the user's storefront, so a successful
+// push is not by itself evidence the tracks are there. Best-effort: a failed
+// read-back is not worth failing an otherwise-good push over.
+func (s *Service) verify(ctx context.Context, name string, st *PlaylistState, want int) {
+	if st.Adopted || want == 0 {
+		return // an adopted playlist also holds tracks tapeIt never sent
+	}
+	refs, err := s.lib.PlaylistTrackRefs(ctx, st.AppleID)
+	if err != nil {
+		return
+	}
+	if len(refs) < want {
+		s.report("⚠ %q: library kept %d of %d — %d silently dropped (usually not playable in your storefront); re-run to see which",
+			trunc(name, 40), len(refs), want, want-len(refs))
+	}
 }
 
 // missingFromLibrary returns the catalog ids of source tracks that are matched

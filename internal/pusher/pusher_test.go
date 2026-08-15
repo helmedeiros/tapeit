@@ -2,6 +2,7 @@ package pusher
 
 import (
 	"context"
+	"strings"
 	"testing"
 
 	"github.com/helmedeiros/tapeit/internal/domain"
@@ -208,5 +209,68 @@ func TestPush_AdoptDiffMerge(t *testing.T) {
 	}
 	if got := lib.added["pl-mix"]; len(got) != 1 {
 		t.Errorf("adopt re-run not idempotent: added=%v, want still [song-b]", got)
+	}
+}
+
+// droppingLibrary accepts every add but keeps only some tracks — exactly how
+// Apple behaves for songs that are not playable in the user's storefront.
+type droppingLibrary struct {
+	*fakeLibrary
+	keep int
+}
+
+func (d *droppingLibrary) PlaylistTrackRefs(_ context.Context, playlistID string) ([]domain.TrackRef, error) {
+	ids := d.added[playlistID]
+	if len(ids) > d.keep {
+		ids = ids[:d.keep]
+	}
+	refs := make([]domain.TrackRef, len(ids))
+	for i, id := range ids {
+		refs[i] = domain.TrackRef{Title: id}
+	}
+	return refs, nil
+}
+
+func TestPush_WarnsWhenLibrarySilentlyDropsTracks(t *testing.T) {
+	lib := &droppingLibrary{fakeLibrary: newFakeLibrary(), keep: 1}
+	playlists := []domain.Playlist{
+		{Name: "Top", Tracks: []domain.Track{track("A", "I1"), track("B", "I2")}},
+	}
+	resolved := map[string]string{
+		matching.Key(track("A", "I1")): "song-a",
+		matching.Key(track("B", "I2")): "song-b",
+	}
+
+	var logged []string
+	svc := New(lib, func(s string) { logged = append(logged, s) })
+	if err := svc.Push(context.Background(), playlists, resolved, NewState(), Options{}, func(*PushState) error { return nil }); err != nil {
+		t.Fatal(err)
+	}
+
+	var warned bool
+	for _, l := range logged {
+		if strings.Contains(l, "silently dropped") && strings.Contains(l, "kept 1 of 2") {
+			warned = true
+		}
+	}
+	if !warned {
+		t.Errorf("expected a drop warning, got %v", logged)
+	}
+}
+
+func TestPush_SilentWhenLibraryKeepsEverything(t *testing.T) {
+	lib := &droppingLibrary{fakeLibrary: newFakeLibrary(), keep: 99}
+	playlists := []domain.Playlist{{Name: "Top", Tracks: []domain.Track{track("A", "I1")}}}
+	resolved := map[string]string{matching.Key(track("A", "I1")): "song-a"}
+
+	var logged []string
+	svc := New(lib, func(s string) { logged = append(logged, s) })
+	if err := svc.Push(context.Background(), playlists, resolved, NewState(), Options{}, func(*PushState) error { return nil }); err != nil {
+		t.Fatal(err)
+	}
+	for _, l := range logged {
+		if strings.Contains(l, "silently dropped") {
+			t.Errorf("must not warn on a complete push: %v", logged)
+		}
 	}
 }
