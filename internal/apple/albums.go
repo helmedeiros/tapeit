@@ -137,46 +137,42 @@ type albumSearchResponse struct {
 	} `json:"results"`
 }
 
-// Album implements domain.AlbumPort.
+// AlbumEditions implements domain.AlbumPort.
 //
-// Apple lists a record many times over — standard, deluxe, anniversary, plus
-// territory variants. Coverage (how much of a record a listener loves) is
-// measured against the track count, so picking a 19-track deluxe when the album
-// is really 12 tracks silently understates devotion by a third. This deliberately
-// keeps the *smallest* edition whose name matches, which is also the one you
-// would actually buy on vinyl.
-func (c *Client) Album(ctx context.Context, name, artist string) (domain.Album, error) {
+// It returns every edition of the record and chooses none of them. Which
+// edition a listener should be judged by depends on how many of its tracks they
+// love, and that is not known here — deciding anyway is how "Wasting Light"
+// resolved to a two-track single while nine of its tracks were being played.
+//
+// The query names the record rather than the edition the listener happens to
+// have: searching for "moisturizer (deluxe)" biases the catalog toward the
+// deluxe, so the standard pressing never appears among the candidates at all.
+func (c *Client) AlbumEditions(ctx context.Context, name, artist string) ([]domain.Album, error) {
 	if c.creds.Storefront == "" {
-		return domain.Album{}, fmt.Errorf("storefront not set")
+		return nil, fmt.Errorf("storefront not set")
 	}
+	want := domain.BaseAlbumName(name)
 	q := url.Values{
 		"types": {"albums"},
-		"term":  {name + " " + artist},
-		"limit": {"10"},
+		"term":  {want + " " + artist},
+		"limit": {"25"},
 	}
 	u := fmt.Sprintf("%s/catalog/%s/search?%s", c.apiBase, c.creds.Storefront, q.Encode())
 
 	var resp albumSearchResponse
 	if err := c.do(ctx, http.MethodGet, u, nil, true, &resp); err != nil {
-		return domain.Album{}, err
+		return nil, err
 	}
-
-	want := domain.BaseAlbumName(name)
-	var best *albumDTO
-	for i := range resp.Results.Albums.Data {
-		d := &resp.Results.Albums.Data[i]
-		if domain.BaseAlbumName(d.Attributes.Name) != want {
-			continue
-		}
-		if best == nil || d.Attributes.TrackCount < best.Attributes.TrackCount {
-			best = d
+	var out []domain.Album
+	for _, d := range resp.Results.Albums.Data {
+		if domain.BaseAlbumName(d.Attributes.Name) == want {
+			out = append(out, d.toDomain())
 		}
 	}
-	if best == nil {
-		return domain.Album{}, fmt.Errorf("album %q by %q: %w", name, artist, domain.ErrAlbumNotFound)
+	if len(out) == 0 {
+		return nil, fmt.Errorf("album %q by %q: %w", name, artist, domain.ErrAlbumNotFound)
 	}
-
-	return best.toDomain(), nil
+	return out, nil
 }
 
 // AlbumTracks implements domain.AlbumPort.

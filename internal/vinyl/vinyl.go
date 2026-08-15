@@ -209,7 +209,7 @@ func Score(e Evidence, maxRankWeight float64, o Options) Scored {
 		s.Corroboration = math.Min(float64(e.LibraryTracks)/float64(e.TrackCount), 1)
 	}
 	s.Persistence = persistence(len(e.Years), o)
-	s.Recency = recency(e.Years, o)
+	s.Recency = recency(e, o)
 	if maxRankWeight > 0 {
 		s.Intensity = math.Min(e.RankWeight/maxRankWeight, 1)
 	}
@@ -305,12 +305,20 @@ func persistence(years int, o Options) float64 {
 
 // recency decays from the album's most recent appearance, so a single year of
 // obsession that is still current outranks the same obsession long abandoned.
-func recency(years []int, o Options) float64 {
-	if len(years) == 0 {
+//
+// Play counts cover only a recent window, so a record that appears in them is
+// being listened to now whatever the charts say. Reading recency from chart
+// years alone scored a record released after the last charted year as the least
+// current of all — penalising it for being new, twice over.
+func recency(e Evidence, o Options) float64 {
+	if len(e.Years) == 0 {
+		if e.PlayedTracks > 0 {
+			return 1
+		}
 		return 0
 	}
-	last := years[0]
-	for _, y := range years[1:] {
+	last := e.Years[0]
+	for _, y := range e.Years[1:] {
 		if y > last {
 			last = y
 		}

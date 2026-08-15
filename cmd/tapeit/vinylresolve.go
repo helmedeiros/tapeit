@@ -54,6 +54,10 @@ func resolveAlbums(ctx context.Context, port domain.AlbumPort, apps []vinyl.Appe
 		if !ok {
 			continue
 		}
+		// The listener's copy may be titled for a different edition than the one
+		// they would buy — "moisturizer (deluxe)" against the twelve-track
+		// pressing. Recording the chosen edition's own name keeps the
+		// recommendation and the facts beside it describing the same object.
 		cache[key] = vinyl.AlbumMeta{
 			Name:          chosen.Name,
 			Artist:        chosen.Artist,
@@ -143,7 +147,7 @@ func searchEditions(ctx context.Context, port domain.AlbumPort, wanted map[strin
 			break
 		}
 		time.Sleep(pace)
-		alb, err := port.Album(ctx, r.album, r.artist)
+		found, err := port.AlbumEditions(ctx, r.album, r.artist)
 		switch {
 		case errors.Is(err, domain.ErrAlbumNotFound):
 			// A durable answer: remember it rather than ask again every run.
@@ -156,7 +160,9 @@ func searchEditions(ctx context.Context, port domain.AlbumPort, wanted map[strin
 			// permanent verdict, so leave it for the next run.
 			transient++
 		default:
-			editions[r.key] = append(editions[r.key], toEdition(alb))
+			for _, alb := range found {
+				editions[r.key] = append(editions[r.key], toEdition(alb))
+			}
 		}
 	}
 	if transient > 0 {

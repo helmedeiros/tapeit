@@ -44,12 +44,12 @@ func (f *fakeAlbums) AlbumsByID(_ context.Context, ids []string) (map[string]dom
 	return out, nil
 }
 
-func (f *fakeAlbums) Album(_ context.Context, name, artist string) (domain.Album, error) {
+func (f *fakeAlbums) AlbumEditions(_ context.Context, name, artist string) ([]domain.Album, error) {
 	f.searches = append(f.searches, name)
 	if a, ok := f.byName[name+"|"+artist]; ok {
-		return a, nil
+		return []domain.Album{a}, nil
 	}
-	return domain.Album{}, fmt.Errorf("%q: %w", name, domain.ErrAlbumNotFound)
+	return nil, fmt.Errorf("%q: %w", name, domain.ErrAlbumNotFound)
 }
 
 func (f *fakeAlbums) AlbumTracks(context.Context, string) ([]domain.AlbumTrack, error) {

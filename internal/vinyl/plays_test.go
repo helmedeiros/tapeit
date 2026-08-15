@@ -89,3 +89,36 @@ func TestScore_PlayedRecordStillNeedsMoreThanOneLovedTrack(t *testing.T) {
 		t.Errorf("one track is one track whatever the source: %+v", got)
 	}
 }
+
+func TestScore_ARecordKnownOnlyFromPlaysIsCurrentByDefinition(t *testing.T) {
+	// Play counts cover a recent window and nothing else, so a record that
+	// appears only in them is being listened to now. Reading recency from chart
+	// years alone scored it zero — the least current possible — which is exactly
+	// backwards, and it is how a record released after the last charted year is
+	// penalised for being new twice over.
+	e := Evidence{Album: "moisturizer", Artist: "Wet Leg", LovedTracks: 10, PlayedTracks: 10,
+		Plays: 16, TrackCount: 12, RuntimeMin: 38}
+
+	got := Score(e, 16, DefaultOptions(2017, 2025))
+	if got.Recency != 1 {
+		t.Errorf("recency = %.2f, want 1 — the plays are current by construction", got.Recency)
+	}
+	// It must still show no durability: plays say nothing about how long.
+	if got.Persistence != 0 {
+		t.Errorf("persistence = %.2f, want 0 — a new record has shown none", got.Persistence)
+	}
+}
+
+func TestScore_ChartYearsStillDecideRecencyWhenPresent(t *testing.T) {
+	// Play evidence must not paper over an abandoned record: one charted long
+	// ago and barely played now should stay stale.
+	old := Evidence{Album: "Faded", Artist: "A", LovedTracks: 4, TrackCount: 11,
+		RuntimeMin: 38, Years: []int{2017}}
+	recent := Evidence{Album: "Current", Artist: "B", LovedTracks: 4, TrackCount: 11,
+		RuntimeMin: 38, Years: []int{2025}}
+
+	o := DefaultOptions(2017, 2025)
+	if Score(old, 4, o).Recency >= Score(recent, 4, o).Recency {
+		t.Error("a record last charted in 2017 is not as current as one charted in 2025")
+	}
+}

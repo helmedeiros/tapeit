@@ -132,10 +132,12 @@ type AlbumPort interface {
 	SongAlbums(ctx context.Context, songIDs []string) (map[string]string, error)
 	// AlbumsByID returns metadata for catalog albums, by id.
 	AlbumsByID(ctx context.Context, albumIDs []string) (map[string]Album, error)
-	// Album returns the *standard* edition matching name and artist. Deluxe and
-	// anniversary editions pad the track count, which understates how much of a
-	// record a listener actually loves, so the smallest matching edition wins.
-	Album(ctx context.Context, name, artist string) (Album, error)
+	// AlbumEditions finds every edition of a record by name and artist. It is the
+	// fallback for tracks the library recorded no catalog id for, and it returns
+	// all candidates rather than one: which edition a listener should be judged
+	// by depends on how many of its tracks they love, which is not known at the
+	// point of the lookup.
+	AlbumEditions(ctx context.Context, name, artist string) ([]Album, error)
 	// AlbumTracks returns a release's track listing. It costs a request per
 	// album, so it is asked only about a shortlist — but it answers the two
 	// questions that decide a purchase: how long the record runs (one LP or

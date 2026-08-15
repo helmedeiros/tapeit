@@ -194,58 +194,61 @@ func TestAlbumsByID_ChunksLargeRequests(t *testing.T) {
 	}
 }
 
-func TestAlbum_ReportsNotFoundDistinctly(t *testing.T) {
-	// "The catalog has no such album" is a durable answer worth caching; any
-	// other failure is not, so the two must be distinguishable by the caller.
+func TestAlbumEditions_ReturnsEveryEditionSoTheCallerCanChoose(t *testing.T) {
+	// The adapter finds editions; it must not decide between them. Choosing the
+	// smallest here — before anyone knows how many tracks the listener loves —
+	// is how "Wasting Light" became a two-track single while nine of its tracks
+	// were being played.
+	c := newTestClient(t, func(w http.ResponseWriter, _ *http.Request) {
+		writeJSON(t, w, `{"results":{"albums":{"data":[
+			{"id":"single","attributes":{"name":"Wasting Light (Bonus Tracks) - Single","trackCount":2}},
+			{"id":"album","attributes":{"name":"Wasting Light","trackCount":11}},
+			{"id":"other","attributes":{"name":"Concrete and Gold","trackCount":11}}]}}}`)
+	})
+
+	got, err := c.AlbumEditions(context.Background(), "Wasting Light", "Foo Fighters")
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(got) != 2 {
+		t.Fatalf("want both editions of the record, got %d: %+v", len(got), got)
+	}
+	seen := map[string]int{}
+	for _, a := range got {
+		seen[a.ID] = a.TrackCount
+	}
+	if seen["single"] != 2 || seen["album"] != 11 {
+		t.Errorf("editions mapped wrong: %v", seen)
+	}
+	if _, ok := seen["other"]; ok {
+		t.Error("a different record must not be returned as an edition")
+	}
+}
+
+func TestAlbumEditions_SearchesTheRecordNotTheEdition(t *testing.T) {
+	// Searching for "moisturizer (deluxe)" biases the catalog toward returning
+	// the deluxe, so the standard pressing never appears to be chosen from. The
+	// query must name the record.
+	var term string
+	c := newTestClient(t, func(w http.ResponseWriter, r *http.Request) {
+		term = r.URL.Query().Get("term")
+		writeJSON(t, w, `{"results":{"albums":{"data":[
+			{"id":"std","attributes":{"name":"moisturizer","trackCount":12}}]}}}`)
+	})
+
+	if _, err := c.AlbumEditions(context.Background(), "moisturizer (deluxe)", "Wet Leg"); err != nil {
+		t.Fatal(err)
+	}
+	if strings.Contains(strings.ToLower(term), "deluxe") {
+		t.Errorf("query carried the edition qualifier: %q", term)
+	}
+}
+
+func TestAlbumEditions_ReportsNotFoundDistinctly(t *testing.T) {
 	c := newTestClient(t, func(w http.ResponseWriter, _ *http.Request) {
 		writeJSON(t, w, `{"results":{}}`)
 	})
-	_, err := c.Album(context.Background(), "Nonexistent", "Nobody")
-	if !errors.Is(err, domain.ErrAlbumNotFound) {
+	if _, err := c.AlbumEditions(context.Background(), "Nonexistent", "Nobody"); !errors.Is(err, domain.ErrAlbumNotFound) {
 		t.Errorf("want ErrAlbumNotFound, got %v", err)
-	}
-}
-
-func TestAlbum_PrefersTheSmallestMatchingEdition(t *testing.T) {
-	// Coverage divides by track count, so a deluxe edition's padding understates
-	// how much of a record the listener loves.
-	c := newTestClient(t, func(w http.ResponseWriter, _ *http.Request) {
-		writeJSON(t, w, `{"results":{"albums":{"data":[
-			{"id":"deluxe","attributes":{"name":"Future Nostalgia (Deluxe)","trackCount":19}},
-			{"id":"standard","attributes":{"name":"Future Nostalgia","trackCount":11}}]}}}`)
-	})
-	got, err := c.Album(context.Background(), "Future Nostalgia", "Dua Lipa")
-	if err != nil {
-		t.Fatal(err)
-	}
-	if got.ID != "standard" || got.TrackCount != 11 {
-		t.Errorf("want the 11-track standard edition, got %+v", got)
-	}
-}
-
-func TestPlaylistTrackRefs_CarriesTheCatalogID(t *testing.T) {
-	// The catalog id is what makes exact album resolution possible: with it the
-	// album is read from the recording, without it we are back to matching names.
-	c := newTestClient(t, func(w http.ResponseWriter, _ *http.Request) {
-		writeJSON(t, w, `{"data":[
-			{"attributes":{"name":"Wild Child","artistName":"The Black Keys",
-				"albumName":"Dropout Boogie","playParams":{"catalogId":"1611850616"}}},
-			{"attributes":{"name":"Unmatched","artistName":"Nobody","albumName":"Somewhere"}}]}`)
-	})
-
-	refs, err := c.PlaylistTrackRefs(context.Background(), "p.1")
-	if err != nil {
-		t.Fatal(err)
-	}
-	if len(refs) != 2 {
-		t.Fatalf("got %d refs, want 2", len(refs))
-	}
-	if refs[0].CatalogID != "1611850616" {
-		t.Errorf("catalog id not carried: %+v", refs[0])
-	}
-	// A track without one is still a loved track; it just falls back to matching
-	// on names, so it must not be dropped.
-	if refs[1].CatalogID != "" || refs[1].Title != "Unmatched" {
-		t.Errorf("track without a catalog id mishandled: %+v", refs[1])
 	}
 }

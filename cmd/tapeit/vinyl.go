@@ -85,7 +85,7 @@ func cmdVinyl(ctx context.Context, args []string) error {
 
 	ranked, excluded := vinyl.RankWithExclusions(vinyl.Aggregate(apps, plays, meta, lib, o), o)
 	ranked = refineShortlist(ctx, client, ranked, meta, o, creds.Storefront)
-	printVinyl(ranked)
+	printVinyl(ranked, meta)
 	printExclusions(excluded, lib)
 	return nil
 }
@@ -401,7 +401,7 @@ func libraryDepth() map[string]int {
 	return out
 }
 
-func printVinyl(ranked []vinyl.Scored) {
+func printVinyl(ranked []vinyl.Scored, meta map[string]vinyl.AlbumMeta) {
 	if len(ranked) == 0 {
 		fmt.Println("\nno albums qualified — try --include-soundtracks or a lower --min-tracks")
 		return
@@ -414,8 +414,12 @@ func printVinyl(ranked []vinyl.Scored) {
 		if s.DoubleLP {
 			format += " 2LP"
 		}
+		name := s.Album
+		if m, ok := meta[vinyl.AlbumKey(s.Album, s.Artist)]; ok && m.Name != "" {
+			name = m.Name
+		}
 		fmt.Printf("%-3d %-34s %-19s %5.3f %3d/%-2d %5d %4.0f%% %4.0f%% %4.0f%% %s\n",
-			i+1, truncate(s.Album, 34), truncate(s.Artist, 19), s.Score,
+			i+1, truncate(name, 34), truncate(s.Artist, 19), s.Score,
 			s.LovedTracks, s.TrackCount, len(s.Years),
 			s.Observed*100, s.Coverage*100, s.Corroboration*100, format)
 	}
