@@ -17,3 +17,8 @@ coverage.*
 .DS_Store
 .idea/
 .vscode/
+
+# Personal yearly listening charts. The playlists/ collection is meant to be
+# shared, but these are one person's play history rather than a playlist worth
+# passing on — kept locally so `vinyl` can read them without publishing them.
+playlists/your-top-songs-*.json
