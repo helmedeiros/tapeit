@@ -14,6 +14,15 @@ It also maintains a portable, service-agnostic catalog of playlists as JSON unde
 [`playlists/`](playlists/) — build a list by hand, enrich it from any service,
 and recreate it anywhere.
 
+![Curating a playlist from your library around a seed artist](docs/demo/curate.gif)
+`curate` builds a playlist around an artist from the ones you group together.
+
+![Continuing an existing playlist with new tracks](docs/demo/continue.gif)
+`curate --seed-playlist` continues a playlist: more like it, without its own tracks.
+
+![Sequencing a playlist into a tempo arc](docs/demo/sequence.gif)
+`sequence --flow arc` reorders a playlist to rise to a tempo peak and ease down.
+
 > Status: **working end to end** (`pull` → `match` → `push`, plus `create` and
 > `import`), with a **playlist-intelligence** layer on top (`enrich`, `curate`,
 > `sequence`). See [`docs/DESIGN.md`](docs/DESIGN.md) for architecture and

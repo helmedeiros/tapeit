@@ -39,3 +39,7 @@ check: fmt vet lint test
 .PHONY: clean
 clean:
 	rm -rf bin dist
+
+.PHONY: demo
+demo: build
+	for tape in docs/demo/*.tape; do vhs "$$tape"; done
